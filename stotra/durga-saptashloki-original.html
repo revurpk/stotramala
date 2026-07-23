@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<!-- Copyright 2026 Pradyumna Revur — CC BY 4.0 (see LICENSE) -->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<title>Sapta-ślokī Durgā</title>
+<style>
+  :root{
+    --paper:#f7f1e6;
+    --ink:#2b2118;
+    --ink-soft:#6a5c48;
+    --accent:#9a2f1f;
+    --rule:#d8cbb2;
+    --gloss:#5a4d3b;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --paper:#16130f;
+      --ink:#ece2d0;
+      --ink-soft:#a99c85;
+      --accent:#e0a24b;
+      --rule:#3a3226;
+      --gloss:#b6a98d;
+    }
+  }
+  *{box-sizing:border-box;}
+  html{-webkit-text-size-adjust:100%;}
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,"Times New Roman",serif;
+    line-height:1.6;
+    font-size:19px;
+    -webkit-font-smoothing:antialiased;
+    text-rendering:optimizeLegibility;
+  }
+  .page{
+    max-width:34rem;
+    margin:0 auto;
+    padding:calc(env(safe-area-inset-top) + 2.4rem) 1.5rem calc(env(safe-area-inset-bottom) + 3.5rem);
+  }
+
+  /* ---- Title block ---- */
+  header{
+    text-align:center;
+    margin:1.2rem 0 2.6rem;
+  }
+  .om{
+    font-size:2.2rem;
+    color:var(--accent);
+    line-height:1;
+    margin-bottom:1.1rem;
+  }
+  h1{
+    font-size:1.75rem;
+    font-weight:600;
+    letter-spacing:.01em;
+    margin:0 0 .35rem;
+    line-height:1.25;
+  }
+  .subtitle{
+    font-size:.95rem;
+    font-style:italic;
+    color:var(--ink-soft);
+    margin:0;
+  }
+  .titlerule{
+    width:3.4rem;
+    height:1px;
+    background:var(--rule);
+    border:0;
+    margin:1.6rem auto 0;
+  }
+
+  /* ---- Speaker headings ---- */
+  .speaker{
+    text-align:center;
+    font-variant:small-caps;
+    letter-spacing:.16em;
+    font-size:.86rem;
+    color:var(--accent);
+    margin:2.8rem 0 1.4rem;
+  }
+
+  /* ---- Verses ---- */
+  .verse{
+    margin:0 0 2.4rem;
+  }
+  .lines{
+    text-align:center;
+    font-size:1.18rem;
+    line-height:1.72;
+    margin:0 0 .9rem;
+  }
+  .lines em{font-style:normal;}
+  .num{
+    display:block;
+    margin-top:.5rem;
+    font-size:.8rem;
+    color:var(--accent);
+    letter-spacing:.1em;
+  }
+  /* ---- Gloss (collapsible) ---- */
+  .gloss{
+    max-width:30rem;
+    margin:0 auto;
+    padding:0 .2rem;
+    text-align:center;
+  }
+  .gloss > summary{
+    list-style:none;
+    cursor:pointer;
+    display:inline-flex;
+    align-items:baseline;
+    gap:.45em;
+    font-variant:small-caps;
+    letter-spacing:.12em;
+    font-size:.74rem;
+    color:var(--accent);
+    opacity:.85;
+    padding:.2rem .3rem;
+    -webkit-tap-highlight-color:transparent;
+  }
+  .gloss > summary::-webkit-details-marker{display:none;}
+  .gloss > summary::marker{content:"";}
+  .gloss > summary::after{
+    content:"+";
+    font-variant:normal;
+    letter-spacing:0;
+    font-size:.92rem;
+    line-height:1;
+    opacity:.7;
+  }
+  .gloss[open] > summary::after{content:"\2013";}
+  .gloss[open] > summary{margin-bottom:.5rem;}
+  .gloss > summary:hover,.gloss > summary:focus-visible{opacity:1;}
+  .gloss p{
+    font-size:.98rem;
+    line-height:1.6;
+    color:var(--gloss);
+    font-style:italic;
+    text-align:left;
+    margin:0;
+  }
+  .viniyoga .lines{
+    font-size:1.02rem;
+    line-height:1.7;
+  }
+
+  /* ---- Section divider ---- */
+  .ornament{
+    text-align:center;
+    color:var(--rule);
+    font-size:1.1rem;
+    letter-spacing:.6em;
+    margin:2.4rem 0;
+    padding-left:.6em;
+  }
+
+  /* ---- Colophon ---- */
+  .colophon{
+    text-align:center;
+    font-variant:small-caps;
+    letter-spacing:.14em;
+    font-size:.9rem;
+    color:var(--accent);
+    margin:3rem 0 .6rem;
+  }
+  .colophon-gloss{
+    text-align:center;
+    font-style:italic;
+    color:var(--ink-soft);
+    font-size:.9rem;
+    margin:0;
+  }
+  footer{
+    margin-top:3.4rem;
+    padding-top:1.4rem;
+    border-top:1px solid var(--rule);
+    text-align:center;
+    font-size:.78rem;
+    color:var(--ink-soft);
+    line-height:1.7;
+  }
+  footer a{color:inherit;}
+</style>
+</head>
+<body>
+<main class="page">
+
+  <header>
+    <div class="om">॥ ॐ ॥</div>
+    <h1>Śrī Durgā Sapta-ślokī</h1>
+    <p class="subtitle">The Seven Verses of Durgā</p>
+    <hr class="titlerule">
+  </header>
+
+  <div class="speaker">śiva uvāca</div>
+
+  <div class="verse">
+    <p class="lines">
+      dēvī tvaṃ bhaktasulabhē sarvakāryavidhāyini &vert;<br>
+      kalau hi kāryasiddhyarthamupāyaṃ brūhi yatnataḥ &Vert;
+    </p>
+    <details class="gloss">
+      <summary>translation</summary>
+      <p>Śiva said: O Goddess, so easily won by those who love You, fulfiller of every task — in this age of Kali, tell me carefully the means by which every endeavor may be brought to fruition.</p>
+    </details>
+  </div>
+
+  <div class="speaker">dēvyuvāca</div>
+
+  <div class="verse">
+    <p class="lines">
+      śṛṇu dēva pravakṣyāmi kalau sarvēṣṭasādhanam &vert;<br>
+      mayā tavaiva snēhēnāpyambāstutiḥ prakāśyatē &Vert;
+    </p>
+    <details class="gloss">
+      <summary>translation</summary>
+      <p>The Goddess said: Listen, O Lord, and I will reveal the means to fulfill every desire in the age of Kali. Out of love for you alone, I now disclose this hymn in praise of the Divine Mother.</p>
+    </details>
+  </div>
+
+  <div class="verse viniyoga">
+    <p class="lines">
+      asya śrī durgā saptaślōkī stōtramantrasya nārāyaṇa ṛṣiḥ,
+      anuṣṭup chandaḥ, śrī mahākāḻī mahālakṣmī mahāsarasvatyō dēvatāḥ,
+      śrī durgā prītyarthaṃ saptaślōkī durgāpāṭhē viniyōgaḥ &vert;
+    </p>
+    <details class="gloss">
+      <summary>translation</summary>
+      <p>For this sacred Durgā Sapta-ślokī hymn, the seer is Nārāyaṇa, the meter is Anuṣṭubh, and the presiding deities are Śrī Mahākālī, Mahālakṣmī, and Mahāsarasvatī. It is recited to win the loving grace of Śrī Durgā.</p>
+    </details>
+  </div>
+
+  <div class="ornament">❧</div>
+
+  <div class="verse">
+    <p class="lines">
+      jñānināmapi chētāṃsi dēvī bhagavatī hi sā &vert;<br>
+      balādākṛṣya mōhāya mahāmāyā prayacchati
+      <span class="num">॥ 1 ॥</span>
+    </p>
+    <details class="gloss">
+      <summary>translation</summary>
+      <p>That divine and blessed Goddess, the Great Illusion (Mahāmāyā), forcibly draws away even the minds of the wise and casts them into delusion.</p>
+    </details>
+  </div>
+
+  <div class="verse">
+    <p class="lines">
+      durgē smṛtā harasi bhītimaśēṣajantōḥ<br>
+      svasthaiḥ smṛtā matimatīva śubhāṃ dadāsi &vert;<br>
+      dāridryaduḥkhabhayahāriṇi kā tvadanyā<br>
+      sarvōpakārakaraṇāya sadārdrachittā
+      <span class="num">॥ 2 ॥</span>
+    </p>
+    <details class="gloss">
+      <summary>translation</summary>
+      <p>O Durgā, when remembered in distress, You dispel the fear of every living being; when remembered in peace, You grant a mind serene and radiant with grace. Remover of poverty, sorrow, and fear — who other than You exists, whose heart is always tender and devoted to the good of all?</p>
+    </details>
+  </div>
+
+  <div class="verse">
+    <p class="lines">
+      sarvamaṅgaḻamāṅgaḻyē śivē sarvārthasādhikē &vert;<br>
+      śaraṇyē tryambakē gaurī nārāyaṇi namō'stu tē
+      <span class="num">॥ 3 ॥</span>
+    </p>
+    <details class="gloss">
+      <summary>translation</summary>
+      <p>O auspiciousness of all that is auspicious, O gracious one who fulfills every purpose, O refuge of all, O three-eyed Gaurī, O Nārāyaṇī — salutations to You.</p>
+    </details>
+  </div>
+
+  <div class="verse">
+    <p class="lines">
+      śaraṇāgatadīnārtaparitrāṇaparāyaṇē &vert;<br>
+      sarvasyārtiharē dēvi nārāyaṇi namō'stu tē
+      <span class="num">॥ 4 ॥</span>
+    </p>
+    <details class="gloss">
+      <summary>translation</summary>
+      <p>O You who are devoted to rescuing the lowly and the afflicted who come to You for shelter, O Devī who removes the suffering of all, O Nārāyaṇī — salutations to You.</p>
+    </details>
+  </div>
+
+  <div class="verse">
+    <p class="lines">
+      sarvasvarūpē sarvēśē sarvaśaktisamanvitē &vert;<br>
+      bhayēbhyastrāhi nō dēvi durgē dēvi namō'stu tē
+      <span class="num">॥ 5 ॥</span>
+    </p>
+    <details class="gloss">
+      <summary>translation</summary>
+      <p>O You who are the form of all, sovereign of all, endowed with every power — protect us from all fears, O Devī Durgā; salutations to You.</p>
+    </details>
+  </div>
+
+  <div class="verse">
+    <p class="lines">
+      rōgānaśēṣānapahaṃsi tuṣṭā-<br>
+      ruṣṭā tu kāmān sakalānabhīṣṭān &vert;<br>
+      tvāmāśritānāṃ na vipannarāṇāṃ<br>
+      tvāmāśritā hyāśrayatāṃ prayānti
+      <span class="num">॥ 6 ॥</span>
+    </p>
+    <details class="gloss">
+      <summary>translation</summary>
+      <p>When pleased, You take away every illness without exception; when angered, You undo all that is longed for and desired. Yet those who take refuge in You never fall into ruin — indeed, those who are sheltered by You become a shelter for others.</p>
+    </details>
+  </div>
+
+  <div class="verse">
+    <p class="lines">
+      sarvabādhāpraśamanaṃ trailōkyasyākhilēśvari &vert;<br>
+      ēvamēva tvayā kāryamasmadvairivināśanam
+      <span class="num">॥ 7 ॥</span>
+    </p>
+    <details class="gloss">
+      <summary>translation</summary>
+      <p>O Sovereign of all three worlds, You who quiet every affliction — so too may You bring about the destruction of all that stands against us.</p>
+    </details>
+  </div>
+
+  <div class="ornament">❧</div>
+
+  <p class="colophon">iti śrī durgā saptaślōkī</p>
+  <p class="colophon-gloss">Thus concludes the sacred Seven Verses of Durgā.</p>
+
+  <footer>
+    Source: shlokam.org — <span style="white-space:nowrap;">Sri Durga Sapta Shloki</span>
+  </footer>
+
+</main>
+</body>
+</html>
