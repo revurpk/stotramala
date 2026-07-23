@@ -107,3 +107,17 @@ and no web fonts are fetched.**
 ## 3. Third-party code
 
 None. No libraries, frameworks, or scripts of any kind are used.
+
+## 4. Icon artwork
+
+`icon.svg`, `apple-touch-icon.png`, `icon-512.png` and `favicon-32.png`
+are **original work by the maintainer**, released under CC BY 4.0 with
+the rest of the repository. The mark is a mālā of twelve beads — the
+larger *meru* bead at the bottom — constructed from plain circles on
+the repository's own palette (`#9a2f1f` on `#f7f1e6`). No third-party
+artwork, icon set, glyph, or font is used or embedded: the beads are
+geometry, not a typeset character, so nothing about the icon depends on
+an external asset or licence.
+
+All four files are generated from a single geometry definition, so the
+raster and vector forms cannot drift apart.
