@@ -10,6 +10,8 @@ Every stotra ships with the Sanskrit text in Roman transliteration and a
 plain-English gloss written for the language enthusiast rather than the
 specialist.
 
+**Read it: <https://revurpk.github.io/stotramala/>**
+
 ## Contents
 
 | Stotra | Editions |
@@ -35,27 +37,25 @@ synced folder from any computer, then open it in Files on the phone.
 Tap the ⌄ **download** icon once so the file is stored on the device
 rather than streamed — after that it works in Airplane Mode.
 
-**3. Download from a URL.** If you publish the repo (GitHub Pages, or
-any static host), open the stotra's URL in Safari and use
-**Share → Options → Web Archive → Save to Files**. A plain *Add to
-Reading List* also works but keeps Safari's own formatting.
+**3. Download from the site.** Open the stotra on
+<https://revurpk.github.io/stotramala/> in Safari and use **Share →
+Options → Web Archive → Save to Files**. A plain *Add to Reading List*
+also works but keeps Safari's own formatting.
 
 To fetch a copy from the command line before transferring:
 
 ```bash
-curl -fL -o durga-saptashloki.html https://<your-host>/stotra/durga-saptashloki-iast.html
+curl -fL -o durga-saptashloki.html https://revurpk.github.io/stotramala/stotra/durga-saptashloki-iast.html
 ```
-
-Note that GitHub `raw.githubusercontent.com` links to a **private**
-repo require a token, so publish the repo or use routes 1–2 instead.
 
 ### Home-screen icon
 
-*Share → Add to Home Screen* gives the page the mālā icon and launches
-it chrome-free, but Safari only offers it for pages loaded over
-`http(s)` — not for a file opened from Files. So if you want the
-home-screen app, serve the folder (GitHub Pages, or `python -m
-http.server` on your LAN) and add it from there; the page still works
+Open <https://revurpk.github.io/stotramala/> in Safari and choose
+**Share → Add to Home Screen**: the page gets the mālā icon and
+launches chrome-free. Safari offers this only for pages served over
+`http(s)`, never for a file opened from Files — so the home-screen app
+has to come from the site (or from `python -m http.server` on your
+LAN), not from an AirDropped copy. Either way the page still works
 offline afterwards, since nothing in it is ever fetched.
 
 ## Icon
