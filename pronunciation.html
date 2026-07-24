@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<!-- Copyright 2026 Pradyumna Revur — CC BY 4.0 (see LICENSE) -->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20180%20180%22%3E%3Crect%20width%3D%22180%22%20height%3D%22180%22%20rx%3D%2232%22%20fill%3D%22%23f7f1e6%22%2F%3E%3Ccircle%20cx%3D%2290.00%22%20cy%3D%22140.00%22%20r%3D%2215%22%20fill%3D%22%239a2f1f%22%2F%3E%3Ccircle%20cx%3D%2265.00%22%20cy%3D%22133.30%22%20r%3D%2211%22%20fill%3D%22%239a2f1f%22%2F%3E%3Ccircle%20cx%3D%2246.70%22%20cy%3D%22115.00%22%20r%3D%2211%22%20fill%3D%22%239a2f1f%22%2F%3E%3Ccircle%20cx%3D%2240.00%22%20cy%3D%2290.00%22%20r%3D%2211%22%20fill%3D%22%239a2f1f%22%2F%3E%3Ccircle%20cx%3D%2246.70%22%20cy%3D%2265.00%22%20r%3D%2211%22%20fill%3D%22%239a2f1f%22%2F%3E%3Ccircle%20cx%3D%2265.00%22%20cy%3D%2246.70%22%20r%3D%2211%22%20fill%3D%22%239a2f1f%22%2F%3E%3Ccircle%20cx%3D%2290.00%22%20cy%3D%2240.00%22%20r%3D%2211%22%20fill%3D%22%239a2f1f%22%2F%3E%3Ccircle%20cx%3D%22115.00%22%20cy%3D%2246.70%22%20r%3D%2211%22%20fill%3D%22%239a2f1f%22%2F%3E%3Ccircle%20cx%3D%22133.30%22%20cy%3D%2265.00%22%20r%3D%2211%22%20fill%3D%22%239a2f1f%22%2F%3E%3Ccircle%20cx%3D%22140.00%22%20cy%3D%2290.00%22%20r%3D%2211%22%20fill%3D%22%239a2f1f%22%2F%3E%3Ccircle%20cx%3D%22133.30%22%20cy%3D%22115.00%22%20r%3D%2211%22%20fill%3D%22%239a2f1f%22%2F%3E%3Ccircle%20cx%3D%22115.00%22%20cy%3D%22133.30%22%20r%3D%2211%22%20fill%3D%22%239a2f1f%22%2F%3E%3C%2Fsvg%3E">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="apple-mobile-web-app-title" content="IAST">
+<title>How to Pronounce IAST</title>
+<style>
+  :root{
+    --paper:#f7f1e6;
+    --ink:#2b2118;
+    --ink-soft:#6a5c48;
+    --accent:#9a2f1f;
+    --rule:#d8cbb2;
+    --gloss:#5a4d3b;
+    --tint:rgba(154,47,31,.05);
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --paper:#16130f;
+      --ink:#ece2d0;
+      --ink-soft:#a99c85;
+      --accent:#e0a24b;
+      --rule:#3a3226;
+      --gloss:#b6a98d;
+      --tint:rgba(224,162,75,.07);
+    }
+  }
+  *{box-sizing:border-box;}
+  html{-webkit-text-size-adjust:100%;}
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,"Times New Roman",serif;
+    line-height:1.62;
+    font-size:20px;
+    -webkit-font-smoothing:antialiased;
+    text-rendering:optimizeLegibility;
+  }
+  .page{
+    max-width:34rem;
+    margin:0 auto;
+    padding:calc(env(safe-area-inset-top) + 2.4rem) 1.4rem calc(env(safe-area-inset-bottom) + 3.5rem);
+  }
+
+  header{text-align:center;margin:1.2rem 0 2.4rem;}
+  .om{font-size:2.4rem;color:var(--accent);line-height:1.2;margin-bottom:1rem;}
+  h1{font-size:1.7rem;font-weight:600;margin:0 0 .35rem;line-height:1.25;}
+  .subtitle{font-size:1rem;font-style:italic;color:var(--ink-soft);margin:0;}
+  .titlerule{width:3.4rem;height:1px;background:var(--rule);border:0;margin:1.5rem auto 0;}
+
+  h2{
+    font-size:1.02rem;
+    font-weight:600;
+    font-variant:small-caps;
+    letter-spacing:.11em;
+    color:var(--accent);
+    margin:2.6rem 0 .9rem;
+    padding-bottom:.4rem;
+    border-bottom:1px solid var(--rule);
+  }
+  h3{
+    font-size:1rem;
+    font-weight:600;
+    margin:1.6rem 0 .5rem;
+  }
+  p{margin:0 0 1rem;}
+  .lead{color:var(--gloss);}
+
+  /* letters shown inline */
+  b.l,strong.l{
+    font-weight:600;
+    color:var(--accent);
+    font-size:1.06em;
+  }
+
+  /* key/value rows — used for vowels and marks */
+  dl{margin:0 0 1.2rem;}
+  .row{
+    display:grid;
+    grid-template-columns:3.1rem 1fr;
+    gap:.15rem .7rem;
+    padding:.5rem 0;
+    border-bottom:1px solid var(--rule);
+    align-items:baseline;
+  }
+  .row:first-of-type{border-top:1px solid var(--rule);}
+  .row dt{
+    font-size:1.3rem;
+    color:var(--accent);
+    line-height:1.2;
+  }
+  .row dd{margin:0;font-size:.92rem;line-height:1.5;}
+  .row dd em{color:var(--ink);font-style:italic;}
+  .row dd .warn{color:var(--accent);font-style:normal;}
+
+  /* varga grid */
+  .tablewrap{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:0 0 .6rem;}
+  table{
+    border-collapse:collapse;
+    width:100%;
+    min-width:19rem;
+    font-size:.9rem;
+  }
+  caption{
+    caption-side:bottom;
+    text-align:left;
+    font-size:.82rem;
+    color:var(--ink-soft);
+    font-style:italic;
+    padding-top:.6rem;
+    line-height:1.5;
+  }
+  th,td{
+    padding:.42rem .3rem;
+    text-align:center;
+    border-bottom:1px solid var(--rule);
+  }
+  thead th{
+    font-size:.68rem;
+    font-variant:small-caps;
+    letter-spacing:.07em;
+    color:var(--ink-soft);
+    font-weight:400;
+    line-height:1.3;
+  }
+  tbody th{
+    text-align:left;
+    font-weight:400;
+    font-size:.78rem;
+    color:var(--ink-soft);
+    white-space:nowrap;
+    padding-right:.5rem;
+  }
+  tbody td{
+    color:var(--accent);
+    font-size:1.08rem;
+  }
+
+  .callout{
+    background:var(--tint);
+    border-left:2px solid var(--accent);
+    padding:.85rem 1rem;
+    margin:0 0 1.2rem;
+    font-size:.94rem;
+    line-height:1.55;
+  }
+  .callout p{margin:0 0 .6rem;}
+  .callout p:last-child{margin:0;}
+  .callout .t{
+    font-variant:small-caps;
+    letter-spacing:.1em;
+    color:var(--accent);
+    font-size:.8rem;
+    display:block;
+    margin-bottom:.3rem;
+  }
+
+  ol.big{margin:0 0 1.2rem;padding-left:1.3rem;}
+  ol.big li{margin-bottom:.7rem;padding-left:.2rem;}
+
+  .back{
+    display:inline-block;
+    margin-top:.5rem;
+    text-decoration:none;
+    color:var(--accent);
+    border:1px solid var(--rule);
+    border-radius:2rem;
+    padding:.32rem .95rem;
+    font-size:.85rem;
+  }
+  .back:hover,.back:focus{border-color:var(--accent);}
+
+  footer{
+    margin-top:3rem;
+    padding-top:1.3rem;
+    border-top:1px solid var(--rule);
+    text-align:center;
+    font-size:.8rem;
+    color:var(--ink-soft);
+    line-height:1.7;
+  }
+</style>
+</head>
+<body>
+<main class="page">
+
+  <header>
+    <div class="om">ॐ</div>
+    <h1>How to Pronounce IAST</h1>
+    <p class="subtitle">A guide for the complete beginner</p>
+    <hr class="titlerule">
+  </header>
+
+  <p class="lead">IAST (the International Alphabet of Sanskrit
+  Transliteration) writes Sanskrit in Roman letters with dots and bars
+  added. Those marks are not decoration — each one changes the sound,
+  and often the meaning. The good news is that the system is perfectly
+  regular: <strong>one letter always makes one sound.</strong> Learn the
+  marks once and you can read any Sanskrit text aloud.</p>
+
+  <h2>Five things to know first</h2>
+
+  <ol class="big">
+    <li><b class="l">c</b> is the <em>ch</em> of <em>church</em> — never
+      a <em>k</em> and never an <em>s</em>. So <em>cetāṃsi</em> begins
+      like <em>chetting</em>, not <em>ketting</em>.</li>
+    <li>A bar over a vowel (<b class="l">ā ī ū</b>) means <strong>hold it
+      about twice as long</strong>. That is all it means. It is not
+      stress.</li>
+    <li>An <b class="l">h</b> after a consonant is a <strong>puff of
+      breath</strong>, not a new sound. <em>th</em> is never the
+      <em>th</em> of <em>thin</em>; <em>ph</em> is never the <em>ph</em>
+      of <em>phone</em>.</li>
+    <li>A dot under a letter (<b class="l">ṭ ḍ ṇ ṣ</b>) means
+      <strong>curl your tongue back</strong> to touch the roof of the
+      mouth.</li>
+    <li>Give <strong>every syllable its full value</strong>. English
+      swallows unstressed syllables; Sanskrit does not.</li>
+  </ol>
+
+  <h2>Vowels</h2>
+
+  <dl>
+    <div class="row"><dt>a</dt><dd>the <em>u</em> in <em>cut</em> — short and neutral. <span class="warn">Not the <em>a</em> of <em>cat</em>.</span></dd></div>
+    <div class="row"><dt>ā</dt><dd>the <em>a</em> in <em>father</em> — the same sound held longer</dd></div>
+    <div class="row"><dt>i</dt><dd>the <em>i</em> in <em>sit</em></dd></div>
+    <div class="row"><dt>ī</dt><dd>the <em>ee</em> in <em>meet</em></dd></div>
+    <div class="row"><dt>u</dt><dd>the <em>u</em> in <em>put</em></dd></div>
+    <div class="row"><dt>ū</dt><dd>the <em>oo</em> in <em>mood</em></dd></div>
+    <div class="row"><dt>ṛ</dt><dd>a vowel made of <em>r</em> — roughly the <em>ri</em> of <em>rich</em>, or the <em>er</em> of American <em>butter</em>. Widely said as <em>ru</em> in South India.</dd></div>
+    <div class="row"><dt>ṝ</dt><dd>the same, held longer (very rare)</dd></div>
+    <div class="row"><dt>ḷ</dt><dd>a vowel made of <em>l</em> (rarer still)</dd></div>
+    <div class="row"><dt>e</dt><dd>the <em>ay</em> in <em>may</em> — <strong>always long</strong>, which is why it needs no bar</dd></div>
+    <div class="row"><dt>ai</dt><dd>the <em>y</em> in <em>my</em></dd></div>
+    <div class="row"><dt>o</dt><dd>the <em>o</em> in <em>go</em> — <strong>always long</strong></dd></div>
+    <div class="row"><dt>au</dt><dd>the <em>ow</em> in <em>cow</em></dd></div>
+  </dl>
+
+  <div class="callout">
+    <span class="t">why e and o have no bar</span>
+    <p>In Sanskrit these two vowels are long by nature — a short
+    <em>e</em> or <em>o</em> does not exist. Marking them would be
+    redundant, so IAST leaves them bare. Texts printed for South Indian
+    readers often write <em>ē</em> and <em>ō</em> anyway, out of habit
+    from Telugu and Kannada, which <em>do</em> distinguish short from
+    long.</p>
+  </div>
+
+  <h2>The consonant grid</h2>
+
+  <p>Sanskrit arranges its stops in five groups, ordered from the back
+  of the mouth to the lips. Each group runs through the same five
+  slots, so once you see the pattern there is very little to
+  memorise.</p>
+
+  <div class="tablewrap">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col"></th>
+          <th scope="col">plain</th>
+          <th scope="col">+ breath</th>
+          <th scope="col">voiced</th>
+          <th scope="col">voiced<br>+ breath</th>
+          <th scope="col">nasal</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><th scope="row">Throat</th><td>k</td><td>kh</td><td>g</td><td>gh</td><td>ṅ</td></tr>
+        <tr><th scope="row">Palate</th><td>c</td><td>ch</td><td>j</td><td>jh</td><td>ñ</td></tr>
+        <tr><th scope="row">Curled</th><td>ṭ</td><td>ṭh</td><td>ḍ</td><td>ḍh</td><td>ṇ</td></tr>
+        <tr><th scope="row">Teeth</th><td>t</td><td>th</td><td>d</td><td>dh</td><td>n</td></tr>
+        <tr><th scope="row">Lips</th><td>p</td><td>ph</td><td>b</td><td>bh</td><td>m</td></tr>
+      </tbody>
+      <caption>Read across: the same five articulations, five times
+      over. “Curled” is the retroflex row — tongue tip turned back to
+      the roof of the mouth.</caption>
+    </table>
+  </div>
+
+  <h3>The three that trip people up</h3>
+
+  <dl>
+    <div class="row"><dt>c</dt><dd>the <em>ch</em> of <em>church</em>. <em>ch</em> is the same with an added puff.</dd></div>
+    <div class="row"><dt>ṅ</dt><dd>the <em>ng</em> of <em>sing</em></dd></div>
+    <div class="row"><dt>ñ</dt><dd>the <em>ny</em> of <em>canyon</em></dd></div>
+  </dl>
+
+  <h3>Curled against teeth</h3>
+
+  <p>English <em>t</em> and <em>d</em> sit between the two Sanskrit
+  rows, so both will sound slightly off at first. For the
+  <strong>teeth</strong> row (<b class="l">t th d dh n</b>) press your
+  tongue flat against the back of your upper teeth — softer than
+  English. For the <strong>curled</strong> row
+  (<b class="l">ṭ ṭh ḍ ḍh ṇ</b>) curl the tip back and strike the roof
+  of the mouth — this is the sound English speakers hear as
+  “Indian-accented” <em>t</em> and <em>d</em>.</p>
+
+  <h2>Semivowels and sibilants</h2>
+
+  <dl>
+    <div class="row"><dt>y</dt><dd>the <em>y</em> in <em>yes</em></dd></div>
+    <div class="row"><dt>r</dt><dd>a light tap of the tongue, as in Spanish <em>pero</em> — not the English bunched <em>r</em></dd></div>
+    <div class="row"><dt>l</dt><dd>the <em>l</em> in <em>let</em></dd></div>
+    <div class="row"><dt>v</dt><dd>between English <em>v</em> and <em>w</em>. After another consonant it leans toward <em>w</em>: <em>svasthaiḥ</em> ≈ <em>swasthaiḥ</em>.</dd></div>
+    <div class="row"><dt>ḷ</dt><dd>a curled <em>l</em>, tongue back at the roof of the mouth — as in <em>mahākāḷī</em></dd></div>
+    <div class="row"><dt>ś</dt><dd>the <em>sh</em> of <em>ship</em>, tongue forward</dd></div>
+    <div class="row"><dt>ṣ</dt><dd>an <em>sh</em> with the tongue curled back — deeper and duller than <em>ś</em></dd></div>
+    <div class="row"><dt>s</dt><dd>the plain <em>s</em> of <em>sun</em></dd></div>
+    <div class="row"><dt>h</dt><dd>the <em>h</em> of <em>hat</em>, always voiced and audible</dd></div>
+  </dl>
+
+  <div class="callout">
+    <span class="t">ś versus ṣ</span>
+    <p>Both are “sh” sounds and beginners may treat them alike without
+    being badly misunderstood. The difference: <em>ś</em> is made with
+    the tongue near the front, <em>ṣ</em> with it curled back. So
+    <em>śiva</em> uses the forward one and <em>kṛṣṇa</em> the curled
+    one.</p>
+  </div>
+
+  <h2>The three special marks</h2>
+
+  <dl>
+    <div class="row"><dt>ṃ</dt><dd><strong>anusvāra</strong> — a nasal that takes its colour from whatever follows. Before <em>k</em> or <em>g</em> it is <em>ng</em>; before <em>p</em> or <em>b</em> it is <em>m</em>. At the end of a word, say it as <em>m</em>: <em>tvaṃ</em> ≈ <em>tvam</em>.</dd></div>
+    <div class="row"><dt>ḥ</dt><dd><strong>visarga</strong> — a light breath at the end of a word that faintly echoes the vowel before it. <em>namaḥ</em> ≈ <em>nama-ha</em>, the echo much softer than the main vowel.</dd></div>
+    <div class="row"><dt>’</dt><dd><strong>avagraha</strong> — marks a short <em>a</em> that has dropped out after <em>e</em> or <em>o</em>. In <em>namo’stu</em>, simply do not pronounce anything there: say <em>namostu</em>.</dd></div>
+  </dl>
+
+  <h2>Reading the verses</h2>
+
+  <h3>The vertical bars</h3>
+
+  <p>A single bar <b class="l">|</b> (<em>daṇḍa</em>) closes the first
+  half of a verse — pause as you would at a comma. A double bar
+  <b class="l">||</b> closes the verse, like a full stop. The numeral
+  between two bars is the verse number, not something to be read
+  aloud.</p>
+
+  <h3>Doubled consonants</h3>
+
+  <p>When a consonant is written twice, hold it — the delay is real and
+  it carries the metre. <em>prayacchati</em> pauses on the
+  <em>cch</em>, much as the <em>k</em> is held across
+  <em>black&nbsp;cat</em>.</p>
+
+  <h3>Spacing between words</h3>
+
+  <p>Sanskrit verse is composed as a continuous stream of sound, and
+  neighbouring words fuse at their edges by rules called
+  <em>sandhi</em>. Editions like this one insert spaces to show where
+  the individual words lie, which makes the grammar visible and the
+  page far easier to read. When reciting, though, let the words run
+  together across those spaces: the metre depends on it.</p>
+
+  <div class="callout">
+    <span class="t">a note on tone</span>
+    <p>Sanskrit has no word stress in the English sense. Rather than
+    leaning on one syllable of each word, keep an even pace and let the
+    long vowels — and only the long vowels — take extra time. That
+    steadiness is most of what makes recitation sound right.</p>
+  </div>
+
+  <p style="text-align:center;margin-top:2.4rem;">
+    <a class="back" href="index.html">← All stotras</a>
+  </p>
+
+  <footer>
+    Copyright 2026 Pradyumna Revur · <span style="white-space:nowrap;">CC BY 4.0</span>
+  </footer>
+
+</main>
+</body>
+</html>

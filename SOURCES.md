@@ -86,7 +86,31 @@ unchanged.
 Applied at the maintainer's direction. The `-original` edition retains
 `gaurī` as received.
 
-### 1.6 The ॐ glyph
+### 1.6 Word division (*padaccheda*), `-iast` edition
+
+The `-iast` edition separates the compounds and sandhi-joined words of
+the received text with spaces and hyphens, so a reader can see where
+one word ends and the next begins. This is a **presentational reading
+aid, not a change to the text**: no syllable is added, removed, or
+altered, and the recited sound is unchanged. Hyphens mark joins where
+a space would misrepresent the sandhi; `pronunciation.html` tells the
+reader to run the words together when reciting. The `-original`
+edition keeps the received continuous spelling.
+
+Three divisions were corrected after review:
+
+| # | First split as | Corrected to | Reason |
+|---|---|---|---|
+| 1 | `mati matīva` (v. 2) | `matim atīva` | The compound is *matim* (acc. sg. of *mati*) + *atīva*, "an exceedingly auspicious mind". The first division dropped the *-m* and left *matīva*, which is not a word. |
+| 2 | `hyā śrayatāṃ` (v. 6) | `hy-āśrayatāṃ` | The join is *hi* + *āśrayatām*; the *ā-* belongs to the stem *āśraya*, "refuge". The first division cut inside the stem, yielding two non-words and losing the sense the translation rests on. |
+| 3 | `snehenāpi ambāstutiḥ` | `snehenāpy-ambāstutiḥ` | Correct as *padaccheda*, but undoing the sandhi *api + ambā → apy ambā* lengthens the pāda from eight syllables to nine and breaks the anuṣṭubh. The hyphen shows the join without altering what is chanted. |
+
+Correction 3 is the reason hyphens, not spaces, are used wherever
+separating the words would change the syllable count — the same
+convention already applied in *balād-ākṛṣya*, *tvad-anyā*,
+*bhayebhyas-trāhi*, and *trailokyasy-ākhileśvari*.
+
+### 1.7 The ॐ glyph
 
 The `-iast` edition opens with the Devanagari **ॐ** rather than a
 romanized *oṃ*, at the maintainer's direction: it functions as a sacred
