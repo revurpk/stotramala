@@ -16,17 +16,20 @@ specialist.
 
 | Stotra | Editions |
 |---|---|
-| Śrī Durgā Saptaślokī — the Seven Verses of Durgā | [strict IAST](stotra/durga-saptashloki-iast.html) · [source orthography](stotra/durga-saptashloki-original.html) |
+| Śrī Durgā Saptaślokī — the Seven Verses of Durgā | [IAST · देवनागरी · తెలుగు](stotra/durga-saptashloki-iast.html) · [source orthography](stotra/durga-saptashloki-original.html) |
 
 Open `index.html` for the browsable list, or open any file in
-`stotra/` directly.
+`stotra/` directly. The main edition renders the verses in **IAST,
+Devanāgarī, or Telugu** — pick a script from the bar at the top; the
+choice is remembered.
 
 ## Reading a stotra offline on an iPhone
 
-Each stotra is one file with everything inlined, so once it is on the
-phone it needs no network at all — ever. Pick whichever route suits
-you; all three end with a file in the **Files** app that you tap to
-read.
+Each stotra is one self-contained file — nothing is ever fetched, and
+the script selector's transliterator is inlined into the page — so once
+it is on the phone it works completely offline, script switching and
+all. Pick whichever route suits you; all three end with a file in the
+**Files** app that you tap to read.
 
 **1. AirDrop (simplest, from a Mac).** AirDrop the `.html` to the
 phone, choose **Save to Files**, then tap it in Files. It opens in a
@@ -84,7 +87,9 @@ scheme used by the source is not always strict IAST:
 - **`-iast`** — strict IAST throughout: `e`/`o` without macrons (both
   are inherently long in Sanskrit), `c` for च and `ch` for छ, `ḷ` for
   ळ, and daṇḍas romanized as `|` and `||`. The invocation ॐ is kept as
-  the Devanagari emblem.
+  the Devanagari emblem. This page also renders the verses in
+  **Devanāgarī and Telugu** on demand, transliterated from the IAST at
+  read time (see below).
 - **`-original`** — the romanization as received from the source
   (`ē`/`ō`, `ch` for च), corrected only for demonstrable typographic
   damage. Retained so the source reading stays inspectable.
@@ -95,25 +100,47 @@ Every difference between the two is logged in [SOURCES.md](SOURCES.md).
 
 These are binding for anything added to this repo:
 
-1. **One file per stotra.** All CSS inline; no JavaScript; no external
-   fonts, stylesheets, images, or analytics. A file must render
-   identically with the network switched off. The favicon is inlined as
-   an SVG `data:` URI so a page carries its own icon even when the
-   single file is copied or AirDropped on its own; the only sibling
-   reference is `apple-touch-icon.png`, and a missing one costs nothing
-   but the home-screen icon.
-2. **System fonts only.** A serif stack (Iowan Old Style / Palatino /
-   Georgia) that is present on iOS, macOS, and Windows. Devanagari, if
-   used, falls back to the platform's own Devanagari face.
-3. **Legible on a phone first.** Single column, `viewport-fit=cover`
+1. **Self-contained and offline-first.** All CSS inline; no external
+   fonts, stylesheets, images, analytics, or network requests of any
+   kind — a page must render identically with the network switched off.
+   The favicon is inlined as an SVG `data:` URI so a page carries its
+   own icon even when copied on its own.
+2. **Scripting is optional enhancement, inlined not fetched.** Pages
+   work fully with JavaScript off. Where script is used — currently the
+   Devanāgarī/Telugu selector on the Durgā page — it is **inlined into
+   the page**, never a sibling file, a CDN, or a remote import, and the
+   page degrades gracefully to IAST without it. No build step, no
+   framework.
+3. **System fonts, with one embedded exception.** A serif stack (Iowan
+   Old Style / Palatino / Georgia) present on iOS, macOS, and Windows,
+   with the platform's own Devanagari face (Kohinoor / Nirmala UI / Noto
+   named as fallbacks). Telugu is set in **Baloo Tammudu 2**, embedded
+   as a subsetted woff2 because platform fallbacks mis-stack some Telugu
+   conjuncts; it is OFL 1.1 (`fonts/BalooTammudu2-OFL.txt`) and embedded,
+   never fetched. Nothing is loaded from the network.
+4. **Legible on a phone first.** Single column, `viewport-fit=cover`
    with safe-area padding, and light/dark support via
    `prefers-color-scheme`.
-4. **No silent emendation.** Any change to a received text — including
+5. **No silent emendation.** Any change to a received text — including
    transliteration normalization — is recorded in `SOURCES.md` with its
    justification.
-5. **Provenance before publication.** Every external material is
+6. **Provenance before publication.** Every external material is
    entered in `SOURCES.md` with origin URL, date, license, and what was
    changed, before it ships.
+
+## Maintenance
+
+**Regenerate the embedded Telugu font** (to pull a newer Baloo Tammudu 2,
+or after adding scripts that need more glyphs):
+
+```bash
+python tools/regen-telugu-font.py
+```
+
+It re-fetches a Sanskrit-Telugu subset from Google Fonts and rewrites
+the base64 `@font-face` in `stotra/durga-saptashloki-iast.html` in
+place (standard library only, no dependencies). Review the diff and the
+rendered Telugu before committing.
 
 ## Licensing
 

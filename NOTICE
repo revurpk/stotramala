@@ -24,10 +24,22 @@ Third-party and source materials
    emendation applied to the received text is logged in SOURCES.md
    §§1.3–1.6.
 
-3. Fonts. None are bundled or fetched. All files use fonts already
-   present on the reader's operating system. See SOURCES.md §2.
+3. Fonts. Latin/IAST and Devanāgarī use fonts already present on the
+   reader's operating system; none are bundled or fetched for those.
+   Telugu is set in Baloo Tammudu 2, embedded in the Śrī Durgā
+   Saptaślokī page as a subsetted woff2. It is licensed under the SIL
+   Open Font License 1.1 (© 2019 The Baloo 2 Project Authors); the
+   license text is vendored at fonts/BalooTammudu2-OFL.txt. The OFL
+   permits this embedding and its distribution as part of this work.
+   See SOURCES.md §2.
 
-4. Third-party code. None. See SOURCES.md §3.
+4. Bundled code. teltools.js — the maintainer's own transliteration
+   library from github.com/revurpk/teltools — is inlined into the
+   Śrī Durgā Saptaślokī page to render the Devanāgarī and Telugu
+   scripts from the IAST source. It remains under its own Apache
+   License 2.0 (© 2026 Pradyumna Revur) and is not relicensed. It is
+   embedded in the page, never fetched from a network. See SOURCES.md
+   §§1.8, 3.
 
 The English translations and all editorial matter are original work by
 the copyright holder and are not derived from the sources above.
