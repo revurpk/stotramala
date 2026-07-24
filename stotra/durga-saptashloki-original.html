@@ -29,14 +29,13 @@
     }
   }
   *{box-sizing:border-box;}
-  html{-webkit-text-size-adjust:100%;}
+  html{-webkit-text-size-adjust:100%;font-size:18px;}
   body{
     margin:0;
     background:var(--paper);
     color:var(--ink);
     font-family:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,"Times New Roman",serif;
     line-height:1.62;
-    font-size:20px;
     -webkit-font-smoothing:antialiased;
     text-rendering:optimizeLegibility;
   }
@@ -165,13 +164,12 @@
     line-height:1.7;
   }
 
-  /* Narrow phones (iPhone SE class, 320pt): ease type and gutters so
-     the longer word-split lines still fit without awkward wrapping. */
+  /* Narrow phones (iPhone SE class, 320pt): step the root down so the
+     whole design scales together and the longer word-split lines still
+     fit without awkward wrapping. */
   @media (max-width:350px){
+    html{font-size:16px;}
     .page{padding-left:1rem;padding-right:1rem;}
-    .lines{font-size:1.16rem;}
-    .viniyoga .lines{font-size:1rem;}
-    body{font-size:19px;}
   }
 
   /* ---- Section divider ---- */
