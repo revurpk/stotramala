@@ -23,6 +23,7 @@ IAST, Devanāgarī, or Telugu (script bar at the top).
 | Viṣṇu | Achyutāṣṭakam | [read](stotra/vishnu/achyutashtakam-iast.html) |
 | Devī | Śrī Durgā Saptaślokī | [IAST](stotra/devi/durga-saptashloki-iast.html) · [source orthography](stotra/devi/durga-saptashloki-original.html) |
 | Devī | Śrī Kanakadhārā Stotram | [read](stotra/devi/kanakadhara-stotram-iast.html) |
+| Śiva | Śiva Mānasa Pūjā | [read](stotra/shiva/shiva-manasa-puja-iast.html) |
 | Advaita | Nirvāṇa Ṣaṭkam | [read](stotra/advaita/nirvana-shatkam-iast.html) |
 
 The Gaṇeśa, Viṣṇu, and Advaita stotras are works of Ādi Śaṅkara; see

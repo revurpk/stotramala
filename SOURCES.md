@@ -288,6 +288,24 @@ reading), logged per the no-silent-emendation rule:
 The daṇḍa falls after the second pāda of each verse (as in the source),
 not after every pāda.
 
+### 5.6 Śiva Mānasa Pūjā — `stotra/shiva/`
+
+| Field | Value |
+|---|---|
+| Source | Sanskrit Wikisource, *शिवमानसपूजा* |
+| URL | `sa.wikisource.org/wiki/शिवमानसपूजा` |
+| Recorded | 2026-07-25 |
+| Text status | public domain (ancient); attributed to Ādi Śaṅkara |
+| Content | 5 verses (four upacāra verses + the kṣamā verse) |
+
+**Recension.** The canonical five-verse form is used: the four
+mental-offering verses (Śārdūlavikrīḍita) and the closing kṣamāpaṇa
+verse *karacaraṇakṛtaṃ* (Mālinī). The Wikisource copy additionally
+carries an optional phala-śruti verse (*ityevaṃ harapūjane…*), whose
+wording varies across sources; it is **omitted** here as a non-standard
+addition rather than reproduced with its variant readings. No other
+emendations. The daṇḍa falls after each pāda, as in the source.
+
 ### 5.5 Durgā page moved into `stotra/devi/`
 
 `durga-saptashloki-iast.html` and `-original.html` moved from
