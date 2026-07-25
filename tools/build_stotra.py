@@ -82,7 +82,7 @@ def render_body(st, asset):
         f'    <p class="subtitle">{esc(st["subtitle"])}</p>\n'
         '    <hr class="titlerule">\n'
         + (f'    <p class="subtitle" style="font-size:.8rem;max-width:26rem;margin:.5rem auto 0;">{esc(st["note"])}</p>\n' if st.get("note") else "")
-        + f'    <p class="guidelink"><a href="{asset}pronunciation.html">pronunciation guide</a></p>\n'
+        + f'    <p class="guidelink"><a href="{asset}index.html">all stotras</a> · <a href="{asset}pronunciation.html">pronunciation guide</a></p>\n'
         '  </header>\n'
     ]
     for sec in st["sections"]:
