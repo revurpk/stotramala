@@ -239,3 +239,39 @@ verses are used as public domain, with the page cited for traceability.
 good to the worlds"), the standard reading and the one the sense
 requires; the source spelling is a likely OCR error. Logged here per the
 no-silent-emendation rule.
+
+### 5.2 Nirvāṇa Ṣaṭkam (Ātma Ṣaṭkam) — `stotra/advaita/`
+
+| Field | Value |
+|---|---|
+| Source | Sanskrit Wikisource, *निर्वाणषट्कम्* |
+| URL | `sa.wikisource.org/wiki/निर्वाणषट्कम्` |
+| Recorded | 2026-07-24 |
+| Text status | public domain (ancient) |
+| Content | 6 verses |
+
+Filed under `advaita/` rather than a deity: it is a hymn to the Self,
+not addressed to a deity, though its refrain is *śivo'ham* ("I am
+Śiva"). No emendations.
+
+### 5.3 Achyutāṣṭakam — `stotra/vishnu/`
+
+| Field | Value |
+|---|---|
+| Source | Sanskrit Wikisource, *अच्युताष्टकम् (मूलसहितम्)* — mūla verses only |
+| URL | `sa.wikisource.org/wiki/अच्युताष्टकम्_(मूलसहितम्)` |
+| Recorded | 2026-07-24 |
+| Text status | public domain (ancient) |
+| Content | 8 verses + phala-śruti (v. 9) |
+
+Only the mūla (root) verses are taken; the page's commentary is not
+used. No emendations.
+
+### 5.4 Durgā page moved into `stotra/devi/`
+
+`durga-saptashloki-iast.html` and `-original.html` moved from
+`stotra/` to `stotra/devi/` for deity-folder consistency. Their internal
+relative paths were adjusted (`../` → `../../`), and a redirect stub was
+left at each old top-level path so existing links do not break. The
+generator (`tools/build_stotra.py`) reads the `-iast` page as its shared
+shell, so its `SHELL` path was updated to the new location.

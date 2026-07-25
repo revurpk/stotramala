@@ -24,7 +24,7 @@ import pathlib
 import sys
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-SHELL = ROOT / "stotra" / "durga-saptashloki-iast.html"   # canonical shell source
+SHELL = ROOT / "stotra" / "devi" / "durga-saptashloki-iast.html"   # canonical shell source
 DATA_DIR = pathlib.Path(__file__).resolve().parent / "stotras"
 
 HEAD_MARK = '<main class="page">'

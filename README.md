@@ -14,9 +14,19 @@ specialist.
 
 ## Contents
 
-| Stotra | Editions |
-|---|---|
-| Śrī Durgā Saptaślokī — the Seven Verses of Durgā | [IAST · देवनागरी · తెలుగు](stotra/durga-saptashloki-iast.html) · [source orthography](stotra/durga-saptashloki-original.html) |
+Stotras are grouped by deity under `stotra/<deity>/`. Each renders in
+IAST, Devanāgarī, or Telugu (script bar at the top).
+
+| Deity | Stotra | |
+|---|---|---|
+| Gaṇeśa | Gaṇeśa Pañcaratnam | [read](stotra/ganesha/ganesha-pancharatnam-iast.html) |
+| Viṣṇu | Achyutāṣṭakam | [read](stotra/vishnu/achyutashtakam-iast.html) |
+| Devī | Śrī Durgā Saptaślokī | [IAST](stotra/devi/durga-saptashloki-iast.html) · [source orthography](stotra/devi/durga-saptashloki-original.html) |
+| Advaita | Nirvāṇa Ṣaṭkam | [read](stotra/advaita/nirvana-shatkam-iast.html) |
+
+The Gaṇeśa, Viṣṇu, and Advaita stotras are works of Ādi Śaṅkara; see
+[SOURCES.md](SOURCES.md) §5 for provenance. New stotras are generated
+from a small data file by `tools/build_stotra.py`.
 
 Open `index.html` for the browsable list, or open any file in
 `stotra/` directly. The main edition renders the verses in **IAST,
@@ -48,7 +58,7 @@ also works but keeps Safari's own formatting.
 To fetch a copy from the command line before transferring:
 
 ```bash
-curl -fL -o durga-saptashloki.html https://revurpk.github.io/stotramala/stotra/durga-saptashloki-iast.html
+curl -fL -o durga-saptashloki.html https://revurpk.github.io/stotramala/stotra/devi/durga-saptashloki-iast.html
 ```
 
 ### Home-screen icon
@@ -138,7 +148,7 @@ python tools/regen-telugu-font.py
 ```
 
 It re-fetches a Sanskrit-Telugu subset from Google Fonts and rewrites
-the base64 `@font-face` in `stotra/durga-saptashloki-iast.html` in
+the base64 `@font-face` in `stotra/devi/durga-saptashloki-iast.html` in
 place (standard library only, no dependencies). Review the diff and the
 rendered Telugu before committing.
 

@@ -2,7 +2,7 @@
 # Copyright 2026 Pradyumna Revur — CC BY 4.0 (see LICENSE)
 """Regenerate the embedded Baloo Tammudu 2 Telugu subset.
 
-The Telugu script on stotra/durga-saptashloki-iast.html is set in
+The Telugu script on stotra/devi/durga-saptashloki-iast.html is set in
 Baloo Tammudu 2 (SIL OFL 1.1), embedded as a base64 woff2 so the page
 stays self-contained and offline. This script fetches a fresh subset
 from Google Fonts and rewrites the @font-face `src:` in place.
@@ -32,7 +32,7 @@ FAMILY = "Baloo Tammudu 2"
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/120.0 Safari/537.36")
 
-PAGE = pathlib.Path(__file__).resolve().parent.parent / "stotra" / "durga-saptashloki-iast.html"
+PAGE = pathlib.Path(__file__).resolve().parent.parent / "stotra" / "devi" / "durga-saptashloki-iast.html"
 
 
 def sanskrit_telugu_chars():
