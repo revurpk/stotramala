@@ -375,6 +375,25 @@ The e-text is rough; readings normalised to the standard recitation:
 | 4 | `राज्य प्राप्तेति` (v. 9) | `राज्यं प्राप्नोति` | corrupt → the standard reading |
 | 5 | `महाशत्रुं` (v. 11) | `महाशत्रु` | stray anusvāra removed |
 
+### 5.11 Subrahmaṇya Bhujaṅgam — `stotra/subrahmanya/`
+
+| Field | Value |
+|---|---|
+| Source | Sanskrit Wikisource, *सुब्रह्मण्यभुजङ्गम्* (Ādi Śaṅkara), raw wikitext |
+| URL | `sa.wikisource.org/w/index.php?title=सुब्रह्मण्यभुजङ्गम्&action=raw` |
+| Recorded | 2026-07-25 |
+| Text status | public domain (ancient) |
+| Content | 33 verses (Bhujaṅgaprayāta metre; v. 33 is the phala) |
+
+Long hymns are fetched as **raw wikitext** — WebFetch's summariser
+truncates or declines them, so the raw MediaWiki `action=raw` endpoint is
+used and the verses read verbatim. The e-text is rough; readings
+normalised to standard Sanskrit, e.g. v5 `स्थैव→स्तथैव` & `पङ्गक्ती→पङ्क्ती`,
+v8 `लसत्वर्ण→लसत्स्वर्ण`, v11 `काशमीर→काश्मीर`, v15 `अजस्त्रं→अजस्रं`,
+v22 `पार्थये→प्रार्थये` & `क्षमोहं→क्षमोऽहं`, v24 `दुतं→द्रुतं`,
+v25 `कुष्ट→कुष्ठ` & `ज्वरन्मादि→ज्वरोन्मादि`. Verse 1 is the customary
+Gaṇeśa maṅgala invocation prefacing the hymn.
+
 ### 5.5 Durgā page moved into `stotra/devi/`
 
 `durga-saptashloki-iast.html` and `-original.html` moved from

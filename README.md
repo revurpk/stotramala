@@ -28,6 +28,7 @@ IAST, Devanāgarī, or Telugu (script bar at the top).
 | Śiva | Śiva Mānasa Pūjā | [read](stotra/shiva/shiva-manasa-puja-iast.html) |
 | Śiva | Liṅgāṣṭakam | [read](stotra/shiva/lingashtakam-iast.html) |
 | Śiva | Bilvāṣṭakam | [read](stotra/shiva/bilvashtakam-iast.html) |
+| Subrahmaṇya | Śrī Subrahmaṇya Bhujaṅgam | [read](stotra/subrahmanya/subrahmanya-bhujangam-iast.html) |
 | Advaita | Nirvāṇa Ṣaṭkam | [read](stotra/advaita/nirvana-shatkam-iast.html) |
 
 The Gaṇeśa, Viṣṇu, and Advaita stotras are works of Ādi Śaṅkara; see
