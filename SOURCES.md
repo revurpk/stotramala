@@ -306,6 +306,55 @@ wording varies across sources; it is **omitted** here as a non-standard
 addition rather than reproduced with its variant readings. No other
 emendations. The daṇḍa falls after each pāda, as in the source.
 
+### 5.7 Madhurāṣṭakam — `stotra/vishnu/`
+
+| Field | Value |
+|---|---|
+| Source | Sanskrit Wikisource, *मधुराष्टकम्* (Vallabhācārya) |
+| URL | `sa.wikisource.org/wiki/मधुराष्टकम्` |
+| Recorded | 2026-07-25 |
+| Text status | public domain |
+| Content | 8 verses |
+
+| # | Source | Used | Note |
+|---|---|---|---|
+| 1 | `वेणर्` (v. 3) | `वेणुर्` | *veṇur* ("the flute"); the source drops the *u*-mātrā — a typo |
+
+### 5.8 Liṅgāṣṭakam — `stotra/shiva/`
+
+| Field | Value |
+|---|---|
+| Source | Sanskrit Wikisource, *लिङ्गाष्टकम्* |
+| URL | `sa.wikisource.org/wiki/लिङ्गाष्टकम्` |
+| Recorded | 2026-07-25 |
+| Text status | public domain |
+| Content | 8 verses + phala verse |
+
+Orthography normalised to standard Sanskrit (the e-text carries
+Hindi-influenced spellings): anusvāra → class nasal before stops
+(*कुमकुम→कुङ्कुम*, *पंकज→पङ्कज*, *संचित→सञ्चित*, *वंदित→वन्दित*), and
+typo fixes (*प्रवारार्चित→प्रवरार्चित*, *बुद्धी→बुद्धि*, *कोटी→कोटि*,
+*देवागण→देवगण*, *अष्टोदलोपरी→अष्टदलोपरि*, *परामात्मक→परमात्मक*). No word
+added or dropped.
+
+### 5.9 Bilvāṣṭakam — `stotra/shiva/`
+
+| Field | Value |
+|---|---|
+| Source | Sanskrit Wikisource, *बिल्वाष्टकम्* |
+| URL | `sa.wikisource.org/wiki/बिल्वाष्टकम्` |
+| Recorded | 2026-07-25 |
+| Text status | public domain |
+| Content | 8 verses + phala verse (the eight sacred leaves) |
+
+The Wikisource e-text abbreviates the refrain (*एक…*) after v. 1; it is
+filled with the full **एकबिल्वं शिवार्पितम्** shown in vv. 1 and 8. The
+e-text is otherwise loose; readings are normalised to the standard
+recitation, notably v. 3 (*बिल्ववृक्षैश्च→बिल्ववृक्षस्य*), v. 6
+(*महादेवैश्च पूजार्थ→महादेवस्य पूजार्थम्*), and v. 7 (the corrupt
+*गयाप्रयागमे दृष्ट्वा→प्रयागे माधवं दृष्ट्वा*). These are documented, not
+silent.
+
 ### 5.5 Durgā page moved into `stotra/devi/`
 
 `durga-saptashloki-iast.html` and `-original.html` moved from
