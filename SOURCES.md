@@ -267,7 +267,28 @@ not addressed to a deity, though its refrain is *śivo'ham* ("I am
 Only the mūla (root) verses are taken; the page's commentary is not
 used. No emendations.
 
-### 5.4 Durgā page moved into `stotra/devi/`
+### 5.4 Kanakadhārā Stotram — `stotra/devi/`
+
+| Field | Value |
+|---|---|
+| Source | Sanskrit Wikisource, *कनकधारास्तोत्रम्* |
+| URL | `sa.wikisource.org/wiki/कनकधारास्तोत्रम्` |
+| Recorded | 2026-07-24 |
+| Text status | public domain (ancient) |
+| Content | 22 verses + closing colophon |
+
+**Normalisations** (Hindi-style nukta → Sanskrit, and a standard
+reading), logged per the no-silent-emendation rule:
+
+| # | Source | Used | Note |
+|---|---|---|---|
+| 1 | `तड़ित्` / `गरुड़` (with nukta ड़) | `तडित्` / `गरुड` (ड) | ड़ is a Hindi letter; the Sanskrit words use plain *ḍa* |
+| 2 | `कैटाभारेर्` (v. 5) | `कैटभारेर्` | *kaiṭabha-ari*, "foe of Kaiṭabha"; the long *ā* is a source typo |
+
+The daṇḍa falls after the second pāda of each verse (as in the source),
+not after every pāda.
+
+### 5.5 Durgā page moved into `stotra/devi/`
 
 `durga-saptashloki-iast.html` and `-original.html` moved from
 `stotra/` to `stotra/devi/` for deity-folder consistency. Their internal
