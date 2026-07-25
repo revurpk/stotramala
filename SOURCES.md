@@ -408,6 +408,22 @@ Fetched as raw wikitext and parsed into verse halves. The opening
 verse (*ghuṣyate yasya nagare…*) praises the poet-king and is shown
 unnumbered before the hymn. No emendations.
 
+### 5.13 Rāma Rakṣā Stotram — `stotra/rama/`
+
+| Field | Value |
+|---|---|
+| Source | Sanskrit Wikisource, *रामरक्षास्तोत्रम्* (Budha Kauśika), raw wikitext |
+| URL | `sa.wikisource.org/w/index.php?title=रामरक्षास्तोत्रम्&action=raw` |
+| Recorded | 2026-07-25 |
+| Text status | public domain (ancient) |
+| Content | 38 verses (the viniyoga and dhyāna preamble prose are omitted) |
+
+Rough OCR readings normalised: v5 `ध्रुशौ→दृशौ`, v7 `ह्र्दयं→हृदयं`,
+v18 `फ़लमूल→फलमूल` & `ब्रम्ह→ब्रह्म`, v30 `स्वामि→स्वामी`, v33
+`जितेद्रियं→जितेन्द्रियं` & `दुद्धिमतां→बुद्धिमतां`, v37
+`दासोऽस्मयं→दासोऽस्म्यहं`, and v3/v4 minor sandhi/typo fixes. New
+`stotra/rama/` deity folder.
+
 ### 5.5 Durgā page moved into `stotra/devi/`
 
 `durga-saptashloki-iast.html` and `-original.html` moved from
