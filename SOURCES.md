@@ -355,6 +355,26 @@ recitation, notably v. 3 (*बिल्ववृक्षैश्च→बि�
 *गयाप्रयागमे दृष्ट्वा→प्रयागे माधवं दृष्ट्वा*). These are documented, not
 silent.
 
+### 5.10 Mahālakṣmī Aṣṭakam — `stotra/devi/`
+
+| Field | Value |
+|---|---|
+| Source | Sanskrit Wikisource, *श्रीमहालक्ष्म्यष्टकम्* (from the Padma Purāṇa) |
+| URL | `sa.wikisource.org/wiki/श्रीमहालक्ष्म्यष्टकम्` |
+| Recorded | 2026-07-25 |
+| Text status | public domain (ancient) |
+| Content | 8 verses + 3 phala-stuti verses |
+
+The e-text is rough; readings normalised to the standard recitation:
+
+| # | Source | Used | Note |
+|---|---|---|---|
+| 1 | `सर्वसुष्ट` (v. 3) | `सर्वदुष्ट` | *sarva-duṣṭa*, "all the wicked" — typo |
+| 2 | `शूल सूक्ष्म` (v. 6) | `स्थूलसूक्ष्म` | *sthūla-sūkṣma*, "gross and subtle" — the standard pair |
+| 3 | `जगन्मातार्` (vv. 7–8) | `जगन्मातर्` | vocative sandhi *jaganmātar*; the long *ā* is a typo |
+| 4 | `राज्य प्राप्तेति` (v. 9) | `राज्यं प्राप्नोति` | corrupt → the standard reading |
+| 5 | `महाशत्रुं` (v. 11) | `महाशत्रु` | stray anusvāra removed |
+
 ### 5.5 Durgā page moved into `stotra/devi/`
 
 `durga-saptashloki-iast.html` and `-original.html` moved from
