@@ -25,6 +25,7 @@ IAST, Devanāgarī, or Telugu (script bar at the top).
 | Devī | Śrī Kanakadhārā Stotram | [read](stotra/devi/kanakadhara-stotram-iast.html) |
 | Devī | Śrī Mahālakṣmī Aṣṭakam | [read](stotra/devi/mahalakshmi-ashtakam-iast.html) |
 | Viṣṇu | Madhurāṣṭakam | [read](stotra/vishnu/madhurashtakam-iast.html) |
+| Viṣṇu | Mukunda Mālā | [read](stotra/vishnu/mukunda-mala-iast.html) |
 | Śiva | Śiva Mānasa Pūjā | [read](stotra/shiva/shiva-manasa-puja-iast.html) |
 | Śiva | Liṅgāṣṭakam | [read](stotra/shiva/lingashtakam-iast.html) |
 | Śiva | Bilvāṣṭakam | [read](stotra/shiva/bilvashtakam-iast.html) |

@@ -394,6 +394,20 @@ v22 `पार्थये→प्रार्थये` & `क्षमोह�
 v25 `कुष्ट→कुष्ठ` & `ज्वरन्मादि→ज्वरोन्मादि`. Verse 1 is the customary
 Gaṇeśa maṅgala invocation prefacing the hymn.
 
+### 5.12 Mukunda Mālā — `stotra/vishnu/`
+
+| Field | Value |
+|---|---|
+| Source | Sanskrit Wikisource, *मुकुन्दमाला* (Kulaśekhara), raw wikitext |
+| URL | `sa.wikisource.org/w/index.php?title=मुकुन्दमाला&action=raw` |
+| Recorded | 2026-07-25 |
+| Text status | public domain (ancient) |
+| Content | 40 verses + an opening dedicatory verse to King Kulaśekhara |
+
+Fetched as raw wikitext and parsed into verse halves. The opening
+verse (*ghuṣyate yasya nagare…*) praises the poet-king and is shown
+unnumbered before the hymn. No emendations.
+
 ### 5.5 Durgā page moved into `stotra/devi/`
 
 `durga-saptashloki-iast.html` and `-original.html` moved from
