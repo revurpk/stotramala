@@ -424,6 +424,23 @@ v18 `फ़लमूल→फलमूल` & `ब्रम्ह→ब्रह�
 `दासोऽस्मयं→दासोऽस्म्यहं`, and v3/v4 minor sandhi/typo fixes. New
 `stotra/rama/` deity folder.
 
+### 5.14 Mahiṣāsura Mardinī Stotram — `stotra/devi/`
+
+| Field | Value |
+|---|---|
+| Source | Sanskrit Wikisource, *महिषासुरमर्दिनी स्तोत्रम्* (attrib. Rāmakṛṣṇa Kavi), raw wikitext |
+| URL | `sa.wikisource.org/w/index.php?title=महिषासुरमर्दिनी_स्तोत्रम्&action=raw` |
+| Recorded | 2026-07-25 |
+| Text status | public domain |
+| Content | 21 verses; the identical closing refrain (`jaya jaya he mahiṣāsuramardini…`) is used uniformly, fixing per-verse number/ZWJ debris in the e-text |
+
+This hymn's dense alliteration, rare epithets, and drum/dance
+onomatopoeia make a literal rendering impossible in places; the
+translations give the clear sense and paraphrase the sound-play, and the
+page carries a `note` saying so. Compound-hyphens from the source are
+kept in the IAST as reading aids (dropped for the native scripts at
+render time).
+
 ### 5.5 Durgā page moved into `stotra/devi/`
 
 `durga-saptashloki-iast.html` and `-original.html` moved from

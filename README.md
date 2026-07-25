@@ -24,6 +24,7 @@ IAST, Devanāgarī, or Telugu (script bar at the top).
 | Devī | Śrī Durgā Saptaślokī | [IAST](stotra/devi/durga-saptashloki-iast.html) · [source orthography](stotra/devi/durga-saptashloki-original.html) |
 | Devī | Śrī Kanakadhārā Stotram | [read](stotra/devi/kanakadhara-stotram-iast.html) |
 | Devī | Śrī Mahālakṣmī Aṣṭakam | [read](stotra/devi/mahalakshmi-ashtakam-iast.html) |
+| Devī | Mahiṣāsura Mardinī Stotram | [read](stotra/devi/mahishasura-mardini-iast.html) |
 | Viṣṇu | Madhurāṣṭakam | [read](stotra/vishnu/madhurashtakam-iast.html) |
 | Viṣṇu | Mukunda Mālā | [read](stotra/vishnu/mukunda-mala-iast.html) |
 | Rāma | Śrī Rāma Rakṣā Stotram | [read](stotra/rama/rama-raksha-stotram-iast.html) |
