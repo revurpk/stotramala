@@ -286,6 +286,30 @@
     line-height:1.7;
   }
   footer a{color:inherit;}
+
+  /* ---- Review / correction facility ---- */
+  .review{margin-top:1rem;display:none;gap:.5rem;justify-content:center;flex-wrap:wrap;}
+  html.js .review{display:flex;}
+  .review button{
+    font:inherit;font-size:.72rem;letter-spacing:.04em;cursor:pointer;
+    color:var(--ink-soft);background:transparent;
+    border:1px solid var(--rule);border-radius:2rem;padding:.28rem .8rem;
+    -webkit-tap-highlight-color:transparent;
+  }
+  .review button:hover{border-color:var(--accent);color:var(--accent);}
+  html.reviewing #corrToggle{background:var(--accent);color:var(--paper);border-color:var(--accent);}
+  html.reviewing .sans{
+    outline:1px dashed var(--rule);outline-offset:3px;border-radius:2px;
+  }
+  html.reviewing .sans:focus{
+    outline:1.5px solid var(--accent);
+    background:rgba(154,47,31,.06);
+  }
+  .review-note{
+    display:none;max-width:30rem;margin:.9rem auto 0;
+    font-size:.76rem;font-style:italic;line-height:1.55;color:var(--ink-soft);
+  }
+  html.reviewing .review-note{display:block;}
 </style>
 </head>
 <body>
@@ -762,8 +786,20 @@
 
   <footer>
     Source: Sanskrit Wikisource — Mukundamālā (public domain)
+    <div class="review">
+      <button type="button" id="corrToggle" aria-pressed="false">✎ suggest a correction</button>
+      <button type="button" id="corrExport" hidden>⬇ export corrections</button>
+    </div>
+    <p class="review-note">Tap any line to edit its rendering in the
+      current script, then export your corrections as a file to send to
+      the maintainer. Nothing leaves your device until you export.</p>
   </footer>
 
+
+  <script>
+    document.documentElement.dataset.slug = "mukunda-mala";
+    window.STOTRA_CORRECTIONS = {};
+  </script>
 </main>
 
 <!-- Vendored transliterator, inlined so the page stays a single
@@ -1045,7 +1081,11 @@
 <script>
   /* Devanāgarī / Telugu are rendered from the IAST source at runtime via
      the teltools transliterators (IAST → Telugu → Devanagari). The IAST in
-     the markup is the single source of truth; with JS off it is what shows. */
+     the markup is the single source of truth; with JS off it is what shows.
+     A review/correction facility lets a reader override any line's rendering;
+     drafts live in localStorage and can be exported for the maintainer, who
+     merges them (tools/apply_corrections.py) into tools/corrections/<slug>.json
+     so build_stotra.py bakes them into window.STOTRA_CORRECTIONS. */
   (function () {
     "use strict";
     if (typeof teltools === "undefined") return;   // stay on IAST
@@ -1063,16 +1103,31 @@
     }
     function toTel(i){ return post(teltools.iast2tel(prep(i)), "tel"); }
     function toDev(i){ return post(teltools.tel2hin(teltools.iast2tel(prep(i))), "dev"); }
+    function computed(iast, sc){ return sc === "dev" ? toDev(iast) : sc === "tel" ? toTel(iast) : iast; }
+
+    var SLUG = document.documentElement.dataset.slug || "stotra";
+    var BAKED = window.STOTRA_CORRECTIONS || {};
+    var LSKEY = "stotra-corr:" + SLUG;
+    function loadDrafts(){ try { return JSON.parse(localStorage.getItem(LSKEY)) || {}; } catch (e){ return {}; } }
+    var drafts = loadDrafts();
+    function saveDrafts(){ try { localStorage.setItem(LSKEY, JSON.stringify(drafts)); } catch (e){} }
+    function correction(idx, sc){
+      if (drafts[idx] && drafts[idx][sc] != null) return drafts[idx][sc];
+      if (BAKED[idx] && BAKED[idx][sc] != null) return BAKED[idx][sc];
+      return null;
+    }
 
     var nodes = [].slice.call(document.querySelectorAll(".sans"));
-    nodes.forEach(function (n){ n.setAttribute("data-iast", n.textContent); });
+    nodes.forEach(function (n, i){ n.setAttribute("data-iast", n.textContent); n.dataset.vi = i; });
 
-    var btns = [].slice.call(document.querySelectorAll(".scriptbar button"));
+    var btns = [].slice.call(document.querySelectorAll('.scriptbar button[data-script]'));
+    var current = "iast";
 
     function render(sc){
-      nodes.forEach(function (n){
-        var i = n.getAttribute("data-iast");
-        n.textContent = sc === "dev" ? toDev(i) : sc === "tel" ? toTel(i) : i;
+      current = sc;
+      nodes.forEach(function (n, i){
+        var c = correction(i, sc);
+        n.textContent = c != null ? c : computed(n.getAttribute("data-iast"), sc);
       });
       document.documentElement.setAttribute("data-script", sc);
       btns.forEach(function (b){
@@ -1087,9 +1142,53 @@
       b.addEventListener("click", function (){ render(b.getAttribute("data-script")); });
     });
 
+    // ---- review / correction mode ----
+    var reviewing = false;
+    var toggle = document.getElementById("corrToggle");
+    var exportBtn = document.getElementById("corrExport");
+
+    function setReview(on){
+      reviewing = on;
+      document.documentElement.classList.toggle("reviewing", on);
+      nodes.forEach(function (n){
+        if (on){ n.setAttribute("contenteditable", "true"); n.setAttribute("spellcheck", "false"); }
+        else n.removeAttribute("contenteditable");
+      });
+      if (exportBtn) exportBtn.hidden = !on;
+      if (toggle) toggle.setAttribute("aria-pressed", on ? "true" : "false");
+    }
+
+    document.addEventListener("input", function (e){
+      if (!reviewing) return;
+      var n = e.target;
+      if (!n.classList || !n.classList.contains("sans")) return;
+      var i = n.dataset.vi;
+      var val = n.textContent;
+      if (val === computed(n.getAttribute("data-iast"), current)) {
+        if (drafts[i]) { delete drafts[i][current]; if (!Object.keys(drafts[i]).length) delete drafts[i]; }
+      } else {
+        (drafts[i] = drafts[i] || {})[current] = val;
+      }
+      saveDrafts();
+    }, true);
+
+    if (toggle) toggle.addEventListener("click", function (){ setReview(!reviewing); });
+    if (exportBtn) exportBtn.addEventListener("click", function (){
+      var iast = {};
+      Object.keys(drafts).forEach(function (i){ iast[i] = nodes[i] ? nodes[i].getAttribute("data-iast") : null; });
+      var payload = { slug: SLUG, corrections: drafts, iast: iast };
+      var blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });
+      var a = document.createElement("a");
+      a.href = URL.createObjectURL(blob);
+      a.download = SLUG + "-corrections.json";
+      document.body.appendChild(a); a.click();
+      setTimeout(function (){ URL.revokeObjectURL(a.href); a.remove(); }, 0);
+    });
+
     var start = "iast";
     try { var s = localStorage.getItem("stotra-script"); if (s) start = s; } catch (e) {}
     render(start);
+    if (location.hash === "#review") setReview(true);
   })();
 </script>
 

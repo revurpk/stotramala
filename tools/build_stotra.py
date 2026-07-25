@@ -74,7 +74,18 @@ def render_verse(v, asset):
     )
 
 
-def render_body(st, asset):
+def load_corrections(slug):
+    """Human-reviewed rendering overrides, keyed by .sans node index →
+    {script: text}. Merged from reviewer exports by
+    tools/apply_corrections.py. Absent file → no overrides."""
+    import json
+    path = pathlib.Path(__file__).resolve().parent / "corrections" / f"{slug}.json"
+    if not path.exists():
+        return {}
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def render_body(st, slug, asset):
     parts = [
         '\n\n  <header>\n'
         '    <div class="om">ॐ</div>\n'
@@ -93,7 +104,22 @@ def render_body(st, asset):
     parts.append(
         '\n  <footer>\n'
         f'    {esc(st["footer"])}\n'
-        '  </footer>\n\n'
+        '    <div class="review">\n'
+        '      <button type="button" id="corrToggle" aria-pressed="false">✎ suggest a correction</button>\n'
+        '      <button type="button" id="corrExport" hidden>⬇ export corrections</button>\n'
+        '    </div>\n'
+        '    <p class="review-note">Tap any line to edit its rendering in the\n'
+        '      current script, then export your corrections as a file to send to\n'
+        '      the maintainer. Nothing leaves your device until you export.</p>\n'
+        '  </footer>\n'
+    )
+    import json
+    corr = json.dumps(load_corrections(slug), ensure_ascii=False)
+    parts.append(
+        '  <script>\n'
+        f'    document.documentElement.dataset.slug = "{slug}";\n'
+        f'    window.STOTRA_CORRECTIONS = {corr};\n'
+        '  </script>\n'
     )
     return "\n\n".join(parts)
 
@@ -112,7 +138,7 @@ def build(slug):
     depth = len(out.relative_to(ROOT).parts) - 1        # dirs above the file
     asset = "../" * depth
     head, tail = load_shell()
-    page = sub_head(head, st, asset) + render_body(st, asset) + tail
+    page = sub_head(head, st, asset) + render_body(st, slug, asset) + tail
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(page, encoding="utf-8", newline="\n")
     print(f"built {out.relative_to(ROOT)}  ({len(page.encode('utf-8')):,} bytes)")

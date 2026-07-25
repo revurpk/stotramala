@@ -161,6 +161,29 @@ the base64 `@font-face` in `stotra/devi/durga-saptashloki-iast.html` in
 place (standard library only, no dependencies). Review the diff and the
 rendered Telugu before committing.
 
+**Correcting a transliteration.** The Devanāgarī and Telugu on each page
+are produced mechanically from the IAST; where a rendering comes out
+wrong, any reader can fix it without editing code:
+
+1. On the page, tap **✎ suggest a correction**, then tap any line and
+   edit its rendering in the current script. Drafts are kept in the
+   browser's local storage — nothing is sent anywhere.
+2. Tap **⬇ export corrections** to download a small JSON file, and send
+   it to the maintainer (or open a PR with it).
+3. The maintainer merges it:
+
+   ```bash
+   python tools/apply_corrections.py <that-file>.json
+   python tools/build_stotra.py <slug>
+   ```
+
+   The first command records the override in
+   `tools/corrections/<slug>.json`; the rebuild bakes it into the page's
+   `window.STOTRA_CORRECTIONS`, where it beats the automatic
+   transliteration for just those lines. The IAST source stays
+   authoritative; corrections only touch the affected renderings, and
+   every one is a reviewable diff.
+
 ## Licensing
 
 Original work in this repository — the English translations, the
