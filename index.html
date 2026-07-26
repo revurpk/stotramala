@@ -108,9 +108,23 @@
     color:var(--ink-soft);
     line-height:1.7;
   }
+
+  /* ---- Search (progressive enhancement) ---- */
+  .search{display:none;margin:0 0 .4rem;}
+  html.js .search{display:block;}
+  .search input{
+    width:100%;font:inherit;font-size:1rem;color:var(--ink);
+    background:transparent;border:1px solid var(--rule);border-radius:2rem;
+    padding:.55rem 1.1rem;-webkit-appearance:none;
+  }
+  .search input:focus{outline:none;border-color:var(--accent);}
+  .search input::placeholder{color:var(--ink-soft);opacity:.85;}
+  .noresults{display:none;color:var(--ink-soft);font-style:italic;text-align:center;margin:2rem 0;}
+  .hidden{display:none !important;}
 </style>
 </head>
 <body>
+<script>document.documentElement.className += " js";</script>
 <main class="page">
 
   <header>
@@ -119,6 +133,13 @@
     <p class="subtitle">A garland of devotional verses</p>
     <hr class="titlerule">
   </header>
+
+  <div class="search">
+    <input id="q" type="search" autocomplete="off" autocapitalize="off"
+      spellcheck="false" placeholder="search — title, deity, poet, meaning…"
+      aria-label="Search stotras">
+  </div>
+  <p class="noresults" id="noresults">No stotra matches that search.</p>
 
   <p class="deity">Gaṇeśa</p>
   <div class="entry">
@@ -322,5 +343,59 @@
   </footer>
 
 </main>
+
+<script>
+  /* Client-side filter for the stotra list. Diacritic-insensitive, so
+     "ganesha" finds "Gaṇeśa" and "krishna" finds "Kṛṣṇa". No dependencies. */
+  (function () {
+    "use strict";
+    var input = document.getElementById("q");
+    if (!input) return;
+    var entries = [].slice.call(document.querySelectorAll(".entry"));
+    var deities = [].slice.call(document.querySelectorAll(".deity"));
+    var note = document.querySelector(".note");
+    var noRes = document.getElementById("noresults");
+    // plain: lowercase + strip diacritics (Gaṇeśa → ganesa).
+    // fold: also map IAST to rough English phonetics so "ganesha"/"krishna"
+    // /"vishnu"/"lakshmi" match (ś,ṣ→sh, ṛ→ri, c→ch). Both are stored and
+    // both foldings of the query are tried, so either spelling finds a hit.
+    function plain(s) {
+      return s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+    }
+    function fold(s) {
+      return s.toLowerCase().normalize("NFD")
+        .replace(/s[̣́]/g, "sh").replace(/ṛ/g, "ri")
+        .replace(/[̀-ͯ]/g, "").replace(/c/g, "ch");
+    }
+    entries.forEach(function (e) {
+      var deity = "", p = e.previousElementSibling;
+      while (p) { if (p.classList.contains("deity")) { deity = p.textContent; break; } p = p.previousElementSibling; }
+      var h2 = e.querySelector("h2"), en = e.querySelector(".en");
+      var t = deity + " " + (h2 ? h2.textContent : "") + " " + (en ? en.textContent : "");
+      e._q = fold(t) + " " + plain(t);
+    });
+    function apply() {
+      var raw = input.value.trim(), qf = fold(raw), qp = plain(raw), any = false;
+      entries.forEach(function (e) {
+        var show = !raw || e._q.indexOf(qf) >= 0 || e._q.indexOf(qp) >= 0;
+        e.classList.toggle("hidden", !show);
+        if (show) any = true;
+      });
+      deities.forEach(function (d) {
+        var vis = false, n = d.nextElementSibling;
+        while (n && !n.classList.contains("deity")) {
+          if (n.classList.contains("entry") && !n.classList.contains("hidden")) { vis = true; break; }
+          n = n.nextElementSibling;
+        }
+        d.classList.toggle("hidden", !vis);
+      });
+      if (note) note.classList.toggle("hidden", !!q);
+      if (noRes) noRes.style.display = any ? "none" : "block";
+    }
+    input.addEventListener("input", apply);
+    input.addEventListener("search", apply);   // the ✕ clear button
+  })();
+</script>
+
 </body>
 </html>
