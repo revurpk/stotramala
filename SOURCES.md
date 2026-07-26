@@ -492,3 +492,18 @@ Translations are original, made from the Telugu.
 | Recorded | 2026-07-25 |
 | Text status | public domain |
 | Content | pallavi + 5 caraṇas; rāgam Ānandabhairavi, tāḷam Ādi. Structural labels (ప:/చ N:) and the inline `\|\| పలుకే \|\|` refrain cues are dropped; the pallavi is shown once. |
+
+### 6.3 Gajendra Mokṣam — `stotra/vishnu/`
+
+| Field | Value |
+|---|---|
+| Author | Bammera Pōtana, 15th c. |
+| Source | Telugu Wikisource, *పోతన తెలుగు భాగవతము / అష్టమ స్కంధము / గజేంద్రుని దీనాలాపములు* |
+| URL | `te.wikisource.org/wiki/పోతన తెలుగు భాగవతము/అష్ఠమ స్కంధము/గజేంద్రుని దీనాలాపములు` |
+| Recorded | 2026-07-25 |
+| Text status | public domain |
+| Content | 5 padyams (8-73…8-77), the "evvanicē janiñcu jagamu" surrender sequence. The page's yati/prāsa markup, word-gloss (టీక), and Telugu paraphrase (భావము) are not used — only the verse text. |
+
+The `telIast` aid was extended for classical Telugu: the arasunna `ఁ`
+(candrabindu) → `ṁ`, and `ఱ` (Dravidian *ṟa*) → `ṟ`. All Telugu pages
+were regenerated.

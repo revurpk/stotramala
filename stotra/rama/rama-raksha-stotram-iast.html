@@ -1090,8 +1090,10 @@
     // repair those. (Devanāgarī is not offered for Telugu-language text.)
     function telIast(t){
       return teltools.tel2iast(t)
-        .replace(/aॆ/g, "e").replace(/aॊ/g, "o")
-        .replace(/[ऎॆ]/g, "e").replace(/[ऒॊ]/g, "o");
+        .replace(/aॆ/g, "e").replace(/aॊ/g, "o")   // short e/o (fix spurious 'a')
+        .replace(/[ऎॆ]/g, "e").replace(/[ऒॊ]/g, "o")
+        .replace(/ँ/g, "ṁ")                          // arasunna ఁ (candrabindu)
+        .replace(/ऱ/g, "ṟ");                         // ఱ (Dravidian ṟa)
     }
     var SRC = document.documentElement.dataset.src || "iast";
     function computed(src, sc){
