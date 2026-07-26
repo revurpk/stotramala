@@ -524,7 +524,7 @@ were regenerated.
 | Field | Value |
 |---|---|
 | Form | daṇḍaka (folk-devotional, 8 short stanzas) |
-| Source | Telugu Wikisource, *నరసింహ దండము* |
+| Source | Telugu Wikisource, *నరసింహ దండకము* |
 | URL | `te.wikisource.org/wiki/నరసింహ దండకము` |
 | Recorded | 2026-07-25 |
 | Text status | public domain |
