@@ -507,3 +507,14 @@ Translations are original, made from the Telugu.
 The `telIast` aid was extended for classical Telugu: the arasunna `ఁ`
 (candrabindu) → `ṁ`, and `ఱ` (Dravidian *ṟa*) → `ṟ`. All Telugu pages
 were regenerated.
+
+### 6.4 Āñjaneya Daṇḍakam — `stotra/hanuman/`
+
+| Field | Value |
+|---|---|
+| Form | daṇḍaka (continuous flowing lines, no verse numbers) |
+| Source | Telugu Wikisource, *ఆంజనేయ దండకం* |
+| URL | `te.wikisource.org/wiki/ఆంజనేయ దండకం` |
+| Recorded | 2026-07-25 |
+| Text status | public domain |
+| Content | Sanskrit invocation + Telugu narrative of Hanumān's Rāmāyaṇa deeds + closing namaskāra. Rendered as 8 flowing segments (the source's paragraph breaks); the see-also/category wiki markup is dropped. New `stotra/hanuman/` deity folder. |

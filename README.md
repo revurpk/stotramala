@@ -29,6 +29,7 @@ IAST, Devanāgarī, or Telugu (script bar at the top).
 | Veṅkaṭeśvara | Adivo Alladivo (Annamayya, Telugu) | [read](stotra/venkateshwara/adivo-alladivo-iast.html) |
 | Rāma | Paluke Bangāramāyenā (Rāmadāsu, Telugu) | [read](stotra/rama/paluke-bangaramayena-iast.html) |
 | Viṣṇu | Gajendra Mokṣam (Pōtana, Telugu) | [read](stotra/vishnu/gajendra-moksham-iast.html) |
+| Hanumān | Āñjaneya Daṇḍakam (Telugu) | [read](stotra/hanuman/anjaneya-dandakam-iast.html) |
 | Viṣṇu | Madhurāṣṭakam | [read](stotra/vishnu/madhurashtakam-iast.html) |
 | Viṣṇu | Mukunda Mālā | [read](stotra/vishnu/mukunda-mala-iast.html) |
 | Rāma | Śrī Rāma Rakṣā Stotram | [read](stotra/rama/rama-raksha-stotram-iast.html) |
