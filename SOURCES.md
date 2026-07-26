@@ -498,11 +498,11 @@ Translations are original, made from the Telugu.
 | Field | Value |
 |---|---|
 | Author | Bammera Pōtana, 15th c. |
-| Source | Telugu Wikisource, *పోతన తెలుగు భాగవతము / అష్టమ స్కంధము / గజేంద్రుని దీనాలాపములు* |
-| URL | `te.wikisource.org/wiki/పోతన తెలుగు భాగవతము/అష్ఠమ స్కంధము/గజేంద్రుని దీనాలాపములు` |
+| Source | Telugu Wikisource, *పోతన తెలుగు భాగవతము / అష్ఠమ స్కంధము* — sections *గజేంద్రుని దీనాలాపములు* (8-71, 8-73…8-77, 8-90) and *విష్ణువు ఆగమనము* (8-96) |
+| URL | `te.wikisource.org/wiki/పోతన తెలుగు భాగవతము/అష్ఠమ స్కంధము/గజేంద్రుని దీనాలాపములు` (and `…/విష్ణువు ఆగమనము`) |
 | Recorded | 2026-07-25 |
 | Text status | public domain |
-| Content | 5 padyams (8-73…8-77), the "evvanicē janiñcu jagamu" surrender sequence. The page's yati/prāsa markup, word-gloss (టీక), and Telugu paraphrase (భావము) are not used — only the verse text. |
+| Content | 8 padyams: the lament (8-71 *ē rūpambuna*), the "evvanicē janiñcu jagamu" stuti (8-73…8-77), the strength-gone plea (8-90 *lāvokkintayu*), and Viṣṇu's headlong rescue (8-96 *sirikiṃ jeppaḍu*). The page's yati/prāsa markup (`<u>`/`<b>`), word-gloss (టీక), and Telugu paraphrase (భావము) are not used — only the verse text. |
 
 The `telIast` aid was extended for classical Telugu: the arasunna `ఁ`
 (candrabindu) → `ṁ`, and `ఱ` (Dravidian *ṟa*) → `ṟ`. All Telugu pages
