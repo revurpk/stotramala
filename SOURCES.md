@@ -551,3 +551,25 @@ were regenerated.
 | Recorded | 2026-07-25 |
 | Text status | public domain |
 | Content | kīrtana on Veṅkaṭeśvara (rāgam Hindōḷam): pallavi + 3 charaṇas alluding to his legendary devotees. Markers and romanized copy not used. |
+
+### 6.8 Jo Achyutānanda — `stotra/venkateshwara/`
+
+| Field | Value |
+|---|---|
+| Author | Annamācārya (Annamayya), 15th c. |
+| Source | Telugu Wikisource, *జో అచ్యుతానంద జోజో ముకుంద* |
+| URL | `te.wikisource.org/wiki/జో అచ్యుతానంద జోజో ముకుంద` |
+| Recorded | 2026-07-25 |
+| Text status | public domain |
+| Content | a cradle-song (jōla, rāgam Navarōju) to the child Kṛṣṇa: pallavi + 4 charaṇas. Romanized copy not used. |
+
+### 6.9 Śrīman Nārāyaṇa — `stotra/venkateshwara/`
+
+| Field | Value |
+|---|---|
+| Author | Annamācārya (Annamayya), 15th c. |
+| Source | Telugu Wikisource, *శ్రీమన్నారాయణ* |
+| URL | `te.wikisource.org/wiki/శ్రీమన్నారాయణ` |
+| Recorded | 2026-07-25 |
+| Text status | public domain |
+| Content | surrender at the Lord's feet on a garland of *kamala* (lotus) epithets: pallavi + 2 charaṇas. Mostly Sanskrit in Telugu script; the ప\|\| చ\|\| markers not used. |

@@ -29,6 +29,8 @@ IAST, Devanāgarī, or Telugu (script bar at the top).
 | Veṅkaṭeśvara | Adivo Alladivo (Annamayya, Telugu) | [read](stotra/venkateshwara/adivo-alladivo-iast.html) |
 | Veṅkaṭeśvara | Brahma Kaḍigina Pādamu (Annamayya, Telugu) | [read](stotra/venkateshwara/brahma-kadigina-padamu-iast.html) |
 | Veṅkaṭeśvara | Koṇḍalalō Nelakonna (Annamayya, Telugu) | [read](stotra/venkateshwara/kondalalo-nelakonna-iast.html) |
+| Veṅkaṭeśvara | Jo Achyutānanda (Annamayya, Telugu) | [read](stotra/venkateshwara/jo-achyutananda-iast.html) |
+| Veṅkaṭeśvara | Śrīman Nārāyaṇa (Annamayya, Telugu) | [read](stotra/venkateshwara/sriman-narayana-iast.html) |
 | Rāma | Paluke Bangāramāyenā (Rāmadāsu, Telugu) | [read](stotra/rama/paluke-bangaramayena-iast.html) |
 | Viṣṇu | Gajendra Mokṣam (Pōtana, Telugu) | [read](stotra/vishnu/gajendra-moksham-iast.html) |
 | Hanumān | Āñjaneya Daṇḍakam (Telugu) | [read](stotra/hanuman/anjaneya-dandakam-iast.html) |
