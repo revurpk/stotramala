@@ -27,6 +27,8 @@ IAST, Devanāgarī, or Telugu (script bar at the top).
 | Devī | Śrī Mahālakṣmī Aṣṭakam | [read](stotra/devi/mahalakshmi-ashtakam-iast.html) |
 | Devī | Mahiṣāsura Mardinī Stotram | [read](stotra/devi/mahishasura-mardini-iast.html) |
 | Veṅkaṭeśvara | Adivo Alladivo (Annamayya, Telugu) | [read](stotra/venkateshwara/adivo-alladivo-iast.html) |
+| Veṅkaṭeśvara | Brahma Kaḍigina Pādamu (Annamayya, Telugu) | [read](stotra/venkateshwara/brahma-kadigina-padamu-iast.html) |
+| Veṅkaṭeśvara | Koṇḍalalō Nelakonna (Annamayya, Telugu) | [read](stotra/venkateshwara/kondalalo-nelakonna-iast.html) |
 | Rāma | Paluke Bangāramāyenā (Rāmadāsu, Telugu) | [read](stotra/rama/paluke-bangaramayena-iast.html) |
 | Viṣṇu | Gajendra Mokṣam (Pōtana, Telugu) | [read](stotra/vishnu/gajendra-moksham-iast.html) |
 | Hanumān | Āñjaneya Daṇḍakam (Telugu) | [read](stotra/hanuman/anjaneya-dandakam-iast.html) |

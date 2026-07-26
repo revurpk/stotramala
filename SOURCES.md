@@ -529,3 +529,25 @@ were regenerated.
 | Recorded | 2026-07-25 |
 | Text status | public domain |
 | Content | Telugu-language hymn to Narasiṃha weaving in praise of the name of Rāma. A few colloquial phrases are obscure and are rendered by apparent sense (flagged in the page note). |
+
+### 6.6 Brahma Kaḍigina Pādamu — `stotra/venkateshwara/`
+
+| Field | Value |
+|---|---|
+| Author | Annamācārya (Annamayya), 15th c. |
+| Source | Telugu Wikisource, *బ్రహ్మకడిగిన పాదము* |
+| URL | `te.wikisource.org/wiki/బ్రహ్మకడిగిన పాదము` |
+| Recorded | 2026-07-25 |
+| Text status | public domain |
+| Content | kīrtana on the feet of Veṅkaṭeśvara: pallavi + 3 charaṇas. The `ప|| చ||` pallavi/charaṇa markers and the page's romanized copy are not used. |
+
+### 6.7 Koṇḍalalō Nelakonna — `stotra/venkateshwara/`
+
+| Field | Value |
+|---|---|
+| Author | Annamācārya (Annamayya), 15th c. |
+| Source | Telugu Wikisource, *కొండలలో నెలకొన్న* |
+| URL | `te.wikisource.org/wiki/కొండలలో నెలకొన్న` |
+| Recorded | 2026-07-25 |
+| Text status | public domain |
+| Content | kīrtana on Veṅkaṭeśvara (rāgam Hindōḷam): pallavi + 3 charaṇas alluding to his legendary devotees. Markers and romanized copy not used. |
