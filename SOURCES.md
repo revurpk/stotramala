@@ -481,3 +481,14 @@ Translations are original, made from the Telugu.
 | Recorded | 2026-07-25 |
 | Text status | public domain (author d. 1503) |
 | Content | pallavi + 3 caraṇas; rāgam Madhyamāvati, tāḷam Ādi |
+
+### 6.2 Paluke Bangāramāyenā — `stotra/rama/`
+
+| Field | Value |
+|---|---|
+| Author | Bhadrācala Rāmadāsu (Kañcarla Gōpanna), 17th c. |
+| Source | Telugu Wikisource, *పలుకే బంగారమాయెనా* (`{{PD-old}}`) |
+| URL | `te.wikisource.org/wiki/పలుకే బంగారమాయెనా` |
+| Recorded | 2026-07-25 |
+| Text status | public domain |
+| Content | pallavi + 5 caraṇas; rāgam Ānandabhairavi, tāḷam Ādi. Structural labels (ప:/చ N:) and the inline `\|\| పలుకే \|\|` refrain cues are dropped; the pallavi is shown once. |

@@ -1,12 +1,13 @@
 <!-- Copyright 2026 Pradyumna Revur — CC BY 4.0 (see LICENSE) -->
 # Stotramālā — स्तोत्रमाला
 
-A garland of short devotional Sanskrit texts, each published as a
-**single self-contained HTML file** — no scripts, no external fonts, no
-network requests of any kind — designed to be read comfortably on a
-phone.
+A garland of short devotional texts — mostly Sanskrit, with some
+Telugu-language works — each published as a **single self-contained
+HTML file** with no external fonts or network requests, designed to be
+read comfortably on a phone.
 
-Every stotra ships with the Sanskrit text in Roman transliteration and a
+Sanskrit stotras render in IAST, Devanāgarī, or Telugu; Telugu-language
+works show the Telugu with an IAST reading aid. Every text ships with a
 plain-English gloss written for the language enthusiast rather than the
 specialist.
 
@@ -26,6 +27,7 @@ IAST, Devanāgarī, or Telugu (script bar at the top).
 | Devī | Śrī Mahālakṣmī Aṣṭakam | [read](stotra/devi/mahalakshmi-ashtakam-iast.html) |
 | Devī | Mahiṣāsura Mardinī Stotram | [read](stotra/devi/mahishasura-mardini-iast.html) |
 | Veṅkaṭeśvara | Adivo Alladivo (Annamayya, Telugu) | [read](stotra/venkateshwara/adivo-alladivo-iast.html) |
+| Rāma | Paluke Bangāramāyenā (Rāmadāsu, Telugu) | [read](stotra/rama/paluke-bangaramayena-iast.html) |
 | Viṣṇu | Madhurāṣṭakam | [read](stotra/vishnu/madhurashtakam-iast.html) |
 | Viṣṇu | Mukunda Mālā | [read](stotra/vishnu/mukunda-mala-iast.html) |
 | Rāma | Śrī Rāma Rakṣā Stotram | [read](stotra/rama/rama-raksha-stotram-iast.html) |
