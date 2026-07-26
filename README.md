@@ -25,6 +25,7 @@ IAST, Devanāgarī, or Telugu (script bar at the top).
 | Devī | Śrī Kanakadhārā Stotram | [read](stotra/devi/kanakadhara-stotram-iast.html) |
 | Devī | Śrī Mahālakṣmī Aṣṭakam | [read](stotra/devi/mahalakshmi-ashtakam-iast.html) |
 | Devī | Mahiṣāsura Mardinī Stotram | [read](stotra/devi/mahishasura-mardini-iast.html) |
+| Veṅkaṭeśvara | Adivo Alladivo (Annamayya, Telugu) | [read](stotra/venkateshwara/adivo-alladivo-iast.html) |
 | Viṣṇu | Madhurāṣṭakam | [read](stotra/vishnu/madhurashtakam-iast.html) |
 | Viṣṇu | Mukunda Mālā | [read](stotra/vishnu/mukunda-mala-iast.html) |
 | Rāma | Śrī Rāma Rakṣā Stotram | [read](stotra/rama/rama-raksha-stotram-iast.html) |

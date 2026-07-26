@@ -50,6 +50,9 @@ def sub_head(head, st, asset):
     head = head.replace('content="Saptaślokī"', f'content="{esc(st["app_title"])}"')
     head = head.replace('href="../apple-touch-icon.png"',
                         f'href="{asset}apple-touch-icon.png"')
+    if st.get("src") == "tel":      # Telugu-language page: Telugu is the source
+        head = head.replace('<html lang="en" data-script="iast">',
+                            '<html lang="en" data-script="tel" data-src="tel">')
     return head
 
 

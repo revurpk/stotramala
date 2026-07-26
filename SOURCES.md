@@ -449,3 +449,35 @@ relative paths were adjusted (`../` → `../../`), and a redirect stub was
 left at each old top-level path so existing links do not break. The
 generator (`tools/build_stotra.py`) reads the `-iast` page as its shared
 shell, so its `SHELL` path was updated to the new location.
+
+---
+
+## 6. Telugu-language works
+
+These are compositions in the **Telugu language** (not Sanskrit). For
+them the **Telugu is the source of truth** (`src="tel"` in the data
+file, `data-src="tel"` on the page); the page offers Telugu and an
+**IAST reading aid**, generated at runtime with teltools `tel2iast`.
+Devanāgarī is not offered — it is not a meaningful script for Telugu
+literature.
+
+teltools is a Sanskrit transliterator and does not map the Telugu
+**short e/o** vowels (`ె`/`ొ`), which Sanskrit lacks (it also emits a
+spurious inherent *a* before them). The page repairs this in a small
+post-processor (`telIast`): the short signs become plain `e`/`o`. The
+short/long *e-o* length distinction is therefore not marked in the IAST
+aid — an acceptable simplification for a pronunciation guide, and one a
+reader can refine through the correction facility.
+
+Translations are original, made from the Telugu.
+
+### 6.1 Adivo Alladivo — `stotra/venkateshwara/`
+
+| Field | Value |
+|---|---|
+| Author | Annamācārya (Annamayya), 15th c. |
+| Source | Telugu Wikisource, *అదివో అల్లదివో* |
+| URL | `te.wikisource.org/wiki/అదివో అల్లదివో` |
+| Recorded | 2026-07-25 |
+| Text status | public domain (author d. 1503) |
+| Content | pallavi + 3 caraṇas; rāgam Madhyamāvati, tāḷam Ādi |

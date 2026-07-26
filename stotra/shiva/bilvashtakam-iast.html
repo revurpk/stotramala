@@ -99,6 +99,9 @@
   }
   .scriptbar button[lang="hi"]{font-family:var(--dev-font);}
   .scriptbar button[lang="te"]{font-family:var(--tel-font);}
+  /* Telugu-language pages: Telugu is the source, IAST the pronunciation aid;
+     Devanāgarī is not meaningful, so hide its button. */
+  html[data-src="tel"] .scriptbar button[data-script="dev"]{display:none;}
 
   .page{
     max-width:34rem;
@@ -751,7 +754,20 @@
     }
     function toTel(i){ return post(teltools.iast2tel(prep(i)), "tel"); }
     function toDev(i){ return post(teltools.tel2hin(teltools.iast2tel(prep(i))), "dev"); }
-    function computed(iast, sc){ return sc === "dev" ? toDev(iast) : sc === "tel" ? toTel(iast) : iast; }
+    // Telugu-LANGUAGE pages carry Telugu as source (data-src="tel"); IAST is a
+    // pronunciation aid. teltools is a Sanskrit transliterator: it leaves the
+    // Telugu short e/o (ె/ొ) as Devanāgarī signs and inserts a spurious 'a', so
+    // repair those. (Devanāgarī is not offered for Telugu-language text.)
+    function telIast(t){
+      return teltools.tel2iast(t)
+        .replace(/aॆ/g, "e").replace(/aॊ/g, "o")
+        .replace(/[ऎॆ]/g, "e").replace(/[ऒॊ]/g, "o");
+    }
+    var SRC = document.documentElement.dataset.src || "iast";
+    function computed(src, sc){
+      if (SRC === "tel") return sc === "iast" ? telIast(src) : src;   // tel is the source
+      return sc === "dev" ? toDev(src) : sc === "tel" ? toTel(src) : src;
+    }
 
     var SLUG = document.documentElement.dataset.slug || "stotra";
     var BAKED = window.STOTRA_CORRECTIONS || {};
@@ -833,8 +849,9 @@
       setTimeout(function (){ URL.revokeObjectURL(a.href); a.remove(); }, 0);
     });
 
-    var start = "iast";
+    var start = SRC === "tel" ? "tel" : "iast";
     try { var s = localStorage.getItem("stotra-script"); if (s) start = s; } catch (e) {}
+    if (SRC === "tel" && start === "dev") start = "tel";   // dev not offered here
     render(start);
     if (location.hash === "#review") setReview(true);
   })();
