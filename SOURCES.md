@@ -518,3 +518,14 @@ were regenerated.
 | Recorded | 2026-07-25 |
 | Text status | public domain |
 | Content | Sanskrit invocation + Telugu narrative of Hanumān's Rāmāyaṇa deeds + closing namaskāra. Rendered as 8 flowing segments (the source's paragraph breaks); the see-also/category wiki markup is dropped. New `stotra/hanuman/` deity folder. |
+
+### 6.5 Narasiṃha Daṇḍakam — `stotra/vishnu/`
+
+| Field | Value |
+|---|---|
+| Form | daṇḍaka (folk-devotional, 8 short stanzas) |
+| Source | Telugu Wikisource, *నరసింహ దండము* |
+| URL | `te.wikisource.org/wiki/నరసింహ దండకము` |
+| Recorded | 2026-07-25 |
+| Text status | public domain |
+| Content | Telugu-language hymn to Narasiṃha weaving in praise of the name of Rāma. A few colloquial phrases are obscure and are rendered by apparent sense (flagged in the page note). |
