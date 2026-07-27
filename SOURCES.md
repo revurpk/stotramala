@@ -441,6 +441,49 @@ page carries a `note` saying so. Compound-hyphens from the source are
 kept in the IAST as reading aids (dropped for the native scripts at
 render time).
 
+### 5.15 Bhaja Govindam — `stotra/vishnu/`
+
+| Field | Value |
+|---|---|
+| Work | *Bhaja Govindam* / *Dvādaśamañjarikā* (*Moha Mudgara*), 33 verses |
+| Author | Ādi Śaṅkarācārya (12-verse core), with disciples' verses |
+| Source | Sanskrit Wikisource, *भजगोविन्दम्*, raw wikitext |
+| URL | `sa.wikisource.org/w/index.php?title=भजगोविन्दम्&action=raw` |
+| Recorded | 2026-07-27 |
+| Text status | public domain |
+| Content | opening refrain + 12 mañjarikā verses + colophon (12a) + disciples' verses 13–33; IAST via the teltools `dev2iast` port |
+
+**On the choice of source.** The maintainer supplied a scanned PDF of
+this text from a copyrighted study-notes collection (the same "Vedanta
+Students" set used for the Vedānta Ḍiṇḍima, §7). Because Bhaja Govindam
+is a canonical text available *clean and public-domain* on Sanskrit
+Wikisource, it was keyed from there instead — so, unlike §7, **this page
+carries no commercial-redistribution restriction.**
+
+**Editorial notes (no silent emendation).** The recited Hare-Kṛṣṇa
+mahāmantra that the Wikisource copy prepends is **omitted** (it is not
+part of Śaṅkara's composition). Compound-internal spaces in the source
+were closed up (cosmetic; the transliterator ignores them). The
+Wikisource copy also carries a run of small OCR/typing errors, each
+corrected against the universally-attested standard text:
+
+| Verse | Wikisource | Corrected |
+|---|---|---|
+| 3 | मांसावसादि; मागामोहावेशम् | मांसवसादि; मा गा मोहावेशम् |
+| 5 | सक्तः **स्**तावन्निज | सक्तः तावन्निज (stray initial स्) |
+| 9 | निस्**स्**ङ्गत्वं | निस्सङ्गत्वं (malformed cluster) |
+| 12a | उपदेशो भूद्; श्रीमच्छ**न्**कर | उपदेशोऽभूद्; श्रीमच्छङ्कर |
+| 13 | सज्जनसं गति; गतिर**ै**का | सज्जनसंगति; गतिरेका |
+| 14 | पश्यन्नपि **चन** | पश्यन्नपि च न |
+| 15 | **जतं** | जातं |
+| 17 | ज्ञानवि**हि**नः | ज्ञानविहीनः |
+| 29 | विहि**आ** | विहिता |
+| 31 | भ**कतः** | भक्तः |
+| 32 | श्रीमच्छ**म्**कर; आ**सि**च् | श्रीमच्छङ्कर; आसीच् |
+
+Translations are **original work by the maintainer**, written from the
+Sanskrit.
+
 ### 5.5 Durgā page moved into `stotra/devi/`
 
 `durga-saptashloki-iast.html` and `-original.html` moved from
