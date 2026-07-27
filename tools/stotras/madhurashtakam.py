@@ -13,7 +13,7 @@ STOTRA = {
     "doc_title": "Madhurāṣṭakam",
     "app_title": "Madhurāṣṭakam",
     "h1": "Madhurāṣṭakam",
-    "subtitle": "Eight Verses on Sweetness · Vallabhācārya",
+    "subtitle": "Eight Verses on Sweetness (madhuram) of the Lord of Mathurā · Vallabhācārya",
     "footer": "Source: Sanskrit Wikisource — Madhurāṣṭakam (public domain)",
     "sections": [
         _v("adharaṃ madhuraṃ vadanaṃ madhuraṃ nayanaṃ madhuraṃ hasitaṃ madhuram",

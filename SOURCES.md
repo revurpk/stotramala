@@ -584,3 +584,34 @@ were regenerated.
 | Recorded | 2026-07-27 |
 | Text status | public domain |
 | Content | philosophical kīrtana — everyday life a play, the unseen Reality kaivalya: pallavi + 3 charaṇas. The verse text uses బతుకు (batuku), the page title బదుకు (baduku). |
+
+## 7. Sanskrit work from a scanned modern edition
+
+### 7.1 Vedānta Ḍiṇḍima — `stotra/advaita/`
+
+| Field | Value |
+|---|---|
+| Work | *Vedānta Ḍiṇḍima* ("The Kettledrum of Vedānta"), 94 verses |
+| Author | traditionally ascribed to Śrī Śaṅkarācārya |
+| Digital source | scanned PDF in the "Vedanta Students" archive.org collection (`dn720002.ca.archive.org/0/items/vedanta-students/.../022.-Vedanta-Dindima.pdf`) — a verse-by-verse presentation with Devanāgarī, IAST, and an English translation |
+| Recorded | 2026-07-27 |
+| Obtained via | the maintainer supplied the URL; the IAST was **transcribed by hand** from the page images (the Sanskrit sits in embedded images, so no text layer exists) and cross-checked **verse by verse against the printed Devanāgarī** |
+| Used for | the 94 public-domain **verses** only (IAST) |
+
+**Licensing analysis.** The verses themselves are public domain by age
+(an old Advaita *prakaraṇa* text). The scanned PDF, however, is a
+**copyrighted modern compilation** — its page layout and, in particular,
+its **English translation are the editor's work and are NOT used here**.
+Only the ancient verses were extracted; every English translation on the
+page is **original work by the maintainer**, written from the Sanskrit,
+not derived from the edition's translation.
+
+> **Unresolved.** Because the only copy consulted is a copyrighted modern
+> edition, **commercial redistribution of this work is blocked** until the
+> 94 verses are re-keyed against an independent public-domain print
+> edition of the *Vedānta Ḍiṇḍima* (or explicit permission is obtained).
+> Non-commercial personal use is unaffected. The verses were transcribed
+> under the project's "no silent emendation" rule; a handful of the
+> edition's IAST typos (e.g. *yanmadye* → *yanmadhye*, *prahiṇo* →
+> *prahīṇo*) were corrected against the facing Devanāgarī and are noted
+> here rather than passed through silently.

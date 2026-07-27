@@ -44,6 +44,7 @@ IAST, Devanāgarī, or Telugu (script bar at the top).
 | Śiva | Bilvāṣṭakam | [read](stotra/shiva/bilvashtakam-iast.html) |
 | Subrahmaṇya | Śrī Subrahmaṇya Bhujaṅgam | [read](stotra/subrahmanya/subrahmanya-bhujangam-iast.html) |
 | Advaita | Nirvāṇa Ṣaṭkam | [read](stotra/advaita/nirvana-shatkam-iast.html) |
+| Advaita | Vedānta Ḍiṇḍima (94 verses) | [read](stotra/advaita/vedanta-dindima-iast.html) |
 
 The Gaṇeśa, Viṣṇu, and Advaita stotras are works of Ādi Śaṅkara; see
 [SOURCES.md](SOURCES.md) §5 for provenance. New stotras are generated
