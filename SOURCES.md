@@ -503,9 +503,8 @@ translations. This text carries **no Vedic svara accents** (it is
 conventionally recited unaccented). Editorial notes (no silent
 emendation): two source typos corrected — v4 वाङ्ग्मय → वाङ्मय, v6
 स्थिथोऽसि → स्थितोऽसि; and the parenthetical variant *(vadiṣyāmi)* after
-*vacmi* (v2) is dropped in favour of the primary reading. Rendering note:
-in-verse *oṃ* shows as ओं (the transliterator's output) rather than the
-praṇava ligature ॐ. Translations are **original work by the maintainer**.
+*vacmi* (v2) is dropped in favour of the primary reading. Translations are
+**original work by the maintainer**.
 
 ### 5.17 Īśāvāsya Upaniṣad — `stotra/advaita/`
 
@@ -525,8 +524,7 @@ anunāsika candrabindu (ँ, e.g. *idaṁ*, *śataṁ*) is rendered **ṁ** in t
 IAST and collapses to the common anusvāra (ं) in the Devanāgarī at render
 time; source line-break hyphens (v8, v16) were joined; and the source's
 anusvāra spelling of *śānti* (शांति) is written in the conventional
-*śānti* (शान्ति) form. In-verse *oṃ* shows as ओं rather than the praṇava
-ligature ॐ (transliterator output). Translations are **original work by
+*śānti* (शान्ति) form. Translations are **original work by
 the maintainer**.
 
 ### 5.5 Durgā page moved into `stotra/devi/`
