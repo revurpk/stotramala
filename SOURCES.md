@@ -565,6 +565,25 @@ The anunāsika candrabindu (ँ) is written **ṁ** in IAST and renders as
 anusvāra in Devanāgarī, as elsewhere on the site. Markers `_`/`^` never
 occur in ordinary IAST, so all non-accented pages are unaffected.
 
+### 5.19 Manyu Sūktam (accented) — `stotra/veda/`
+
+| Field | Value |
+|---|---|
+| Work | *Manyu Sūkta*, Ṛgveda 10.83 (ṛcs 1–7) + 10.84 (ṛcs 8–14), to Manyu |
+| Source | Sanskrit Wikisource, *ऋग्वेदः सूक्तं १०.८३* and *…१०.८४* (Sāyaṇa ed.), raw wikitext |
+| Recorded | 2026-07-27 |
+| Text status | public domain |
+| Content | the accented saṃhitā (14 ṛcs), extracted from the pratīka lines |
+
+Uses the svara pipeline (see §5.18). Numbered continuously 1–14 with an
+ornament between the two component sūktas. The pluta of 10.84.5
+(*anavabravo3'smākam*, वो॒३॒॑) is preserved — the Devanāgarī numeral 3 is
+carried as ASCII `3` in the IAST source and shows the tone marks. Where
+the source stores a tone mark **before** a visarga/anusvāra (a handful of
+places, e.g. *ojaḥ*), the renderer normalises it to the canonical order
+(mark after) for correct shaping; the anunāsika ँ renders as anusvāra.
+Translations are **original work by the maintainer**.
+
 ### 5.5 Durgā page moved into `stotra/devi/`
 
 `durga-saptashloki-iast.html` and `-original.html` moved from
