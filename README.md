@@ -46,6 +46,7 @@ IAST, Devanāgarī, or Telugu (script bar at the top).
 | Advaita | Nirvāṇa Ṣaṭkam | [read](stotra/advaita/nirvana-shatkam-iast.html) |
 | Advaita | Vedānta Ḍiṇḍima (94 verses) | [read](stotra/advaita/vedanta-dindima-iast.html) |
 | Viṣṇu | Bhaja Govindam (33 verses) — Ādi Śaṅkara | [read](stotra/vishnu/bhaja-govindam-iast.html) |
+| Gaṇeśa | Gaṇapati Atharvaśīrṣa (Gaṇeśa Upaniṣad) | [read](stotra/ganesha/ganapati-atharvashirsha-iast.html) |
 
 The Gaṇeśa, Viṣṇu, and Advaita stotras are works of Ādi Śaṅkara; see
 [SOURCES.md](SOURCES.md) §5 for provenance. New stotras are generated

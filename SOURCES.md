@@ -484,6 +484,29 @@ corrected against the universally-attested standard text:
 Translations are **original work by the maintainer**, written from the
 Sanskrit.
 
+### 5.16 Gaṇapati Atharvaśīrṣa — `stotra/ganesha/`
+
+| Field | Value |
+|---|---|
+| Work | *Gaṇapati Atharvaśīrṣa* (*Gaṇeśa Upaniṣad*), Atharvan tradition |
+| Source | Sanskrit Wikisource, *गणपत्यथर्वशीर्षम्*, raw wikitext |
+| URL | `sa.wikisource.org/w/index.php?title=गणपत्यथर्वशीर्षम्&action=raw` |
+| Recorded | 2026-07-27 |
+| Text status | public domain |
+| Content | opening śānti-pāṭha, 14 numbered mantras (with the Gaṇeśa mantra, Gāyatrī, and dhyāna), closing śānti-mantra; IAST via the teltools `dev2iast` port |
+
+Prose-mantra Upaniṣad, so the daṇḍas are shown inline (`।`/`॥`) and the
+fourteen mantras carry their traditional numbers; the two śānti-pāṭhas
+are unnumbered blocks set off by ornaments, and the section labels
+(Gaṇeśa mantra, Gāyatrī, dhyāna, phalaśruti…) are folded into the
+translations. This text carries **no Vedic svara accents** (it is
+conventionally recited unaccented). Editorial notes (no silent
+emendation): two source typos corrected — v4 वाङ्ग्मय → वाङ्मय, v6
+स्थिथोऽसि → स्थितोऽसि; and the parenthetical variant *(vadiṣyāmi)* after
+*vacmi* (v2) is dropped in favour of the primary reading. Rendering note:
+in-verse *oṃ* shows as ओं (the transliterator's output) rather than the
+praṇava ligature ॐ. Translations are **original work by the maintainer**.
+
 ### 5.5 Durgā page moved into `stotra/devi/`
 
 `durga-saptashloki-iast.html` and `-original.html` moved from
