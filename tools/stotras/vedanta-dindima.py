@@ -23,9 +23,14 @@ STOTRA = {
             "invocation and the closing two) ending in the refrain iti "
             "vedāntaḍiṇḍimaḥ — ‘thus beats the ḍiṇḍima, the kettledrum of "
             "Vedānta.’ The work is traditionally ascribed to Śrī "
-            "Śaṅkarācārya and opens by invoking Dakṣiṇāmūrti, the silent teacher.",
-    "footer": "Source: Vedānta Ḍiṇḍima, attributed to Śrī Śaṅkarācārya "
-              "(verses public domain; see SOURCES.md §7)",
+            "Śaṅkarācārya and opens by invoking Dakṣiṇāmūrti, the silent teacher. "
+            "Notice: the verses are public domain, but this text was transcribed "
+            "from a copyrighted edition and is NOT cleared for commercial "
+            "redistribution — see SOURCES.md §7. Non-commercial personal use is "
+            "unaffected.",
+    "footer": "Source: Vedānta Ḍiṇḍima, attributed to Śrī Śaṅkarācārya — verses "
+              "public domain, but keyed from a copyrighted edition; not for "
+              "commercial redistribution (see SOURCES.md §7)",
     "sections": [
         _v("vedāntaḍiṇḍimāstattvamekamudghoṣayanti yat",
            "āstāṃ purastāttattejo dakṣiṇāmūrtisañjñitam", 1,
