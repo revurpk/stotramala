@@ -573,3 +573,14 @@ were regenerated.
 | Recorded | 2026-07-25 |
 | Text status | public domain |
 | Content | surrender at the Lord's feet on a garland of *kamala* (lotus) epithets: pallavi + 2 charaṇas. Mostly Sanskrit in Telugu script; the ప\|\| చ\|\| markers not used. |
+
+### 6.10 Nānāṭi Batuku Nāṭakamu — `stotra/venkateshwara/`
+
+| Field | Value |
+|---|---|
+| Author | Annamācārya (Annamayya), 15th c. |
+| Source | Telugu Wikisource, *నానాటి బదుకు నాటకము* |
+| URL | `te.wikisource.org/wiki/నానాటి బదుకు నాటకము` |
+| Recorded | 2026-07-27 |
+| Text status | public domain |
+| Content | philosophical kīrtana — everyday life a play, the unseen Reality kaivalya: pallavi + 3 charaṇas. The verse text uses బతుకు (batuku), the page title బదుకు (baduku). |
