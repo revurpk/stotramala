@@ -507,6 +507,28 @@ emendation): two source typos corrected — v4 वाङ्ग्मय → व�
 in-verse *oṃ* shows as ओं (the transliterator's output) rather than the
 praṇava ligature ॐ. Translations are **original work by the maintainer**.
 
+### 5.17 Īśāvāsya Upaniṣad — `stotra/advaita/`
+
+| Field | Value |
+|---|---|
+| Work | *Īśāvāsya* (*Īśa*) *Upaniṣad*, 18 mantras — closing chapter of the Śukla-Yajurveda Vājasaneyi Saṃhitā |
+| Source | Sanskrit Wikisource, *ईशोपनिषत्*, raw wikitext |
+| URL | `sa.wikisource.org/w/index.php?title=ईशोपनिषत्&action=raw` |
+| Recorded | 2026-07-27 |
+| Text status | public domain |
+| Content | pūrṇam-invocation (opening and closing), 18 mantras between ornaments; IAST via the teltools `dev2iast` port |
+
+Placed under the **Advaita** grouping as core Vedānta scripture (with the
+Nirvāṇa Ṣaṭkam and Vedānta Ḍiṇḍima). The Wikisource copy carries **no
+Vedic svara accents**. Handling notes (no textual emendation): the Vedic
+anunāsika candrabindu (ँ, e.g. *idaṁ*, *śataṁ*) is rendered **ṁ** in the
+IAST and collapses to the common anusvāra (ं) in the Devanāgarī at render
+time; source line-break hyphens (v8, v16) were joined; and the source's
+anusvāra spelling of *śānti* (शांति) is written in the conventional
+*śānti* (शान्ति) form. In-verse *oṃ* shows as ओं rather than the praṇava
+ligature ॐ (transliterator output). Translations are **original work by
+the maintainer**.
+
 ### 5.5 Durgā page moved into `stotra/devi/`
 
 `durga-saptashloki-iast.html` and `-original.html` moved from
