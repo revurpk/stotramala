@@ -53,6 +53,9 @@ def sub_head(head, st, asset):
     if st.get("src") == "tel":      # Telugu-language page: Telugu is the source
         head = head.replace('<html lang="en" data-script="iast">',
                             '<html lang="en" data-script="tel" data-src="tel">')
+    elif st.get("script") == "dev":  # accented Vedic page: open in Devanāgarī
+        head = head.replace('<html lang="en" data-script="iast">',
+                            '<html lang="en" data-script="dev">')
     return head
 
 

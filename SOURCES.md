@@ -527,6 +527,44 @@ anusvāra spelling of *śānti* (शांति) is written in the conventional
 *śānti* (शान्ति) form. Translations are **original work by
 the maintainer**.
 
+### 5.18 Puruṣa Sūktam (accented) — `stotra/veda/`
+
+| Field | Value |
+|---|---|
+| Work | *Puruṣa Sūkta*, Ṛgveda 10.90 (Nārāyaṇa, to Puruṣa), 16 ṛcs |
+| Source | Sanskrit Wikisource, *ऋग्वेदः सूक्तं १०.९०* (Sāyaṇa edition), raw wikitext |
+| URL | `sa.wikisource.org/w/index.php?title=ऋग्वेदः सूक्तं १०.९०&action=raw` |
+| Recorded | 2026-07-27 |
+| Text status | public domain |
+| Content | the **accented saṃhitā** (16 ṛcs), extracted from the pratīka lines and transliterated to IAST-with-svara-markers |
+
+First page to carry **Vedic svara accents**. The accented saṃhitā on the
+source page is the clean, correct text (e.g. *atyatiṣṭhad daśāṅgulam*,
+*viṣvaṅ vyakrāmat*) — unlike the corrupt unaccented *पुरुषसूक्तम्* copy,
+which is **not** used. This is the sixteen-ṛc Ṛgvedic form (the
+Taittirīya uttaranārāyaṇa continuation is not part of RV 10.90).
+Translations are **original work by the maintainer**.
+
+#### Svara pipeline (how accents are stored and rendered)
+
+The IAST source of truth carries the Vedic pitch-accents as two markers
+placed **right after the accented vowel**: `_` = anudātta (॒), `^` =
+svarita (॑); udātta is unmarked. At render time (shared shell):
+
+- **Devanāgarī** — `devSvara()` transliterates the text up to each marker
+  and re-attaches the Devanāgarī sign to the akṣara that ends that chunk
+  (a mark always follows a vowel, i.e. a syllable boundary), then
+  normalises so a tone mark follows any visarga/anusvāra on its akṣara
+  (`॒ः → ः॒`) for correct shaping. Round-trips **byte-exact** to the
+  source accented text. Accented pages open in Devanāgarī (`script:"dev"`).
+- **IAST / Telugu** — the markers are dropped (`stripSvara`); these
+  scripts are unaccented reading aids, since font support for the marks is
+  lacking. (This is the "improvise where fonts lack support" rule.)
+
+The anunāsika candrabindu (ँ) is written **ṁ** in IAST and renders as
+anusvāra in Devanāgarī, as elsewhere on the site. Markers `_`/`^` never
+occur in ordinary IAST, so all non-accented pages are unaffected.
+
 ### 5.5 Durgā page moved into `stotra/devi/`
 
 `durga-saptashloki-iast.html` and `-original.html` moved from

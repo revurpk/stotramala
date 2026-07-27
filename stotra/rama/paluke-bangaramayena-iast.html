@@ -719,6 +719,25 @@
     }
     function toTel(i){ return post(teltools.iast2tel(prep(i)), "tel"); }
     function toDev(i){ return post(teltools.tel2hin(teltools.iast2tel(prep(i))), "dev"); }
+
+    // Vedic svaras: the IAST source marks accents right after the vowel —
+    // '_' anudātta (॒), '^' svarita (॑); udātta stays unmarked. Font support is
+    // good in Devanāgarī but lacking in IAST/Telugu, so accents render only in
+    // Devanāgarī. A mark always follows a vowel (a syllable boundary), so we
+    // transliterate the text up to each mark and reattach the Devanāgarī sign
+    // to the akṣara that ends that chunk. IAST and Telugu drop the marks.
+    var SVARA = { "_": "॒", "^": "॑" };
+    function stripSvara(s){ return s.replace(/[_^]/g, ""); }
+    function devSvara(iast){
+      var out = "", re = /[_^]/g, last = 0, m;
+      while ((m = re.exec(iast))){
+        out += toDev(iast.slice(last, m.index)) + SVARA[m[0]];
+        last = m.index + 1;
+      }
+      out += toDev(iast.slice(last));
+      // canonical order: a tone mark follows any visarga/anusvāra on its akṣara
+      return out.replace(/([॒॑])([ःं])/g, "$2$1");
+    }
     // Telugu-LANGUAGE pages carry Telugu as source (data-src="tel"); IAST is a
     // pronunciation aid. teltools is a Sanskrit transliterator: it leaves the
     // Telugu short e/o (ె/ొ) as Devanāgarī signs and inserts a spurious 'a', so
@@ -733,7 +752,9 @@
     var SRC = document.documentElement.dataset.src || "iast";
     function computed(src, sc){
       if (SRC === "tel") return sc === "iast" ? telIast(src) : src;   // tel is the source
-      return sc === "dev" ? toDev(src) : sc === "tel" ? toTel(src) : src;
+      if (sc === "dev") return devSvara(src);                         // full svaras
+      if (sc === "tel") return toTel(stripSvara(src));                // svaras dropped
+      return stripSvara(src);                                         // iast reading aid
     }
 
     var SLUG = document.documentElement.dataset.slug || "stotra";
@@ -816,7 +837,9 @@
       setTimeout(function (){ URL.revokeObjectURL(a.href); a.remove(); }, 0);
     });
 
-    var start = SRC === "tel" ? "tel" : "iast";
+    // accented Vedic pages open in Devanāgarī (where svaras render); others in IAST
+    var DEF = document.documentElement.getAttribute("data-script") || "iast";
+    var start = SRC === "tel" ? "tel" : DEF;
     try { var s = localStorage.getItem("stotra-script"); if (s) start = s; } catch (e) {}
     if (SRC === "tel" && start === "dev") start = "tel";   // dev not offered here
     render(start);

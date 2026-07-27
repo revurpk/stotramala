@@ -48,6 +48,7 @@ IAST, Devanāgarī, or Telugu (script bar at the top).
 | Viṣṇu | Bhaja Govindam (33 verses) — Ādi Śaṅkara | [read](stotra/vishnu/bhaja-govindam-iast.html) |
 | Gaṇeśa | Gaṇapati Atharvaśīrṣa (Gaṇeśa Upaniṣad) | [read](stotra/ganesha/ganapati-atharvashirsha-iast.html) |
 | Advaita | Īśāvāsya Upaniṣad (18 mantras) | [read](stotra/advaita/ishavasya-upanishad-iast.html) |
+| Veda | Puruṣa Sūktam — Ṛgveda 10.90, accented (16 ṛcs) | [read](stotra/veda/purusha-suktam-iast.html) |
 
 The Gaṇeśa, Viṣṇu, and Advaita stotras are works of Ādi Śaṅkara; see
 [SOURCES.md](SOURCES.md) §5 for provenance. New stotras are generated
