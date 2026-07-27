@@ -683,9 +683,12 @@
     // scripts; our ḷ (retroflex ळ/ళ) is the library's ḻ
     function prep(s){ return s.replace(/-/g, "").replace(/ḷ/g, "ḻ"); }
     function post(s, sc){
-      return s.replace(/\|\|/g, "॥").replace(/\|/g, "।")
-              .replace(/['’]/g, AVA[sc])
-              .replace(/[0-9]/g, function (d){ return DIG[sc][+d]; });
+      s = s.replace(/\|\|/g, "॥").replace(/\|/g, "।")
+           .replace(/['’]/g, AVA[sc])
+           .replace(/[0-9]/g, function (d){ return DIG[sc][+d]; });
+      // praṇava: render a standalone oṃ (ओं) as the ॐ ligature in Devanāgarī
+      if (sc === "dev") s = s.replace(/(^|[\s।॥])ओं(?=$|[\s।॥])/g, "$1ॐ");
+      return s;
     }
     function toTel(i){ return post(teltools.iast2tel(prep(i)), "tel"); }
     function toDev(i){ return post(teltools.tel2hin(teltools.iast2tel(prep(i))), "dev"); }
