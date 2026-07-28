@@ -111,12 +111,21 @@ python tools/build_stotra.py --all           # after ANY shared-shell change
 
 ## Step 6 — Verify the round-trip
 
-Confirm the rendered scripts are correct — never ship unverified. Programmatic
-checks first: the `|| N ||` badge count matches the verse count, ornaments
-match, no leftover `_`/`^` markers in the built page. For accented texts,
-round-trip a few lines through `teltools` and compare **byte-exact** to the
-source (dotted circles = a real ordering bug). The how-to (building a teltools
-host, `devSvara`) is in `references/pipeline.md`.
+Never ship unverified. The bundled verifier renders IAST → Devanāgarī in **pure
+Python** — the exact teltools pipeline, svaras included — so it needs no browser
+and no dev server (the sandbox can block both):
+
+```bash
+python .claude/skills/add-stotra/scripts/verify.py --render < iast_lines.txt          # eyeball
+python .claude/skills/add-stotra/scripts/verify.py --check iast_lines.txt source.txt   # byte-exact PASS/FAIL
+```
+
+For accented texts this is the real check: the rendered Devanāgarī must match the
+source accented text **byte-exact** (a mismatch right before a visarga/anusvāra
+is a canonical-ordering issue — already handled, but confirm). Also sanity-check
+the built page: the `|| N ||` badge count matches the verse count and ornaments
+match. Opening the built page in a browser to look at it is a nice-to-have, not
+the verification — don't depend on it. Details in `references/pipeline.md` §4.
 
 ## Step 7 — Wire it in
 

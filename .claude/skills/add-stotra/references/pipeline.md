@@ -68,30 +68,36 @@ non-accented pages are unaffected.
 
 ## 4. Round-trip verification
 
-The transliterator (`teltools`) is inlined in every built page, exposed as
-`teltools = {…}`. To verify without a dev server, build a tiny host from a
-page's teltools block plus the four wrapper functions, open it in the browser
-preview, and compare:
+**Default: `scripts/verify.py` (pure Python, no browser, no Node).** It is a
+faithful port of the live render pipeline (`iast2tel → tel2hin → post`, plus
+`devSvara` for accents), so it runs anywhere and doesn't depend on a browser or
+dev server — both of which the sandbox can block (a localhost host gets refused;
+file-loading a page may render only a static snapshot).
 
-- **Non-accented text:** `toDev(iast)` should reproduce the source Devanāgarī.
-- **Accented text:** `devSvara(iast)` should reproduce the source accented line
-  **byte-exact**. Expected, benign diffs: (a) your canonical-order normalisation
-  moves a mark after a visarga/anusvāra; (b) anunāsika `ँ` renders as anusvāra
-  `ं` (the `ṁ`→anusvāra collapse). Anything else is a real bug.
-
-Also grep the built `*-iast.html` for stray `_`/`^` (should be none in rendered
-output) and confirm the `|| N ||` badge and ornament counts.
-
-The wrapper functions to include in the host:
-
-```js
-var DIG={dev:"०१२३४५६७८९",tel:"౦౧౨౩౪౫౬౭౮౯"}, AVA={dev:"ऽ",tel:"ఽ"};
-function prep(s){return s.replace(/-/g,"").replace(/ḷ/g,"ḻ");}
-function post(s,sc){s=s.replace(/\|\|/g,"॥").replace(/\|/g,"।").replace(/['’]/g,AVA[sc]).replace(/[0-9]/g,function(d){return DIG[sc][+d];});if(sc==="dev")s=s.replace(/(^|[\s।॥])ओं(?=$|[\s।॥])/g,"$1ॐ");return s;}
-function toDev(i){return post(teltools.tel2hin(teltools.iast2tel(prep(i))),"dev");}
-var SVARA={"_":"॒","^":"॑"};
-function devSvara(iast){var out="",re=/[_^]/g,last=0,m;while((m=re.exec(iast))){out+=toDev(iast.slice(last,m.index))+SVARA[m[0]];last=m.index+1;}out+=toDev(iast.slice(last));return out.replace(/([॒॑])([ःं])/g,"$2$1");}
+```bash
+python <skill>/scripts/verify.py --render < iast_lines.txt          # print Devanāgarī
+python <skill>/scripts/verify.py --check iast_lines.txt source.txt   # byte-exact PASS/FAIL, line-aligned
 ```
+
+- **Non-accented:** the render must reproduce the source Devanāgarī.
+- **Accented:** it must reproduce the source accented line **byte-exact**.
+  Expected, benign diffs: (a) canonical-order normalisation moves a tone mark to
+  *after* a visarga/anusvāra; (b) anunāsika `ँ` renders as anusvāra `ं` (the
+  `ṁ`→anusvāra collapse). Anything else is a real bug.
+
+Prepare the two files by taking the source's accented saṃhitā lines (or the
+plain source lines) and your data file's padas in the same order. Also confirm
+the built `*-iast.html` has the right `|| N ||` badge and ornament counts.
+
+Keep the port in sync: its tables are transcribed from the teltools block
+inlined in every built page; teltools is stable, but if it changes, re-transcribe
+`iast2tel`'s tables (`tel2hin` is a pure code-point shift, `-0x300`).
+
+**Optional visual check.** Looking at the actual built page in a browser is a
+nice extra, not the verification. If you do it, load the *built page itself*
+(copy it somewhere the preview will run its JS) — do **not** stand up a separate
+localhost teltools host; that is what the sandbox refuses. Toggle to Devanāgarī
+and confirm the accents show with no leftover `_`/`^`.
 
 ## 5. Commentary-interleaved sources
 
