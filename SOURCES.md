@@ -624,6 +624,47 @@ oEmbed endpoint. It is a plain outbound link, never an embed: nothing is
 fetched from YouTube when the page is opened, so the page stays self-contained
 and no reader is tracked for merely reading.
 
+### 5.22 Lalitā Sahasranāmam — `stotra/devi/`
+
+| Field | Value |
+|---|---|
+| Work | *Lalitā Sahasranāma Stotram* — Brahmāṇḍa Purāṇa, Uttarakhaṇḍa (Hayagrīva to Agastya) |
+| Source | Sanskrit Wikisource, *श्रीललितासहस्रनामस्तोत्रम्*, raw wikitext |
+| Recorded | 2026-08-09 |
+| Text status | verses ancient / public domain; Wikisource page CC BY-SA |
+| Content | the dhyāna verse, the 182 verses of names, the closing verse (184 blocks, 2 ornaments) |
+
+Translations are **original work by the maintainer**.
+
+**Scope.** The nyāsa/viniyoga preamble (ṛṣi, chandas, bīja, śakti, kīlaka) is
+**omitted** — japa mechanics rather than reading text, consistent with the
+Viṣṇu Sahasranāma page (§5.21). The dhyāna, the thousand names and the closing
+verse are included.
+
+**Editorial notes (no silent emendation).** The source carries **thirteen
+inline variant readings**, written as `or <word>` after the line. In every case
+the primary (in-verse) reading is used and the variant recorded here:
+v9 *radanacchadā* / **daśanacchadā**; v11 *nijasallāpa* / **nijasaṃlāpa**;
+v12 *cibukaśrī* / **cubukaśrī**; v20 *siñjāna* / **śiñjāna**;
+v48 *niḥsaṃśayā* / **nissaṃśayā**; v78 *pāṣaṇḍā* / **pākhaṇḍā**;
+v91 *niḥsīma* / **nissīma**; v111 *bandhamocanī* / **mocanī** and
+*bandhurālakā* / **barbarālakā** (the latter stands on its own line in the
+source and is not part of the verse); v123 *vinodinī* / **vimodinī**;
+v131 *ajājaitrī* / **ajājetrī**; v150 *mārtāṇḍa* / **mārtaṇḍa**;
+v163 *sudhāsṛtiḥ* / **sudhāsrutiḥ**; v168 *saumyā* / **somyā**.
+One OCR split is corrected: the closing line's *nām nāṃ* is read as **nāmnāṃ**.
+
+**Verification.** Round-trip checked with `scripts/verify.py` over all 364
+padas: **358 identical**. The remaining six differ only in *word division* —
+the source writes a word-final virāma consonant separated from a following
+vowel (e.g. `मूलप्रकृतिर् अव्यक्ता`) where the page uses the conventional
+joined form (`मूलप्रकृतिरव्यक्ता`). The akṣaras are the same; this is a
+presentational difference in the source, not a textual one.
+
+**Audio.** Links to the Ranjani–Gayatri recitation on the artists' own channel
+(`zgG-gjioU1g`), verified live via YouTube's oEmbed endpoint. As on all pages,
+this is a plain outbound link, never an embed.
+
 ### 5.5 Durgā page moved into `stotra/devi/`
 
 `durga-saptashloki-iast.html` and `-original.html` moved from
