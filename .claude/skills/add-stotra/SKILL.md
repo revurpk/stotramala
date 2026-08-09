@@ -95,6 +95,27 @@ Devanāgarī and `src:"tel"` marks Telugu-source pages; sections are `_v(padas,
 num, gloss)` dicts or the string `"ornament"` for a separator; daṇḍas ride
 inline as `|` / `||` and the verse number goes in `num`.
 
+### Optional: a recitation link
+
+Pages may carry `"audio"` (a YouTube watch URL) and `"audio_label"`, rendered as
+a plain outbound link in the header — **never an embed**, so the page stays
+self-contained and no reader is tracked for opening it.
+
+**Never write a video ID from memory — they are not memorable and a wrong one
+silently 404s or points somewhere unrelated.** Search for real candidates, then
+confirm each against YouTube's oEmbed endpoint, which also returns the true
+title and channel so you can check it matches:
+
+```bash
+curl -s "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=<ID>&format=json"
+```
+
+Prefer the rights-holder's own or official artist channel; make the label claim
+only what the verified metadata supports (name the piece if you can't confirm
+the performer); and match the recension the page actually carries. If no real
+recitation exists — only a lecture, say — leave `audio` out rather than
+mislabel it.
+
 ## Step 4 — Translate
 
 Write **your own** translations — accurate, plain, faithful to the Sanskrit,
