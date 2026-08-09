@@ -25,6 +25,8 @@ STOTRA = {
             "pitch-accents (anudātta ॒ below, svarita ॑ above; udātta unmarked), "
             "shown in the Devanāgarī, in which this page opens; the IAST and "
             "Telugu are unaccented reading aids.",
+    "audio": "https://www.youtube.com/watch?v=jJ1hxYOifuI",
+    "audio_label": "Challakere Brothers · Ṛgveda recension",
     "footer": "Source: Sanskrit Wikisource — ऋग्वेदः सूक्तं १०.९० (accented saṃhitā, Sāyaṇa edition; public domain)",
     "sections": [
         _v(["sa_hasra^śīrṣā_ puru^ṣaḥ sahasrā_kṣaḥ sa_hasra^pāt |",

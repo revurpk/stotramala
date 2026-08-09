@@ -19,6 +19,8 @@ STOTRA = {
     "note": "A kīrtana of Annamācārya, its epithets a play on kamala, "
             "‘lotus’. The text is mostly Sanskrit in Telugu script; the Telugu "
             "is the source and the IAST a reading aid.",
+    "audio": "https://www.youtube.com/watch?v=cr63nowhN_U",
+    "audio_label": "M. S. Subbulakshmi",
     "footer": "Source: Telugu Wikisource — శ్రీమన్నారాయణ (public domain)",
     "sections": [
         _v(["శ్రీమన్నారాయణ శ్రీమన్నారాయణ",

@@ -14,6 +14,8 @@ STOTRA = {
     "app_title": "Liṅgāṣṭakam",
     "h1": "Liṅgāṣṭakam",
     "subtitle": "Eight Verses to the Sadāśiva Liṅga",
+    "audio": "https://www.youtube.com/watch?v=uOHQDmLVE6U",
+    "audio_label": "Abhijit Ghoshal",
     "footer": "Source: Sanskrit Wikisource — Liṅgāṣṭakam (public domain)",
     "sections": [
         _v("brahmamurārī surārcita liṅgaṃ",

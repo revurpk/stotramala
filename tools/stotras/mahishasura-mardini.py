@@ -23,6 +23,8 @@ STOTRA = {
             "it is clear and paraphrase the sound-play. Every verse closes with "
             "the refrain — “Victory, victory to you, slayer of the demon Mahiṣa, "
             "lovely-tressed daughter of the mountain!”",
+    "audio": "https://www.youtube.com/watch?v=442ewPgXHQ0",
+    "audio_label": "Rajalakshmee Sanjay",
     "footer": "Source: Sanskrit Wikisource — Mahiṣāsuramardinī Stotram (public domain)",
     "sections": [
         _v("ayigirinandini nanditamedini viśvavinodini nandanute",

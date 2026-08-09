@@ -11,6 +11,8 @@ STOTRA = {
     "app_title": "Nirvāṇa Ṣaṭkam",
     "h1": "Nirvāṇa Ṣaṭkam",
     "subtitle": "Six Verses on the Self · Ātma Ṣaṭkam",
+    "audio": "https://www.youtube.com/watch?v=l9qItbWC2jo",
+    "audio_label": "Chidānanda Rūpaḥ Śivo'ham",
     "footer": "Source: Sanskrit Wikisource — Nirvāṇaṣaṭkam (public domain)",
     "sections": [
         {

@@ -24,6 +24,8 @@ STOTRA = {
             "Bhāgavatam (8th skandha): Gajendra, seized by the crocodile, gives "
             "up all else and appeals to the Supreme. The Telugu is the source; "
             "the IAST is a reading aid.",
+    "audio": "https://www.youtube.com/watch?v=LOdRyvqEKsg",
+    "audio_label": "Pothana padyālu, with meanings",
     "footer": "Source: Telugu Wikisource — పోతన తెలుగు భాగవతము, అష్టమ స్కంధము (public domain)",
     "sections": [
         _v(["ఏ రూపంబున దీని గెల్తు? నిటమీఁ దేవేల్పుఁ జింతింతు? నె",

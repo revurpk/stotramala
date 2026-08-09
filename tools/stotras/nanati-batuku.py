@@ -19,6 +19,8 @@ STOTRA = {
     "note": "A philosophical kīrtana of Annamācārya: the daily round is a "
             "passing drama, and the Reality glimpsed beyond it is liberation "
             "(kaivalya). The Telugu is the source; the IAST is a reading aid.",
+    "audio": "https://www.youtube.com/watch?v=6sjvTxKtAS4",
+    "audio_label": "Rahul Vellal",
     "footer": "Source: Telugu Wikisource — నానాటి బదుకు నాటకము (public domain)",
     "sections": [
         _v(["నానాటి బతుకు నాటకము",

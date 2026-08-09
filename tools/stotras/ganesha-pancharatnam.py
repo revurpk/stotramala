@@ -9,6 +9,8 @@ STOTRA = {
     "app_title": "Gaṇeśa",
     "h1": "Śrī Gaṇeśa Pañcaratnam",
     "subtitle": "Five Gems in Praise of Gaṇeśa",
+    "audio": "https://www.youtube.com/watch?v=bgnEJM0C1Cg",
+    "audio_label": "Mudakarātha Modakam",
     "footer": "Source: Sanskrit Wikisource — Gaṇeśapañcaratna Stotram (public domain)",
     "sections": [
         {

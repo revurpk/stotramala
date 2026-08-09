@@ -19,6 +19,8 @@ STOTRA = {
     "note": "A Telugu-language kīrtana of Annamācārya. The Telugu is the source; "
             "the IAST is a reading aid for pronunciation. (rāgam Madhyamāvati, "
             "tāḷam Ādi.)",
+    "audio": "https://www.youtube.com/watch?v=prIsBUMcsps",
+    "audio_label": "Adivo Alladivo Śrīhari Vāsamu",
     "footer": "Source: Telugu Wikisource — అదివో అల్లదివో (public domain)",
     "sections": [
         _v(["అదివో అల్లదివో శ్రీహరివాసము",

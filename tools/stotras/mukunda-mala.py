@@ -15,6 +15,8 @@ STOTRA = {
     "app_title": "Mukunda Mālā",
     "h1": "Mukunda Mālā",
     "subtitle": "A Garland to Mukunda · Kulaśekhara",
+    "audio": "https://www.youtube.com/watch?v=CP0HLIG1lJI",
+    "audio_label": "Kalyani Menon",
     "footer": "Source: Sanskrit Wikisource — Mukundamālā (public domain)",
     "sections": [
         _v("ghuṣyate yasya nagare raṅgayātrā dine dine",

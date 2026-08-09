@@ -21,6 +21,8 @@ STOTRA = {
             "verses and colophons, 33 verses in all. The refrain bhaja "
             "govindaṃ urges the mind to turn from craving to the Self. The "
             "recited Hare-Kṛṣṇa prelude, not part of the composition, is omitted.",
+    "audio": "https://www.youtube.com/watch?v=SAl7RghW7kE",
+    "audio_label": "M. S. Subbulakshmi",
     "footer": "Source: Sanskrit Wikisource — भजगोविन्दम् (public domain)",
     "sections": [
         _v("bhajagovindaṃ bhajagovindaṃ", "govindaṃ bhajamūḍhamate",

@@ -15,6 +15,8 @@ STOTRA = {
     "app_title": "Mahālakṣmī Aṣṭakam",
     "h1": "Śrī Mahālakṣmī Aṣṭakam",
     "subtitle": "Eight Verses to Mahālakṣmī",
+    "audio": "https://www.youtube.com/watch?v=7raCT0sn1jM",
+    "audio_label": "Veena Varuni & Chinmayi",
     "footer": "Source: Sanskrit Wikisource — Śrī Mahālakṣmyaṣṭakam (public domain)",
     "sections": [
         _v("namaste'stu mahāmāye śrīpīṭhe surapūjite",

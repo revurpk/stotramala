@@ -20,6 +20,8 @@ STOTRA = {
             "source; the IAST is a reading aid for pronunciation. The pallavi is "
             "the refrain, returned to after each caraṇa. (rāgam Ānandabhairavi, "
             "tāḷam Ādi.)",
+    "audio": "https://www.youtube.com/watch?v=LMuVxwXUVwA",
+    "audio_label": "Uthara & P. Unnikrishnan",
     "footer": "Source: Telugu Wikisource — పలుకే బంగారమాయెనా (public domain)",
     "sections": [
         _v(["పలుకే బంగారమాయెనా కోదండపాణి"],

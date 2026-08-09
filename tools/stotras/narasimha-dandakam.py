@@ -19,6 +19,8 @@ STOTRA = {
             "Rāma. The Telugu is the source; the IAST is a reading aid. A few "
             "colloquial phrases are obscure and are rendered by their apparent "
             "sense.",
+    "audio": "https://www.youtube.com/watch?v=rU8ffTTO1us",
+    "audio_label": "S. P. Balasubrahmanyam",
     "footer": "Source: Telugu Wikisource — నరసింహ దండకము (public domain)",
     "sections": [
         _v(["శ్రీ హరి పతి నిన్ను - వేడితి నరశింహా",

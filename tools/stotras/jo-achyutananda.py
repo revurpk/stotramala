@@ -18,6 +18,8 @@ STOTRA = {
     "note": "A Telugu-language lullaby (jōla) of Annamācārya (rāgam Navarōju) "
             "to the infant Kṛṣṇa. The Telugu is the source; the IAST is a "
             "reading aid.",
+    "audio": "https://www.youtube.com/watch?v=SP00Cd2T2Gk",
+    "audio_label": "Priya Sisters",
     "footer": "Source: Telugu Wikisource — జో అచ్యుతానంద జోజో ముకుంద (public domain)",
     "sections": [
         _v(["జోఅచ్యుతానంద జోజో ముకుంద",

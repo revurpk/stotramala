@@ -21,6 +21,8 @@ STOTRA = {
             "Framed by the peace-invocations (śānti-pāṭha), its heart is fourteen "
             "mantras, including the Gaṇeśa mantra, the Gāyatrī, and the "
             "meditation-verse (dhyāna), closing with the fruits of recitation.",
+    "audio": "https://www.youtube.com/watch?v=7nIZcKM-BiM",
+    "audio_label": "Priests of Kashi · Ved Vrind",
     "footer": "Source: Sanskrit Wikisource — गणपत्यथर्वशीर्षम् (public domain)",
     "sections": [
         _v([

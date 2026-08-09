@@ -14,6 +14,8 @@ STOTRA = {
     "app_title": "Madhurāṣṭakam",
     "h1": "Madhurāṣṭakam",
     "subtitle": "Eight Verses on Sweetness (madhuram) of the Lord of Mathurā · Vallabhācārya",
+    "audio": "https://www.youtube.com/watch?v=ZmCfrYWdfiM",
+    "audio_label": "Adharaṃ Madhuraṃ",
     "footer": "Source: Sanskrit Wikisource — Madhurāṣṭakam (public domain)",
     "sections": [
         _v("adharaṃ madhuraṃ vadanaṃ madhuraṃ nayanaṃ madhuraṃ hasitaṃ madhuram",

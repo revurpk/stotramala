@@ -9,6 +9,8 @@ STOTRA = {
     "app_title": "Achyutāṣṭakam",
     "h1": "Achyutāṣṭakam",
     "subtitle": "Eight Verses to Acyuta",
+    "audio": "https://www.youtube.com/watch?v=mnoIy0tPhEc",
+    "audio_label": "Uthara Unnikrishnan",
     "footer": "Source: Sanskrit Wikisource — Achyutāṣṭakam (public domain)",
     "sections": [
         {

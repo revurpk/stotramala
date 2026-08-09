@@ -15,6 +15,8 @@ STOTRA = {
     "app_title": "Kanakadhārā",
     "h1": "Śrī Kanakadhārā Stotram",
     "subtitle": "The Stream of Gold · a Hymn to Lakṣmī",
+    "audio": "https://www.youtube.com/watch?v=Q_kNJc1Dw9U",
+    "audio_label": "M. S. Subbulakshmi",
     "footer": "Source: Sanskrit Wikisource — Śrī Kanakadhārā Stotram (public domain)",
     "sections": [
         _v("aṅgaṃ hareḥ pulakabhūṣaṇamāśrayantī",

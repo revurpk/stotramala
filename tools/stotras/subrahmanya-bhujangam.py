@@ -15,6 +15,8 @@ STOTRA = {
     "app_title": "Subrahmaṇya Bhujaṅgam",
     "h1": "Śrī Subrahmaṇya Bhujaṅgam",
     "subtitle": "The Serpent-Metre Hymn to Subrahmaṇya · Ādi Śaṅkara",
+    "audio": "https://www.youtube.com/watch?v=C-0hCiDfYHk",
+    "audio_label": "Ranjani–Gayatri",
     "footer": "Source: Sanskrit Wikisource — Subrahmaṇyabhujaṅgam (public domain)",
     "sections": [
         _v("sadā bālarūpāpi vighnādrihantrī",

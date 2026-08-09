@@ -21,6 +21,8 @@ STOTRA = {
             "numbers. The Telugu is the source; the IAST is a reading aid. Sanskrit "
             "invocations open and close it; the body, in Telugu, recounts "
             "Hanumān's deeds in the Rāmāyaṇa in one long sweep.",
+    "audio": "https://www.youtube.com/watch?v=Yy6ADa6OucY",
+    "audio_label": "Sooryagayathri",
     "footer": "Source: Telugu Wikisource — ఆంజనేయ దండకం (public domain)",
     "sections": [
         _v(["శ్రీ ఆంజనేయం ప్రసన్నాంజనేయం ప్రభాదివ్యకాయం ప్రకీర్తిప్రదాయం",

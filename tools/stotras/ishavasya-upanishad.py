@@ -30,6 +30,8 @@ STOTRA = {
             "holding the whole of Vedānta: the Lord indwelling all, action "
             "without craving, and the Self beyond death. Framed by the "
             "pūrṇam-invocation of fullness.",
+    "audio": "https://www.youtube.com/watch?v=Ax6b1et4s1c",
+    "audio_label": "Vedic chant with Devanāgarī text",
     "footer": "Source: Sanskrit Wikisource — ईशोपनिषत् (public domain)",
     "sections": [
         _SHANTI,

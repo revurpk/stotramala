@@ -22,6 +22,8 @@ STOTRA = {
             "Tirukkacchinambi. The Telugu is the source; the IAST is a reading "
             "aid, and the devotee-legends are rendered by their traditional "
             "sense.",
+    "audio": "https://www.youtube.com/watch?v=4aGsmcycDgQ",
+    "audio_label": "G. Balakrishna Prasad",
     "footer": "Source: Telugu Wikisource — కొండలలో నెలకొన్న (public domain)",
     "sections": [
         _v(["కొండలలో నెలకొన్న కోనేటి రాయడు వాడు",

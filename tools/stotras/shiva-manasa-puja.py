@@ -14,6 +14,8 @@ STOTRA = {
     "app_title": "Śiva Mānasa Pūjā",
     "h1": "Śiva Mānasa Pūjā",
     "subtitle": "Mental Worship of Śiva · Ādi Śaṅkara",
+    "audio": "https://www.youtube.com/watch?v=0fKqU-9XDSU",
+    "audio_label": "Geeta Chandrashekar",
     "footer": "Source: Sanskrit Wikisource — Śiva Mānasa Pūjā (public domain)",
     "sections": [
         _v("ratnaiḥ kalpitamāsanaṃ himajalaiḥ snānaṃ ca divyāmbaraṃ",

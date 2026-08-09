@@ -15,6 +15,8 @@ STOTRA = {
     "app_title": "Bilvāṣṭakam",
     "h1": "Bilvāṣṭakam",
     "subtitle": "Eight Verses on the Bilva Leaf",
+    "audio": "https://www.youtube.com/watch?v=sgo76IbOQy8",
+    "audio_label": "Madhu Balakrishnan",
     "footer": "Source: Sanskrit Wikisource — Bilvāṣṭakam (public domain)",
     "sections": [
         _v("tridalaṃ triguṇākāraṃ trinetraṃ ca triyāyudham",

@@ -665,6 +665,38 @@ presentational difference in the source, not a textual one.
 (`zgG-gjioU1g`), verified live via YouTube's oEmbed endpoint. As on all pages,
 this is a plain outbound link, never an embed.
 
+### 5.23 Recitation links (all pages)
+
+Every page except one carries an optional **recitation link** in its header
+(`"audio"` / `"audio_label"` in the data file, rendered by
+`tools/build_stotra.py`). Conventions, and why they matter:
+
+- **Link, never embed.** The link is a plain outbound `<a href>` with
+  `target="_blank" rel="noopener noreferrer"`. Nothing is fetched from YouTube
+  when the page loads, so pages remain **self-contained** and no reader is
+  tracked merely for opening one. Following the link is the reader's choice.
+- **Every video ID was verified live** against YouTube's oEmbed endpoint
+  (`/oembed?url=…&format=json`) before shipping, which confirms the video
+  exists and returns its real title and channel. This matters: an
+  unverified/remembered ID is worthless — the first candidate tried during this
+  work 404'd. IDs are never written from memory.
+- **Preference order** for the source channel: the rights-holder's own or
+  official artist channel (e.g. *M.S. Subbulakshmi – Topic*, *Saregama Carnatic
+  Classical*, *Ranjani–Gayatri*, *Challakere Brothers Official*, *SP
+  Balasubrahmanyam – Topic*), then established devotional labels.
+- **Labels are only what the verified title/author supports** — where the
+  performer could not be confirmed from the verified metadata, the label names
+  the piece rather than guessing a singer.
+- **Recension matters.** Puruṣa Sūktam links a *Ṛgveda* recitation, matching
+  the RV 10.90 text on the page rather than the commoner Yajurveda liturgical
+  form.
+- **Known limitation.** These links are checked for existence and title match,
+  not audited for the quality or exactness of the recitation, and YouTube
+  videos can be taken down later. They are an aid, not part of the text.
+- **Vedānta Ḍiṇḍima has no link**: no recitation could be found, only a
+  verse-by-verse English lecture series, which would be mislabelled as
+  "listen". Left absent rather than misdescribed.
+
 ### 5.5 Durgā page moved into `stotra/devi/`
 
 `durga-saptashloki-iast.html` and `-original.html` moved from

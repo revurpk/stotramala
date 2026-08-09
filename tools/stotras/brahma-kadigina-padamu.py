@@ -19,6 +19,8 @@ STOTRA = {
     "note": "A Telugu-language kīrtana of Annamācārya — a garland of praise to "
             "the Lord's foot, each line naming one of its deeds. The Telugu is "
             "the source; the IAST is a reading aid.",
+    "audio": "https://www.youtube.com/watch?v=B-vSPVVque0",
+    "audio_label": "M. S. Subbulakshmi",
     "footer": "Source: Telugu Wikisource — బ్రహ్మకడిగిన పాదము (public domain)",
     "sections": [
         _v(["బ్రహ్మకడిగిన పాదము",

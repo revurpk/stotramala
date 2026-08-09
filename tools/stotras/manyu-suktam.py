@@ -25,6 +25,8 @@ STOTRA = {
             "the Vedic pitch-accents (anudātta ॒ below, svarita ॑ above; udātta "
             "unmarked), shown in the Devanāgarī, in which this page opens; the "
             "IAST and Telugu are unaccented reading aids.",
+    "audio": "https://www.youtube.com/watch?v=52ugjBz-hgM",
+    "audio_label": "Vedic chant with Sanskrit text",
     "footer": "Source: Sanskrit Wikisource — ऋग्वेदः सूक्तं १०.८३ & १०.८४ (accented saṃhitā, Sāyaṇa edition; public domain)",
     "sections": [
         _v(["yaste^ ma_nyo'vi^dhadvajra sāyaka_ saha_ oja^ḥ puṣyati_ viśva^mānu_ṣak |",

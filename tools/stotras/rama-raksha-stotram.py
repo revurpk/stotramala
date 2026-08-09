@@ -16,6 +16,8 @@ STOTRA = {
     "app_title": "Rāma Rakṣā",
     "h1": "Śrī Rāma Rakṣā Stotram",
     "subtitle": "The Armour of Rāma · Budha Kauśika",
+    "audio": "https://www.youtube.com/watch?v=EMeSTcffrEI",
+    "audio_label": "Ranjani–Gayatri",
     "footer": "Source: Sanskrit Wikisource — Rāmarakṣāstotram (public domain)",
     "sections": [
         _v(["caritaṃ raghunāthasya śatakoṭipravistaram",
