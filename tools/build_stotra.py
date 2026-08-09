@@ -99,6 +99,11 @@ def render_body(st, slug, asset):
         f'    <p class="subtitle">{esc(st["subtitle"])}</p>\n'
         '    <hr class="titlerule">\n'
         + (f'    <p class="subtitle" style="font-size:.8rem;max-width:26rem;margin:.5rem auto 0;">{esc(st["note"])}</p>\n' if st.get("note") else "")
+        # Optional recitation link. The page stays self-contained — this is a
+        # plain outbound link the reader chooses to follow, never an embed, so
+        # nothing is fetched from YouTube at read time and no one is tracked
+        # for simply opening the page.
+        + (f'    <p class="guidelink">▸ <a href="{esc(st["audio"])}" target="_blank" rel="noopener noreferrer">listen: {esc(st.get("audio_label", "recitation"))}</a> <span style="opacity:.7">(YouTube)</span></p>\n' if st.get("audio") else "")
         + f'    <p class="guidelink"><a href="{asset}index.html">all stotras</a> · <a href="{asset}pronunciation.html">pronunciation guide</a></p>\n'
         '  </header>\n'
     ]

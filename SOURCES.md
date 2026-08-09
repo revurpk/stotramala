@@ -584,6 +584,46 @@ places, e.g. *ojaḥ*), the renderer normalises it to the canonical order
 (mark after) for correct shaping; the anunāsika ँ renders as anusvāra.
 Translations are **original work by the maintainer**.
 
+### 5.21 Viṣṇu Sahasranāmam — `stotra/vishnu/`
+
+| Field | Value |
+|---|---|
+| Work | *Viṣṇu Sahasranāma Stotram* — Mahābhārata, Anuśāsana-parvan (Bhīṣma to Yudhiṣṭhira) |
+| Source | Sanskrit Wikisource, *विष्णुसहस्रनामस्तोत्रम्*, raw wikitext |
+| Recorded | 2026-08-09 |
+| Text status | verses ancient / public domain; Wikisource page CC BY-SA |
+| Content | 7 dhyāna verses, the 108 verses of names, 5 closing verses (120 blocks, 2 ornaments) |
+
+**Provenance chain.** The Wikisource page's own `==स्रोतः==` notes it was
+converted from an ITRANS version at sanskritdocuments.org. That is worth
+recording plainly. It is *not* the blocked case of §7/Durgā Sūktam: what is
+reused here is a bare, unaccented transcription of a Mahābhārata text that is
+unambiguously public domain, carrying no editorial layer (no accents, no
+commentary, no translation) in which a new copyright could subsist — and it is
+taken from Wikisource under CC BY-SA, not fetched from the restricted source.
+Translations are **original work by the maintainer**.
+
+**Scope.** The Wikisource page is a full ritual manual. Included here: the
+dhyāna, the thousand names, and the closing kṣamā-prārthanā. **Omitted** (with
+reason, not silently): the pūrva-/kara-/ṣaḍaṅga-/uttara-nyāsa sections, which
+are japa mechanics rather than reading text; the Mahābhārata frame dialogue
+(Vaiśampāyana / Yudhiṣṭhira / Bhīṣma); and the Rāma-stuti appendix in
+`==उपसंहारश्लोकाः==`, which belongs to Rāma rather than to this stotra.
+
+**Editorial notes.** v43 the source carries a parenthetical variant
+*विरजो (or विरतो)*; the primary reading **virajo** is used and the variant
+recorded here, unaltered in the source. Round-trip verified with
+`scripts/verify.py`: **214 of 216 padas byte-exact**; the two differences are
+the v43 parenthetical above and v65 *śrīmāṁllokatrayāśrayaḥ*, where the
+source's anunāsika ँ renders as anusvāra ं — the documented `ṁ` collapse
+(§5.18), not an error.
+
+**Audio.** Links to a recitation on the official rights-holder channel
+(*M.S. Subbulakshmi – Topic*, `ATflA6WOy0I`), verified live via YouTube's
+oEmbed endpoint. It is a plain outbound link, never an embed: nothing is
+fetched from YouTube when the page is opened, so the page stays self-contained
+and no reader is tracked for merely reading.
+
 ### 5.5 Durgā page moved into `stotra/devi/`
 
 `durga-saptashloki-iast.html` and `-original.html` moved from
