@@ -69,8 +69,11 @@ def render_verse(v, asset):
         lines.append(f'      <span class="num sans">{esc(v["num"])}</span>')
     body = "\n".join(lines)
     gloss = esc(v["gloss"])
+    # "prose": long ritual formulae (saṅkalpa, āvāhana) set a size down,
+    # using the shell's existing .viniyoga style
+    cls = "verse viniyoga" if v.get("prose") else "verse"
     return (
-        '  <div class="verse">\n'
+        f'  <div class="{cls}">\n'
         f'    <p class="lines">\n{body}</p>\n'
         '    <details class="gloss">\n'
         '      <summary>translation</summary>\n'
@@ -110,6 +113,13 @@ def render_body(st, slug, asset):
     for sec in st["sections"]:
         if sec == "ornament":
             parts.append('  <div class="ornament">❧</div>')
+        elif "heading" in sec:
+            # section title (e.g. the parts of a vrata); Latin, not transliterated
+            parts.append(f'  <p class="speaker">{esc(sec["heading"])}</p>')
+        elif "rubric" in sec:
+            # a ritual instruction, in English, between the recited texts
+            parts.append('  <p class="colophon-gloss" style="margin:0 auto 1.4rem;'
+                         f'max-width:30rem;">{esc(sec["rubric"])}</p>')
         else:
             parts.append(render_verse(sec, asset))
     parts.append(

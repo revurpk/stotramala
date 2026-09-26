@@ -871,3 +871,149 @@ not derived from the edition's translation.
 > edition's IAST typos (e.g. *yanmadye* → *yanmadhye*, *prahiṇo* →
 > *prahīṇo*) were corrected against the facing Devanāgarī and are noted
 > here rather than passed through silently.
+
+### 7.2 Śrī Satyanārāyaṇa Vratakalpam — `stotra/vishnu/`
+
+| Field | Value |
+|---|---|
+| Work | *Śrī Satyanārāyaṇa Vratakalpa* — the complete vrata: preliminaries, saṅkalpa, Gaṇapati pūjā, pañcalokapāla, navagraha and aṣṭadikpāla pūjā, the ṣoḍaśopacāra pūjā of Satyanārāyaṇa (Puruṣa Sūkta + Śrī Sūkta), and the five-chapter *vrata-kathā* of the Skānda Purāṇa, Revākhaṇḍa |
+| Tradition | Annavaram (Śrī Vīra Veṅkaṭa Satyanārāyaṇa Svāmi devasthānam) |
+| Digital source | `Satyanarayana_Vratakalpamu_Combined.htm` — the maintainer's own Word compilation, keyed from a couple of **Telugu-script vratakalpam booklets from Annavaram** |
+| Recorded | 2026-09-26 |
+| Obtained via | Telugu script → IAST by a code-point shift to Devanāgarī plus the skill's `dev2iast.py`; every block then re-set by hand against the extraction |
+| Used for | the Sanskrit text only (IAST source of truth; 289 text blocks, 1,405 padas, 52 section headings, 16 English rubrics) |
+
+**Licensing analysis.** The Sanskrit — Vedic mantras, Purāṇic ślokas, the
+kathā, the ritual formulae — is public domain by age. The booklets are
+**copyrighted modern editions**: their Telugu directions and their Telugu
+*tātparya* (a prose meaning under every kathā verse) are **not reproduced,
+paraphrased or translated here**. The page's English rubrics are the
+maintainer's own brief statement of the ritual steps, and every gloss is
+**original work by the maintainer, translated from the Sanskrit**.
+
+> **Unresolved.** As with §7.1, the only copies consulted are modern
+> booklets. Before any **commercial** redistribution, re-check the Sanskrit
+> against an independent public-domain print of the vratakalpa (or obtain
+> permission). Non-commercial use is unaffected.
+
+**Scope.** Included: everything from the opening mantras through the
+*maṇṭapa-dāna* and the closing colophon. **Omitted**, with reason: the Telugu
+material described above; the booklet's list of required articles (a
+shopping list, summarised in the first rubric); and the **Viṣṇu
+Sahasranāmāvaḷi** appended after the colophon — the site already carries the
+Sahasranāma stotra (§5.21), and the Word export had scrambled the
+nāmāvaḷi's table order beyond reliable recovery.
+
+**Normalisation (orthographic, not textual).** Applied throughout, following
+site convention: word division re-set (Telugu print splits words at
+geminates and vowel boundaries — *muhūrta ssumuhūrtostu* →
+*muhūrtassumuhūrto'stu*, *bhagavā nuvāca* → *bhagavānuvāca*); anusvāra before
+a stop written as the class nasal (*gaṃdha* → *gandha*); Telugu ళ in Sanskrit
+words written *l* (*maṅgaḷa* → *maṅgala*), except the bīja *ḷaṃ*; missing
+avagraha supplied (*namostute* → *namo'stu te*); Telugu aspirate spellings of
+*artha* (*prītyardhaṃ* → *prītyarthaṃ*); *mahālakṣmi-* → *mahālakṣmī-* in the
+recurring offering formula; Taittirīya anusvāra kept as *gṃ* (renders గ్ం /
+ग्ं exactly as the source); the book's daṇḍa placement kept, with `|`/`||`
+supplied at half-verse ends. Section labels (*dhyānaṃ*, *maṃ॥*, *ślo॥*,
+*tā॥*) are dropped as markup. Vedic mantras carry no svaras (the source has
+none).
+
+**Table order restored.** The Word export flattened nine multi-column
+tables row by row. Column order was restored, and each list set-checked
+against the standard sequence so no name is lost or invented:
+the 24 ācamana names (3 columns); the 16 Gaṇapati names (3 columns); the
+karanyāsa and aṅganyāsa (2 columns); the Kṛṣṇa and Lakṣmī aṣṭottaras (one
+interleaved table); the navagraha and dikpāla placement tables (rendered as
+English rubrics).
+
+**Additions.** The book's Lakṣmī aṣṭottara has 105 names. Three missing names
+were restored at their standard positions: **#30 anugrahapradāyai, #55
+prasādābhimukhyai, #58 candrāyai**, giving 108. The popular printed list
+repeats *devyai* a third time (after *dāridryadhvaṃsinyai*, making 109); the
+book omits it, and so does this page.
+
+**Book readings kept** (variants, not errors): Kṛṣṇa aṣṭottara —
+*madhurānāthāya*, *bṛndāvanānta-*, *avyaktagītāmṛtamahodadhaye* as one name,
+*tīrthapādāya*, *sarvadevātmakāya*, and a closing *śrīsatyanārāyaṇaparabrahmaṇe*;
+Lakṣmī — *śivakartryai*, *tuṣṭaye*, *dhanadhānyakartryai*,
+*viṣṇuvakṣasthalasthitāyai*; the Āndhra Śrī Sūkta order (*ārdrāṃ puṣkariṇīṃ …
+suvarṇāṃ … sūryāṃ* at dīpa, *ārdrāṃ yaḥ kariṇīṃ … piṅgalāṃ … candrāṃ* at
+naivedya) and *jātavedo mamāvaha*; *kalaśaṃ tu samāśritāḥ*,
+*mātṛgaṇāśritāḥ*; the navagraha dhyāna verses as printed (including the
+repeated *tathāsidaṇḍaṃ* line for Guru and Śukra); the ṛṣi name *hiḷimbhiṣi*;
+kathā readings *papracchurānataṃ*, *svargamartyeṣu*, *bilvamūlaṃ* (Ch. 5),
+*satyavratarūpe*, *dhanadhānyādhikaṃ*.
+
+**Corrections to the book's text** (each against the standard reading):
+
+- *Preliminaries / saṅkalpa:* *bṛhaspatiḥ prasūtāḥ* → *bṛhaspatiprasūtāḥ*;
+  *oṃ māpo* → *oṃ āpo*; *prītyarthyaṃ* → *prītyarthaṃ*; *dvitīya parārthe* →
+  *dvitīyaparārdhe*; *vartamāna vyāvahārika* → *vartamāne vyāvahārike*;
+  *brahma madhye* → *brahmā madhye*; *chandāgṃṣi* → *chandāgṃsi*.
+- *Gaṇapati:* *upamaśravastavaṃ* → *upamaśravastamam* (×3); *dathātana* →
+  *dadhātana*; *vaśśitamo* → *vaśśivatamo*; *pūjamānaḥ* → *pūyamānaḥ*;
+  *yajñopavīṃ* → *yajñopavītaṃ*; *dūrvādussvapna* → *dūrvā duḥsvapna*;
+  *pūjāyāca* → *pūjayā ca*.
+- *Lokapālas:* *brahma devānāṃ* → *brahmā devānāṃ*; *gaurīmimāya* →
+  *gaurīrmimāya* (×2); *sahasrākṣaparā* → *sahasrākṣarā*.
+- *Navagraha:* *asatyena* → *ā satyena*; *saptā'śvorko* → *saptāśvo'rko*;
+  *lokavapuḥ* → *lokaguruḥ*; *tavasye* → *tavyase*; *pratajmukhaṃ* →
+  *pratyaṅmukhaṃ*; *bheṣaja* → *bheṣajā*; *kujastvaṃvantī* →
+  *kujastvavantī*; *bharadhvāja* → *bharadvāja*; *pṛthivībhavā vṛkṣarā …
+  śarmanaprathāḥ* → *pṛthivi bhavānṛkṣarā … śarma saprathāḥ*; *jayāmasī …
+  poṣayitvā* → *jayāmasi … poṣayitnvā*; *kṛṇvaggṃ … tvayi* → *kṛṇvagṃs …
+  ttvayi*; *bhūrbhuvasvaḥ* → *bhūrbhuvassuvaḥ*; *padmasthamalāpatiṃ* →
+  *padmasthaṃ kamalāpatim*; *arhādyumad … śavasarta … dehi* → *arhāddyumad …
+  śavasa ṛta- … dhehi*; *sabuddhiyā* → *sa budhniyā*; *parivāsametaṃ* →
+  *parivārasametaṃ*; *patnīpīḍośāṃtaye* → *patnīpīḍopaśāntaye*;
+  *svarṇānbhāṃ* → *svarṇābhāṃ*; *maśruvaṃ* → *maśravam*; *indramarutvaṃta miha*
+  → *indra marutva iha*; *saurī* → *sauriḥ*; *skara cchanna* → *skaracchaṃ
+  na*; *apastridhaḥ* → *apa sridhaḥ*; *prajāpate satvadetā … vayagg …
+  patiyo* → *prajāpate na tvadetā … vayagṃ … patayo*; *parivāra* (typo
+  *paravāra*); *rāhū-* → *rāhu-*; *sadanmātara ssuvaḥ pitaraṃ ca priyaṃtsuvaḥ*
+  → *sadanmātaraṃ puraḥ pitaraṃ ca prayantsuvaḥ*; *madhucchaṃda* →
+  *madhucchandā*; *duvasva* → *yuvasva*; *sāyudhāṃ* (Brahmā, typo) →
+  *sāyudhaṃ*.
+- *Dikpālas:* *nirbuti … sadīṣṭa* → *nirṛti … padīṣṭa*; *śṛdhī* → *śrudhī*;
+  *adbhutā avāṃsyā* → *adbhuta avāgṃsyā*; *dadātu … pituśravaṇaṃ* → *dadāti …
+  pitṛśravaṇaṃ*; *jinvamanase … vedanām … adabdha* → *jinvamavase … vedasām …
+  adabdhaḥ*.
+- *Satyanārāyaṇa pūjā:* *dadhikrāvuṇṇa* → *dadhikrāvṇṇa* (Telugu vowel
+  spelling); *ṛtāya te* → *ṛtāyate*; *suhavetu* → *suhavītu*; *araṃgga …
+  kṣamāya* → *araṃ gamāma … kṣayāya*; *ṛgyajussāmādharvaṇāni* →
+  *-ātharvaṇāni*; *asunīte … mihino … vaiprāṇa* → *… miha no … vai prāṇā*;
+  *jyāyāgśca* → *jyāyāgṃśca*; *viśvabhūtāni* → *viśvā bhūtāni*; *sa jātotyaricyata
+  … madho* → *sa jāto atyaricyata … matho*; *alakṣmīr … sarvān* →
+  *alakṣmīṃ … sarvāṃ*; *saṃbhṛtaḥ … tāg ścakre … grāmyāṃ ścaye* →
+  *sambhṛtaṃ … tāgṃścakre … grāmyāśca ye*; *kardamā* → *kardama*; *katithā*
+  → *katidhā*; *apasrajaṃtu* → *āpassṛjantu*; *sauvarṇa* → *sauvarṇe*;
+  *satyaṃtyartena* → *satyaṃ tvartena*; *ekathā* → *ekadhā*; the *narya
+  prajām* passage: *adharva … abaddhāyo … śaggsya … aśugāḥ … hi gṃsī jjātavedo
+  … abhibhrad* → *atharva … adabdhāyo … śagṃsya … āśugāḥ … higṃsījjātavedaḥ …
+  abibhrad*; Nārāyaṇa Sūkta *vyāpyanārāyaṇasthsitaḥ … tasmin tsarvaṃ …
+  vyavasthitaḥ* (flame) → *vyāpya nārāyaṇassthitaḥ … tasminsarvaṃ …
+  vyavasthitā*; *sāhiṇe* → *sāhine*; *jāgṛvāṃsaḥ* → *jāgṛvāgṃsaḥ*; *rakṣa
+  rakṣa rakṣa* → *rakṣa rakṣa* (metre); *vistārayatu* → *nistārayatu*.
+- *Kathā:* *mārtakaṃ* → *mārtikaṃ*; *satprateḥ* → *satpateḥ*; *satyanārāyaṇa
+  devaṃ* → *satyanārāyaṇaṃ devaṃ*; *vidhāyādau vevaṃ* → *vidhāyādāvevaṃ*;
+  *bhikṣārtha magama* → *bhikṣārthamagamad*; *ka(ki)manyat* (the book's own
+  correction) → *kimanyat*; *dadāsādhuḥ* → *dadau sādhuḥ*; *putrī* → *putri*
+  (vocative); *santuṣṭo satya-* → *santuṣṭassatya-*; *bhayavihvalāḥ* →
+  *bhayavihvalau* (dual); *pādukai stasya* → *pāduke tasya*; *sā'paśyat
+  punarāgatya* → *sā paścātpunarāgatya*; *saṃtuṣṭāṃ* (cowherds) →
+  *santuṣṭā*; *kecitkālau* → *kecitkalau*; *īpsitapradaku* →
+  *īpsitapradam*; *sarveṣāmipsita* → *sarveṣāmīpsita*; *devaśya* →
+  *devasya* (maṇṭapa-dāna). The closing Telugu colophon *… vratakalpamu
+  samāptamu* is given in Sanskrit as *… vratakalpaḥ samāptaḥ*.
+
+**Builder.** `tools/build_stotra.py` gained three optional section types,
+used first by this page and inert for every other: `{"heading": …}` (the
+shell's existing `.speaker` style), `{"rubric": …}` (the `.colophon-gloss`
+style, for the English ritual directions), and a verse flag `"prose": True`
+(the existing `.viniyoga` style, one size down, for long formulae). All are
+Latin and outside `.sans`, so they are never transliterated.
+
+**Verification.** All 1,405 padas round-trip IAST → Devanāgarī → IAST with
+`scripts/verify.py` / `dev2iast.py` with zero differences, and a
+convention-normalised character diff against the source text leaves only the
+logged items above, the table reorderings, and the omitted Telugu.

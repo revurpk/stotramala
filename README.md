@@ -51,6 +51,7 @@ IAST, Devanāgarī, or Telugu (script bar at the top).
 | Veda | Puruṣa Sūktam — Ṛgveda 10.90, accented (16 ṛcs) | [read](stotra/veda/purusha-suktam-iast.html) |
 | Veda | Manyu Sūktam — Ṛgveda 10.83–84, accented (14 ṛcs) | [read](stotra/veda/manyu-suktam-iast.html) |
 | Viṣṇu | Viṣṇu Sahasranāmam — the thousand names (108 verses) | [read](stotra/vishnu/vishnu-sahasranamam-iast.html) |
+| Viṣṇu | Śrī Satyanārāyaṇa Vratakalpam — full pūjā and the five-chapter kathā (Annavaram) | [read](stotra/vishnu/satyanarayana-vratakalpam-iast.html) |
 | Devī | Lalitā Sahasranāmam — the thousand names (182 verses) | [read](stotra/devi/lalitha-sahasranamam-iast.html) |
 
 The Gaṇeśa, Viṣṇu, and Advaita stotras are works of Ādi Śaṅkara; see
