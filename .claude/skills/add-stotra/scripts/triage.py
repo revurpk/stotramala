@@ -49,7 +49,38 @@ def fetch(src):
         return r.read(), url
 
 
-def classify(raw):
+def word_doc(raw, where):
+    """A Word compilation (.docx, or Word's Save-as-Web-Page .htm). Word HTML
+    stores Telugu/Devanāgarī as numeric entities under a windows-1252 charset,
+    so raw character counts read ~0 — decode through extract_doc first."""
+    is_docx = raw[:2] == b"PK" and str(where).lower().endswith(".docx")
+    is_html = b"Word.Document" in raw[:4000] or b"schemas-microsoft-com:office:word" in raw[:4000]
+    if not (is_docx or is_html):
+        return None
+    import pathlib
+    sys.path.insert(0, str(pathlib.Path(__file__).parent))
+    from extract_doc import read_docx, read_html
+    items = read_docx(pathlib.Path(where)) if is_docx else read_html(pathlib.Path(where))
+    text = " ".join(v if k == "p" else " ".join(" ".join(r) for r in v) for k, v in items)
+    tel = len(re.findall(r"[ఀ-౿]", text))
+    dev = len(re.findall(r"[ऀ-ॿ]", text))
+    sig = {"format": "Word .docx" if is_docx else "Word HTML", "paragraphs":
+           sum(1 for k, _ in items if k == "p"), "tables": sum(1 for k, _ in items if k == "table"),
+           "telugu chars": tel, "devanāgarī chars": dev, "size (chars)": len(text)}
+    return dict(cat="word-document", model="opus", effort="high", signals=sig,
+                why="A Word compilation, usually keyed from a printed booklet — so a "
+                    "copyrighted modern edition (SOURCES §7 caveat; never reproduce its "
+                    "vernacular directions or meanings). Extract with extract_doc.py: "
+                    "tables flatten row-by-row and must be re-read column-wise; "
+                    "vernacular prose (e.g. Telugu tā॥ meanings) is interleaved with "
+                    "the Sanskrit; typos are frequent. Finish with srcdiff.py "
+                    "(pipeline.md §8).")
+
+
+def classify(raw, where=""):
+    doc = word_doc(raw, where) if os.path.exists(str(where)) else None
+    if doc:
+        return doc
     if raw[:4] == b"%PDF":
         return dict(cat="scanned-pdf", model="opus", effort="high",
                     signals={"format": "PDF"},
@@ -112,7 +143,7 @@ def main(argv):
     if not argv:
         print(__doc__); sys.exit(1)
     raw, where = fetch(argv[0])
-    r = classify(raw)
+    r = classify(raw, where)
     print(f"SOURCE: {where}")
     for k, v in r["signals"].items():
         print(f"  {k}: {v}")

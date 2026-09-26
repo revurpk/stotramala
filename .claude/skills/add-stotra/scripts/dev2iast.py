@@ -18,9 +18,16 @@ Encoding conventions (must match the render shell in the -iast.html pages):
   • pluta numerals (३ etc. inside a word) → ASCII digits, so they survive.
   • combining nukta / other marks are dropped (see D_STRIP).
 
+Telugu-script SANSKRIT (booklets, Word files) goes through tel2dev() first:
+the Telugu block is a code-point shift of Devanāgarī (-0x300), except that
+Telugu has short e/o (ె ొ ఎ ఒ), which Sanskrit lacks — they map to e/o — and
+ఱ, which maps to r. (Telugu-LANGUAGE pages are different: they keep Telugu as
+the source, src="tel"; see references/pipeline.md §6.)
+
 CLI:
     python dev2iast.py < in.txt                 # convert each line
     python dev2iast.py --danda < in.txt         # also map । → | and ॥ → ||
+    python dev2iast.py --telugu < in.txt        # input is Telugu script
     python dev2iast.py --samhita rv.txt         # pull accented saṃhitā ṛcs
                                                  #   from a Ṛgveda wikitext page
 Modes print IAST you can paste into a tools/stotras/<slug>.py data file.
@@ -93,9 +100,29 @@ def dev2iast(s):
     return "".join(out)
 
 
-def conv(line, danda=False):
+def tel2dev(s):
+    """Telugu script → Devanāgarī, for Sanskrit written in Telugu letters."""
+    out = []
+    for ch in s:
+        cp = ord(ch)
+        if ch in "ెొ":                        # short e/o signs → e/o
+            out.append("े" if ch == "ె" else "ो")
+        elif ch in "ఎఒ":                      # short e/o letters → e/o
+            out.append("ए" if ch == "ఎ" else "ओ")
+        elif ch == "ఱ":                        # bandi ṟa → ra
+            out.append("र")
+        elif 0x0C00 <= cp <= 0x0C7F:
+            out.append(chr(cp - 0x300))
+        else:
+            out.append(ch)
+    return "".join(out)
+
+
+def conv(line, danda=False, telugu=False):
     """Convert one line; join line-break hyphens; normalise whitespace."""
     s = line.replace("-", "")            # source line-break hyphens mark sandhi
+    if telugu:
+        s = tel2dev(s)
     t = dev2iast(s).replace("ऽ", "'")
     if danda:
         t = t.replace("॥", " || ").replace("।", " | ")
@@ -123,11 +150,12 @@ def main(argv):
         for i, l in enumerate(extract_samhita(text)):
             print(f"[{i}] {conv(l)}")
         return
-    danda = bool(argv) and argv[0] == "--danda"
+    danda = "--danda" in argv
+    telugu = "--telugu" in argv
     for line in sys.stdin.read().splitlines():
         s = line.strip()
         if s:
-            print(conv(s, danda=danda))
+            print(conv(s, danda=danda, telugu=telugu))
 
 
 if __name__ == "__main__":

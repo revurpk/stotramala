@@ -9,6 +9,7 @@ Read the section you need; skip the rest.
 - [5. Commentary-interleaved sources](#5-commentary-interleaved-sources)
 - [6. Telugu-source pages](#6-telugu-source-pages)
 - [7. Praṇava ॐ](#7-praṇava-ॐ)
+- [8. Word / HTML compilations (Telugu-script booklets)](#8-word--html-compilations-telugu-script-booklets)
 
 ## 1. Fetching from Wikisource
 
@@ -122,3 +123,72 @@ Telugu Wikisource; strip its ప|| / చ|| markers and any romanised duplicate.
 In-verse `oṃ` renders as the praṇava ligature `ॐ` in Devanāgarī (the shell's
 `post()` maps a standalone `ओं` → `ॐ`). So just write `oṃ` in the IAST; the
 header's big `ॐ` is separate (hard-coded in the shell).
+
+## 8. Word / HTML compilations (Telugu-script booklets)
+
+The user's own Word file (`.docx`, or Word's *Save as Web Page* `.htm`),
+typed up from a printed booklet — often Telugu script, sometimes several
+booklets combined. First done for the Satyanārāyaṇa Vratakalpam (SOURCES
+§7.2). Triage classifies it `word-document`.
+
+**Provenance.** A booklet is a copyrighted modern edition: the Sanskrit is
+public domain; the booklet's *vernacular* layer (Telugu directions, the
+tātparya meaning under each verse) is not. Take only the Sanskrit; write the
+ritual steps as your own short English `rubric`s and every gloss fresh from
+the Sanskrit. File the provenance under SOURCES §7 with its commercial-reuse
+caveat. Ask the user where the text came from (which books) — it goes in the
+footer and SOURCES.
+
+**Scope questions to ask up front** (the user's call, and they change the
+build): Sanskrit-only vs also the vernacular prose; one page vs several
+(e.g. pūjā and kathā); which appendices to drop.
+
+**Extract.**
+```bash
+python scripts/extract_doc.py book.docx --out scratch/book
+```
+gives `book.src.txt` (original script) and `book.iast.txt`, one line per
+real paragraph. Word's HTML hard-wraps its *source* mid-paragraph — never
+split on raw newlines (that chops words: *mucya / te*). Telugu goes through
+`dev2iast.tel2dev` (short ె/ొ → e/o, ఱ → r).
+
+**Tables flatten row by row.** Every table is printed as rows *and* as one
+column-major line. Pick per table: name lists (24 ācamana names, 16 Gaṇapati
+names, aṣṭottaras, kara/aṅga-nyāsa) read down the columns; placement grids
+(planet | direction) read across. Then **set-check each name list against
+the standard sequence** with a short script — count, missing, extra — and
+keep the book's spelling where a name is a variant. Report missing names to
+the user rather than silently adding them; add them only when asked, at
+their standard positions, and log it.
+
+**Telugu-print conventions to normalise** (orthography, not text — note once
+in SOURCES, not item by item):
+- words split at geminates and vowel boundaries: *muhūrta ssumuhūrtostu* →
+  *muhūrtassumuhūrto'stu*, *bhagavā nuvāca* → *bhagavānuvāca*;
+- anusvāra before a stop → class nasal (*gaṃdha* → *gandha*, site convention);
+- ళ for Sanskrit l (*maṅgaḷa* → *maṅgala*), except the bīja *ḷaṃ*;
+- missing avagraha (*namostute* → *namo'stu te*);
+- Telugu *dh* spelling of *artha* (*prītyardhaṃ* → *prītyarthaṃ*);
+- Taittirīya anusvāra stays `gṃ` (renders గ్ం / ग्ं exactly);
+- labels *ślo॥ maṃ॥ tā॥ dhyānaṃ* are markup — drop them (fold into headings
+  or glosses).
+
+**Interleaved vernacular.** The Telugu *tā॥* paragraph after each śloka and
+the Telugu instructions between mantras are dropped (`srcdiff --skip "tā||"`).
+
+**Structure.** Long ritual texts use the builder's `heading`, `rubric` and
+`prose` section types (data-template.md). Build the file in parts with
+`# @@PARTn@@` markers and replace each marker, rather than one enormous write.
+
+**Correct, then prove it.** Fix only clear typos, against the standard
+reading, and keep real variants. Then run two checks:
+```bash
+python scripts/verify.py --data <slug>          # renders? (IAST ↔ Devanāgarī)
+python scripts/srcdiff.py <slug> scratch/book.iast.txt --to <last para> --skip "tā||"
+```
+`verify --data` proves the page *renders* the IAST; it can't see drift from
+the source. `srcdiff` can: every op it prints is a convention, an intended
+omission, a table reorder, a correction to log — or a change you made
+without cause, which you revert. (It caught "standardised" words the book
+never had, and an invented half-line.) Log the corrections in SOURCES as a
+grouped list, section by section.

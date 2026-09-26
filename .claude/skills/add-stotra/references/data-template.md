@@ -17,6 +17,16 @@ Each page comes from `tools/stotras/<slug>.py`, a module with one dict named
 | `footer` | the source line ("Source: Sanskrit Wikisource — <title> (public domain)"). |
 | `sections` | a list; each item is a verse dict (via `_v`) or the string `"ornament"` (a ❧ separator). |
 
+Besides verse dicts and `"ornament"`, `sections` may hold three optional
+types, for long ritual texts (vratakalpas, pūjā-vidhānas). All three are
+Latin and outside `.sans`, so they are never transliterated:
+
+| Item | Renders as | Use |
+|---|---|---|
+| `{"heading": "Gaṇapati Pūjā"}` | `.speaker` (centred small-caps) | section titles |
+| `{"rubric": "Sip water three times…"}` | `.colophon-gloss` (italic note) | ritual directions, in your own English |
+| verse dict with `"prose": True` | `.verse.viniyoga` (one size down) | saṅkalpa, āvāhana formulae, nāma lists |
+
 `_v(padas, num, gloss)` → `{"padas": padas, "num": num, "gloss": gloss}`:
 - `padas` — list of lines. Daṇḍas ride inline: end a line with `" |"` for a
   single daṇḍa, `" ||"` for a double one mid-verse. The final numbered daṇḍa

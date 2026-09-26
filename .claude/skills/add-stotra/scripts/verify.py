@@ -21,6 +21,9 @@ CLI:
     # line-aligned byte-exact comparison (one IAST line ↔ one source line):
     python verify.py --check iast_lines.txt source_devanagari.txt
 
+    # every pada of a data file, IAST → Devanāgarī → IAST (no source needed):
+    python verify.py --data <slug>
+
 Source lines may use the real daṇḍa (।/॥); post() maps ASCII |/|| to those, so
 the comparison normalises the source's |/|| the same way before diffing.
 """
@@ -119,7 +122,35 @@ def _norm_src(s):
     return s.replace("||", "॥").replace("|", "।").strip()
 
 
+def data_roundtrip(slug):
+    """Every pada of tools/stotras/<slug>.py: IAST → Devanāgarī → IAST.
+    Catches IAST the renderer can't carry (stray characters, a/i or a/u
+    hiatus read as ai/au, ḷ) without needing a separate source file."""
+    import importlib.util, pathlib
+    from dev2iast import dev2iast
+    root = pathlib.Path(__file__).resolve().parents[4]
+    spec = importlib.util.spec_from_file_location("d", root / "tools" / "stotras" / f"{slug}.py")
+    m = importlib.util.module_from_spec(spec); spec.loader.exec_module(m)
+    padas = [p for s in m.STOTRA["sections"] if isinstance(s, dict) and "padas" in s
+             for p in s["padas"]]
+    ok = set("abcdeghijklmnoprstuvyāīūṛṝḷṅñṭḍṇśṣṃḥṁ '|—…()_^0123456789")
+    bad = 0
+    for p in padas:
+        stray = set(p) - ok
+        back = dev2iast(dev_svara(p).replace("॥", "||").replace("।", "|"))
+        back = back.replace("ऽ", "'").replace("ॐ", "oṃ").replace("॒", "_").replace("॑", "^")
+        want = p.replace("ṁ", "ṃ")
+        if stray or re.sub(r"[_^]", "", back) != re.sub(r"[_^]", "", want):
+            bad += 1
+            print(f"FAIL  {p}\n  dev:  {dev_svara(p)}\n  back: {back}" + (f"\n  stray: {stray}" if stray else ""))
+    print(f"\nTOTAL {len(padas)}  PASS {len(padas) - bad}  FAIL {bad}")
+    sys.exit(1 if bad else 0)
+
+
 def main(argv):
+    if argv and argv[0] == "--data":
+        sys.stdout.reconfigure(encoding="utf-8")
+        data_roundtrip(argv[1]); return
     if argv and argv[0] == "--check":
         iast = [l.rstrip("\n") for l in open(argv[1], encoding="utf-8") if l.strip()]
         src = [l.rstrip("\n") for l in open(argv[2], encoding="utf-8") if l.strip()]

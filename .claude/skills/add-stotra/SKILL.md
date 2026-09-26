@@ -7,7 +7,8 @@ description: >-
   source, or include a Sanskrit or Telugu devotional text on the stotramala
   repo — e.g. "add Śrī Sūktam to the site", "build a page for this hymn",
   "source Puruṣa Sūkta with svaras", or when they hand you a Wikisource /
-  Ṛgveda URL or a text/PDF to turn into a page. The skill triages the source
+  Ṛgveda URL, a text/PDF, or their own Word/HTML compilation (often Telugu
+  script, keyed from a booklet) to turn into a page. The skill triages the source
   and recommends an optimal model + reasoning effort before the heavy work,
   converts Devanāgarī to the IAST source-of-truth, writes the data file with
   original translations, builds and round-trip-verifies the page, and wires it
@@ -48,11 +49,17 @@ categories and why they matter live in `references/triage.md`; the short form:
 | `commentary-interleaved` | opus / high | must separate mūla from bhāṣya cleanly |
 | `scanned-pdf` / `binary/image` | opus / high | OCR / visual reading, error-prone |
 | `little-devanagari` | opus / high | probably the wrong page — find the real text |
+| `word-document` | opus / high | user's Word/HTML compilation from a booklet: tables flatten, vernacular interleaved, §7 caveat |
 
 Trust your eyes over the number: if the text looks messier than the count
 suggests (OCR errors, odd conjuncts, a copyrighted-edition notice), bump up.
 
 ## Step 1 — Fetch & inspect
+
+**A Word file or Word HTML** (`.docx` / `.htm`) the user hands you — often
+Telugu script — follows `references/pipeline.md` §8: `scripts/extract_doc.py`,
+column-order restoration for tables, and the provenance/scope questions to ask
+first. The rest of this step is for web sources.
 
 Wikisource is the preferred source (clean license). Pull raw wikitext:
 
@@ -78,6 +85,7 @@ anunāsika → `ṁ`, pluta numerals kept, avagraha → `'`).
 ```bash
 python .claude/skills/add-stotra/scripts/dev2iast.py --danda < lines.txt   # prose mantras
 python .claude/skills/add-stotra/scripts/dev2iast.py --samhita rv.txt       # accented Ṛgveda
+python .claude/skills/add-stotra/scripts/dev2iast.py --telugu < lines.txt   # Sanskrit in Telugu script
 ```
 
 For accented Ṛgveda pages the accented saṃhitā is in the pratīka lines; see
@@ -139,6 +147,8 @@ and no dev server (the sandbox can block both):
 ```bash
 python .claude/skills/add-stotra/scripts/verify.py --render < iast_lines.txt          # eyeball
 python .claude/skills/add-stotra/scripts/verify.py --check iast_lines.txt source.txt   # byte-exact PASS/FAIL
+python .claude/skills/add-stotra/scripts/verify.py --data <slug>                       # every pada of the data file
+python .claude/skills/add-stotra/scripts/srcdiff.py <slug> source.iast.txt            # drift from the source
 ```
 
 For accented texts this is the real check: the rendered Devanāgarī must match the
@@ -147,6 +157,11 @@ is a canonical-ordering issue — already handled, but confirm). Also sanity-che
 the built page: the `|| N ||` badge count matches the verse count and ornaments
 match. Opening the built page in a browser to look at it is a nice-to-have, not
 the verification — don't depend on it. Details in `references/pipeline.md` §4.
+
+Whenever you re-set a text by hand (word division, dropped labels, reordered
+tables, typo fixes), also run `srcdiff.py`: the render check can't see that the
+IAST has drifted from the source. Every op it prints is a convention, an
+intended omission, a correction to log — or a mistake to revert (§8).
 
 ## Step 7 — Wire it in
 
@@ -160,8 +175,10 @@ Three edits, each in the right place:
 ## Step 8 — Commit & push
 
 One text per commit. Message: what was added, the source, and any caveats.
-End with the `Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>` trailer.
-Push only after the round-trip verifies.
+End with the Co-Authored-By trailer your session's attribution instructions give.
+In PowerShell, write the message to a file and use `git commit -F <file>` —
+a here-string piped to `git commit -F -` is passed as an argument, not stdin.
+Push only after the round-trip verifies, and only when the user asks.
 
 ## Guardrails
 
