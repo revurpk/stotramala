@@ -21,7 +21,7 @@ import pathlib
 import sys
 
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
-from compile_lib import UNCERTAIN, has_accents, lint, parse  # noqa: E402
+from compile_lib import UNCERTAIN, has_accents, lint, parse, toc  # noqa: E402
 
 STACK = {
     "dev": "'Siddhanta','Sanskrit 2003','Chandas','Noto Serif Devanagari','Nirmala UI',serif",
@@ -55,7 +55,20 @@ dl.prov dd{margin:0;overflow-wrap:anywhere}
 .text p{font-size:1.45rem;line-height:2.35;margin:0 0 1.1rem;overflow-wrap:break-word}
 mark{background:var(--hl);color:inherit;border-radius:2px;padding:0 .1em;white-space:nowrap}
 .sv{font-family:'Siddhanta','Sanskrit 2003','Noto Serif Devanagari','Nirmala UI',serif}
-ol.sources{font-size:.9rem}
+nav.toc{border:1px solid var(--rule);border-radius:6px;padding:.8rem 1.2rem;margin:1.6rem 0}
+.toch{font-weight:600;margin:0 0 .4rem}
+nav.toc ul{list-style:none;margin:0;padding:0}
+nav.toc li{margin:.15rem 0}
+nav.toc li.l1{font-weight:600;margin-top:.6rem}
+nav.toc li.l2{padding-left:1.2rem}
+nav.toc li.l3{padding-left:2.4rem;font-size:.92rem}
+nav.toc a{color:var(--accent);text-decoration:none}
+.pg{color:var(--soft);font-size:.75rem;white-space:nowrap}
+.text h3{font-size:1.5rem;color:var(--accent);margin:2rem 0 .8rem;font-weight:600}
+.text h4{font-size:1.3rem;color:var(--accent);margin:1.4rem 0 .6rem;font-weight:600}
+a.up{font-size:.8rem;color:var(--soft);text-decoration:none;font-family:'Noto Serif',serif}
+.pm{text-align:right;font-size:.75rem;color:var(--soft);margin:.4rem 0;font-family:'Noto Serif',serif}
+.text p.fn{font-size:1.05rem;line-height:1.9;color:var(--soft);border-top:1px solid var(--rule);padding-top:.4rem}
 """
 
 
@@ -81,7 +94,7 @@ def main(argv):
     parts = [f'<!doctype html><html lang="en"><head><meta charset="utf-8">'
              f'<meta name="viewport" content="width=device-width,initial-scale=1">'
              f'<title>{title}</title><link rel="stylesheet" href="{FONTS}"><style>{CSS}</style></head>'
-             f'<body><main><h1>{title}</h1>']
+             f'<body><main id="top"><h1>{title}</h1>']
     if meta.get("note"):
         parts.append(f'<p class="cover">{html.escape(meta["note"])}</p>')
     if has_accents(snippets):
@@ -89,19 +102,36 @@ def main(argv):
         parts.append('<p class="cover">Vedic accents: anudātta <span class="sv">◌॒</span> below, '
                      'svarita <span class="sv">◌॑</span> above, double svarita '
                      '<span class="sv">◌᳚</span>; udātta unmarked.</p>')
-    parts.append('<ol class="sources">' + "".join(
-        f'<li><a href="#s{n}">{html.escape(s.get("title") or s["source"])}</a></li>'
-        for n, s in enumerate(snippets, 1)) + "</ol>")
+    # contents: linked, nested by heading level, with the printed page
+    parts.append('<nav class="toc"><p class="toch">Contents</p><ul>')
+    for level, bid, text, page in toc(meta, snippets):
+        sid = bid.split("-")[0]
+        scr = next(s["script"] for s in snippets if s["id"] == sid)
+        style = "" if level == 1 else f' style="font-family:{STACK.get(scr, STACK["mixed"])}"'
+        pg = f' <span class="pg">p. {html.escape(page)}</span>' if page else ""
+        parts.append(f'<li class="l{level}"><a href="#{bid}"{style}>{html.escape(text)}</a>{pg}</li>')
+    parts.append("</ul></nav>")
     for n, s in enumerate(snippets, 1):
         scr = s["script"]
-        parts.append(f'<section id="s{n}"><h2>{n}. {html.escape(s.get("title") or s["source"])}</h2><dl class="prov">')
+        parts.append(f'<section id="{s["id"]}"><h2>{n}. {html.escape(s.get("title") or s["source"])}</h2><dl class="prov">')
         for key in ("source", "file", "pages", "status", "accents", "note"):
             if s.get(key):
                 parts.append(f"<dt>{key}</dt><dd>{html.escape(s[key])}</dd>")
         parts.append(f'</dl><div class="text" lang="{LANG.get(scr, "sa")}" '
                      f'style="font-family:{STACK.get(scr, STACK["mixed"])}">')
-        for st in s["text"]:
-            parts.append("<p>" + "<br>".join(mark_uncertain(l) for l in st) + "</p>")
+        for b in s["blocks"]:
+            k = b["kind"]
+            if k == "page":
+                parts.append(f'<p class="pm">[p. {html.escape(b["text"])}]</p>')
+            elif k in ("h2", "h3"):
+                tag = "h3" if k == "h2" else "h4"
+                parts.append(f'<{tag} id="{b["id"]}">{mark_uncertain(b["text"])} '
+                             f'<a class="up" href="#top" title="contents">↑</a></{tag}>')
+            elif k == "fn":
+                mk = f"({html.escape(b['mark'])}) " if b["mark"] else ""
+                parts.append(f'<p class="fn">{mk}{mark_uncertain(b["text"])}</p>')
+            else:
+                parts.append("<p>" + "<br>".join(mark_uncertain(l) for l in b["lines"]) + "</p>")
         parts.append("</div></section>")
     parts.append("</main></body></html>")
     out.write_text("\n".join(parts), encoding="utf-8")

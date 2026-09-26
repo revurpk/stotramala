@@ -110,12 +110,35 @@ def render_body(st, slug, asset):
         + f'    <p class="guidelink"><a href="{asset}index.html">all stotras</a> · <a href="{asset}pronunciation.html">pronunciation guide</a></p>\n'
         '  </header>\n'
     ]
+    # Optional contents panel for long pages (STOTRA["toc"] = True): a
+    # collapsible list linking to every `heading`, in the gloss's style, and
+    # a small ↑ back-link on each heading. Off by default, so every other
+    # page renders byte-identical.
+    toc = st.get("toc")
+    heads = [s["heading"] for s in st["sections"] if isinstance(s, dict) and "heading" in s]
+    if toc and heads:
+        links = "<br>\n".join(f'        <a href="#sec-{i}" style="color:var(--accent);'
+                              f'text-decoration:none;">{esc(h)}</a>'
+                              for i, h in enumerate(heads, 1))
+        parts.append(
+            '  <details class="gloss" id="contents" style="max-width:26rem;margin:-1rem auto 2.4rem;">\n'
+            '    <summary>contents</summary>\n'
+            '    <p style="font-style:normal;text-align:left;font-size:.92rem;line-height:1.85;">\n'
+            f'{links}</p>\n'
+            '  </details>')
+    hn = 0
     for sec in st["sections"]:
         if sec == "ornament":
             parts.append('  <div class="ornament">❧</div>')
         elif "heading" in sec:
             # section title (e.g. the parts of a vrata); Latin, not transliterated
-            parts.append(f'  <p class="speaker">{esc(sec["heading"])}</p>')
+            if toc:
+                hn += 1
+                parts.append(f'  <p class="speaker" id="sec-{hn}">{esc(sec["heading"])} '
+                             '<a href="#contents" title="contents" style="color:inherit;'
+                             'opacity:.5;text-decoration:none;font-variant:normal;">↑</a></p>')
+            else:
+                parts.append(f'  <p class="speaker">{esc(sec["heading"])}</p>')
         elif "rubric" in sec:
             # a ritual instruction, in English, between the recited texts
             parts.append('  <p class="colophon-gloss" style="margin:0 auto 1.4rem;'

@@ -190,6 +190,14 @@ Push only after the round-trip verifies, and only when the user asks.
   a *restricted digital edition* of them is not yours to republish. If the only
   accented source is restricted, stop and tell the user rather than reposting.
 - **No silent emendation.** Every change to the received text is logged in
-  SOURCES.md. Faithfulness first.
+  SOURCES.md. Faithfulness first: keep the source's reading wherever it is a
+  real variant, fix only clear errors against the standard text, and never
+  "standardise" a word the source doesn't have or supply a line it lacks —
+  `srcdiff.py` exists to catch exactly that drift. When the user asks for a
+  text "faithful to the source", keep even its spelling conventions and
+  log nothing as corrected without asking; a verbatim transcript (all of a
+  page, vernacular included) is `scan-to-docx`'s job, not a site page's.
+- **Long pages get a contents panel** (`"toc": True`, data-template.md) —
+  anything with a dozen or more section headings.
 - **Three scripts must all be right.** Verify Devanāgarī, IAST, and Telugu
   before shipping — a wrong akṣara is worse than no page.

@@ -27,6 +27,13 @@ Latin and outside `.sans`, so they are never transliterated:
 | `{"rubric": "Sip water three times…"}` | `.colophon-gloss` (italic note) | ritual directions, in your own English |
 | verse dict with `"prose": True` | `.verse.viniyoga` (one size down) | saṅkalpa, āvāhana formulae, nāma lists |
 
+For a long page with many `heading`s, set `"toc": True` in `STOTRA`: the
+builder adds a collapsible **contents** panel under the header linking to
+every heading (ids `sec-1`, `sec-2`, …), and a small ↑ on each heading back to
+it. Use it once a page has roughly ten or more headings (the Satyanārāyaṇa
+Vratakalpam has 52); leave it off for ordinary stotras — pages without it
+render byte-identical.
+
 `_v(padas, num, gloss)` → `{"padas": padas, "num": num, "gloss": gloss}`:
 - `padas` — list of lines. Daṇḍas ride inline: end a line with `" |"` for a
   single daṇḍa, `" ||"` for a double one mid-verse. The final numbered daṇḍa

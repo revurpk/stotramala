@@ -2594,6 +2594,7 @@ S += [
 
 STOTRA = {
     "deity": "vishnu",
+    "toc": True,
     "doc_title": "Śrī Satyanārāyaṇa Vratakalpam",
     "app_title": "Satyanārāyaṇa Vratam",
     "h1": "Śrī Satyanārāyaṇa Vratakalpam",

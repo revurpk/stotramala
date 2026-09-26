@@ -20,6 +20,8 @@ line cut at one strip's edge is whole in the next.
   --strips  horizontal strips per page (default 4; 0 = full page only)
   --crop    trim uniform margins before stripping (saves resolution for text)
   --gray    convert to grayscale (smaller files; keeps faint accents legible)
+  --sheets  also tile the pages 12 to an image (DIR/sheet-NN.png) — a quick
+            survey of a long book's structure before transcribing
 
 Writes DIR/<stem>-pNNN.png (full page), DIR/<stem>-pNNN-sK.png (strips) and
 DIR/manifest.json listing every image with its source file and page number —
@@ -29,7 +31,7 @@ import json
 import pathlib
 import sys
 
-from PIL import Image, ImageChops, ImageOps
+from PIL import Image, ImageChops, ImageDraw, ImageOps
 
 Image.MAX_IMAGE_PIXELS = None
 
@@ -89,6 +91,16 @@ def strips(im, n, overlap):
     return out
 
 
+def contact_sheets(out, manifest, per=12, cols=6, w=330, h=540):
+    for s in range(0, len(manifest), per):
+        sheet = Image.new("L", (w * cols, h * (per // cols)), 255); d = ImageDraw.Draw(sheet)
+        for i, m in enumerate(manifest[s:s + per]):
+            im = Image.open(out / m["image"]).convert("L"); im.thumbnail((w - 6, h - 24))
+            x, y = (i % cols) * w, (i // cols) * h
+            sheet.paste(im, (x + 3, y + 20)); d.text((x + 5, y + 3), f"p{m['page']}", fill=0)
+        sheet.save(out / f"sheet-{s // per + 1:02d}.png")
+
+
 def main(argv):
     if not argv or "--out" not in argv:
         sys.exit(__doc__)
@@ -115,6 +127,8 @@ def main(argv):
             manifest.append({"source": str(f.resolve()), "page": pno, "image": full.name,
                              "strips": parts, "size": [im.width, im.height]})
             print(f"{f.name} p{pno}: {im.width}x{im.height}, {len(parts)} strips")
+    if "--sheets" in argv:
+        contact_sheets(out, manifest)
     (out / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"{len(manifest)} pages -> {out}")
 
