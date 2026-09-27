@@ -64,6 +64,15 @@ one on the full-page image or zoom in (`computer` zoom or a tighter crop).
 ## 4. Telugu look-alikes
 
 - **ష్ట / ష్ణ** — the commonest error in scanned Telugu; ష్ణ has the ణ foot.
+- **త-vattu vs anudātta** (accented Telugu print) — the subscript త of స్త,
+  న్తి, త్త is a short horizontal stroke under the line, easily read as an
+  anudātta bar. A bar under a vattu is an accent only when the vattu's own
+  syllable carries one (*nasta̱nuvā*: the bar is ta̱'s) or a second, separate
+  bar is visible; otherwise it is just the letter (*nama̱s takṣa̍bhyo*).
+  The standard accentuation of the passage is the tie-breaker.
+- **Svarita strokes are tall**: in some prints they reach halfway to the line
+  above. Use `prepare_pages.py --lines 1` so each crop holds one line with all
+  its marks.
 - **బ / భ**, **ద / ధ**, **గ / ఘ**, **ప / ఫ**, **చ / ఛ** — the aspirate carries an
   extra stroke inside or below; look at the full-size image.
 - **ర / ఱ**, **ల / ళ** — keep what is printed (ళ for l is a Telugu-print
