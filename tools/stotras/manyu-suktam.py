@@ -23,8 +23,8 @@ STOTRA = {
             "Indra and the great gods. Ṛgveda 10.83 (ṛcs 1–7) and 10.84 "
             "(ṛcs 8–14), by the seer Manyu Tāpasa. The accented saṃhitā carries "
             "the Vedic pitch-accents (anudātta ॒ below, svarita ॑ above; udātta "
-            "unmarked), shown in the Devanāgarī, in which this page opens; the "
-            "IAST and Telugu are unaccented reading aids.",
+            "unmarked), shown in the Devanāgarī, in which this page opens, and "
+            "in the Telugu; the IAST is an unaccented reading aid.",
     "audio": "https://www.youtube.com/watch?v=52ugjBz-hgM",
     "audio_label": "Vedic chant with Sanskrit text",
     "footer": "Source: Sanskrit Wikisource — ऋग्वेदः सूक्तं १०.८३ & १०.८४ (accented saṃhitā, Sāyaṇa edition; public domain)",

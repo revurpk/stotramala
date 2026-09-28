@@ -2151,8 +2151,8 @@ STOTRA = {
             "Rudrābhiṣeka with the ten peace-chants and the imperial anointing, the worship "
             "of Śiva with the Mṛtyuñjaya-mānasa-pūjā verses, and the Mahāśivarātri arghyas. "
             "The Vedic mantras carry their accents — anudātta ॒ below, svarita ॑ above, "
-            "dīrgha svarita ᳚ — shown in the Devanāgarī, in which this page opens; the IAST "
-            "and Telugu are unaccented reading aids. The Sanskrit keeps the book's readings, "
+            "dīrgha svarita ᳚ — shown in the Devanāgarī, in which this page opens, and in "
+            "the Telugu; the IAST is an unaccented reading aid. The Sanskrit keeps the book's readings, "
             "its Taittirīya spelling (gṃ) and its abbreviations (…); the edition's Telugu "
             "instructions are not reproduced — the directions are short original English "
             "notes.",

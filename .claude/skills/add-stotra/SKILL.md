@@ -103,6 +103,11 @@ Devanāgarī and `src:"tel"` marks Telugu-source pages; sections are `_v(padas,
 num, gloss)` dicts or the string `"ornament"` for a separator; daṇḍas ride
 inline as `|` / `||` and the verse number goes in `num`.
 
+Svaras render in Devanāgarī with the font's own marks and in **Telugu drawn
+with CSS** (the Telugu font has no svara glyphs — the shell wraps each accented
+akṣara and draws its stroke or bar from the measured ink; `references/pipeline.md`
+§3). IAST shows no accents. Say so in an accented page's `note`.
+
 ### Optional: a recitation link
 
 Pages may carry `"audio"` (a YouTube watch URL) and `"audio_label"`, rendered as

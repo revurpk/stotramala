@@ -190,6 +190,19 @@
   html[data-script="tel"] .lines{line-height:1.95;}
   html[data-script="dev"] .viniyoga .lines,
   html[data-script="tel"] .viniyoga .lines{line-height:1.85;}
+  /* Telugu svaras drawn with CSS (the Telugu font has no ॑ ॒ ᳚ glyphs): each
+     accented akṣara is a .ac span; its stroke or bar is a pseudo-element placed
+     from the akṣara's measured ink (--sv/--an/--cx/--bw, set by telSvaraPlace).
+     The real mark stays in the text at zero size (.acm) for copy and search. */
+  .ac{position:relative}
+  .acm{font-size:0}
+  .ac.s::before,.ac.d::before{content:"";position:absolute;left:var(--cx,50%);top:var(--sv,-.1em);
+    height:.28em;transform:translateX(-50%);pointer-events:none}
+  .ac.s::before{width:.06em;background:currentColor}
+  .ac.d::before{width:.09em;border-left:.06em solid currentColor;border-right:.06em solid currentColor}
+  .ac.a::after{content:"";position:absolute;left:var(--cx,50%);width:var(--bw,.4em);top:var(--an,1.15em);
+    height:.06em;transform:translateX(-50%);background:currentColor;pointer-events:none}
+  html.accented[data-script="tel"] .lines{line-height:2.3;}
   /* Indic scripts have no small-caps and dislike Latin-cap tracking */
   html[data-script="dev"] .speaker,
   html[data-script="tel"] .speaker,
@@ -1096,7 +1109,7 @@
     // good in Devanāgarī but lacking in IAST/Telugu, so accents render only in
     // Devanāgarī. A mark always follows a vowel (a syllable boundary), so we
     // transliterate the text up to each mark and reattach the Devanāgarī sign
-    // to the akṣara that ends that chunk. IAST and Telugu drop the marks.
+    // to the akṣara that ends that chunk.
     var SVARA = { "_": "॒", "^": "॑", "^^": "᳚" };
     function stripSvara(s){ return s.replace(/[_^]/g, ""); }
     function devSvara(iast){
@@ -1120,11 +1133,52 @@
         .replace(/ँ/g, "ṁ")                          // arasunna ఁ (candrabindu)
         .replace(/ऱ/g, "ṟ");                         // ఱ (Dravidian ṟa)
     }
+    // Telugu svaras: the same reattachment as devSvara, into Telugu script.
+    // Telugu fonts (Baloo Tammudu 2 included) lack the svara glyphs, so the
+    // marks are drawn with CSS by telSvaraHTML/telSvaraPlace below.
+    function telSvara(iast){
+      var out = "", re = /\^\^|[_^]/g, last = 0, m;
+      while ((m = re.exec(iast))){
+        out += toTel(iast.slice(last, m.index)) + SVARA[m[0]];
+        last = m.index + m[0].length;
+      }
+      out += toTel(iast.slice(last));
+      return out.replace(/([॒॑᳚])([ఃం])/g, "$2$1");
+    }
+    var SVRE = /[॒॑᳚]/, SVCLS = { "॑": "s", "॒": "a", "᳚": "d" };
+    // akṣara = letter (+ virāma + consonant)* + signs, then its svara mark(s)
+    var AKSHARA = /([అ-హఽౘ-ౡ](?:్[క-హ])*[ఀ-ఃా-్ౕౖౢౣ]*)([॒॑᳚]+)/g;
+    function telSvaraHTML(t){
+      return t.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(AKSHARA, function (_, ak, mk){
+        var cls = mk.split("").map(function (c){ return SVCLS[c]; })
+                    .filter(function (c, i, a){ return a.indexOf(c) === i; }).join(" ");
+        return '<span class="ac ' + cls + '">' + ak + '<span class="acm">' + mk + '</span></span>';
+      });
+    }
+    // Place each stroke just above the akṣara's highest ink and each bar just
+    // below its lowest (display fonts have tall line boxes), from canvas
+    // measureText, cached per font and text; offsets in em so they scale.
+    var svCtx = document.createElement("canvas").getContext("2d"), svCache = {};
+    function telSvaraPlace(){
+      document.querySelectorAll(".ac").forEach(function (el){
+        var cs = getComputedStyle(el), fs = parseFloat(cs.fontSize), t = el.firstChild && el.firstChild.nodeValue;
+        if (!t || !fs) return;
+        var font = cs.fontStyle + " " + cs.fontWeight + " " + cs.fontSize + " " + cs.fontFamily, k = font + "|" + t, r = svCache[k];
+        if (!r){ svCtx.font = font; r = svCache[k] = svCtx.measureText(t); }
+        if (r.fontBoundingBoxAscent === undefined) return;
+        var fa = r.fontBoundingBoxAscent / fs, a = r.actualBoundingBoxAscent / fs, d = r.actualBoundingBoxDescent / fs,
+            l = r.actualBoundingBoxLeft / fs, w = (r.actualBoundingBoxLeft + r.actualBoundingBoxRight) / fs, s = el.style;
+        s.setProperty("--sv", (fa - a - .05 - .28) + "em");
+        s.setProperty("--an", (fa + d + .09) + "em");
+        s.setProperty("--cx", (w / 2 - l) + "em");
+        s.setProperty("--bw", Math.max(.3, Math.min(w * .7, .6)) + "em");
+      });
+    }
     var SRC = document.documentElement.dataset.src || "iast";
     function computed(src, sc){
       if (SRC === "tel") return sc === "iast" ? telIast(src) : src;   // tel is the source
       if (sc === "dev") return devSvara(src);                         // full svaras
-      if (sc === "tel") return toTel(stripSvara(src));                // svaras dropped
+      if (sc === "tel") return telSvara(src);                         // svaras drawn with CSS
       return stripSvara(src);                                         // iast reading aid
     }
 
@@ -1148,10 +1202,15 @@
 
     function render(sc){
       current = sc;
+      var accented = false;
       nodes.forEach(function (n, i){
         var c = correction(i, sc);
-        n.textContent = c != null ? c : computed(n.getAttribute("data-iast"), sc);
+        var t = c != null ? c : computed(n.getAttribute("data-iast"), sc);
+        if (sc === "tel" && SRC !== "tel" && SVRE.test(t)){ n.innerHTML = telSvaraHTML(t); accented = true; }
+        else n.textContent = t;
       });
+      document.documentElement.classList.toggle("accented", accented);
+      if (accented) (document.fonts && document.fonts.ready ? document.fonts.ready : Promise.resolve()).then(telSvaraPlace);
       document.documentElement.setAttribute("data-script", sc);
       btns.forEach(function (b){
         var on = b.getAttribute("data-script") === sc;

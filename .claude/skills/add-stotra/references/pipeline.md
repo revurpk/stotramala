@@ -54,19 +54,39 @@ time, for Devanāgarī:
 
 ```js
 function devSvara(iast){
-  var out="", re=/[_^]/g, last=0, m;
-  while((m=re.exec(iast))){ out += toDev(iast.slice(last,m.index)) + SVARA[m[0]]; last=m.index+1; }
+  var out="", re=/\^\^|[_^]/g, last=0, m;
+  while((m=re.exec(iast))){ out += toDev(iast.slice(last,m.index)) + SVARA[m[0]]; last=m.index+m[0].length; }
   out += toDev(iast.slice(last));
-  return out.replace(/([॒॑])([ःं])/g, "$2$1");   // tone mark AFTER visarga/anusvāra
+  return out.replace(/([॒॑᳚])([ःं])/g, "$2$1");   // tone mark AFTER visarga/anusvāra
 }
 ```
 
 A mark always follows a vowel (a syllable boundary), so it reattaches to the
 akṣara that ends each chunk. The final `.replace` normalises the handful of
 sources that store the mark *before* a visarga/anusvāra into the canonical order
-— without it you get dotted-circle artifacts. IAST and Telugu call `stripSvara`
-and show the text unaccented. Because `_`/`^` never occur in ordinary IAST, all
+— without it you get dotted-circle artifacts. IAST calls `stripSvara` and shows
+the text unaccented. Because `_`/`^` never occur in ordinary IAST, all
 non-accented pages are unaffected.
+
+**Telugu: svaras drawn with CSS.** The Telugu font (Baloo Tammudu 2, and most
+Telugu display fonts) has no glyphs for ॑ ॒ ᳚; letting the browser borrow them
+from another font misplaces them. So `telSvara` does the same reattachment into
+Telugu script, and `render` hands any accented Telugu to `telSvaraHTML`, which
+wraps each accented akṣara (letter + virāma-conjuncts + signs, regex `AKSHARA`)
+as `<span class="ac s|a|d">…<span class="acm">॑</span></span>`. CSS draws the
+svarita stroke, the double svarita's two strokes, or the anudātta bar as a
+pseudo-element on that span; the real mark stays in the text at `font-size:0`,
+so copying, searching and review mode still see the accented Unicode.
+`telSvaraPlace` then measures each akṣara's ink with canvas `measureText`
+(cached per font and text) and sets `--sv`/`--an`/`--cx`/`--bw` in em, putting
+the stroke just above the highest ink (tall vowel signs, talakaṭṭu) and the bar
+just below the lowest (vattu), centred on the ink. `html.accented` raises the
+Telugu line height so the marks clear the next line. The same technique, for
+the compilation HTML, is `scan-to-docx`'s `build_html.py --font` / `--css-accents`.
+
+To check it, load the built page, switch to తెలుగు and look at a few accented
+lines against the Devanāgarī: every stroke/bar should sit on the akṣara that
+carries the mark there (`document.querySelectorAll('.ac').length` counts them).
 
 ## 4. Round-trip verification
 

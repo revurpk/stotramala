@@ -9,11 +9,11 @@ Each page comes from `tools/stotras/<slug>.py`, a module with one dict named
 | Key | Meaning |
 |---|---|
 | `deity` | folder under `stotra/` (ganesha, vishnu, rama, hanuman, devi, shiva, subrahmanya, venkateshwara, advaita, veda). Required. |
-| `script` | `"dev"` opens the page in Devanāgarī (use for **accented Vedic** texts, where svaras only show in Devanāgarī). Omit for the default (IAST). |
+| `script` | `"dev"` opens the page in Devanāgarī (use for **accented Vedic** texts; svaras show in Devanāgarī and — drawn with CSS — in Telugu, not in IAST). Omit for the default (IAST). |
 | `src` | `"tel"` marks a **Telugu-source** page (Telugu is the truth, IAST is an aid, no Devanāgarī). Omit for Sanskrit pages. |
 | `doc_title` / `app_title` / `h1` | page `<title>`, PWA name, and heading. Usually identical. |
 | `subtitle` | one line under the title (e.g. "Ṛgveda 10.90 · the hymn of the Cosmic Being"). |
-| `note` | optional italic caveat/description under the subtitle. Good place for "this page opens in Devanāgarī; IAST/Telugu are unaccented aids", or a redistribution notice. |
+| `note` | optional italic caveat/description under the subtitle. Good place for "this page opens in Devanāgarī; accents also in Telugu, IAST is an unaccented aid", or a redistribution notice. |
 | `footer` | the source line ("Source: Sanskrit Wikisource — <title> (public domain)"). |
 | `sections` | a list; each item is a verse dict (via `_v`) or the string `"ornament"` (a ❧ separator). |
 
@@ -112,7 +112,7 @@ STOTRA = {
 
 Svaras marked after the vowel (`_` anudātta, `^` svarita, `^^` the Taittirīya dīrgha
 svarita ᳚). The page opens in
-Devanāgarī; IAST/Telugu drop the marks.
+Devanāgarī; Telugu shows them too (drawn with CSS, pipeline.md §3); IAST drops them.
 
 ```python
 STOTRA = {
@@ -121,7 +121,7 @@ STOTRA = {
     "subtitle": "Ṛgveda 10.90 · the hymn of the Cosmic Being",
     "note": "… The accented saṃhitā carries the Vedic pitch-accents (anudātta ॒ "
             "below, svarita ॑ above; udātta unmarked), shown in the Devanāgarī, in "
-            "which this page opens; the IAST and Telugu are unaccented reading aids.",
+            "which this page opens, and in the Telugu; the IAST is an unaccented reading aid.",
     "footer": "Source: Sanskrit Wikisource — ऋग्वेदः सूक्तं १०.९० (accented saṃhitā, Sāyaṇa edition; public domain)",
     "sections": [
         _v(["sa_hasra^śīrṣā_ puru^ṣaḥ sahasrā_kṣaḥ sa_hasra^pāt |",

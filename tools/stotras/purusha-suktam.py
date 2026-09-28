@@ -23,8 +23,8 @@ STOTRA = {
             "creatures, and the social order. This is the sixteen-ṛc Ṛgvedic "
             "form (RV 10.90). The accented saṃhitā text carries the Vedic "
             "pitch-accents (anudātta ॒ below, svarita ॑ above; udātta unmarked), "
-            "shown in the Devanāgarī, in which this page opens; the IAST and "
-            "Telugu are unaccented reading aids.",
+            "shown in the Devanāgarī, in which this page opens, and in the "
+            "Telugu; the IAST is an unaccented reading aid.",
     "audio": "https://www.youtube.com/watch?v=jJ1hxYOifuI",
     "audio_label": "Challakere Brothers · Ṛgveda recension",
     "footer": "Source: Sanskrit Wikisource — ऋग्वेदः सूक्तं १०.९० (accented saṃhitā, Sāyaṇa edition; public domain)",

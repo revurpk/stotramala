@@ -557,9 +557,16 @@ svarita (॑); udātta is unmarked. At render time (shared shell):
   normalises so a tone mark follows any visarga/anusvāra on its akṣara
   (`॒ः → ः॒`) for correct shaping. Round-trips **byte-exact** to the
   source accented text. Accented pages open in Devanāgarī (`script:"dev"`).
-- **IAST / Telugu** — the markers are dropped (`stripSvara`); these
-  scripts are unaccented reading aids, since font support for the marks is
-  lacking. (This is the "improvise where fonts lack support" rule.)
+- **Telugu** — `telSvara()` does the same reattachment into Telugu, but the
+  Telugu font (Baloo Tammudu 2) has no svara glyphs, so the marks are **drawn
+  with CSS** (added 2026-09-28; "improvise where fonts lack support"): each
+  accented akṣara is wrapped in a span, and its svarita stroke, dīrgha-svarita
+  double stroke or anudātta bar is a pseudo-element placed from the akṣara's
+  ink as measured by canvas `measureText` — above the highest ink, below the
+  lowest (vattu), centred. The Unicode mark stays in the text at zero size, so
+  copy, search and the review mode keep the accented text.
+- **IAST** — the markers are dropped (`stripSvara`); an unaccented reading
+  aid.
 
 The anunāsika candrabindu (ँ) is written **ṁ** in IAST and renders as
 anusvāra in Devanāgarī, as elsewhere on the site. Markers `_`/`^` never
