@@ -110,7 +110,8 @@ STOTRA = {
 
 ## Shape 4 — accented Vedic sūkta (`script:"dev"`)
 
-Svaras marked after the vowel (`_` anudātta, `^` svarita). The page opens in
+Svaras marked after the vowel (`_` anudātta, `^` svarita, `^^` the Taittirīya dīrgha
+svarita ᳚). The page opens in
 Devanāgarī; IAST/Telugu drop the marks.
 
 ```python

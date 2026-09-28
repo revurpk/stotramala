@@ -53,6 +53,7 @@ IAST, Devanāgarī, or Telugu (script bar at the top).
 | Viṣṇu | Viṣṇu Sahasranāmam — the thousand names (108 verses) | [read](stotra/vishnu/vishnu-sahasranamam-iast.html) |
 | Viṣṇu | Śrī Satyanārāyaṇa Vratakalpam — full pūjā and the five-chapter kathā (Annavaram) | [read](stotra/vishnu/satyanarayana-vratakalpam-iast.html) |
 | Devī | Lalitā Sahasranāmam — the thousand names (182 verses) | [read](stotra/devi/lalitha-sahasranamam-iast.html) |
+| Śiva | Mahānyāsam — Bodhāyana's nyāsa, Rudrābhiṣeka and Śivapūjā, accented | [read](stotra/shiva/mahanyasam-iast.html) |
 
 The Gaṇeśa, Viṣṇu, and Advaita stotras are works of Ādi Śaṅkara; see
 [SOURCES.md](SOURCES.md) §5 for provenance. New stotras are generated

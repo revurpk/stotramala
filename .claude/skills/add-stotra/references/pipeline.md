@@ -41,7 +41,8 @@ converter, strip the trailing `।`/`॥`/`॥N॥`, and append the daṇḍa ma
 `a`-line + `" |"`, `b`-line into the verse, number into `num`.
 
 Encoding (must match the shell): `_` = anudātta after the vowel, `^` = svarita,
-udātta unmarked. Anunāsika `ँ` → `ṁ`. A **pluta** numeral inside a word (e.g.
+`^^` = dīrgha svarita ᳚ (Taittirīya prints), udātta unmarked. A vocalic-ḷ bīja
+(ఌం / ऌं) is written capital `Ḷ` — lower-case `ḷ` is the consonant ळ to the renderer. Anunāsika `ँ` → `ṁ`. A **pluta** numeral inside a word (e.g.
 `वो॒३॒॑` in RV 10.84.5) is kept as ASCII `3` between its marks — the converter
 does this; don't strip it.
 

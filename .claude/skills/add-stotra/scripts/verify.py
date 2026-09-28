@@ -43,7 +43,7 @@ I_VOW = {"a": "అ", "ā": "ఆ", "i": "ఇ", "ī": "ఈ", "u": "ఉ", "ū": "�
          "ṛ": "ఋ", "ṝ": "ౠ", "ḷ": "ఌ", "ḹ": "ౡ", "e": "ఏ", "ē": "ఏ", "o": "ఓ", "ō": "ఓ"}
 DIG_DEV = "०१२३४५६७८९"
 AVA_DEV = "ऽ"
-SVARA = {"_": "॒", "^": "॑"}
+SVARA = {"_": "॒", "^": "॑", "^^": "᳚"}
 
 
 def _cons_at(s, j, n):
@@ -111,11 +111,11 @@ def dev_svara(iast):
     Devanāgarī tone sign to the akṣara ending each chunk, then put a tone mark
     after any visarga/anusvāra (canonical order)."""
     out, last = "", 0
-    for m in re.finditer(r"[_^]", iast):
+    for m in re.finditer(r"\^\^|[_^]", iast):
         out += to_dev(iast[last:m.start()]) + SVARA[m.group()]
         last = m.end()
     out += to_dev(iast[last:])
-    return re.sub(r"([॒॑])([ःం])", r"\2\1", out)
+    return re.sub(r"([॒॑᳚])([ःं])", r"\2\1", out)
 
 
 def _norm_src(s):
@@ -133,13 +133,14 @@ def data_roundtrip(slug):
     m = importlib.util.module_from_spec(spec); spec.loader.exec_module(m)
     padas = [p for s in m.STOTRA["sections"] if isinstance(s, dict) and "padas" in s
              for p in s["padas"]]
-    ok = set("abcdeghijklmnoprstuvyāīūṛṝḷṅñṭḍṇśṣṃḥṁ '|—…()_^0123456789")
+    ok = set("abcdeghijklmnoprstuvyāīūṛṝḷḹḶṅñṭḍṇśṣṃḥṁ '|—…()_^0123456789")   # Ḷ = vocalic ḷ (ऌ)
     bad = 0
     for p in padas:
         stray = set(p) - ok
         back = dev2iast(dev_svara(p).replace("॥", "||").replace("।", "|"))
-        back = back.replace("ऽ", "'").replace("ॐ", "oṃ").replace("॒", "_").replace("॑", "^")
-        want = p.replace("ṁ", "ṃ")
+        back = back.replace("ऽ", "'").replace("ॐ", "oṃ").replace("॒", "_").replace("॑", "^").replace("᳚", "^^")
+        want = p.replace("ṁ", "ṃ").replace("Ḷ", "ḷ")
+        back = back.replace("ॡ", "ḹ")
         if stray or re.sub(r"[_^]", "", back) != re.sub(r"[_^]", "", want):
             bad += 1
             print(f"FAIL  {p}\n  dev:  {dev_svara(p)}\n  back: {back}" + (f"\n  stray: {stray}" if stray else ""))

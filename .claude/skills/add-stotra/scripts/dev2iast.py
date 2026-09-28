@@ -11,7 +11,7 @@ editorial note in SOURCES.md, not silently here.
 
 Encoding conventions (must match the render shell in the -iast.html pages):
   • Vedic svaras are marked RIGHT AFTER the vowel:  '_' = anudātta (U+0952),
-    '^' = svarita (U+0951); udātta is unmarked. devSvara() in the page
+    '^' = svarita (U+0951), '^^' = dīrgha svarita (U+1CDA); udātta is unmarked. devSvara() in the page
     reattaches these to the correct akṣara, so placement matters.
   • anunāsika candrabindu (ँ, U+0901) → 'ṁ' (renders as anusvāra in Devanāgarī).
   • anusvāra (ं) → 'ṃ', visarga (ः) → 'ḥ', avagraha (ऽ) → "'".
@@ -75,6 +75,10 @@ def dev2iast(s):
             if pending:
                 out.append("a"); pending = False
             out.append("_")
+        elif cp == 0x1CDA:                # dīrgha svarita ᳚ (Taittirīya)
+            if pending:
+                out.append("a"); pending = False
+            out.append("^^")
         elif cp == 0x951:                 # svarita ॑
             if pending:
                 out.append("a"); pending = False

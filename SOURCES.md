@@ -1017,3 +1017,86 @@ Latin and outside `.sans`, so they are never transliterated.
 `scripts/verify.py` / `dev2iast.py` with zero differences, and a
 convention-normalised character diff against the source text leaves only the
 logged items above, the table reorderings, and the omitted Telugu.
+
+### 7.3 Mahānyāsam (accented) — `stotra/shiva/`
+
+| Field | Value |
+|---|---|
+| Work | *Mahānyāsa* of Bodhāyana — the five *nyāsa*s of Rudra's mantras on the body (pañcāṅga and pañcamukha dhyāna, the limbs, the ten syllables, feet-to-crown with the Haṃsa Gāyatrī, the enclosed *digdevatā*, *daśāṅga* and *ṣoḍaśāṅga raudrīkaraṇa*, *ātmarakṣā*, and the six-fold fifth nyāsa with the Śivasaṅkalpa, Apratiratha, Tryambaka and Agni passages), the aṣṭāṅga praṇāma and Rudra dhyāna, the Rudra *snāna-arcana*, the elevenfold *Rudrābhiṣeka*, the *daśa śānti*, the *sāmrājya-paṭṭābhiṣeka*, a *Śivapūjā vidhi* using the *Mṛtyuñjaya-mānasa-pūjā* verses ascribed to Ādi Śaṅkara, and the Mahāśivarātri *arghya* verses |
+| Edition | *Nityakarma-Pūjā Prakāśika* (Telugu script), Gita Press, Gorakhpur — pp. 622–697; year not shown in the extract used |
+| Digital source | `mahanyasam.pdf` — a 76-page scan of those pages, supplied by the maintainer |
+| Recorded | 2026-09-27 |
+| Obtained via | a faithful page-by-page transcription made with the `scan-to-docx` skill (Telugu script, svaras as printed, page markers, footnotes; kept privately as `mahanyasam.compile.txt`); the Sanskrit extracted from it with a rule-based script (below), Telugu → IAST by the skill's `dev2iast.py` |
+| Used for | the Sanskrit only (IAST source of truth; 318 text blocks, 1,375 padas, 64 section headings, 18 English rubrics) |
+
+**Licensing analysis.** The Sanskrit — Taittirīya mantras and brāhmaṇa
+passages, Bodhāyana's prose, the dhyāna and pūjā ślokas — is public domain by
+age. The book is a **copyrighted modern edition**: its Telugu instructions,
+Telugu footnotes and explanatory notes, and its Telugu summary of the
+phalaśruti are **not reproduced, paraphrased or translated here**. Section
+headings, rubrics and every gloss are the maintainer's **original English,
+translated from the Sanskrit**. The rubrics state the ritual steps briefly in
+our own words; where they rest on Sanskrit prescriptions printed in the book
+(e.g. the list of the fifth nyāsa's six parts, Bodhāyana's own words), that
+is noted in the gloss rather than the Telugu.
+
+> **Unresolved.** As with §7.1–7.2, the only copy consulted is a modern
+> edition. Before any **commercial** redistribution, re-check the Sanskrit
+> against an independent public-domain print (the Mahānyāsa is widely printed
+> in Devanāgarī) or obtain permission. Non-commercial use is unaffected.
+
+**Faithfulness.** Unlike §7.2, the text is **not** re-set to a standard: the
+book's readings, word division, Taittirīya spelling (*gṃ*, *ggṃ*), daṇḍas and
+svaras are kept as printed, including readings that differ from the common
+Taittirīya text (e.g. *vaidyu'to'si*, *bandanā*, *kṛśānū*, *hi sī dāṃgirobhiḥ*,
+*site pakṣe*). The book abbreviates repeated or well-known mantras by their
+first and last words with dots (*namaśśaṃbhave ca … śivatarāya ca*, the Puruṣa
+Sūkta, the Namaka/Camaka); these are kept as `…`, not filled in.
+
+**Svaras.** Taittirīya system as printed on Telugu letters: anudātta ॒,
+svarita ॑, dīrgha svarita ᳚ (IAST `_`, `^`, `^^`), udātta unmarked; only the
+Vedic mantras carry them. Two print conventions were read as follows during
+transcription: the bar under a Telugu *ta*-vattu (స్త, న్తి) is an anudātta
+only where that syllable is anudātta; a mark that sits between two akṣaras is
+assigned by the standard accentuation. The page opens in Devanāgarī; a
+byte-level comparison of every accented block against the source (Telugu
+shifted to Devanāgarī) matches exactly, apart from the one spelling noted
+below.
+
+**Omitted** (Telugu-language, with reason: the edition's own work): all
+footnotes; the parenthetical Telugu notes and section-closing lines (*… nyāsamu
+mugisinadi*); the Telugu introduction to the Rudrābhiṣeka (p. 672) and its
+closing instructions (p. 674); the Telugu labels of the pañcāmṛta items
+(*pālu, perugu …*); cross-references to other pages of the book; the
+Mahāśivarātri note before the arghyas; and the Telugu *mukhyāṃśamulu* notes
+(p. 696–697), of which only the Sanskrit śloka *ekā caṇḍyā raveḥ sapta …* is
+kept. The book's Telugu section titles are replaced by IAST + English
+headings.
+
+**Normalisation (orthographic, not textual).** Telugu ళ written *l* (site
+convention); the vocalic-ḷ bīja ఌం written **Ḷṃ** (capital), which the
+renderer maps to ऌं / ఌం — lower-case *ḷ* is its consonant ळ — and ౡం as
+*ḹṃ*; the book's నిర్ృతి / నిర్ృతే (*r* + virāma + *ṛ*) written *nirṛti*,
+rendering निरृति; the verse label *ślo॥*, footnote markers, exclamation marks,
+quotation marks, the dashes the book sets between pādas, and a label colon
+(*karanyāsaḥ :*) dropped; Telugu numerals and the book's verse numbers moved
+into the `|| N ||` badge; the book's line breaks re-flowed at daṇḍas for the
+Vedic prose (they are printer's wraps), but kept as printed in the Śivapūjā,
+which is set one pāda per line.
+
+**Uncertain readings** (damaged or faint print; best reading adopted):
+*atithir duroṇasat* (p. 626, *thi* unclear); *oṃ namo bhagavate rudrāya*
+(p. 641, *namo* faint); *manuṣyānnenmi yate* (p. 648, Śivasaṅkalpa 5 — the
+book's reading; the standard text has *manuṣyānnenīyate*); *muñcantvagṃhasaḥ*
+(p. 668, *muñca* faint). On p. 668 the opening words of the two lines of the
+akṣata-water mantra (*… parāyaṇe dūrvā rohantu …*) are illegible in the scan
+and appear as `…`.
+
+**Shell, converter and verifier.** The shared shell's `devSvara` now also
+renders `^^` as the dīrgha svarita ᳚ (and keeps it after a visarga/anusvāra
+like the other marks); `dev2iast.py` emits `^^` for U+1CDA, and `verify.py`
+understands both it and the capital-Ḷ vocalic *ḷ*. Pages without `^^` render
+exactly as before (the rebuild changes only the shell's script text).
+
+**Verification.** All 1,375 padas round-trip IAST → Devanāgarī → IAST with
+`verify.py --data mahanyasam`: zero failures.
