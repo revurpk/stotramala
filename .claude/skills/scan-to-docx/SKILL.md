@@ -145,7 +145,15 @@ or crop tighter. Resolve what you can; leave `[?X?]` where you can't.
 ```bash
 uv run scripts/build_docx.py <file.compile.txt>     # -> .docx
 uv run scripts/build_html.py <file.compile.txt>     # -> .html (accents rendered)
+uv run scripts/build_html.py <file.compile.txt> --font "Baloo Tammudu 2"   # a chosen web font
 ```
+
+`--font` sets the Indic text in a Google Fonts family. Most display fonts
+(Baloo, Mukta, Ramabhadra…) have no ॑ ॒ ᳚ glyphs; the script checks the
+font's cmap and, when they are missing, draws the svaras with CSS — a stroke
+or bar on each accented akṣara, placed from its measured ink so it clears
+tall vowel signs and vattu. The Unicode marks stay in the text for copying.
+Force either way with `--css-accents` / `--font-accents`.
 
 Both print `WARN` lines from a lint: mixed scripts within one word (a Telugu
 letter typed into Devanāgarī), an accent placed before its vowel sign,
