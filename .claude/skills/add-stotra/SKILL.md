@@ -74,7 +74,8 @@ Read the whole thing. Note: `<poem>` blocks, section headers (`== … ==`,
 ślokas, OCR errors, and **whether it carries svaras** (`॒` `॑`). Decide the
 deity/section folder (`stotra/<deity>/`) — existing folders: ganesha, vishnu,
 rama, hanuman, devi, shiva, subrahmanya, venkateshwara, advaita (non-personal
-Vedānta), veda (accented Vedic hymns).
+Vedānta), veda (accented Vedic hymns), gita (the Bhagavad Gītā with Śaṅkara's
+bhāṣya, one page per chapter).
 
 ## Step 2 — Convert Devanāgarī → IAST
 

@@ -13,6 +13,14 @@ override that beats the automatic transliteration for the named lines.
 The IAST in the data files stays the single source of truth; corrections
 only touch the Devanāgarī / Telugu (or IAST display) of specific lines.
 
+A reader can also reword the English prose — title, subtitle, note,
+headings, rubrics, translations. Those arrive under "text", keyed by the
+prose element's position, each with the wording it replaces; the page
+applies one only while its old wording still matches. A wording fix is best
+folded into tools/stotras/<slug>.py by hand (then drop the entry, or leave it
+— once the data matches, it no longer applies); merging it here lets it ship
+straight away.
+
 Usage:
 
     python tools/apply_corrections.py <exported-file.json> [more.json ...]
@@ -21,7 +29,8 @@ Usage:
 The exported file looks like:
     { "slug": "kanakadhara-stotram",
       "corrections": { "12": { "tel": "…", "dev": "…" } },
-      "iast":        { "12": "the source IAST, for the reviewer's reference" } }
+      "iast":        { "12": "the source IAST, for the reviewer's reference" },
+      "text":        { "7": { "old": "the wording on the page", "new": "…" } } }
 
 After merging, rebuild:  python tools/build_stotra.py <slug>
 Review the diff before committing.
@@ -53,7 +62,9 @@ def load(slug):
 
 def save(slug, data):
     CORR_DIR.mkdir(parents=True, exist_ok=True)
-    ordered = {k: data[k] for k in sorted(data, key=lambda x: int(x))}
+    ordered = {k: data[k] for k in sorted((k for k in data if k != "text"), key=int)}
+    if data.get("text"):
+        ordered["text"] = {k: data["text"][k] for k in sorted(data["text"], key=int)}
     store_path(slug).write_text(
         json.dumps(ordered, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
@@ -76,6 +87,15 @@ def merge_file(path):
                 store.setdefault(idx, {})[sc] = text
                 changed += 1
                 print(f"  line {idx} [{sc}] → {text}")
+    for idx, fix in exp.get("text", {}).items():
+        if not isinstance(fix, dict) or "old" not in fix or "new" not in fix:
+            print(f"  skip text {idx}: needs 'old' and 'new'")
+            continue
+        entry = {"old": fix["old"], "new": fix["new"]}
+        if store.get("text", {}).get(idx) != entry:
+            store.setdefault("text", {})[idx] = entry
+            changed += 1
+            print(f"  text {idx}: {fix['old']}\n        → {fix['new']}")
     save(slug, store)
     print(f"{slug}: {changed} correction(s) merged into {store_path(slug).name}")
 
@@ -86,8 +106,10 @@ def list_all():
         return
     for p in sorted(CORR_DIR.glob("*.json")):
         data = json.loads(p.read_text(encoding="utf-8"))
+        text = data.pop("text", {})
         n = sum(len(v) for v in data.values())
-        print(f"{p.stem}: {n} override(s) over {len(data)} line(s)")
+        print(f"{p.stem}: {n} override(s) over {len(data)} line(s), "
+              f"{len(text)} wording fix(es)")
 
 
 def main(argv):

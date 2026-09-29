@@ -79,13 +79,30 @@ def render_verse(v, asset):
         '      <summary>translation</summary>\n'
         f'      <p>{gloss}</p>\n'
         '    </details>\n'
-        '  </div>'
+        + (render_bhashya(v["bhashya"]) + "\n" if v.get("bhashya") else "")
+        + '  </div>'
     )
 
 
+def render_bhashya(paras, summary="bhāṣya", indent="    "):
+    """A commentary fold: Sanskrit prose paragraphs, each one .sans line so it
+    renders in all three scripts. A paragraph given as {"text":…, "intro":True}
+    is the lead-in the commentator sets before the verse, shown a shade softer."""
+    ps = []
+    for p in paras:
+        text, intro = (p["text"], p.get("intro")) if isinstance(p, dict) else (p, False)
+        cls = ' class="bh-intro"' if intro else ""
+        ps.append(f'{indent}  <p{cls}><span class="sans">{esc(text)}</span></p>')
+    return (f'{indent}<details class="gloss bhashya">\n'
+            f'{indent}  <summary>{esc(summary)}</summary>\n'
+            + "\n".join(ps) + "\n"
+            f'{indent}</details>')
+
+
 def load_corrections(slug):
-    """Human-reviewed rendering overrides, keyed by .sans node index →
-    {script: text}. Merged from reviewer exports by
+    """Human-reviewed overrides: rendering fixes keyed by .sans node index →
+    {script: text}, and under "text" wording fixes keyed by editable-prose
+    index → {old, new}. Merged from reviewer exports by
     tools/apply_corrections.py. Absent file → no overrides."""
     import json
     path = pathlib.Path(__file__).resolve().parent / "corrections" / f"{slug}.json"
@@ -107,6 +124,10 @@ def render_body(st, slug, asset):
         # nothing is fetched from YouTube at read time and no one is tracked
         # for simply opening the page.
         + (f'    <p class="guidelink">▸ <a href="{esc(st["audio"])}" target="_blank" rel="noopener noreferrer">listen: {esc(st.get("audio_label", "recitation"))}</a> <span style="opacity:.7">(YouTube)</span></p>\n' if st.get("audio") else "")
+        # Optional links between the parts of a multi-page work (the Gītā's
+        # chapters): STOTRA["nav"] = [(label, href-relative-to-this-page), …]
+        + ('    <p class="guidelink">' + " · ".join(
+            f'<a href="{esc(h)}">{esc(t)}</a>' for t, h in st["nav"]) + '</p>\n' if st.get("nav") else "")
         + f'    <p class="guidelink"><a href="{asset}index.html">all stotras</a> · <a href="{asset}pronunciation.html">pronunciation guide</a></p>\n'
         '  </header>\n'
     ]
@@ -143,6 +164,17 @@ def render_body(st, slug, asset):
             # a ritual instruction, in English, between the recited texts
             parts.append('  <p class="colophon-gloss" style="margin:0 auto 1.4rem;'
                          f'max-width:30rem;">{esc(sec["rubric"])}</p>')
+        elif "speaker" in sec:
+            # who speaks the verses that follow (arjuna uvāca), in Sanskrit
+            parts.append(f'  <div class="speaker"><span class="sans">{esc(sec["speaker"])}</span></div>')
+        elif "bhashya" in sec and "padas" not in sec:
+            # a commentary passage not tied to one verse (a chapter's preamble)
+            parts.append('  <div class="verse">\n'
+                         + render_bhashya(sec["bhashya"], sec.get("summary", "bhāṣya")) + "\n  </div>")
+        elif "colophon" in sec:
+            parts.append(f'  <p class="colophon"><span class="sans">{esc(sec["colophon"])}</span></p>')
+            if sec.get("gloss"):
+                parts.append(f'  <p class="colophon-gloss">{esc(sec["gloss"])}</p>')
         else:
             parts.append(render_verse(sec, asset))
     parts.append(
@@ -153,8 +185,9 @@ def render_body(st, slug, asset):
         '      <button type="button" id="corrExport" hidden>⬇ export corrections</button>\n'
         '    </div>\n'
         '    <p class="review-note">Tap any line to edit its rendering in the\n'
-        '      current script, then export your corrections as a file to send to\n'
-        '      the maintainer. Nothing leaves your device until you export.</p>\n'
+        '      current script, or any title, heading, note or translation (open it\n'
+        '      first) to edit its wording, then export your corrections as a file\n'
+        '      to send to the maintainer. Nothing leaves your device until you export.</p>\n'
         '  </footer>\n'
     )
     import json

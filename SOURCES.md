@@ -1107,3 +1107,122 @@ exactly as before (the rebuild changes only the shell's script text).
 
 **Verification.** All 1,375 padas round-trip IAST → Devanāgarī → IAST with
 `verify.py --data mahanyasam`: zero failures.
+
+### 7.4 Bhagavad Gītā with Śaṅkara's bhāṣya — `stotra/gita/`
+
+| Field | Value |
+|---|---|
+| Work | *Śrīmad Bhagavad Gītā* (Mahābhārata, Bhīṣma Parva), 18 chapters, 700 verses, with the *Gītābhāṣya* of Śaṅkara Bhagavatpāda: his introduction (*upodghāta*, printed as *sambandha-bhāṣya*), the chapter prefaces, the commentary on 2.10–18.78, and the colophons |
+| Primary edition | *Śrīmadbhagavadgīta Śaṅkarabhāṣyamu (saṃskṛta mūlamu – telugu anuvādamu)*, Telugu translation by Sūraparāju Rādhākṛṣṇamūrti, Ramakrishna Math, Hyderabad, 2013 (ISBN 93-83142-63-7), 590 pp. — "© Ramakrishna Math, Hyderabad. All rights reserved" |
+| Digital source | archive.org item `bhagavad-gita-by-sri-adi-shankaracharya` — `భగవద్గీత శంకర భాష్యము.pdf` (2.5 MB, a born-digital PDF with a text layer in the legacy *Priyaanka* Telugu font), fetched 2026-09-28 |
+| Second witness | archive.org item `srimadbhagavadgita-telugu-shankaracharyabhashya-translatedbyshripulleysramachandra` — *Srimad Bhagavadgita, Telugu, Śaṅkarācārya bhāṣya, translated by Pullela Śrīrāmacandruḍu* (image scan, 183 MB; its OCR text `Gita (pullela)_djvu.txt` used) |
+| Third witness | Sanskrit Wikisource, *भगवद्गीताभाष्यम् -श्रीशङ्करकृतम्* (chapters 1–17) and *भगवद्गीता/मोक्षसंन्यासयोगः* (its *शाङ्करभाष्यम्* sections, chapter 18), fetched 2026-09-28 |
+| Recorded | 2026-09-28 |
+| Used for | the Sanskrit only — mūla and bhāṣya (IAST source of truth; 1,401 verse padas, 1,145 bhāṣya paragraphs, 35 colophons) |
+
+**Licensing analysis.** The Gītā and Śaṅkara's commentary are public domain
+by age. Both printed editions are **copyrighted modern works**: their Telugu
+translations (the Ramakrishna Math edition's *te.a.* paragraphs after every
+verse and bhāṣya paragraph, its *rā.kṛ.* and *a.a.* notes; Pullela's *pra-a.*
+word-glosses and *Bālānandinī* exposition), prefaces, section titles and
+indexes are **not reproduced, paraphrased or translated here**. The verse
+translations are the maintainer's **original English, made from the
+Sanskrit**; the chapter notes are original; the bhāṣya is given in Sanskrit
+only (no translation, by choice). The editions' bracketed source references
+inside the bhāṣya — e.g. *(2.19)*, *(bṛ.u.3.5.1)* — are kept, as they are
+factual citations of the passages Śaṅkara quotes.
+
+> **Unresolved.** As with §7.1–7.3, the base text is a modern edition's
+> setting of a public-domain work, published under an all-rights-reserved
+> notice. Its Sanskrit has been collated against two other witnesses (below),
+> but before any **commercial** redistribution, re-check against a
+> public-domain print (e.g. the Ānandāśrama or Vani Vilas editions) or obtain
+> permission. Non-commercial use is unaffected.
+
+**Method.** The PDF's text layer stores glyph codes, not letters, in visual
+order: consonant bodies, talakaṭṭu ticks, vowel-sign pieces, subscript
+(*vattu*) glyphs after the vowel sign, and the ra-vattu and e-sign pieces
+*before* the base they belong to. A converter written for this book maps each
+of the font's ~215 glyphs (charted and read by eye, then checked) to its role,
+groups them into akṣaras and emits canonical Unicode (base + virāma-conjuncts +
+vowel sign + anusvāra/visarga). It was calibrated on the 700 verses against
+Wikisource: 96% of verse words matched exactly on the first pass, and every
+remaining difference was traced either to the book's own spelling or to a
+glyph rule, fixed and re-checked against the page image. The book's layout
+was then parsed: Sanskrit is set in bold, the Telugu translation in regular
+weight, verses under *mū.* with the number in the margin, bhāṣya paragraphs
+under *bhāṣyam :* with the book's paragraph numbers (*N.0* = the lead-in
+before verse *N*, *N.k* = commentary on it, *0.k* = the chapter's preface).
+All 700 verses were recovered (47, 72, 43, 42, 29, 47, 30, 28, 34, 42, 55, 20,
+34, 27, 20, 24, 28, 78).
+
+**Collation and corrections.** Each chapter was diffed against Wikisource.
+The book prints Śaṅkara with words split apart (*padaccheda*: *tasmāt*,
+*saḥ ādikartā*, *ādīn agre*), so differences at the book's word boundaries are
+sandhi and were set aside (about 10,800). Of the ~1,600 differences *inside*
+a word, the Pullela edition's OCR was searched for each reading: where it
+supports Wikisource and not the book, and on review the book's form is a
+misprint (a non-word, a transposed, dropped or doubled letter), the reading is
+corrected; everything else — real variants, and Telugu-print sandhi spellings
+such as *prakṛtis sūyate* and *niśśreyasa* — is kept as printed. In the
+verses, 7.11 and 11.49 were also decided by the metre. Every correction where
+the conversion itself could have been at fault was checked against the page
+image first (the book does print *pāpanaṃ*, *tumulo pyanunādayan*,
+*balavatām asmi*, *mālyāmarbara* …). The corrections:
+
+*Verses (mūla):* 1.19 *tumulo pyanunādayan* → *tumulo vyanunādayan* (p for v); 1.23 *durbuddheryudde* → *durbuddheryuddhe* (d for dh); 1.26 *pauttrānsakhīṃstathā* → *pautrānsakhīṃstathā* (doubled t); 1.37 *sabāndhavān* → *svabāndhavān* (dropped v); 2.18 *tasmādyuddhyasva* → *tasmādyudhyasva* (ddhy for dhy); 3.8 *prasiddhyedakarmaṇaḥ* → *prasidhyedakarmaṇaḥ* (ddhy for dhy); 4.12 *siddhirbhavati karmajāḥ* → *siddhirbhavati karmajā* (stray visarga: siddhiḥ … karmajā); 4.42 *chitvainaṃ* → *chittvainaṃ* (chittvā printed with one t); 5.20 *brahavid* → *brahmavid* (dropped m); 7.11 *balavatāmasmi cāhaṃ* → *balavatāṃ cāhaṃ* (intrusive asmi, which breaks the metre); 8.7 *yuddhya ca* → *yudhya ca* (ddhy for dhy); 8.18 *tattrevāvyaktasaṃjñake* → *tatraivāvyaktasaṃjñake* (tattreva for tatraiva); 11.11 *divyamālyāmarbaradharaṃ* → *divyamālyāmbaradharaṃ* (rb for mb); 11.49 *mā te vyathā ca vimūḍhabhāvo* → *mā te vyathā mā ca vimūḍhabhāvo* (dropped mā, which the triṣṭubh needs); 11.52 *darśinakāṅkṣiṇaḥ* → *darśanakāṅkṣiṇaḥ* (i for a); 13.25 *tvevamājānantaḥ* → *tvevamajānantaḥ* (mājānantaḥ for majānantaḥ); 16.3 *dhrutiḥ* → *dhṛtiḥ* (dhru for dhṛ); 16.11 *pralayantāmupāśritāḥ* → *pralayāntāmupāśritāḥ* (pralayanta for pralayānta); 17.9 *tīkṣarūkṣa* → *tīkṣṇarūkṣa* (dropped ṇ); 18.22 *saktamahetukam* → *saktamahaitukam* (ahetukam for ahaitukam).
+
+*Commentary (bhāṣya), by chapter:* **2:** *yuktattvāt* → *yuktatvāt*; *jñānottpatti* → *jñānotpatti*; *nityattvāt* → *nityatvāt*; *saṃbaddhyate* → *saṃbadhyate*; *tadhā* → *tathā* (2×); *niravayatvāt* → *niravayavatvāt*; *avasdhāyāṃ* → *avasthāyāṃ*; *tadbuddhyastadātmānaḥ* → *tadbuddhayastadātmānaḥ*; *padrarśanārdhatvena* → *pradarśanārthatvena*; *vacanārdhaviveka* → *vacanārthaviveka*; *sadbhuddhi* → *sadbuddhi*; *upariṣṭhāt* → *upariṣṭāt*; *śruṇu* → *śṛṇu* (4×). **3:** *karyaṇyeva* → *karmaṇyeva*; *varthayata* → *vardhayata*; *śatṛṃ* → *śatruṃ*. **4:** *nibaddhyate* → *nibadhyate*; *pāpanaṃ* → *pāvanaṃ*; *nirūpādhikena* → *nirupādhikena*. **5:** *tattraiva* → *tatraiva* (2×). **6:** *hāntīti* → *hantīti*; *brahīṣi* → *bravīṣi*; *saṃbanthī* → *saṃbandhī*; *bhayo-* → *bhūyo-*. **7:** *bharatavarṣabha* → *bharatarṣabha*; *tadhetu* → *taddhetu* (2×). **8:** *pratipipsitasya* → *pratipitsitasya*; *yogadhāraṇaṃ* → *yogadhāraṇāṃ*; *daivataiva* → *devataiva*; *yathāśṛte* → *yathāśrute*; *śruṇu* → *śṛṇu*. **9:** *gṛdhniṃ* → *gṛddhiṃ*; *viśeṣanirthāraṇārthaḥ* → *viśeṣanirdhāraṇārthaḥ*; *chiṃdi* → *chindhi*; *tiṣṭatyasminniti* → *tiṣṭhatyasminniti*. **11:** *ānavāni* → *ānanāni*; *sraṣṭhṛtvāt* → *sraṣṭṛtvāt*; *sāmādharvavedaiḥ* → *sāmātharvavedaiḥ*; *athunā* → *adhunā*. **13:** *avidyādhyāropitvāt* → *avidyādhyāropitatvāt*; *nirnimitvatve* → *nirnimittatve*; *dūṣayitaṃ* → *dūṣayituṃ*; *tadvitādatho* → *tadviditādatho*; *anāditvat* → *anāditvāt*; *avidyādhyārohitāḥ* → *avidyādhyāropitāḥ*; *śṛtvā* → *śrutvā*; *draṣṭatvāt* → *draṣṭṛtvāt*. **14:** *samaloṣṭāśśakāñcanaḥ* → *samaloṣṭāśmakāñcanaḥ*. **15:** *puṇyakarmiṇāṃ* → *puṇyakarmaṇāṃ*; *tadhetu* → *taddhetu*. **16:** *viṣayaṃsaṃnidhau* → *viṣayasaṃnidhau*; *sarvādhā'pi* → *sarvathā'pi*; *hrīnābhijanam* → *hīnābhijanam*. **17:** *sātvikī* → *sāttvikī*; *mūḍhagrāmeṇa* → *mūḍhagrāheṇa*; *śṛtilakṣaṇaṃ* → *śrutilakṣaṇaṃ*; *vivarthanāḥ* → *vivardhanāḥ* (2×). **18:** *sarvadhā* → *sarvathā*; *viśuddikarāṇi* → *viśuddhikarāṇi*; *phalānabhisaṃdhināmi* → *phalānabhisaṃdhīnāmi*; *tadvan* → *tadvat*; *sannyāsanya* → *sannyāsasya*; *puraṣaḥ* → *puruṣaḥ*; *darśayitumaha* → *darśayitumāha*; *tyagītyabhidhīyate* → *tyāgītyabhidhīyate*; *nibaddhyate* → *nibadhyate* (4×); *saṃbaddhyate* → *saṃbadhyate*; *saṃbadyate* → *saṃbadhyate*; *sāmanyenaiva* → *sāmānyenaiva*; *viṣameva* → *viṣamiva*; *śatṛbhyaḥ* → *śatrubhyaḥ*; *ubhayāthā'pi* → *ubhayathā'pi*; *dyaṇukādeḥ* → *dvyaṇukādeḥ*; *vidyamānavatvāvidyamānatva* → *vidyamānatvāvidyamānatva*; *taimirakadṛṣṭyā* → *taimirikadṛṣṭyā*; *pramāṇāṃtarapekṣā* → *pramāṇāṃtarāpekṣā*; *kāryākaraṇasaṃghātaṃ* → *kāryakaraṇasaṃghātaṃ*; *virudyate* → *virudhyate*; *vivakṣittvāt* → *vivakṣitatvāt*; *kartavyattvopadeśāt* → *kartavyatvopadeśāt*; *niḥśśreyasa* → *niḥśreyasa* (5×); *kaivalyaphalāvasānattvaṃ* → *kaivalyaphalāvasānatvaṃ*; *karmayakṣayānupapattiḥ* → *karmakṣayānupapattiḥ*; *dukhamātraphaleṣu* → *duḥkhamātraphaleṣu*; *upabhoganaiva* → *upabhogenaiva*; *pāsasya* → *pāpasya*; *putrānāmā'si* → *putranāmā'si*; *saghāte* → *saṃghāte*; *rārabdaṃ* → *rārabdhaṃ*; *śabdābhilāṣāt* → *śabdābhilāpāt*; *vyuthtāyātha* → *vyutthāyātha*; *śāstrārdha* → *śāstrārtha*; *prakṛṣṭhāṃ* → *prakṛṣṭāṃ*; *vyāprutasya* → *vyāpṛtasya*; *vidhyānartakya* → *vidhyānarthakya*; *stulyarthatvāt* → *stutyarthatvāt*; *nimitteṣṭānisṭha* → *nimitteṣṭāniṣṭa*; *pramāṇānulabdhe* → *pramāṇānupalabdhe*; *upadeṣṭrutvāyāsaḥ* → *upadeṣṭṛtvāyāsaḥ*; *śṛtvā* → *śrutvā*; *naiṣkarma + ya-vattu split across a line* → *naiṣkarmyasiddhiḥ*.
+
+*Throughout (print conventions):* ḷ → l (7×); śraddhadhā- → śraddadhā- (11×); ūrthva → ūrdhva (5×); jñk / ṅñk → ṅk (2×).
+
+**Kept as printed** (variants, not errors): 11.42 *yaccāpahāsārtham*
+(Wikisource *avahāsārtham*); 18.25 *anapekṣya* (*anavekṣya*); 9.11 *tanum
+āsthitam* (*āśritam*); 18.75 *śrutavān imaṃ guhyatamaṃ param* (*etad guhyam
+aham param*); 13.20 *kāryaka(kā)raṇa-*, where the book prints both readings
+and Śaṅkara comments on *kāryakaraṇa*; 16.4 *abhimānaḥ* (Wikisource
+*atimānaḥ*); the book's unsandhied visarga in the verses (*śūrāḥ maheṣvāsā*,
+*āpaḥ na*) and its padaccheda in the bhāṣya.
+
+**Structure.** 1.20–21: the book sets *hṛṣīkeśaṃ tadā vākyam idam āha mahīpate*
+as its own line after 1.20; it is placed at the head of 1.21 (standard
+numbering), with *(arjuna uvāca)* inside the verse. The book puts *arjuna
+uvāca* before 1.29 rather than inside 1.28; that is kept. A stray centred line
+*puruṣastūkaṃ* (p. 365, inside the commentary on 13.2) and the book's heading
+*śāstra upasaṃhāra prakaraṇam* (before the concluding survey at 18.66) are
+dropped. The book's paragraph numbers are not shown; a lead-in paragraph
+(*N.0*, or an unnumbered one before a verse) opens that verse's bhāṣya fold,
+set a shade lighter. Chapter prefaces (*0.k*) and, in chapter 1, Śaṅkara's
+upodghāta (with its opening verse *nārāyaṇaḥ paro'vyaktāt …*) have their own
+fold at the top of the page. Śaṅkara does not comment on chapter 1 or on
+2.1–10, so those verses have no fold. Both colophons of each chapter (the
+Mahābhārata's and the bhāṣya's) are kept, with an original gloss.
+
+**Normalisation (orthographic, not textual).** Anusvāra before a stop or
+nasal inside a word written as the class nasal (site convention); word-final
+*ṃ* kept. A word ending in *a* that the book runs straight into *i*/*u*
+(*jātasyaiti* for *jātasya iti*) is spaced, since IAST would read it as a
+diphthong. The book's quotation marks are set as “ ”, because the renderer
+reads ' and ’ as avagraha. Daṇḍas the book swaps (2.33, 2.72, 4.2) or sets as
+commas and full stops are normalised to | … ||. Hyphens: nine are the
+book's avagraha or line-break joins and are resolved individually (*me'mṛtam*,
+*mato'dhikaḥ*, *bhūyo'bhijāyate*, *ūrdhvamūlo'vākśākhaḥ*;
+*hiṃsālakṣaṇa*, *avidyādhyāropitaḥ* …); the book's gloss marker *iti :-* is
+written *iti :*; other dashes are en dashes. The speaker labels split across a
+line in the print (9.1, 18.74) are completed.
+
+**Site changes.** The shell gained a bhāṣya fold (`.bhashya`: justified
+Sanskrit prose, one `.sans` line per paragraph so it renders in all three
+scripts); `build_stotra.py` gained a `bhashya=` list on verses, and section
+types `speaker` (a Sanskrit speaker line), `bhashya` (a standalone fold) and
+`colophon`, plus an optional `nav` of links between the parts of a
+multi-page work. The pages live in a new folder, `stotra/gita/`, one page per
+chapter (`gita-bhashya-01` … `-18`), listed under a new *Bhagavad Gītā*
+heading in the index.
+
+**Verification.** Every verse pada and bhāṣya paragraph was rendered back
+through the page's own pipeline (`verify.py`'s port of teltools) and compared
+with the Telugu source, after the normalisations above: 2,579 of 2,582 units
+match; the other three differ only in the praṇava, which the renderer draws
+as the ligature ॐ. `verify.py --data` passes all 1,401 verse padas of the 18
+pages with zero failures.

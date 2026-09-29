@@ -257,6 +257,20 @@
     font-size:1.1rem;
     line-height:1.7;
   }
+  /* ---- Commentary fold (bhāṣya): Sanskrit prose under a verse ---- */
+  .bhashya{max-width:34rem;margin-top:.35rem;}
+  .bhashya p{
+    font-style:normal;color:var(--ink);font-size:1rem;line-height:1.75;
+    text-align:left;overflow-wrap:anywhere;margin:0 0 .85rem;
+  }
+  /* justify only where the measure is wide enough not to open rivers
+     between long compounds */
+  @media (min-width:40rem){ .bhashya p{text-align:justify;} }
+  /* colophons carry very long compounds (…pūjyapādaśiṣya…): let them wrap */
+  .colophon{overflow-wrap:anywhere;}
+  .bhashya p.bh-intro{color:var(--ink-soft);}
+  html[data-script="dev"] .bhashya p,
+  html[data-script="tel"] .bhashya p{line-height:1.95;}
 
   /* Narrow phones (iPhone SE class, 320pt): step the root down so the
      whole design scales together and the longer word-split lines still
@@ -314,10 +328,10 @@
   }
   .review button:hover{border-color:var(--accent);color:var(--accent);}
   html.reviewing #corrToggle{background:var(--accent);color:var(--paper);border-color:var(--accent);}
-  html.reviewing .sans{
+  html.reviewing .sans, html.reviewing .ed{
     outline:1px dashed var(--rule);outline-offset:3px;border-radius:2px;
   }
-  html.reviewing .sans:focus{
+  html.reviewing .sans:focus, html.reviewing .ed:focus{
     outline:1.5px solid var(--accent);
     background:rgba(154,47,31,.06);
   }
@@ -457,8 +471,9 @@
       <button type="button" id="corrExport" hidden>⬇ export corrections</button>
     </div>
     <p class="review-note">Tap any line to edit its rendering in the
-      current script, then export your corrections as a file to send to
-      the maintainer. Nothing leaves your device until you export.</p>
+      current script, or any title, heading, note or translation (open it
+      first) to edit its wording, then export your corrections as a file
+      to send to the maintainer. Nothing leaves your device until you export.</p>
   </footer>
 
 
@@ -748,10 +763,12 @@
   /* Devanāgarī / Telugu are rendered from the IAST source at runtime via
      the teltools transliterators (IAST → Telugu → Devanagari). The IAST in
      the markup is the single source of truth; with JS off it is what shows.
-     A review/correction facility lets a reader override any line's rendering;
-     drafts live in localStorage and can be exported for the maintainer, who
-     merges them (tools/apply_corrections.py) into tools/corrections/<slug>.json
-     so build_stotra.py bakes them into window.STOTRA_CORRECTIONS. */
+     A review/correction facility lets a reader override any line's rendering,
+     and reword any title, heading, note, rubric or translation (script-
+     independent, keyed by position with the original text alongside); drafts
+     live in localStorage and can be exported for the maintainer, who merges
+     them (tools/apply_corrections.py) into tools/corrections/<slug>.json so
+     build_stotra.py bakes them into window.STOTRA_CORRECTIONS. */
   (function () {
     "use strict";
     if (typeof teltools === "undefined") return;   // stay on IAST
@@ -867,6 +884,36 @@
     var nodes = [].slice.call(document.querySelectorAll(".sans"));
     nodes.forEach(function (n, i){ n.setAttribute("data-iast", n.textContent); n.dataset.vi = i; });
 
+    // Editable prose (English, one text for every script): title, subtitle and
+    // note, headings, rubrics, translations, colophon gloss. Where the prose
+    // shares its element with a link (a heading's ↑), its text is wrapped in a
+    // span so only the words are editable. Keyed by document order (data-ti);
+    // an entry carries the original wording and applies only while the page
+    // still has it, so a stale suggestion never lands on the wrong text.
+    var texts = [];
+    document.querySelectorAll('header h1, header .subtitle, p.speaker, ' +
+        'details.gloss:not(#contents):not(.bhashya) > p, .colophon-gloss').forEach(function (el){
+      if (!el.children.length){ el.classList.add("ed"); texts.push(el); return; }
+      [].slice.call(el.childNodes).forEach(function (c){
+        if (c.nodeType !== 3 || !c.nodeValue.trim()) return;
+        var s = document.createElement("span");
+        s.className = "ed"; el.insertBefore(s, c); s.appendChild(c); texts.push(s);
+      });
+    });
+    var TKEY = "stotra-text:" + SLUG;
+    var tdrafts = (function (){ try { return JSON.parse(localStorage.getItem(TKEY)) || {}; } catch (e){ return {}; } })();
+    function saveTexts(){ try { localStorage.setItem(TKEY, JSON.stringify(tdrafts)); } catch (e){} }
+    var BTEXT = BAKED.text || {};
+    texts.forEach(function (el, i){
+      var orig = el.textContent;
+      el.dataset.ti = i; el.dataset.orig = orig;
+      var b = BTEXT[i];
+      if (b && b.old === orig) el.textContent = b["new"];
+      el.dataset.base = el.textContent;                 // what the reader was shown
+      var d = tdrafts[i];
+      if (d && d.old === orig) el.textContent = d["new"];
+    });
+
     var btns = [].slice.call(document.querySelectorAll('.scriptbar button[data-script]'));
     var current = "iast";
 
@@ -902,8 +949,8 @@
     function setReview(on){
       reviewing = on;
       document.documentElement.classList.toggle("reviewing", on);
-      nodes.forEach(function (n){
-        if (on){ n.setAttribute("contenteditable", "true"); n.setAttribute("spellcheck", "false"); }
+      nodes.concat(texts).forEach(function (n){
+        if (on){ n.setAttribute("contenteditable", "true"); n.setAttribute("spellcheck", n.classList.contains("ed") ? "true" : "false"); }
         else n.removeAttribute("contenteditable");
       });
       if (exportBtn) exportBtn.hidden = !on;
@@ -913,6 +960,13 @@
     document.addEventListener("input", function (e){
       if (!reviewing) return;
       var n = e.target;
+      if (n.classList && n.classList.contains("ed")){
+        var t = n.dataset.ti, v = n.textContent;
+        if (v === n.dataset.base) delete tdrafts[t];
+        else tdrafts[t] = { old: n.dataset.orig, "new": v };
+        saveTexts();
+        return;
+      }
       if (!n.classList || !n.classList.contains("sans")) return;
       var i = n.dataset.vi;
       var val = n.textContent;
@@ -924,11 +978,16 @@
       saveDrafts();
     }, true);
 
+    // every editable is a single run of text: Enter ends the edit
+    document.addEventListener("keydown", function (e){
+      if (reviewing && e.key === "Enter" && e.target.isContentEditable){ e.preventDefault(); e.target.blur(); }
+    }, true);
+
     if (toggle) toggle.addEventListener("click", function (){ setReview(!reviewing); });
     if (exportBtn) exportBtn.addEventListener("click", function (){
       var iast = {};
       Object.keys(drafts).forEach(function (i){ iast[i] = nodes[i] ? nodes[i].getAttribute("data-iast") : null; });
-      var payload = { slug: SLUG, corrections: drafts, iast: iast };
+      var payload = { slug: SLUG, corrections: drafts, iast: iast, text: tdrafts };
       var blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });
       var a = document.createElement("a");
       a.href = URL.createObjectURL(blob);

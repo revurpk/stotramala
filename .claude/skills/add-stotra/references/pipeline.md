@@ -10,6 +10,7 @@ Read the section you need; skip the rest.
 - [6. Telugu-source pages](#6-telugu-source-pages)
 - [7. Praṇava ॐ](#7-praṇava-ॐ)
 - [8. Word / HTML compilations (Telugu-script booklets)](#8-word--html-compilations-telugu-script-booklets)
+- [9. PDFs set in a legacy Telugu font](#9-pdfs-set-in-a-legacy-telugu-font)
 
 ## 1. Fetching from Wikisource
 
@@ -213,3 +214,33 @@ omission, a table reorder, a correction to log — or a change you made
 without cause, which you revert. (It caught "standardised" words the book
 never had, and an invented half-line.) Log the corrections in SOURCES as a
 grouped list, section by section.
+
+## 9. PDFs set in a legacy Telugu font
+
+Telugu books typeset before Unicode (Anu, Priyaanka, Eenadu, …) often reach
+archive.org as PDFs *with* a text layer — but the layer holds glyph codes, not
+letters: ``N=∞^ŒƒùQÆ=næ`«`` is శ్రీమద్భగవద్గీత. Converting that layer is far
+more exact than OCR. First done for the Gītā-bhāṣya (SOURCES §7.4); the
+converter is `scripts/priyaanka.py` (`convert(text)`), for the Priyaanka
+family.
+
+- **Detect.** `pymupdf` `get_text()` returns Latin-1 gibberish and
+  `get_fonts()` names a Telugu DTP font. Dump spans with font names:
+  weight often separates the layers (there, Sanskrit bold, Telugu
+  translation regular).
+- **Chart the font.** Glyph names are generic (`A`, `quotedbl`), so render
+  every used code point with the embedded font (`pymupdf.Font(fontbuffer=…)`,
+  `insert_text`) into a labelled chart and read it. Expect positional
+  variants: several talakaṭṭu ticks, several ā/u signs, pre-base pieces (the
+  ra-vattu and e-signs come *before* the base in the stream), vattus *after*
+  the vowel sign, and "hook" glyphs that turn వ into మ and ఫ into ఘ.
+- **Calibrate on a parallel text.** Pair the book's verses with a Unicode
+  witness (Wikisource) word by word; score, read the top mismatches, fix
+  rules, repeat. Then scan the whole book for leftover glyph codes and
+  impossible sequences (a sign with no base, two vowel signs).
+- **Check against the page image** whenever a mismatch could be the
+  converter's: crop the line at 300–500 dpi. Many "errors" are the book's
+  own misprints, and those belong in a logged correction list, not in the
+  converter — keep the converter faithful.
+- **Join spans before converting** (the PDF splits words across spans) and
+  drop spaces the PDF inserts before hanging glyphs.

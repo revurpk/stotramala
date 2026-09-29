@@ -20,6 +20,24 @@ overrides only touch the Devanāgarī / Telugu (or, rarely, the IAST
 *display*) of specific lines where the mechanical transliteration is
 wrong.
 
+**Wording fixes.** Readers can also reword the English prose — the title,
+subtitle and note, headings, rubrics, translations and colophon gloss. Those
+are the same in every script, so they sit under `"text"`, keyed by the prose
+element's position on the page (document order, from 0), with the wording
+they replace:
+
+```json
+{
+  "12": { "tel": "…" },
+  "text": { "7": { "old": "…wording on the page…", "new": "…suggested wording…" } }
+}
+```
+
+A page applies a wording fix only while its `old` still matches, so an entry
+never lands on text that has since changed. The lasting home for a wording
+fix is the data file: fold it into `tools/stotras/<slug>.py`, after which the
+entry is inert and can be deleted.
+
 **How entries get here:** a reader opens a page, taps *suggest a
 correction*, edits the offending line, and exports a JSON file; the
 maintainer runs `python tools/apply_corrections.py <export.json>`, which

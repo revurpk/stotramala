@@ -8,7 +8,8 @@ Each page comes from `tools/stotras/<slug>.py`, a module with one dict named
 
 | Key | Meaning |
 |---|---|
-| `deity` | folder under `stotra/` (ganesha, vishnu, rama, hanuman, devi, shiva, subrahmanya, venkateshwara, advaita, veda). Required. |
+| `deity` | folder under `stotra/` (ganesha, vishnu, rama, hanuman, devi, shiva, subrahmanya, venkateshwara, advaita, veda, gita). Required. |
+| `nav` | optional list of `(label, href)` links between the pages of a multi-page work, shown above "all stotras" — e.g. the Gītā's `("‹ chapter 1", "gita-bhashya-01-iast.html")`, `("all chapters", "../../index.html#gita")`. |
 | `script` | `"dev"` opens the page in Devanāgarī (use for **accented Vedic** texts; svaras show in Devanāgarī and — drawn with CSS — in Telugu, not in IAST). Omit for the default (IAST). |
 | `src` | `"tel"` marks a **Telugu-source** page (Telugu is the truth, IAST is an aid, no Devanāgarī). Omit for Sanskrit pages. |
 | `doc_title` / `app_title` / `h1` | page `<title>`, PWA name, and heading. Usually identical. |
@@ -26,6 +27,20 @@ Latin and outside `.sans`, so they are never transliterated:
 | `{"heading": "Gaṇapati Pūjā"}` | `.speaker` (centred small-caps) | section titles |
 | `{"rubric": "Sip water three times…"}` | `.colophon-gloss` (italic note) | ritual directions, in your own English |
 | verse dict with `"prose": True` | `.verse.viniyoga` (one size down) | saṅkalpa, āvāhana formulae, nāma lists |
+
+For a text **with a commentary** (the Gītā with Śaṅkara's bhāṣya), four more
+types; these are Sanskrit and inside `.sans`, so they render in every script:
+
+| Item | Renders as | Use |
+|---|---|---|
+| `_v(…, bhashya=[…])` | a `bhāṣya` fold under the verse's translation | the commentary on that verse, one string per paragraph; a paragraph given as `{"text": …, "intro": True}` is the commentator's lead-in before the verse, set a shade lighter |
+| `{"bhashya": […], "summary": "…"}` | a standalone fold | a preface not tied to one verse (a chapter's opening, the upodghāta) |
+| `{"speaker": "arjuna uvāca"}` | `.speaker` with a `.sans` line | who speaks the verses that follow |
+| `{"colophon": "iti …", "gloss": "Thus ends …"}` | `.colophon` + `.colophon-gloss` | closing colophons, with an English gloss |
+
+Give commentary paragraphs as prose (no `|`), keep the quotation marks as “ ”
+(the renderer reads `'` and `’` as avagraha), and verify them with the same
+render check as the padas — `verify.py --data` checks padas only.
 
 For a long page with many `heading`s, set `"toc": True` in `STOTRA`: the
 builder adds a collapsible **contents** panel under the header linking to
