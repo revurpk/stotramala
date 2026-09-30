@@ -1226,3 +1226,31 @@ with the Telugu source, after the normalisations above: 2,579 of 2,582 units
 match; the other three differ only in the praṇava, which the renderer draws
 as the ligature ॐ. `verify.py --data` passes all 1,401 verse padas of the 18
 pages with zero failures.
+
+**Preamble (chapter 1 page), added 2026-09-30.** The traditional preamble
+to a recitation is set before Śaṅkara's introduction, taken from the two
+books first and only then from elsewhere:
+
+- *Viniyoga and nyāsa* (karanyāsa, hṛdayādi-nyāsa, dig-bandha, the closing
+  viniyoga) — Pullela edition, *Śrībhagavadgītāpārāyaṇavidhiḥ*, pp. 50–51,
+  transcribed from the page images (leaves 50–51 of the archive.org scan;
+  the OCR text is too noisy to use). The Ramakrishna Math book has none of
+  it. The edition reads *asya śrībhagavadgītā**śāstramahā**mantrasya*, kept;
+  many prints have *…gītāmālāmantrasya*. Its misprints are read as:
+  *sarapāpebhyo* → *sarvapāpebhyo* (18.66), *nānāvarṇākṛtāni* →
+  *nānāvarṇākṛtīni* (as 11.5 and the karanyāsa), *bhūrbhuvarom* →
+  *bhūrbhuvassuvarom*.
+- *Gītā dhyāna* (4 ślokas) and *guru stuti* (the book's *gurudhyānam*, 5
+  ślokas, from *vasudevasutaṃ devaṃ … kṛṣṇaṃ vande jagadgurum*) — the
+  Ramakrishna Math book, p. xi, from the converted text layer; the only change
+  is spacing *śrīguravenamaḥ* as *śrīgurave namaḥ*. The Pullela edition's
+  fuller ten-verse dhyāna (adding *vācakaḥ praṇavo yasya*, *bhīṣmadroṇataṭā*,
+  *pārāśaryavacaḥ*, *mūkaṃ karoti*, *yaṃ brahmā varuṇendra*) is not used.
+- *Phalaśruti* — neither book has one. Mahābhārata 6.43.1–5 (*gītā sugītā
+  kartavyā …*, spoken by Vaiśampāyana), from Sanskrit Wikisource,
+  *महाभारतम्-06-भीष्मपर्व-043*, fetched 2026-09-30; *sukhapadmād* read
+  *mukhapadmād*. Its verse 4–5 count of 745 ślokas is the Mahābhārata's
+  own tradition, not this edition's 700.
+
+The translations of all of it are original. Every line passes
+`verify.py --data gita-bhashya-01`.

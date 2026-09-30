@@ -21,6 +21,13 @@ folded into tools/stotras/<slug>.py by hand (then drop the entry, or leave it
 — once the data matches, it no longer applies); merging it here lets it ship
 straight away.
 
+A reader can also propose a verse or mantra that is missing. Those arrive
+under "additions": the block of the page it should follow ("after", with
+that block's opening words as "context"), the lines as typed in any script,
+and a translation. They are kept here for the record but never baked into a
+page — review each one, and add an accepted one to tools/stotras/<slug>.py;
+this tool prints it ready to paste, converted to IAST.
+
 Usage:
 
     python tools/apply_corrections.py <exported-file.json> [more.json ...]
@@ -30,7 +37,9 @@ The exported file looks like:
     { "slug": "kanakadhara-stotram",
       "corrections": { "12": { "tel": "…", "dev": "…" } },
       "iast":        { "12": "the source IAST, for the reviewer's reference" },
-      "text":        { "7": { "old": "the wording on the page", "new": "…" } } }
+      "text":        { "7": { "old": "the wording on the page", "new": "…" } },
+      "additions":   [ { "after": 14, "context": "sarvamaṅgalamāṅgalye…",
+                         "script": "tel", "lines": ["…", "…"], "gloss": "…" } ] }
 
 After merging, rebuild:  python tools/build_stotra.py <slug>
 Review the diff before committing.
@@ -62,9 +71,11 @@ def load(slug):
 
 def save(slug, data):
     CORR_DIR.mkdir(parents=True, exist_ok=True)
-    ordered = {k: data[k] for k in sorted((k for k in data if k != "text"), key=int)}
+    ordered = {k: data[k] for k in sorted((k for k in data if k not in ("text", "additions")), key=int)}
     if data.get("text"):
         ordered["text"] = {k: data["text"][k] for k in sorted(data["text"], key=int)}
+    if data.get("additions"):
+        ordered["additions"] = data["additions"]
     store_path(slug).write_text(
         json.dumps(ordered, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
@@ -96,8 +107,49 @@ def merge_file(path):
             store.setdefault("text", {})[idx] = entry
             changed += 1
             print(f"  text {idx}: {fix['old']}\n        → {fix['new']}")
+    for a in exp.get("additions", []):
+        lines = [l for l in a.get("lines", []) if l.strip()]
+        if not lines:
+            continue
+        entry = {"after": a.get("after"), "context": a.get("context", ""), "script": a.get("script"),
+                 "lines": lines, "gloss": a.get("gloss", "")}
+        known = store.setdefault("additions", [])
+        if any(k["after"] == entry["after"] and k["lines"] == entry["lines"] for k in known):
+            continue
+        known.append(entry)
+        changed += 1
+        print(f"  proposed verse after block {entry['after']} (“{entry['context']}”):")
+        print("    " + snippet(entry).replace("\n", "\n    "))
     save(slug, store)
     print(f"{slug}: {changed} correction(s) merged into {store_path(slug).name}")
+    if store.get("additions"):
+        print("  proposed verses are not shown on the page until added to "
+              f"tools/stotras/{slug}.py (snippets above)")
+
+
+def to_iast(line):
+    """A proposed line in any script -> site IAST (Telugu/Devanāgarī via the
+    add-stotra converter; IAST as typed). Falls back to the text unchanged."""
+    import re
+    if not re.search(r"[\u0900-\u097F\u0C00-\u0C7F]", line):
+        return line
+    try:
+        sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent.parent
+                               / ".claude" / "skills" / "add-stotra" / "scripts"))
+        from dev2iast import conv
+    except ImportError:
+        return line
+    telugu = bool(re.search(r"[\u0C00-\u0C7F]", line))
+    return conv(line, danda=True, telugu=telugu)
+
+
+def snippet(entry):
+    import re
+    lines = [to_iast(l) for l in entry["lines"]]
+    lines[-1] = re.sub(r"\s*\|\|?\s*[0-9]*\s*\|*\s*$", "", lines[-1])   # the closing ॥ goes in num
+    body = ",\n    ".join(json.dumps(l, ensure_ascii=False) for l in lines)
+    return (f"_v([{body}],\n   \"|| ? ||\", {json.dumps(entry['gloss'] or '(translation)', ensure_ascii=False)}),"
+            f"   # proposed; check the IAST, number and translation")
 
 
 def list_all():
@@ -107,9 +159,10 @@ def list_all():
     for p in sorted(CORR_DIR.glob("*.json")):
         data = json.loads(p.read_text(encoding="utf-8"))
         text = data.pop("text", {})
+        adds = data.pop("additions", [])
         n = sum(len(v) for v in data.values())
         print(f"{p.stem}: {n} override(s) over {len(data)} line(s), "
-              f"{len(text)} wording fix(es)")
+              f"{len(text)} wording fix(es), {len(adds)} proposed verse(s)")
 
 
 def main(argv):

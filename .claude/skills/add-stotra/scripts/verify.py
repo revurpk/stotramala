@@ -133,7 +133,9 @@ def data_roundtrip(slug):
     m = importlib.util.module_from_spec(spec); spec.loader.exec_module(m)
     padas = [p for s in m.STOTRA["sections"] if isinstance(s, dict) and "padas" in s
              for p in s["padas"]]
-    ok = set("abcdeghijklmnoprstuvyāīūṛṝḷḹḶṅñṭḍṇśṣṃḥṁ '|—…()_^0123456789")   # Ḷ = vocalic ḷ (ऌ)
+    # Ḷ = vocalic ḷ (ऌ); prose padas (viniyoga, nyāsa) may carry “quotes” and
+    # ordinary punctuation, which pass through the renderer unchanged
+    ok = set("abcdeghijklmnoprstuvyāīūṛṝḷḹḶṅñṭḍṇśṣṃḥṁ '|—…()_^0123456789“”,.;:?!–")
     bad = 0
     for p in padas:
         stray = set(p) - ok

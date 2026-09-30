@@ -340,6 +340,25 @@
     font-size:.76rem;font-style:italic;line-height:1.55;color:var(--ink-soft);
   }
   html.reviewing .review-note{display:block;}
+  /* proposing a missing verse or mantra (review mode only) */
+  .add-slot,.add-card{display:none;}
+  html.reviewing .add-slot{
+    display:block;margin:-1.4rem auto 1.8rem;font:inherit;font-size:.72rem;
+    letter-spacing:.04em;cursor:pointer;color:var(--ink-soft);background:transparent;
+    border:1px dashed var(--rule);border-radius:2rem;padding:.2rem .8rem;
+  }
+  html.reviewing .add-slot:hover{border-color:var(--accent);color:var(--accent);}
+  html.reviewing .add-card{
+    display:block;max-width:32rem;margin:-.8rem auto 2rem;padding:.8rem .9rem;
+    border:1px dashed var(--accent);border-radius:.4rem;font-size:.85rem;
+  }
+  .add-card label{display:block;margin:.4rem 0 .2rem;color:var(--ink-soft);font-size:.75rem;letter-spacing:.04em;}
+  .add-card textarea{
+    width:100%;box-sizing:border-box;font:inherit;font-size:1rem;line-height:1.5;
+    color:var(--ink);background:var(--paper);border:1px solid var(--rule);border-radius:.3rem;padding:.4rem .5rem;
+  }
+  .add-card button{font:inherit;font-size:.72rem;margin-top:.5rem;cursor:pointer;color:var(--ink-soft);
+    background:transparent;border:1px solid var(--rule);border-radius:2rem;padding:.15rem .7rem;}
 </style>
 </head>
 <body>
@@ -460,8 +479,9 @@
     </div>
     <p class="review-note">Tap any line to edit its rendering in the
       current script, or any title, heading, note or translation (open it
-      first) to edit its wording, then export your corrections as a file
-      to send to the maintainer. Nothing leaves your device until you export.</p>
+      first) to edit its wording; use “+ propose a verse or mantra” to add
+      one that is missing, with its translation. Then export your corrections
+      as a file to send to the maintainer. Nothing leaves your device until you export.</p>
   </footer>
 
 
@@ -966,6 +986,66 @@
       saveDrafts();
     }, true);
 
+    // ---- proposing a missing verse or mantra ----
+    // A "+" slot follows every block of the page (verse, heading, speaker,
+    // ornament, colophon; and the header). A proposal records the block it
+    // follows (data-bi, document order from 0; -1 = right after the header)
+    // with that block's opening words as context, the lines exactly as typed
+    // in any script, and a translation. Proposals are not baked into pages:
+    // the maintainer adds accepted ones to the data file.
+    var AKEY = "stotra-add:" + SLUG;
+    var adds = (function (){ try { return JSON.parse(localStorage.getItem(AKEY)) || []; } catch (e){ return []; } })();
+    function saveAdds(){ try { localStorage.setItem(AKEY, JSON.stringify(adds)); } catch (e){} }
+    var mainEl = document.querySelector("main"), hdr = mainEl && mainEl.querySelector("header");
+    var blocks = mainEl ? [].slice.call(mainEl.querySelectorAll(
+        ":scope > .verse, :scope > .speaker, :scope > .ornament, :scope > .colophon")) : [];
+    function ctxOf(bi){
+      if (bi < 0) return "(start of the page)";
+      var el = blocks[bi], s = el.querySelector(".sans");
+      return ((s ? s.getAttribute("data-iast") || s.textContent : el.textContent) || "").trim().slice(0, 80);
+    }
+    function anchorOf(bi){ return bi < 0 ? hdr : blocks[bi]; }
+    function card(a){
+      var c = document.createElement("div");
+      c.className = "add-card"; c.dataset.id = a.id;
+      c.innerHTML = '<label>Proposed verse or mantra — one line per pāda, in any script</label>'
+        + '<textarea rows="3" class="add-lines" spellcheck="false"></textarea>'
+        + '<label>Translation (optional)</label>'
+        + '<textarea rows="2" class="add-gloss"></textarea>'
+        + '<button type="button" class="add-del">remove this proposal</button>';
+      c.querySelector(".add-lines").value = a.lines.join("\n");
+      c.querySelector(".add-gloss").value = a.gloss;
+      c.addEventListener("input", function (){
+        a.lines = c.querySelector(".add-lines").value.split("\n").map(function (l){ return l.trim(); })
+                   .filter(function (l){ return l; });
+        a.gloss = c.querySelector(".add-gloss").value.trim();
+        a.script = current; saveAdds();
+      });
+      c.querySelector(".add-del").addEventListener("click", function (){
+        adds = adds.filter(function (x){ return x.id !== a.id; }); saveAdds(); c.remove();
+      });
+      return c;
+    }
+    function place(a){                       // cards sit after their slot, newest last
+      var slot = document.querySelector('.add-slot[data-bi="' + a.after + '"]');
+      if (!slot) return null;
+      var at = slot; while (at.nextElementSibling && at.nextElementSibling.classList.contains("add-card")) at = at.nextElementSibling;
+      var c = card(a); at.parentNode.insertBefore(c, at.nextSibling); return c;
+    }
+    (hdr ? [-1] : []).concat(blocks.map(function (_, i){ return i; })).forEach(function (bi){
+      var b = document.createElement("button");
+      b.type = "button"; b.className = "add-slot"; b.dataset.bi = bi;
+      b.textContent = "+ propose a verse or mantra here";
+      var at = anchorOf(bi); at.parentNode.insertBefore(b, at.nextSibling);
+      b.addEventListener("click", function (){
+        var a = { id: Date.now().toString(36) + Math.random().toString(36).slice(2, 6),
+                  after: bi, context: ctxOf(bi), script: current, lines: [], gloss: "" };
+        adds.push(a); saveAdds();
+        var c = place(a); if (c) c.querySelector("textarea").focus();
+      });
+    });
+    adds.forEach(place);
+
     // every editable is a single run of text: Enter ends the edit
     document.addEventListener("keydown", function (e){
       if (reviewing && e.key === "Enter" && e.target.isContentEditable){ e.preventDefault(); e.target.blur(); }
@@ -975,7 +1055,8 @@
     if (exportBtn) exportBtn.addEventListener("click", function (){
       var iast = {};
       Object.keys(drafts).forEach(function (i){ iast[i] = nodes[i] ? nodes[i].getAttribute("data-iast") : null; });
-      var payload = { slug: SLUG, corrections: drafts, iast: iast, text: tdrafts };
+      var payload = { slug: SLUG, corrections: drafts, iast: iast, text: tdrafts,
+                      additions: adds.filter(function (a){ return a.lines.length; }) };
       var blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });
       var a = document.createElement("a");
       a.href = URL.createObjectURL(blob);

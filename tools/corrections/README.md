@@ -38,6 +38,16 @@ never lands on text that has since changed. The lasting home for a wording
 fix is the data file: fold it into `tools/stotras/<slug>.py`, after which the
 entry is inert and can be deleted.
 
+**Proposed verses and mantras.** In review mode each page shows a
+“+ propose a verse or mantra here” slot after every block (verse, heading,
+speaker, ornament, colophon). A proposal records the block it follows
+(`after`, document order from 0, −1 = right after the header) with that
+block's opening words as `context`, the lines exactly as typed in any script,
+and a translation. They are stored here under `"additions"` as a record but
+are **never baked into a page**; `apply_corrections.py` prints each as a
+`_v(…)` in IAST to review and, if accepted, paste into
+`tools/stotras/<slug>.py`.
+
 **How entries get here:** a reader opens a page, taps *suggest a
 correction*, edits the offending line, and exports a JSON file; the
 maintainer runs `python tools/apply_corrections.py <export.json>`, which

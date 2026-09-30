@@ -108,7 +108,11 @@ def load_corrections(slug):
     path = pathlib.Path(__file__).resolve().parent / "corrections" / f"{slug}.json"
     if not path.exists():
         return {}
-    return json.loads(path.read_text(encoding="utf-8"))
+    data = json.loads(path.read_text(encoding="utf-8"))
+    # proposed new verses are a record for the maintainer, not page content:
+    # an accepted one goes into the data file instead
+    data.pop("additions", None)
+    return data
 
 
 def render_body(st, slug, asset):
@@ -186,8 +190,9 @@ def render_body(st, slug, asset):
         '    </div>\n'
         '    <p class="review-note">Tap any line to edit its rendering in the\n'
         '      current script, or any title, heading, note or translation (open it\n'
-        '      first) to edit its wording, then export your corrections as a file\n'
-        '      to send to the maintainer. Nothing leaves your device until you export.</p>\n'
+        '      first) to edit its wording; use “+ propose a verse or mantra” to add\n'
+        '      one that is missing, with its translation. Then export your corrections\n'
+        '      as a file to send to the maintainer. Nothing leaves your device until you export.</p>\n'
         '  </footer>\n'
     )
     import json

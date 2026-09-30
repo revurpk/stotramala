@@ -340,6 +340,25 @@
     font-size:.76rem;font-style:italic;line-height:1.55;color:var(--ink-soft);
   }
   html.reviewing .review-note{display:block;}
+  /* proposing a missing verse or mantra (review mode only) */
+  .add-slot,.add-card{display:none;}
+  html.reviewing .add-slot{
+    display:block;margin:-1.4rem auto 1.8rem;font:inherit;font-size:.72rem;
+    letter-spacing:.04em;cursor:pointer;color:var(--ink-soft);background:transparent;
+    border:1px dashed var(--rule);border-radius:2rem;padding:.2rem .8rem;
+  }
+  html.reviewing .add-slot:hover{border-color:var(--accent);color:var(--accent);}
+  html.reviewing .add-card{
+    display:block;max-width:32rem;margin:-.8rem auto 2rem;padding:.8rem .9rem;
+    border:1px dashed var(--accent);border-radius:.4rem;font-size:.85rem;
+  }
+  .add-card label{display:block;margin:.4rem 0 .2rem;color:var(--ink-soft);font-size:.75rem;letter-spacing:.04em;}
+  .add-card textarea{
+    width:100%;box-sizing:border-box;font:inherit;font-size:1rem;line-height:1.5;
+    color:var(--ink);background:var(--paper);border:1px solid var(--rule);border-radius:.3rem;padding:.4rem .5rem;
+  }
+  .add-card button{font:inherit;font-size:.72rem;margin-top:.5rem;cursor:pointer;color:var(--ink-soft);
+    background:transparent;border:1px solid var(--rule);border-radius:2rem;padding:.15rem .7rem;}
 </style>
 </head>
 <body>
@@ -357,11 +376,220 @@
     <h1>Bhagavad Gītā · Chapter 1</h1>
     <p class="subtitle">Arjunaviṣāda Yoga · Arjuna's despondency · with Śaṅkara's bhāṣya</p>
     <hr class="titlerule">
-    <p class="subtitle" style="font-size:.8rem;max-width:26rem;margin:.5rem auto 0;">The Gītā opens on the field of Kurukṣetra, where Sañjaya describes the two armies to the blind king Dhṛtarāṣṭra and Arjuna, seeing his own kin arrayed for battle, sinks into grief. Śaṅkara does not comment on this chapter; his introduction to the whole work (upodghāta) stands at the head of the page, and his commentary proper begins at 2.10. The bhāṣya folds hold the Sanskrit commentary, untranslated; the verse translations are original.</p>
+    <p class="subtitle" style="font-size:.8rem;max-width:26rem;margin:.5rem auto 0;">The Gītā opens on the field of Kurukṣetra, where Sañjaya describes the two armies to the blind king Dhṛtarāṣṭra and Arjuna, seeing his own kin arrayed for battle, sinks into grief. The page opens with the traditional preamble to a recitation — the viniyoga and nyāsa, the Gītā dhyāna, the guru stuti and the phalaśruti from the Mahābhārata. Śaṅkara does not comment on this chapter; his introduction to the whole work (upodghāta) stands at the head of the page, and his commentary proper begins at 2.10. The bhāṣya folds hold the Sanskrit commentary, untranslated; the verse translations are original.</p>
     <p class="guidelink"><a href="../../index.html#gita">all chapters</a> · <a href="gita-bhashya-02-iast.html">chapter 2 ›</a></p>
     <p class="guidelink"><a href="../../index.html">all stotras</a> · <a href="../../pronunciation.html">pronunciation guide</a></p>
   </header>
 
+
+  <p class="speaker">Pūrvāṅga · viniyoga and nyāsa</p>
+
+  <div class="verse viniyoga">
+    <p class="lines">
+      <span class="sans">oṃ asya śrībhagavadgītāśāstramahāmantrasya bhagavān vedavyāsaḥ ṛṣiḥ, anuṣṭup chandaḥ, śrīkṛṣṇaparamātmā devatā, “aśocyānanvaśocastvaṃ prajñāvādāṃśca bhāṣase” iti bījam, “sarvadharmān parityajya māmekaṃ śaraṇaṃ vraja” iti śaktiḥ, “ahaṃ tvā sarvapāpebhyo mokṣayiṣyāmi māśucaḥ” iti kīlakam |</span></p>
+    <details class="gloss">
+      <summary>translation</summary>
+      <p>Oṃ. Of this great mantra, the scripture of the sacred Bhagavad Gītā, the seer is the blessed Vedavyāsa, the metre anuṣṭubh, and the deity Śrī Kṛṣṇa, the supreme Self. 'You grieve for those who should not be grieved for, yet speak words of wisdom' (2.11) is its seed; 'Abandoning all dharmas, take refuge in me alone' (18.66) is its power; 'I will release you from all sins; do not grieve' (18.66) is its pin, which holds it fast.</p>
+    </details>
+  </div>
+
+  <div class="verse viniyoga">
+    <p class="lines">
+      <span class="sans">“nainaṃ chindanti śastrāṇi nainaṃ dahati pāvakaḥ” ityaṅguṣṭhābhyāṃ namaḥ | “na cainaṃ kledayantyāpo na śoṣayati mārutaḥ” iti tarjanībhyāṃ namaḥ | “acchedyo'yamadāhyo'yamakledyo'śoṣya eva ca” iti madhyamābhyāṃ namaḥ | “nityaḥ sarvagataḥ sthāṇuracalo'yaṃ sanātanaḥ” ityanāmikābhyāṃ namaḥ | “paśya me pārtha rūpāṇi śataśo'tha sahasraśaḥ” iti kaniṣṭhikābhyāṃ namaḥ | “nānāvidhāni divyāni nānāvarṇākṛtīni ca” iti karatalakarapṛṣṭhābhyāṃ namaḥ | iti karanyāsaḥ ||</span></p>
+    <details class="gloss">
+      <summary>translation</summary>
+      <p>The placing on the hands: with 'Weapons do not cut it, fire does not burn it' (2.23), salutation to the thumbs; with 'water does not wet it, wind does not dry it', to the forefingers; with 'It cannot be cut, burnt, wetted or dried' (2.24), to the middle fingers; with 'It is eternal, all-pervading, stable, unmoving, everlasting', to the ring fingers; with 'Behold, Pārtha, my forms by hundreds and thousands' (11.5), to the little fingers; with 'various and divine, of many colours and shapes', to the palms and the backs of the hands.</p>
+    </details>
+  </div>
+
+  <div class="verse viniyoga">
+    <p class="lines">
+      <span class="sans">“nainaṃ chindanti śastrāṇi nainaṃ dahati pāvakaḥ” iti hṛdayāya namaḥ | “na cainaṃ kledayantyāpo na śoṣayati mārutaḥ” iti śirase svāhā | “acchedyo'yamadāhyo'yamakledyo'śoṣya eva ca” iti śikhāyai vaṣaṭ | “nityaḥ sarvagataḥ sthāṇuracalo'yaṃ sanātanaḥ” iti kavacāya hum | “paśya me pārtha rūpāṇi śataśo'tha sahasraśaḥ” iti netratrayāya vauṣaṭ | “nānāvidhāni divyāni nānāvarṇākṛtīni ca” iti astrāya phaṭ | “bhūrbhuvassuvarom” iti digbandhaḥ ||</span></p>
+    <details class="gloss">
+      <summary>translation</summary>
+      <p>The placing on the limbs, with the same six lines: to the heart, namaḥ; to the head, svāhā; to the tuft of hair, vaṣaṭ; to the armour, hum; to the three eyes, vauṣaṭ; to the weapon, phaṭ. With 'bhūr bhuvas suvar om' the quarters are sealed.</p>
+    </details>
+  </div>
+
+  <div class="verse viniyoga">
+    <p class="lines">
+      <span class="sans">oṃ śrīkṛṣṇaprītyarthe gītāpārāyaṇe (jape vā) viniyogaḥ ||</span></p>
+    <details class="gloss">
+      <summary>translation</summary>
+      <p>Oṃ. This is undertaken in the recitation of the Gītā — or in its silent repetition — for the pleasure of Śrī Kṛṣṇa.</p>
+    </details>
+  </div>
+
+  <p class="speaker">Gītā dhyānam</p>
+
+  <div class="verse">
+    <p class="lines">
+      <span class="sans">pārthāya pratibodhitāṃ bhagavatā nārāyaṇena svayaṃ</span><br>
+      <span class="sans">vyāsena grathitāṃ purāṇamuninā madhye mahābhāratam |</span><br>
+      <span class="sans">advaitāmṛtavarṣiṇīṃ bhagavatīmaṣṭādaśādhyāyinīṃ</span><br>
+      <span class="sans">amba tvāmanusandadhāmi bhagavadgīte bhavadveṣiṇīm</span><br>
+      <span class="num sans">|| 1 ||</span></p>
+    <details class="gloss">
+      <summary>translation</summary>
+      <p>O Mother, O Bhagavad Gītā — taught to Pārtha by the Lord Nārāyaṇa himself, woven by the ancient sage Vyāsa into the midst of the Mahābhārata, showering the nectar of non-duality, divine, in eighteen chapters, the destroyer of rebirth — on you I meditate.</p>
+    </details>
+  </div>
+
+  <div class="verse">
+    <p class="lines">
+      <span class="sans">namo'stu te vyāsa viśālabuddhe</span><br>
+      <span class="sans">phullāravindāyatapatranetra |</span><br>
+      <span class="sans">yena tvayā bhāratatailapūrṇaḥ</span><br>
+      <span class="sans">prajvālito jñānamayaḥ pradīpaḥ</span><br>
+      <span class="num sans">|| 2 ||</span></p>
+    <details class="gloss">
+      <summary>translation</summary>
+      <p>Salutation to you, Vyāsa of vast understanding, whose eyes are long as the petals of a full-blown lotus, by whom the lamp of knowledge, filled with the oil of the Bhārata, was kindled.</p>
+    </details>
+  </div>
+
+  <div class="verse">
+    <p class="lines">
+      <span class="sans">prapannapārijātāya totravetraikapāṇaye |</span><br>
+      <span class="sans">jñānamudrāya kṛṣṇāya gītāmṛtaduhe namaḥ</span><br>
+      <span class="num sans">|| 3 ||</span></p>
+    <details class="gloss">
+      <summary>translation</summary>
+      <p>Salutation to Kṛṣṇa — the wish-granting tree of those who take refuge in him, who holds the cowherd's goad in one hand and shows the sign of knowledge with the other — the milker of the nectar of the Gītā.</p>
+    </details>
+  </div>
+
+  <div class="verse">
+    <p class="lines">
+      <span class="sans">sarvopaniṣado gāvo dogdhā gopālanandanaḥ |</span><br>
+      <span class="sans">pārtho vatsaḥ sudhīrbhoktā dugdhaṃ gītāmṛtaṃ mahat</span><br>
+      <span class="num sans">|| 4 ||</span></p>
+    <details class="gloss">
+      <summary>translation</summary>
+      <p>The Upaniṣads are the cows; the milker is the son of the cowherd; Pārtha is the calf; the wise one is the drinker; and the milk is the great nectar of the Gītā.</p>
+    </details>
+  </div>
+
+  <p class="speaker">Guru stuti</p>
+
+  <div class="verse">
+    <p class="lines">
+      <span class="sans">vasudevasutaṃ devaṃ kaṃsacāṇūramardanam |</span><br>
+      <span class="sans">devakīparamānandaṃ kṛṣṇaṃ vande jagadgurum</span><br>
+      <span class="num sans">|| 1 ||</span></p>
+    <details class="gloss">
+      <summary>translation</summary>
+      <p>I bow to Kṛṣṇa, the teacher of the world — the divine son of Vasudeva, the slayer of Kaṃsa and Cāṇūra, the supreme joy of Devakī.</p>
+    </details>
+  </div>
+
+  <div class="verse">
+    <p class="lines">
+      <span class="sans">kṛṣṇadvaipāyanaṃ vyāsaṃ sarvalokahite ratam |</span><br>
+      <span class="sans">vedābjabhāskaraṃ vande śamādinilayaṃ munim</span><br>
+      <span class="num sans">|| 2 ||</span></p>
+    <details class="gloss">
+      <summary>translation</summary>
+      <p>I bow to Vyāsa, Kṛṣṇa Dvaipāyana, the sage devoted to the good of all the worlds, the sun that opens the lotus of the Veda, the dwelling-place of calm and the other virtues.</p>
+    </details>
+  </div>
+
+  <div class="verse">
+    <p class="lines">
+      <span class="sans">śrutismṛti purāṇānāmālayaṃ karuṇālayam |</span><br>
+      <span class="sans">namāmi bhagavatpādaṃ śaṅkaraṃ lokaśaṅkaram</span><br>
+      <span class="num sans">|| 3 ||</span></p>
+    <details class="gloss">
+      <summary>translation</summary>
+      <p>I bow to Śaṅkara Bhagavatpāda, the home of the Veda, the smṛtis and the Purāṇas, the home of compassion, who brings blessing to the world.</p>
+    </details>
+  </div>
+
+  <div class="verse">
+    <p class="lines">
+      <span class="sans">gururbrahmā gururviṣṇuḥ gururdevo maheśvaraḥ |</span><br>
+      <span class="sans">gurussākṣāt parabrahma tasmai śrīgurave namaḥ</span><br>
+      <span class="num sans">|| 4 ||</span></p>
+    <details class="gloss">
+      <summary>translation</summary>
+      <p>The guru is Brahmā, the guru is Viṣṇu, the guru is the god Maheśvara; the guru is the supreme Brahman itself. Salutation to that revered guru.</p>
+    </details>
+  </div>
+
+  <div class="verse">
+    <p class="lines">
+      <span class="sans">ajñānatimirāndhasya jñānāñjanaśalākayā |</span><br>
+      <span class="sans">cakṣurunmīlitaṃ yena tasmai śrīgurave namaḥ</span><br>
+      <span class="num sans">|| 5 ||</span></p>
+    <details class="gloss">
+      <summary>translation</summary>
+      <p>Salutation to that revered guru who, with the salve-stick of knowledge, opened the eyes of one blinded by the darkness of ignorance.</p>
+    </details>
+  </div>
+
+  <p class="speaker">Gītā māhātmyam · phalaśruti (Mahābhārata 6.43.1–5)</p>
+
+  <div class="speaker"><span class="sans">vaiśampāyana uvāca</span></div>
+
+  <div class="verse">
+    <p class="lines">
+      <span class="sans">gītā sugītā kartavyā kimanyaiḥ śāstrasaṃgrahaiḥ |</span><br>
+      <span class="sans">yā svayaṃ padmanābhasya mukhapadmādviniḥsṛtā</span><br>
+      <span class="num sans">|| 1 ||</span></p>
+    <details class="gloss">
+      <summary>translation</summary>
+      <p>Vaiśampāyana said: The Gītā should be well sung — what need of other compendia of scripture? For it came forth from the lotus-mouth of Padmanābha himself.</p>
+    </details>
+  </div>
+
+  <div class="verse">
+    <p class="lines">
+      <span class="sans">sarvaśāstramayī gītā sarvadevamayo hariḥ |</span><br>
+      <span class="sans">sarvatīrthamayī gaṅgā sarvadevamayo manuḥ</span><br>
+      <span class="num sans">|| 2 ||</span></p>
+    <details class="gloss">
+      <summary>translation</summary>
+      <p>The Gītā holds all the scriptures, as Hari holds all the gods, as the Gaṅgā holds all the holy fords, and as Manu holds all the gods.</p>
+    </details>
+  </div>
+
+  <div class="verse">
+    <p class="lines">
+      <span class="sans">gītā gaṅgā ca gāyatrī govindeti hṛdi sthite |</span><br>
+      <span class="sans">caturgakārasaṃyukte punarjanma na vidyate</span><br>
+      <span class="num sans">|| 3 ||</span></p>
+    <details class="gloss">
+      <summary>translation</summary>
+      <p>When the four words that begin with g — Gītā, Gaṅgā, Gāyatrī and Govinda — dwell in the heart, there is no rebirth.</p>
+    </details>
+  </div>
+
+  <div class="verse">
+    <p class="lines">
+      <span class="sans">ṣaṭśatāni saviṃśāni ślokānāṃ prāha keśavaḥ |</span><br>
+      <span class="sans">arjunaḥ saptapañcāśat saptaṣaṣṭiṃ tu sañjayaḥ</span><br>
+      <span class="num sans">|| 4 ||</span></p>
+    <details class="gloss">
+      <summary>translation</summary>
+      <p>Six hundred and twenty ślokas Keśava spoke; Arjuna fifty-seven; Sañjaya sixty-seven;</p>
+    </details>
+  </div>
+
+  <div class="verse">
+    <p class="lines">
+      <span class="sans">dhṛtarāṣṭraḥ ślokamekaṃ gītāyā mānamucyate |</span><br>
+      <span class="sans">bhāratāmṛtasarvasvagītāyā mathitasya ca |</span><br>
+      <span class="sans">sāramuddhṛtya kṛṣṇena arjunasya mukhe hutam</span><br>
+      <span class="num sans">|| 5 ||</span></p>
+    <details class="gloss">
+      <summary>translation</summary>
+      <p>and Dhṛtarāṣṭra one: this is said to be the measure of the Gītā. Churning the Gītā, the whole wealth of the nectar of the Bhārata, Kṛṣṇa drew out its essence and poured it into Arjuna's mouth as an offering.</p>
+    </details>
+  </div>
+
+  <div class="ornament">❧</div>
+
+  <p class="speaker">Śaṅkara's introduction</p>
 
   <div class="verse">
     <details class="gloss bhashya">
@@ -375,6 +603,8 @@
       <p><span class="sans">imaṃ dviprakāraṃ dharmaṃ niśśreyasaprayojanaṃ paramārthatattvaṃ ca vāsudevākhyaṃ parabrahmābhidheyabhūtaṃ viśeṣataḥ abhivyañjayat viśiṣṭaprayojanasambandhābhidheyavat gītāśāstram. yataḥ tadarthavijñāne samastapuruṣārthasiddhiḥ, ataḥ tadvivaraṇe yatnaḥ kriyate mayā.</span></p>
     </details>
   </div>
+
+  <p class="speaker">Chapter 1 · Arjunaviṣāda Yoga</p>
 
   <div class="speaker"><span class="sans">dhṛtarāṣṭra uvāca</span></div>
 
@@ -919,8 +1149,9 @@
     </div>
     <p class="review-note">Tap any line to edit its rendering in the
       current script, or any title, heading, note or translation (open it
-      first) to edit its wording, then export your corrections as a file
-      to send to the maintainer. Nothing leaves your device until you export.</p>
+      first) to edit its wording; use “+ propose a verse or mantra” to add
+      one that is missing, with its translation. Then export your corrections
+      as a file to send to the maintainer. Nothing leaves your device until you export.</p>
   </footer>
 
 
@@ -1425,6 +1656,66 @@
       saveDrafts();
     }, true);
 
+    // ---- proposing a missing verse or mantra ----
+    // A "+" slot follows every block of the page (verse, heading, speaker,
+    // ornament, colophon; and the header). A proposal records the block it
+    // follows (data-bi, document order from 0; -1 = right after the header)
+    // with that block's opening words as context, the lines exactly as typed
+    // in any script, and a translation. Proposals are not baked into pages:
+    // the maintainer adds accepted ones to the data file.
+    var AKEY = "stotra-add:" + SLUG;
+    var adds = (function (){ try { return JSON.parse(localStorage.getItem(AKEY)) || []; } catch (e){ return []; } })();
+    function saveAdds(){ try { localStorage.setItem(AKEY, JSON.stringify(adds)); } catch (e){} }
+    var mainEl = document.querySelector("main"), hdr = mainEl && mainEl.querySelector("header");
+    var blocks = mainEl ? [].slice.call(mainEl.querySelectorAll(
+        ":scope > .verse, :scope > .speaker, :scope > .ornament, :scope > .colophon")) : [];
+    function ctxOf(bi){
+      if (bi < 0) return "(start of the page)";
+      var el = blocks[bi], s = el.querySelector(".sans");
+      return ((s ? s.getAttribute("data-iast") || s.textContent : el.textContent) || "").trim().slice(0, 80);
+    }
+    function anchorOf(bi){ return bi < 0 ? hdr : blocks[bi]; }
+    function card(a){
+      var c = document.createElement("div");
+      c.className = "add-card"; c.dataset.id = a.id;
+      c.innerHTML = '<label>Proposed verse or mantra — one line per pāda, in any script</label>'
+        + '<textarea rows="3" class="add-lines" spellcheck="false"></textarea>'
+        + '<label>Translation (optional)</label>'
+        + '<textarea rows="2" class="add-gloss"></textarea>'
+        + '<button type="button" class="add-del">remove this proposal</button>';
+      c.querySelector(".add-lines").value = a.lines.join("\n");
+      c.querySelector(".add-gloss").value = a.gloss;
+      c.addEventListener("input", function (){
+        a.lines = c.querySelector(".add-lines").value.split("\n").map(function (l){ return l.trim(); })
+                   .filter(function (l){ return l; });
+        a.gloss = c.querySelector(".add-gloss").value.trim();
+        a.script = current; saveAdds();
+      });
+      c.querySelector(".add-del").addEventListener("click", function (){
+        adds = adds.filter(function (x){ return x.id !== a.id; }); saveAdds(); c.remove();
+      });
+      return c;
+    }
+    function place(a){                       // cards sit after their slot, newest last
+      var slot = document.querySelector('.add-slot[data-bi="' + a.after + '"]');
+      if (!slot) return null;
+      var at = slot; while (at.nextElementSibling && at.nextElementSibling.classList.contains("add-card")) at = at.nextElementSibling;
+      var c = card(a); at.parentNode.insertBefore(c, at.nextSibling); return c;
+    }
+    (hdr ? [-1] : []).concat(blocks.map(function (_, i){ return i; })).forEach(function (bi){
+      var b = document.createElement("button");
+      b.type = "button"; b.className = "add-slot"; b.dataset.bi = bi;
+      b.textContent = "+ propose a verse or mantra here";
+      var at = anchorOf(bi); at.parentNode.insertBefore(b, at.nextSibling);
+      b.addEventListener("click", function (){
+        var a = { id: Date.now().toString(36) + Math.random().toString(36).slice(2, 6),
+                  after: bi, context: ctxOf(bi), script: current, lines: [], gloss: "" };
+        adds.push(a); saveAdds();
+        var c = place(a); if (c) c.querySelector("textarea").focus();
+      });
+    });
+    adds.forEach(place);
+
     // every editable is a single run of text: Enter ends the edit
     document.addEventListener("keydown", function (e){
       if (reviewing && e.key === "Enter" && e.target.isContentEditable){ e.preventDefault(); e.target.blur(); }
@@ -1434,7 +1725,8 @@
     if (exportBtn) exportBtn.addEventListener("click", function (){
       var iast = {};
       Object.keys(drafts).forEach(function (i){ iast[i] = nodes[i] ? nodes[i].getAttribute("data-iast") : null; });
-      var payload = { slug: SLUG, corrections: drafts, iast: iast, text: tdrafts };
+      var payload = { slug: SLUG, corrections: drafts, iast: iast, text: tdrafts,
+                      additions: adds.filter(function (a){ return a.lines.length; }) };
       var blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });
       var a = document.createElement("a");
       a.href = URL.createObjectURL(blob);
