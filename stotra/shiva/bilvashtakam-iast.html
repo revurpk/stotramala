@@ -269,6 +269,11 @@
   /* colophons carry very long compounds (…pūjyapādaśiṣya…): let them wrap */
   .colophon{overflow-wrap:anywhere;}
   .bhashya p.bh-intro{color:var(--ink-soft);}
+  /* English rendering under each commentary paragraph */
+  .bhashya p.bh-tr{
+    font-style:italic;color:var(--gloss);font-size:.98rem;line-height:1.6;
+    text-align:left;margin:-.45rem 0 1.15rem;padding-left:.7rem;border-left:2px solid var(--rule);
+  }
   html[data-script="dev"] .bhashya p,
   html[data-script="tel"] .bhashya p{line-height:1.95;}
 
@@ -911,7 +916,7 @@
     // still has it, so a stale suggestion never lands on the wrong text.
     var texts = [];
     document.querySelectorAll('header h1, header .subtitle, p.speaker, ' +
-        'details.gloss:not(#contents):not(.bhashya) > p, .colophon-gloss').forEach(function (el){
+        'details.gloss:not(#contents):not(.bhashya) > p, details.bhashya > p.bh-tr, .colophon-gloss').forEach(function (el){
       if (!el.children.length){ el.classList.add("ed"); texts.push(el); return; }
       [].slice.call(el.childNodes).forEach(function (c){
         if (c.nodeType !== 3 || !c.nodeValue.trim()) return;

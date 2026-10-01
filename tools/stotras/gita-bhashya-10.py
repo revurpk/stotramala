@@ -5,8 +5,8 @@
 # the Ramakrishna Math, Hyderabad edition (2013), whose legacy Telugu font was
 # mapped to Unicode glyph by glyph; its Telugu translation is not used. Collated
 # against Sanskrit Wikisource and the Pullela Śrīrāmacandruḍu edition; every
-# correction is logged in SOURCES §7.4. Verse translations are original; the
-# bhāṣya is untranslated. Generated from the collated text — edit here, not
+# correction is logged in SOURCES §7.4. The English of the verses and of the
+# bhāṣya is original, made from the Sanskrit. Generated from the collated text — edit here, not
 # upstream.
 
 
@@ -34,8 +34,8 @@ STOTRA = {
         ], "|| 1 ||",
            "The Blessed Lord said: Hear once more, mighty-armed one, my supreme word, which I will speak to you, who delight in it, out of desire for your good.",
            bhashya=[
-               {"text": "saptame adhyāye bhagavataḥ tattvaṃ vibhūtayaśca prakāśitāḥ, navame ca. atha idānīṃ yeṣu yeṣu bhāveṣu cintyaḥ bhagavān te te bhāvāḥ vaktavyāḥ. tattvaṃ ca bhagavataḥ vaktavyam uktamapi, durvijñeyatvāt ityataḥ.", "intro": True},
-               "bhūyaḥ iti – bhūyaḥ eva punaḥ, he mahābāho, śṛṇu, me madīyaṃ paramaṃ prakṛṣṭaṃ niratiśayavastunaḥ prakāśakaṃ, vacaḥ vākyaṃ, yat paramaṃ, te tubhyaṃ, prīyamāṇāya, madvacanāt prīyase tvam atīva amṛtamiva piban, tataḥ vakṣyāmi hitakāmyayā hitecchayā.",
+               {"text": "saptame adhyāye bhagavataḥ tattvaṃ vibhūtayaśca prakāśitāḥ, navame ca. atha idānīṃ yeṣu yeṣu bhāveṣu cintyaḥ bhagavān te te bhāvāḥ vaktavyāḥ. tattvaṃ ca bhagavataḥ vaktavyam uktamapi, durvijñeyatvāt ityataḥ.", "intro": True, "tr": "In the seventh chapter, and in the ninth, the reality and the glories of the Lord were made known. Now the things in which the Lord is to be contemplated are to be told; and the Lord's reality, though already told, is to be told again, because it is hard to grasp. Hence:"},
+               {"text": "bhūyaḥ iti – bhūyaḥ eva punaḥ, he mahābāho, śṛṇu, me madīyaṃ paramaṃ prakṛṣṭaṃ niratiśayavastunaḥ prakāśakaṃ, vacaḥ vākyaṃ, yat paramaṃ, te tubhyaṃ, prīyamāṇāya, madvacanāt prīyase tvam atīva amṛtamiva piban, tataḥ vakṣyāmi hitakāmyayā hitecchayā.", "tr": "'Once more, mighty-armed…' Once more, again, mighty-armed, hear my supreme word — supreme, revealing the unsurpassed reality — which I shall speak to you who delight in it — you delight in my words, drinking them like nectar — and so I shall speak, wishing your good, from the desire for your welfare."},
            ]),
         _v([
             "na me viduḥ suragaṇāḥ prabhavaṃ na maharṣayaḥ |",
@@ -43,8 +43,8 @@ STOTRA = {
         ], "|| 2 ||",
            "Neither the hosts of gods nor the great seers know my origin; for I am the source of the gods and of the great seers in every way.",
            bhashya=[
-               {"text": "kimarthaṃ ahaṃ vakṣyāmi iti? ataḥ āha –", "intro": True},
-               "na me viduḥ na jānanti suragaṇāḥ brahmādayaḥ, kiṃ te na viduḥ? mama prabhavaṃ prabhāvaṃ prabhuśaktyatiśayam, athavā prabhavaṃ prabhavanam utpattiṃ, nāpi maharṣayaḥ bhṛgvādayaḥ viduḥ. kasmāt te na viduḥ. kasmāt te na viduḥ. iti ucyate – aham ādiḥ kāraṇaṃ hi yasmāt devānāṃ maharṣīṇāṃ ca sarvaśaḥ sarvaprakāraiḥ –",
+               {"text": "kimarthaṃ ahaṃ vakṣyāmi iti? ataḥ āha –", "intro": True, "tr": "Why shall I speak? So he says:"},
+               {"text": "na me viduḥ na jānanti suragaṇāḥ brahmādayaḥ, kiṃ te na viduḥ? mama prabhavaṃ prabhāvaṃ prabhuśaktyatiśayam, athavā prabhavaṃ prabhavanam utpattiṃ, nāpi maharṣayaḥ bhṛgvādayaḥ viduḥ. kasmāt te na viduḥ. kasmāt te na viduḥ. iti ucyate – aham ādiḥ kāraṇaṃ hi yasmāt devānāṃ maharṣīṇāṃ ca sarvaśaḥ sarvaprakāraiḥ –", "tr": "The hosts of gods, Brahmā and the rest, do not know — what do they not know? My origin, my power, the surpassing might of my lordship; or 'origin' meaning my coming forth, my birth. Nor do the great sages, Bhṛgu and the rest, know it. Why do they not know? It is said: because I am the beginning, the cause, of the gods and the great sages, in every way, in every respect."},
            ]),
         _v([
             "yo māmajamanādiṃ ca vetti lokamaheśvaram |",
@@ -52,7 +52,7 @@ STOTRA = {
         ], "|| 3 ||",
            "He who knows me as unborn and without beginning, the great lord of the worlds, is undeluded among mortals and is freed from all sins.",
            bhashya=[
-               "yaḥ mām ajam anādiṃ ca, yasmāt aham ādiḥ devānāṃ maharṣīṇāṃ, na mama anyaḥ ādiḥ vidyate, ataḥ aham ajaḥ anādiḥ ca, anāditvam ajatve hetuḥ, taṃ mām ajam anādiṃ ca yaḥ vetti vijānāti lokamaheśvaraṃ lokānāṃ mahāntam īśvaraṃ (turīyam ajñānatatkāryavarjitam) asammūḍhaḥ sammohavarjitaḥ saḥ martyeṣu manuṣyeṣu sarvapāpaiḥ sarvaiḥ pāpaiḥ matipūrvāmatipūrvakṛtaiḥ pramucyate pramokṣyate.",
+               {"text": "yaḥ mām ajam anādiṃ ca, yasmāt aham ādiḥ devānāṃ maharṣīṇāṃ, na mama anyaḥ ādiḥ vidyate, ataḥ aham ajaḥ anādiḥ ca, anāditvam ajatve hetuḥ, taṃ mām ajam anādiṃ ca yaḥ vetti vijānāti lokamaheśvaraṃ lokānāṃ mahāntam īśvaraṃ (turīyam ajñānatatkāryavarjitam) asammūḍhaḥ sammohavarjitaḥ saḥ martyeṣu manuṣyeṣu sarvapāpaiḥ sarvaiḥ pāpaiḥ matipūrvāmatipūrvakṛtaiḥ pramucyate pramokṣyate.", "tr": "He who knows me as unborn and beginningless — since I am the beginning of the gods and great sages, and there is no other beginning of me, I am unborn and beginningless; beginninglessness is the reason for being unborn — he who knows, understands, me thus, unborn and beginningless, the great Lord of the worlds (the fourth, free of ignorance and its effects), he, undeluded, free from delusion, among mortals, among men, is freed, will be freed, from all sins, done knowingly or unknowingly."},
            ]),
         _v([
             "buddhirjñānamasammohaḥ kṣamā satyaṃ damaḥ śamaḥ |",
@@ -60,8 +60,8 @@ STOTRA = {
         ], "|| 4 ||",
            "Understanding, knowledge, freedom from delusion, patience, truthfulness, self-restraint and calm; pleasure and pain, being and non-being, fear and fearlessness;",
            bhashya=[
-               {"text": "itaśca ahaṃ maheśvaraḥ lokānām –", "intro": True},
-               "buddhiḥ antaḥkaraṇasya sūkṣmādyarthāvabodhanasāmarthyam. tadvantaṃ buddhimāniti hi vadanti. jñānam ātmādipadārthānām avabodhaḥ. asammohaḥ pratyutpanneṣu boddhavyeṣu vivekapūrvikā pravṛttiḥ. kṣamā ākruṣṭasya tāḍitasya vā avikṛtacittatā. satyaṃ yathādṛṣṭasya yathāśrutasya vā ātmānubhavasya parabuddhi saṅkrāntaye tathaiva uccāryamāṇā vāk satyam ucyate. damaḥ bāhyendriyopaśamaḥ. śamaḥ antaḥkaraṇasya upaśamaḥ. sukham āhlādaḥ. duḥkhaṃ santāpaḥ. bhavaḥ udbhavaḥ. abhāvaḥ tadviparyayaḥ. bhayaṃ ca trāsaḥ abhayam eva ca tadviparītam.",
+               {"text": "itaśca ahaṃ maheśvaraḥ lokānām –", "intro": True, "tr": "And for this further reason I am the great Lord of the worlds:"},
+               {"text": "buddhiḥ antaḥkaraṇasya sūkṣmādyarthāvabodhanasāmarthyam. tadvantaṃ buddhimāniti hi vadanti. jñānam ātmādipadārthānām avabodhaḥ. asammohaḥ pratyutpanneṣu boddhavyeṣu vivekapūrvikā pravṛttiḥ. kṣamā ākruṣṭasya tāḍitasya vā avikṛtacittatā. satyaṃ yathādṛṣṭasya yathāśrutasya vā ātmānubhavasya parabuddhi saṅkrāntaye tathaiva uccāryamāṇā vāk satyam ucyate. damaḥ bāhyendriyopaśamaḥ. śamaḥ antaḥkaraṇasya upaśamaḥ. sukham āhlādaḥ. duḥkhaṃ santāpaḥ. bhavaḥ udbhavaḥ. abhāvaḥ tadviparyayaḥ. bhayaṃ ca trāsaḥ abhayam eva ca tadviparītam.", "tr": "Understanding: the capacity of the inner organ to grasp subtle and other matters; one who has it is called intelligent. Knowledge: the understanding of things such as the Self. Non-delusion: acting with discrimination regarding things to be understood as they arise. Patience: an unruffled mind when abused or struck. Truth: speech uttered just as it is, to convey to another's understanding what one has seen, heard or experienced oneself, is called truth. Self-control: restraint of the outer senses. Calm: quieting of the inner organ. Pleasure: gladness. Pain: anguish. Being: arising; non-being: its opposite. Fear: dread; and fearlessness, its opposite."},
            ]),
         _v([
             "ahiṃsā samatā tuṣṭistapo dānaṃ yaśo'yaśaḥ |",
@@ -69,7 +69,7 @@ STOTRA = {
         ], "|| 5 ||",
            "non-violence, equanimity, contentment, austerity, generosity, fame and infamy — these various states of beings arise from me alone.",
            bhashya=[
-               "ahiṃseti – ahiṃsā apīḍā prāṇinām. samatā samacittatā. tuṣṭiḥ santoṣaḥ paryāptabuddhiḥ lābheṣu. tapaḥ indriyasaṃyamapūrvakaṃ śarīrapīḍanam. dānaṃ yathāśakti saṃvibhāgaḥ. yaśaḥ dharmanimittā kīrtiḥ. ayaśastu adharmanimittā akīrtiḥ. bhavanti bhāvāḥ yathoktāḥ buddhyādayaḥ, bhūtānāṃ prāṇināṃ, matta eva īśvarāt, pṛthagvidhāḥ nānāvidhāḥ svakarmānu rūpeṇa. kiñca –",
+               {"text": "ahiṃseti – ahiṃsā apīḍā prāṇinām. samatā samacittatā. tuṣṭiḥ santoṣaḥ paryāptabuddhiḥ lābheṣu. tapaḥ indriyasaṃyamapūrvakaṃ śarīrapīḍanam. dānaṃ yathāśakti saṃvibhāgaḥ. yaśaḥ dharmanimittā kīrtiḥ. ayaśastu adharmanimittā akīrtiḥ. bhavanti bhāvāḥ yathoktāḥ buddhyādayaḥ, bhūtānāṃ prāṇināṃ, matta eva īśvarāt, pṛthagvidhāḥ nānāvidhāḥ svakarmānu rūpeṇa. kiñca –", "tr": "Non-violence: not hurting living beings. Evenness: equanimity of mind. Contentment: satisfaction, the sense of sufficiency in what one gains. Austerity: mortification of the body preceded by restraint of the senses. Charity: sharing according to one's means. Fame: renown arising from dharma; infamy: ill repute arising from adharma. These states of beings, of living creatures — understanding and the rest as described — arise from me alone, the Lord, in their various kinds, according to each one's own actions. Moreover —"},
            ]),
         _v([
             "maharṣayaḥ sapta pūrve catvāro manavastathā |",
@@ -77,7 +77,7 @@ STOTRA = {
         ], "|| 6 ||",
            "The seven great seers of old and the four Manus, from whom these creatures in the world descend, were born of my mind and share my nature.",
            bhashya=[
-               "maharṣayaḥ sapta bhṛgvādayaḥ, pūrve atītakālasambandhinaḥ, catvāraḥ manavaḥ tathā sāvarṇāḥ iti prasiddhāḥ. te ca, madbhāvāḥ madgatabhāvanāḥ, vaiṣṇavena sāmarthyena upetāḥ mānasāḥ manasaiva utpāditāḥ mayā jātāḥ utpannāḥ, yeṣāṃ manūnāṃ maharṣīṇāṃ ca sṛṣṭiḥ loke imāḥ sthāvarajaṅgamalakṣaṇāḥ prajāḥ.",
+               {"text": "maharṣayaḥ sapta bhṛgvādayaḥ, pūrve atītakālasambandhinaḥ, catvāraḥ manavaḥ tathā sāvarṇāḥ iti prasiddhāḥ. te ca, madbhāvāḥ madgatabhāvanāḥ, vaiṣṇavena sāmarthyena upetāḥ mānasāḥ manasaiva utpāditāḥ mayā jātāḥ utpannāḥ, yeṣāṃ manūnāṃ maharṣīṇāṃ ca sṛṣṭiḥ loke imāḥ sthāvarajaṅgamalakṣaṇāḥ prajāḥ.", "tr": "The seven great sages, Bhṛgu and the rest, of old, belonging to former times; likewise the four Manus, known as the Sāvarṇas. They, sharing my being — their thought fixed on me, endowed with Viṣṇu's power — were born of mind, produced by me through mind alone; and from them, the Manus and great sages, came these creatures in the world, moving and unmoving."},
            ]),
         _v([
             "etāṃ vibhūtiṃ yogaṃ ca mama yo vetti tattvataḥ |",
@@ -85,7 +85,7 @@ STOTRA = {
         ], "|| 7 ||",
            "He who knows in truth this glory and this yoga of mine is joined to me in unwavering yoga; of this there is no doubt.",
            bhashya=[
-               "etāmiti – etāṃ yathoktāṃ, vibhūtiṃ vistāraṃ, yogaṃ ca yuktiṃ ca ātmanaḥ ghaṭanam, athavā yogaiśvarya sāmarthyaṃ, sarvajñatvaṃ yogajaṃ yogaḥ ityucyate. mama madīyaṃ, yaḥ vetti tattvataḥ tattvena, yathāvat ityetat. saḥ, avikampena apravicalitena, yogena samyagdarśana sthairyalakṣaṇena, yujyate sambadhyate. na atra saṃśayaḥ na asmin arthe saṃśayaḥ asti.",
+               {"text": "etāmiti – etāṃ yathoktāṃ, vibhūtiṃ vistāraṃ, yogaṃ ca yuktiṃ ca ātmanaḥ ghaṭanam, athavā yogaiśvarya sāmarthyaṃ, sarvajñatvaṃ yogajaṃ yogaḥ ityucyate. mama madīyaṃ, yaḥ vetti tattvataḥ tattvena, yathāvat ityetat. saḥ, avikampena apravicalitena, yogena samyagdarśana sthairyalakṣaṇena, yujyate sambadhyate. na atra saṃśayaḥ na asmin arthe saṃśayaḥ asti.", "tr": "'He who knows this glory and yoga of mine…' This glory, this manifold extension, as described, and yoga — the contriving of myself; or, the power of the lordship of yoga: all-knowingness, born of yoga, is called yoga — of mine, whoever knows in truth, as it is; he is joined, connected, with unshaken, unwavering yoga, which is steadiness in right vision. There is no doubt in this, no doubt on this matter."},
            ]),
         _v([
             "ahaṃ sarvasya prabhavaḥ mattassarvaṃ pravartate |",
@@ -93,8 +93,8 @@ STOTRA = {
         ], "|| 8 ||",
            "I am the origin of all; from me everything proceeds. Knowing this, the wise worship me, filled with devotion.",
            bhashya=[
-               {"text": "kīdṛśena avikampena yogena yujyate iti? ucyate –", "intro": True},
-               "ahaṃ paraṃ brahma vāsudevākhyaṃ, sarvasya jagataḥ prabhavaḥ utpattiḥ. mattaḥ eva sthitināśakriyāphalopabhogalakṣaṇaṃ vikriyārūpaṃ sarvaṃ jagat pravartate ityevaṃ matvā, bhajante, sevante, māṃ, budhāḥ avagataparamārthatattvāḥ bhāvasamanvitāḥ bhāvaḥ bhāvanā, paramārthatattvā bhiniveśaḥ, tena samanvitāḥ saṃyuktā ityarthaḥ. kiñca –",
+               {"text": "kīdṛśena avikampena yogena yujyate iti? ucyate –", "intro": True, "tr": "With what kind of unshaken yoga is he joined? It is said:"},
+               {"text": "ahaṃ paraṃ brahma vāsudevākhyaṃ, sarvasya jagataḥ prabhavaḥ utpattiḥ. mattaḥ eva sthitināśakriyāphalopabhogalakṣaṇaṃ vikriyārūpaṃ sarvaṃ jagat pravartate ityevaṃ matvā, bhajante, sevante, māṃ, budhāḥ avagataparamārthatattvāḥ bhāvasamanvitāḥ bhāvaḥ bhāvanā, paramārthatattvā bhiniveśaḥ, tena samanvitāḥ saṃyuktā ityarthaḥ. kiñca –", "tr": "I, the supreme Brahman called Vāsudeva, am the origin, the source, of the whole world. From me alone the whole world proceeds in its modifications — continuance, destruction, activity, and the enjoyment of fruits. Thinking thus, the wise, who have understood the supreme reality, worship, serve, me, endowed with conviction — conviction is meditation, absorption in the supreme reality; endowed, joined, with that, that is. Moreover —"},
            ]),
         _v([
             "maccittā madgataprāṇā bodhayantaḥ parasparam |",
@@ -102,7 +102,7 @@ STOTRA = {
         ], "|| 9 ||",
            "With their minds on me, their lives given to me, enlightening one another and always speaking of me, they are content and rejoice.",
            bhashya=[
-               "maccittā iti – mayi cittaṃ yeṣāṃ te maccittāḥ, madgataprāṇāḥ māṃ gatāḥ prāptāḥ cakṣurādayaḥ prāṇāḥ yeṣāṃ te madgataprāṇāḥ, mayi upasaṃhṛtakaraṇāḥ ityarthaḥ. athavā – madgataprāṇāḥ madgatajīvanāḥ ityetat. bodhayantaḥ avagamayantaḥ, parasparam anyonyaṃ, kathayantaḥ jñānabalavīryādidharmaiḥ viśiṣṭaṃ māṃ, tuṣyanti ca paritoṣam upayānti, ramanti ca ratiṃ prāpnuvanti priyasaṅgatyeva.",
+               {"text": "maccittā iti – mayi cittaṃ yeṣāṃ te maccittāḥ, madgataprāṇāḥ māṃ gatāḥ prāptāḥ cakṣurādayaḥ prāṇāḥ yeṣāṃ te madgataprāṇāḥ, mayi upasaṃhṛtakaraṇāḥ ityarthaḥ. athavā – madgataprāṇāḥ madgatajīvanāḥ ityetat. bodhayantaḥ avagamayantaḥ, parasparam anyonyaṃ, kathayantaḥ jñānabalavīryādidharmaiḥ viśiṣṭaṃ māṃ, tuṣyanti ca paritoṣam upayānti, ramanti ca ratiṃ prāpnuvanti priyasaṅgatyeva.", "tr": "'With their minds on me…' Those whose minds are on me; whose life-breaths have gone to me — whose senses, the eye and the rest, have gone to, reached, me; whose organs are withdrawn into me, that is; or else, whose very life has gone to me — enlightening one another, speaking of me as endowed with knowledge, strength, vigour and other attributes, they are content, gain satisfaction, and they delight, find joy, as in the company of a beloved."},
            ]),
         _v([
             "teṣāṃ satatayuktānāṃ bhajatāṃ prītipūrvakam |",
@@ -110,8 +110,8 @@ STOTRA = {
         ], "|| 10 ||",
            "To those who are ever disciplined and worship me with love, I give the yoga of understanding by which they come to me.",
            bhashya=[
-               {"text": "ye yathoktaiḥ prakāraiḥ bhajante yāṃ bhaktāḥ santaḥ–", "intro": True},
-               "teṣāṃ satatayuktānāṃ nityābhiyuktānāṃ, nivṛttasarvabāhyaiṣaṇānāṃ, bhajatāṃ sevamānānāṃ, kim arthitvādinā kāraṇena? na ityāha – prītipūrvakam – prītiḥ snehaḥ, tatpūrvakaṃ māṃ bhajatām ityarthaḥ, dadāmi prayacchāmi, buddhiyogaṃ – buddhiḥ samyagdarśanaṃ mattattvaviṣayaṃ, tena yogaḥ buddhiyogaḥ, taṃ buddhiyogam yena buddhiyogena samyagdarśanalakṣaṇena, māṃ parameśvaram ātmabhūtam, ātmatvena, upayānti pratipadyante. ke? te ye maccittatvādiprakāraiḥ māṃ bhajante.",
+               {"text": "ye yathoktaiḥ prakāraiḥ bhajante yāṃ bhaktāḥ santaḥ–", "intro": True, "tr": "Those who, being devotees, worship me in the ways described —"},
+               {"text": "teṣāṃ satatayuktānāṃ nityābhiyuktānāṃ, nivṛttasarvabāhyaiṣaṇānāṃ, bhajatāṃ sevamānānāṃ, kim arthitvādinā kāraṇena? na ityāha – prītipūrvakam – prītiḥ snehaḥ, tatpūrvakaṃ māṃ bhajatām ityarthaḥ, dadāmi prayacchāmi, buddhiyogaṃ – buddhiḥ samyagdarśanaṃ mattattvaviṣayaṃ, tena yogaḥ buddhiyogaḥ, taṃ buddhiyogam yena buddhiyogena samyagdarśanalakṣaṇena, māṃ parameśvaram ātmabhūtam, ātmatvena, upayānti pratipadyante. ke? te ye maccittatvādiprakāraiḥ māṃ bhajante.", "tr": "To those ever disciplined, constantly devoted, who have ceased from all outward cravings, who worship, serve, me — from some motive such as wanting something? No, he says: with love — love is affection; who worship me with affection, that is — I give, grant, the yoga of understanding: understanding is right vision regarding my reality, and yoga with it is the yoga of understanding; that yoga of understanding, consisting in right vision, by which they come to, reach, me, the supreme Lord, their Self, as their Self. Who? Those who worship me in the ways such as having their minds on me."},
            ]),
         _v([
             "teṣāmevānukampārthamahamajñānajaṃ tamaḥ |",
@@ -119,8 +119,8 @@ STOTRA = {
         ], "|| 11 ||",
            "Out of compassion for them, abiding in their hearts, I destroy the darkness born of ignorance with the shining lamp of knowledge.",
            bhashya=[
-               {"text": "kimarthaṃ kasya vā tvatprāpti pratibandhahetoḥ nāśakaṃ buddhiyogaṃ teṣāṃ tvadbhaktānāṃ dadāsi? ityapekṣāyām āha.", "intro": True},
-               "teṣāmeva kathaṃ nāma śreyaḥ syāt iti anukampārthaṃ dayāhetoḥ, aham ajñānajaṃ avivekataḥ jātaṃ mithyāpratyayalakṣaṇaṃ mohāndhakāraṃ tamaḥ nāśayāmi, ātmabhāvasthaḥ ātmanaḥ bhāvaḥ antaḥkaraṇāśayaḥ tasminneva sthitaḥ san, jñānadīpena viveka pratyayarūpeṇa bhaktiprasādasnehābhiṣiktena madbhāvanābhiniveśavāteritena brahmacaryādisādhanasaṃskāra vatprajñāvartinā, viraktāntaḥkaraṇādhāreṇa viṣayavyāvṛttacittarāgadveṣā kaluṣitanivātāpavarakasthena, nityapravṛttaigryadhyānajanitasamyagdarśanabhāsvatā jñānadīpenetyarthaḥ.",
+               {"text": "kimarthaṃ kasya vā tvatprāpti pratibandhahetoḥ nāśakaṃ buddhiyogaṃ teṣāṃ tvadbhaktānāṃ dadāsi? ityapekṣāyām āha.", "intro": True, "tr": "For what purpose, and to destroy what obstacle to attaining you, do you give your devotees the yoga of understanding? In answer he says:"},
+               {"text": "teṣāmeva kathaṃ nāma śreyaḥ syāt iti anukampārthaṃ dayāhetoḥ, aham ajñānajaṃ avivekataḥ jātaṃ mithyāpratyayalakṣaṇaṃ mohāndhakāraṃ tamaḥ nāśayāmi, ātmabhāvasthaḥ ātmanaḥ bhāvaḥ antaḥkaraṇāśayaḥ tasminneva sthitaḥ san, jñānadīpena viveka pratyayarūpeṇa bhaktiprasādasnehābhiṣiktena madbhāvanābhiniveśavāteritena brahmacaryādisādhanasaṃskāra vatprajñāvartinā, viraktāntaḥkaraṇādhāreṇa viṣayavyāvṛttacittarāgadveṣā kaluṣitanivātāpavarakasthena, nityapravṛttaigryadhyānajanitasamyagdarśanabhāsvatā jñānadīpenetyarthaḥ.", "tr": "Out of compassion for them alone — out of mercy, wondering how they may attain the highest good — I destroy the darkness born of ignorance, born of lack of discrimination, the blinding darkness of delusion consisting in false notions, abiding in their inner being — their self's inner being, the seat of the inner organ — by the shining lamp of knowledge: the lamp whose form is discriminating awareness, fed with the oil of the grace of devotion, fanned by the wind of absorption in meditation on me, with a wick of insight refined by disciplines such as celibacy, held in the stand of a dispassionate inner organ, set in the windless chamber of a mind withdrawn from objects and unsullied by attachment and aversion, and shining with right vision born of constant one-pointed meditation — that is the meaning."},
            ]),
         {"speaker": "arjuna uvāca"},
         _v([
@@ -129,8 +129,8 @@ STOTRA = {
         ], "|| 12 ||",
            "Arjuna said: You are the supreme Brahman, the supreme abode, the supreme purifier — the eternal divine Person, the first of the gods, unborn and all-pervading.",
            bhashya=[
-               {"text": "yathoktāṃ bhagavataḥ vibhūtiṃ yogaṃ ca śrutvā arjuna āha –", "intro": True},
-               "paraṃ brahma paramātmā, paraṃ dhāma paraṃ tejaḥ, pavitraṃ pāvanaṃ paramaṃ prakṛṣṭaṃ bhavān. puruṣaṃ śāśvataṃ nityaṃ, divyaṃ divi bhavam, ādidevaṃ sarvadevānām ādau bhavaṃ devaṃ, ajaṃ, vibhuṃ vibhavanaśīlam īdṛśam",
+               {"text": "yathoktāṃ bhagavataḥ vibhūtiṃ yogaṃ ca śrutvā arjuna āha –", "intro": True, "tr": "Having heard the Lord's glory and yoga as described, Arjuna said:"},
+               {"text": "paraṃ brahma paramātmā, paraṃ dhāma paraṃ tejaḥ, pavitraṃ pāvanaṃ paramaṃ prakṛṣṭaṃ bhavān. puruṣaṃ śāśvataṃ nityaṃ, divyaṃ divi bhavam, ādidevaṃ sarvadevānām ādau bhavaṃ devaṃ, ajaṃ, vibhuṃ vibhavanaśīlam īdṛśam", "tr": "You are the supreme Brahman, the supreme Self; the supreme abode, the supreme light; the supreme, highest, purifier. Such a one — the eternal, everlasting, divine puruṣa, who is in heaven; the primal god, the god who was before all gods; unborn; all-pervading, whose nature is to be manifold —"},
            ]),
         _v([
             "āhustvāmṛṣayaḥ sarve devarṣirnāradastathā |",
@@ -138,7 +138,7 @@ STOTRA = {
         ], "|| 13 ||",
            "So all the seers declare you, and the divine seer Nārada, Asita, Devala and Vyāsa; and you yourself tell me so.",
            bhashya=[
-               "āhuḥ kathayanti, tvām ṛṣayaḥ vasiṣṭhādayaḥ, sarve, devarṣiḥ nāradaḥ tathā asitaḥ devalaḥ api evam āha vyāsaḥ ca svayaṃ caiva tvaṃ ca bravīṣi me.",
+               {"text": "āhuḥ kathayanti, tvām ṛṣayaḥ vasiṣṭhādayaḥ, sarve, devarṣiḥ nāradaḥ tathā asitaḥ devalaḥ api evam āha vyāsaḥ ca svayaṃ caiva tvaṃ ca bravīṣi me.", "tr": "So all the sages, Vasiṣṭha and the rest, declare you, as do the divine sage Nārada, Asita and Devala; Vyāsa too says so; and you yourself tell me so."},
            ]),
         _v([
             "sarvametadṛtaṃ manye yanmāṃ vadasi keśava |",
@@ -146,7 +146,7 @@ STOTRA = {
         ], "|| 14 ||",
            "All this that you tell me I hold to be true, Keśava; for neither the gods nor the demons, O Lord, know your manifestation.",
            bhashya=[
-               "sarvamiti – sarvametat yathā uktam ṛṣibhiḥ, tvayā ca etat, ṛtaṃ satyameva, manye yat māṃ prati vadasi bhāṣase, he keśava. na hi, te tava, bhagavan, vyaktiṃ prabhavaṃ, viduḥ devāḥ, na dānavāḥ.",
+               {"text": "sarvamiti – sarvametat yathā uktam ṛṣibhiḥ, tvayā ca etat, ṛtaṃ satyameva, manye yat māṃ prati vadasi bhāṣase, he keśava. na hi, te tava, bhagavan, vyaktiṃ prabhavaṃ, viduḥ devāḥ, na dānavāḥ.", "tr": "'All this I hold true…' All this, as told by the sages and by you, I hold true, the very truth — what you say to me, O Keśava. For neither the gods, Blessed One, know your manifestation, your origin, nor the dānavas."},
            ]),
         _v([
             "svayamevātmanā''tmānaṃ vettha tvaṃ puruṣottama |",
@@ -154,8 +154,8 @@ STOTRA = {
         ], "|| 15 ||",
            "You alone know yourself by yourself, O supreme Person, source of beings, lord of beings, god of gods, lord of the world.",
            bhashya=[
-               {"text": "yataḥ tvaṃ devādīnāṃ ādiḥ, ataḥ –", "intro": True},
-               "svayameva ātmanā ātmānaṃ vettha jānāsi tvaṃ, niratiśayajñānaiśvaryabalādi śaktimantam, īśvaraṃ, puruṣottama, bhūtāni bhāvayatīti bhūtabhāvanaḥ, he bhūtabhāvana, bhūteśa bhūtānām īśaḥ, he devadeva, jagatpate.",
+               {"text": "yataḥ tvaṃ devādīnāṃ ādiḥ, ataḥ –", "intro": True, "tr": "Since you are the beginning of the gods and the rest, therefore —"},
+               {"text": "svayameva ātmanā ātmānaṃ vettha jānāsi tvaṃ, niratiśayajñānaiśvaryabalādi śaktimantam, īśvaraṃ, puruṣottama, bhūtāni bhāvayatīti bhūtabhāvanaḥ, he bhūtabhāvana, bhūteśa bhūtānām īśaḥ, he devadeva, jagatpate.", "tr": "You yourself know yourself by yourself — the Lord, endowed with unsurpassed knowledge, sovereignty, strength and other powers — O supreme puruṣa; source of beings — he who brings beings into being; lord of beings; god of gods; lord of the world."},
            ]),
         _v([
             "vaktumarhasyaśeṣeṇa divyā hyātmavibhūtayaḥ |",
@@ -163,7 +163,7 @@ STOTRA = {
         ], "|| 16 ||",
            "You should tell me, without reserve, of your own divine manifestations, by which you pervade these worlds and abide in them.",
            bhashya=[
-               "vaktumiti – vaktuṃ kathayitum, arhasi aśeṣeṇa, divyāḥ hi ātma vibhūtayaḥ ātmanaḥ vibhūtayaḥ yāḥ tāḥ vaktum arhasi. yābhiḥ vibhūtibhiḥ ātmanaḥ māhātmyavistaraiḥ imān lokān, tvaṃ vyāpya tiṣṭhasi.",
+               {"text": "vaktumiti – vaktuṃ kathayitum, arhasi aśeṣeṇa, divyāḥ hi ātma vibhūtayaḥ ātmanaḥ vibhūtayaḥ yāḥ tāḥ vaktum arhasi. yābhiḥ vibhūtibhiḥ ātmanaḥ māhātmyavistaraiḥ imān lokān, tvaṃ vyāpya tiṣṭhasi.", "tr": "'You should tell without remainder…' You should tell, declare, without remainder, your own divine glories — those glories of yourself, you should tell them — the glories, the expanses of your greatness, by which you stand pervading these worlds."},
            ]),
         _v([
             "kathaṃ vidyāmahaṃ yogiṃstvāṃ sadā paricintayan |",
@@ -171,7 +171,7 @@ STOTRA = {
         ], "|| 17 ||",
            "How shall I know you, O yogin, meditating on you always? In what aspects of being are you to be contemplated by me, O Lord?",
            bhashya=[
-               "kathaṃ iti. kathaṃ vidyāṃ vijānīyāṃ ahaṃ he yogin! tvāṃ sadā paricintayan. keṣu keṣu ca bhāveṣu vastuṣu cintyaḥ asi dhyeyaḥ asi bhagavan! mayā",
+               {"text": "kathaṃ iti. kathaṃ vidyāṃ vijānīyāṃ ahaṃ he yogin! tvāṃ sadā paricintayan. keṣu keṣu ca bhāveṣu vastuṣu cintyaḥ asi dhyeyaḥ asi bhagavan! mayā", "tr": "'How shall I know you…' How shall I know, understand, you, O Yogin, ever meditating on you? And in what various states, things, are you to be contemplated, meditated on, by me, Blessed One?"},
            ]),
         _v([
             "vistareṇātmano yogaṃ vibhūtiṃ ca janārdana |",
@@ -185,8 +185,8 @@ STOTRA = {
         ], "|| 19 ||",
            "The Blessed Lord said: Very well, I will tell you of my divine manifestations — the foremost among them, O best of the Kurus, for there is no end to my extent.",
            bhashya=[
-               {"text": "vistareṇeti – vistareṇa ātmanaḥ yogaṃ yogaiśvaryaśaktiviśeṣaṃ, vibhūtiṃ ca, vistaraṃ dhyeyapadārthānāṃ, he janārdana! ardate gatikarmaṇaḥ rūpam. asurāṇāṃ devapratipakṣa bhūtānāṃ janānāṃ narakādigamayitṛtvāt janārdana abhyudaya niḥ śreyasapuruṣārthaprayojanaṃ sarvaiḥ janaiḥ yācyate iti vā. bhūyaḥ pūrvam uktam api kathaya. tṛptiḥ hi paritoṣaḥ yasmāt nāsti me mama śṛṇvataḥ tvanmukhaniḥsṛtavākyāmṛtam.", "intro": True},
-               "hanta te iti – hanta idānīṃ te tava divyāḥ divibhavāḥ, ātmavibhūtayaḥ ātmanaḥ mama vibhūtayaḥ yāḥ tāḥ kathayiṣyāmi ityetat. prādhānyataḥ yatra yatra pradhānā yā yā vibhūtiḥ tāṃ tāṃ pradhānāṃ prādhānyataḥ kathayiṣyāmi ahaṃ kuruśreṣṭha. aśeṣatastu varṣaśatenāpi na śakyāḥ vaktuṃ, yataḥ nāsti antaḥ vistarasya me mama vibhūtīnām ityarthaḥ.",
+               {"text": "vistareṇeti – vistareṇa ātmanaḥ yogaṃ yogaiśvaryaśaktiviśeṣaṃ, vibhūtiṃ ca, vistaraṃ dhyeyapadārthānāṃ, he janārdana! ardate gatikarmaṇaḥ rūpam. asurāṇāṃ devapratipakṣa bhūtānāṃ janānāṃ narakādigamayitṛtvāt janārdana abhyudaya niḥ śreyasapuruṣārthaprayojanaṃ sarvaiḥ janaiḥ yācyate iti vā. bhūyaḥ pūrvam uktam api kathaya. tṛptiḥ hi paritoṣaḥ yasmāt nāsti me mama śṛṇvataḥ tvanmukhaniḥsṛtavākyāmṛtam.", "intro": True, "tr": "'In detail…' In detail, tell again your yoga — the particular power of the lordship of yoga — and your glory, the detailed account of the things to be meditated on, O Janārdana. 'Ardana' is from the root ard, meaning to go: he is Janārdana because he makes the asuras, the people opposed to the gods, go to hell and the like; or because he is besought by all people for the human ends of prosperity and the highest good. Tell again what was told before; for I have no satiety, no fill, as I listen to the nectar of the words that flow from your mouth."},
+               {"text": "hanta te iti – hanta idānīṃ te tava divyāḥ divibhavāḥ, ātmavibhūtayaḥ ātmanaḥ mama vibhūtayaḥ yāḥ tāḥ kathayiṣyāmi ityetat. prādhānyataḥ yatra yatra pradhānā yā yā vibhūtiḥ tāṃ tāṃ pradhānāṃ prādhānyataḥ kathayiṣyāmi ahaṃ kuruśreṣṭha. aśeṣatastu varṣaśatenāpi na śakyāḥ vaktuṃ, yataḥ nāsti antaḥ vistarasya me mama vibhūtīnām ityarthaḥ.", "tr": "'Well then, I will tell you…' Well then, now I will tell you my divine, heavenly, glories — those glories that are my own. Principally: whichever glory is chief in each place, that chief one I will tell, principally, best of the Kurus. In full they could not be told even in a hundred years, since there is no end to the extent of my glories — that is the meaning."},
            ]),
         _v([
             "ahamātmā guḍākeśa sarvabhūtāśayasthitaḥ |",
@@ -194,8 +194,8 @@ STOTRA = {
         ], "|| 20 ||",
            "I am the Self, Guḍākeśa, abiding in the heart of all beings; I am the beginning, the middle and the end of beings.",
            bhashya=[
-               {"text": "tatra prathamameva tāvat śṛṇu –", "intro": True},
-               "aham, ātmā pratyagātmā, guḍākeśa – guḍākā nidrā, tasyāḥ īśaḥ guḍākeśaḥ jitanidraḥ ityarthaḥ. ghanakeśaḥ iti vā. sarveṣāṃ bhūtānām, āśaye antaḥ hṛdi sthitaḥ aham ātmā pratyagātmā nityaṃ dhyeyaḥ. tadaśaktena ca uttareṣu bhāveṣu cintyaḥ ahaṃ. yasmāt ahameva ādiḥ bhūtānāṃ kāraṇaṃ, tathā madhyaṃ ca sthitiḥ, antaḥ pralayaḥ ca.",
+               {"text": "tatra prathamameva tāvat śṛṇu –", "intro": True, "tr": "Of these, first hear this:"},
+               {"text": "aham, ātmā pratyagātmā, guḍākeśa – guḍākā nidrā, tasyāḥ īśaḥ guḍākeśaḥ jitanidraḥ ityarthaḥ. ghanakeśaḥ iti vā. sarveṣāṃ bhūtānām, āśaye antaḥ hṛdi sthitaḥ aham ātmā pratyagātmā nityaṃ dhyeyaḥ. tadaśaktena ca uttareṣu bhāveṣu cintyaḥ ahaṃ. yasmāt ahameva ādiḥ bhūtānāṃ kāraṇaṃ, tathā madhyaṃ ca sthitiḥ, antaḥ pralayaḥ ca.", "tr": "I am the Self, the inmost Self, Guḍākeśa — guḍākā is sleep, and its lord is Guḍākeśa: one who has conquered sleep, that is; or, one with thick hair — abiding in the heart, within, of all beings. I, the Self, the inmost Self, am to be meditated on always; and by one unable to do so I am to be contemplated in the states that follow. For I alone am the beginning, the cause, of beings; likewise the middle, their continuance, and the end, their dissolution."},
            ]),
         _v([
             "ādityānāmahaṃ viṣṇurjyotiṣāṃ raviraṃśumān |",
@@ -203,8 +203,8 @@ STOTRA = {
         ], "|| 21 ||",
            "Of the Ādityas I am Viṣṇu; of lights, the radiant sun; of the Maruts I am Marīci; among the stars, I am the moon.",
            bhashya=[
-               {"text": "evaṃ ca dhyeyaḥ aham –", "intro": True},
-               "ādityānāṃ dvādaśānāṃ viṣṇuḥ nāma ādityaḥ aham, jyotiṣāṃ raviḥ prakāśayitṝṇām aṃśumān raśmimān. marīciḥ nāma marutāṃ maruddevatābhedānām asmi. nakṣatrāṇām ahaṃ, śaśī candramāḥ.",
+               {"text": "evaṃ ca dhyeyaḥ aham –", "intro": True, "tr": "And thus am I to be meditated on:"},
+               {"text": "ādityānāṃ dvādaśānāṃ viṣṇuḥ nāma ādityaḥ aham, jyotiṣāṃ raviḥ prakāśayitṝṇām aṃśumān raśmimān. marīciḥ nāma marutāṃ maruddevatābhedānām asmi. nakṣatrāṇām ahaṃ, śaśī candramāḥ.", "tr": "Of the twelve Ādityas I am the Āditya named Viṣṇu; of lights, of the illuminators, the radiant sun, rich in rays. I am Marīci among the Maruts, the classes of wind-deities. Among the lunar mansions I am the moon."},
            ]),
         _v([
             "vedānāṃ sāmavedo'smi devānāmasmi vāsavaḥ |",
@@ -212,7 +212,7 @@ STOTRA = {
         ], "|| 22 ||",
            "Of the Vedas I am the Sāmaveda; of the gods I am Vāsava; of the senses I am the mind; in beings I am consciousness.",
            bhashya=[
-               "vedānāmiti – vedānāṃ madhye sāmavedaḥ asmi. devānāṃ rudrādityādīnāṃ vāsavaḥ indraḥ, asmi, indriyāṇām ekādaśānāṃ cakṣurādīnāṃ, manaḥ ca asmi, saṅkalpa vikalpātmakaṃ manaśca asmi. bhūtānām asmi cetanā. kāryakaraṇasaṅghāte nityābhivyaktā buddhivṛttiḥ cetanā.",
+               {"text": "vedānāmiti – vedānāṃ madhye sāmavedaḥ asmi. devānāṃ rudrādityādīnāṃ vāsavaḥ indraḥ, asmi, indriyāṇām ekādaśānāṃ cakṣurādīnāṃ, manaḥ ca asmi, saṅkalpa vikalpātmakaṃ manaśca asmi. bhūtānām asmi cetanā. kāryakaraṇasaṅghāte nityābhivyaktā buddhivṛttiḥ cetanā.", "tr": "Among the Vedas I am the Sāmaveda. Of the gods, Rudras, Ādityas and the rest, I am Vāsava, Indra. Of the eleven senses, the eye and the rest, I am the mind — the mind whose nature is resolving and doubting. In beings I am consciousness: consciousness is the function of the understanding, ever manifest in the aggregate of body and senses."},
            ]),
         _v([
             "rudrāṇāṃ śaṅkaraścāsmi vitteśo yakṣarakṣasām |",
@@ -220,7 +220,7 @@ STOTRA = {
         ], "|| 23 ||",
            "Of the Rudras I am Śaṅkara; of yakṣas and rākṣasas, the lord of wealth; of the Vasus I am fire; of mountains, I am Meru.",
            bhashya=[
-               "rudrāṇāmiti – rudrāṇām ekādaśānāṃ śaṅkaraḥ ca asmi. vitteśaḥ kuberaḥ yakṣarakṣasāṃ yakṣāṇāṃ rakṣasāṃ ca. vasūnām aṣṭānāṃ pāvakaḥ ca asmi agniḥ. meru śikhariṇāṃ śikharavatām, aham.",
+               {"text": "rudrāṇāmiti – rudrāṇām ekādaśānāṃ śaṅkaraḥ ca asmi. vitteśaḥ kuberaḥ yakṣarakṣasāṃ yakṣāṇāṃ rakṣasāṃ ca. vasūnām aṣṭānāṃ pāvakaḥ ca asmi agniḥ. meru śikhariṇāṃ śikharavatām, aham.", "tr": "Of the eleven Rudras I am Śaṅkara; Kubera, lord of wealth, among the yakṣas and rākṣasas; of the eight Vasus I am Pāvaka, fire; of peaked mountains I am Meru."},
            ]),
         _v([
             "purodhasāṃ ca mukhyaṃ māṃ viddhi pārtha bṛhaspatim |",
@@ -228,7 +228,7 @@ STOTRA = {
         ], "|| 24 ||",
            "Know me, Pārtha, as the chief of household priests, Bṛhaspati; of generals I am Skanda; of bodies of water I am the ocean.",
            bhashya=[
-               "purodhasāmiti – purodhasāṃ ca rājapurohitānāṃ, mukhyaṃ pradhānaṃ, māṃ, viddhi jānīhi, he pārtha! bṛhaspatim. sa hi indrasya iti mukhyaḥ syāt purodhasām. senānīnāṃ senāpatīnām, ahaṃ skandaḥ devasenāpatiḥ. sarasāṃ yāni devakhātāni sarāṃsi teṣāṃ sarasāṃ sāgaraḥ, asmi bhavāmi.",
+               {"text": "purodhasāmiti – purodhasāṃ ca rājapurohitānāṃ, mukhyaṃ pradhānaṃ, māṃ, viddhi jānīhi, he pārtha! bṛhaspatim. sa hi indrasya iti mukhyaḥ syāt purodhasām. senānīnāṃ senāpatīnām, ahaṃ skandaḥ devasenāpatiḥ. sarasāṃ yāni devakhātāni sarāṃsi teṣāṃ sarasāṃ sāgaraḥ, asmi bhavāmi.", "tr": "And of priests, royal chaplains, know me, Pārtha, to be the chief, Bṛhaspati; for being Indra's he would be chief among priests. Of generals, commanders of armies, I am Skanda, the general of the gods' army. Of bodies of water — the lakes dug by the gods — I am the ocean."},
            ]),
         _v([
             "maharṣīṇāṃ bhṛgurahaṃ girāmasmyekamakṣaram |",
@@ -236,7 +236,7 @@ STOTRA = {
         ], "|| 25 ||",
            "Of the great seers I am Bhṛgu; of utterances I am the single syllable; of sacrifices I am the sacrifice of silent repetition; of immovable things, the Himālaya.",
            bhashya=[
-               "maharṣīṇāmiti – maharṣīṇāṃ bhṛguḥ aham. girāṃ vācāṃ padalakṣaṇānām ekam akṣaram oṅkāraḥ asmi. yajñānāṃ japayajñaḥ asmi. sthāvarāṇāṃ sthitimatāṃ himālayaḥ.",
+               {"text": "maharṣīṇāmiti – maharṣīṇāṃ bhṛguḥ aham. girāṃ vācāṃ padalakṣaṇānām ekam akṣaram oṅkāraḥ asmi. yajñānāṃ japayajñaḥ asmi. sthāvarāṇāṃ sthitimatāṃ himālayaḥ.", "tr": "Of great sages I am Bhṛgu. Of utterances, words, I am the single syllable, om. Of sacrifices I am the sacrifice of japa, silent repetition. Of things immovable, steadfast, the Himālaya."},
            ]),
         _v([
             "aśvatthaḥ sarvavṛkṣāṇāṃ devarṣīṇāṃ ca nāradaḥ |",
@@ -244,7 +244,7 @@ STOTRA = {
         ], "|| 26 ||",
            "Of all trees I am the aśvattha; of divine seers, Nārada; of the gandharvas, Citraratha; of the perfected, the sage Kapila.",
            bhashya=[
-               "aśvattha iti – aśvatthaḥ sarvavṛkṣāṇāṃ, devarṣīṇāṃ ca nāradaḥ – devā eva santaḥ ṛṣitvaṃ prāptāḥ mantradarśitvāt, te devarṣayaḥ, teṣāṃ nāradaḥ asmi. gandharvāṇāṃ citraratho nāma gandharvaḥ asmi. siddhānāṃ – janmanaiva dharmajñānavairāgyaiśvaryātiśayaṃ prāptānāṃ kapilaḥ muniḥ.",
+               {"text": "aśvattha iti – aśvatthaḥ sarvavṛkṣāṇāṃ, devarṣīṇāṃ ca nāradaḥ – devā eva santaḥ ṛṣitvaṃ prāptāḥ mantradarśitvāt, te devarṣayaḥ, teṣāṃ nāradaḥ asmi. gandharvāṇāṃ citraratho nāma gandharvaḥ asmi. siddhānāṃ – janmanaiva dharmajñānavairāgyaiśvaryātiśayaṃ prāptānāṃ kapilaḥ muniḥ.", "tr": "The aśvattha among all trees; and among divine sages Nārada — gods who have become sages by seeing mantras are divine sages, and among them I am Nārada. Among gandharvas I am the gandharva named Citraratha. Among the perfected — those who by their very birth have attained surpassing dharma, knowledge, dispassion and sovereignty — the sage Kapila."},
            ]),
         _v([
             "uccaiḥśravasamaśvānāṃ viddhi māmamṛtodbhavam |",
@@ -252,7 +252,7 @@ STOTRA = {
         ], "|| 27 ||",
            "Among horses know me as Uccaiḥśravas, born of the nectar; among lordly elephants, Airāvata; and among men, the king.",
            bhashya=[
-               "uccairiti – uccaiḥ śravasam aśvānām uccaiḥśravāḥ nāma aśvaḥ taṃ māṃ, viddhi jānīhi, amṛtodbhavam amṛtanimittamathanodbhavam. airāvatam irāvatyāḥ apatyaṃ, gajendrāṇāṃ hastīśvarāṇāṃ taṃ “māṃ viddhi” ityanuvartate. narāṇāṃ ca manuṣyāṇāṃ ca narādhipaṃ rājānaṃ māṃ viddhi jānīhi.",
+               {"text": "uccairiti – uccaiḥ śravasam aśvānām uccaiḥśravāḥ nāma aśvaḥ taṃ māṃ, viddhi jānīhi, amṛtodbhavam amṛtanimittamathanodbhavam. airāvatam irāvatyāḥ apatyaṃ, gajendrāṇāṃ hastīśvarāṇāṃ taṃ “māṃ viddhi” ityanuvartate. narāṇāṃ ca manuṣyāṇāṃ ca narādhipaṃ rājānaṃ māṃ viddhi jānīhi.", "tr": "Among horses know me as Uccaiḥśravas, the horse of that name, born of the nectar — born of the churning for nectar. Airāvata, son of Irāvatī, among lordly elephants — 'know me' carries over. And among men, human beings, know me as the king."},
            ]),
         _v([
             "āyudhānāmahaṃ vajraṃ dhenūnāmasmi kāmadhuk |",
@@ -260,7 +260,7 @@ STOTRA = {
         ], "|| 28 ||",
            "Of weapons I am the thunderbolt; of cows, Kāmadhenu; I am Kandarpa, the begetter; of serpents I am Vāsuki.",
            bhashya=[
-               "āyudhānām iti – āyudhānām ahaṃ vajraṃ dadhīcyasthisambhavam. dhenūnāṃ dogdhrīṇāṃ asmi kāmadhuk vasiṣṭhasya sarvakāmānāṃ dogdhrī, sāmānyā vā kāmadhuk. prajanaḥ prajanayitā asmi kandarpaḥ kāmaḥ. sarpāṇāṃ sarpabhedānām asmi vāsukiḥ sarparājaḥ.",
+               {"text": "āyudhānām iti – āyudhānām ahaṃ vajraṃ dadhīcyasthisambhavam. dhenūnāṃ dogdhrīṇāṃ asmi kāmadhuk vasiṣṭhasya sarvakāmānāṃ dogdhrī, sāmānyā vā kāmadhuk. prajanaḥ prajanayitā asmi kandarpaḥ kāmaḥ. sarpāṇāṃ sarpabhedānām asmi vāsukiḥ sarparājaḥ.", "tr": "Of weapons I am the thunderbolt, made from Dadhīci's bones. Of cows, of milch cows, I am Kāmadhuk, Vasiṣṭha's cow that yields every desire, or the wish-fulfilling cow in general. Of begetters I am Kandarpa, Kāma. Of serpents, the kinds of serpents, I am Vāsuki, king of serpents."},
            ]),
         _v([
             "anantaścāsmi nāgānāṃ varuṇo yādasāmaham |",
@@ -268,7 +268,7 @@ STOTRA = {
         ], "|| 29 ||",
            "Of nāgas I am Ananta; of water-beings, Varuṇa; of the ancestors I am Aryaman; of those who restrain, I am Yama.",
            bhashya=[
-               "ananta iti – anantaḥ ca asmi nāgānāṃ nāgaviśeṣāṇāṃ nāgarājaḥ ca asmi. varuṇaḥ yādasām aham abdevatānāṃ rājā aham. pitṝṇām aryamā nāma pitṛrājaḥ ca asmi. yamaḥ saṃyamatāṃ saṃyamanaṃ kurvatām aham.",
+               {"text": "ananta iti – anantaḥ ca asmi nāgānāṃ nāgaviśeṣāṇāṃ nāgarājaḥ ca asmi. varuṇaḥ yādasām aham abdevatānāṃ rājā aham. pitṝṇām aryamā nāma pitṛrājaḥ ca asmi. yamaḥ saṃyamatāṃ saṃyamanaṃ kurvatām aham.", "tr": "And I am Ananta among the nāgas, a particular kind of nāga — I am the king of the nāgas. Varuṇa among water-creatures, the king of the water-deities, am I. Among the ancestors I am Aryaman, king of the ancestors. Among controllers, those who restrain, I am Yama."},
            ]),
         _v([
             "prahlādaścāsmi daityānāṃ kālaḥ kalayatāmaham |",
@@ -276,7 +276,7 @@ STOTRA = {
         ], "|| 30 ||",
            "Of the daityas I am Prahlāda; of reckoners, time; of beasts I am the lion; and of birds, the son of Vinatā.",
            bhashya=[
-               "prahlāda iti – prahlādaḥ nāma ca asmi daityānāṃ ditivaṃśyānām, kālaḥ kalayatāṃ kalanaṃ gaṇanaṃ kurvatām aham. mṛgāṇāṃ ca mṛgendraḥ siṃhaḥ vyāghro vā aham. venateyaḥ ca garutmān vinatāsutaḥ pakṣiṇāṃ patatriṇām.",
+               {"text": "prahlāda iti – prahlādaḥ nāma ca asmi daityānāṃ ditivaṃśyānām, kālaḥ kalayatāṃ kalanaṃ gaṇanaṃ kurvatām aham. mṛgāṇāṃ ca mṛgendraḥ siṃhaḥ vyāghro vā aham. venateyaḥ ca garutmān vinatāsutaḥ pakṣiṇāṃ patatriṇām.", "tr": "And I am Prahlāda among the daityas, the descendants of Diti. Of reckoners, those who count and calculate, I am time. Among beasts I am the lord of beasts, the lion or the tiger; and among birds, the winged ones, Vainateya, Garuḍa, son of Vinatā."},
            ]),
         _v([
             "pavanaḥ pavatāmasmi rāmaḥ śastrabhṛtāmaham |",
@@ -284,7 +284,7 @@ STOTRA = {
         ], "|| 31 ||",
            "Of purifiers I am the wind; of wielders of weapons, Rāma; of fishes I am the makara; of rivers, the Gaṅgā.",
            bhashya=[
-               "pavana iti – pavanaḥ vāyuḥ, pavatāṃ pāvayitṝṇām asmi. rāmaḥ śastrabhṛtām ahaṃ śastrāṇāṃ dhārayitṝṇāṃ dāśarathiḥ rāmaḥ aham. jhaṣāṇāṃ matsyādīnāṃ makaro nāma jāti viśeṣaḥ aham. srotasām sravantīnāṃ asmi jāhnavī gaṅgā.",
+               {"text": "pavana iti – pavanaḥ vāyuḥ, pavatāṃ pāvayitṝṇām asmi. rāmaḥ śastrabhṛtām ahaṃ śastrāṇāṃ dhārayitṝṇāṃ dāśarathiḥ rāmaḥ aham. jhaṣāṇāṃ matsyādīnāṃ makaro nāma jāti viśeṣaḥ aham. srotasām sravantīnāṃ asmi jāhnavī gaṅgā.", "tr": "Of purifiers I am the wind. Of wielders of weapons I am Rāma, the son of Daśaratha. Of fishes and the like I am the makara, a particular species. Of streams, flowing rivers, I am Jāhnavī, the Gaṅgā."},
            ]),
         _v([
             "sargāṇāmādirantaśca madhyaṃ caivāhamarjuna |",
@@ -292,7 +292,7 @@ STOTRA = {
         ], "|| 32 ||",
            "Of creations I am the beginning, the end and the middle, Arjuna; of knowledge, the knowledge of the Self; of those who debate, I am the reasoning.",
            bhashya=[
-               "sargāṇāmiti – sṛṣṭīnām ādiḥ antaḥ ca madhyaṃ ca eva aham utpatti sthitilayāḥ, aham arjuna. bhūtānāṃ jīvādhiṣṭhitānāmeva ādiḥ antaśca iti uktam upakrame. (20) iha tu sarvasyaiva sargamātrasya iti viśeṣaḥ adhyātmavidyā vidyānāṃ mokṣārthatvāt pradhānamasmi. vādaḥ arthanirṇaya hetutvāt, pravadatāṃ pradhānam, ataḥ saḥ aham asmi. pravaktṛdvāreṇa vādanabhedānāmeva vādajalpavitaṇḍānām iha grahaṇaṃ “pravadatām” iti.",
+               {"text": "sargāṇāmiti – sṛṣṭīnām ādiḥ antaḥ ca madhyaṃ ca eva aham utpatti sthitilayāḥ, aham arjuna. bhūtānāṃ jīvādhiṣṭhitānāmeva ādiḥ antaśca iti uktam upakrame. (20) iha tu sarvasyaiva sargamātrasya iti viśeṣaḥ adhyātmavidyā vidyānāṃ mokṣārthatvāt pradhānamasmi. vādaḥ arthanirṇaya hetutvāt, pravadatāṃ pradhānam, ataḥ saḥ aham asmi. pravaktṛdvāreṇa vādanabhedānāmeva vādajalpavitaṇḍānām iha grahaṇaṃ “pravadatām” iti.", "tr": "Of creations I am the beginning, the end and the middle too — their arising, continuance and dissolution — Arjuna. At the outset (10.20) it was said that I am the beginning and end of beings — those presided over by living souls; but here it is of all creation whatever: that is the difference. Of knowledges I am the knowledge of the Self, the chief, because it leads to liberation. Of disputants: debate, because it serves to settle the meaning, is the chief, and so I am that. By 'of disputants' — through the speakers — the kinds of disputation are meant: debate, wrangling and cavil."},
            ]),
         _v([
             "akṣarāṇāmakāro'smi dvandvaḥ sāmāsikasya ca |",
@@ -300,7 +300,7 @@ STOTRA = {
         ], "|| 33 ||",
            "Of letters I am the letter a; of compounds, the dvandva; I am imperishable time itself; I am the ordainer whose face is everywhere.",
            bhashya=[
-               "akṣarāṇāmiti – akṣarāṇāṃ varṇānām akāraḥ varṇaḥ asmi. dvandvaḥ samāsaḥ asmi sāmāsikasya samāsasamūhasya. kiṃ ca ahameva akṣayaḥ akṣīṇaḥ, kālaḥ prasiddhaḥ kṣaṇādyākhyaḥ, athavā parameśvaraḥ vā kālasyāpi kālaḥ, asmi. dhātā ahaṃ karmaphalasya vidhātā sarvajagataḥ, viśvatomukhaḥ sarvatomukhaḥ.",
+               {"text": "akṣarāṇāmiti – akṣarāṇāṃ varṇānām akāraḥ varṇaḥ asmi. dvandvaḥ samāsaḥ asmi sāmāsikasya samāsasamūhasya. kiṃ ca ahameva akṣayaḥ akṣīṇaḥ, kālaḥ prasiddhaḥ kṣaṇādyākhyaḥ, athavā parameśvaraḥ vā kālasyāpi kālaḥ, asmi. dhātā ahaṃ karmaphalasya vidhātā sarvajagataḥ, viśvatomukhaḥ sarvatomukhaḥ.", "tr": "Of letters, of sounds, I am the letter a. Of the class of compounds I am the dvandva compound. Moreover I alone am imperishable time — undecaying — time as commonly known, moments and the rest; or else the supreme Lord, the time even of time. I am the ordainer, the dispenser of the fruits of action for the whole world, facing everywhere, with faces on every side."},
            ]),
         _v([
             "mṛtyuḥ sarvaharaścāhamudbhavaśca bhaviṣyatām |",
@@ -308,7 +308,7 @@ STOTRA = {
         ], "|| 34 ||",
            "I am all-seizing death and the origin of what is to be; among feminine powers I am fame, fortune, speech, memory, intelligence, steadfastness and patience.",
            bhashya=[
-               "mṛtyuḥ dvividhaḥ dhanādiharaḥ prāṇaharaśca. tatra yaḥ prāṇaharaḥ saḥ sarvaharaḥ ityucyate. saḥ ahamityarthaḥ. athavā, paraḥ īśvaraḥ pralaye sarvaharaṇāt sarva haraḥ, saḥ aham. udbhavaḥ utkarṣaḥ abhyudayaḥ, tatprāptihetuśca ahaṃ, keṣām? bhaviṣyatāṃ bhāvikalyāṇānām utkarṣaprāpti yogyānām ityarthaḥ. kīrtiḥ, śrīḥ vāk ca, nārīṇāṃ, smṛtiḥ medhā, dhṛtiḥ kṣamā – ityetāḥ uttamāḥ strīṇām aham asmi, yāsāṃ ābhāsamātra sambandhenāpi lokaḥ kṛtārtham ātmānaṃ manyate.",
+               {"text": "mṛtyuḥ dvividhaḥ dhanādiharaḥ prāṇaharaśca. tatra yaḥ prāṇaharaḥ saḥ sarvaharaḥ ityucyate. saḥ ahamityarthaḥ. athavā, paraḥ īśvaraḥ pralaye sarvaharaṇāt sarva haraḥ, saḥ aham. udbhavaḥ utkarṣaḥ abhyudayaḥ, tatprāptihetuśca ahaṃ, keṣām? bhaviṣyatāṃ bhāvikalyāṇānām utkarṣaprāpti yogyānām ityarthaḥ. kīrtiḥ, śrīḥ vāk ca, nārīṇāṃ, smṛtiḥ medhā, dhṛtiḥ kṣamā – ityetāḥ uttamāḥ strīṇām aham asmi, yāsāṃ ābhāsamātra sambandhenāpi lokaḥ kṛtārtham ātmānaṃ manyate.", "tr": "Death is of two kinds: what takes away wealth and the like, and what takes away life. The one that takes life is called all-seizing; that am I, that is. Or else the supreme Lord is all-seizing because he takes away everything at the dissolution; that am I. I am the rise — the elevation, the prosperity — and its cause; of whom? Of those who will be: those for whom good is to come, those fit to attain elevation, that is. Fame, fortune, speech, memory, intelligence, steadfastness and patience — these best of feminine things I am, by even the faintest connection with whose semblance the world thinks itself fulfilled."},
            ]),
         _v([
             "bṛhatsāma tathā sāmnāṃ gāyatrī chandasāmaham |",
@@ -316,7 +316,7 @@ STOTRA = {
         ], "|| 35 ||",
            "Of sāmans I am the Bṛhatsāman; of metres, the Gāyatrī; of months I am Mārgaśīrṣa; of seasons, the season of flowers.",
            bhashya=[
-               "bṛhatsāmeti – bṛhatsāma tathā sāmnāṃ pradhānam asmi. “gāyatrī chandasāmaham gāyatryā”di chandoviśiṣṭānām ṛcāṃ gāyatrīṛk aham asmi ityarthaḥ. māsānāṃ mārgaśīrṣo'ham ṛtūnāṃ kusumākaraḥ. vasantaḥ.",
+               {"text": "bṛhatsāmeti – bṛhatsāma tathā sāmnāṃ pradhānam asmi. “gāyatrī chandasāmaham gāyatryā”di chandoviśiṣṭānām ṛcāṃ gāyatrīṛk aham asmi ityarthaḥ. māsānāṃ mārgaśīrṣo'ham ṛtūnāṃ kusumākaraḥ. vasantaḥ.", "tr": "Likewise of Sāman chants I am the Bṛhat Sāman, the chief. 'Of metres I am the Gāyatrī': of verses in Gāyatrī and other metres I am the Gāyatrī verse, that is. Of months I am Mārgaśīrṣa; of seasons, the flowering one, spring."},
            ]),
         _v([
             "dyūtaṃ chalayatāmasmi tejastejasvināmaham |",
@@ -324,7 +324,7 @@ STOTRA = {
         ], "|| 36 ||",
            "I am the gambling of the deceitful, the splendour of the splendid; I am victory, I am resolve, I am the goodness of the good.",
            bhashya=[
-               "dyūtamiti – dyūtam akṣadevanādilakṣaṇaṃ, chalayatāṃ chalasya kartṝṇām asmi. tejastejasvināmahaṃ, jayaḥ asmi jetṝṇāṃ, vyavasāyaḥ asmi vyavasāyinām sattvaṃ sattvavatāṃ sāttvikānām aham.",
+               {"text": "dyūtamiti – dyūtam akṣadevanādilakṣaṇaṃ, chalayatāṃ chalasya kartṝṇām asmi. tejastejasvināmahaṃ, jayaḥ asmi jetṝṇāṃ, vyavasāyaḥ asmi vyavasāyinām sattvaṃ sattvavatāṃ sāttvikānām aham.", "tr": "Of cheats, those who practise fraud, I am gambling — dice-play and the like. I am the splendour of the splendid. I am victory for the victorious, resolve for the resolute, the goodness of the good, the sāttvika."},
            ]),
         _v([
             "vṛṣṇīnāṃ vāsudevo'smi pāṇḍavānāṃ dhanañjayaḥ |",
@@ -332,7 +332,7 @@ STOTRA = {
         ], "|| 37 ||",
            "Of the Vṛṣṇis I am Vāsudeva; of the Pāṇḍavas, Dhanañjaya; of sages I am Vyāsa; of poets, the poet Uśanas.",
            bhashya=[
-               "vṛṣṇīnāmiti – vṛṣṇīnāṃ yādavānāṃ vāsudevaḥ asmi ayameva ahaṃ tvatsakhā. pāṇḍavānāṃ dhanañjayaḥ tvameva. munīnāṃ mananaśīlānāṃ sarvapadārthajñānināmapi ahaṃ vyāsaḥ. kavīnāṃ krāntadarśināṃ uśanā kaviḥ asmi.",
+               {"text": "vṛṣṇīnāmiti – vṛṣṇīnāṃ yādavānāṃ vāsudevaḥ asmi ayameva ahaṃ tvatsakhā. pāṇḍavānāṃ dhanañjayaḥ tvameva. munīnāṃ mananaśīlānāṃ sarvapadārthajñānināmapi ahaṃ vyāsaḥ. kavīnāṃ krāntadarśināṃ uśanā kaviḥ asmi.", "tr": "Of the Vṛṣṇis, the Yādavas, I am Vāsudeva — this very I, your friend. Of the Pāṇḍavas, Dhanañjaya — you yourself. Of munis — those given to reflection, knowers of all things — I am Vyāsa. Of seers, whose vision goes beyond, I am the seer Uśanas."},
            ]),
         _v([
             "daṇḍo damayatāmasmi nītirasmi jigīṣatām |",
@@ -340,7 +340,7 @@ STOTRA = {
         ], "|| 38 ||",
            "Of those who punish I am the rod; of those who seek victory, statecraft; of secrets I am silence; and the knowledge of the knowers am I.",
            bhashya=[
-               "daṇḍa iti – daṇḍaḥ damayatāṃ damayitṝṇām asmi, adāntānāṃ damanakāraṇam. nītiḥ asmi, jigīṣatāṃ jetum icchatām, maunaṃ ca eva asmi, guhyānāṃ gopyānām. jñānaṃ jñānavatāmaham.",
+               {"text": "daṇḍa iti – daṇḍaḥ damayatāṃ damayitṝṇām asmi, adāntānāṃ damanakāraṇam. nītiḥ asmi, jigīṣatāṃ jetum icchatām, maunaṃ ca eva asmi, guhyānāṃ gopyānām. jñānaṃ jñānavatāmaham.", "tr": "Of those who tame, I am the rod — the means of taming the untamed. I am statecraft for those who seek victory, who wish to conquer. And of secrets, things to be guarded, I am silence. I am the knowledge of the knowing."},
            ]),
         _v([
             "yaccāpi sarvabhūtānāṃ bījaṃ tadahamarjuna |",
@@ -348,7 +348,7 @@ STOTRA = {
         ], "|| 39 ||",
            "Whatever is the seed of all beings, that am I, Arjuna. There is no being, moving or unmoving, that could exist without me.",
            bhashya=[
-               "yaccāpīti – yaccāpi sarvabhūtānāṃ, bījaṃ prarohakāraṇaṃ, tat aham arjuna. prakaraṇopasaṃhārārthaṃ vibhūti saṅkṣepam āha – na tat asti bhūtaṃ carācaraṃ caram acaraṃ vā, mayā vinā yat syāt bhavet, mayā aprakṛṣṭaṃ parityaktaṃ nirātmakaṃ śūnyaṃ hi tat syāt, ataḥ madātmakaṃ sarvam ityarthaḥ.",
+               {"text": "yaccāpīti – yaccāpi sarvabhūtānāṃ, bījaṃ prarohakāraṇaṃ, tat aham arjuna. prakaraṇopasaṃhārārthaṃ vibhūti saṅkṣepam āha – na tat asti bhūtaṃ carācaraṃ caram acaraṃ vā, mayā vinā yat syāt bhavet, mayā aprakṛṣṭaṃ parityaktaṃ nirātmakaṃ śūnyaṃ hi tat syāt, ataḥ madātmakaṃ sarvam ityarthaḥ.", "tr": "And whatever is the seed, the cause of sprouting, of all beings, that am I, Arjuna. To close the topic, he summarises the glories: there is no being, moving or unmoving, that could exist without me; for what I had abandoned would be without a Self, empty. So all has me as its Self — that is the meaning."},
            ]),
         _v([
             "nānto'sti mama divyānāṃ vibhūtīnāṃ parantapa |",
@@ -356,7 +356,7 @@ STOTRA = {
         ], "|| 40 ||",
            "There is no end to my divine manifestations, O scorcher of foes; what I have told is only an illustration of the extent of my glory.",
            bhashya=[
-               "nāntostīti – nāntaḥ asti mama divyānāṃ vibhūtīnāṃ vistarāṇāṃ parantapa. na hi īśvarasya sarvātmanaḥ divyānāṃ vibhūtīnām iyattā śakyā vaktuṃ jñātuṃ vā kenacit. eṣaḥ tu uddeśataḥ ekadeśena proktaḥ vibhūteḥ vistaraḥ mayā.",
+               {"text": "nāntostīti – nāntaḥ asti mama divyānāṃ vibhūtīnāṃ vistarāṇāṃ parantapa. na hi īśvarasya sarvātmanaḥ divyānāṃ vibhūtīnām iyattā śakyā vaktuṃ jñātuṃ vā kenacit. eṣaḥ tu uddeśataḥ ekadeśena proktaḥ vibhūteḥ vistaraḥ mayā.", "tr": "There is no end to my divine glories, their extents, scorcher of foes. For the measure of the divine glories of the Lord, the Self of all, cannot be told or known by anyone. This extent of my glory I have declared only by way of example, in part."},
            ]),
         _v([
             "yadyadvibhūtimatsattvaṃ śrīmadūrjitameva vā |",
@@ -364,7 +364,7 @@ STOTRA = {
         ], "|| 41 ||",
            "Whatever being has glory, splendour or might, know that it springs from a fragment of my radiance.",
            bhashya=[
-               "yadyaditi – yadyat loke, vibhūtimat vibhūtiyuktaṃ, sattvaṃ vastu śrīmat ūrjitam eva vā, śrīḥ lakṣmīḥ, tayā sahitam utsāhopetaṃ vā, tat tat, eva avagaccha tvaṃ vijānīhi, mama īśvarasya tejoṃśasambhavaṃ, tejasaḥ aṃśaḥ ekadeśaḥ sambhavaḥ yasya tat tejoṃśasambhavam iti avagaccha tvam.",
+               {"text": "yadyaditi – yadyat loke, vibhūtimat vibhūtiyuktaṃ, sattvaṃ vastu śrīmat ūrjitam eva vā, śrīḥ lakṣmīḥ, tayā sahitam utsāhopetaṃ vā, tat tat, eva avagaccha tvaṃ vijānīhi, mama īśvarasya tejoṃśasambhavaṃ, tejasaḥ aṃśaḥ ekadeśaḥ sambhavaḥ yasya tat tejoṃśasambhavam iti avagaccha tvam.", "tr": "Whatever thing, whatever being in the world, is glorious — endowed with glory — or prosperous or mighty — with prosperity, fortune, or full of vigour — know, understand, that each of these has sprung from a portion of my splendour, of me the Lord: that whose origin is a portion, a part, of my splendour — so understand it."},
            ]),
         _v([
             "athavā bahunaitena kiṃ jñātena tavārjuna |",
@@ -372,7 +372,7 @@ STOTRA = {
         ], "|| 42 ||",
            "But what need have you, Arjuna, of this detailed knowledge? I stand supporting this whole universe with a single fragment of myself.",
            bhashya=[
-               {"text": "athaveti – athavā bahunā etena evamādinā kiṃ jñātena tava arjuna. syāt sāvaśeṣeṇa. aśeṣataḥ tvam imam ucyamānam arthaṃ śṛṇu – viṣṭabhya viśeṣataḥ, stambhanaṃ dṛḍhaṃ kṛtvā idaṃ kṛtsnaṃ jagat ekāṃśena ekāvayavena ekapādena sarvabhūtasvarūpeṇa ityetat. tathā ca mantravarṇaḥ “pādo'sya viśvābhūtāni” (tai.ā.30.12, ṛ.saṃ.10.90.3) iti – sthitaḥ ahaṃ iti.", "intro": True},
+               {"text": "athaveti – athavā bahunā etena evamādinā kiṃ jñātena tava arjuna. syāt sāvaśeṣeṇa. aśeṣataḥ tvam imam ucyamānam arthaṃ śṛṇu – viṣṭabhya viśeṣataḥ, stambhanaṃ dṛḍhaṃ kṛtvā idaṃ kṛtsnaṃ jagat ekāṃśena ekāvayavena ekapādena sarvabhūtasvarūpeṇa ityetat. tathā ca mantravarṇaḥ “pādo'sya viśvābhūtāni” (tai.ā.30.12, ṛ.saṃ.10.90.3) iti – sthitaḥ ahaṃ iti.", "intro": True, "tr": "Or else, what use is it to you to know so much as this, Arjuna? It would still be incomplete. Hear this meaning, now stated, in full: I stand supporting — firmly upholding — this whole world with a single portion, one part, one quarter — in the form of all beings, that is. And so the mantra says: 'all beings are a quarter of him' (Taittirīya Āraṇyaka 3.12; Ṛgveda 10.90.3)."},
            ]),
         "ornament",
         {"colophon": "iti śrīmahābhārate śatasahasryāṃ saṃhitāyāṃ vaiyāsikyāṃ bhīṣmaparvaṇi śrīmadbhagavadgītā – sūpaniṣatsu brahmavidyāyāṃ yogaśāstre śrīkṛṣṇārjunasaṃvāde vibhūtiyogo nāma daśamo'dhyāyaḥ.", "gloss": "Thus, in the Bhagavad Gītā — the Upaniṣad, the knowledge of Brahman, the scripture of yoga, the dialogue of Śrī Kṛṣṇa and Arjuna — within the Bhīṣma Parva of the Mahābhārata, the collection of a hundred thousand verses by Vyāsa, ends the tenth chapter, Vibhūti Yoga."},

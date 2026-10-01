@@ -5,8 +5,8 @@
 # the Ramakrishna Math, Hyderabad edition (2013), whose legacy Telugu font was
 # mapped to Unicode glyph by glyph; its Telugu translation is not used. Collated
 # against Sanskrit Wikisource and the Pullela Śrīrāmacandruḍu edition; every
-# correction is logged in SOURCES §7.4. Verse translations are original; the
-# bhāṣya is untranslated. Generated from the collated text — edit here, not
+# correction is logged in SOURCES §7.4. The English of the verses and of the
+# bhāṣya is original, made from the Sanskrit. Generated from the collated text — edit here, not
 # upstream.
 
 
@@ -28,7 +28,7 @@ STOTRA = {
     "nav": [('‹ chapter 7', 'gita-bhashya-07-iast.html'), ('all chapters', '../../index.html#gita'), ('chapter 9 ›', 'gita-bhashya-09-iast.html')],
     "sections": [
         {"bhashya": [
-            "“te brahma tadviduḥ kṛtsnam” (7.29) ityādinā bhagavatā arjunasya praśnabījāni upadiṣṭāni ataḥ tatpraśnārthaṃ arjunaḥ uvāca.",
+            {"text": "“te brahma tadviduḥ kṛtsnam” (7.29) ityādinā bhagavatā arjunasya praśnabījāni upadiṣṭāni ataḥ tatpraśnārthaṃ arjunaḥ uvāca.", "tr": "With 'they know that Brahman, entire' (7.29) and so on, the Blessed Lord has set down the seeds of Arjuna's questions. So, to ask about them, Arjuna said:"},
         ], "summary": "bhāṣya · the chapter's opening"},
         {"speaker": "arjuna uvāca"},
         _v([
@@ -48,7 +48,7 @@ STOTRA = {
         ], "|| 3 ||",
            "The Blessed Lord said: Brahman is the supreme Imperishable; its own being is called the inner Self; the offering that brings beings into existence is called action.",
            bhashya=[
-               {"text": "eṣāṃ praśnānāṃ yathākramaṃ nirṇayāya śrī bhagavān uvāca.", "intro": True},
+               {"text": "eṣāṃ praśnānāṃ yathākramaṃ nirṇayāya śrī bhagavān uvāca.", "intro": True, "tr": "To settle these questions in order, the Blessed Lord said:"},
            ]),
         _v([
             "adhibhūtaṃ kṣaro bhāvaḥ puruṣaścādhidaivatam |",
@@ -56,7 +56,7 @@ STOTRA = {
         ], "|| 4 ||",
            "The elemental is perishable being; the divine is the Person; and I myself am the lord of sacrifice here in the body, O best of the embodied.",
            bhashya=[
-               {"text": "akṣaraṃ iti. akṣaraṃ na kṣaratīti akṣaraṃ paramātmā “etasya vā akṣarasya praśāsane gārgi” (bṛ.u. 3.8.9) iti śruteḥ. oṅkārasya ca “omityekākṣaraṃ brahma” (8.13) iti pareṇa viśeṣaṇāt agrahaṇam. paramam iti niratiśaye brahmaṇi akṣare upapannataraṃ viśeṣaṇam. tasyaiva parasya brahmaṇaḥ pratidehaṃ pratyagātmabhāvaḥ svabhāvaḥ, svaḥ bhāvaḥ svabhāvaḥ adhyātmaṃ ucyate. ātmānaṃ dehaṃ adhikṛtya pratyagātmatayā pravṛttaṃ paramārthabrahmāvasānaṃ vastu svabhāvaḥ adhyātmaṃ ucyate – adhyātmaśabdena abhidhīyate. bhūtabhavodbhavakaraḥ bhūtānāṃ bhāvaḥ bhūtabhāvaḥ tasya udbhavaḥ bhūtabhāvodbhavaḥ taṃ karoti iti bhūtabhāvodbhavakaraḥ, bhūtavastūtpattikaraḥ ityarthaḥ. visargaḥ visarjanaṃ devatoddeśena carupuroḍāśādeḥ dravyasya parityāgaḥ, sa eṣa visargalakṣaṇaḥ yajñaḥ karmasañjñitaḥ karmaśabditaḥ ityetat. etasmāt hi bījabhūtāt vṛṣṭyādikrameṇa sthāvarajaṅgamāni bhūtāni udbhavanti.", "intro": True},
+               {"text": "akṣaraṃ iti. akṣaraṃ na kṣaratīti akṣaraṃ paramātmā “etasya vā akṣarasya praśāsane gārgi” (bṛ.u. 3.8.9) iti śruteḥ. oṅkārasya ca “omityekākṣaraṃ brahma” (8.13) iti pareṇa viśeṣaṇāt agrahaṇam. paramam iti niratiśaye brahmaṇi akṣare upapannataraṃ viśeṣaṇam. tasyaiva parasya brahmaṇaḥ pratidehaṃ pratyagātmabhāvaḥ svabhāvaḥ, svaḥ bhāvaḥ svabhāvaḥ adhyātmaṃ ucyate. ātmānaṃ dehaṃ adhikṛtya pratyagātmatayā pravṛttaṃ paramārthabrahmāvasānaṃ vastu svabhāvaḥ adhyātmaṃ ucyate – adhyātmaśabdena abhidhīyate. bhūtabhavodbhavakaraḥ bhūtānāṃ bhāvaḥ bhūtabhāvaḥ tasya udbhavaḥ bhūtabhāvodbhavaḥ taṃ karoti iti bhūtabhāvodbhavakaraḥ, bhūtavastūtpattikaraḥ ityarthaḥ. visargaḥ visarjanaṃ devatoddeśena carupuroḍāśādeḥ dravyasya parityāgaḥ, sa eṣa visargalakṣaṇaḥ yajñaḥ karmasañjñitaḥ karmaśabditaḥ ityetat. etasmāt hi bījabhūtāt vṛṣṭyādikrameṇa sthāvarajaṅgamāni bhūtāni udbhavanti.", "intro": True, "tr": "'Brahman is the imperishable, the supreme…' The imperishable, that which does not perish, is the supreme Self, according to the śruti 'under the rule of this imperishable, Gārgī' (Bṛhadāraṇyaka 3.8.9). The syllable om is not meant, because it is distinguished later in 'om, the one-syllabled Brahman' (8.13); and the qualifier 'supreme' fits far better the imperishable, the unsurpassed Brahman. The state of that same supreme Brahman as the inmost Self in each body is its own being; one's own being is svabhāva, and it is called adhyātma. The reality that presides over the body, the self, functioning as the inmost Self and ending in the supreme Brahman, is one's own being, called adhyātma — denoted by the word adhyātma. That which brings about the origin of the existence of beings — the existence of beings is bhūtabhāva, its origin is its arising, and what produces this is bhūtabhāvodbhavakara: what brings about the coming forth of beings, that is. Offering: the giving up of a substance such as rice-cakes and the like with a deity in view; this sacrifice, consisting in offering, is called action, denoted by the word 'action'. For from this, as from a seed, beings moving and unmoving come forth, through rain and the rest in succession."},
            ]),
         _v([
             "antakāle ca māmeva smaran muktvā kalevaram |",
@@ -64,8 +64,8 @@ STOTRA = {
         ], "|| 5 ||",
            "And whoever, at the time of death, leaves the body remembering me alone, and departs, attains my being; of this there is no doubt.",
            bhashya=[
-               {"text": "adhibhūtaṃ iti. adhibhūtaṃ prāṇijātaṃ adhi (kṛtya) bhavatīti. ko'sau? kṣaraḥ kṣaratīti kṣaraḥ vināśī, yat kiñcit janimat vastu ityarthaḥ, puruṣaḥ pūrṇaḥ anena sarvam iti, puri śayanāt vā puruṣaḥ ādityāntargataḥ hiraṇyagarbhaḥ, sarvaprāṇikaraṇānāṃ anugrāhakaḥ, saḥ adhidaivatam. adhiyajñaḥ sarvayajñābhimāninī viṣṇvākhyā devatā, “yajño vai viṣṇuḥ” (tai.saṃ. 1.7.4) iti śruteḥ, sa hi viṣṇuḥ aham eva, atra asmin deha yaḥ yajñaḥ tasya ahaṃ adhiyajñaḥ, yajñaḥ hi dehanirvartyatvena dehasamavāyī iti dehādhikaraṇaḥ bhavati, dehabhṛtāṃ vara.", "intro": True},
-               "antakāle iti. antakāle maraṇakāle ca mām eva parameśvaraṃ viṣṇuṃ smaran muktvā parityajya kalevaraṃ śarīraṃ yaḥ prayāti gacchati, saḥ madbhāvaṃ vaiṣṇavaṃ tattvaṃ yāti. na asti na vidyate atra asmin arthe saṃśayaḥ, yāti vā na vā iti.",
+               {"text": "adhibhūtaṃ iti. adhibhūtaṃ prāṇijātaṃ adhi (kṛtya) bhavatīti. ko'sau? kṣaraḥ kṣaratīti kṣaraḥ vināśī, yat kiñcit janimat vastu ityarthaḥ, puruṣaḥ pūrṇaḥ anena sarvam iti, puri śayanāt vā puruṣaḥ ādityāntargataḥ hiraṇyagarbhaḥ, sarvaprāṇikaraṇānāṃ anugrāhakaḥ, saḥ adhidaivatam. adhiyajñaḥ sarvayajñābhimāninī viṣṇvākhyā devatā, “yajño vai viṣṇuḥ” (tai.saṃ. 1.7.4) iti śruteḥ, sa hi viṣṇuḥ aham eva, atra asmin deha yaḥ yajñaḥ tasya ahaṃ adhiyajñaḥ, yajñaḥ hi dehanirvartyatvena dehasamavāyī iti dehādhikaraṇaḥ bhavati, dehabhṛtāṃ vara.", "intro": True, "tr": "'The adhibhūta is perishable being…' The adhibhūta is that which comes to be presiding over the host of living beings. What is it? The perishable — what perishes, the destructible, whatever has birth, that is. The puruṣa — so called because all is filled by him, or because he lies in the city of the body — is Hiraṇyagarbha within the sun, who favours the senses of all living beings; he is the adhidaivata. The adhiyajña is the deity called Viṣṇu who presides over all sacrifices, according to the śruti 'Sacrifice is indeed Viṣṇu' (Taittirīya Saṃhitā 1.7.4); and that Viṣṇu is I myself. Here, in this body, I am the adhiyajña of the sacrifice there is; for sacrifice, being accomplished by the body, inheres in the body and so has the body as its locus, O best of the embodied."},
+               {"text": "antakāle iti. antakāle maraṇakāle ca mām eva parameśvaraṃ viṣṇuṃ smaran muktvā parityajya kalevaraṃ śarīraṃ yaḥ prayāti gacchati, saḥ madbhāvaṃ vaiṣṇavaṃ tattvaṃ yāti. na asti na vidyate atra asmin arthe saṃśayaḥ, yāti vā na vā iti.", "tr": "'And at the time of the end, remembering me alone…' And whoever at the time of the end, the time of death, remembering me alone, the supreme Lord Viṣṇu, departs, goes, leaving, giving up, the body, goes to my state, the reality of Viṣṇu. There is no doubt in this matter whether he goes or not."},
            ]),
         _v([
             "yaṃ yaṃ vā'pi smaran bhāvaṃ tyajatyante kalevaram |",
@@ -73,8 +73,8 @@ STOTRA = {
         ], "|| 6 ||",
            "Whatever state one remembers when leaving the body at the end, to that very state one goes, son of Kuntī, being always absorbed in it.",
            bhashya=[
-               {"text": "na madviṣayaḥ eva ayaṃ niyamaḥ kiṃ tarhi –", "intro": True},
-               "yaṃ iti. yaṃ yaṃ vā'pi yaṃ yaṃ bhāvaṃ devatāviśeṣaṃ smaran cintayan tyajati parityajati ante antakāle prāṇaviyogakāle kalebaraṃ śarīraṃ taṃ tam eva smṛtaṃ bhāvaṃ eva eti na anyaṃ kaunteya! sadā sarvadā tadbhāvabhāvitaḥ tasmin bhāvaḥ saḥ bhāvitaḥ smaryamāṇatayā abhyastaḥ yena saḥ tadbhāvabhāvitaḥ san.",
+               {"text": "na madviṣayaḥ eva ayaṃ niyamaḥ kiṃ tarhi –", "intro": True, "tr": "This rule does not hold of me alone; then what?"},
+               {"text": "yaṃ iti. yaṃ yaṃ vā'pi yaṃ yaṃ bhāvaṃ devatāviśeṣaṃ smaran cintayan tyajati parityajati ante antakāle prāṇaviyogakāle kalebaraṃ śarīraṃ taṃ tam eva smṛtaṃ bhāvaṃ eva eti na anyaṃ kaunteya! sadā sarvadā tadbhāvabhāvitaḥ tasmin bhāvaḥ saḥ bhāvitaḥ smaryamāṇatayā abhyastaḥ yena saḥ tadbhāvabhāvitaḥ san.", "tr": "'Whatever state one remembers…' Whatever state, whatever particular deity, one remembers, thinks of, when one leaves, gives up, the body at the end, at the time of parting with life — to that very state remembered one goes, Kaunteya, and to no other; always, at all times, absorbed in that state — one by whom that state has been cultivated, practised by being remembered."},
            ]),
         _v([
             "tasmātsarveṣu kāleṣu māmanusmara yudhya ca |",
@@ -82,8 +82,8 @@ STOTRA = {
         ], "|| 7 ||",
            "Therefore at all times remember me, and fight. With mind and understanding offered to me, you will surely come to me.",
            bhashya=[
-               {"text": "yasmāt evaṃ antyā bhāvanā dehāntaraprāptau kāraṇam.", "intro": True},
-               "tasmāt iti. tasmāt sarveṣu kāleṣu māṃ anusmara. yathāśāstram yuddhya ca yuddhaṃ ca svadharmaṃ kuru. mayi vāsudeve arpite manobuddhī yasya tava saḥ tvaṃ mayi arpitamanobuddhiḥ san mām eva yathāsmṛtaṃ eṣyasi āgamiṣyasi, asaṃśayaḥ na saṃśayaḥ atra vidyate. kiñca.",
+               {"text": "yasmāt evaṃ antyā bhāvanā dehāntaraprāptau kāraṇam.", "intro": True, "tr": "Since thus the final thought is the cause of attaining another body —"},
+               {"text": "tasmāt iti. tasmāt sarveṣu kāleṣu māṃ anusmara. yathāśāstram yuddhya ca yuddhaṃ ca svadharmaṃ kuru. mayi vāsudeve arpite manobuddhī yasya tava saḥ tvaṃ mayi arpitamanobuddhiḥ san mām eva yathāsmṛtaṃ eṣyasi āgamiṣyasi, asaṃśayaḥ na saṃśayaḥ atra vidyate. kiñca.", "tr": "'Therefore at all times remember me…' Therefore at all times remember me, as the scriptures teach; and fight — do battle, your own duty. With mind and understanding offered to me — you whose mind and understanding are offered to me, Vāsudeva — you will come to me alone, as remembered. Without doubt: there is no doubt in this. Moreover —"},
            ]),
         _v([
             "abhyāsayogayuktena cetasā nānyagāminā |",
@@ -91,7 +91,7 @@ STOTRA = {
         ], "|| 8 ||",
            "With a mind disciplined by the yoga of practice and not straying elsewhere, meditating, one reaches the supreme divine Person, Pārtha.",
            bhashya=[
-               "abhyāsa iti. abhyāsayogayuktena – mayi cittasamarpaṇaviṣayabhūte ekasmin tulyapratyayāvṛttilakṣaṇaḥ vilakṣaṇapratyayānantaritaḥ abhyāsaḥ, sa cāsau yogaḥ tena yuktaṃ tatraiva vyāpṛtaṃ yoginaḥ cetaḥ, tena cetasā nānyagāminā na anyatra viṣayāntare gantuṃ śīlaṃ asyeti nānyagāmi tena nānyagāminā, paramaṃ niratiśayaṃ puruṣaṃ divyaṃ divi sūryamaṇḍale bhavaṃ yāti gacchati he pārtha! anucintayan śāstrācāryopadeśaṃ anudhyāyan ityetat.",
+               {"text": "abhyāsa iti. abhyāsayogayuktena – mayi cittasamarpaṇaviṣayabhūte ekasmin tulyapratyayāvṛttilakṣaṇaḥ vilakṣaṇapratyayānantaritaḥ abhyāsaḥ, sa cāsau yogaḥ tena yuktaṃ tatraiva vyāpṛtaṃ yoginaḥ cetaḥ, tena cetasā nānyagāminā na anyatra viṣayāntare gantuṃ śīlaṃ asyeti nānyagāmi tena nānyagāminā, paramaṃ niratiśayaṃ puruṣaṃ divyaṃ divi sūryamaṇḍale bhavaṃ yāti gacchati he pārtha! anucintayan śāstrācāryopadeśaṃ anudhyāyan ityetat.", "tr": "'With a mind disciplined by the yoga of practice…' Practice is the repetition of the same idea regarding one object — me, the object to which the mind is offered — not interrupted by any different idea; and that is yoga. With a mind joined to it, engaged in that alone — the yogin's mind — with that mind not going elsewhere, whose nature is not to go elsewhere, to other objects, meditating, dwelling on the teaching of scripture and teacher, he goes to the supreme, unsurpassed, divine puruṣa, who is in heaven, in the orb of the sun, Pārtha."},
            ]),
         _v([
             "kaviṃ purāṇamanuśāsitāramaṇoraṇīyāṃ samanusmaredyaḥ |",
@@ -99,8 +99,8 @@ STOTRA = {
         ], "|| 9 ||",
            "He who meditates on the seer, the ancient, the ruler, subtler than the subtle, the sustainer of all, of unthinkable form, sun-coloured, beyond darkness —",
            bhashya=[
-               {"text": "9.0. kiṃ viśiṣṭaṃ ca puruṣaṃ yāti iti? ucyate", "intro": True},
-               "kaviṃ iti. kaviṃ krāntadarśinaṃ sarvajñaṃ, purāṇaṃ cirantanaṃ, anuśāsitāraṃ sarvasya jagataḥ praśāsitāraṃ, aṇoḥ sūkṣmāt api aṇīyāṃsaṃ sūkṣmataraṃ anusmaret anucintayet yaḥ kaścit, sarvasya karmaphalajātasya dhātāraṃ vidhātāraṃ vicitratayā prāṇibhyaḥ vibhaktāraṃ, (vibhajya dhātāraṃ) acintyarūpaṃ na asya rūpaṃ niyataṃ vidyamānam api kenacit cintayituṃ śakyate iti acintyarūpaḥ taṃ ādityavarṇam ādityasya iva nityacaitanyaprakāśaḥ varṇaḥ yasya taṃ ādityavarṇam tamasaḥ parastāt ajñānalakṣaṇāt mohāndhakārāt paraṃ taṃ “anucintayan yāti” iti pūrveṇa sambandhaḥ. kiñca –",
+               {"text": "9.0. kiṃ viśiṣṭaṃ ca puruṣaṃ yāti iti? ucyate", "intro": True, "tr": "And to what kind of puruṣa does he go? It is said:"},
+               {"text": "kaviṃ iti. kaviṃ krāntadarśinaṃ sarvajñaṃ, purāṇaṃ cirantanaṃ, anuśāsitāraṃ sarvasya jagataḥ praśāsitāraṃ, aṇoḥ sūkṣmāt api aṇīyāṃsaṃ sūkṣmataraṃ anusmaret anucintayet yaḥ kaścit, sarvasya karmaphalajātasya dhātāraṃ vidhātāraṃ vicitratayā prāṇibhyaḥ vibhaktāraṃ, (vibhajya dhātāraṃ) acintyarūpaṃ na asya rūpaṃ niyataṃ vidyamānam api kenacit cintayituṃ śakyate iti acintyarūpaḥ taṃ ādityavarṇam ādityasya iva nityacaitanyaprakāśaḥ varṇaḥ yasya taṃ ādityavarṇam tamasaḥ parastāt ajñānalakṣaṇāt mohāndhakārāt paraṃ taṃ “anucintayan yāti” iti pūrveṇa sambandhaḥ. kiñca –", "tr": "'The seer, the ancient, the ruler…' The seer, whose vision goes everywhere, the all-knowing; the ancient, primeval; the ruler, governor of the whole world; subtler than the subtle — whoever remembers, meditates on, him; the ordainer of all, the dispenser to living beings of the whole variety of the fruits of action, apportioning them; of unthinkable form — whose form, though fixed and existent, cannot be conceived by anyone; sun-coloured — whose colour, like the sun's, is the light of eternal consciousness; beyond darkness, beyond the darkness of delusion that is ignorance — him: it connects with 'meditating, he goes' above. Moreover —"},
            ]),
         _v([
             "prayāṇakāle manasā'calena bhaktyā yukto yogabalena caiva |",
@@ -108,7 +108,7 @@ STOTRA = {
         ], "|| 10 ||",
            "at the time of departure, with unmoving mind, joined in devotion and by the power of yoga, fixing the breath between the brows, he reaches that supreme divine Person.",
            bhashya=[
-               "prayāṇa iti. prayāṇakāle maraṇakāle manasā acalena calanavarjitena bhaktyā yuktaḥ bhajanaṃ bhaktiḥ tayā yuktaḥ yogabalena ca eva yogasya balaṃ yogabalaṃ samādhijasaṃskāra pracayajanitacittasthairyalakṣaṇaṃ yogabalaṃ tena ca yuktaḥ ityarthaḥ pūrvaṃ hṛdayapuṇḍarīke vaśīkṛtya cittaṃ tataḥ ūrdhvagāminyā nāḍyā bhūmijayakrameṇa bhruvoḥ madhye prāṇaṃ āveśya sthāpayitvā samyak apramattaḥ san, saḥ evaṃ vidvān yogī “kaviṃ purāṇam” (8.9) ityādi lakṣaṇaṃ taṃ paraṃ (parataraṃ) puruṣaṃ upaiti pratipadyate divyaṃ dyotanātmakam.",
+               {"text": "prayāṇa iti. prayāṇakāle maraṇakāle manasā acalena calanavarjitena bhaktyā yuktaḥ bhajanaṃ bhaktiḥ tayā yuktaḥ yogabalena ca eva yogasya balaṃ yogabalaṃ samādhijasaṃskāra pracayajanitacittasthairyalakṣaṇaṃ yogabalaṃ tena ca yuktaḥ ityarthaḥ pūrvaṃ hṛdayapuṇḍarīke vaśīkṛtya cittaṃ tataḥ ūrdhvagāminyā nāḍyā bhūmijayakrameṇa bhruvoḥ madhye prāṇaṃ āveśya sthāpayitvā samyak apramattaḥ san, saḥ evaṃ vidvān yogī “kaviṃ purāṇam” (8.9) ityādi lakṣaṇaṃ taṃ paraṃ (parataraṃ) puruṣaṃ upaiti pratipadyate divyaṃ dyotanātmakam.", "tr": "'At the time of departure, with unmoving mind…' At the time of departure, at the time of death, with unmoving mind, free of wavering, endowed with devotion — devotion is worship — and with the power of yoga too: the power of yoga is steadiness of mind produced by the accumulated impressions born of samādhi; endowed with that, that is. First bringing the mind under control in the lotus of the heart, then by the channel going upward, by the stages of mastering the ground, placing, establishing, the life-breath between the brows, rightly, heedfully — such a knowing yogin reaches, attains, that supreme puruṣa described in 'the seer, the ancient' (8.9) and so on, divine, of the nature of light."},
            ]),
         _v([
             "yadakṣaraṃ vedavido vadanti viśanti yadyatayo vītarāgāḥ |",
@@ -116,7 +116,7 @@ STOTRA = {
         ], "|| 11 ||",
            "That which knowers of the Veda call the Imperishable, which ascetics free from passion enter, desiring which they live the celibate life — that goal I will tell you briefly.",
            bhashya=[
-               {"text": "punarapi vakṣyamāṇena upāyena pratipitsitasya brahmaṇaḥ vedavidvadanādi viśeṣaṇa viśeṣyasya abhidhānaṃ karoti bhagavān –", "intro": True},
+               {"text": "punarapi vakṣyamāṇena upāyena pratipitsitasya brahmaṇaḥ vedavidvadanādi viśeṣaṇa viśeṣyasya abhidhānaṃ karoti bhagavān –", "intro": True, "tr": "Once again the Blessed Lord describes Brahman, which is to be attained by the means about to be told, qualified by attributes such as being spoken of by the knowers of the Veda:"},
            ]),
         _v([
             "sarvadvārāṇi saṃyamya mano hṛdi nirudhya ca |",
@@ -124,9 +124,9 @@ STOTRA = {
         ], "|| 12 ||",
            "Closing all the gates, confining the mind in the heart, placing the breath in the head, established in the concentration of yoga,",
            bhashya=[
-               {"text": "yat iti. yat akṣaraṃ na kṣaratīti akṣaraṃ avināśi vedavidaḥ vedārthajñāḥvadanti, “etadvai tadakṣaraṃ gārgi brāhmaṇā abhivadanti” iti śruteḥ, sarvaviśeṣanivartakatvena abhivadanti “asthūlamanaṇu” (bṛ.u.3.8.8) ityādi. kiñca viśanti praviśanti samyagdarśanaprāptau satyāṃ yat yatayaḥ yatanaśīlāḥ sannyāsinaḥ vītarāgāḥ vītaḥ vigataḥ rāgaḥ yebhyaḥ te vītarāgāḥ. yat ca akṣaraṃ icchantaḥ – “jñātuṃ” iti vākyaśeṣaḥ – brahmacaryaṃ gurau caranti ācaranti, tat te padaṃ tat akṣarākhyaṃ padaṃ padanīyaṃ te tubhyaṃ saṅgraheṇa saṅgrahaḥ saṅkṣepaḥ tena saṅkṣepeṇa pravakṣye kathayiṣyāmi.", "intro": True},
-               {"text": "“sa yoha vai tadbhagavan manuṣyeṣu prāṇayāntamoṅkāra mabhidhyāyīta katamaṃ vāva sa tena lokaṃ jayatīti. tasmai sa hovāca etadvai satyakāma paraṃ cāparaṃ ca brahma yadoṅkāraḥ” ityupakramya “yaḥ punaretaṃ trimātreṇomityetenaivākṣareṇa paraṃ puruṣa mabhidhyāyīta... sa sāmabhirunnīyate brahmalokam (pra.u.5.1.2.5) ityādinā vacanena “anyatra dharmādanyatrādharmāt” iti ca upakramya “sarve vedā yatpadamāmananti. tapāṃsi sarvāṇi ca yadvadanti. yadicchanto brahmacaryaṃ caranti. tatte padaṃ saṅgraheṇa bravīmyomityet”. (kaṭha.u.2.14.15) ityādibhiśca vacanaiḥ parasya brahmaṇaḥ vācakarūpeṇa, pratimāvat pratīkarūpeṇa vā, parabrahmapratipattisādhanatvena mandamadhyamabuddhīnāṃ vivakṣitasya oṅkārasya upāsanaṃ kālāntare muktiphalaṃ uktaṃ yat, tadeva ihāpi “kaviṃ purāṇamanuśāsitāraṃ”, “yadakṣaraṃ vedavido vadanti” iti ca upanyastasya parasya brahmaṇaḥ pūrvoktarūpeṇa pratipattyupāyabhūtasya oṅkārasya kālāntaramuktiphalaṃ upāsanaṃ yogadhāraṇāsahitaṃ vaktavyaṃ prasaktānuprasaktaṃ ca yatkiñcit, ityevamarthaḥ uttaraḥ granthaḥ ārabhyate.", "intro": True},
-               "sarva iti. sarvadvārāṇi sarvāṇi ca tāni dvārāṇi ca sarvadvārāṇi upalabdhau, tāni sarvāṇi saṃyamya saṃyamanaṃ kṛtvā manaḥ hṛdi hṛdayapuṇḍarīke nirudhya nirodhaṃ kṛtvā niṣpracāraṃ āpādya, tatra vaśīkṛtena manasā hṛdayāt ūrdhvagāminyā nāḍyā ūrdhvaṃ āruhya mūrthni ādhāya ātmanaḥ prāṇaṃ āsthitaḥ pravṛttaḥ yogadhāraṇāṃ dhārayitum. tatraiva ca dhārayan –",
+               {"text": "yat iti. yat akṣaraṃ na kṣaratīti akṣaraṃ avināśi vedavidaḥ vedārthajñāḥvadanti, “etadvai tadakṣaraṃ gārgi brāhmaṇā abhivadanti” iti śruteḥ, sarvaviśeṣanivartakatvena abhivadanti “asthūlamanaṇu” (bṛ.u.3.8.8) ityādi. kiñca viśanti praviśanti samyagdarśanaprāptau satyāṃ yat yatayaḥ yatanaśīlāḥ sannyāsinaḥ vītarāgāḥ vītaḥ vigataḥ rāgaḥ yebhyaḥ te vītarāgāḥ. yat ca akṣaraṃ icchantaḥ – “jñātuṃ” iti vākyaśeṣaḥ – brahmacaryaṃ gurau caranti ācaranti, tat te padaṃ tat akṣarākhyaṃ padaṃ padanīyaṃ te tubhyaṃ saṅgraheṇa saṅgrahaḥ saṅkṣepaḥ tena saṅkṣepeṇa pravakṣye kathayiṣyāmi.", "intro": True, "tr": "'That which the knowers of the Veda call imperishable…' That which the knowers of the Veda, those who know its meaning, call imperishable — what does not perish, the indestructible — according to the śruti 'this is that imperishable, Gārgī, which brāhmaṇas speak of', and which they speak of as negating every particular, in 'not gross, not subtle' (Bṛhadāraṇyaka 3.8.8) and so on. And that which the ascetics — those given to striving, renouncers — free from passion, from whom passion has gone, enter when right vision is attained; and desiring which imperishable — 'to know' completes the sentence — they practise celibacy with a teacher: that goal, that state called the imperishable, the place to be reached, I will tell you in brief — a summary is a compression — I will tell it concisely."},
+               {"text": "“sa yoha vai tadbhagavan manuṣyeṣu prāṇayāntamoṅkāra mabhidhyāyīta katamaṃ vāva sa tena lokaṃ jayatīti. tasmai sa hovāca etadvai satyakāma paraṃ cāparaṃ ca brahma yadoṅkāraḥ” ityupakramya “yaḥ punaretaṃ trimātreṇomityetenaivākṣareṇa paraṃ puruṣa mabhidhyāyīta... sa sāmabhirunnīyate brahmalokam (pra.u.5.1.2.5) ityādinā vacanena “anyatra dharmādanyatrādharmāt” iti ca upakramya “sarve vedā yatpadamāmananti. tapāṃsi sarvāṇi ca yadvadanti. yadicchanto brahmacaryaṃ caranti. tatte padaṃ saṅgraheṇa bravīmyomityet”. (kaṭha.u.2.14.15) ityādibhiśca vacanaiḥ parasya brahmaṇaḥ vācakarūpeṇa, pratimāvat pratīkarūpeṇa vā, parabrahmapratipattisādhanatvena mandamadhyamabuddhīnāṃ vivakṣitasya oṅkārasya upāsanaṃ kālāntare muktiphalaṃ uktaṃ yat, tadeva ihāpi “kaviṃ purāṇamanuśāsitāraṃ”, “yadakṣaraṃ vedavido vadanti” iti ca upanyastasya parasya brahmaṇaḥ pūrvoktarūpeṇa pratipattyupāyabhūtasya oṅkārasya kālāntaramuktiphalaṃ upāsanaṃ yogadhāraṇāsahitaṃ vaktavyaṃ prasaktānuprasaktaṃ ca yatkiñcit, ityevamarthaḥ uttaraḥ granthaḥ ārabhyate.", "intro": True, "tr": "Beginning with 'Venerable one, if a man among men should meditate on om until his death, which world does he win by it?' and 'To him he said: Satyakāma, this syllable om is both the higher and the lower Brahman', the śruti says 'but he who meditates on the supreme puruṣa with this very syllable om of three measures… is led up by the Sāman chants to the world of Brahmā' (Praśna 5.1–2, 5); and beginning with 'other than dharma, other than adharma', it says 'the goal that all the Vedas declare, that all austerities proclaim, desiring which men practise celibacy — that goal I tell you in brief: it is om' (Kaṭha 2.14–15). By these and other texts, the meditation on om — meant for those of dull and middling understanding as a means of attaining the supreme Brahman, whether as its name or as its symbol, like an image — has been said to have liberation as its fruit in course of time. That same meditation on om, as the means of attaining the supreme Brahman introduced here in 'the seer, the ancient, the ruler' and 'that which the knowers of the Veda call imperishable', in the form described before, with liberation in course of time as its fruit, together with the yogic holding — and whatever else arises along with it — is to be told; for this purpose the following text begins."},
+               {"text": "sarva iti. sarvadvārāṇi sarvāṇi ca tāni dvārāṇi ca sarvadvārāṇi upalabdhau, tāni sarvāṇi saṃyamya saṃyamanaṃ kṛtvā manaḥ hṛdi hṛdayapuṇḍarīke nirudhya nirodhaṃ kṛtvā niṣpracāraṃ āpādya, tatra vaśīkṛtena manasā hṛdayāt ūrdhvagāminyā nāḍyā ūrdhvaṃ āruhya mūrthni ādhāya ātmanaḥ prāṇaṃ āsthitaḥ pravṛttaḥ yogadhāraṇāṃ dhārayitum. tatraiva ca dhārayan –", "tr": "'Restraining all the gates…' All the gates — all of them, the gates of perception — restraining them all, closing them; and confining the mind in the heart, in the lotus of the heart, checking it, making it motionless; then with the mind so mastered, rising upward from the heart by the channel that goes upward, placing his life-breath in the head, he has set about the holding of yoga, so as to hold it. And holding it just there —"},
            ]),
         _v([
             "omityekākṣaraṃ brahma vyāharan māmanusmaran |",
@@ -134,7 +134,7 @@ STOTRA = {
         ], "|| 13 ||",
            "uttering the one syllable Om, which is Brahman, and remembering me — he who departs, leaving the body, reaches the highest goal.",
            bhashya=[
-               "om iti. oṃ iti ekākṣaraṃ brahma brahmaṇaḥ abhidhānabhūtaṃ oṅkāraṃ vyāharan uccārayan, tadarthabhūtaṃ māṃ īśvaraṃ anusmaran anucintayan yaḥ prayāti mriyate saḥ tyajan parityajan dehaṃ śarīraṃ “tyajan dehaṃ” iti prayāṇaviśeṣaṇārthaṃ, dehatyāgena prayāṇaṃ ātmanaḥ na svarūpanāśena ityarthaḥ saḥ evaṃ tyajan yāti gacchati paramāṃ prakṛṣṭāṃ gatim.",
+               {"text": "om iti. oṃ iti ekākṣaraṃ brahma brahmaṇaḥ abhidhānabhūtaṃ oṅkāraṃ vyāharan uccārayan, tadarthabhūtaṃ māṃ īśvaraṃ anusmaran anucintayan yaḥ prayāti mriyate saḥ tyajan parityajan dehaṃ śarīraṃ “tyajan dehaṃ” iti prayāṇaviśeṣaṇārthaṃ, dehatyāgena prayāṇaṃ ātmanaḥ na svarūpanāśena ityarthaḥ saḥ evaṃ tyajan yāti gacchati paramāṃ prakṛṣṭāṃ gatim.", "tr": "'Uttering om, the one-syllabled Brahman…' Uttering, pronouncing, om, the one-syllabled Brahman — the syllable om that is the name of Brahman — and remembering, meditating on, me, the Lord, who am its meaning, he who departs, dies, leaving, giving up, the body — 'leaving the body' is to qualify the departure: the Self departs by leaving the body, not by the destruction of its own nature, that is — he, so leaving, goes to the supreme, the highest, goal."},
            ]),
         _v([
             "ananyacetāḥ satataṃ yo māṃ smarati nityaśaḥ |",
@@ -142,7 +142,7 @@ STOTRA = {
         ], "|| 14 ||",
            "For the yogin who remembers me constantly, with a mind that never strays elsewhere, I am easy to reach, Pārtha, ever disciplined as he is.",
            bhashya=[
-               "ananyacetāḥ iti. ananyacetāḥ na anyaviṣaye cetaḥ yasya saḥ ayaṃ ananyacetāḥ yogī satataṃ sarvadā yaḥ māṃ parameśvaraṃ smarati nityaśaḥ “satataṃ” iti nairantaryaṃ ucyate, “nityaśaḥ” iti dīrghakālaṃ ucyate”. na ṣaṇmāsaṃ saṃvatsaraṃ vā kiṃ tarhi? yāvajjīvaṃ nairantaryeṇa yaḥ māṃ smarati ityarthaḥ. tasya yoginaḥ ahaṃ sulabhaḥ sukhena labhyaḥ he pārtha, nityayuktasya sadā samāhitacittasya yoginaḥ. yataḥ evaṃ, ataḥ ananyacetāḥ san mayi sadā samāhitaḥ bhavet.",
+               {"text": "ananyacetāḥ iti. ananyacetāḥ na anyaviṣaye cetaḥ yasya saḥ ayaṃ ananyacetāḥ yogī satataṃ sarvadā yaḥ māṃ parameśvaraṃ smarati nityaśaḥ “satataṃ” iti nairantaryaṃ ucyate, “nityaśaḥ” iti dīrghakālaṃ ucyate”. na ṣaṇmāsaṃ saṃvatsaraṃ vā kiṃ tarhi? yāvajjīvaṃ nairantaryeṇa yaḥ māṃ smarati ityarthaḥ. tasya yoginaḥ ahaṃ sulabhaḥ sukhena labhyaḥ he pārtha, nityayuktasya sadā samāhitacittasya yoginaḥ. yataḥ evaṃ, ataḥ ananyacetāḥ san mayi sadā samāhitaḥ bhavet.", "tr": "'He whose mind does not go elsewhere…' He whose mind does not go to any other object, the yogin who constantly, at all times, remembers me, the supreme Lord, daily — 'constantly' expresses continuity, 'daily' a long time: not for six months or a year, but throughout life, continuously, whoever remembers me, that is — to that yogin I am easy to reach, easily attained, Pārtha, to the yogin ever disciplined, always of collected mind. Since this is so, one should be ever collected in me, with a mind that goes nowhere else."},
            ]),
         _v([
             "māmupetya punarjanma duḥkhālayamaśāśvatam |",
@@ -150,8 +150,8 @@ STOTRA = {
         ], "|| 15 ||",
            "Having come to me, the great souls do not come again to birth, that transient home of sorrow, for they have reached the highest perfection.",
            bhashya=[
-               {"text": "tava saulabhyena kiṃ syāt iti? ucyate, śṛṇu tat mama saulabhyena yat bhavati.", "intro": True},
-               "māṃ upetya iti. māṃ īśvaraṃ upetya madbhāvaṃ āpadya punarjanma punarutpattiṃ na āpnuvanti na prāpnuvanti. kiṃ viśiṣṭaṃ punarjanma na prāpnuvanti iti? tadviśeṣaṇaṃ āha – duḥkhālayaṃ duḥkhānāṃ ādhyātmikādīnāṃ ālayaṃ āśrayaṃ, ālīyante yasmin duḥkhāni iti duḥkhālayaṃ janma. na kevalaṃ duḥkhālayaṃ aśāśvataṃ anavasthitasvarūpaṃ ca. nāpnuvanti īdṛśaṃ punarjanma mahātmānaḥ yatayaḥ saṃsiddhiṃ mokṣākhyāṃ paramāṃ prakṛṣṭāṃ gatāḥ prāptāḥ. ye punaḥ māṃ na prāpnuvanti te punaḥ āvartante.",
+               {"text": "tava saulabhyena kiṃ syāt iti? ucyate, śṛṇu tat mama saulabhyena yat bhavati.", "intro": True, "tr": "What follows from your being easy to reach? It is said: hear what comes of my being easy to reach."},
+               {"text": "māṃ upetya iti. māṃ īśvaraṃ upetya madbhāvaṃ āpadya punarjanma punarutpattiṃ na āpnuvanti na prāpnuvanti. kiṃ viśiṣṭaṃ punarjanma na prāpnuvanti iti? tadviśeṣaṇaṃ āha – duḥkhālayaṃ duḥkhānāṃ ādhyātmikādīnāṃ ālayaṃ āśrayaṃ, ālīyante yasmin duḥkhāni iti duḥkhālayaṃ janma. na kevalaṃ duḥkhālayaṃ aśāśvataṃ anavasthitasvarūpaṃ ca. nāpnuvanti īdṛśaṃ punarjanma mahātmānaḥ yatayaḥ saṃsiddhiṃ mokṣākhyāṃ paramāṃ prakṛṣṭāṃ gatāḥ prāptāḥ. ye punaḥ māṃ na prāpnuvanti te punaḥ āvartante.", "tr": "'Having come to me…' Having come to me, the Lord, having attained my state, they do not obtain rebirth, arising again. What kind of rebirth do they not obtain? He gives its qualities: the home of sorrow — the abode, the resting place, of sorrows, those of the body and the rest; birth is the home of sorrow because sorrows settle in it. Not only the home of sorrow, but impermanent, of unstable nature. The great souls, the ascetics, who have gone to, attained, the supreme, the highest, perfection called liberation, do not obtain such rebirth. But those who do not attain me return again."},
            ]),
         _v([
             "ābrahmabhuvanāllokāḥ punarāvartino'rjuna |",
@@ -159,8 +159,8 @@ STOTRA = {
         ], "|| 16 ||",
            "All the worlds up to the realm of Brahmā return again, Arjuna; but for one who reaches me, son of Kuntī, there is no rebirth.",
            bhashya=[
-               {"text": "kiṃ punaḥ tvattaḥ anyat prāptāḥ punaḥ āvartante iti? ucyate –", "intro": True},
-               "ābrahmabhuvanāt iti. ābrahmabhuvanāt bhavanti asmin bhūtāni iti bhuvanaṃ. brahmaṇo bhuvanaṃ brahmabhuvanaṃ, brahmalokaḥ ityarthaḥ, ābrahmabhuvanāt saha brahmabhuvanena lokāḥ sarve punarāvartinaḥ punarāvartasvabhāvāḥ he arjuna, māṃ ekaṃ upetya tu kaunteya punarjanma punarutpattiḥ na vidyate.",
+               {"text": "kiṃ punaḥ tvattaḥ anyat prāptāḥ punaḥ āvartante iti? ucyate –", "intro": True, "tr": "Do those who attain something other than you return again? It is said:"},
+               {"text": "ābrahmabhuvanāt iti. ābrahmabhuvanāt bhavanti asmin bhūtāni iti bhuvanaṃ. brahmaṇo bhuvanaṃ brahmabhuvanaṃ, brahmalokaḥ ityarthaḥ, ābrahmabhuvanāt saha brahmabhuvanena lokāḥ sarve punarāvartinaḥ punarāvartasvabhāvāḥ he arjuna, māṃ ekaṃ upetya tu kaunteya punarjanma punarutpattiḥ na vidyate.", "tr": "'Up to the world of Brahmā…' Up to the world of Brahmā — a world, bhuvana, is that in which beings come to be; Brahmā's world, the world of Brahmā, that is — all worlds, including the world of Brahmā, are subject to return, of the nature to return again, Arjuna. But having come to me alone, Kaunteya, there is no rebirth, no arising again."},
            ]),
         _v([
             "sahasrayugaparyantamaharyadbrahmaṇo viduḥ |",
@@ -168,7 +168,7 @@ STOTRA = {
         ], "|| 17 ||",
            "Those who know that a day of Brahmā lasts a thousand ages, and that his night ends after a thousand ages, are knowers of day and night.",
            bhashya=[
-               {"text": "brahmalokasahitāḥ lokāḥ kasmāt punarāvartinaḥ? kālaparicchinnatvāt. katham?", "intro": True},
+               {"text": "brahmalokasahitāḥ lokāḥ kasmāt punarāvartinaḥ? kālaparicchinnatvāt. katham?", "intro": True, "tr": "Why are the worlds, including the world of Brahmā, subject to return? Because they are limited by time. How?"},
            ]),
         _v([
             "avyaktād vyaktayaḥ sarvāḥ prabhavantyaharāgame |",
@@ -176,9 +176,9 @@ STOTRA = {
         ], "|| 18 ||",
            "At the coming of that day all manifest things spring from the unmanifest; at the coming of that night they dissolve into that very thing called the unmanifest.",
            bhashya=[
-               {"text": "sahasra iti. sahasrayuga paryantaṃ sahasrāṇi yugāni paryantaṃ paryavasānaṃ yasya ahnaḥ tat ahaḥ sahasrayugaparyantaṃ brahmaṇaḥ prajāpateḥ virājaḥ viduḥ, rātriṃ api yugasahasrāntāṃ ahaḥ parimāṇāṃ eva. ke viduriti? āha – te ahorātravidaḥ kālasaṅkhyāvidaḥ janāḥ ityarthaḥ. yataḥ evaṃ kālaparicchinnāḥ te, ataḥ punarāvartinaḥ lokāḥ.", "intro": True},
-               {"text": "prajāpateḥ ahani yat bhavati rātrau ca, tat ucyate.", "intro": True},
-               "avyaktāt iti. avyaktāt avyaktaṃ prajāpateḥ svāpāvasthā, tasmāt avyaktāt vyaktayaḥ vyajyante iti vyaktayaḥ sthāvarajaṅgamalakṣaṇāḥ, sarvāḥ prajāḥ prabhavanti abhivyajyante, ahnaḥ āgamaḥ aharāgamaḥ tasmin aharāgame kāle brahmaṇaḥ prabodhakāle. tathā rātryāgame brahmaṇaḥ svāpakāle pralīyante sarvāḥ vyaktayaḥ tatra eva pūrvokte avyakta sañjñake.",
+               {"text": "sahasra iti. sahasrayuga paryantaṃ sahasrāṇi yugāni paryantaṃ paryavasānaṃ yasya ahnaḥ tat ahaḥ sahasrayugaparyantaṃ brahmaṇaḥ prajāpateḥ virājaḥ viduḥ, rātriṃ api yugasahasrāntāṃ ahaḥ parimāṇāṃ eva. ke viduriti? āha – te ahorātravidaḥ kālasaṅkhyāvidaḥ janāḥ ityarthaḥ. yataḥ evaṃ kālaparicchinnāḥ te, ataḥ punarāvartinaḥ lokāḥ.", "intro": True, "tr": "'Those who know that the day of Brahmā lasts a thousand ages…' They know the day of Brahmā, Prajāpati, Virāj, as lasting a thousand ages — the day whose limit, whose end, is a thousand ages — and his night too as ending after a thousand ages, of the same measure as the day. Who know this? He says: those men who know day and night, who know the reckoning of time, that is. Since they are thus limited by time, the worlds are subject to return."},
+               {"text": "prajāpateḥ ahani yat bhavati rātrau ca, tat ucyate.", "intro": True, "tr": "What happens in the day of Prajāpati and in his night is told:"},
+               {"text": "avyaktāt iti. avyaktāt avyaktaṃ prajāpateḥ svāpāvasthā, tasmāt avyaktāt vyaktayaḥ vyajyante iti vyaktayaḥ sthāvarajaṅgamalakṣaṇāḥ, sarvāḥ prajāḥ prabhavanti abhivyajyante, ahnaḥ āgamaḥ aharāgamaḥ tasmin aharāgame kāle brahmaṇaḥ prabodhakāle. tathā rātryāgame brahmaṇaḥ svāpakāle pralīyante sarvāḥ vyaktayaḥ tatra eva pūrvokte avyakta sañjñake.", "tr": "'From the unmanifest all manifest things come forth…' From the unmanifest — the unmanifest is the state of sleep of Prajāpati — from that unmanifest, all manifest things — called manifest because they are made manifest, moving and unmoving, all creatures — come forth, are manifested, at the coming of the day, at the time of Brahmā's waking. Likewise at the coming of the night, at the time of Brahmā's sleep, all manifest things dissolve in that same thing called the unmanifest, described before."},
            ]),
         _v([
             "bhūtagrāmaḥ sa evāyaṃ bhūtvā bhūtvā pralīyate |",
@@ -186,8 +186,8 @@ STOTRA = {
         ], "|| 19 ||",
            "This same multitude of beings, coming into being again and again, dissolves helplessly at the coming of night, Pārtha, and springs forth at the coming of day.",
            bhashya=[
-               {"text": "akṛtābhyāgamakṛtavipraṇāśadoṣaparihārārthaṃ, bandhamokṣaśāstra pravṛttisāphalya pradarśanārthaṃ, avidyādikleśamūlakarmāśayavaśācca avaśaḥ bhūtagrāmaḥ bhūtvā bhūtvā pralīyate ityataḥ saṃsāre vairāgyadarśanārthaṃ ca idam āha.", "intro": True},
-               "bhūtagrāmaḥ iti. bhūtagrāmaḥ sthāvarajaṅgamalakṣaṇaḥ yaḥ pūrvasmin kalpe āsīt sa eva ayaṃ nānyaḥ bhūtvā bhūtvā aharāgame, pralīyate punaḥ punaḥ rātryāgame ahnaḥ kṣaye avaśaḥ asvatantraḥ eva, he pārtha! prabhavati jāyate avaśaḥ eva aharāgame.",
+               {"text": "akṛtābhyāgamakṛtavipraṇāśadoṣaparihārārthaṃ, bandhamokṣaśāstra pravṛttisāphalya pradarśanārthaṃ, avidyādikleśamūlakarmāśayavaśācca avaśaḥ bhūtagrāmaḥ bhūtvā bhūtvā pralīyate ityataḥ saṃsāre vairāgyadarśanārthaṃ ca idam āha.", "intro": True, "tr": "To rule out the faults of reaping what was not done and losing what was done, to show that the teaching of scripture about bondage and liberation bears fruit, and to show dispassion towards saṃsāra — since the host of beings, helpless under the store of action rooted in ignorance and the other afflictions, comes to be again and again and dissolves — he says this:"},
+               {"text": "bhūtagrāmaḥ iti. bhūtagrāmaḥ sthāvarajaṅgamalakṣaṇaḥ yaḥ pūrvasmin kalpe āsīt sa eva ayaṃ nānyaḥ bhūtvā bhūtvā aharāgame, pralīyate punaḥ punaḥ rātryāgame ahnaḥ kṣaye avaśaḥ asvatantraḥ eva, he pārtha! prabhavati jāyate avaśaḥ eva aharāgame.", "tr": "'This same host of beings…' The host of beings, moving and unmoving, that existed in the previous aeon, is this very one and no other; coming to be again and again at the coming of the day, it dissolves again and again at the coming of the night, at the close of the day, helplessly, without freedom, Pārtha; and it comes forth, is born, helplessly at the coming of the day."},
            ]),
         _v([
             "parastasmāttu bhāvo'nyo'vyakto'vyaktātsanātanaḥ |",
@@ -195,8 +195,8 @@ STOTRA = {
         ], "|| 20 ||",
            "But beyond that unmanifest there is another, eternal, unmanifest Being, which does not perish when all beings perish.",
            bhashya=[
-               {"text": "yat upanyastaṃ akṣaraṃ tasya prāptyupāyo nirdiṣṭaḥ “omityekākṣaraṃ brahma” (8.13) ityādinā. atha idānīṃ akṣarasyaiva svarūpanirdidikṣayā idaṃ ucyate, anena yogamārgeṇa idaṃ gantavyaṃ iti.", "intro": True},
-               "paraḥ iti. paraḥ vyatiriktaḥ bhinnaḥ – kutaḥ? tasmāt pūrvoktāt. “tu” śabdaḥ akṣarasya vivakṣitasya avyaktāt vailakṣaṇyaviśeṣaṇārthaḥ. bhāvaḥ akṣarākhyaṃ paraṃ brahma. vyatiriktatve satyapi sālakṣaṇyaprasaṅgo'stīti tadvinivṛttyarthaṃ āha – anyaḥ iti. anyaḥ vilakṣaṇaḥ. sa ca avyaktaḥ anindriyagocaraḥ “parastasmāt” ityuktaṃ, kasmāt punaḥ paraḥ? pūrvoktāt bhūtagrāmabījabhūtāt avidyālakṣaṇāt avyaktāt anyaḥ vilakṣaṇaḥ bhāvaḥ ityabhiprāyaḥ. sanātanaḥ cirantanaḥ yaḥ saḥ bhāvaḥ sarveṣu bhūteṣu brahmādiṣu naśyatsu na vinaśyati.",
+               {"text": "yat upanyastaṃ akṣaraṃ tasya prāptyupāyo nirdiṣṭaḥ “omityekākṣaraṃ brahma” (8.13) ityādinā. atha idānīṃ akṣarasyaiva svarūpanirdidikṣayā idaṃ ucyate, anena yogamārgeṇa idaṃ gantavyaṃ iti.", "intro": True, "tr": "The means of attaining the imperishable that was introduced has been stated in 'om, the one-syllabled Brahman' (8.13) and so on. Now, wishing to point out the nature of the imperishable itself, this is said: this is what is to be reached by this path of yoga."},
+               {"text": "paraḥ iti. paraḥ vyatiriktaḥ bhinnaḥ – kutaḥ? tasmāt pūrvoktāt. “tu” śabdaḥ akṣarasya vivakṣitasya avyaktāt vailakṣaṇyaviśeṣaṇārthaḥ. bhāvaḥ akṣarākhyaṃ paraṃ brahma. vyatiriktatve satyapi sālakṣaṇyaprasaṅgo'stīti tadvinivṛttyarthaṃ āha – anyaḥ iti. anyaḥ vilakṣaṇaḥ. sa ca avyaktaḥ anindriyagocaraḥ “parastasmāt” ityuktaṃ, kasmāt punaḥ paraḥ? pūrvoktāt bhūtagrāmabījabhūtāt avidyālakṣaṇāt avyaktāt anyaḥ vilakṣaṇaḥ bhāvaḥ ityabhiprāyaḥ. sanātanaḥ cirantanaḥ yaḥ saḥ bhāvaḥ sarveṣu bhūteṣu brahmādiṣu naśyatsu na vinaśyati.", "tr": "'But beyond that is another being…' Beyond — distinct, different. From what? From that, described before. The word 'but' is to mark the distinctness of the imperishable meant here from the unmanifest. Being: the supreme Brahman called the imperishable. Though distinct, it might be thought to be of a like nature; to rule that out, he says 'another' — other, different in nature. And it is unmanifest, beyond the range of the senses. It was said 'beyond that'; beyond what? The purport is: a being other, different in nature, from the unmanifest described before, which is ignorance, the seed of the host of beings. Eternal, ancient: that being which does not perish when all beings, Brahmā and the rest, perish."},
            ]),
         _v([
             "avyakto'kṣara ityuktastamāhuḥ paramāṃ gatim |",
@@ -204,7 +204,7 @@ STOTRA = {
         ], "|| 21 ||",
            "That unmanifest is called the Imperishable; they call it the highest goal, reaching which none return. That is my supreme abode.",
            bhashya=[
-               "avyaktaḥ iti. yo'sau avyaktaḥ akṣaraḥ ityuktaḥ taṃ eva akṣarasañjñakaṃ avyaktaṃ bhāvaṃ āhuḥ paramāṃ prakṛṣṭāṃ gatim. yaṃ paraṃ bhāvaṃ prāpya gatvā na nivartante saṃsārāya, tat dhāma sthānaṃ paramaṃ prakṛṣṭaṃ mama, “viṣṇoḥ paramaṃ padam” (nṛ.pu.5.10) ityarthaḥ.",
+               {"text": "avyaktaḥ iti. yo'sau avyaktaḥ akṣaraḥ ityuktaḥ taṃ eva akṣarasañjñakaṃ avyaktaṃ bhāvaṃ āhuḥ paramāṃ prakṛṣṭāṃ gatim. yaṃ paraṃ bhāvaṃ prāpya gatvā na nivartante saṃsārāya, tat dhāma sthānaṃ paramaṃ prakṛṣṭaṃ mama, “viṣṇoḥ paramaṃ padam” (nṛ.pu.5.10) ityarthaḥ.", "tr": "'Called the unmanifest, the imperishable…' That unmanifest which was called the imperishable — that very unmanifest being, called the imperishable, they call the supreme, the highest, goal; that supreme being, reaching, going to, which they do not return to saṃsāra — that is my supreme, highest, abode, place: 'the supreme abode of Viṣṇu' (Nṛsiṃha Pūrvatāpanīya 5.10), that is."},
            ]),
         _v([
             "puruṣaḥ sa paraḥ pārtha bhaktyā labhyastvananyayā |",
@@ -212,8 +212,8 @@ STOTRA = {
         ], "|| 22 ||",
            "That supreme Person, Pārtha, within whom beings dwell and by whom all this is pervaded, is to be won by undivided devotion.",
            bhashya=[
-               {"text": "tallabdheḥ upāyaḥ ucyate –", "intro": True},
-               "puruṣaḥ iti. puruṣaḥ puri śayanāt pūrṇatvādvā, saḥ paraḥ pārthaḥ, paraḥ niratiśayaḥ, yasmāt puruṣāt na paraṃ kiñcit. saḥ bhaktyā labhyastu jñānalakṣaṇayā ananyayā ātmaviṣayayā (7.17) yasya puruṣasya antaḥsthāni madhyasthāni bhūtāni kāryabhūtāni, kāryaṃ hi kāraṇasya antarvarti bhavati. yena puruṣeṇa sarva idaṃ jagat tataṃ vyāptam ākāśeneva ghaṭādi.",
+               {"text": "tallabdheḥ upāyaḥ ucyate –", "intro": True, "tr": "The means of attaining it is told:"},
+               {"text": "puruṣaḥ iti. puruṣaḥ puri śayanāt pūrṇatvādvā, saḥ paraḥ pārthaḥ, paraḥ niratiśayaḥ, yasmāt puruṣāt na paraṃ kiñcit. saḥ bhaktyā labhyastu jñānalakṣaṇayā ananyayā ātmaviṣayayā (7.17) yasya puruṣasya antaḥsthāni madhyasthāni bhūtāni kāryabhūtāni, kāryaṃ hi kāraṇasya antarvarti bhavati. yena puruṣeṇa sarva idaṃ jagat tataṃ vyāptam ākāśeneva ghaṭādi.", "tr": "'That supreme puruṣa, Pārtha…' The puruṣa — so called from lying in the city of the body, or from being full — that supreme one, Pārtha, unsurpassed, than whom there is nothing higher, is to be attained by devotion that is knowledge, single, directed to the Self (7.17); within whom abide beings — in his midst are beings, his effects, for the effect lies within the cause — by whom, by which puruṣa, all this world is pervaded, as pots and the rest by space."},
            ]),
         _v([
             "yatra kāle tvanāvṛttimāvṛttiṃ caiva yoginaḥ |",
@@ -221,8 +221,8 @@ STOTRA = {
         ], "|| 23 ||",
            "Now I will tell you, O best of the Bhāratas, the times at which yogins who depart do not return, and at which they return.",
            bhashya=[
-               {"text": "prakṛtānāṃ yogināṃ praṇavāveśitabrahmabuddhīnāṃ kālāntaramuktibhājāṃ brahmapratipattaye uttaro mārgo vaktavyaḥ iti “yatra kāle” ityādi vivakṣitārthasamarpaṇārthaṃ ucyate āvṛttimārgopanyāsaḥ itaramārgastutyarthaḥ –", "intro": True},
-               "yatra iti. yatra kāle prayātāḥ iti vyavahitena sambandhaḥ. yatra yasmin kāle tu anāvṛttiṃ apunarjanma āvṛttiṃ tadviparītāṃ caiva. “yoginaḥ” iti yoginaḥ karmiṇaśca ucyante, karmiṇastu guṇataḥ “karmayogena yoginām” (3.3) iti viśeṣaṇāt – yoginaḥ yatra kāle prayātāḥ mṛtāḥ yoginaḥ anāvṛttiṃ yānti, yatra kāle ca prayātāḥ āvṛttiṃ yānti, taṃ kālaṃ vakṣyāmi bharatarṣabha.",
+               {"text": "prakṛtānāṃ yogināṃ praṇavāveśitabrahmabuddhīnāṃ kālāntaramuktibhājāṃ brahmapratipattaye uttaro mārgo vaktavyaḥ iti “yatra kāle” ityādi vivakṣitārthasamarpaṇārthaṃ ucyate āvṛttimārgopanyāsaḥ itaramārgastutyarthaḥ –", "intro": True, "tr": "For the yogins under discussion, who have fixed the idea of Brahman in the praṇava and are to gain liberation in course of time, the northern path to the attainment of Brahman is to be told; and so 'the time in which' and the following are said to convey what is meant. The setting out of the path of return is for praising the other path."},
+               {"text": "yatra iti. yatra kāle prayātāḥ iti vyavahitena sambandhaḥ. yatra yasmin kāle tu anāvṛttiṃ apunarjanma āvṛttiṃ tadviparītāṃ caiva. “yoginaḥ” iti yoginaḥ karmiṇaśca ucyante, karmiṇastu guṇataḥ “karmayogena yoginām” (3.3) iti viśeṣaṇāt – yoginaḥ yatra kāle prayātāḥ mṛtāḥ yoginaḥ anāvṛttiṃ yānti, yatra kāle ca prayātāḥ āvṛttiṃ yānti, taṃ kālaṃ vakṣyāmi bharatarṣabha.", "tr": "'At which time…' 'At which time … departing' — it is connected with the distant word. At which time, departing, yogins go to non-return, no rebirth, and also to return, its opposite. 'Yogins' means both yogins and men of action — men of action in a secondary sense, because of the qualification 'by the yoga of action, of the yogins' (3.3). The time at which yogins departing, dying, go to non-return, and the time at which departing they go to return — that time I will tell, bull of the Bharatas."},
            ]),
         _v([
             "agnirjyotirahaḥ śuklaḥ ṣaṇmāsā uttarāyaṇam |",
@@ -230,8 +230,8 @@ STOTRA = {
         ], "|| 24 ||",
            "Fire, light, day, the bright fortnight, the six months of the sun's northern course — departing by these, knowers of Brahman go to Brahman.",
            bhashya=[
-               {"text": "taṃ kālaṃ āha –", "intro": True},
-               "agniḥ iti. agniḥ kālābhimāninī devatā. tathā – jyotiḥ api devataiva kālābhimāninī. athavā agnijyotiṣī yathāśrute eva devate. bhūyasā tu nirdeśo “yatra kāle” “taṃ kālaṃ” iti, āmravanavat. tathā ahaḥ devatā aharabhimāninī, śuklaḥ śuklapakṣadevatā, ṣaṇmāsā uttarāyaṇaṃ, tatrāpi devatā eva mārgabhūtā iti sthitaḥ anyatra (bra.sū.bhāṣye.4.3.4) ayaṃ nyāyaḥ. tatra tasmin mārge prayātāḥ mṛtāḥ gacchanti brahma brahmavidaḥ brahmopāsakāḥ brahmopāsana parāḥ janāḥ. “krameṇa” iti vākyaśeṣaḥ, na hi sadyomuktibhājāṃ samyagdarśana niṣṭhānāṃ gatiḥ āgatirvā kvacit asti. “na tasya prāṇāḥ utkrāmanti” (bṛ.u.4.4.6) iti śruteḥ. brahmasaṃlīna prāṇāḥ eva te brahmamayāḥ brahmabhūtāḥ eva te.",
+               {"text": "taṃ kālaṃ āha –", "intro": True, "tr": "He tells that time:"},
+               {"text": "agniḥ iti. agniḥ kālābhimāninī devatā. tathā – jyotiḥ api devataiva kālābhimāninī. athavā agnijyotiṣī yathāśrute eva devate. bhūyasā tu nirdeśo “yatra kāle” “taṃ kālaṃ” iti, āmravanavat. tathā ahaḥ devatā aharabhimāninī, śuklaḥ śuklapakṣadevatā, ṣaṇmāsā uttarāyaṇaṃ, tatrāpi devatā eva mārgabhūtā iti sthitaḥ anyatra (bra.sū.bhāṣye.4.3.4) ayaṃ nyāyaḥ. tatra tasmin mārge prayātāḥ mṛtāḥ gacchanti brahma brahmavidaḥ brahmopāsakāḥ brahmopāsana parāḥ janāḥ. “krameṇa” iti vākyaśeṣaḥ, na hi sadyomuktibhājāṃ samyagdarśana niṣṭhānāṃ gatiḥ āgatirvā kvacit asti. “na tasya prāṇāḥ utkrāmanti” (bṛ.u.4.4.6) iti śruteḥ. brahmasaṃlīna prāṇāḥ eva te brahmamayāḥ brahmabhūtāḥ eva te.", "tr": "'Fire, light, day, the bright fortnight…' Fire is a deity presiding over time; light too is a deity presiding over time. Or else fire and light are deities just as heard. But it is called 'the time in which' and 'that time' because most of them are times, as one speaks of a mango grove [though other trees grow in it]. Likewise the day is the deity presiding over the day; the bright fortnight, the deity of the bright fortnight; the six months of the northern course — here too it is deities that form the path. This principle is established elsewhere (Brahmasūtra-bhāṣya 4.3.4). Departing, dying, by that path, the men who know Brahman — who meditate on Brahman, devoted to meditation on Brahman — go to Brahman. 'By stages' completes the sentence; for those steadfast in right vision, who gain immediate liberation, there is no going or coming anywhere, according to the śruti 'his life-breaths do not go out' (Bṛhadāraṇyaka 4.4.6). Their life-breaths are merged in Brahman; they are full of Brahman, they have become Brahman itself."},
            ]),
         _v([
             "dhūmo rātristathā kṛṣṇaḥ ṣaṇmāsā dakṣiṇāyanam |",
@@ -239,7 +239,7 @@ STOTRA = {
         ], "|| 25 ||",
            "Smoke, night, the dark fortnight, the six months of the southern course — by these the yogin reaches the light of the moon and returns.",
            bhashya=[
-               "dhūmaḥ iti. dhūmaḥ rātriḥ dhūmābhimāninī rātryabhimāninī ca devatā. tathā kṛṣṇaḥ kṛṣṇapakṣadevatā. ṣaṇmāsā dakṣiṇāyānaṃ iti ca pūrvavat devatā eva. tatra candramasi bhavaṃ cāndramasaṃ jyotiḥ phalaṃ iṣṭādikārī yogī karmī prāpya bhuktvā tatkṣayāt iha punaḥ nivartate.",
+               {"text": "dhūmaḥ iti. dhūmaḥ rātriḥ dhūmābhimāninī rātryabhimāninī ca devatā. tathā kṛṣṇaḥ kṛṣṇapakṣadevatā. ṣaṇmāsā dakṣiṇāyānaṃ iti ca pūrvavat devatā eva. tatra candramasi bhavaṃ cāndramasaṃ jyotiḥ phalaṃ iṣṭādikārī yogī karmī prāpya bhuktvā tatkṣayāt iha punaḥ nivartate.", "tr": "'Smoke, night, likewise the dark fortnight…' Smoke and night: the deities presiding over smoke and over night. Likewise the dark fortnight, the deity of the dark fortnight. The six months of the southern course too are deities, as before. There, by that path, the yogin — the man of action who performs sacrifices and the like — reaching the lunar light, the fruit that lies in the moon, enjoying it, returns here again when it is exhausted."},
            ]),
         _v([
             "śuklakṛṣṇe gatī hyete jagataḥ śāśvate mate |",
@@ -247,7 +247,7 @@ STOTRA = {
         ], "|| 26 ||",
            "These two paths of the world, the bright and the dark, are held to be eternal. By the one a man goes and does not return; by the other he returns again.",
            bhashya=[
-               "śukla iti. śuklakṛṣṇe śuklā ca kṛṣṇā ca śuklakṛṣṇe, jñānaprakāśakatvāt śuklā, tadabhāvāt kṛṣṇā, ete śuklakṛṣṇe hi gatī – jagataḥ iti adhikṛtānāṃ jñānakarmaṇoḥ, na jagataḥ sarvasya eva ete gatī sambhavataḥ śāśvate nitye, saṃsārasya nityatvāt, mate abhiprete. tatra ekayā śuklayā yāti anāvṛttiṃ, anyayā itarayā āvartate punaḥ bhūyaḥ.",
+               {"text": "śukla iti. śuklakṛṣṇe śuklā ca kṛṣṇā ca śuklakṛṣṇe, jñānaprakāśakatvāt śuklā, tadabhāvāt kṛṣṇā, ete śuklakṛṣṇe hi gatī – jagataḥ iti adhikṛtānāṃ jñānakarmaṇoḥ, na jagataḥ sarvasya eva ete gatī sambhavataḥ śāśvate nitye, saṃsārasya nityatvāt, mate abhiprete. tatra ekayā śuklayā yāti anāvṛttiṃ, anyayā itarayā āvartate punaḥ bhūyaḥ.", "tr": "'For these two paths, the bright and the dark…' The bright and the dark: the bright because it reveals knowledge, the dark because it lacks it. These two paths, bright and dark, of the world — that is, of those qualified for knowledge and action; these paths are not possible for the whole world — are held to be eternal, perpetual, because saṃsāra is perpetual. By one, the bright, one goes to non-return; by the other one returns again."},
            ]),
         _v([
             "naite sṛtī pārtha jānan yogī muhyati kaścana |",
@@ -255,7 +255,7 @@ STOTRA = {
         ], "|| 27 ||",
            "Knowing these two paths, Pārtha, no yogin is deluded. Therefore at all times be disciplined in yoga, Arjuna.",
            bhashya=[
-               "naite iti. na ete yathokte sṛtī mārgau pārtha! jānan “saṃsārāya ekā, anyā mokṣāya ca” iti, yogī na muhyati kaścana kaścidapi, tasmāt sarveṣu kāleṣu yogayuktaḥ samāhitaḥ bhava arjuna, śṛṇu tasya yogasya māhātmyam –",
+               {"text": "naite iti. na ete yathokte sṛtī mārgau pārtha! jānan “saṃsārāya ekā, anyā mokṣāya ca” iti, yogī na muhyati kaścana kaścidapi, tasmāt sarveṣu kāleṣu yogayuktaḥ samāhitaḥ bhava arjuna, śṛṇu tasya yogasya māhātmyam –", "tr": "'Knowing these two paths…' Knowing these two paths, these two ways as described, Pārtha — 'one is for saṃsāra, the other for liberation' — no yogin whatever is deluded. Therefore at all times be disciplined in yoga, collected, Arjuna. Hear the greatness of that yoga:"},
            ]),
         _v([
             "vedeṣu yajñeṣu tapassu caiva dāneṣu yatpuṇyaphalaṃ pradiṣṭam |",
@@ -263,7 +263,7 @@ STOTRA = {
         ], "|| 28 ||",
            "Whatever fruit of merit is declared for the Vedas, for sacrifices, austerities and gifts — the yogin who knows this passes beyond it all and reaches the supreme, primal abode.",
            bhashya=[
-               "vedeṣviti. vedeṣu samyagadhīteṣu yajñeṣu ca sādguṇyena anuṣṭhiteṣu tapaḥsu ca sutapteṣu dāneṣu ca samyagdatteṣu, eteṣu yat puṇyaphalaṃ pradiṣṭaṃ śāstreṇa, atyeti atītya gacchati tat sarvaṃ phalajātam, idaṃ viditvā saptapraśnanirṇayadvāreṇa uktaṃ arthaṃ samyak avadhārya anuṣṭhāya yogī, paraṃ utkṛṣṭaṃ aiśvaryaṃ sthānaṃ upaiti ca pratipadyate ādyaṃ ādau bhavaṃ, kāraṇaṃ brahma ityarthaḥ.",
+               {"text": "vedeṣviti. vedeṣu samyagadhīteṣu yajñeṣu ca sādguṇyena anuṣṭhiteṣu tapaḥsu ca sutapteṣu dāneṣu ca samyagdatteṣu, eteṣu yat puṇyaphalaṃ pradiṣṭaṃ śāstreṇa, atyeti atītya gacchati tat sarvaṃ phalajātam, idaṃ viditvā saptapraśnanirṇayadvāreṇa uktaṃ arthaṃ samyak avadhārya anuṣṭhāya yogī, paraṃ utkṛṣṭaṃ aiśvaryaṃ sthānaṃ upaiti ca pratipadyate ādyaṃ ādau bhavaṃ, kāraṇaṃ brahma ityarthaḥ.", "tr": "'Whatever fruit of merit is declared…' Whatever fruit of merit is declared by scripture for the Vedas, studied well; for sacrifices, performed with all their requisites; for austerities, well performed; and for gifts, rightly given — all that host of fruits the yogin goes beyond, surpasses, knowing this — having rightly grasped and practised what has been taught through the settling of the seven questions; and he reaches, attains, the supreme, the highest, place of sovereignty, the primal, that which was in the beginning — Brahman, the cause, that is."},
            ]),
         "ornament",
         {"colophon": "iti śrī mahābhārate śatasāhasryāṃ saṃhitāyāṃ vaiyāsikyāṃ bhīṣmaparvaṇi śrīmadbhagavadgītā – sūpaniṣatsu brahmavidyāyāṃ – yogaśāstre śrīkṛṣṇārjuna saṃvāde dhāraṇāyogo akṣaraparabrahmayogaḥ nāma aṣṭamo'dhyāyaḥ.", "gloss": "Thus, in the Bhagavad Gītā — the Upaniṣad, the knowledge of Brahman, the scripture of yoga, the dialogue of Śrī Kṛṣṇa and Arjuna — within the Bhīṣma Parva of the Mahābhārata, the collection of a hundred thousand verses by Vyāsa, ends the eighth chapter, Akṣarabrahma Yoga."},

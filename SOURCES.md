@@ -1127,8 +1127,13 @@ verse and bhāṣya paragraph, its *rā.kṛ.* and *a.a.* notes; Pullela's *pra-
 word-glosses and *Bālānandinī* exposition), prefaces, section titles and
 indexes are **not reproduced, paraphrased or translated here**. The verse
 translations are the maintainer's **original English, made from the
-Sanskrit**; the chapter notes are original; the bhāṣya is given in Sanskrit
-only (no translation, by choice). The editions' bracketed source references
+Sanskrit**; the chapter notes are original. The **bhāṣya translation** — an
+English rendering under every one of the 1,145 paragraphs (introduction,
+chapter prefaces and commentary) — is likewise the maintainer's original work,
+made directly from the collated Sanskrit; neither edition's Telugu nor any
+published English translation of the bhāṣya was consulted or paraphrased. It
+follows Śaṅkara's sentence order closely (glosses such as "X, that is, Y" are
+kept), and the scripture he cites is rendered afresh. The editions' bracketed source references
 inside the bhāṣya — e.g. *(2.19)*, *(bṛ.u.3.5.1)* — are kept, as they are
 factual citations of the passages Śaṅkara quotes.
 
@@ -1210,6 +1215,19 @@ book's avagraha or line-break joins and are resolved individually (*me'mṛtam*,
 *hiṃsālakṣaṇa*, *avidyādhyāropitaḥ* …); the book's gloss marker *iti :-* is
 written *iti :*; other dashes are en dashes. The speaker labels split across a
 line in the print (9.1, 18.74) are completed.
+
+**Later conversion fixes (2026-10-01).** The font's dagger glyph (†) is the
+book's semicolon; it had first been read as the syllable *nu* (giving stray
+forms like *adharmāyanu*), and 79 semicolons are restored. Compounds the print
+breaks across a line with a dash (*iṣṭāniṣṭa– janma*) are rejoined from a
+checked list; the remaining dashes are the book's own. Verse accuracy is
+unchanged, and the round-trip check still passes for all but the three
+standalone *oṃ* units.
+
+**Bhāṣya translation.** Each Sanskrit paragraph in a fold is followed by its
+English (`<p class="bh-tr">`, italic, set off by a rule on the left); the data
+files carry it as `{"text": …, "tr": …}`. The English is editable through
+*Suggest a correction* like every other gloss.
 
 **Site changes.** The shell gained a bhāṣya fold (`.bhashya`: justified
 Sanskrit prose, one `.sans` line per paragraph so it renders in all three

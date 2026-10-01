@@ -5,8 +5,8 @@
 # the Ramakrishna Math, Hyderabad edition (2013), whose legacy Telugu font was
 # mapped to Unicode glyph by glyph; its Telugu translation is not used. Collated
 # against Sanskrit Wikisource and the Pullela Śrīrāmacandruḍu edition; every
-# correction is logged in SOURCES §7.4. Verse translations are original; the
-# bhāṣya is untranslated. Generated from the collated text — edit here, not
+# correction is logged in SOURCES §7.4. The English of the verses and of the
+# bhāṣya is original, made from the Sanskrit. Generated from the collated text — edit here, not
 # upstream.
 
 
@@ -28,7 +28,7 @@ STOTRA = {
     "nav": [('‹ chapter 16', 'gita-bhashya-16-iast.html'), ('all chapters', '../../index.html#gita'), ('chapter 18 ›', 'gita-bhashya-18-iast.html')],
     "sections": [
         {"bhashya": [
-            "“tasmācchāstraṃ pramāṇaṃ te” iti bhagavadvākyāt labdhapraśnabījaḥ arjuna uvāca –",
+            {"text": "“tasmācchāstraṃ pramāṇaṃ te” iti bhagavadvākyāt labdhapraśnabījaḥ arjuna uvāca –", "tr": "Having gained the seed of a question from the Lord's words 'therefore let scripture be your authority', Arjuna said:"},
         ], "summary": "bhāṣya · the chapter's opening"},
         {"speaker": "arjuna uvāca"},
         _v([
@@ -37,7 +37,7 @@ STOTRA = {
         ], "|| 1 ||",
            "Arjuna said: Those who set aside the injunctions of scripture yet sacrifice with faith — what is their standing, Kṛṣṇa? Is it sattva, rajas or tamas?",
            bhashya=[
-               "ye iti. ye kecit aviśeṣitāḥ śāstravidhiṃ śāstravidhānaṃ śrutismṛti śāstra codanāṃ utsṛjya parityajya yajante devādīn pūjayanti śraddhayā anvitāḥ śraddhayā āstikyabuddhyā anvitāḥ saṃyuktāḥ santaḥ śrutilakṣaṇaṃ smṛtilakṣaṇaṃ vā kañcit śāstravidhiṃ apaśyantaḥ vṛddhavyavahāradarśanādeva śraddhānatayā ye devādīn pūjayanti te iha “ye śāstravidhimutsṛjya yajante śraddhayā'nvitāḥ” ityevaṃ gṛhyante. ye punaḥ kañcit śāstravidhiṃ upalabhamānā eva taṃ utsṛjya ayathāvidhi devādīn pūjayanti te iha “ye śāstravidhimutsṛjya yajante” iti na parigṛhyante. kasmāt? śraddhayā anvitatvaviśeṣaṇāt. devādipūjāvidhiparaṃ kiñcit śāstraṃ paśyanta eva tat utsṛjya aśraddhānatayā tadvihitāyāṃ devādipūjāyāṃ śraddhayā anvitāḥ pravartante iti na śakyaṃ kalpayituṃ yasmāt, tasmāt pūrvoktā eva “ye śāstravidhimutsṛjya yajante śraddhayā'nvitāḥ” ityatra gṛhyante. teṣāṃ evambhūtānāṃ niṣṭhā tu avasthānaṃ kā kṛṣṇa! sattvaṃ āho rajaḥ tamaḥ, kiṃ sattvaṃ niṣṭhā avasthānaṃ, āhosvit rajaḥ, athavā tamaḥ iti? etat uktaṃ bhavati – yā teṣāṃ devādiviṣayā pūjā, sā kiṃ sāttvikī āhosvit rājasī, uta tāmasī iti?",
+               {"text": "ye iti. ye kecit aviśeṣitāḥ śāstravidhiṃ śāstravidhānaṃ śrutismṛti śāstra codanāṃ utsṛjya parityajya yajante devādīn pūjayanti śraddhayā anvitāḥ śraddhayā āstikyabuddhyā anvitāḥ saṃyuktāḥ santaḥ śrutilakṣaṇaṃ smṛtilakṣaṇaṃ vā kañcit śāstravidhiṃ apaśyantaḥ vṛddhavyavahāradarśanādeva śraddhānatayā ye devādīn pūjayanti te iha “ye śāstravidhimutsṛjya yajante śraddhayā'nvitāḥ” ityevaṃ gṛhyante. ye punaḥ kañcit śāstravidhiṃ upalabhamānā eva taṃ utsṛjya ayathāvidhi devādīn pūjayanti te iha “ye śāstravidhimutsṛjya yajante” iti na parigṛhyante. kasmāt? śraddhayā anvitatvaviśeṣaṇāt. devādipūjāvidhiparaṃ kiñcit śāstraṃ paśyanta eva tat utsṛjya aśraddhānatayā tadvihitāyāṃ devādipūjāyāṃ śraddhayā anvitāḥ pravartante iti na śakyaṃ kalpayituṃ yasmāt, tasmāt pūrvoktā eva “ye śāstravidhimutsṛjya yajante śraddhayā'nvitāḥ” ityatra gṛhyante. teṣāṃ evambhūtānāṃ niṣṭhā tu avasthānaṃ kā kṛṣṇa! sattvaṃ āho rajaḥ tamaḥ, kiṃ sattvaṃ niṣṭhā avasthānaṃ, āhosvit rajaḥ, athavā tamaḥ iti? etat uktaṃ bhavati – yā teṣāṃ devādiviṣayā pūjā, sā kiṃ sāttvikī āhosvit rājasī, uta tāmasī iti?", "tr": "'Those who, setting aside the rule of scripture…' Those, whoever they may be, unspecified, who, setting aside, abandoning, the rule of scripture — the injunctions of śruti and smṛti — sacrifice, worship the gods and others, endowed with faith — joined with faith, belief in the unseen: those who, not seeing any rule of scripture in śruti or smṛti, worship the gods and others with faith simply from seeing the practice of their elders, are meant here by 'those who, setting aside the rule of scripture, sacrifice endowed with faith'. But those who, though they know some rule of scripture, set it aside and worship the gods and others not according to rule, are not meant here. Why? Because of the qualification 'endowed with faith'. For it cannot be supposed that people who see some scripture concerned with the rule of worship of the gods and the like, and set it aside out of lack of faith, would engage with faith in the worship of the gods that it enjoins. So only those described above are meant by 'those who, setting aside the rule of scripture, sacrifice endowed with faith'. Of such as these, what is the standing, the condition, O Kṛṣṇa — sattva, or rajas, or tamas? Is their standing sattva, or rajas, or else tamas? This is what is meant: is their worship of the gods and others sāttvika, rājasa or tāmasa?"},
            ]),
         {"speaker": "śrī bhagavānuvāca"},
         _v([
@@ -46,8 +46,8 @@ STOTRA = {
         ], "|| 2 ||",
            "The Blessed Lord said: The faith of embodied beings, born of their own nature, is threefold — sāttvika, rājasa and tāmasa. Hear of it.",
            bhashya=[
-               {"text": "sāmānyaviṣayaḥ ayaṃ praśnaḥ na apravibhajya prativacanaṃ arhatīti śrī", "intro": True},
-               "trividheti. trividhā triprakārā bhavati śraddhā, yasyāṃ niṣṭhāyāṃ tvaṃ pṛcchasi, dehināṃ śarīriṇāṃ sā svabhāvajā, janmāntarakṛtadharmādisaṃskārāḥ maraṇakāle abhivyaktaḥ “svabhāvaḥ” ucyate, tato jātā svabhāvajā, sāttvikī sattva nirvṛttā devapūjādiviṣayā. rājasī rajonirvṛttā yakṣarakṣaḥpūjādiviṣayā, tāmasī tamonirvṛttā preta piśācādi pūjādiviṣayā, evaṃ trividhāṃ tāmucyamānāṃ śraddhāṃ śṛṇu avadhāraya.",
+               {"text": "sāmānyaviṣayaḥ ayaṃ praśnaḥ na apravibhajya prativacanaṃ arhatīti śrī", "intro": True, "tr": "Since this question is general, it cannot be answered without distinguishing; so the Blessed [Lord said]:"},
+               {"text": "trividheti. trividhā triprakārā bhavati śraddhā, yasyāṃ niṣṭhāyāṃ tvaṃ pṛcchasi, dehināṃ śarīriṇāṃ sā svabhāvajā, janmāntarakṛtadharmādisaṃskārāḥ maraṇakāle abhivyaktaḥ “svabhāvaḥ” ucyate, tato jātā svabhāvajā, sāttvikī sattva nirvṛttā devapūjādiviṣayā. rājasī rajonirvṛttā yakṣarakṣaḥpūjādiviṣayā, tāmasī tamonirvṛttā preta piśācādi pūjādiviṣayā, evaṃ trividhāṃ tāmucyamānāṃ śraddhāṃ śṛṇu avadhāraya.", "tr": "'Threefold is faith…' Threefold, of three kinds, is faith — about which, as a standing, you ask — of embodied beings, those with bodies; it is born of their nature: the impressions of merit and the rest made in former births, manifest at the time of death, are called nature, and faith born of it is born of nature. Sāttvika, produced by sattva, concerned with the worship of the gods and the like; rājasa, produced by rajas, concerned with the worship of yakṣas, rākṣasas and the like; tāmasa, produced by tamas, concerned with the worship of ghosts, piśācas and the like. Hear, grasp, that faith, threefold in this way, as I tell it."},
            ]),
         _v([
             "sattvānurūpā sarvasya śraddhā bhavati bhārata |",
@@ -55,8 +55,8 @@ STOTRA = {
         ], "|| 3 ||",
            "The faith of each is in keeping with his inner being, O Bhārata. A person is made of faith; as his faith is, so is he.",
            bhashya=[
-               {"text": "sā iyaṃ trividhā bhavati –", "intro": True},
-               "sattvānurūpā viśiṣṭasaṃskāropetāntaḥkaraṇānurūpā sarvasya prāṇijātasya śraddhā bhavati, bhārata. yadyevaṃ tataḥ kiṃ syāditi, ucyate, śraddhāmayaḥ ayaṃ śraddhāprāyaḥ puruṣaḥ saṃsārī jīvaḥ, kathaṃ? yaḥ yacchraddhaḥ yā śraddhā yasya jīvasya, saḥ yacchraddhaḥ sa eva tacchraddhānurūpa eva saḥ jīvaḥ.",
+               {"text": "sā iyaṃ trividhā bhavati –", "intro": True, "tr": "This faith becomes threefold —"},
+               {"text": "sattvānurūpā viśiṣṭasaṃskāropetāntaḥkaraṇānurūpā sarvasya prāṇijātasya śraddhā bhavati, bhārata. yadyevaṃ tataḥ kiṃ syāditi, ucyate, śraddhāmayaḥ ayaṃ śraddhāprāyaḥ puruṣaḥ saṃsārī jīvaḥ, kathaṃ? yaḥ yacchraddhaḥ yā śraddhā yasya jīvasya, saḥ yacchraddhaḥ sa eva tacchraddhānurūpa eva saḥ jīvaḥ.", "tr": "The faith of everyone, of every living being, is in accordance with his mind — with his inner organ, endowed with its particular impressions — O Bhārata. If so, what follows? It is said: this puruṣa, the living being in saṃsāra, is made of faith, consists mostly of faith. How? He is whatever his faith is: whatever faith a living being has, he is that — that living being is just in accordance with that faith."},
            ]),
         _v([
             "yajante sāttvikā devān yakṣarakṣāṃsi rājasāḥ |",
@@ -64,8 +64,8 @@ STOTRA = {
         ], "|| 4 ||",
            "The sāttvika worship the gods; the rājasa worship yakṣas and rākṣasas; and the others, tāmasa people, worship ghosts and hosts of spirits.",
            bhashya=[
-               {"text": "tataśca kāryeṇa liṅgena devādipūjayā sattvādi niṣṭhā anumeyā ityāha.", "intro": True},
-               "yajante pūjayanti sāttvikāḥ sattvaniṣṭhāḥ devān, yakṣarakṣāṃsi rājasāḥ, pretān bhūtagaṇāṃśca saptamātṛkādīṃśca anye yajante tāmasāḥ janāḥ.",
+               {"text": "tataśca kāryeṇa liṅgena devādipūjayā sattvādi niṣṭhā anumeyā ityāha.", "intro": True, "tr": "And so he says that standing in sattva and the rest is to be inferred from its effect, the mark of worshipping gods and the rest:"},
+               {"text": "yajante pūjayanti sāttvikāḥ sattvaniṣṭhāḥ devān, yakṣarakṣāṃsi rājasāḥ, pretān bhūtagaṇāṃśca saptamātṛkādīṃśca anye yajante tāmasāḥ janāḥ.", "tr": "The sāttvika, those standing in sattva, sacrifice to, worship, the gods; the rājasa, to yakṣas and rākṣasas; others, the tāmasa people, worship ghosts and the hosts of spirits, the Seven Mothers and the like."},
            ]),
         _v([
             "aśāstravihitaṃ ghoraṃ tapyante ye tapo janāḥ |",
@@ -73,8 +73,8 @@ STOTRA = {
         ], "|| 5 ||",
            "Those people who practise terrible austerities not enjoined by scripture, given to hypocrisy and egoism, driven by the force of desire and passion,",
            bhashya=[
-               {"text": "evaṃ kāryato nirṇītaḥ sattvādiniṣṭhāḥ śāstravidhyutsarge. tatra kaścideva sahasreṣu devapūjādiparaḥ. sattvaniṣṭho bhavati, bāhulyena tu rajoniṣṭhāḥ tamoniṣṭhāścaiva prāṇino bhavanti. kathaṃ?", "intro": True},
-               "aśāstravihitanna śāstravihitaṃ ghoraṃ pīḍākaraṃ prāṇināmātmanaśca tapaḥ tapyante nirvartayanti ye tapo janāḥ, te ca dambhāhaṅkārasaṃyuktāḥ, dambhaśca ahaṅkāraśca dambhāhaṅkārau, tābhyāṃ saṃyuktāḥ dambhāhaṅkārasaṃyuktāḥ, kāmarāgabalānvitāḥ kāmaśca rāgaśca kāmarāgau tatkṛtaṃ balaṃ kāmarāgabalaṃ tena anvitāḥ kāmarāgabalānvitāḥ.",
+               {"text": "evaṃ kāryato nirṇītaḥ sattvādiniṣṭhāḥ śāstravidhyutsarge. tatra kaścideva sahasreṣu devapūjādiparaḥ. sattvaniṣṭho bhavati, bāhulyena tu rajoniṣṭhāḥ tamoniṣṭhāścaiva prāṇino bhavanti. kathaṃ?", "intro": True, "tr": "Thus standing in sattva and the rest is determined from its effect when the rule of scripture is set aside. Among these, only one in thousands is devoted to the worship of the gods and the like and stands in sattva; for the most part living beings stand in rajas and tamas. How?"},
+               {"text": "aśāstravihitanna śāstravihitaṃ ghoraṃ pīḍākaraṃ prāṇināmātmanaśca tapaḥ tapyante nirvartayanti ye tapo janāḥ, te ca dambhāhaṅkārasaṃyuktāḥ, dambhaśca ahaṅkāraśca dambhāhaṅkārau, tābhyāṃ saṃyuktāḥ dambhāhaṅkārasaṃyuktāḥ, kāmarāgabalānvitāḥ kāmaśca rāgaśca kāmarāgau tatkṛtaṃ balaṃ kāmarāgabalaṃ tena anvitāḥ kāmarāgabalānvitāḥ.", "tr": "The people who practise, perform, terrible austerity — causing pain to living beings and to themselves — not enjoined by scripture; and they are full of ostentation and egoism, joined with them; possessed of the force of desire and passion — desire and passion, and the force they produce, possessed of that —"},
            ]),
         _v([
             "karśayantaśśarīrasthaṃ bhūtagrāmamacetasaḥ |",
@@ -82,7 +82,7 @@ STOTRA = {
         ], "|| 6 ||",
            "senseless, tormenting the aggregate of elements in the body, and me too who dwell within the body — know them to be of demonic resolve.",
            bhashya=[
-               "karśayantaḥ kṛśīkurvantaḥ, śarīrasthaṃ bhūtagrāmaṃ karaṇasamudāyaṃ, acetasaḥ avivekinaḥ, māṃ caiva tatkarmabuddhisākṣibhūtaṃ antaśśarīrasthaṃ nārāyaṇaṃ karśayantaḥ, madanuśāsanākaraṇameva matkarśanaṃ, tān viddhi āsuraniścayān, āsuro niścayo yeṣāṃ te āsuraniścayāḥ, tān pariharaṇārthaṃ viddhi iti upadeśaḥ.",
+               {"text": "karśayantaḥ kṛśīkurvantaḥ, śarīrasthaṃ bhūtagrāmaṃ karaṇasamudāyaṃ, acetasaḥ avivekinaḥ, māṃ caiva tatkarmabuddhisākṣibhūtaṃ antaśśarīrasthaṃ nārāyaṇaṃ karśayantaḥ, madanuśāsanākaraṇameva matkarśanaṃ, tān viddhi āsuraniścayān, āsuro niścayo yeṣāṃ te āsuraniścayāḥ, tān pariharaṇārthaṃ viddhi iti upadeśaḥ.", "tr": "Torturing, wasting, the aggregate of elements, the host of senses, in the body, senseless, undiscriminating; and torturing me too, Nārāyaṇa, dwelling within the body, the witness of their actions and understanding — not doing as I command is torturing me — know them to be of demonic resolve: those whose resolve is demonic. Know them so as to avoid them — this is the teaching."},
            ]),
         _v([
             "āhārastvapi sarvasya trividho bhavati priyaḥ |",
@@ -90,8 +90,8 @@ STOTRA = {
         ], "|| 7 ||",
            "Even the food that is dear to each is of three kinds, and so are sacrifice, austerity and giving. Hear the distinction between them.",
            bhashya=[
-               {"text": "āhārādīnāṃ ca rasyasnigdhādivargatrayarūpeṇa bhinnānāṃ yathākramaṃ sāttvika rājasatāmasa puruṣapriyatvapradarśanaṃ iha kriyate – rasyasnigdhādiṣu āhāraviśeṣeṣu ātmanaḥ prītyatirekeṇa liṅgena sāttvikatvaṃ rājasatvaṃ ca buddhvā rajastamoliṅgānāmāhārāṇāṃ parivarjanārthaṃ sattvaliṅgānāṃ copādanārthaṃ. tathā yajñādīnāmapi sattvādiguṇabhedena trividhatva pratipādanaṃ iha “rājasatāmasān buddhvā kathaṃ nu nāma parityajet, sāttvikāneva anutiṣṭhet” ityevamarthaṃ āha.", "intro": True},
-               "āhārastvapi sarvasya bhoktuḥ prāṇinaḥ trividho bhavati priyaḥ iṣṭaḥ, tathā yajñaḥ, tathā tapaḥ tathā dānaṃ. teṣāṃ āhārādīnāṃ bhedamimaṃ vakṣyamāṇaṃ śṛṇu.",
+               {"text": "āhārādīnāṃ ca rasyasnigdhādivargatrayarūpeṇa bhinnānāṃ yathākramaṃ sāttvika rājasatāmasa puruṣapriyatvapradarśanaṃ iha kriyate – rasyasnigdhādiṣu āhāraviśeṣeṣu ātmanaḥ prītyatirekeṇa liṅgena sāttvikatvaṃ rājasatvaṃ ca buddhvā rajastamoliṅgānāmāhārāṇāṃ parivarjanārthaṃ sattvaliṅgānāṃ copādanārthaṃ. tathā yajñādīnāmapi sattvādiguṇabhedena trividhatva pratipādanaṃ iha “rājasatāmasān buddhvā kathaṃ nu nāma parityajet, sāttvikāneva anutiṣṭhet” ityevamarthaṃ āha.", "intro": True, "tr": "Here it is shown that foods and the rest, divided into three groups such as the savoury and oily, are dear in order to sāttvika, rājasa and tāmasa people — so that, recognising one's own sāttvika or rājasa character by the mark of one's special liking for kinds of food such as the savoury and oily, one may avoid foods that are marks of rajas and tamas and take up those that are marks of sattva. Likewise the threefoldness of sacrifice and the rest according to the guṇas sattva and the rest is taught here so that, recognising the rājasa and tāmasa, one may somehow give them up and practise only the sāttvika. So he says:"},
+               {"text": "āhārastvapi sarvasya bhoktuḥ prāṇinaḥ trividho bhavati priyaḥ iṣṭaḥ, tathā yajñaḥ, tathā tapaḥ tathā dānaṃ. teṣāṃ āhārādīnāṃ bhedamimaṃ vakṣyamāṇaṃ śṛṇu.", "tr": "Even the food dear to, liked by, each eater, each living being, is of three kinds; so are sacrifice, austerity and charity. Hear this distinction among them, food and the rest, which is about to be told."},
            ]),
         _v([
             "āyussattvabalārogyasukhaprītivivardhanāḥ |",
@@ -99,7 +99,7 @@ STOTRA = {
         ], "|| 8 ||",
            "Foods that increase life, vigour, strength, health, happiness and cheerfulness, that are savoury, rich, nourishing and agreeable, are dear to the sāttvika.",
            bhashya=[
-               "āyuśca sattvaṃ ca balaṃ ca ārogyaṃ ca sukhaṃ ca prītiśca āyussattvabalārogya sukhaprītayaḥ tāsāmāyussattvādīnāṃ vivardhanāḥ āyussattvabalārogyasukhaprīti vivardhanāḥ, te ca rasyāḥ rasopetāḥ, snigdhāḥ snehavantaḥ, sthirāḥ cirakālasthāyinaḥ dehe, hṛdyāḥ hṛdayapriyāḥ āhārāḥ sāttvikapriyāḥ sāttvikasya iṣṭāḥ.",
+               {"text": "āyuśca sattvaṃ ca balaṃ ca ārogyaṃ ca sukhaṃ ca prītiśca āyussattvabalārogya sukhaprītayaḥ tāsāmāyussattvādīnāṃ vivardhanāḥ āyussattvabalārogyasukhaprīti vivardhanāḥ, te ca rasyāḥ rasopetāḥ, snigdhāḥ snehavantaḥ, sthirāḥ cirakālasthāyinaḥ dehe, hṛdyāḥ hṛdayapriyāḥ āhārāḥ sāttvikapriyāḥ sāttvikasya iṣṭāḥ.", "tr": "Life, sattva, strength, health, happiness and cheerfulness — foods that increase these, life, sattva and the rest; and they are savoury, full of flavour; oily, having fat; substantial, lasting long in the body; pleasing to the heart — such foods are dear to the sāttvika, liked by the sāttvika man."},
            ]),
         _v([
             "kaṭvamlalavaṇātyuṣṇatīkṣṇarūkṣavidāhinaḥ |",
@@ -107,7 +107,7 @@ STOTRA = {
         ], "|| 9 ||",
            "Foods that are bitter, sour, salty, very hot, pungent, dry and burning, which cause pain, grief and sickness, are dear to the rājasa.",
            bhashya=[
-               "kaṭvamlalavaṇātyuṣṇa tīkṣa rūkṣa vidāhinaḥ ityatra ati śabdaḥ kaṭvādiṣu sarvatra yojyaḥ, ati kaṭuḥ atitīkṣaḥ ityevaṃ kaṭuśca amlaśca lavaṇaśca atyuṣṇaśca ati tīkṣaśca rūkṣaśca vidāhī ca te āhārāḥ rājasasyeṣṭāḥ duḥkhaśokāmayapradāḥ duḥkhaṃ ca śokaṃ ca āmayaṃ ca prayacchantīti duḥkhaśokāmayapradāḥ.",
+               {"text": "kaṭvamlalavaṇātyuṣṇa tīkṣa rūkṣa vidāhinaḥ ityatra ati śabdaḥ kaṭvādiṣu sarvatra yojyaḥ, ati kaṭuḥ atitīkṣaḥ ityevaṃ kaṭuśca amlaśca lavaṇaśca atyuṣṇaśca ati tīkṣaśca rūkṣaśca vidāhī ca te āhārāḥ rājasasyeṣṭāḥ duḥkhaśokāmayapradāḥ duḥkhaṃ ca śokaṃ ca āmayaṃ ca prayacchantīti duḥkhaśokāmayapradāḥ.", "tr": "In 'bitter, sour, salty, very hot, pungent, dry and burning' the word 'very' is to be joined with each — very bitter, very pungent, and so on. Foods that are bitter, sour, salty, very hot, very pungent, dry and burning are liked by the rājasa man; they give pain, grief and disease — they bestow pain, grief and sickness."},
            ]),
         _v([
             "yātayāmaṃ gatarasaṃ pūti paryuṣitaṃ ca yat |",
@@ -115,7 +115,7 @@ STOTRA = {
         ], "|| 10 ||",
            "Food that is stale, tasteless, putrid and left overnight, leftovers and what is impure, is dear to the tāmasa.",
            bhashya=[
-               "yātayāmaṃ mandapakvaṃ nirvīryasya gatarasaśabdenoktatvāt. gatarasaṃ rasaviyuktaṃ, pūti durgandhi, paryuṣitaṃ ca pakvaṃ sat rātryantaritaṃ ca yat, ucchiṣṭamapi bhuktaśiṣṭamucchiṣṭaṃ, amedhyaṃ ayajñārhaṃ, bhojanam īdṛśaṃ tāmasapriyam.",
+               {"text": "yātayāmaṃ mandapakvaṃ nirvīryasya gatarasaśabdenoktatvāt. gatarasaṃ rasaviyuktaṃ, pūti durgandhi, paryuṣitaṃ ca pakvaṃ sat rātryantaritaṃ ca yat, ucchiṣṭamapi bhuktaśiṣṭamucchiṣṭaṃ, amedhyaṃ ayajñārhaṃ, bhojanam īdṛśaṃ tāmasapriyam.", "tr": "Stale: half-cooked, since 'devoid of strength' is expressed by 'tasteless'. Tasteless, devoid of flavour; putrid, foul-smelling; and stale, cooked and kept overnight; leftovers too — what remains after eating; and impure, unfit for sacrifice: such food is dear to the tāmasa man."},
            ]),
         _v([
             "aphalākāṅkṣibhiryajño vidhidṛṣṭo ya ijyate |",
@@ -123,8 +123,8 @@ STOTRA = {
         ], "|| 11 ||",
            "Sacrifice offered according to the rule by those who desire no fruit, with the mind fixed on the thought that it simply ought to be done, is sāttvika.",
            bhashya=[
-               {"text": "adha idānīṃ yajñaḥ trividha ucyate –", "intro": True},
-               "aphalākāṅkṣibhiḥ aphalārthibhiḥ yajñaḥ vidhidṛṣṭaḥ śāstracodanādṛṣṭaḥ yaḥ yajñaḥ ijyate nirvartyate, yaṣṭavyameveti yajñasvarūpanirvartanameva kāryamiti manassamādhāya, nānena puruṣārtho mama kartavya ityevaṃ niścitya, saḥ sāttviko yajña ucyate.",
+               {"text": "adha idānīṃ yajñaḥ trividha ucyate –", "intro": True, "tr": "Now sacrifice is told as threefold:"},
+               {"text": "aphalākāṅkṣibhiḥ aphalārthibhiḥ yajñaḥ vidhidṛṣṭaḥ śāstracodanādṛṣṭaḥ yaḥ yajñaḥ ijyate nirvartyate, yaṣṭavyameveti yajñasvarūpanirvartanameva kāryamiti manassamādhāya, nānena puruṣārtho mama kartavya ityevaṃ niścitya, saḥ sāttviko yajña ucyate.", "tr": "The sacrifice which is offered, performed, by those who do not seek fruit, who do not desire fruit; seen in the rule, seen in the injunctions of scripture; with the mind fixed on 'it ought to be offered' — only accomplishing the sacrifice as such is the duty; resolved that 'no human end of mine is to be achieved by it' — that is called a sāttvika sacrifice."},
            ]),
         _v([
             "abhisandhāya tu phalaṃ dambhārthamapi caiva yat |",
@@ -132,7 +132,7 @@ STOTRA = {
         ], "|| 12 ||",
            "But know, O best of the Bhāratas, that sacrifice offered with an eye to its fruit, or for display, is rājasa.",
            bhashya=[
-               "abhisandhāya tu uddiśya phalaṃ, dambhārthamapicaiva yadijyate, bharataśreṣṭha, taṃ yajñaṃ viddhi rājasam.",
+               {"text": "abhisandhāya tu uddiśya phalaṃ, dambhārthamapicaiva yadijyate, bharataśreṣṭha, taṃ yajñaṃ viddhi rājasam.", "tr": "But that which is offered with a view to fruit, aiming at it, and also for ostentation, O best of the Bharatas — know that sacrifice to be rājasa."},
            ]),
         _v([
             "vidhihīnamasṛṣṭānnaṃ mantrahīnamadakṣiṇam |",
@@ -140,7 +140,7 @@ STOTRA = {
         ], "|| 13 ||",
            "Sacrifice without regard to the rule, in which no food is distributed, without mantras, without gifts to the priests and without faith, is called tāmasa.",
            bhashya=[
-               "vidhihīnaṃ yathācoditaviparītaṃ, asṛṣṭānnaṃ brāhmaṇebhyo na sṛṣṭaṃ na dattamannaṃ yasmin yajñe saḥ asṛṣṭānnaḥ taṃ asṛṣṭānnaṃ, mantrahīnaṃ mantrataḥ svarataḥ varṇato vā viyuktaṃ mantrahīnaṃ, adakṣiṇaṃ uktadakṣiṇārahitaṃ, śraddhāvirahitaṃ yajñaṃ tāmasaṃ paricakṣate tamonirvṛttaṃ kathayanti.",
+               {"text": "vidhihīnaṃ yathācoditaviparītaṃ, asṛṣṭānnaṃ brāhmaṇebhyo na sṛṣṭaṃ na dattamannaṃ yasmin yajñe saḥ asṛṣṭānnaḥ taṃ asṛṣṭānnaṃ, mantrahīnaṃ mantrataḥ svarataḥ varṇato vā viyuktaṃ mantrahīnaṃ, adakṣiṇaṃ uktadakṣiṇārahitaṃ, śraddhāvirahitaṃ yajñaṃ tāmasaṃ paricakṣate tamonirvṛttaṃ kathayanti.", "tr": "Without rule — contrary to what is enjoined; without distribution of food — a sacrifice in which no food is given away, bestowed, on brāhmaṇas; without mantras — lacking in mantra, in accent or in syllables; without fees — lacking the prescribed fees; devoid of faith — such a sacrifice they call tāmasa, say is produced by tamas."},
            ]),
         _v([
             "devadvijaguruprājñapūjanaṃ śaucamārjavam |",
@@ -148,8 +148,8 @@ STOTRA = {
         ], "|| 14 ||",
            "Worship of the gods, the twice-born, teachers and the wise; purity, uprightness, celibacy and non-violence — this is called austerity of the body.",
            bhashya=[
-               {"text": "athedānīṃ tapaḥ trividhamucyate –", "intro": True},
-               "devāśca dvijāśca guravaśca prāṅjāśca devadvijaguruprājñāḥ teṣāṃ pūjanaṃ devadvijaguru prājñapūjanaṃ, śaucaṃ, ārjavaṃ, ṛjutvaṃ brahmacaryamahiṃsā ca śarīranirvartyaṃ śārīraṃ śarīrapradhānaiḥ sarvaireva kāryakaraṇaiḥ kartrādibhiḥ sādhyaṃ śārīraṃ tapaḥ ucyate. “pañcaite tasya hetavaḥ” iti vakṣyati.",
+               {"text": "athedānīṃ tapaḥ trividhamucyate –", "intro": True, "tr": "Now austerity is told as threefold:"},
+               {"text": "devāśca dvijāśca guravaśca prāṅjāśca devadvijaguruprājñāḥ teṣāṃ pūjanaṃ devadvijaguru prājñapūjanaṃ, śaucaṃ, ārjavaṃ, ṛjutvaṃ brahmacaryamahiṃsā ca śarīranirvartyaṃ śārīraṃ śarīrapradhānaiḥ sarvaireva kāryakaraṇaiḥ kartrādibhiḥ sādhyaṃ śārīraṃ tapaḥ ucyate. “pañcaite tasya hetavaḥ” iti vakṣyati.", "tr": "Worship of gods, the twice-born, teachers and the wise — gods, twice-born, teachers and wise men, and the worship of them; purity; straightforwardness, uprightness; celibacy and non-violence — these, accomplished by the body, are called austerity of the body: to be achieved by all the factors, agent and the rest, with the body predominant. He will say, 'these five are its causes' (18.15)."},
            ]),
         _v([
             "anudvegakaraṃ vākyaṃ satyaṃ priyahitaṃ ca yat |",
@@ -157,7 +157,7 @@ STOTRA = {
         ], "|| 15 ||",
            "Speech that causes no agitation, that is truthful, pleasant and beneficial, and the practice of study of scripture — this is called austerity of speech.",
            bhashya=[
-               "anudvegakaraṃ prāṇināṃ aduḥkhakaraṃ vākyaṃ satyaṃ priyahitaṃ ca yat – priyahite dṛṣṭādṛṣṭārthe. anudvegakaratvādibhiḥ dharmaiḥ vākyaṃ viśeṣyate. viśeṣaṇadharmasamuccayārthaṃ caśabdaḥ. parapratyayārthaṃ prayuktasya vākyasya satyapriyahitānudvegakaratvānāṃ anyatamena dvābhyāṃ tribhirvāhīnatā syādyadi, na tat vāṅmayaṃ tapaḥ. tathā satyavākyasya itareṣāṃ anyatamena dvābhyāṃ tribhirvā vihīnatāyāṃ na vāṅmayatapastvam. tathā priyavākyasyāpi itareṣāṃ anyatamena dvābhyāṃ tribhirvā vihīnasya na vāṅmayatapastvam. tathā hitavākyasyāpi itareṣāṃ anyatamena dvābhyāṃ tribhirvā vihīnasya na vāṅmayatapastvam. kiṃ punaḥ tat tapaḥ? yat satyaṃ vākyaṃ anudvegakaraṃ priyaṃ hitaṃ ca tat tapaḥ vāṅmayaṃ, yathā “śāntobhava vatsa! svādhyāyaṃ yogaṃ ca anutiṣṭha. tathā te śreyo bhaviṣyati” iti. svādhyāyābhyasanaṃ ca eva yathāvidhi vāṅmayaṃ tapaḥ ucyate.",
+               {"text": "anudvegakaraṃ prāṇināṃ aduḥkhakaraṃ vākyaṃ satyaṃ priyahitaṃ ca yat – priyahite dṛṣṭādṛṣṭārthe. anudvegakaratvādibhiḥ dharmaiḥ vākyaṃ viśeṣyate. viśeṣaṇadharmasamuccayārthaṃ caśabdaḥ. parapratyayārthaṃ prayuktasya vākyasya satyapriyahitānudvegakaratvānāṃ anyatamena dvābhyāṃ tribhirvāhīnatā syādyadi, na tat vāṅmayaṃ tapaḥ. tathā satyavākyasya itareṣāṃ anyatamena dvābhyāṃ tribhirvā vihīnatāyāṃ na vāṅmayatapastvam. tathā priyavākyasyāpi itareṣāṃ anyatamena dvābhyāṃ tribhirvā vihīnasya na vāṅmayatapastvam. tathā hitavākyasyāpi itareṣāṃ anyatamena dvābhyāṃ tribhirvā vihīnasya na vāṅmayatapastvam. kiṃ punaḥ tat tapaḥ? yat satyaṃ vākyaṃ anudvegakaraṃ priyaṃ hitaṃ ca tat tapaḥ vāṅmayaṃ, yathā “śāntobhava vatsa! svādhyāyaṃ yogaṃ ca anutiṣṭha. tathā te śreyo bhaviṣyati” iti. svādhyāyābhyasanaṃ ca eva yathāvidhi vāṅmayaṃ tapaḥ ucyate.", "tr": "Speech that causes no agitation — no pain to living beings — that is true, pleasant and beneficial — pleasant and beneficial with regard to seen and unseen ends. Speech is qualified by the attributes of causing no agitation and the rest; 'and' is to gather the qualifying attributes together. If speech used to convey something to another lacks one, two or three of truth, pleasantness, benefit and causing no agitation, it is not austerity of speech. Likewise true speech lacking one, two or three of the others is not austerity of speech; likewise pleasant speech lacking one, two or three of the others; likewise beneficial speech lacking one, two or three of the others. What, then, is that austerity? Speech that is true, causes no agitation, is pleasant and beneficial is austerity of speech — for example, 'Be calm, my child; practise study and yoga; so it will be well with you.' And the practice of recitation according to rule is called austerity of speech."},
            ]),
         _v([
             "manaḥprasādaḥ saumyatvaṃ maunamātma vinigrahaḥ |",
@@ -165,7 +165,7 @@ STOTRA = {
         ], "|| 16 ||",
            "Serenity of mind, gentleness, silence, self-restraint and purity of disposition — this is called austerity of the mind.",
            bhashya=[
-               "manaḥ prasādaḥ manasaḥ praśāntiḥ svacchatāpādanaṃ prasādaḥ, saumyatvaṃ yatsaumanasyamāhuḥ, mukhādiprasādādikāryonneyā antaḥkaraṇasya vṛttiḥ. maunaṃ vāksaṃyamo'pi manassaṃyamapūrvako bhavati iti kāryeṇa kāraṇaṃ ucyate manassaṃyamo maunamiti, ātmavinigrahaḥ manonirodhaḥ sarvataḥ sāmānyarūpaḥ ātmavinigrahaḥ, vāgviṣayasyaiva manasaḥ saṃyamaḥ maunaṃ, iti viśeṣaḥ. bhāvasaṃśuddhiḥ – paraiḥ vyavahārakāle amāyāvitvaṃ bhāvasaṃśuddhiḥ, ityetat tapaḥ mānasaṃ ucyate.",
+               {"text": "manaḥ prasādaḥ manasaḥ praśāntiḥ svacchatāpādanaṃ prasādaḥ, saumyatvaṃ yatsaumanasyamāhuḥ, mukhādiprasādādikāryonneyā antaḥkaraṇasya vṛttiḥ. maunaṃ vāksaṃyamo'pi manassaṃyamapūrvako bhavati iti kāryeṇa kāraṇaṃ ucyate manassaṃyamo maunamiti, ātmavinigrahaḥ manonirodhaḥ sarvataḥ sāmānyarūpaḥ ātmavinigrahaḥ, vāgviṣayasyaiva manasaḥ saṃyamaḥ maunaṃ, iti viśeṣaḥ. bhāvasaṃśuddhiḥ – paraiḥ vyavahārakāle amāyāvitvaṃ bhāvasaṃśuddhiḥ, ityetat tapaḥ mānasaṃ ucyate.", "tr": "Serenity of mind: tranquillity of the mind, bringing it to clearness. Gentleness: what is called good-heartedness, a function of the inner organ to be inferred from its effects, such as serenity of face. Silence: even restraint of speech is preceded by restraint of mind, so the cause is named by its effect — restraint of mind is silence. Self-control: restraint of the mind in general, in every respect, is self-control; restraint of the mind only as regards speech is silence — that is the difference. Purity of disposition: freedom from deceit in dealings with others. This is called austerity of the mind."},
            ]),
         _v([
             "śraddhayā parayā taptaṃ tapastattrividhaṃ naraiḥ |",
@@ -173,8 +173,8 @@ STOTRA = {
         ], "|| 17 ||",
            "This threefold austerity, practised with supreme faith by disciplined people who desire no fruit, is called sāttvika.",
            bhashya=[
-               {"text": "yathoktaṃ kāyikaṃ vācikaṃ mānasaṃ ca tapaḥ taptaṃ naraiḥ sattvādiguṇabhedena kathaṃ trividhaṃ bhavatīti, ucyate –", "intro": True},
-               "śraddhayā āstikyabuddhyā parayā prakṛṣṭayā taptaṃ anuṣṭhitaṃ tapaḥ tat prakṛtaṃ trividhaṃ triprakāraṃ tryadhiṣṭhānaṃ naraiḥ anuṣṭhātṛbhiḥ aphalākāṅkṣibhiḥ phalākāṅkṣārahitaiḥ yuktaiḥ samāhitaiḥ – yat īdṛśaṃ tapaḥ, tat sāttvikaṃ sattvanirvṛttaṃ paricakṣate kathayanti śiṣṭāḥ.",
+               {"text": "yathoktaṃ kāyikaṃ vācikaṃ mānasaṃ ca tapaḥ taptaṃ naraiḥ sattvādiguṇabhedena kathaṃ trividhaṃ bhavatīti, ucyate –", "intro": True, "tr": "How does the austerity of body, speech and mind described, practised by men, become threefold according to the guṇas sattva and the rest? It is said:"},
+               {"text": "śraddhayā āstikyabuddhyā parayā prakṛṣṭayā taptaṃ anuṣṭhitaṃ tapaḥ tat prakṛtaṃ trividhaṃ triprakāraṃ tryadhiṣṭhānaṃ naraiḥ anuṣṭhātṛbhiḥ aphalākāṅkṣibhiḥ phalākāṅkṣārahitaiḥ yuktaiḥ samāhitaiḥ – yat īdṛśaṃ tapaḥ, tat sāttvikaṃ sattvanirvṛttaṃ paricakṣate kathayanti śiṣṭāḥ.", "tr": "That austerity under discussion, threefold — of three kinds, with three seats — practised, performed, with supreme, highest, faith, belief in the unseen, by men, its practitioners, who do not seek fruit, free of the desire for fruit, disciplined, collected — such austerity the wise call sāttvika, produced by sattva."},
            ]),
         _v([
             "satkāramānapūjārthaṃ tapo dambhena caiva yat |",
@@ -182,7 +182,7 @@ STOTRA = {
         ], "|| 18 ||",
            "Austerity practised for the sake of respect, honour and reverence, and with hypocrisy, is here called rājasa; it is unstable and fleeting.",
            bhashya=[
-               "satkāraḥ sādhukāraḥ “sādhuḥ ayaṃ tapasvī brāhmaṇaḥ” ityevamarthaṃ, māno mānanaṃ pratyutthānābhivādanādiḥ tadarthaṃ pūjā pādaprakṣālanārcanāśayitṛtvādi tadarthaṃ ca tapaḥ satkāramānapūjārthaṃ, dambhena caiva yatkriyate tapaḥ tat iha proktaṃ kathitaṃ rājasaṃ calaṃ kādācitkaphalatvena adhruvam.",
+               {"text": "satkāraḥ sādhukāraḥ “sādhuḥ ayaṃ tapasvī brāhmaṇaḥ” ityevamarthaṃ, māno mānanaṃ pratyutthānābhivādanādiḥ tadarthaṃ pūjā pādaprakṣālanārcanāśayitṛtvādi tadarthaṃ ca tapaḥ satkāramānapūjārthaṃ, dambhena caiva yatkriyate tapaḥ tat iha proktaṃ kathitaṃ rājasaṃ calaṃ kādācitkaphalatvena adhruvam.", "tr": "Respect is being praised — 'this is a good ascetic brāhmaṇa'; honour is being honoured by rising to greet, salutation and the like; worship is having one's feet washed, being honoured, being made to sit first and the like; austerity for the sake of respect, honour and worship, and that which is done with ostentation, is here declared, told, to be rājasa, unstable, and uncertain, since its fruit is only occasional."},
            ]),
         _v([
             "mūḍhagrāheṇātmano yat pīḍayā kriyate tapaḥ |",
@@ -190,7 +190,7 @@ STOTRA = {
         ], "|| 19 ||",
            "Austerity practised out of a deluded notion, with self-torture, or for the purpose of harming another, is called tāmasa.",
            bhashya=[
-               "mūḍhagrāheṇa aviveka niścayena ātmanaḥ pīḍayā yat kriyate tapaḥ parasya utsādanārthaṃ vināśārthaṃ vā tat tāmasaṃ tapaḥ udāhṛtam.",
+               {"text": "mūḍhagrāheṇa aviveka niścayena ātmanaḥ pīḍayā yat kriyate tapaḥ parasya utsādanārthaṃ vināśārthaṃ vā tat tāmasaṃ tapaḥ udāhṛtam.", "tr": "Austerity done with deluded conviction, with undiscriminating resolve, with self-torture, or for the ruin, the destruction, of another — that austerity is declared tāmasa."},
            ]),
         _v([
             "dātavyamiti yaddānaṃ dīyate'nupakāriṇe |",
@@ -198,8 +198,8 @@ STOTRA = {
         ], "|| 20 ||",
            "A gift given because it ought to be given, to one who cannot return it, at the right place and time and to a worthy person, is held to be sāttvika.",
            bhashya=[
-               {"text": "idānīṃ dānatraividhyaṃ ucyate –", "intro": True},
-               "dātavyamityevaṃ manaḥ kṛtvā yaddānaṃ dīyate anupakāriṇe pratyupakārāsamarthāya, samarthāyāpi nirapekṣaṃ dīyate, deśe puṇyadeśe kurukṣetrādau, kāle saṅkrāntyādau, pātre ca ṣaḍaṅgavidvedapārage ityādau, taddānaṃ sāttvikaṃ smṛtam.",
+               {"text": "idānīṃ dānatraividhyaṃ ucyate –", "intro": True, "tr": "Now the threefoldness of charity is told:"},
+               {"text": "dātavyamityevaṃ manaḥ kṛtvā yaddānaṃ dīyate anupakāriṇe pratyupakārāsamarthāya, samarthāyāpi nirapekṣaṃ dīyate, deśe puṇyadeśe kurukṣetrādau, kāle saṅkrāntyādau, pātre ca ṣaḍaṅgavidvedapārage ityādau, taddānaṃ sāttvikaṃ smṛtam.", "tr": "The gift that is given with the thought 'it ought to be given', to one who does no service in return — who cannot return the favour, or, if able, given without expecting it — in a proper place, a holy place such as Kurukṣetra, at a proper time, such as the sun's entry into a sign, and to a worthy recipient, such as one learned in the six auxiliaries who has mastered the Veda — that gift is held to be sāttvika."},
            ]),
         _v([
             "yattu pratyupakārārthaṃ phalamuddiśya vā punaḥ |",
@@ -207,7 +207,7 @@ STOTRA = {
         ], "|| 21 ||",
            "But a gift given in expectation of a return, or with an eye to its fruit, or grudgingly, is held to be rājasa.",
            bhashya=[
-               "yattu dānaṃ pratyupakārārthaṃ kāle tu ayaṃ māṃ pratyupakariṣyati ityevamarthaṃ, phalaṃ vā asya dānasya me bhaviṣyati adṛṣṭamiti, tat uddiśya punaḥ dīyate ca parikliṣṭaṃ khedasaṃyuktaṃ taddānaṃ rājasaṃ smṛtam.",
+               {"text": "yattu dānaṃ pratyupakārārthaṃ kāle tu ayaṃ māṃ pratyupakariṣyati ityevamarthaṃ, phalaṃ vā asya dānasya me bhaviṣyati adṛṣṭamiti, tat uddiśya punaḥ dīyate ca parikliṣṭaṃ khedasaṃyuktaṃ taddānaṃ rājasaṃ smṛtam.", "tr": "But the gift that is given for a return — 'in time he will do me a favour in return' — or else with a view to fruit — 'an unseen fruit of this gift will be mine' — and given grudgingly, with reluctance, is held to be rājasa."},
            ]),
         _v([
             "adeśakāle yaddānamapātrebhyaśca dīyate |",
@@ -215,7 +215,7 @@ STOTRA = {
         ], "|| 22 ||",
            "A gift given at the wrong place and time, to unworthy persons, without respect or with contempt, is called tāmasa.",
            bhashya=[
-               "adeśakāle adeśe apuṇyadeśe mlecchā śucyādi saṅkīrṇe akāle puṇyahetutvena aprakhyāte saṅkrāntyādiviśeṣarahite apātrebhyaśca mūrkhataskarādibhyaḥ, deśādi sampattau vā asatkṛtaṃ priyavacana pādaprakṣālanapūjādirahitaṃ avajñātaṃ pātraparibhavayuktaṃ ca yat, taddānaṃ tāmasamudāhṛtam.",
+               {"text": "adeśakāle adeśe apuṇyadeśe mlecchā śucyādi saṅkīrṇe akāle puṇyahetutvena aprakhyāte saṅkrāntyādiviśeṣarahite apātrebhyaśca mūrkhataskarādibhyaḥ, deśādi sampattau vā asatkṛtaṃ priyavacana pādaprakṣālanapūjādirahitaṃ avajñātaṃ pātraparibhavayuktaṃ ca yat, taddānaṃ tāmasamudāhṛtam.", "tr": "The gift given at the wrong place and time — in an unholy place mixed with mlecchas, impurity and the like; at a time not known to be meritorious, lacking the special occasions such as the sun's entry into a sign — and to unworthy recipients, fools, thieves and the like; or, even when place and the rest are right, given without respect, without kind words, washing of feet, honour and the like, and with contempt, scorning the recipient — that gift is declared tāmasa."},
            ]),
         _v([
             "ontatsaditi nirdeśo brahmaṇastrividhaḥ smṛtaḥ |",
@@ -223,8 +223,8 @@ STOTRA = {
         ], "|| 23 ||",
            "'Oṃ tat sat' — this is held to be the threefold designation of Brahman. By it the brāhmaṇas, the Vedas and sacrifices were ordained of old.",
            bhashya=[
-               {"text": "yajñadānatapaḥ prabhṛtīnāṃ sādguṇyakaraṇāya ayamupadeśa ucyate–", "intro": True},
-               "oṃ tatsat ityevaṃ nirdeśaḥ, nirdiśyate aneneti nirdeśaḥ, trividho nāmanirdeśaḥ brahmaṇaḥ smṛtaḥ cintitaḥ vedānteṣu brahmavidbhiḥ, brāhmaṇāḥ tena nirdeśena trividhena vedāśca yajñāśca vihitāḥ nirmitāḥ purā pūrvaṃ iti nirdeśastutyarthaṃ ucyate.",
+               {"text": "yajñadānatapaḥ prabhṛtīnāṃ sādguṇyakaraṇāya ayamupadeśa ucyate–", "intro": True, "tr": "This teaching is given to make sacrifice, charity, austerity and the like complete in their qualities:"},
+               {"text": "oṃ tatsat ityevaṃ nirdeśaḥ, nirdiśyate aneneti nirdeśaḥ, trividho nāmanirdeśaḥ brahmaṇaḥ smṛtaḥ cintitaḥ vedānteṣu brahmavidbhiḥ, brāhmaṇāḥ tena nirdeśena trividhena vedāśca yajñāśca vihitāḥ nirmitāḥ purā pūrvaṃ iti nirdeśastutyarthaṃ ucyate.", "tr": "'Om tat sat' — this designation — a designation is that by which something is pointed out — the threefold name-designation of Brahman, is remembered, thought of, in the Upaniṣads by the knowers of Brahman. By that threefold designation the brāhmaṇas, the Vedas and the sacrifices were ordained, created, of old — this is said to praise the designation."},
            ]),
         _v([
             "tasmādomityudāhṛtya yajñadānatapaḥkriyāḥ |",
@@ -232,7 +232,7 @@ STOTRA = {
         ], "|| 24 ||",
            "Therefore the acts of sacrifice, giving and austerity prescribed by the rule are always begun by the expounders of Brahman after uttering 'Om'.",
            bhashya=[
-               "tasmāt “om” iti udāhṛtya uccārya yajñadānatapaḥ kriyāḥ yajñādi svarūpāḥ kriyāḥ pravartante vidhānoktāḥ śāstracoditāḥ satataṃ sarvadā brahmavādināṃ brahmavadana śīlānām.",
+               {"text": "tasmāt “om” iti udāhṛtya uccārya yajñadānatapaḥ kriyāḥ yajñādi svarūpāḥ kriyāḥ pravartante vidhānoktāḥ śāstracoditāḥ satataṃ sarvadā brahmavādināṃ brahmavadana śīlānām.", "tr": "Therefore, uttering, pronouncing, 'om', the acts of sacrifice, charity and austerity — acts in the form of sacrifice and the rest — enjoined by the ordinance, prescribed by scripture, always, at all times, proceed for the expounders of Brahman, those given to speaking of Brahman."},
            ]),
         _v([
             "tadityanabhisandhāya phalaṃ yajñatapaḥkriyāḥ |",
@@ -240,7 +240,7 @@ STOTRA = {
         ], "|| 25 ||",
            "With 'tat', and without aiming at fruit, acts of sacrifice and austerity and various acts of giving are performed by those who seek liberation.",
            bhashya=[
-               "tat iti anabhisandhāya “tat iti brahmābhidhānamuccārya anabhisandhāya ca yajñādi karmaṇaḥ phalaṃ, yajñatapaḥ kriyāḥ yajñakriyāśca tapaḥkriyāśca yajñatapaḥ kriyāḥ dānakriyāśca vividhāḥ kṣetra hiraṇyapradānādi lakṣaṇāḥ kriyante nirvartyante mokṣakāṅkṣibhiḥ mokṣārthibhiḥ mumukṣubhiḥ.",
+               {"text": "tat iti anabhisandhāya “tat iti brahmābhidhānamuccārya anabhisandhāya ca yajñādi karmaṇaḥ phalaṃ, yajñatapaḥ kriyāḥ yajñakriyāśca tapaḥkriyāśca yajñatapaḥ kriyāḥ dānakriyāśca vividhāḥ kṣetra hiraṇyapradānādi lakṣaṇāḥ kriyante nirvartyante mokṣakāṅkṣibhiḥ mokṣārthibhiḥ mumukṣubhiḥ.", "tr": "Uttering 'tat', the name of Brahman, without aiming at the fruit of the action of sacrifice and the like, the acts of sacrifice and austerity — acts of sacrifice and acts of austerity — and the various acts of charity, such as gifts of land and gold, are done, performed, by those who long for liberation, the seekers of liberation."},
            ]),
         _v([
             "sadbhāve sādhubhāve ca sadityetatprayujyate |",
@@ -248,8 +248,8 @@ STOTRA = {
         ], "|| 26 ||",
            "'Sat' is used in the sense of reality and of goodness; and the word 'sat' is likewise used, Pārtha, of a praiseworthy act.",
            bhashya=[
-               {"text": "oṃ tacchabdayoḥ viniyogaḥ uktaḥ. atha idānīṃ sacchabdasya viniyoga ucyate –", "intro": True},
-               "sadbhāve, asataḥ sadbhāve yathā avidyamānasya putrasya janmani, tathā sādhubhāve ca asadvṛttasya asādhossadvṛttatā sādhubhāvaḥ tasmin sādhubhāve ca sat ityetadabhidhānaṃ brahmaṇaḥ prayujyate abhidhīyate. praśaste karmaṇi vivāhādau ca tathā sacchabdaḥ pārtha! yujyate prayujyate ityetat.",
+               {"text": "oṃ tacchabdayoḥ viniyogaḥ uktaḥ. atha idānīṃ sacchabdasya viniyoga ucyate –", "intro": True, "tr": "The use of the words om and tat has been told. Now the use of the word sat is told:"},
+               {"text": "sadbhāve, asataḥ sadbhāve yathā avidyamānasya putrasya janmani, tathā sādhubhāve ca asadvṛttasya asādhossadvṛttatā sādhubhāvaḥ tasmin sādhubhāve ca sat ityetadabhidhānaṃ brahmaṇaḥ prayujyate abhidhīyate. praśaste karmaṇi vivāhādau ca tathā sacchabdaḥ pārtha! yujyate prayujyate ityetat.", "tr": "In the sense of reality — in the coming into being of what did not exist, as at the birth of a son who did not exist — and in the sense of goodness — the becoming good of a bad man of bad conduct is goodness — the name of Brahman 'sat' is used, applied. Likewise for a praiseworthy action, such as marriage, the word sat is used, Pārtha."},
            ]),
         _v([
             "yajñe tapasi dāne ca sthitiḥ saditi cocyate |",
@@ -257,7 +257,7 @@ STOTRA = {
         ], "|| 27 ||",
            "Steadfastness in sacrifice, austerity and giving is also called 'sat', and any action for such purposes is likewise called 'sat'.",
            bhashya=[
-               "yajñe yajñakarmaṇi yā sthitiḥ, tapasi ca yā sthitiḥ dāne ca yā sthitiḥ, sā saditi cocyate vidvadbhiḥ. karmacaiva tadarthīyaṃ yajñadānatapo'rthīyaṃ athavā yasya abhidhānatrayaṃ prakṛtaṃ tadarthīyaṃ īśvarārthīyamityetat, sadityevābhidhīyate tadetadyajñadānatapa ādi karma asāttvikaṃ viguṇamapi śraddhāpūrvakaṃ brahmaṇaḥ abhidhānatrayaprayogeṇa saguṇaṃ sāttvikaṃ sampāditaṃ bhavati.",
+               {"text": "yajñe yajñakarmaṇi yā sthitiḥ, tapasi ca yā sthitiḥ dāne ca yā sthitiḥ, sā saditi cocyate vidvadbhiḥ. karmacaiva tadarthīyaṃ yajñadānatapo'rthīyaṃ athavā yasya abhidhānatrayaṃ prakṛtaṃ tadarthīyaṃ īśvarārthīyamityetat, sadityevābhidhīyate tadetadyajñadānatapa ādi karma asāttvikaṃ viguṇamapi śraddhāpūrvakaṃ brahmaṇaḥ abhidhānatrayaprayogeṇa saguṇaṃ sāttvikaṃ sampāditaṃ bhavati.", "tr": "Steadfastness in sacrifice, in the act of sacrifice; steadfastness in austerity; and steadfastness in charity — that is called 'sat' by the wise. And action for that purpose — for the purpose of sacrifice, charity and austerity; or else, for the purpose of the one whose three names are under discussion, for the Lord, that is — is called 'sat'. So this action, sacrifice, charity, austerity and the rest, even if not sāttvika and defective, when done with faith, is made complete and sāttvika by the use of the three names of Brahman."},
            ]),
         _v([
             "aśraddhayā hutaṃ dattaṃ tapastaptaṃ kṛtaṃ ca yat |",
@@ -265,8 +265,8 @@ STOTRA = {
         ], "|| 28 ||",
            "Whatever is offered, given, or done as austerity or as a rite without faith is called 'asat', Pārtha; it is of no avail here or hereafter.",
            bhashya=[
-               {"text": "tatra ca sarvatra śraddhāpradhānatayā sarvaṃ sampādyate yasmāt, tasmāt.", "intro": True},
-               "aśraddhayā hutaṃ havanaṃ kṛtaṃ, aśraddhayā dattaṃ brāhmaṇebhyaḥ, tathā aśraddhayā tapaḥ taptaṃ anuṣṭhitaṃ, tathā aśraddhayaiva kṛtaṃ ca yat stutinamaskārādi, tat sarvaṃ asadityucyate, matprāptisādhana mārgabāhyatvāt, he pārtha, na ca tat bahulāyāsamapi pretya phalāya no'pi ihārthaṃ, sādhubhiḥ ninditatvāditi.",
+               {"text": "tatra ca sarvatra śraddhāpradhānatayā sarvaṃ sampādyate yasmāt, tasmāt.", "intro": True, "tr": "And since in all this everything is accomplished with faith as the chief thing, therefore —"},
+               {"text": "aśraddhayā hutaṃ havanaṃ kṛtaṃ, aśraddhayā dattaṃ brāhmaṇebhyaḥ, tathā aśraddhayā tapaḥ taptaṃ anuṣṭhitaṃ, tathā aśraddhayaiva kṛtaṃ ca yat stutinamaskārādi, tat sarvaṃ asadityucyate, matprāptisādhana mārgabāhyatvāt, he pārtha, na ca tat bahulāyāsamapi pretya phalāya no'pi ihārthaṃ, sādhubhiḥ ninditatvāditi.", "tr": "Whatever is offered without faith, the oblation made; whatever is given without faith to brāhmaṇas; likewise austerity practised, performed, without faith; likewise whatever is done without faith, such as praise and salutation — all that is called 'asat', because it lies outside the path of the means to attaining me, O Pārtha; and, though involving great effort, it brings no fruit hereafter, nor any benefit here, since it is censured by the good."},
            ]),
         "ornament",
         {"colophon": "iti śrī mahābhārate śatasāhasryāṃ vaiyāsikyāṃ bhīṣmaparvaṇi śrīmadbhagavadgītāsūpaniṣatsu brahmavidyāyāṃ yogaśāstre śrīkṛṣṇārjunasaṃvāde śraddhātrayavibhāgayogonāma saptadaśo– dhyāyaḥ.", "gloss": "Thus, in the Bhagavad Gītā — the Upaniṣad, the knowledge of Brahman, the scripture of yoga, the dialogue of Śrī Kṛṣṇa and Arjuna — within the Bhīṣma Parva of the Mahābhārata, the collection of a hundred thousand verses by Vyāsa, ends the seventeenth chapter, Śraddhātrayavibhāga Yoga."},

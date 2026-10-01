@@ -33,7 +33,7 @@ COMPOSITE = {  # glyphs carrying consonant(s) + vowel
     "z": ("చ", "ి"), "p": ("చ", "ీ"), "l": ("జ", "ి"), "r": ("జ", "ీ"),
     "y": ("గ", "ి"), "w": ("గ", "ీ"), "e": ("ల", "ి"), "b": ("ల", "ీ"),
     "a": ("బ", "ి"), "c": ("బ", "ీ"), "d": ("ఖ", "ి"), "v": ("ఖ", "ీ"),
-    "A": ("జ", "ు"), "E": ("జ", "ూ"), "†": ("న", "ు"),
+    "A": ("జ", "ు"), "E": ("జ", "ూ"),
     "N": ("శ్ర", "ీ"), "G": ("స్త్ర", ""), "R": ("ష్ట్ర", ""),
 }
 INDEP = {"J": "అ", "P": "ఆ", "W": "ఇ", "D": "ఈ", "L": "ఉ", "T": "ఊ",
@@ -70,6 +70,7 @@ MOD = {"O": "ం", "ó": "ః"}
 HOOKABLE = {"వ": "మ", "ఫ": "ఘ", "య": "య"}
 TAIL = "Ï"          # హ's tail (inherent a); elsewhere Ï is ా
 PUNCT = {"—": "’", "–": "–", "-": "ఽ"}
+PUNCT_OUT = {"†": ";"}   # the book's semicolon (a glyph code, not ను)
 
 
 class Ak:
@@ -210,7 +211,7 @@ def convert(text):
         elif c in MOD:   # anusvāra after an avagraha (తేజోఽంశ)
             out.append(MOD[c])
         else:
-            out.append(PUNCT.get(c, c) if c in "—" else c)
+            out.append(PUNCT.get(c, c) if c in "—" else PUNCT_OUT.get(c, c))
         i += 1
     flush()
     return unicodedata.normalize("NFC", "".join(out))

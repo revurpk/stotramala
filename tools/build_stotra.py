@@ -87,12 +87,16 @@ def render_verse(v, asset):
 def render_bhashya(paras, summary="bhāṣya", indent="    "):
     """A commentary fold: Sanskrit prose paragraphs, each one .sans line so it
     renders in all three scripts. A paragraph given as {"text":…, "intro":True}
-    is the lead-in the commentator sets before the verse, shown a shade softer."""
+    is the lead-in the commentator sets before the verse, shown a shade softer;
+    a "tr" key adds its English translation beneath it."""
     ps = []
     for p in paras:
         text, intro = (p["text"], p.get("intro")) if isinstance(p, dict) else (p, False)
         cls = ' class="bh-intro"' if intro else ""
         ps.append(f'{indent}  <p{cls}><span class="sans">{esc(text)}</span></p>')
+        # an English rendering of the paragraph ({"tr": …}), set under it
+        if isinstance(p, dict) and p.get("tr"):
+            ps.append(f'{indent}  <p class="bh-tr">{esc(p["tr"])}</p>')
     return (f'{indent}<details class="gloss bhashya">\n'
             f'{indent}  <summary>{esc(summary)}</summary>\n'
             + "\n".join(ps) + "\n"
