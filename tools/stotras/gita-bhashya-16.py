@@ -10,10 +10,12 @@
 # upstream.
 
 
-def _v(padas, num, gloss, bhashya=None):
+def _v(padas, num, gloss, bhashya=None, words=None):
     d = {"padas": padas, "num": num, "gloss": gloss}
     if bhashya:
         d["bhashya"] = bhashya
+    if words:
+        d["words"] = words
     return d
 
 
@@ -38,6 +40,19 @@ STOTRA = {
            "The Blessed Lord said: Fearlessness, purity of heart, steadfastness in knowledge and yoga, generosity, self-restraint, sacrifice, study of scripture, austerity, uprightness;",
            bhashya=[
                {"text": "abhayam abhīrutā, sattvasaṃśuddhiḥ, sattvasya antaḥkaraṇasya saṃśuddhiḥ saṃvyavahāreṣu paravañcanāmāyā'nṛtādiparivarjanaṃ, śuddhasattvabhāvena vyavahāraḥ ityarthaḥ. jñānayogavyavasthitiḥ jñānaṃ śāstrataḥ ācāryataśca ātmādipadārthānām avagamaḥ, avagatānām indriyādyupasaṃhāreṇa ekāgratayā svātmasaṃvedyatāpādanaṃ yogaḥ, tayoḥ, jñānayogayoḥ vyavasthitiḥ vyavasthānaṃ tanniṣṭhatā. eṣā pradhānā daivī sāttvikī sampat. yatra (ca) yeṣām adhikṛtānāṃ yā prakṛtiḥ sambhavati sāttvikī sā ucyate. dānaṃ yathāśakti saṃvibhāgaḥ annādīnāṃ, damaḥ ca bāhyakaraṇānām upaśamaḥ, antaḥkaraṇasya upaśamaṃ śānti vakṣyati (16.2.3). yajñaḥ ca śrautaḥ agnihotrādiḥ. smārtaḥ ca devayajñādiḥ. svādhyāyaḥ ṛgvedādyadhyayanam adṛṣṭārtham. tapaḥ vakṣyamāṇaṃ śārīrādi ārjavaṃ ṛjutvaṃ sarvadā. kiñca", "tr": "Fearlessness, absence of timidity. Purity of mind: purity of sattva, the inner organ — avoiding deceit of others, trickery, falsehood and the like in dealings; dealing with a pure mind, that is. Steadfastness in knowledge and yoga: knowledge is the understanding, from scripture and teacher, of the Self and other realities; yoga is making what has been understood one's own experience, with one-pointedness, by withdrawing the senses and the rest; steadfastness in these two, knowledge and yoga, is being established in them, devoted to them. This is the chief divine, sāttvika endowment. Whatever nature is possible for those qualified for something in a particular field is called sāttvika. Charity: sharing food and the like according to one's means. Self-control: quieting of the outer senses; quieting of the inner organ he will call calm (16.2). Sacrifice: Vedic, such as the agnihotra, and smārta, such as sacrifice to the gods. Study: recitation of the Ṛgveda and the others for an unseen end. Austerity: of the body and the rest, to be described. Straightforwardness: uprightness at all times. Moreover —"},
+           ],
+           words=[
+               ["abhayam", "fearlessness"],
+               ["sattva-saṃśuddhiḥ", "purity of mind"],
+               ["jñāna-yoga-vyavasthitiḥ", "steadfastness in knowledge and yoga"],
+               ["dānam", "charity"],
+               ["damaḥ", "self-control"],
+               ["ca", "and"],
+               ["yajñaḥ", "sacrifice"],
+               ["ca", "and"],
+               ["svādhyāyaḥ", "study"],
+               ["tapaḥ", "austerity"],
+               ["ārjavam", "straightforwardness"],
            ]),
         _v([
             "ahiṃsā satyamakrodhastyāgaḥśāntirapaiśunam |",
@@ -46,6 +61,20 @@ STOTRA = {
            "non-violence, truthfulness, freedom from anger, renunciation, peace, freedom from slander, compassion for beings, freedom from greed, gentleness, modesty, freedom from restlessness;",
            bhashya=[
                {"text": "ahiṃsā ahiṃsanam prāṇināṃ pīḍāvarjanam, satyam – apriyānṛta varjitaṃ yathābhūtārtha vacanam, akrodhaḥ – paraiḥ ākruṣṭasya abhihitasya vā vā prāptasya krodhasya upaśamanam, tyāgaḥ sannyāsaḥ, pūrvaṃ dānasya uktatvāt, śāntiḥ antaḥkaraṇasya upaśamaḥ. apaiśunam apiśunatā, parasmai pararandhraprakaṭīkaraṇaṃ piśunatā tadabhāvaḥ apaiśunam. dayā kṛpā bhūteṣu duḥkhiteṣu. aloluptvam indriyāṇāṃ viṣayasannidhau avikriyā, mārdavaṃ mṛdutā akrauryam, hrīḥ lajjā, acāpalam asati prayojane vākpāṇipādādīnām avyāpārayitṛtvam. kiñca", "tr": "Non-violence: not hurting, avoiding causing pain to living beings. Truth: speech as things are, free from what is unpleasant or false. Absence of anger: quieting the anger that arises when abused or struck by others. Renunciation: sannyāsa, since charity was mentioned before. Calm: quieting of the inner organ. Absence of slander: slander is exposing others' weaknesses to another; its absence is freedom from slander. Compassion: mercy towards suffering beings. Freedom from greed: no disturbance of the senses in the presence of their objects. Gentleness: mildness, absence of harshness. Modesty: shame. Absence of fickleness: not moving speech, hands, feet and the like when there is no purpose. Moreover —"},
+           ],
+           words=[
+               ["ahiṃsā", "non-violence"],
+               ["satyam", "truth"],
+               ["akrodhaḥ", "absence of anger"],
+               ["tyāgaḥ", "renunciation"],
+               ["śāntiḥ", "calm"],
+               ["apaiśunam", "absence of slander"],
+               ["dayā", "compassion"],
+               ["bhūteṣu", "towards beings"],
+               ["aloluptvam", "freedom from greed"],
+               ["mārdavam", "gentleness"],
+               ["hrīḥ", "modesty"],
+               ["acāpalam", "absence of fickleness"],
            ]),
         _v([
             "tejaḥ kṣamā dhṛtiḥ śaucamadroho nātimānitā |",
@@ -54,6 +83,20 @@ STOTRA = {
            "vigour, forgiveness, fortitude, purity, freedom from malice and from excessive pride — these belong to one born to the divine endowment, O Bhārata.",
            bhashya=[
                {"text": "tejaḥ prāgalbhyaṃ, na tvaggatā dīptiḥ, kṣamā – ākruṣṭasya tāḍitasya vā antaḥ vikriyā'nutpattiḥ, utpannāyāṃ vikriyāyāṃ upaśamanam akrodhaḥ iti avocāma. itthaṃ kṣamāyāḥ akrodhasya ca viśeṣaḥ. dhṛtiḥ – dehendriyeṣu avasādaṃ prāpteṣu tasya pratiṣedhakaḥ antaḥkaraṇavṛttiviśeṣaḥ, yena uttambhitāni karaṇāni dehaśca na avasīdanti. śaucaṃ dvividham bāhyam mṛjjalakṛtaṃ bāhyam ābhyantaraṃ ca manobuddhyoḥ nairmalyaṃ, māyārāgādi kāluṣyābhāvaḥ evaṃ dvividhaṃ śaucam. adrohaḥ parajighāṃsā'bhāvaḥ ahiṃsanam. nātimānitā atyarthaṃ mānaḥ atimānaḥ. saḥ yasya vidyate saḥ atimānī, tadbhāvaḥ atimānitā tadabhāvaḥ nātimānitā, ātmanaḥ pūjyatā'tiśaya bhāvanā'bhāvaḥ ityarthaḥ. bhavanti abhayādīni etadantāni sampadam abhijātasya. kiṃ viśiṣṭāṃ sampadam – daivīṃ devānāṃ sampadam abhilakṣya jātasya daivavibhūtyarhasya bhāvikalyāṇasya ityarthaḥ, he bhārata.", "tr": "Vigour: boldness, not the glow of the skin. Forbearance: no inner disturbance arising when abused or struck; quieting a disturbance once it has arisen we have called absence of anger — this is the difference between forbearance and absence of anger. Fortitude: a particular function of the inner organ that checks the flagging of body and senses, propped up by which the senses and body do not sink. Purity is twofold: outer, done with earth and water; and inner, the stainlessness of mind and understanding, the absence of the taint of deceit, passion and the like — thus purity is twofold. Absence of malice: absence of the wish to injure others, not harming. Absence of excessive pride: excessive pride is overweening self-regard; one who has it is excessively proud; its absence is freedom from it — absence of the notion that one is especially to be honoured, that is. These, from fearlessness to this, belong to one born for the divine endowment — of what kind? Divine: one born with the endowment of the gods in view, fit for divine glory, for whom good is to come, that is, O Bhārata."},
+           ],
+           words=[
+               ["tejaḥ", "vigour"],
+               ["kṣamā", "forbearance"],
+               ["dhṛtiḥ", "fortitude"],
+               ["śaucam", "purity"],
+               ["adrohaḥ", "absence of malice"],
+               ["na", "no"],
+               ["atimānitā", "excessive pride"],
+               ["bhavanti", "belong"],
+               ["sampadam", "for the endowment"],
+               ["daivīm", "divine"],
+               ["abhijātasya", "to one born"],
+               ["bhārata", "O Bhārata"],
            ]),
         _v([
             "dambho darpo'bhimānaśca krodhaḥ pāruṣyameva ca |",
@@ -63,6 +106,21 @@ STOTRA = {
            bhashya=[
                {"text": "atha idānīṃ āsurī sampat ucyate.", "intro": True, "tr": "Now the demonic endowment is told:"},
                {"text": "dambhaḥ dharmadhvajitvam, darpaḥ vidyādhanasvajanādinimittaḥ, utsekaḥ, abhimānaḥ pūrvoktaḥ, krodhaḥ, ca, pāruṣyameva ca paruṣavacanaṃ, yathā kāṇaṃ “cakṣuṣmān”, “virūpaṃ”, “rūpavān”, “hīnābhijanam”, “uttamābhijanaḥ” ityādi, ajñānaṃ ca avivekajñānaṃ kartavyākartavyādi viṣayamithyāpratyayaḥ, abhijātasya, pārtha! kimabhijātasya ityāha asurāṇāṃ sampat āsurīm, tām abhijātasya ityarthaḥ.", "tr": "Ostentation: flaunting the banner of dharma. Arrogance: conceit arising from learning, wealth, kinsmen and the like. Excessive pride, described before. Anger. And harshness, harsh speech — as calling a one-eyed man 'sharp-eyed', an ugly man 'handsome', a man of low birth 'of noble birth', and so on. And ignorance, lack of discrimination, wrong notions about what is to be done and not done. These belong to one born, Pārtha — born for what? He says: for the endowment of the asuras, the demonic; to one born for that, that is."},
+           ],
+           words=[
+               ["dambhaḥ", "ostentation"],
+               ["darpaḥ", "arrogance"],
+               ["abhimānaḥ", "excessive pride"],
+               ["ca", "and"],
+               ["krodhaḥ", "anger"],
+               ["pāruṣyam", "harshness"],
+               ["eva ca", "and also"],
+               ["ajñānam", "ignorance"],
+               ["ca", "and"],
+               ["abhijātasya", "to one born"],
+               ["pārtha", "O Pārtha"],
+               ["sampadam", "for the endowment"],
+               ["āsurīm", "demonic"],
            ]),
         _v([
             "daivī sampadvimokṣāya nibandhāyāsurī matā |",
@@ -72,6 +130,21 @@ STOTRA = {
            bhashya=[
                {"text": "anayoḥ sampadoḥ kārya ucyate", "intro": True, "tr": "The effects of these two endowments are told:"},
                {"text": "daivī sampad yā sā vimokṣāya saṃsārabandhanāt, nibandhāya nibandhaḥ niyataḥ bandhaḥ tadartham āsurī sampat matā abhipretā. tathā rākṣasī ca. tatra evam ukte sati arjunasya antargataṃ bhāvaṃ “kimaham āsurī sampadyuktaḥ, kiṃ vā daivīsampadyuktaḥ” ityevam ālocanārūpam, ālakṣya āha bhagavān mā śucaḥ śokaṃ mā kārṣīḥ sampadam daivīm, abhijātaḥ asi abhilakṣya jātaḥ asi, bhāvikalyāṇaḥ tvam asi ityarthaḥ, he pāṇḍava!", "tr": "The divine endowment is held to lead to liberation from the bondage of saṃsāra; the demonic to bondage — fixed, certain bondage — and so too the rākṣasa. When this was said, the Blessed Lord, noticing Arjuna's inner thought, the reflection 'am I endowed with the demonic endowment or with the divine?', says: do not grieve, do not sorrow; you are born for the divine endowment, born with it in view; good is to come for you, that is, O Pāṇḍava."},
+           ],
+           words=[
+               ["daivī", "the divine"],
+               ["sampat", "endowment"],
+               ["vimokṣāya", "to liberation"],
+               ["nibandhāya", "to bondage"],
+               ["āsurī", "the demonic"],
+               ["matā", "is held to lead"],
+               ["mā", "do not"],
+               ["śucaḥ", "grieve"],
+               ["sampadam", "for the endowment"],
+               ["daivīm", "divine"],
+               ["abhijātaḥ", "born"],
+               ["asi", "you are"],
+               ["pāṇḍava", "O Pāṇḍava"],
            ]),
         _v([
             "dvau bhūtasargau loke'smin daiva āsura eva ca |",
@@ -80,6 +153,22 @@ STOTRA = {
            "There are two kinds of beings created in this world, the divine and the demonic. The divine has been described at length; hear from me now of the demonic, Pārtha.",
            bhashya=[
                {"text": "dvau bhūteti : dvau dvisaṅkhyākau bhūtasargau bhūtānāṃ manuṣyāṇāṃ sargau sṛṣṭī bhūtasargau, sṛjyete iti sargau bhūtānyeva sṛjyamānāni daivāsurasampaddvaya yuktāni dvau bhūtasargau iti ucyate “dvayā ha vai prājāpatyā devāścāsurāśca” (bṛ.u.1.3.1) iti śruteḥ. loke asmin saṃsāre ityarthaḥ. sarveṣāṃ dvaividhyopapatteḥ. kau tau bhūtasargau ityucyate, prakṛtāveva daivaḥ āsuraḥ eva ca. uktayoreva punaḥ anuvādaprayojanamāha daivaḥ bhūtasargaḥ “abhayaṃ sattvasaṃśuddhiḥ” (16.1) ityādinā, vistaraśaḥ vistāraprakāraiḥ proktaḥ kathitaḥ na tu āsuraḥ vistaraśaḥ, ataḥ tatparivarjanārtham āsuraṃ pārtha! me mama vacanāt ucyamānaṃ vistaraśaḥ śṛṇu avadhāraya.", "tr": "'There are two creations of beings…' Two, numbering two, creations of beings — creations, emanations, of beings, of men; called creations because they are created — beings themselves as created, endowed with the two endowments, divine and demonic, are called the two creations of beings, according to the śruti 'there were two kinds of the offspring of Prajāpati, the gods and the asuras' (Bṛhadāraṇyaka 1.3.1). In this world, in saṃsāra, that is, since all are of these two kinds. Which are these two creations? The two under discussion, the divine and the demonic. He states the purpose of repeating what has been told: the divine creation has been told at length, in detail, in 'fearlessness, purity of mind' (16.1) and the following; but not the demonic. So, in order to avoid it, hear, grasp, at length the demonic, as I tell it, Pārtha."},
+           ],
+           words=[
+               ["dvau", "two"],
+               ["bhūta-sargau", "creations of beings"],
+               ["loke", "in world"],
+               ["asmin", "this"],
+               ["daivaḥ", "the divine"],
+               ["āsuraḥ", "the demonic"],
+               ["eva ca", "and"],
+               ["daivaḥ", "the divine"],
+               ["vistaraśaḥ", "at length"],
+               ["proktaḥ", "has been told"],
+               ["āsuram", "the demonic"],
+               ["pārtha", "O Pārtha"],
+               ["me", "from me"],
+               ["śṛṇu", "hear"],
            ]),
         _v([
             "pravṛttiṃ ca nivṛttiṃ ca janā na vidurāsurāḥ |",
@@ -89,6 +178,26 @@ STOTRA = {
            bhashya=[
                {"text": "ā adhyāya parisamāpteḥ āsurī sampat prāṇiviśeṣaṇatvena pradarśyate, pratyakṣīkaraṇena ca śakyate tasyāḥ parivarjanaṃ kartumiti.", "intro": True, "tr": "To the end of the chapter the demonic endowment is shown as qualifying certain beings; for by making it plain one can avoid it."},
                {"text": "pravṛttiṃ ca pravartanaṃ yasmin puruṣārthasādhane kartavye pravṛttiḥ tām, nivṛttiṃ ca tadviparītāṃ, yasmāt anarthahetoḥ nivartitavyaṃ sā nivṛttiḥ, tāṃ ca, janāḥ āsurāḥ na viduḥ, na jānanti. na kevalaṃ pravṛttinivṛttī eva te na viduḥ, na śaucaṃ, na api ca ācāraḥ na satyaṃ teṣu vidyate. aśaucāḥ. anācāraḥ, māyāvinaḥ anṛtavādinaḥ hi āsurāḥ kiñca.", "tr": "Activity — engaging in what is to be done as a means to a human end — and withdrawal, its opposite, turning away from what causes harm: demonic people do not know, do not understand, these. Not only do they not know activity and withdrawal; neither purity nor good conduct nor truth is found in them. The demonic are impure, of bad conduct, deceitful and liars. Moreover —"},
+           ],
+           words=[
+               ["pravṛttim", "activity"],
+               ["ca", "and"],
+               ["nivṛttim", "withdrawal"],
+               ["ca", "and"],
+               ["janāḥ", "people"],
+               ["na", "not"],
+               ["viduḥ", "know"],
+               ["āsurāḥ", "demonic"],
+               ["na", "neither"],
+               ["śaucam", "purity"],
+               ["na", "nor"],
+               ["api", "even"],
+               ["ca", "and"],
+               ["ācāraḥ", "good conduct"],
+               ["na", "nor"],
+               ["satyam", "truth"],
+               ["teṣu", "in them"],
+               ["vidyate", "is found"],
            ]),
         _v([
             "asatyamapratiṣṭhaṃ te jagadāhuranīśvaram |",
@@ -97,6 +206,18 @@ STOTRA = {
            "They say the world is without truth, without foundation, without a Lord, born of mutual union — what else? — caused by desire alone.",
            bhashya=[
                {"text": "asatyaṃ yathā vayam anṛtaprāyāḥ tathā idam jagat sarvaṃ asatyam apratiṣṭhaṃ ca nāsya dharmādharmau pratiṣṭhā ataḥ apratiṣṭha ca iti te āsurāḥ janāḥ jagat āhuḥ anīśvaram na ca dharmādharma savyapekṣakaḥ asya śāsitā īśvaraḥ vidyate ityataḥ anīśvaraṃ jagat āhuḥ. kiṃ ca aparasparaṃ sambhūtaṃ kāmaprayuktayoḥ strīpuruṣayoḥ anyonyasaṃyogāt jagatsarvaṃ sambhūtam. kiṃ anyat kāmahaitukaṃ – kāmahetuḥ eva kāmahaitukam, kim anyat jagataḥ kāraṇaṃ, na kiñcit adṛṣṭaṃ dharmādharmādi kāraṇāntaraṃ vidyate jagataḥ “kāma eva prāṇināṃ kāraṇam” iti lokāyatidṛṣṭiriyam.", "tr": "Unreal — as we are given to falsehood, so this whole world is unreal; and without foundation — merit and demerit are not its foundation, so it is without foundation — so these demonic people say of the world; without a Lord — there is no Lord who rules it with reference to merit and demerit, so they call the world godless. Moreover, born of mutual union: the whole world is born of the union of man and woman, impelled by desire. What else? Caused by desire — desire alone is its cause; what other cause of the world is there? There is no other, unseen cause of the world, such as merit and demerit; 'desire alone is the cause of living beings' — this is the view of the materialists."},
+           ],
+           words=[
+               ["asatyam", "unreal"],
+               ["apratiṣṭham", "without foundation"],
+               ["te", "they"],
+               ["jagat", "the world"],
+               ["āhuḥ", "say"],
+               ["anīśvaram", "without a Lord"],
+               ["aparaspara-sambhūtam", "born of mutual union"],
+               ["kim", "what"],
+               ["anyat", "else"],
+               ["kāma-haitukam", "caused by desire"],
            ]),
         _v([
             "etāṃ dṛṣṭimavaṣṭabhya naṣṭātmāno'lpabuddhayaḥ |",
@@ -105,6 +226,18 @@ STOTRA = {
            "Holding to this view, these lost souls of small understanding and cruel deeds come forth as enemies of the world, for its destruction.",
            bhashya=[
                {"text": "etāmiti : etāṃ dṛṣṭim avaṣṭabhya āśritya, naṣṭātmānaḥ naṣṭasva'bhāvāḥ, vibhraṣṭa paralokasādhanāḥ alpabuddhayaḥ viṣayaviṣayā alpaiva buddhiḥ yeṣāṃ te alpabuddhayaḥ prabhavanti udbhavanti, ugrakarmāṇaḥ krūrakarmāṇaḥ hiṃsātmakāḥ. kṣayāya jagataḥ “prabhavanti” iti sambandhaḥ. jagataḥ ahitāḥ śatravaḥ ityarthaḥ.", "tr": "'Holding this view…' Holding to, resting on, this view, ruined in self — their own nature ruined, fallen from the means to the other world; of little understanding — whose understanding is small, concerned only with objects; they come forth, arise, of fierce deeds, cruel deeds, violent, for the destruction of the world — connected with 'come forth'; enemies of the world, that is."},
+           ],
+           words=[
+               ["etām", "this"],
+               ["dṛṣṭim", "view"],
+               ["avaṣṭabhya", "holding"],
+               ["naṣṭa-ātmānaḥ", "ruined in self"],
+               ["alpa-buddhayaḥ", "of little understanding"],
+               ["prabhavanti", "they come forth"],
+               ["ugra-karmāṇaḥ", "of fierce deeds"],
+               ["kṣayāya", "for the destruction"],
+               ["jagataḥ", "of the world"],
+               ["ahitāḥ", "its enemies"],
            ]),
         _v([
             "kāmamāśritya duṣpūraṃ dambhamānamadānvitāḥ |",
@@ -113,6 +246,17 @@ STOTRA = {
            "Given to insatiable desire, full of hypocrisy, pride and arrogance, holding false notions through delusion, they act with impure resolves.",
            bhashya=[
                {"text": "kāmam icchāviśeṣam, āśritya avaṣṭabhya, duṣpūram aśakyapūraṇaṃ, dambhamānamadānvitāḥ dambhaśca mānaśca madaśca dambhamānamadāḥ, tai anvitāḥ dambhamāna madānvitāḥ, mohāt avivekataḥ, gṛhītvā, upādāya asad grahān aśubhaniścayān, pravartante, aśucivratāḥ, aśucīni vratāni yeṣāṃ te aśucivratāḥ.", "tr": "Resorting to, relying on, desire — a particular wish — that is hard to satisfy, impossible to fill; full of ostentation, pride and intoxication; through delusion, lack of discrimination, taking up, adopting, false notions, evil convictions, they act, with impure vows — whose vows are impure."},
+           ],
+           words=[
+               ["kāmam", "desire"],
+               ["āśritya", "resorting to"],
+               ["duṣpūram", "hard to satisfy"],
+               ["dambha-māna-mada-anvitāḥ", "full of ostentation, pride and intoxication"],
+               ["mohāt", "through delusion"],
+               ["gṛhītvā", "taking up"],
+               ["asat-grāhān", "false notions"],
+               ["pravartante", "they act"],
+               ["aśuci-vratāḥ", "with impure vows"],
            ]),
         _v([
             "cintāmaparimeyāṃ ca pralayāntāmupāśritāḥ |",
@@ -121,6 +265,17 @@ STOTRA = {
            "Beset by immeasurable cares that end only in death, with the gratification of desire as their highest aim, convinced that this is all,",
            bhashya=[
                {"text": "cintām, aparimeyāṃ ca na parimātuṃ śakyate yasyāḥ cintāyāḥ iyattā sā aparimeyā, tām aparimeyāṃ pralayāntāṃ maraṇāntām, upāśritāḥ, sadā cintāparā ityarthaḥ. kāmopabhoga paramāḥ kāmyante iti kāmāḥ śabdādayaḥ, viṣayāḥ tadupabhoga paramāḥ, “ayameva paramaḥ puruṣārthaḥ yaḥ kāmopabhogaḥ” ityevaṃ niścitātmānaḥ etāvaditi niścitāḥ", "tr": "Clinging to boundless care — care whose extent cannot be measured, boundless — that ends only with dissolution, at death — ever given to care, that is; intent on the enjoyment of desires — desires are what are desired, sound and the rest, objects; intent on enjoying them — convinced that 'this alone is the supreme human end, the enjoyment of desires'; certain that this is all."},
+           ],
+           words=[
+               ["cintām", "care"],
+               ["aparimeyām", "boundless"],
+               ["ca", "and"],
+               ["pralaya-antām", "ending only with death"],
+               ["upāśritāḥ", "clinging to"],
+               ["kāma-upabhoga-paramāḥ", "intent on the enjoyment of desires"],
+               ["etāvat", "this is all"],
+               ["iti", "thus"],
+               ["niścitāḥ", "certain"],
            ]),
         _v([
             "āśāpāśaśatairbaddhāḥ kāmakrodhaparāyaṇāḥ |",
@@ -129,6 +284,15 @@ STOTRA = {
            "bound by hundreds of fetters of hope, given over to desire and anger, they strive to amass wealth by unjust means for the gratification of their desires.",
            bhashya=[
                {"text": "āśāpāśeti : āśāpāśaśataiḥ āśāḥ eva pāśāḥ, tacchataiḥ āśāpāśa – śataiḥ, baddhā, niyantritāḥ santaḥ, sarvataḥ ākṛṣyamāṇāḥ, kāmakrodhaparāyaṇāḥ kāmakrodhau param ayanaṃ āśrayaḥ yeṣāṃ te kāmakrodha parāyaṇāḥ, īhante ceṣṭante kāmabhogārthaṃ kāmabhoga prayojanāya, na dharmārtham, anyāyena parasvāpaharaṇādinā ityarthaḥ. kim? arthasañcayān arthapracayān. īdṛśaśca teṣāṃ abhiprāyaḥ", "tr": "'Bound by hundreds of ties of hope…' Bound by hundreds of ties of hope — hopes themselves are ties, and by hundreds of them — fettered, dragged in every direction; given over to desire and anger — whose highest resort, support, is desire and anger; they strive, exert themselves, for the enjoyment of desires — for the purpose of enjoying desires, not for dharma — unjustly, by stealing others' property and the like, that is. For what? For hoards of wealth, accumulations of riches. And such is their thought:"},
+           ],
+           words=[
+               ["āśā-pāśa-śataiḥ", "by hundreds of ties of hope"],
+               ["baddhāḥ", "bound"],
+               ["kāma-krodha-parāyaṇāḥ", "given over to desire and anger"],
+               ["īhante", "they strive"],
+               ["kāma-bhoga-artham", "for the enjoyment of desires"],
+               ["anyāyena", "unjustly"],
+               ["artha-sañcayān", "for hoards of wealth"],
            ]),
         _v([
             "idamadya mayā labdhamidaṃ prāpsye manoratham |",
@@ -137,6 +301,23 @@ STOTRA = {
            "'This I have gained today; this desire I shall fulfil; this wealth is mine, and this too shall be mine hereafter;",
            bhashya=[
                {"text": "idaṃ dravyam, adya idānīṃ mayā labdham. idam anyat prāpsye. manorathaṃ manastuṣṭikaram. idaṃ ca asti. idam api ca me bhaviṣyati āgāmini saṃvatsare punaḥ dhanam, tena ahaṃ dhanī vikhyātaḥ bhaviṣyāmi.", "tr": "This wealth I have gained today, now. This other I shall obtain, my heart's desire, which pleases my mind. This is mine, and this wealth too will be mine again next year; by it I shall become famous as a rich man."},
+           ],
+           words=[
+               ["idam", "this"],
+               ["adya", "today"],
+               ["mayā", "by me"],
+               ["labdham", "has been gained"],
+               ["idam", "this"],
+               ["prāpsye", "I shall obtain"],
+               ["manaḥ-ratham", "my heart's desire"],
+               ["idam", "this"],
+               ["asti", "is mine"],
+               ["idam", "this"],
+               ["api", "too"],
+               ["me", "mine"],
+               ["bhaviṣyati", "will be"],
+               ["punaḥ", "again"],
+               ["dhanam", "wealth"],
            ]),
         _v([
             "asau mayā hataḥ śatrurhaniṣye cāparānapi |",
@@ -145,6 +326,24 @@ STOTRA = {
            "that enemy has been slain by me, and I shall slay others too. I am the lord, I am the enjoyer, I am successful, strong and happy;",
            bhashya=[
                {"text": "asau mayeti : asau devadattanāmā mayā hataḥ durjayaḥ śatruḥ. haniṣye ca anyān varākān aparān api. kimete kariṣyanti tapasvinaḥ? sarvathā'pi nāsti mattulyaḥ. katham? īśvaraḥ aham, ahaṃ bhogī, sarvaprakāreṇa ca siddhaḥ ahaṃ sampannaḥ putraiḥ naptṛbhiḥ na kevalaṃ mānuṣoham. balavān sukhī ca ahameva, anye tu bhūmibhārāya avatīrṇāḥ", "tr": "'That enemy has been slain by me…' That enemy named Devadatta, hard to conquer, has been slain by me; and I shall slay other wretches too. What can these poor creatures do? In every way there is none equal to me. How? I am the lord, I am the enjoyer, I am successful in every way, blessed with sons and grandsons; I am not merely a man. I alone am strong and happy; the others have been born only to burden the earth."},
+           ],
+           words=[
+               ["asau", "that"],
+               ["mayā", "by me"],
+               ["hataḥ", "has been slain"],
+               ["śatruḥ", "enemy"],
+               ["haniṣye", "I shall slay"],
+               ["ca", "and"],
+               ["aparān", "others"],
+               ["api", "too"],
+               ["īśvaraḥ", "the lord"],
+               ["aham", "I"],
+               ["aham", "I"],
+               ["bhogī", "the enjoyer"],
+               ["siddhaḥ", "successful"],
+               ["aham", "I"],
+               ["balavān", "strong"],
+               ["sukhī", "happy"],
            ]),
         _v([
             "āḍhyo'bhijanavānasmi ko'nyo'sti sadṛśo mayā |",
@@ -153,6 +352,21 @@ STOTRA = {
            "I am rich and well-born; who else is like me? I will sacrifice, I will give, I will rejoice' — thus deluded by ignorance,",
            bhashya=[
                {"text": "āḍhyaḥ iti : āḍhyaḥ dhanena. abhijanavān saptapuruṣaṃ śrotriyatvādisampannaḥ, tenāpi na mama tulyaḥ asti kaścit. kaḥ anyaḥ asti, sadṛśaḥ tulyaḥ mayā? kiṃ ca yakṣye yāgenāpi anyān abhibhaviṣyāmi. dāsyāmi naṭādibhyaḥ, modiṣye harṣaṃ ca atiśayaṃ prāpsyāmi. ityevam ajñānena vimohitāḥ ajñānavimohitāḥ vividham avivekabhāvam āpannāḥ.", "tr": "'I am rich…' Rich in wealth; well-born, endowed with seven generations of Vedic learning and the like — in that too there is none equal to me. Who else is there like, equal to, me? Moreover I shall sacrifice — I shall surpass others even in sacrifice; I shall give, to actors and the like; I shall rejoice, gain exceeding delight. Thus deluded by ignorance — fallen into many kinds of non-discrimination."},
+           ],
+           words=[
+               ["āḍhyaḥ", "rich"],
+               ["abhijanavān", "well-born"],
+               ["asmi", "I am"],
+               ["kaḥ", "who"],
+               ["anyaḥ", "else"],
+               ["asti", "is"],
+               ["sadṛśaḥ", "like"],
+               ["mayā", "me"],
+               ["yakṣye", "I shall sacrifice"],
+               ["dāsyāmi", "I shall give"],
+               ["modiṣye", "I shall rejoice"],
+               ["iti", "thus"],
+               ["ajñāna-vimohitāḥ", "deluded by ignorance"],
            ]),
         _v([
             "anekacittavibhrāntā mohajālasamāvṛtāḥ |",
@@ -161,6 +375,15 @@ STOTRA = {
            "bewildered by many thoughts, caught in the net of delusion, attached to the gratification of desires, they fall into a foul hell.",
            bhashya=[
                {"text": "aneketi : anekacittavibhrāntāḥ uktaprakāraiḥ anekaiḥ cittaiḥ vividhāṃ bhrāntāḥ anekacitta vibhrāntāḥ mohajālasamāvṛtāḥ mohaḥ avivekaḥ ajñānam. tadeva jālam iva, āvaraṇātmakatvāt. tena samāvṛtāḥ, prasaktāḥ kāmabhogeṣu, tatraiva niṣaṇṇāḥ santaḥ, tena upacita kalmaṣāḥ, patanti narake aśucau vaitaraṇyādau.", "tr": "'Bewildered by many thoughts…' Bewildered in many ways by many thoughts of the kinds described; enveloped in the net of delusion — delusion is non-discrimination, ignorance; it is like a net, being of the nature of covering; covered by it; attached to the enjoyment of desires, sunk in them, and thereby accumulating sin, they fall into a foul hell, such as the Vaitaraṇī."},
+           ],
+           words=[
+               ["aneka-citta-vibhrāntāḥ", "bewildered by many thoughts"],
+               ["moha-jāla-samāvṛtāḥ", "enveloped in the net of delusion"],
+               ["prasaktāḥ", "attached"],
+               ["kāma-bhogeṣu", "to the enjoyment of desires"],
+               ["patanti", "they fall"],
+               ["narake", "into a hell"],
+               ["aśucau", "foul"],
            ]),
         _v([
             "ātmasambhāvitāḥ stabdhāḥ dhanamānamadānvitāḥ |",
@@ -169,6 +392,16 @@ STOTRA = {
            "Self-conceited, obstinate, filled with the pride and intoxication of wealth, they perform sacrifices in name only, with hypocrisy, not according to the rule.",
            bhashya=[
                {"text": "ātmeti : ātmasambhāvitāḥ sarvaguṇaviśiṣṭatayā ātmanaiva sambhāvitāḥ na sādhubhiḥ. stabdhāḥ apraṇatātmānaḥ, dhanamānamadānvitāḥ dhananimittaḥ mānaḥ madaśca, tābhyāṃ dhanamānamadābhyām anvitāḥ, yajante, nāmayajñaiḥ nāmamātraiḥ yajñai ḥ, te, dambhena dharmadhvajitayā avidhipūrvakam vidhivihitāṅgetikartavyatārahitam.", "tr": "'Self-esteemed…' Esteemed by themselves as endowed with every virtue, not by the good; stubborn, unbending; full of the pride and intoxication of wealth — pride and intoxication caused by wealth — they sacrifice with sacrifices in name only, mere names of sacrifices, with ostentation, flaunting the banner of dharma, not according to rule — devoid of the auxiliaries and procedures enjoined by injunction."},
+           ],
+           words=[
+               ["ātma-sambhāvitāḥ", "self-esteemed"],
+               ["stabdhāḥ", "stubborn"],
+               ["dhana-māna-mada-anvitāḥ", "full of the pride and intoxication of wealth"],
+               ["yajante", "they sacrifice"],
+               ["nāma-yajñaiḥ", "with sacrifices in name only"],
+               ["te", "they"],
+               ["dambhena", "with ostentation"],
+               ["avidhi-pūrvakam", "not according to rule"],
            ]),
         _v([
             "ahaṅkāraṃ balaṃ darpaṃ kāmaṃ krodhaṃ ca saṃśritāḥ |",
@@ -177,6 +410,19 @@ STOTRA = {
            "Given to egoism, force, arrogance, desire and anger, these malicious people hate me in their own bodies and in those of others.",
            bhashya=[
                {"text": "ahamiti : ahaṅkāram ahaṅkaraṇam ahaṅkāraḥ vidyamānaiḥ avidyamānaiḥ ca guṇaiḥ ātmani adhyāropitaiḥ viśiṣṭam ātmānam “ahamiti” manyate, saḥ ahaṅkāraḥ avidyākhyaḥ, kaṣṭatamaḥ sarvadoṣāṇāṃ mūlaṃ, sarvānarthapravṛttīnāṃ ca. tathā balaṃ parābhibhavanimittaṃ kāmarāgānvitam. darpam darpaḥ nāma yasya udbhave dharmam atikrāmati. saḥ ayam antaḥkaraṇāśrayaḥ doṣaviśeṣaḥ. kāmam stryādi viṣayam. krodham aniṣṭaviṣayam. etān anyān ca mahataḥ doṣān saṃśritāḥ kiṃ ca te mām īśvaram ātmaparadeheṣu, svadehe paradeheṣu ca tadbuddhikarmasākṣibhūtaṃ māṃ pradviṣantaḥ, macchāsanātivartitvaṃ pradveṣaḥ taṃ kurvantaḥ abhyasūyakāḥ sanmārgasthānāṃ guṇeṣu asahamānāḥ", "tr": "'Given to egoism…' Egoism is making oneself 'I' — one thinks oneself 'I', distinguished by qualities, existing and non-existent, superimposed on oneself; that egoism is called ignorance, the most grievous, the root of all faults and of all harmful actions. Likewise strength, joined with desire and passion, aimed at overpowering others. Arrogance: arrogance is that on whose arising one transgresses dharma; it is a particular fault residing in the inner organ. Desire, for women and the like. Anger, at what is unwelcome. Resorting to these and other great faults; moreover, hating me, the Lord, in their own bodies and in those of others — me, the witness of their understanding and actions in their own body and in others' — hating: hatred is transgressing my commands; doing that; envious, unable to bear the virtues of those on the right path —"},
+           ],
+           words=[
+               ["ahaṅkāram", "to egoism"],
+               ["balam", "force"],
+               ["darpam", "arrogance"],
+               ["kāmam", "desire"],
+               ["krodham", "anger"],
+               ["ca", "and"],
+               ["saṃśritāḥ", "given over"],
+               ["mām", "me"],
+               ["ātma-para-deheṣu", "in their own and others' bodies"],
+               ["pradviṣantaḥ", "hating"],
+               ["abhyasūyakāḥ", "the envious"],
            ]),
         _v([
             "tānahaṃ dviṣataḥ krūrān saṃsāreṣu narādhamān |",
@@ -185,6 +431,20 @@ STOTRA = {
            "These cruel haters, the worst of men, I hurl again and again into demonic wombs in the cycles of rebirth, as they do evil.",
            bhashya=[
                {"text": "tānahamiti : tān ahaṃ sarvān sanmārgapratipakṣabhūtān sādhudveṣiṇaḥ dviṣat ca māṃ krūrān, saṃsāreṣveva aneka narakasaṃsāramārgeṣu, narādhamān adharmadoṣavattvāt, kṣipāmi prakṣipāmi. ajasraṃ santatam, aśubhān aśubhakarmakāriṇaḥ āsurīṣveva krūrakarma prāyāsu vyāghrasiṃhādi yoniṣu – “kṣipāmi” ityanena sambandhaḥ", "tr": "'Those hateful ones…' Those cruel ones — all of them, opposed to the right path, haters of the good, hating me — the lowest of men, because of the fault of adharma, I cast, hurl, continually, unceasingly, into saṃsāra — into the many paths of saṃsāra that lead to hell — those inauspicious ones, doers of inauspicious deeds, into demonic wombs alone, given mostly to cruel deeds, such as those of tigers and lions — connected with 'I cast'."},
+           ],
+           words=[
+               ["tān", "those"],
+               ["aham", "I"],
+               ["dviṣataḥ", "hateful"],
+               ["krūrān", "cruel"],
+               ["saṃsāreṣu", "into saṃsāra"],
+               ["nara-adhamān", "the lowest of men"],
+               ["kṣipāmi", "cast"],
+               ["ajasram", "continually"],
+               ["aśubhān", "the inauspicious"],
+               ["āsurīṣu", "demonic"],
+               ["eva", "only"],
+               ["yoniṣu", "into wombs"],
            ]),
         _v([
             "āsurīṃ yonimāpannā mūḍhā janmani janmani |",
@@ -193,6 +453,21 @@ STOTRA = {
            "Having entered demonic wombs, deluded birth after birth, never reaching me, son of Kuntī, they go to a still lower state.",
            bhashya=[
                {"text": "āsurīmiti : āsurīṃ yonim, āpannāḥ pratipannāḥ, mūḍhāḥ avivekinaḥ janmani janmani pratijanma tamobahulāsveva yoniṣu jāyamānāḥ athaḥ gacchantaḥ. mūḍhā mām īśvaram, aprāpya anāsādyaiva, he kaunteya, tataḥ tasmādapi, yānti adhamāṃ gatim. nikṛṣṭatamāṃ gatim. “mām aprāpya eva iti na matprāptau kācidapyāśāṅkā asti, ataḥ macchiṣṭasādhumārga prāptim aprāpyetyarthaḥ.", "tr": "'Entering demonic wombs…' Entering, falling into, demonic wombs, the deluded, the undiscriminating, birth after birth, born in each birth in wombs abounding in tamas, going downward, the deluded, without reaching, attaining, me, the Lord, Kaunteya, go from there, even from that, to a still lower, the lowest, state. 'Without reaching me': there is no question at all of their reaching me; so it means without reaching the path of the good taught by me."},
+           ],
+           words=[
+               ["āsurīm", "demonic"],
+               ["yonim", "wombs"],
+               ["āpannāḥ", "entering"],
+               ["mūḍhāḥ", "the deluded"],
+               ["janmani janmani", "birth after birth"],
+               ["mām", "me"],
+               ["aprāpya", "not reaching"],
+               ["eva", "at all"],
+               ["kaunteya", "O son of Kuntī"],
+               ["tataḥ", "from there"],
+               ["yānti", "they go"],
+               ["adhamām", "to a still lower"],
+               ["gatim", "state"],
            ]),
         _v([
             "trividhaṃ narakasyedaṃ dvāraṃ nāśanamātmanaḥ |",
@@ -202,6 +477,22 @@ STOTRA = {
            bhashya=[
                {"text": "sarvasyāḥ āsuryāḥ sampadaḥ saṅkṣepaḥ ayam ucyate. yasmin trividhe sarvaḥ āsurī sampadbhedaḥ anantaḥ api antarbhavati, yatparihāreṇa parihṛtaḥ ca bhavati, yat mūlaṃ sarvasya anarthasya tat etat ucyate.", "intro": True, "tr": "This is a summary of the whole demonic endowment. That threefold thing in which all the endless varieties of the demonic endowment are contained, by avoiding which they are all avoided, and which is the root of all harm — that is now told:"},
                {"text": "trividhaṃ triprakāraṃ narakasya prāptau idaṃ dvāraṃ, nāśanam ātmanaḥ. yat dvāraṃ praviśanneva ātmā, kasmaicit puruṣārthāya yogyaḥ na bhavati ityetat. ataḥ ucyate, “dvāraṃ nāśanamātmanaḥ” iti. kiṃ tat? kāmaḥ krodhaḥ tathā lobhaḥ tasmāt etat trayaṃ tyajet. yataḥ etat dvāraṃ nāśanam ātmanaḥ tasmāt kāmāditrayam etat tyajet. tyāgastutiriyam.", "tr": "This is the threefold gate to hell, ruinous to the self: entering by this gate the self becomes unfit for any human end; so it is called 'the gate ruinous to the self'. What is it? Desire, anger and greed. Therefore one should give up these three. Since this gate is ruinous to the self, one should give up these three, desire and the rest. This is praise of giving them up."},
+           ],
+           words=[
+               ["tri-vidham", "threefold"],
+               ["narakasya", "to hell"],
+               ["idam", "this"],
+               ["dvāram", "gate"],
+               ["nāśanam", "ruinous"],
+               ["ātmanaḥ", "to the self"],
+               ["kāmaḥ", "desire"],
+               ["krodhaḥ", "anger"],
+               ["tathā", "and"],
+               ["lobhaḥ", "greed"],
+               ["tasmāt", "therefore"],
+               ["etat", "these"],
+               ["trayam", "three"],
+               ["tyajet", "one should give up"],
            ]),
         _v([
             "etairvimuktaḥ kaunteya tamodvāraistribhirnaraḥ |",
@@ -210,6 +501,21 @@ STOTRA = {
            "A man released from these three gates of darkness, son of Kuntī, does what is good for himself, and so goes to the highest goal.",
            bhashya=[
                {"text": "etairiti : etaiḥ vimuktaḥ kaunteya! tamodvāraiḥ tamasaḥ narakasya duḥkha mohātmakasya dvārāṇi kāmādayaḥ, taiḥ etaiḥ tribhiḥ vimuktaḥ naraḥ, ācarati anutiṣṭhati. kim? ātmanaḥ śreyaḥ yatpratibaddhaḥ pūrvaṃ na ācacāra! tadapagamāt ācarati. tataḥ tadācaraṇāt, yāti parāṃ gatiṃ mokṣam api iti.", "tr": "'Freed from these…' Freed from these, Kaunteya, the gates to darkness — desire and the rest are the gates to darkness, to hell, consisting of pain and delusion — a man freed from these three practises, carries out — what? The good of the self, which, obstructed by them, he did not practise before; when they are gone, he practises it. Then, from practising it, he goes to the supreme goal, even liberation."},
+           ],
+           words=[
+               ["etaiḥ", "from these"],
+               ["vimuktaḥ", "freed"],
+               ["kaunteya", "O son of Kuntī"],
+               ["tamaḥ-dvāraiḥ", "gates to darkness"],
+               ["tribhiḥ", "three"],
+               ["naraḥ", "a man"],
+               ["ācarati", "practises"],
+               ["ātmanaḥ", "of the self"],
+               ["śreyaḥ", "the good"],
+               ["tataḥ", "then"],
+               ["yāti", "goes"],
+               ["parām", "to the supreme"],
+               ["gatim", "goal"],
            ]),
         _v([
             "yaḥ śāstravidhimutsṛjya vartate kāmakārataḥ |",
@@ -219,6 +525,22 @@ STOTRA = {
            bhashya=[
                {"text": "sarvasya etasya āsurīsampatparivarjanasya śreya ācaraṇasya ca śāstraṃ kāraṇam. śāstrapramāṇāt ubhayaṃ kartuṃ śakyaṃ, na anyathā, ataḥ –", "intro": True, "tr": "Scripture is the cause of all this — of avoiding the demonic endowment and of practising the good. Both can be done on the authority of scripture, not otherwise. Therefore —"},
                {"text": "yaḥ śāstravidhiṃ śāstraṃ vedaḥ tasyavidhiṃ kartavyākartavyajñānakāraṇaṃ vidhipratiṣedhākhyam, utsṛjya tyaktvā, vartate, kāmakārataḥ kāmaprayuktaḥ san, na, saḥ siddhiṃ puruṣārthayogyatām avāpnoti. na api asmin loke sukhaṃ, nāpi parāṃ prakṛṣṭāṃ gatiṃ svargaṃ mokṣaṃ vā.", "tr": "He who, setting aside, abandoning, the rule of scripture — scripture is the Veda, and its rule, consisting of injunction and prohibition, is the source of knowing what is to be done and not done — acts from the impulse of desire, impelled by desire, does not attain perfection, fitness for human ends; nor happiness in this world, nor the supreme, highest, goal, heaven or liberation."},
+           ],
+           words=[
+               ["yaḥ", "who"],
+               ["śāstra-vidhim", "the rule of scripture"],
+               ["utsṛjya", "setting aside"],
+               ["vartate", "acts"],
+               ["kāma-kārataḥ", "from the impulse of desire"],
+               ["na", "not"],
+               ["saḥ", "he"],
+               ["siddhim", "perfection"],
+               ["avāpnoti", "attains"],
+               ["na", "nor"],
+               ["sukham", "happiness"],
+               ["na", "nor"],
+               ["parām", "the supreme"],
+               ["gatim", "goal"],
            ]),
         _v([
             "tasmācchāstraṃ pramāṇaṃ te kāryākāryavyavasthitau |",
@@ -227,6 +549,19 @@ STOTRA = {
            "Therefore let scripture be your authority in deciding what should and should not be done. Knowing what is declared by the injunctions of scripture, you should act here.",
            bhashya=[
                {"text": "tasmāditi : tasmāt śāstraṃ pramāṇaṃ jñānasādhanaṃ, te tava, kāryākārya vyavasthitau kartavyākartavyavyavasthāyām, ataḥ jñātvā buddhvā, śāstravidhānoktam, vidhiḥ vidhānam, śāstrameva vidhānaṃ śāstravidhānam, “kuryāt na kuryāt” ityevaṃ lakṣaṇam. tena uktaṃ svakarma yat tat kartum iha arhasi. “iha” iti karmādhikāra bhūmipradarśanārtham iti.", "tr": "'Therefore let scripture be your authority…' Therefore scripture is your authority, the means of knowledge, in determining what is to be done and what is not to be done. So, knowing, understanding, the action declared by the ordinance of scripture — ordinance is rule; scripture itself is the ordinance, of the form 'one should do, one should not do'; the duty of your own declared by it — you should do it here. 'Here' is to indicate the ground where one is qualified for action."},
+           ],
+           words=[
+               ["tasmāt", "therefore"],
+               ["śāstram", "scripture"],
+               ["pramāṇam", "the authority"],
+               ["te", "your"],
+               ["kārya-akārya-vyavasthitau", "in determining what is to be done and not done"],
+               ["jñātvā", "knowing"],
+               ["śāstra-vidhāna-uktam", "declared by the ordinance of scripture"],
+               ["karma", "the action"],
+               ["kartum", "to do"],
+               ["iha", "here"],
+               ["arhasi", "you should"],
            ]),
         "ornament",
         {"colophon": "iti śrī mahābhārate śatasāhasryāṃ vaiyāsikyāṃ bhīṣmaparvaṇi śrīmadbhagavadgītāsūpaniṣatsu brahmavidyāyāṃ yogaśāstre śrīkṛṣṇārjunasaṃvāde daivāsurasampadvibhāgayogo nāma ṣoḍaśo'dhyāyaḥ.", "gloss": "Thus, in the Bhagavad Gītā — the Upaniṣad, the knowledge of Brahman, the scripture of yoga, the dialogue of Śrī Kṛṣṇa and Arjuna — within the Bhīṣma Parva of the Mahābhārata, the collection of a hundred thousand verses by Vyāsa, ends the sixteenth chapter, Daivāsurasampadvibhāga Yoga."},

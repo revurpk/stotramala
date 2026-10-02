@@ -253,6 +253,16 @@
     text-align:left;
     margin:0;
   }
+  /* word-by-word list above a translation: Sanskrit upright, meaning italic,
+     a middle dot between pairs */
+  .gloss p.wbw{
+    font-size:.96rem;line-height:1.75;margin:0 0 .75rem;
+    padding-bottom:.6rem;border-bottom:1px solid var(--rule);
+  }
+  .gloss p.wbw .sans{font-style:normal;color:var(--ink);}
+  .gloss p.wbw .w:not(:last-child)::after{
+    content:"\00a0·";color:var(--accent);opacity:.6;margin-right:.4em;
+  }
   .viniyoga .lines{
     font-size:1.1rem;
     line-height:1.7;
@@ -403,7 +413,20 @@
       <span class="sans">vivasvānmanave prāha manurikṣvākave'bravīt</span><br>
       <span class="num sans">|| 1 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">imam</span> this</span>
+        <span class="w"><span class="sans">vivasvate</span> to Vivasvān</span>
+        <span class="w"><span class="sans">yogam</span> yoga</span>
+        <span class="w"><span class="sans">proktavān</span> declared</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">avyayam</span> imperishable</span>
+        <span class="w"><span class="sans">vivasvān</span> Vivasvān</span>
+        <span class="w"><span class="sans">manave</span> to Manu</span>
+        <span class="w"><span class="sans">prāha</span> told</span>
+        <span class="w"><span class="sans">manuḥ</span> Manu</span>
+        <span class="w"><span class="sans">ikṣvākave</span> to Ikṣvāku</span>
+        <span class="w"><span class="sans">abravīt</span> told</span></p>
       <p>The Blessed Lord said: I taught this imperishable yoga to Vivasvān; Vivasvān taught it to Manu, and Manu told it to Ikṣvāku.</p>
     </details>
     <details class="gloss bhashya">
@@ -419,7 +442,20 @@
       <span class="sans">sa kāleneha mahatā yogo naṣṭaḥ parantapa</span><br>
       <span class="num sans">|| 2 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">evam</span> thus</span>
+        <span class="w"><span class="sans">paramparā-prāptam</span> handed down in succession</span>
+        <span class="w"><span class="sans">imam</span> this</span>
+        <span class="w"><span class="sans">rāja-ṛṣayaḥ</span> the royal sages</span>
+        <span class="w"><span class="sans">viduḥ</span> knew</span>
+        <span class="w"><span class="sans">saḥ</span> that</span>
+        <span class="w"><span class="sans">kālena</span> by time</span>
+        <span class="w"><span class="sans">iha</span> here</span>
+        <span class="w"><span class="sans">mahatā</span> long</span>
+        <span class="w"><span class="sans">yogaḥ</span> yoga</span>
+        <span class="w"><span class="sans">naṣṭaḥ</span> was lost</span>
+        <span class="w"><span class="sans">parantapa</span> O scorcher of foes</span></p>
       <p>Thus received in succession, the royal sages knew it. Through long lapse of time here, O scorcher of foes, that yoga was lost.</p>
     </details>
     <details class="gloss bhashya">
@@ -435,7 +471,27 @@
       <span class="sans">bhakto'si me sakhā ceti rahasyaṃ hyetaduttamam</span><br>
       <span class="num sans">|| 3 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">saḥ</span> that</span>
+        <span class="w"><span class="sans">eva</span> very</span>
+        <span class="w"><span class="sans">ayam</span> this</span>
+        <span class="w"><span class="sans">mayā</span> by me</span>
+        <span class="w"><span class="sans">te</span> to you</span>
+        <span class="w"><span class="sans">adya</span> today</span>
+        <span class="w"><span class="sans">yogaḥ</span> yoga</span>
+        <span class="w"><span class="sans">proktaḥ</span> has been declared</span>
+        <span class="w"><span class="sans">purātanaḥ</span> ancient</span>
+        <span class="w"><span class="sans">bhaktaḥ</span> devotee</span>
+        <span class="w"><span class="sans">asi</span> you are</span>
+        <span class="w"><span class="sans">me</span> my</span>
+        <span class="w"><span class="sans">sakhā</span> friend</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">iti</span> for</span>
+        <span class="w"><span class="sans">rahasyam</span> secret</span>
+        <span class="w"><span class="sans">hi</span> indeed</span>
+        <span class="w"><span class="sans">etat</span> this</span>
+        <span class="w"><span class="sans">uttamam</span> supreme</span></p>
       <p>That same ancient yoga I have taught you today, for you are my devotee and my friend; this is indeed the highest secret.</p>
     </details>
     <details class="gloss bhashya">
@@ -455,7 +511,21 @@
       <span class="sans">kathametadvijānīyāṃ tvamādau proktavāniti</span><br>
       <span class="num sans">|| 4 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">aparam</span> later</span>
+        <span class="w"><span class="sans">bhavataḥ</span> your</span>
+        <span class="w"><span class="sans">janma</span> birth</span>
+        <span class="w"><span class="sans">param</span> earlier</span>
+        <span class="w"><span class="sans">janma</span> birth</span>
+        <span class="w"><span class="sans">vivasvataḥ</span> of Vivasvān</span>
+        <span class="w"><span class="sans">katham</span> how</span>
+        <span class="w"><span class="sans">etat</span> this</span>
+        <span class="w"><span class="sans">vijānīyām</span> am I to understand</span>
+        <span class="w"><span class="sans">tvam</span> you</span>
+        <span class="w"><span class="sans">ādau</span> in the beginning</span>
+        <span class="w"><span class="sans">proktavān</span> declared</span>
+        <span class="w"><span class="sans">iti</span> that</span></p>
       <p>Arjuna said: Your birth was later, and the birth of Vivasvān earlier. How am I to understand that you taught it in the beginning?</p>
     </details>
     <details class="gloss bhashya">
@@ -475,7 +545,23 @@
       <span class="sans">tānyahaṃ veda sarvāṇi na tvaṃ vettha parantapa</span><br>
       <span class="num sans">|| 5 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">bahūni</span> many</span>
+        <span class="w"><span class="sans">me</span> my</span>
+        <span class="w"><span class="sans">vyatītāni</span> have passed</span>
+        <span class="w"><span class="sans">janmāni</span> births</span>
+        <span class="w"><span class="sans">tava</span> yours</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">arjuna</span> O Arjuna</span>
+        <span class="w"><span class="sans">tāni</span> them</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">veda</span> know</span>
+        <span class="w"><span class="sans">sarvāṇi</span> all</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">tvam</span> you</span>
+        <span class="w"><span class="sans">vettha</span> know</span>
+        <span class="w"><span class="sans">parantapa</span> O scorcher of foes</span></p>
       <p>The Blessed Lord said: Many births of mine have passed, and of yours, Arjuna. I know them all; you do not know them, O scorcher of foes.</p>
     </details>
     <details class="gloss bhashya">
@@ -493,7 +579,21 @@
       <span class="sans">prakṛtiṃ svāmadhiṣṭhāya sambhavāmyātmamāyayā</span><br>
       <span class="num sans">|| 6 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">ajaḥ</span> unborn</span>
+        <span class="w"><span class="sans">api</span> though</span>
+        <span class="w"><span class="sans">san</span> being</span>
+        <span class="w"><span class="sans">avyaya-ātmā</span> of imperishable nature</span>
+        <span class="w"><span class="sans">bhūtānām</span> of beings</span>
+        <span class="w"><span class="sans">īśvaraḥ</span> the Lord</span>
+        <span class="w"><span class="sans">api</span> though</span>
+        <span class="w"><span class="sans">san</span> being</span>
+        <span class="w"><span class="sans">prakṛtim</span> nature</span>
+        <span class="w"><span class="sans">svām</span> my own</span>
+        <span class="w"><span class="sans">adhiṣṭhāya</span> governing</span>
+        <span class="w"><span class="sans">sambhavāmi</span> I come into being</span>
+        <span class="w"><span class="sans">ātma-māyayā</span> by my own māyā</span></p>
       <p>Though I am unborn and my Self is imperishable, though I am the lord of beings, yet governing my own nature I come into being through my own māyā.</p>
     </details>
     <details class="gloss bhashya">
@@ -511,7 +611,20 @@
       <span class="sans">abhyutthānamadharmasya tadā''tmānaṃ sṛjāmyaham</span><br>
       <span class="num sans">|| 7 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yadā yadā</span> whenever</span>
+        <span class="w"><span class="sans">hi</span> indeed</span>
+        <span class="w"><span class="sans">dharmasya</span> of dharma</span>
+        <span class="w"><span class="sans">glāniḥ</span> decline</span>
+        <span class="w"><span class="sans">bhavati</span> there is</span>
+        <span class="w"><span class="sans">bhārata</span> O Bhārata</span>
+        <span class="w"><span class="sans">abhyutthānam</span> rise</span>
+        <span class="w"><span class="sans">adharmasya</span> of adharma</span>
+        <span class="w"><span class="sans">tadā</span> then</span>
+        <span class="w"><span class="sans">ātmānam</span> myself</span>
+        <span class="w"><span class="sans">sṛjāmi</span> send forth</span>
+        <span class="w"><span class="sans">aham</span> I</span></p>
       <p>Whenever dharma declines and adharma rises, O Bhārata, then I bring myself forth.</p>
     </details>
     <details class="gloss bhashya">
@@ -529,7 +642,16 @@
       <span class="sans">dharmasaṃsthāpanārthāya sambhavāmi yuge yuge</span><br>
       <span class="num sans">|| 8 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">paritrāṇāya</span> for the protection</span>
+        <span class="w"><span class="sans">sādhūnām</span> of the good</span>
+        <span class="w"><span class="sans">vināśāya</span> for the destruction</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">duṣkṛtām</span> of evil-doers</span>
+        <span class="w"><span class="sans">dharma-saṃsthāpana-arthāya</span> for the firm founding of dharma</span>
+        <span class="w"><span class="sans">sambhavāmi</span> I come into being</span>
+        <span class="w"><span class="sans">yuge yuge</span> age after age</span></p>
       <p>For the protection of the good, for the destruction of evildoers, and to establish dharma firmly, I come into being age after age.</p>
     </details>
     <details class="gloss bhashya">
@@ -545,7 +667,26 @@
       <span class="sans">tyaktvā dehaṃ punarjanma naiti māmeti so'rjuna</span><br>
       <span class="num sans">|| 9 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">janma</span> birth</span>
+        <span class="w"><span class="sans">karma</span> action</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">me</span> my</span>
+        <span class="w"><span class="sans">divyam</span> divine</span>
+        <span class="w"><span class="sans">evam</span> thus</span>
+        <span class="w"><span class="sans">yaḥ</span> who</span>
+        <span class="w"><span class="sans">vetti</span> knows</span>
+        <span class="w"><span class="sans">tattvataḥ</span> in truth</span>
+        <span class="w"><span class="sans">tyaktvā</span> leaving</span>
+        <span class="w"><span class="sans">deham</span> the body</span>
+        <span class="w"><span class="sans">punaḥ janma</span> rebirth</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">eti</span> goes to</span>
+        <span class="w"><span class="sans">mām</span> to me</span>
+        <span class="w"><span class="sans">eti</span> comes</span>
+        <span class="w"><span class="sans">saḥ</span> he</span>
+        <span class="w"><span class="sans">arjuna</span> O Arjuna</span></p>
       <p>He who truly knows my divine birth and action is not born again on leaving the body; he comes to me, Arjuna.</p>
     </details>
     <details class="gloss bhashya">
@@ -561,7 +702,17 @@
       <span class="sans">bahavo jñānatapasā pūtā madbhāvamāgatāḥ</span><br>
       <span class="num sans">|| 10 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">vīta-rāga-bhaya-krodhāḥ</span> free from passion, fear and anger</span>
+        <span class="w"><span class="sans">mat-mayāḥ</span> absorbed in me</span>
+        <span class="w"><span class="sans">mām</span> in me</span>
+        <span class="w"><span class="sans">upāśritāḥ</span> taking refuge</span>
+        <span class="w"><span class="sans">bahavaḥ</span> many</span>
+        <span class="w"><span class="sans">jñāna-tapasā</span> by the austerity of knowledge</span>
+        <span class="w"><span class="sans">pūtāḥ</span> purified</span>
+        <span class="w"><span class="sans">mat-bhāvam</span> my state</span>
+        <span class="w"><span class="sans">āgatāḥ</span> have reached</span></p>
       <p>Freed from passion, fear and anger, absorbed in me, taking refuge in me, many, purified by the austerity of knowledge, have attained my state.</p>
     </details>
     <details class="gloss bhashya">
@@ -579,7 +730,23 @@
       <span class="sans">mama vartmānuvartante manuṣyāḥ pārtha sarvaśaḥ</span><br>
       <span class="num sans">|| 11 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">ye</span> who</span>
+        <span class="w"><span class="sans">yathā</span> as</span>
+        <span class="w"><span class="sans">mām</span> me</span>
+        <span class="w"><span class="sans">prapadyante</span> approach</span>
+        <span class="w"><span class="sans">tān</span> them</span>
+        <span class="w"><span class="sans">tathā</span> so</span>
+        <span class="w"><span class="sans">eva</span> just</span>
+        <span class="w"><span class="sans">bhajāmi</span> favour</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">mama</span> my</span>
+        <span class="w"><span class="sans">vartma</span> path</span>
+        <span class="w"><span class="sans">anuvartante</span> follow</span>
+        <span class="w"><span class="sans">manuṣyāḥ</span> men</span>
+        <span class="w"><span class="sans">pārtha</span> O Pārtha</span>
+        <span class="w"><span class="sans">sarvaśaḥ</span> in every way</span></p>
       <p>In whatever way people approach me, in that same way I favour them; everywhere, Pārtha, people follow my path.</p>
     </details>
     <details class="gloss bhashya">
@@ -597,7 +764,21 @@
       <span class="sans">kṣipraṃ hi mānuṣe loke siddhirbhavati karmajā</span><br>
       <span class="num sans">|| 12 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">kāṅkṣantaḥ</span> desiring</span>
+        <span class="w"><span class="sans">karmaṇām</span> of actions</span>
+        <span class="w"><span class="sans">siddhim</span> the success</span>
+        <span class="w"><span class="sans">yajante</span> they sacrifice</span>
+        <span class="w"><span class="sans">iha</span> here</span>
+        <span class="w"><span class="sans">devatāḥ</span> to the gods</span>
+        <span class="w"><span class="sans">kṣipram</span> quickly</span>
+        <span class="w"><span class="sans">hi</span> for</span>
+        <span class="w"><span class="sans">mānuṣe</span> in the human</span>
+        <span class="w"><span class="sans">loke</span> world</span>
+        <span class="w"><span class="sans">siddhiḥ</span> success</span>
+        <span class="w"><span class="sans">bhavati</span> comes</span>
+        <span class="w"><span class="sans">karma-jā</span> born of action</span></p>
       <p>Desiring the success of their actions, people here worship the gods; for in the world of men success born of action comes quickly.</p>
     </details>
     <details class="gloss bhashya">
@@ -615,7 +796,19 @@
       <span class="sans">tasya kartāramapi māṃ viddhyakartāramavyayam</span><br>
       <span class="num sans">|| 13 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">cātur-varṇyam</span> the fourfold order of classes</span>
+        <span class="w"><span class="sans">mayā</span> by me</span>
+        <span class="w"><span class="sans">sṛṣṭam</span> was created</span>
+        <span class="w"><span class="sans">guṇa-karma-vibhāgaśaḥ</span> according to the division of guṇas and actions</span>
+        <span class="w"><span class="sans">tasya</span> of it</span>
+        <span class="w"><span class="sans">kartāram</span> the maker</span>
+        <span class="w"><span class="sans">api</span> though</span>
+        <span class="w"><span class="sans">mām</span> me</span>
+        <span class="w"><span class="sans">viddhi</span> know</span>
+        <span class="w"><span class="sans">akartāram</span> a non-doer</span>
+        <span class="w"><span class="sans">avyayam</span> imperishable</span></p>
       <p>The fourfold order of classes was created by me according to the division of guṇa and action. Though I am its author, know me as the non-doer, the imperishable.</p>
     </details>
     <details class="gloss bhashya">
@@ -633,7 +826,24 @@
       <span class="sans">iti māṃ yo'bhijānāti karmabhirna sa badhyate</span><br>
       <span class="num sans">|| 14 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">mām</span> me</span>
+        <span class="w"><span class="sans">karmāṇi</span> actions</span>
+        <span class="w"><span class="sans">limpanti</span> taint</span>
+        <span class="w"><span class="sans">na</span> nor</span>
+        <span class="w"><span class="sans">me</span> my</span>
+        <span class="w"><span class="sans">karma-phale</span> for the fruit of action</span>
+        <span class="w"><span class="sans">spṛhā</span> longing</span>
+        <span class="w"><span class="sans">iti</span> thus</span>
+        <span class="w"><span class="sans">mām</span> me</span>
+        <span class="w"><span class="sans">yaḥ</span> who</span>
+        <span class="w"><span class="sans">abhijānāti</span> knows</span>
+        <span class="w"><span class="sans">karmabhiḥ</span> by actions</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">saḥ</span> he</span>
+        <span class="w"><span class="sans">badhyate</span> is bound</span></p>
       <p>Actions do not taint me, nor do I long for their fruit. One who knows me thus is not bound by actions.</p>
     </details>
     <details class="gloss bhashya">
@@ -651,7 +861,23 @@
       <span class="sans">kuru karmaiva tasmāttvaṃ pūrvaiḥ pūrvataraṃ kṛtam</span><br>
       <span class="num sans">|| 15 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">evam</span> thus</span>
+        <span class="w"><span class="sans">jñātvā</span> knowing</span>
+        <span class="w"><span class="sans">kṛtam</span> was done</span>
+        <span class="w"><span class="sans">karma</span> action</span>
+        <span class="w"><span class="sans">pūrvaiḥ</span> by the ancients</span>
+        <span class="w"><span class="sans">api</span> too</span>
+        <span class="w"><span class="sans">mumukṣubhiḥ</span> seekers of liberation</span>
+        <span class="w"><span class="sans">kuru</span> do</span>
+        <span class="w"><span class="sans">karma</span> action</span>
+        <span class="w"><span class="sans">eva</span> indeed</span>
+        <span class="w"><span class="sans">tasmāt</span> therefore</span>
+        <span class="w"><span class="sans">tvam</span> you</span>
+        <span class="w"><span class="sans">pūrvaiḥ</span> by the ancients</span>
+        <span class="w"><span class="sans">pūrva-taram</span> long ago</span>
+        <span class="w"><span class="sans">kṛtam</span> as was done</span></p>
       <p>Knowing this, the seekers of liberation of old also performed action. Therefore you too should perform action, as the ancients did long ago.</p>
     </details>
     <details class="gloss bhashya">
@@ -669,7 +895,25 @@
       <span class="sans">tatte karma pravakṣyāmi yad jñātvā mokṣyase'śubhāt</span><br>
       <span class="num sans">|| 16 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">kim</span> what</span>
+        <span class="w"><span class="sans">karma</span> is action</span>
+        <span class="w"><span class="sans">kim</span> what</span>
+        <span class="w"><span class="sans">akarma</span> is inaction</span>
+        <span class="w"><span class="sans">iti</span> thus</span>
+        <span class="w"><span class="sans">kavayaḥ</span> the wise</span>
+        <span class="w"><span class="sans">api</span> even</span>
+        <span class="w"><span class="sans">atra</span> here</span>
+        <span class="w"><span class="sans">mohitāḥ</span> are bewildered</span>
+        <span class="w"><span class="sans">tat</span> that</span>
+        <span class="w"><span class="sans">te</span> to you</span>
+        <span class="w"><span class="sans">karma</span> action</span>
+        <span class="w"><span class="sans">pravakṣyāmi</span> I will explain</span>
+        <span class="w"><span class="sans">yat</span> which</span>
+        <span class="w"><span class="sans">jñātvā</span> knowing</span>
+        <span class="w"><span class="sans">mokṣyase</span> you will be freed</span>
+        <span class="w"><span class="sans">aśubhāt</span> from evil</span></p>
       <p>What is action, what is inaction? Even the wise are bewildered here. I will explain to you that action, knowing which you will be freed from evil.</p>
     </details>
     <details class="gloss bhashya">
@@ -687,7 +931,21 @@
       <span class="sans">akarmaṇaśca boddhavyaṃ gahanā karmaṇo gatiḥ</span><br>
       <span class="num sans">|| 17 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">karmaṇaḥ</span> of action</span>
+        <span class="w"><span class="sans">hi</span> for</span>
+        <span class="w"><span class="sans">api</span> also</span>
+        <span class="w"><span class="sans">boddhavyam</span> one must understand</span>
+        <span class="w"><span class="sans">boddhavyam</span> one must understand</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">vikarmaṇaḥ</span> of wrong action</span>
+        <span class="w"><span class="sans">akarmaṇaḥ</span> of inaction</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">boddhavyam</span> one must understand</span>
+        <span class="w"><span class="sans">gahanā</span> deep</span>
+        <span class="w"><span class="sans">karmaṇaḥ</span> of action</span>
+        <span class="w"><span class="sans">gatiḥ</span> the way</span></p>
       <p>For one must understand what action is, one must understand what wrong action is, and one must understand what inaction is; deep is the way of action.</p>
     </details>
     <details class="gloss bhashya">
@@ -705,7 +963,22 @@
       <span class="sans">sa buddhimān manuṣyeṣu sa yuktaḥ kṛtsnakarmakṛt</span><br>
       <span class="num sans">|| 18 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">karmaṇi</span> in action</span>
+        <span class="w"><span class="sans">akarma</span> inaction</span>
+        <span class="w"><span class="sans">yaḥ</span> who</span>
+        <span class="w"><span class="sans">paśyet</span> sees</span>
+        <span class="w"><span class="sans">akarmaṇi</span> in inaction</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">karma</span> action</span>
+        <span class="w"><span class="sans">yaḥ</span> who</span>
+        <span class="w"><span class="sans">saḥ</span> he</span>
+        <span class="w"><span class="sans">buddhimān</span> is wise</span>
+        <span class="w"><span class="sans">manuṣyeṣu</span> among men</span>
+        <span class="w"><span class="sans">saḥ</span> he</span>
+        <span class="w"><span class="sans">yuktaḥ</span> is a yogin</span>
+        <span class="w"><span class="sans">kṛtsna-karma-kṛt</span> has done all action</span></p>
       <p>He who sees inaction in action and action in inaction is wise among men; he is a yogin who has done all action.</p>
     </details>
     <details class="gloss bhashya">
@@ -741,7 +1014,17 @@
       <span class="sans">jñānāgnidagdhakarmāṇaṃ tamāhuḥ paṇḍitaṃ budhāḥ</span><br>
       <span class="num sans">|| 19 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yasya</span> whose</span>
+        <span class="w"><span class="sans">sarve</span> all</span>
+        <span class="w"><span class="sans">samārambhāḥ</span> undertakings</span>
+        <span class="w"><span class="sans">kāma-saṅkalpa-varjitāḥ</span> are free from desire and its intention</span>
+        <span class="w"><span class="sans">jñāna-agni-dagdha-karmāṇam</span> whose actions are burnt in the fire of knowledge</span>
+        <span class="w"><span class="sans">tam</span> him</span>
+        <span class="w"><span class="sans">āhuḥ</span> call</span>
+        <span class="w"><span class="sans">paṇḍitam</span> learned</span>
+        <span class="w"><span class="sans">budhāḥ</span> the wise</span></p>
       <p>He whose undertakings are all free from desire and its intentions, whose actions are burnt up in the fire of knowledge — him the wise call learned.</p>
     </details>
     <details class="gloss bhashya">
@@ -759,7 +1042,20 @@
       <span class="sans">karmaṇyabhipravṛtto'pi naiva kiñcitkaroti saḥ</span><br>
       <span class="num sans">|| 20 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">tyaktvā</span> having given up</span>
+        <span class="w"><span class="sans">karma-phala-āsaṅgam</span> attachment to the fruit of action</span>
+        <span class="w"><span class="sans">nitya-tṛptaḥ</span> ever content</span>
+        <span class="w"><span class="sans">nirāśrayaḥ</span> dependent on nothing</span>
+        <span class="w"><span class="sans">karmaṇi</span> in action</span>
+        <span class="w"><span class="sans">abhipravṛttaḥ</span> engaged</span>
+        <span class="w"><span class="sans">api</span> though</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">eva</span> at all</span>
+        <span class="w"><span class="sans">kiñcit</span> anything</span>
+        <span class="w"><span class="sans">karoti</span> does</span>
+        <span class="w"><span class="sans">saḥ</span> he</span></p>
       <p>Having given up attachment to the fruit of action, ever content and dependent on nothing, he does nothing at all, though fully engaged in action.</p>
     </details>
     <details class="gloss bhashya">
@@ -777,7 +1073,18 @@
       <span class="sans">śārīraṃ kevalaṃ karma kurvannāpnoti kilbiṣam</span><br>
       <span class="num sans">|| 21 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">nirāśīḥ</span> without craving</span>
+        <span class="w"><span class="sans">yata-citta-ātmā</span> with mind and self restrained</span>
+        <span class="w"><span class="sans">tyakta-sarva-parigrahaḥ</span> having given up all possessions</span>
+        <span class="w"><span class="sans">śārīram</span> of the body</span>
+        <span class="w"><span class="sans">kevalam</span> only</span>
+        <span class="w"><span class="sans">karma</span> action</span>
+        <span class="w"><span class="sans">kurvan</span> doing</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">āpnoti</span> incurs</span>
+        <span class="w"><span class="sans">kilbiṣam</span> sin</span></p>
       <p>Without craving, with mind and self restrained, giving up all possessions, doing only bodily action, he incurs no sin.</p>
     </details>
     <details class="gloss bhashya">
@@ -797,7 +1104,19 @@
       <span class="sans">samaḥ siddhāvasiddhau ca kṛtvā'pi na nibadhyate</span><br>
       <span class="num sans">|| 22 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yadṛcchā-lābha-santuṣṭaḥ</span> content with what comes by chance</span>
+        <span class="w"><span class="sans">dvandva-atītaḥ</span> beyond the pairs of opposites</span>
+        <span class="w"><span class="sans">vimatsaraḥ</span> free from envy</span>
+        <span class="w"><span class="sans">samaḥ</span> even</span>
+        <span class="w"><span class="sans">siddhau</span> in success</span>
+        <span class="w"><span class="sans">asiddhau</span> in failure</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">kṛtvā</span> having acted</span>
+        <span class="w"><span class="sans">api</span> though</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">nibadhyate</span> is bound</span></p>
       <p>Content with what comes by chance, beyond the pairs of opposites, free from envy, even in success and failure, he is not bound even when he acts.</p>
     </details>
     <details class="gloss bhashya">
@@ -815,7 +1134,16 @@
       <span class="sans">yajñāyācarataḥ karma samagraṃ pravilīyate</span><br>
       <span class="num sans">|| 23 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">gata-saṅgasya</span> whose attachment has gone</span>
+        <span class="w"><span class="sans">muktasya</span> who is free</span>
+        <span class="w"><span class="sans">jñāna-avasthita-cetasaḥ</span> whose mind is established in knowledge</span>
+        <span class="w"><span class="sans">yajñāya</span> for sacrifice</span>
+        <span class="w"><span class="sans">ācarataḥ</span> who acts</span>
+        <span class="w"><span class="sans">karma</span> the action</span>
+        <span class="w"><span class="sans">samagram</span> entirely</span>
+        <span class="w"><span class="sans">pravilīyate</span> dissolves</span></p>
       <p>For one whose attachment has gone, who is free, whose mind is established in knowledge, who acts for the sake of sacrifice, all action dissolves entirely.</p>
     </details>
     <details class="gloss bhashya">
@@ -833,7 +1161,20 @@
       <span class="sans">brahmaiva tena gantavyaṃ brahmakarmasamādhinā</span><br>
       <span class="num sans">|| 24 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">brahma</span> Brahman</span>
+        <span class="w"><span class="sans">arpaṇam</span> the offering</span>
+        <span class="w"><span class="sans">brahma</span> Brahman</span>
+        <span class="w"><span class="sans">haviḥ</span> the oblation</span>
+        <span class="w"><span class="sans">brahma-agnau</span> into the fire that is Brahman</span>
+        <span class="w"><span class="sans">brahmaṇā</span> by Brahman</span>
+        <span class="w"><span class="sans">hutam</span> offered</span>
+        <span class="w"><span class="sans">brahma</span> Brahman</span>
+        <span class="w"><span class="sans">eva</span> alone</span>
+        <span class="w"><span class="sans">tena</span> by him</span>
+        <span class="w"><span class="sans">gantavyam</span> is to be reached</span>
+        <span class="w"><span class="sans">brahma-karma-samādhinā</span> who is absorbed in action that is Brahman</span></p>
       <p>The offering is Brahman, the oblation is Brahman, poured by Brahman into the fire that is Brahman; Brahman alone is to be reached by one absorbed in action that is Brahman.</p>
     </details>
     <details class="gloss bhashya">
@@ -861,7 +1202,20 @@
       <span class="sans">brahmāgnāvapare yajñaṃ yajñenaivopajuhvati</span><br>
       <span class="num sans">|| 25 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">daivam</span> to the gods</span>
+        <span class="w"><span class="sans">eva</span> alone</span>
+        <span class="w"><span class="sans">apare</span> some</span>
+        <span class="w"><span class="sans">yajñam</span> sacrifice</span>
+        <span class="w"><span class="sans">yoginaḥ</span> yogins</span>
+        <span class="w"><span class="sans">paryupāsate</span> perform</span>
+        <span class="w"><span class="sans">brahma-agnau</span> into the fire of Brahman</span>
+        <span class="w"><span class="sans">apare</span> others</span>
+        <span class="w"><span class="sans">yajñam</span> the sacrifice</span>
+        <span class="w"><span class="sans">yajñena</span> by sacrifice</span>
+        <span class="w"><span class="sans">eva</span> itself</span>
+        <span class="w"><span class="sans">upajuhvati</span> offer</span></p>
       <p>Some yogins offer sacrifice to the gods alone; others offer sacrifice by sacrifice itself into the fire of Brahman.</p>
     </details>
     <details class="gloss bhashya">
@@ -879,7 +1233,18 @@
       <span class="sans">śabdādīnviṣayānanya indriyāgniṣu juhvati</span><br>
       <span class="num sans">|| 26 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">śrotra-ādīni</span> hearing and the other</span>
+        <span class="w"><span class="sans">indriyāṇi</span> senses</span>
+        <span class="w"><span class="sans">anye</span> some</span>
+        <span class="w"><span class="sans">saṃyama-agniṣu</span> into the fires of restraint</span>
+        <span class="w"><span class="sans">juhvati</span> offer</span>
+        <span class="w"><span class="sans">śabda-ādīn</span> sound and the other</span>
+        <span class="w"><span class="sans">viṣayān</span> objects</span>
+        <span class="w"><span class="sans">anye</span> others</span>
+        <span class="w"><span class="sans">indriya-agniṣu</span> into the fires of the senses</span>
+        <span class="w"><span class="sans">juhvati</span> offer</span></p>
       <p>Some offer hearing and the other senses into the fires of restraint; others offer sound and the other objects into the fires of the senses.</p>
     </details>
     <details class="gloss bhashya">
@@ -897,7 +1262,16 @@
       <span class="sans">ātmasaṃyamayogāgnau juhvati jñānadīpite</span><br>
       <span class="num sans">|| 27 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">sarvāṇi</span> all</span>
+        <span class="w"><span class="sans">indriya-karmāṇi</span> the actions of the senses</span>
+        <span class="w"><span class="sans">prāṇa-karmāṇi</span> the actions of the breath</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">apare</span> others</span>
+        <span class="w"><span class="sans">ātma-saṃyama-yoga-agnau</span> into the fire of the yoga of self-restraint</span>
+        <span class="w"><span class="sans">juhvati</span> offer</span>
+        <span class="w"><span class="sans">jñāna-dīpite</span> kindled by knowledge</span></p>
       <p>Others offer all the actions of the senses and the actions of the breath into the fire of the yoga of self-restraint, kindled by knowledge.</p>
     </details>
     <details class="gloss bhashya">
@@ -913,7 +1287,17 @@
       <span class="sans">svādhyāyajñānayajñāśca yatayaḥ saṃśitavratāḥ</span><br>
       <span class="num sans">|| 28 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">dravya-yajñāḥ</span> those who sacrifice with wealth</span>
+        <span class="w"><span class="sans">tapaḥ-yajñāḥ</span> those who sacrifice through austerity</span>
+        <span class="w"><span class="sans">yoga-yajñāḥ</span> those who sacrifice through yoga</span>
+        <span class="w"><span class="sans">tathā</span> likewise</span>
+        <span class="w"><span class="sans">apare</span> others</span>
+        <span class="w"><span class="sans">svādhyāya-jñāna-yajñāḥ</span> those who sacrifice through study and knowledge</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">yatayaḥ</span> ascetics</span>
+        <span class="w"><span class="sans">saṃśita-vratāḥ</span> of strict vows</span></p>
       <p>Some offer wealth, some austerity, some yoga as sacrifice; and others, ascetics of strict vows, offer study and knowledge.</p>
     </details>
     <details class="gloss bhashya">
@@ -929,7 +1313,18 @@
       <span class="sans">prāṇāpānagatī ruddhvā prāṇāyāmaparāyaṇāḥ</span><br>
       <span class="num sans">|| 29 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">apāne</span> into the out-breath</span>
+        <span class="w"><span class="sans">juhvati</span> offer</span>
+        <span class="w"><span class="sans">prāṇam</span> the in-breath</span>
+        <span class="w"><span class="sans">prāṇe</span> into the in-breath</span>
+        <span class="w"><span class="sans">apānam</span> the out-breath</span>
+        <span class="w"><span class="sans">tathā</span> likewise</span>
+        <span class="w"><span class="sans">apare</span> others</span>
+        <span class="w"><span class="sans">prāṇa-apāna-gatī</span> the courses of in-breath and out-breath</span>
+        <span class="w"><span class="sans">ruddhvā</span> restraining</span>
+        <span class="w"><span class="sans">prāṇāyāma-parāyaṇāḥ</span> intent on breath control</span></p>
       <p>Others, intent on control of the breath, offer the in-breath into the out-breath and the out-breath into the in-breath, restraining the course of both.</p>
     </details>
     <details class="gloss bhashya">
@@ -945,7 +1340,18 @@
       <span class="sans">sarve'pyete yajñavido yajñakṣapitakalmaṣāḥ</span><br>
       <span class="num sans">|| 30 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">apare</span> others</span>
+        <span class="w"><span class="sans">niyata-āhārāḥ</span> regulating their food</span>
+        <span class="w"><span class="sans">prāṇān</span> the breaths</span>
+        <span class="w"><span class="sans">prāṇeṣu</span> into the breaths</span>
+        <span class="w"><span class="sans">juhvati</span> offer</span>
+        <span class="w"><span class="sans">sarve</span> all</span>
+        <span class="w"><span class="sans">api</span> too</span>
+        <span class="w"><span class="sans">ete</span> these</span>
+        <span class="w"><span class="sans">yajña-vidaḥ</span> know sacrifice</span>
+        <span class="w"><span class="sans">yajña-kṣapita-kalmaṣāḥ</span> their sins destroyed by sacrifice</span></p>
       <p>Others, regulating their food, offer the breaths into the breaths. All of these know sacrifice, and their sins are destroyed by sacrifice.</p>
     </details>
     <details class="gloss bhashya">
@@ -961,7 +1367,20 @@
       <span class="sans">nāyaṃ loko'styayajñasya kuto'nyaḥ kurusattama</span><br>
       <span class="num sans">|| 31 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yajña-śiṣṭa-amṛta-bhujaḥ</span> eating the nectar that remains from sacrifice</span>
+        <span class="w"><span class="sans">yānti</span> they go to</span>
+        <span class="w"><span class="sans">brahma</span> Brahman</span>
+        <span class="w"><span class="sans">sanātanam</span> eternal</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">ayam</span> this</span>
+        <span class="w"><span class="sans">lokaḥ</span> world</span>
+        <span class="w"><span class="sans">asti</span> is</span>
+        <span class="w"><span class="sans">ayajñasya</span> for one who does not sacrifice</span>
+        <span class="w"><span class="sans">kutaḥ</span> how</span>
+        <span class="w"><span class="sans">anyaḥ</span> the other</span>
+        <span class="w"><span class="sans">kuru-sattama</span> O best of the Kurus</span></p>
       <p>Eating the nectar that remains from sacrifice, they reach the eternal Brahman. This world is not for one who does not sacrifice, still less the other, O best of the Kurus.</p>
     </details>
     <details class="gloss bhashya">
@@ -977,7 +1396,21 @@
       <span class="sans">karmajān viddhi tān sarvānevaṃ jñātvā vimokṣyase</span><br>
       <span class="num sans">|| 32 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">evam</span> thus</span>
+        <span class="w"><span class="sans">bahu-vidhāḥ</span> of many kinds</span>
+        <span class="w"><span class="sans">yajñāḥ</span> sacrifices</span>
+        <span class="w"><span class="sans">vitatāḥ</span> are spread out</span>
+        <span class="w"><span class="sans">brahmaṇaḥ</span> of the Veda</span>
+        <span class="w"><span class="sans">mukhe</span> in the mouth</span>
+        <span class="w"><span class="sans">karma-jān</span> born of action</span>
+        <span class="w"><span class="sans">viddhi</span> know</span>
+        <span class="w"><span class="sans">tān</span> them</span>
+        <span class="w"><span class="sans">sarvān</span> all</span>
+        <span class="w"><span class="sans">evam</span> thus</span>
+        <span class="w"><span class="sans">jñātvā</span> knowing</span>
+        <span class="w"><span class="sans">vimokṣyase</span> you will be freed</span></p>
       <p>Thus sacrifices of many kinds are spread out in the mouth of the Veda. Know them all to be born of action; knowing this, you will be released.</p>
     </details>
     <details class="gloss bhashya">
@@ -993,7 +1426,19 @@
       <span class="sans">sarvaṃ karmākhilaṃ pārtha jñāne parisamāpyate</span><br>
       <span class="num sans">|| 33 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">śreyān</span> better</span>
+        <span class="w"><span class="sans">dravya-mayāt</span> made of material things</span>
+        <span class="w"><span class="sans">yajñāt</span> than sacrifice</span>
+        <span class="w"><span class="sans">jñāna-yajñaḥ</span> the sacrifice of knowledge</span>
+        <span class="w"><span class="sans">parantapa</span> O scorcher of foes</span>
+        <span class="w"><span class="sans">sarvam</span> all</span>
+        <span class="w"><span class="sans">karma</span> action</span>
+        <span class="w"><span class="sans">akhilam</span> without exception</span>
+        <span class="w"><span class="sans">pārtha</span> O Pārtha</span>
+        <span class="w"><span class="sans">jñāne</span> in knowledge</span>
+        <span class="w"><span class="sans">parisamāpyate</span> culminates</span></p>
       <p>Better than sacrifice with material things is the sacrifice of knowledge, O scorcher of foes; all action without exception, Pārtha, culminates in knowledge.</p>
     </details>
     <details class="gloss bhashya">
@@ -1011,7 +1456,18 @@
       <span class="sans">upadekṣyanti te jñānaṃ jñāninastattvadarśinaḥ</span><br>
       <span class="num sans">|| 34 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">tat</span> that</span>
+        <span class="w"><span class="sans">viddhi</span> know</span>
+        <span class="w"><span class="sans">praṇipātena</span> by prostration</span>
+        <span class="w"><span class="sans">paripraśnena</span> by questioning</span>
+        <span class="w"><span class="sans">sevayā</span> by service</span>
+        <span class="w"><span class="sans">upadekṣyanti</span> will teach</span>
+        <span class="w"><span class="sans">te</span> you</span>
+        <span class="w"><span class="sans">jñānam</span> knowledge</span>
+        <span class="w"><span class="sans">jñāninaḥ</span> the wise</span>
+        <span class="w"><span class="sans">tattva-darśinaḥ</span> who have seen the truth</span></p>
       <p>Know it by prostrating, by questioning and by service. The wise who have seen the truth will teach you knowledge.</p>
     </details>
     <details class="gloss bhashya">
@@ -1029,7 +1485,23 @@
       <span class="sans">yena bhūtānyaśeṣeṇa drakṣyasyātmanyatho mayi</span><br>
       <span class="num sans">|| 35 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yat</span> which</span>
+        <span class="w"><span class="sans">jñātvā</span> knowing</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">punaḥ</span> again</span>
+        <span class="w"><span class="sans">moham</span> into delusion</span>
+        <span class="w"><span class="sans">evam</span> thus</span>
+        <span class="w"><span class="sans">yāsyasi</span> you will fall</span>
+        <span class="w"><span class="sans">pāṇḍava</span> O Pāṇḍava</span>
+        <span class="w"><span class="sans">yena</span> by which</span>
+        <span class="w"><span class="sans">bhūtāni</span> beings</span>
+        <span class="w"><span class="sans">aśeṣeṇa</span> without remainder</span>
+        <span class="w"><span class="sans">drakṣyasi</span> you will see</span>
+        <span class="w"><span class="sans">ātmani</span> in the Self</span>
+        <span class="w"><span class="sans">atho</span> and then</span>
+        <span class="w"><span class="sans">mayi</span> in me</span></p>
       <p>Knowing it, you will not fall again into such delusion, Pāṇḍava; by it you will see all beings without remainder in the Self, and then in me.</p>
     </details>
     <details class="gloss bhashya">
@@ -1047,7 +1519,18 @@
       <span class="sans">sarvaṃ jñānaplavenaiva vṛjinaṃ santariṣyasi</span><br>
       <span class="num sans">|| 36 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">api cet</span> even if</span>
+        <span class="w"><span class="sans">asi</span> you are</span>
+        <span class="w"><span class="sans">pāpebhyaḥ</span> of sinners</span>
+        <span class="w"><span class="sans">sarvebhyaḥ</span> all</span>
+        <span class="w"><span class="sans">pāpa-kṛt-tamaḥ</span> the most sinful</span>
+        <span class="w"><span class="sans">sarvam</span> all</span>
+        <span class="w"><span class="sans">jñāna-plavena</span> by the raft of knowledge</span>
+        <span class="w"><span class="sans">eva</span> alone</span>
+        <span class="w"><span class="sans">vṛjinam</span> wrongdoing</span>
+        <span class="w"><span class="sans">santariṣyasi</span> you will cross over</span></p>
       <p>Even if you are the most sinful of all sinners, you will cross over all wrongdoing by the raft of knowledge alone.</p>
     </details>
     <details class="gloss bhashya">
@@ -1061,11 +1544,24 @@
 
   <div class="verse">
     <p class="lines">
-      <span class="sans">yathaidhāṃsi samiddho'gnirbhasmasātkuruterju'na |</span><br>
+      <span class="sans">yathaidhāṃsi samiddho'gnirbhasmasātkurute'rjuna |</span><br>
       <span class="sans">jñānāgniḥ sarvakarmāṇi bhasmasāt kurute tathā</span><br>
       <span class="num sans">|| 37 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yathā</span> as</span>
+        <span class="w"><span class="sans">edhāṃsi</span> fuel</span>
+        <span class="w"><span class="sans">samiddhaḥ</span> kindled</span>
+        <span class="w"><span class="sans">agniḥ</span> a fire</span>
+        <span class="w"><span class="sans">bhasmasāt</span> to ashes</span>
+        <span class="w"><span class="sans">kurute</span> reduces</span>
+        <span class="w"><span class="sans">arjuna</span> O Arjuna</span>
+        <span class="w"><span class="sans">jñāna-agniḥ</span> the fire of knowledge</span>
+        <span class="w"><span class="sans">sarva-karmāṇi</span> all actions</span>
+        <span class="w"><span class="sans">bhasmasāt</span> to ashes</span>
+        <span class="w"><span class="sans">kurute</span> reduces</span>
+        <span class="w"><span class="sans">tathā</span> so</span></p>
       <p>As a kindled fire reduces its fuel to ashes, Arjuna, so the fire of knowledge reduces all actions to ashes.</p>
     </details>
     <details class="gloss bhashya">
@@ -1083,7 +1579,21 @@
       <span class="sans">tatsvayaṃ yogasaṃsiddhaḥ kālenātmani vindati</span><br>
       <span class="num sans">|| 38 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">hi</span> for</span>
+        <span class="w"><span class="sans">jñānena</span> to knowledge</span>
+        <span class="w"><span class="sans">sadṛśam</span> equal</span>
+        <span class="w"><span class="sans">pavitram</span> a purifier</span>
+        <span class="w"><span class="sans">iha</span> here</span>
+        <span class="w"><span class="sans">vidyate</span> there is</span>
+        <span class="w"><span class="sans">tat</span> that</span>
+        <span class="w"><span class="sans">svayam</span> by himself</span>
+        <span class="w"><span class="sans">yoga-saṃsiddhaḥ</span> one perfected by yoga</span>
+        <span class="w"><span class="sans">kālena</span> in time</span>
+        <span class="w"><span class="sans">ātmani</span> in himself</span>
+        <span class="w"><span class="sans">vindati</span> finds</span></p>
       <p>There is no purifier here equal to knowledge. One perfected in yoga finds it in himself in time.</p>
     </details>
     <details class="gloss bhashya">
@@ -1099,7 +1609,19 @@
       <span class="sans">jñānaṃ labdhvā parāṃ śāntimacireṇādhigacchati</span><br>
       <span class="num sans">|| 39 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">śraddhāvān</span> the man of faith</span>
+        <span class="w"><span class="sans">labhate</span> gains</span>
+        <span class="w"><span class="sans">jñānam</span> knowledge</span>
+        <span class="w"><span class="sans">tat-paraḥ</span> devoted to it</span>
+        <span class="w"><span class="sans">saṃyata-indriyaḥ</span> with senses controlled</span>
+        <span class="w"><span class="sans">jñānam</span> knowledge</span>
+        <span class="w"><span class="sans">labdhvā</span> having gained</span>
+        <span class="w"><span class="sans">parām</span> supreme</span>
+        <span class="w"><span class="sans">śāntim</span> peace</span>
+        <span class="w"><span class="sans">acireṇa</span> soon</span>
+        <span class="w"><span class="sans">adhigacchati</span> he attains</span></p>
       <p>The man of faith, devoted to it, with senses controlled, gains knowledge; having gained knowledge, he soon attains supreme peace.</p>
     </details>
     <details class="gloss bhashya">
@@ -1119,7 +1641,23 @@
       <span class="sans">nāyaṃ loko'sti na paro na sukhaṃ saṃśayātmanaḥ</span><br>
       <span class="num sans">|| 40 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">ajñaḥ</span> the ignorant</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">aśraddadhānaḥ</span> the faithless</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">saṃśaya-ātmā</span> the doubting</span>
+        <span class="w"><span class="sans">vinaśyati</span> perishes</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">ayam</span> this</span>
+        <span class="w"><span class="sans">lokaḥ</span> world</span>
+        <span class="w"><span class="sans">asti</span> is</span>
+        <span class="w"><span class="sans">na</span> nor</span>
+        <span class="w"><span class="sans">paraḥ</span> the next</span>
+        <span class="w"><span class="sans">na</span> nor</span>
+        <span class="w"><span class="sans">sukham</span> happiness</span>
+        <span class="w"><span class="sans">saṃśaya-ātmanaḥ</span> for the doubter</span></p>
       <p>The ignorant, the faithless and the doubting perish. For the doubting self there is neither this world, nor the next, nor happiness.</p>
     </details>
     <details class="gloss bhashya">
@@ -1137,7 +1675,15 @@
       <span class="sans">ātmavantaṃ na karmāṇi nibadhnanti dhanañjaya</span><br>
       <span class="num sans">|| 41 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yoga-sannyasta-karmāṇam</span> one who has renounced actions through yoga</span>
+        <span class="w"><span class="sans">jñāna-sañchinna-saṃśayam</span> whose doubts are cut by knowledge</span>
+        <span class="w"><span class="sans">ātmavantam</span> self-possessed</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">karmāṇi</span> actions</span>
+        <span class="w"><span class="sans">nibadhnanti</span> bind</span>
+        <span class="w"><span class="sans">dhanañjaya</span> O Dhanañjaya</span></p>
       <p>Actions do not bind one who has renounced actions through yoga, whose doubts are cut by knowledge, who is possessed of the Self, O Dhanañjaya.</p>
     </details>
     <details class="gloss bhashya">
@@ -1153,7 +1699,20 @@
       <span class="sans">chittvainaṃ saṃśayaṃ yogamātiṣṭhottiṣṭha bhārata</span><br>
       <span class="num sans">|| 42 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">tasmāt</span> therefore</span>
+        <span class="w"><span class="sans">ajñāna-sambhūtam</span> born of ignorance</span>
+        <span class="w"><span class="sans">hṛt-stham</span> lodged in the heart</span>
+        <span class="w"><span class="sans">jñāna-asinā</span> with the sword of knowledge</span>
+        <span class="w"><span class="sans">ātmanaḥ</span> your own</span>
+        <span class="w"><span class="sans">chittvā</span> cutting</span>
+        <span class="w"><span class="sans">enam</span> this</span>
+        <span class="w"><span class="sans">saṃśayam</span> doubt</span>
+        <span class="w"><span class="sans">yogam</span> to yoga</span>
+        <span class="w"><span class="sans">ātiṣṭha</span> resort</span>
+        <span class="w"><span class="sans">uttiṣṭha</span> arise</span>
+        <span class="w"><span class="sans">bhārata</span> O Bhārata</span></p>
       <p>Therefore, cutting with the sword of knowledge this doubt of yours, born of ignorance and lodged in the heart, resort to yoga; arise, O Bhārata!</p>
     </details>
     <details class="gloss bhashya">
@@ -1605,7 +2164,7 @@
     // still has it, so a stale suggestion never lands on the wrong text.
     var texts = [];
     document.querySelectorAll('header h1, header .subtitle, p.speaker, ' +
-        'details.gloss:not(#contents):not(.bhashya) > p, details.bhashya > p.bh-tr, .colophon-gloss').forEach(function (el){
+        'details.gloss:not(#contents):not(.bhashya) > p:not(.wbw), p.wbw > .w, details.bhashya > p.bh-tr, .colophon-gloss').forEach(function (el){
       if (!el.children.length){ el.classList.add("ed"); texts.push(el); return; }
       [].slice.call(el.childNodes).forEach(function (c){
         if (c.nodeType !== 3 || !c.nodeValue.trim()) return;

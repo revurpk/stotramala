@@ -72,11 +72,20 @@ def render_verse(v, asset):
     # "prose": long ritual formulae (saṅkalpa, āvāhana) set a size down,
     # using the shell's existing .viniyoga style
     cls = "verse viniyoga" if v.get("prose") else "verse"
+    # word-by-word ("words": [[sanskrit, english], …]) above the translation:
+    # one span.w per pair — the Sanskrit word a .sans span (so it follows the
+    # script switch), its meaning a bare text node (editable on its own)
+    wbw = ""
+    if v.get("words"):
+        items = "\n".join(f'        <span class="w"><span class="sans">{esc(w)}</span> {esc(m)}</span>'
+                          for w, m in v["words"])
+        wbw = f'      <p class="wbw">\n{items}</p>\n'
     return (
         f'  <div class="{cls}">\n'
         f'    <p class="lines">\n{body}</p>\n'
         '    <details class="gloss">\n'
-        '      <summary>translation</summary>\n'
+        f'      <summary>{"word by word · translation" if wbw else "translation"}</summary>\n'
+        + wbw +
         f'      <p>{gloss}</p>\n'
         '    </details>\n'
         + (render_bhashya(v["bhashya"]) + "\n" if v.get("bhashya") else "")

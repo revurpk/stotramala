@@ -1224,6 +1224,20 @@ checked list; the remaining dashes are the book's own. Verse accuracy is
 unchanged, and the round-trip check still passes for all but the three
 standalone *oṃ* units.
 
+**Word-by-word glosses (2026-10-01).** Every one of the 700 verses carries a
+word-by-word list (8,901 pairs) at the top of its translation fold. The words
+are the maintainer's own *padaccheda* of the verse, in verse order: sandhi
+resolved, each word in its pausal form (*samavetāḥ*, *kim*, *ca*, *eva*),
+compound members joined by reading-hyphens (*dharma-kṣetre*), which the page
+drops in Devanāgarī and Telugu. The meanings are original, written to agree
+with the verse translation and, where a word is disputed, with Śaṅkara's
+reading (7.22 *hi tān*, 13.20 *kārya-karaṇa*). Neither edition's Telugu
+word-glosses were used. A script checks each verse's joined words against the
+verse text (sandhi-insensitive similarity), so a dropped or mistyped word shows
+up; all 700 pass, and every word converts cleanly to both scripts. The check
+also caught one misprint in the mūla: 4.37 *kuruterju'na* → *kurute'rjuna*
+(avagraha set after *rju* instead of before *r*).
+
 **Bhāṣya translation.** Each Sanskrit paragraph in a fold is followed by its
 English (`<p class="bh-tr">`, italic, set off by a rule on the left); the data
 files carry it as `{"text": …, "tr": …}`. The English is editable through

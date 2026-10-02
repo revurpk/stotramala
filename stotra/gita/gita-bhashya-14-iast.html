@@ -253,6 +253,16 @@
     text-align:left;
     margin:0;
   }
+  /* word-by-word list above a translation: Sanskrit upright, meaning italic,
+     a middle dot between pairs */
+  .gloss p.wbw{
+    font-size:.96rem;line-height:1.75;margin:0 0 .75rem;
+    padding-bottom:.6rem;border-bottom:1px solid var(--rule);
+  }
+  .gloss p.wbw .sans{font-style:normal;color:var(--ink);}
+  .gloss p.wbw .w:not(:last-child)::after{
+    content:"\00a0·";color:var(--accent);opacity:.6;margin-right:.4em;
+  }
   .viniyoga .lines{
     font-size:1.1rem;
     line-height:1.7;
@@ -403,7 +413,22 @@
       <span class="sans">yad jñātvā munayassarve parāṃ siddhimito gatāḥ</span><br>
       <span class="num sans">|| 1 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">param</span> the supreme</span>
+        <span class="w"><span class="sans">bhūyaḥ</span> once more</span>
+        <span class="w"><span class="sans">pravakṣyāmi</span> I will declare</span>
+        <span class="w"><span class="sans">jñānānām</span> of knowledges</span>
+        <span class="w"><span class="sans">jñānam</span> knowledge</span>
+        <span class="w"><span class="sans">uttamam</span> the highest</span>
+        <span class="w"><span class="sans">yat</span> which</span>
+        <span class="w"><span class="sans">jñātvā</span> knowing</span>
+        <span class="w"><span class="sans">munayaḥ</span> the sages</span>
+        <span class="w"><span class="sans">sarve</span> all</span>
+        <span class="w"><span class="sans">parām</span> to supreme</span>
+        <span class="w"><span class="sans">siddhim</span> perfection</span>
+        <span class="w"><span class="sans">itaḥ</span> from here</span>
+        <span class="w"><span class="sans">gatāḥ</span> have gone</span></p>
       <p>The Blessed Lord said: I will declare again the supreme knowledge, the best of all knowledge, knowing which all the sages have gone from here to the highest perfection.</p>
     </details>
     <details class="gloss bhashya">
@@ -419,7 +444,22 @@
       <span class="sans">sarge'pi nopajāyante pralaye na vyathanti ca</span><br>
       <span class="num sans">|| 2 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">idam</span> this</span>
+        <span class="w"><span class="sans">jñānam</span> knowledge</span>
+        <span class="w"><span class="sans">upāśritya</span> resorting to</span>
+        <span class="w"><span class="sans">mama</span> my</span>
+        <span class="w"><span class="sans">sādharmyam</span> likeness</span>
+        <span class="w"><span class="sans">āgatāḥ</span> having attained</span>
+        <span class="w"><span class="sans">sarge</span> at creation</span>
+        <span class="w"><span class="sans">api</span> even</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">upajāyante</span> are they born</span>
+        <span class="w"><span class="sans">pralaye</span> at the dissolution</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">vyathanti</span> do they suffer</span>
+        <span class="w"><span class="sans">ca</span> and</span></p>
       <p>Resorting to this knowledge and attaining my nature, they are not born at the creation, nor are they troubled at the dissolution.</p>
     </details>
     <details class="gloss bhashya">
@@ -437,7 +477,21 @@
       <span class="sans">sambhavaḥ sarvabhūtānāṃ tato bhavati bhārata</span><br>
       <span class="num sans">|| 3 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">mama</span> my</span>
+        <span class="w"><span class="sans">yoniḥ</span> womb</span>
+        <span class="w"><span class="sans">mahat</span> the great</span>
+        <span class="w"><span class="sans">brahma</span> Brahman</span>
+        <span class="w"><span class="sans">tasmin</span> in it</span>
+        <span class="w"><span class="sans">garbham</span> the germ</span>
+        <span class="w"><span class="sans">dadhāmi</span> place</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">sambhavaḥ</span> the birth</span>
+        <span class="w"><span class="sans">sarva-bhūtānām</span> of all beings</span>
+        <span class="w"><span class="sans">tataḥ</span> from that</span>
+        <span class="w"><span class="sans">bhavati</span> comes</span>
+        <span class="w"><span class="sans">bhārata</span> O Bhārata</span></p>
       <p>The great Brahman is my womb; in it I place the seed. From that, O Bhārata, comes the birth of all beings.</p>
     </details>
     <details class="gloss bhashya">
@@ -455,7 +509,20 @@
       <span class="sans">tāsāṃ brahma mahadyonirahaṃ bījapradaḥ pitā</span><br>
       <span class="num sans">|| 4 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">sarva-yoniṣu</span> in all wombs</span>
+        <span class="w"><span class="sans">kaunteya</span> O son of Kuntī</span>
+        <span class="w"><span class="sans">mūrtayaḥ</span> forms</span>
+        <span class="w"><span class="sans">sambhavanti</span> arise</span>
+        <span class="w"><span class="sans">yāḥ</span> whatever</span>
+        <span class="w"><span class="sans">tāsām</span> of them</span>
+        <span class="w"><span class="sans">brahma</span> Brahman</span>
+        <span class="w"><span class="sans">mahat</span> the great</span>
+        <span class="w"><span class="sans">yoniḥ</span> the womb</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">bīja-pradaḥ</span> the seed-giving</span>
+        <span class="w"><span class="sans">pitā</span> father</span></p>
       <p>Whatever forms are born in any womb, son of Kuntī, the great Brahman is their womb, and I am the seed-giving father.</p>
     </details>
     <details class="gloss bhashya">
@@ -471,7 +538,19 @@
       <span class="sans">nibadhnanti mahābāho dehe dehinamavyayam</span><br>
       <span class="num sans">|| 5 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">sattvam</span> sattva</span>
+        <span class="w"><span class="sans">rajaḥ</span> rajas</span>
+        <span class="w"><span class="sans">tamaḥ</span> tamas</span>
+        <span class="w"><span class="sans">iti</span> thus</span>
+        <span class="w"><span class="sans">guṇāḥ</span> the guṇas</span>
+        <span class="w"><span class="sans">prakṛti-sambhavāḥ</span> born of nature</span>
+        <span class="w"><span class="sans">nibadhnanti</span> bind</span>
+        <span class="w"><span class="sans">mahā-bāho</span> O mighty-armed</span>
+        <span class="w"><span class="sans">dehe</span> in the body</span>
+        <span class="w"><span class="sans">dehinam</span> the embodied one</span>
+        <span class="w"><span class="sans">avyayam</span> imperishable</span></p>
       <p>Sattva, rajas and tamas — these guṇas born of prakṛti bind the imperishable embodied one in the body, mighty-armed one.</p>
     </details>
     <details class="gloss bhashya">
@@ -489,7 +568,18 @@
       <span class="sans">sukhasaṅgena badhnāti jñānasaṅgena cā'nagha</span><br>
       <span class="num sans">|| 6 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">tatra</span> of these</span>
+        <span class="w"><span class="sans">sattvam</span> sattva</span>
+        <span class="w"><span class="sans">nirmalatvāt</span> being stainless</span>
+        <span class="w"><span class="sans">prakāśakam</span> illuminating</span>
+        <span class="w"><span class="sans">anāmayam</span> free from ill</span>
+        <span class="w"><span class="sans">sukha-saṅgena</span> by attachment to happiness</span>
+        <span class="w"><span class="sans">badhnāti</span> binds</span>
+        <span class="w"><span class="sans">jñāna-saṅgena</span> by attachment to knowledge</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">anagha</span> O sinless one</span></p>
       <p>Of these, sattva, being stainless, is luminous and free from affliction; it binds by attachment to happiness and attachment to knowledge, sinless one.</p>
     </details>
     <details class="gloss bhashya">
@@ -507,7 +597,17 @@
       <span class="sans">tannibadhnāti kaunteya karmasaṅgena dehinam</span><br>
       <span class="num sans">|| 7 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">rajaḥ</span> rajas</span>
+        <span class="w"><span class="sans">rāga-ātmakam</span> of the nature of passion</span>
+        <span class="w"><span class="sans">viddhi</span> know</span>
+        <span class="w"><span class="sans">tṛṣṇā-āsaṅga-samudbhavam</span> arising from thirst and attachment</span>
+        <span class="w"><span class="sans">tat</span> that</span>
+        <span class="w"><span class="sans">nibadhnāti</span> binds</span>
+        <span class="w"><span class="sans">kaunteya</span> O son of Kuntī</span>
+        <span class="w"><span class="sans">karma-saṅgena</span> by attachment to action</span>
+        <span class="w"><span class="sans">dehinam</span> the embodied one</span></p>
       <p>Know rajas to be of the nature of passion, the source of craving and attachment; it binds the embodied one by attachment to action, son of Kuntī.</p>
     </details>
     <details class="gloss bhashya">
@@ -523,7 +623,18 @@
       <span class="sans">pramādālasyanidrābhistannibadhnāti bhārata</span><br>
       <span class="num sans">|| 8 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">tamaḥ</span> tamas</span>
+        <span class="w"><span class="sans">tu</span> but</span>
+        <span class="w"><span class="sans">ajñāna-jam</span> born of ignorance</span>
+        <span class="w"><span class="sans">viddhi</span> know</span>
+        <span class="w"><span class="sans">mohanam</span> deluding</span>
+        <span class="w"><span class="sans">sarva-dehinām</span> all embodied beings</span>
+        <span class="w"><span class="sans">pramāda-ālasya-nidrābhiḥ</span> by heedlessness, sloth and sleep</span>
+        <span class="w"><span class="sans">tat</span> that</span>
+        <span class="w"><span class="sans">nibadhnāti</span> binds</span>
+        <span class="w"><span class="sans">bhārata</span> O Bhārata</span></p>
       <p>But know tamas to be born of ignorance, deluding all embodied beings; it binds by heedlessness, sloth and sleep, O Bhārata.</p>
     </details>
     <details class="gloss bhashya">
@@ -539,7 +650,21 @@
       <span class="sans">jñānamāvṛtya tu tamaḥ pramāde sañjayatyuta</span><br>
       <span class="num sans">|| 9 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">sattvam</span> sattva</span>
+        <span class="w"><span class="sans">sukhe</span> to happiness</span>
+        <span class="w"><span class="sans">sañjayati</span> attaches</span>
+        <span class="w"><span class="sans">rajaḥ</span> rajas</span>
+        <span class="w"><span class="sans">karmaṇi</span> to action</span>
+        <span class="w"><span class="sans">bhārata</span> O Bhārata</span>
+        <span class="w"><span class="sans">jñānam</span> knowledge</span>
+        <span class="w"><span class="sans">āvṛtya</span> veiling</span>
+        <span class="w"><span class="sans">tu</span> but</span>
+        <span class="w"><span class="sans">tamaḥ</span> tamas</span>
+        <span class="w"><span class="sans">pramāde</span> to heedlessness</span>
+        <span class="w"><span class="sans">sañjayati</span> attaches</span>
+        <span class="w"><span class="sans">uta</span> indeed</span></p>
       <p>Sattva attaches one to happiness, rajas to action, O Bhārata; but tamas, veiling knowledge, attaches one to heedlessness.</p>
     </details>
     <details class="gloss bhashya">
@@ -557,7 +682,24 @@
       <span class="sans">rajassattvaṃ tamaścaiva tamassattvaṃ rajastathā</span><br>
       <span class="num sans">|| 10 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">rajaḥ</span> rajas</span>
+        <span class="w"><span class="sans">tamaḥ</span> tamas</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">abhibhūya</span> overpowering</span>
+        <span class="w"><span class="sans">sattvam</span> sattva</span>
+        <span class="w"><span class="sans">bhavati</span> arises</span>
+        <span class="w"><span class="sans">bhārata</span> O Bhārata</span>
+        <span class="w"><span class="sans">rajaḥ</span> rajas</span>
+        <span class="w"><span class="sans">sattvam</span> sattva</span>
+        <span class="w"><span class="sans">tamaḥ</span> tamas</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">eva</span> likewise</span>
+        <span class="w"><span class="sans">tamaḥ</span> tamas</span>
+        <span class="w"><span class="sans">sattvam</span> sattva</span>
+        <span class="w"><span class="sans">rajaḥ</span> rajas</span>
+        <span class="w"><span class="sans">tathā</span> so</span></p>
       <p>Sattva prevails by overpowering rajas and tamas, O Bhārata; rajas by overpowering sattva and tamas; and tamas likewise by overpowering sattva and rajas.</p>
     </details>
     <details class="gloss bhashya">
@@ -575,7 +717,21 @@
       <span class="sans">jñānaṃ yadā tadā vidyāt vivṛddhaṃ sattvamityuta</span><br>
       <span class="num sans">|| 11 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">sarva-dvāreṣu</span> in all the gates</span>
+        <span class="w"><span class="sans">dehe</span> in body</span>
+        <span class="w"><span class="sans">asmin</span> this</span>
+        <span class="w"><span class="sans">prakāśaḥ</span> light</span>
+        <span class="w"><span class="sans">upajāyate</span> arises</span>
+        <span class="w"><span class="sans">jñānam</span> knowledge</span>
+        <span class="w"><span class="sans">yadā</span> when</span>
+        <span class="w"><span class="sans">tadā</span> then</span>
+        <span class="w"><span class="sans">vidyāt</span> one should know</span>
+        <span class="w"><span class="sans">vivṛddham</span> has increased</span>
+        <span class="w"><span class="sans">sattvam</span> sattva</span>
+        <span class="w"><span class="sans">iti</span> that</span>
+        <span class="w"><span class="sans">uta</span> indeed</span></p>
       <p>When the light of knowledge shines through all the gates of this body, then one should know that sattva has increased.</p>
     </details>
     <details class="gloss bhashya">
@@ -593,7 +749,19 @@
       <span class="sans">rajasyetāni jāyante vivṛddhe bharatarṣabha</span><br>
       <span class="num sans">|| 12 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">lobhaḥ</span> greed</span>
+        <span class="w"><span class="sans">pravṛttiḥ</span> activity</span>
+        <span class="w"><span class="sans">ārambhaḥ</span> the undertaking</span>
+        <span class="w"><span class="sans">karmaṇām</span> of actions</span>
+        <span class="w"><span class="sans">aśamaḥ</span> restlessness</span>
+        <span class="w"><span class="sans">spṛhā</span> longing</span>
+        <span class="w"><span class="sans">rajasi</span> when rajas</span>
+        <span class="w"><span class="sans">etāni</span> these</span>
+        <span class="w"><span class="sans">jāyante</span> arise</span>
+        <span class="w"><span class="sans">vivṛddhe</span> has increased</span>
+        <span class="w"><span class="sans">bharata-ṛṣabha</span> O bull of the Bharatas</span></p>
       <p>Greed, activity, the undertaking of actions, restlessness and longing — these arise when rajas increases, O best of the Bhāratas.</p>
     </details>
     <details class="gloss bhashya">
@@ -611,7 +779,19 @@
       <span class="sans">tamasyetāni jāyante vivṛddhe kurunandana</span><br>
       <span class="num sans">|| 13 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">aprakāśaḥ</span> darkness</span>
+        <span class="w"><span class="sans">apravṛttiḥ</span> inertia</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">pramādaḥ</span> heedlessness</span>
+        <span class="w"><span class="sans">mohaḥ</span> delusion</span>
+        <span class="w"><span class="sans">eva ca</span> and also</span>
+        <span class="w"><span class="sans">tamasi</span> when tamas</span>
+        <span class="w"><span class="sans">etāni</span> these</span>
+        <span class="w"><span class="sans">jāyante</span> arise</span>
+        <span class="w"><span class="sans">vivṛddhe</span> has increased</span>
+        <span class="w"><span class="sans">kuru-nandana</span> O joy of the Kurus</span></p>
       <p>Darkness, inertness, heedlessness and delusion — these arise when tamas increases, O joy of the Kurus.</p>
     </details>
     <details class="gloss bhashya">
@@ -627,7 +807,20 @@
       <span class="sans">tadottamavidāṃ lokānamalān pratipadyate</span><br>
       <span class="num sans">|| 14 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yadā</span> when</span>
+        <span class="w"><span class="sans">sattve</span> sattva</span>
+        <span class="w"><span class="sans">pravṛddhe</span> has increased</span>
+        <span class="w"><span class="sans">tu</span> but</span>
+        <span class="w"><span class="sans">pralayam</span> to dissolution</span>
+        <span class="w"><span class="sans">yāti</span> goes</span>
+        <span class="w"><span class="sans">deha-bhṛt</span> the embodied one</span>
+        <span class="w"><span class="sans">tadā</span> then</span>
+        <span class="w"><span class="sans">uttama-vidām</span> of those who know the highest</span>
+        <span class="w"><span class="sans">lokān</span> the worlds</span>
+        <span class="w"><span class="sans">amalān</span> stainless</span>
+        <span class="w"><span class="sans">pratipadyate</span> he reaches</span></p>
       <p>If the embodied one meets dissolution when sattva is increased, he goes to the pure worlds of those who know the highest.</p>
     </details>
     <details class="gloss bhashya">
@@ -645,7 +838,18 @@
       <span class="sans">tathā pralīnastamasi mūḍhayoniṣu jāyate</span><br>
       <span class="num sans">|| 15 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">rajasi</span> in rajas</span>
+        <span class="w"><span class="sans">pralayam</span> dissolution</span>
+        <span class="w"><span class="sans">gatvā</span> meeting</span>
+        <span class="w"><span class="sans">karma-saṅgiṣu</span> among those attached to action</span>
+        <span class="w"><span class="sans">jāyate</span> one is born</span>
+        <span class="w"><span class="sans">tathā</span> likewise</span>
+        <span class="w"><span class="sans">pralīnaḥ</span> dying</span>
+        <span class="w"><span class="sans">tamasi</span> in tamas</span>
+        <span class="w"><span class="sans">mūḍha-yoniṣu</span> in the wombs of the deluded</span>
+        <span class="w"><span class="sans">jāyate</span> one is born</span></p>
       <p>Meeting dissolution in rajas, he is born among those attached to action; dying in tamas, he is born in the wombs of the deluded.</p>
     </details>
     <details class="gloss bhashya">
@@ -661,7 +865,21 @@
       <span class="sans">rajasastu phalaṃ duḥkhamajñānaṃ tamasaḥ phalam</span><br>
       <span class="num sans">|| 16 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">karmaṇaḥ</span> of action</span>
+        <span class="w"><span class="sans">su-kṛtasya</span> well done</span>
+        <span class="w"><span class="sans">āhuḥ</span> they say</span>
+        <span class="w"><span class="sans">sāttvikam</span> sāttvika</span>
+        <span class="w"><span class="sans">nirmalam</span> stainless</span>
+        <span class="w"><span class="sans">phalam</span> the fruit</span>
+        <span class="w"><span class="sans">rajasaḥ</span> of rajas</span>
+        <span class="w"><span class="sans">tu</span> but</span>
+        <span class="w"><span class="sans">phalam</span> the fruit</span>
+        <span class="w"><span class="sans">duḥkham</span> pain</span>
+        <span class="w"><span class="sans">ajñānam</span> ignorance</span>
+        <span class="w"><span class="sans">tamasaḥ</span> of tamas</span>
+        <span class="w"><span class="sans">phalam</span> the fruit</span></p>
       <p>The fruit of good action, they say, is sāttvika and pure; the fruit of rajas is pain; and the fruit of tamas is ignorance.</p>
     </details>
     <details class="gloss bhashya">
@@ -679,7 +897,19 @@
       <span class="sans">pramādamohau tamaso bhavato'jñānameva ca</span><br>
       <span class="num sans">|| 17 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">sattvāt</span> from sattva</span>
+        <span class="w"><span class="sans">sañjāyate</span> arises</span>
+        <span class="w"><span class="sans">jñānam</span> knowledge</span>
+        <span class="w"><span class="sans">rajasaḥ</span> from rajas</span>
+        <span class="w"><span class="sans">lobhaḥ</span> greed</span>
+        <span class="w"><span class="sans">eva ca</span> indeed</span>
+        <span class="w"><span class="sans">pramāda-mohau</span> heedlessness and delusion</span>
+        <span class="w"><span class="sans">tamasaḥ</span> from tamas</span>
+        <span class="w"><span class="sans">bhavataḥ</span> come</span>
+        <span class="w"><span class="sans">ajñānam</span> ignorance</span>
+        <span class="w"><span class="sans">eva ca</span> and also</span></p>
       <p>From sattva arises knowledge, from rajas greed; from tamas arise heedlessness and delusion, and ignorance too.</p>
     </details>
     <details class="gloss bhashya">
@@ -695,7 +925,18 @@
       <span class="sans">jaghanyaguṇavṛttasthā adho gacchanti tāmasāḥ</span><br>
       <span class="num sans">|| 18 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">ūrdhvam</span> upward</span>
+        <span class="w"><span class="sans">gacchanti</span> go</span>
+        <span class="w"><span class="sans">sattva-sthāḥ</span> those abiding in sattva</span>
+        <span class="w"><span class="sans">madhye</span> in the middle</span>
+        <span class="w"><span class="sans">tiṣṭhanti</span> remain</span>
+        <span class="w"><span class="sans">rājasāḥ</span> the rājasa</span>
+        <span class="w"><span class="sans">jaghanya-guṇa-vṛtta-sthāḥ</span> abiding in the ways of the lowest guṇa</span>
+        <span class="w"><span class="sans">adhaḥ</span> downward</span>
+        <span class="w"><span class="sans">gacchanti</span> go</span>
+        <span class="w"><span class="sans">tāmasāḥ</span> the tāmasa</span></p>
       <p>Those abiding in sattva go upward; the rājasa stay in the middle; the tāmasa, abiding in the lowest workings of the guṇas, go downward.</p>
     </details>
     <details class="gloss bhashya">
@@ -711,7 +952,22 @@
       <span class="sans">guṇebhyaśca paraṃ vetti madbhāvaṃ so'dhigacchati</span><br>
       <span class="num sans">|| 19 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">na</span> no</span>
+        <span class="w"><span class="sans">anyam</span> other</span>
+        <span class="w"><span class="sans">guṇebhyaḥ</span> than the guṇas</span>
+        <span class="w"><span class="sans">kartāram</span> agent</span>
+        <span class="w"><span class="sans">yadā</span> when</span>
+        <span class="w"><span class="sans">draṣṭā</span> the seer</span>
+        <span class="w"><span class="sans">anupaśyati</span> sees</span>
+        <span class="w"><span class="sans">guṇebhyaḥ</span> than the guṇas</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">param</span> what is beyond</span>
+        <span class="w"><span class="sans">vetti</span> knows</span>
+        <span class="w"><span class="sans">mat-bhāvam</span> my state</span>
+        <span class="w"><span class="sans">saḥ</span> he</span>
+        <span class="w"><span class="sans">adhigacchati</span> attains</span></p>
       <p>When the seer sees no doer other than the guṇas, and knows what is beyond the guṇas, he attains my being.</p>
     </details>
     <details class="gloss bhashya">
@@ -729,7 +985,18 @@
       <span class="sans">janmamṛtyujarāduḥkhairvimukto'mṛtamaśnute</span><br>
       <span class="num sans">|| 20 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">guṇān</span> guṇas</span>
+        <span class="w"><span class="sans">etān</span> these</span>
+        <span class="w"><span class="sans">atītya</span> going beyond</span>
+        <span class="w"><span class="sans">trīn</span> three</span>
+        <span class="w"><span class="sans">dehī</span> the embodied one</span>
+        <span class="w"><span class="sans">deha-samudbhavān</span> from which the body arises</span>
+        <span class="w"><span class="sans">janma-mṛtyu-jarā-duḥkhaiḥ</span> from birth, death, old age and sorrow</span>
+        <span class="w"><span class="sans">vimuktaḥ</span> freed</span>
+        <span class="w"><span class="sans">amṛtam</span> immortality</span>
+        <span class="w"><span class="sans">aśnute</span> attains</span></p>
       <p>Having passed beyond these three guṇas, from which the body arises, the embodied one, freed from birth, death, old age and sorrow, attains immortality.</p>
     </details>
     <details class="gloss bhashya">
@@ -749,7 +1016,23 @@
       <span class="sans">kimācāraḥ kathaṃ caitāṃstrīnguṇānativartate</span><br>
       <span class="num sans">|| 21 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">kaiḥ</span> by what</span>
+        <span class="w"><span class="sans">liṅgaiḥ</span> marks</span>
+        <span class="w"><span class="sans">trīn</span> three</span>
+        <span class="w"><span class="sans">guṇān</span> guṇas</span>
+        <span class="w"><span class="sans">etān</span> these</span>
+        <span class="w"><span class="sans">atītaḥ</span> gone beyond</span>
+        <span class="w"><span class="sans">bhavati</span> is one</span>
+        <span class="w"><span class="sans">prabho</span> O Lord</span>
+        <span class="w"><span class="sans">kim-ācāraḥ</span> what is his conduct</span>
+        <span class="w"><span class="sans">katham</span> how</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">etān</span> these</span>
+        <span class="w"><span class="sans">trīn</span> three</span>
+        <span class="w"><span class="sans">guṇān</span> guṇas</span>
+        <span class="w"><span class="sans">ativartate</span> does he go beyond</span></p>
       <p>Arjuna said: By what marks is he known who has passed beyond these three guṇas, O Lord? What is his conduct, and how does he pass beyond the three guṇas?</p>
     </details>
     <details class="gloss bhashya">
@@ -769,7 +1052,21 @@
       <span class="sans">na dveṣṭi sampravṛttāni na nivṛttāni kāṅkṣati</span><br>
       <span class="num sans">|| 22 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">prakāśam</span> illumination</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">pravṛttim</span> activity</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">moham</span> delusion</span>
+        <span class="w"><span class="sans">eva ca</span> and also</span>
+        <span class="w"><span class="sans">pāṇḍava</span> O Pāṇḍava</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">dveṣṭi</span> he hates</span>
+        <span class="w"><span class="sans">sampravṛttāni</span> when they arise</span>
+        <span class="w"><span class="sans">na</span> nor</span>
+        <span class="w"><span class="sans">nivṛttāni</span> when they cease</span>
+        <span class="w"><span class="sans">kāṅkṣati</span> longs for</span></p>
       <p>The Blessed Lord said: He who does not hate light, activity and delusion when they arise, Pāṇḍava, nor long for them when they cease;</p>
     </details>
     <details class="gloss bhashya">
@@ -787,7 +1084,22 @@
       <span class="sans">guṇā vartanta ityeva yo'vatiṣṭhati neṅgate</span><br>
       <span class="num sans">|| 23 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">udāsīna-vat</span> as one indifferent</span>
+        <span class="w"><span class="sans">āsīnaḥ</span> sitting</span>
+        <span class="w"><span class="sans">guṇaiḥ</span> by the guṇas</span>
+        <span class="w"><span class="sans">yaḥ</span> who</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">vicālyate</span> is moved</span>
+        <span class="w"><span class="sans">guṇāḥ</span> the guṇas</span>
+        <span class="w"><span class="sans">vartante</span> act</span>
+        <span class="w"><span class="sans">iti</span> thus</span>
+        <span class="w"><span class="sans">eva</span> only</span>
+        <span class="w"><span class="sans">yaḥ</span> who</span>
+        <span class="w"><span class="sans">avatiṣṭhati</span> stands firm</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">iṅgate</span> wavers</span></p>
       <p>who sits as one indifferent, unshaken by the guṇas, who stays firm and does not waver, knowing that it is only the guṇas that are at work;</p>
     </details>
     <details class="gloss bhashya">
@@ -805,7 +1117,14 @@
       <span class="sans">tulyapriyāpriyo dhīrastulyanindātmasaṃstutiḥ</span><br>
       <span class="num sans">|| 24 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">sama-duḥkha-sukhaḥ</span> the same in pain and pleasure</span>
+        <span class="w"><span class="sans">sva-sthaḥ</span> self-abiding</span>
+        <span class="w"><span class="sans">sama-loṣṭa-aśma-kāñcanaḥ</span> to whom a clod, a stone and gold are the same</span>
+        <span class="w"><span class="sans">tulya-priya-apriyaḥ</span> to whom the dear and the not-dear are equal</span>
+        <span class="w"><span class="sans">dhīraḥ</span> steadfast</span>
+        <span class="w"><span class="sans">tulya-nindā-ātma-saṃstutiḥ</span> to whom blame and praise of himself are equal</span></p>
       <p>who is the same in pleasure and pain, self-reliant, to whom a clod, a stone and gold are alike, who is the same towards the dear and the unwelcome, steadfast, the same in blame and praise of himself;</p>
     </details>
     <details class="gloss bhashya">
@@ -821,7 +1140,16 @@
       <span class="sans">sarvārambhaparityāgī guṇātītaḥ sa ucyate</span><br>
       <span class="num sans">|| 25 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">māna-apamānayoḥ</span> in honour and dishonour</span>
+        <span class="w"><span class="sans">tulyaḥ</span> the same</span>
+        <span class="w"><span class="sans">tulyaḥ</span> the same</span>
+        <span class="w"><span class="sans">mitra-ari-pakṣayoḥ</span> towards the sides of friend and foe</span>
+        <span class="w"><span class="sans">sarva-ārambha-parityāgī</span> renouncing all undertakings</span>
+        <span class="w"><span class="sans">guṇa-atītaḥ</span> gone beyond the guṇas</span>
+        <span class="w"><span class="sans">saḥ</span> he</span>
+        <span class="w"><span class="sans">ucyate</span> is said to be</span></p>
       <p>who is the same in honour and dishonour, the same to friend and foe, and who has renounced all undertakings — he is said to have passed beyond the guṇas.</p>
     </details>
     <details class="gloss bhashya">
@@ -837,7 +1165,20 @@
       <span class="sans">sa guṇān samatītyaitānbrahmabhūyāya kalpate</span><br>
       <span class="num sans">|| 26 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">mām</span> me</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">yaḥ</span> who</span>
+        <span class="w"><span class="sans">avyabhicāreṇa</span> unswerving</span>
+        <span class="w"><span class="sans">bhakti-yogena</span> with the yoga of devotion</span>
+        <span class="w"><span class="sans">sevate</span> serves</span>
+        <span class="w"><span class="sans">saḥ</span> he</span>
+        <span class="w"><span class="sans">guṇān</span> guṇas</span>
+        <span class="w"><span class="sans">samatītya</span> going beyond</span>
+        <span class="w"><span class="sans">etān</span> these</span>
+        <span class="w"><span class="sans">brahma-bhūyāya</span> for becoming Brahman</span>
+        <span class="w"><span class="sans">kalpate</span> is fit</span></p>
       <p>And he who serves me with the unfailing yoga of devotion, passing beyond these guṇas, becomes fit to become Brahman.</p>
     </details>
     <details class="gloss bhashya">
@@ -855,7 +1196,21 @@
       <span class="sans">śāśvatasya ca dharmasya sukhasyaikāntikasya ca</span><br>
       <span class="num sans">|| 27 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">brahmaṇaḥ</span> of Brahman</span>
+        <span class="w"><span class="sans">hi</span> for</span>
+        <span class="w"><span class="sans">pratiṣṭhā</span> the abode</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">amṛtasya</span> immortal</span>
+        <span class="w"><span class="sans">avyayasya</span> imperishable</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">śāśvatasya</span> of eternal</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">dharmasya</span> dharma</span>
+        <span class="w"><span class="sans">sukhasya</span> of happiness</span>
+        <span class="w"><span class="sans">aikāntikasya</span> absolute</span>
+        <span class="w"><span class="sans">ca</span> and</span></p>
       <p>For I am the abode of Brahman, the immortal and imperishable, of eternal dharma, and of absolute happiness.</p>
     </details>
     <details class="gloss bhashya">
@@ -1309,7 +1664,7 @@
     // still has it, so a stale suggestion never lands on the wrong text.
     var texts = [];
     document.querySelectorAll('header h1, header .subtitle, p.speaker, ' +
-        'details.gloss:not(#contents):not(.bhashya) > p, details.bhashya > p.bh-tr, .colophon-gloss').forEach(function (el){
+        'details.gloss:not(#contents):not(.bhashya) > p:not(.wbw), p.wbw > .w, details.bhashya > p.bh-tr, .colophon-gloss').forEach(function (el){
       if (!el.children.length){ el.classList.add("ed"); texts.push(el); return; }
       [].slice.call(el.childNodes).forEach(function (c){
         if (c.nodeType !== 3 || !c.nodeValue.trim()) return;

@@ -253,6 +253,16 @@
     text-align:left;
     margin:0;
   }
+  /* word-by-word list above a translation: Sanskrit upright, meaning italic,
+     a middle dot between pairs */
+  .gloss p.wbw{
+    font-size:.96rem;line-height:1.75;margin:0 0 .75rem;
+    padding-bottom:.6rem;border-bottom:1px solid var(--rule);
+  }
+  .gloss p.wbw .sans{font-style:normal;color:var(--ink);}
+  .gloss p.wbw .w:not(:last-child)::after{
+    content:"\00a0·";color:var(--accent);opacity:.6;margin-right:.4em;
+  }
   .viniyoga .lines{
     font-size:1.1rem;
     line-height:1.7;
@@ -626,7 +636,19 @@
       <span class="sans">māmakāḥ pāṇḍavāścaiva kimakurvata sañjaya</span><br>
       <span class="num sans">|| 1 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">dharma-kṣetre</span> on the field of dharma</span>
+        <span class="w"><span class="sans">kuru-kṣetre</span> on the field of the Kurus</span>
+        <span class="w"><span class="sans">samavetāḥ</span> assembled</span>
+        <span class="w"><span class="sans">yuyutsavaḥ</span> eager to fight</span>
+        <span class="w"><span class="sans">māmakāḥ</span> my sons</span>
+        <span class="w"><span class="sans">pāṇḍavāḥ</span> the sons of Pāṇḍu</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">eva</span> indeed</span>
+        <span class="w"><span class="sans">kim</span> what</span>
+        <span class="w"><span class="sans">akurvata</span> did they do</span>
+        <span class="w"><span class="sans">sañjaya</span> O Sañjaya</span></p>
       <p>Dhṛtarāṣṭra said: On the field of dharma, the field of the Kurus, gathered together and eager to fight — what did my sons and the sons of Pāṇḍu do, O Sañjaya?</p>
     </details>
   </div>
@@ -639,7 +661,19 @@
       <span class="sans">ācāryamupasaṅgamya rājā vacanamabravīt</span><br>
       <span class="num sans">|| 2 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">dṛṣṭvā</span> having seen</span>
+        <span class="w"><span class="sans">tu</span> then</span>
+        <span class="w"><span class="sans">pāṇḍava-anīkam</span> the army of the Pāṇḍavas</span>
+        <span class="w"><span class="sans">vyūḍham</span> drawn up in array</span>
+        <span class="w"><span class="sans">duryodhanaḥ</span> Duryodhana</span>
+        <span class="w"><span class="sans">tadā</span> then</span>
+        <span class="w"><span class="sans">ācāryam</span> the teacher</span>
+        <span class="w"><span class="sans">upasaṅgamya</span> approaching</span>
+        <span class="w"><span class="sans">rājā</span> the king</span>
+        <span class="w"><span class="sans">vacanam</span> word</span>
+        <span class="w"><span class="sans">abravīt</span> spoke</span></p>
       <p>Sañjaya said: Then King Duryodhana, seeing the army of the Pāṇḍavas drawn up in array, approached his teacher Droṇa and spoke these words.</p>
     </details>
   </div>
@@ -650,7 +684,19 @@
       <span class="sans">vyūḍhāṃ drupadaputreṇa tava śiṣyeṇa dhīmatā</span><br>
       <span class="num sans">|| 3 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">paśya</span> behold</span>
+        <span class="w"><span class="sans">etām</span> this</span>
+        <span class="w"><span class="sans">pāṇḍu-putrāṇām</span> of the sons of Pāṇḍu</span>
+        <span class="w"><span class="sans">ācārya</span> O teacher</span>
+        <span class="w"><span class="sans">mahatīm</span> great</span>
+        <span class="w"><span class="sans">camūm</span> army</span>
+        <span class="w"><span class="sans">vyūḍhām</span> arrayed</span>
+        <span class="w"><span class="sans">drupada-putreṇa</span> by the son of Drupada</span>
+        <span class="w"><span class="sans">tava</span> your</span>
+        <span class="w"><span class="sans">śiṣyeṇa</span> by the disciple</span>
+        <span class="w"><span class="sans">dhīmatā</span> wise</span></p>
       <p>Behold, O teacher, this mighty host of the sons of Pāṇḍu, marshalled by the son of Drupada, your own gifted pupil.</p>
     </details>
   </div>
@@ -661,7 +707,19 @@
       <span class="sans">yuyudhāno virāṭaśca drupadaśca mahārathaḥ</span><br>
       <span class="num sans">|| 4 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">atra</span> here</span>
+        <span class="w"><span class="sans">śūrāḥ</span> heroes</span>
+        <span class="w"><span class="sans">mahā-iṣvāsāḥ</span> mighty archers</span>
+        <span class="w"><span class="sans">bhīma-arjuna-samāḥ</span> equal to Bhīma and Arjuna</span>
+        <span class="w"><span class="sans">yudhi</span> in battle</span>
+        <span class="w"><span class="sans">yuyudhānaḥ</span> Yuyudhāna</span>
+        <span class="w"><span class="sans">virāṭaḥ</span> Virāṭa</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">drupadaḥ</span> Drupada</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">mahā-rathaḥ</span> great chariot-warrior</span></p>
       <p>Here are heroes, great archers equal in battle to Bhīma and Arjuna — Yuyudhāna, Virāṭa, and Drupada, the mighty chariot-warrior;</p>
     </details>
   </div>
@@ -672,7 +730,19 @@
       <span class="sans">purujit kuntibhojaśca śaibyaśca narapuṅgavaḥ</span><br>
       <span class="num sans">|| 5 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">dhṛṣṭaketuḥ</span> Dhṛṣṭaketu</span>
+        <span class="w"><span class="sans">cekitānaḥ</span> Cekitāna</span>
+        <span class="w"><span class="sans">kāśi-rājaḥ</span> the king of Kāśī</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">vīryavān</span> valiant</span>
+        <span class="w"><span class="sans">purujit</span> Purujit</span>
+        <span class="w"><span class="sans">kuntibhojaḥ</span> Kuntibhoja</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">śaibyaḥ</span> Śaibya</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">nara-puṅgavaḥ</span> bull among men</span></p>
       <p>Dhṛṣṭaketu, Cekitāna and the valiant king of Kāśī; Purujit, Kuntibhoja, and Śaibya, a bull among men;</p>
     </details>
   </div>
@@ -683,7 +753,20 @@
       <span class="sans">saubhadro draupadeyāśca sarva eva mahārathāḥ</span><br>
       <span class="num sans">|| 6 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yudhāmanyuḥ</span> Yudhāmanyu</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">vikrāntaḥ</span> bold</span>
+        <span class="w"><span class="sans">uttamaujāḥ</span> Uttamaujas</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">vīryavān</span> valiant</span>
+        <span class="w"><span class="sans">saubhadraḥ</span> the son of Subhadrā</span>
+        <span class="w"><span class="sans">draupadeyāḥ</span> the sons of Draupadī</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">sarve</span> all</span>
+        <span class="w"><span class="sans">eva</span> indeed</span>
+        <span class="w"><span class="sans">mahā-rathāḥ</span> great chariot-warriors</span></p>
       <p>valiant Yudhāmanyu and valiant Uttamaujas, the son of Subhadrā and the sons of Draupadī — all of them great chariot-warriors.</p>
     </details>
   </div>
@@ -694,7 +777,22 @@
       <span class="sans">nāyakā mama sainyasya sañjñārthaṃ tān bravīmi te</span><br>
       <span class="num sans">|| 7 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">asmākam</span> our</span>
+        <span class="w"><span class="sans">tu</span> but</span>
+        <span class="w"><span class="sans">viśiṣṭāḥ</span> the distinguished</span>
+        <span class="w"><span class="sans">ye</span> who</span>
+        <span class="w"><span class="sans">tān</span> them</span>
+        <span class="w"><span class="sans">nibodha</span> know</span>
+        <span class="w"><span class="sans">dvija-uttama</span> O best of the twice-born</span>
+        <span class="w"><span class="sans">nāyakāḥ</span> leaders</span>
+        <span class="w"><span class="sans">mama</span> my</span>
+        <span class="w"><span class="sans">sainyasya</span> of the army</span>
+        <span class="w"><span class="sans">sañjñā-artham</span> for your information</span>
+        <span class="w"><span class="sans">tān</span> them</span>
+        <span class="w"><span class="sans">bravīmi</span> I name</span>
+        <span class="w"><span class="sans">te</span> to you</span></p>
       <p>But know also the foremost among us, O best of the twice-born, the leaders of my army; I name them for your notice.</p>
     </details>
   </div>
@@ -705,7 +803,21 @@
       <span class="sans">aśvatthāmā vikarṇaśca saumadattirjayadrathaḥ</span><br>
       <span class="num sans">|| 8 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">bhavān</span> your honour</span>
+        <span class="w"><span class="sans">bhīṣmaḥ</span> Bhīṣma</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">karṇaḥ</span> Karṇa</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">kṛpaḥ</span> Kṛpa</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">samitiñjayaḥ</span> victorious in battle</span>
+        <span class="w"><span class="sans">aśvatthāmā</span> Aśvatthāman</span>
+        <span class="w"><span class="sans">vikarṇaḥ</span> Vikarṇa</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">saumadattiḥ</span> the son of Somadatta</span>
+        <span class="w"><span class="sans">jayadrathaḥ</span> Jayadratha</span></p>
       <p>Yourself and Bhīṣma, Karṇa and Kṛpa, victorious in battle; Aśvatthāman, Vikarṇa, and the son of Somadatta too;</p>
     </details>
   </div>
@@ -716,7 +828,17 @@
       <span class="sans">nānāśastrapraharaṇāḥ sarve yuddhaviśāradāḥ</span><br>
       <span class="num sans">|| 9 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">anye</span> others</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">bahavaḥ</span> many</span>
+        <span class="w"><span class="sans">śūrāḥ</span> heroes</span>
+        <span class="w"><span class="sans">mat-arthe</span> for my sake</span>
+        <span class="w"><span class="sans">tyakta-jīvitāḥ</span> who have given up their lives</span>
+        <span class="w"><span class="sans">nānā-śastra-praharaṇāḥ</span> armed with many kinds of weapons</span>
+        <span class="w"><span class="sans">sarve</span> all</span>
+        <span class="w"><span class="sans">yuddha-viśāradāḥ</span> skilled in war</span></p>
       <p>and many other heroes, ready to give their lives for my sake, bearing many kinds of weapons, all of them skilled in war.</p>
     </details>
   </div>
@@ -727,7 +849,19 @@
       <span class="sans">paryāptaṃ tvidameteṣāṃ balaṃ bhīmābhirakṣitam</span><br>
       <span class="num sans">|| 10 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">aparyāptam</span> unlimited</span>
+        <span class="w"><span class="sans">tat</span> that</span>
+        <span class="w"><span class="sans">asmākam</span> our</span>
+        <span class="w"><span class="sans">balam</span> strength</span>
+        <span class="w"><span class="sans">bhīṣma-abhirakṣitam</span> guarded by Bhīṣma</span>
+        <span class="w"><span class="sans">paryāptam</span> limited</span>
+        <span class="w"><span class="sans">tu</span> but</span>
+        <span class="w"><span class="sans">idam</span> this</span>
+        <span class="w"><span class="sans">eteṣām</span> their</span>
+        <span class="w"><span class="sans">balam</span> strength</span>
+        <span class="w"><span class="sans">bhīma-abhirakṣitam</span> guarded by Bhīma</span></p>
       <p>This army of ours, guarded by Bhīṣma, is unbounded; but their army, guarded by Bhīma, is limited.</p>
     </details>
   </div>
@@ -738,7 +872,19 @@
       <span class="sans">bhīṣmamevābhirakṣantu bhavantaḥ sarva eva hi</span><br>
       <span class="num sans">|| 11 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">ayaneṣu</span> at the entrances</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">sarveṣu</span> all</span>
+        <span class="w"><span class="sans">yathā-bhāgam</span> each in his place</span>
+        <span class="w"><span class="sans">avasthitāḥ</span> stationed</span>
+        <span class="w"><span class="sans">bhīṣmam</span> Bhīṣma</span>
+        <span class="w"><span class="sans">eva</span> above all</span>
+        <span class="w"><span class="sans">abhirakṣantu</span> guard</span>
+        <span class="w"><span class="sans">bhavantaḥ</span> you</span>
+        <span class="w"><span class="sans">sarve</span> all</span>
+        <span class="w"><span class="sans">eva hi</span> surely</span></p>
       <p>So all of you, stationed at your posts at every point of entry, must above all protect Bhīṣma.</p>
     </details>
   </div>
@@ -749,7 +895,19 @@
       <span class="sans">siṃhanādaṃ vinadyoccaiḥ śaṅkhaṃ dadhmau pratāpavān</span><br>
       <span class="num sans">|| 12 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">tasya</span> his</span>
+        <span class="w"><span class="sans">sañjanayan</span> causing</span>
+        <span class="w"><span class="sans">harṣam</span> joy</span>
+        <span class="w"><span class="sans">kuru-vṛddhaḥ</span> the eldest of the Kurus</span>
+        <span class="w"><span class="sans">pitāmahaḥ</span> the grandsire</span>
+        <span class="w"><span class="sans">siṃha-nādam</span> a lion's roar</span>
+        <span class="w"><span class="sans">vinadya</span> sounding</span>
+        <span class="w"><span class="sans">uccaiḥ</span> loudly</span>
+        <span class="w"><span class="sans">śaṅkham</span> conch</span>
+        <span class="w"><span class="sans">dadhmau</span> blew</span>
+        <span class="w"><span class="sans">pratāpavān</span> the valiant</span></p>
       <p>Then, gladdening him, the mighty old Kuru, the grandsire, roared a lion's roar and blew his conch.</p>
     </details>
   </div>
@@ -760,7 +918,21 @@
       <span class="sans">sahasaivābhyahanyanta sa śabdastumulo'bhavat</span><br>
       <span class="num sans">|| 13 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">tataḥ</span> then</span>
+        <span class="w"><span class="sans">śaṅkhāḥ</span> conches</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">bheryaḥ</span> kettledrums</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">paṇava-ānaka-gomukhāḥ</span> tabors, drums and horns</span>
+        <span class="w"><span class="sans">sahasā</span> suddenly</span>
+        <span class="w"><span class="sans">eva</span> all at once</span>
+        <span class="w"><span class="sans">abhyahanyanta</span> were sounded</span>
+        <span class="w"><span class="sans">saḥ</span> that</span>
+        <span class="w"><span class="sans">śabdaḥ</span> sound</span>
+        <span class="w"><span class="sans">tumulaḥ</span> tumultuous</span>
+        <span class="w"><span class="sans">abhavat</span> was</span></p>
       <p>Then conches, kettledrums, tabors, drums and horns sounded all at once, and the uproar was tremendous.</p>
     </details>
   </div>
@@ -771,7 +943,22 @@
       <span class="sans">mādhavaḥ pāṇḍavaścaiva divyau śaṅkhau pradadhmatuḥ</span><br>
       <span class="num sans">|| 14 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">tataḥ</span> then</span>
+        <span class="w"><span class="sans">śvetaiḥ</span> with white</span>
+        <span class="w"><span class="sans">hayaiḥ</span> horses</span>
+        <span class="w"><span class="sans">yukte</span> yoked</span>
+        <span class="w"><span class="sans">mahati</span> in a great</span>
+        <span class="w"><span class="sans">syandane</span> chariot</span>
+        <span class="w"><span class="sans">sthitau</span> seated</span>
+        <span class="w"><span class="sans">mādhavaḥ</span> Mādhava</span>
+        <span class="w"><span class="sans">pāṇḍavaḥ</span> the son of Pāṇḍu</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">eva</span> too</span>
+        <span class="w"><span class="sans">divyau</span> divine</span>
+        <span class="w"><span class="sans">śaṅkhau</span> conches</span>
+        <span class="w"><span class="sans">pradadhmatuḥ</span> blew</span></p>
       <p>Then, standing in their great chariot yoked with white horses, Mādhava and the son of Pāṇḍu blew their divine conches.</p>
     </details>
   </div>
@@ -782,7 +969,17 @@
       <span class="sans">pauṇḍraṃ dadhmau mahāśaṅkhaṃ bhīmakarmā vṛkodaraḥ</span><br>
       <span class="num sans">|| 15 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">pāñcajanyam</span> Pāñcajanya</span>
+        <span class="w"><span class="sans">hṛṣīkeśaḥ</span> Hṛṣīkeśa</span>
+        <span class="w"><span class="sans">devadattam</span> Devadatta</span>
+        <span class="w"><span class="sans">dhanañjayaḥ</span> Dhanañjaya</span>
+        <span class="w"><span class="sans">pauṇḍram</span> Pauṇḍra</span>
+        <span class="w"><span class="sans">dadhmau</span> blew</span>
+        <span class="w"><span class="sans">mahā-śaṅkham</span> the great conch</span>
+        <span class="w"><span class="sans">bhīma-karmā</span> of terrible deeds</span>
+        <span class="w"><span class="sans">vṛkodaraḥ</span> Vṛkodara</span></p>
       <p>Hṛṣīkeśa blew Pāñcajanya, Dhanañjaya blew Devadatta, and Vṛkodara of terrible deeds blew the great conch Pauṇḍra.</p>
     </details>
   </div>
@@ -793,7 +990,16 @@
       <span class="sans">nakulaḥ sahadevaśca sughoṣamaṇipuṣpakau</span><br>
       <span class="num sans">|| 16 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">anantavijayam</span> Anantavijaya</span>
+        <span class="w"><span class="sans">rājā</span> the king</span>
+        <span class="w"><span class="sans">kuntī-putraḥ</span> son of Kuntī</span>
+        <span class="w"><span class="sans">yudhiṣṭhiraḥ</span> Yudhiṣṭhira</span>
+        <span class="w"><span class="sans">nakulaḥ</span> Nakula</span>
+        <span class="w"><span class="sans">sahadevaḥ</span> Sahadeva</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">sughoṣa-maṇipuṣpakau</span> Sughoṣa and Maṇipuṣpaka</span></p>
       <p>King Yudhiṣṭhira, son of Kuntī, blew Anantavijaya; Nakula and Sahadeva blew Sughoṣa and Maṇipuṣpaka.</p>
     </details>
   </div>
@@ -804,7 +1010,20 @@
       <span class="sans">dhṛṣṭadyumno virāṭaśca sātyakiścāparājitaḥ</span><br>
       <span class="num sans">|| 17 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">kāśyaḥ</span> the king of Kāśī</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">parama-iṣvāsaḥ</span> the supreme archer</span>
+        <span class="w"><span class="sans">śikhaṇḍī</span> Śikhaṇḍin</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">mahā-rathaḥ</span> the great chariot-warrior</span>
+        <span class="w"><span class="sans">dhṛṣṭadyumnaḥ</span> Dhṛṣṭadyumna</span>
+        <span class="w"><span class="sans">virāṭaḥ</span> Virāṭa</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">sātyakiḥ</span> Sātyaki</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">aparājitaḥ</span> the unconquered</span></p>
       <p>And the king of Kāśī, supreme archer, and Śikhaṇḍin the great chariot-warrior, Dhṛṣṭadyumna and Virāṭa, and the unconquered Sātyaki;</p>
     </details>
   </div>
@@ -815,7 +1034,19 @@
       <span class="sans">saubhadraśca mahābāhuḥ śaṅkhān dadhmuḥ pṛthak pṛthak</span><br>
       <span class="num sans">|| 18 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">drupadaḥ</span> Drupada</span>
+        <span class="w"><span class="sans">draupadeyāḥ</span> the sons of Draupadī</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">sarvaśaḥ</span> all together</span>
+        <span class="w"><span class="sans">pṛthivī-pate</span> O lord of the earth</span>
+        <span class="w"><span class="sans">saubhadraḥ</span> the son of Subhadrā</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">mahā-bāhuḥ</span> mighty-armed</span>
+        <span class="w"><span class="sans">śaṅkhān</span> conches</span>
+        <span class="w"><span class="sans">dadhmuḥ</span> blew</span>
+        <span class="w"><span class="sans">pṛthak pṛthak</span> each his own</span></p>
       <p>Drupada and the sons of Draupadī, O lord of the earth, and the mighty-armed son of Subhadrā — each blew his own conch on every side.</p>
     </details>
   </div>
@@ -826,7 +1057,20 @@
       <span class="sans">nabhaśca pṛthivīṃ caiva tumulo vyanunādayan</span><br>
       <span class="num sans">|| 19 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">saḥ</span> that</span>
+        <span class="w"><span class="sans">ghoṣaḥ</span> uproar</span>
+        <span class="w"><span class="sans">dhārtarāṣṭrāṇām</span> of Dhṛtarāṣṭra's sons</span>
+        <span class="w"><span class="sans">hṛdayāni</span> hearts</span>
+        <span class="w"><span class="sans">vyadārayat</span> rent</span>
+        <span class="w"><span class="sans">nabhaḥ</span> sky</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">pṛthivīm</span> earth</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">eva</span> too</span>
+        <span class="w"><span class="sans">tumulaḥ</span> tumultuous</span>
+        <span class="w"><span class="sans">vyanunādayan</span> making resound</span></p>
       <p>That tumult rent the hearts of Dhṛtarāṣṭra's sons, making sky and earth resound.</p>
     </details>
   </div>
@@ -837,7 +1081,18 @@
       <span class="sans">pravṛtte śastrasampāte dhanurudyamya pāṇḍavaḥ</span><br>
       <span class="num sans">|| 20 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">atha</span> then</span>
+        <span class="w"><span class="sans">vyavasthitān</span> arrayed</span>
+        <span class="w"><span class="sans">dṛṣṭvā</span> seeing</span>
+        <span class="w"><span class="sans">dhārtarāṣṭrān</span> Dhṛtarāṣṭra's sons</span>
+        <span class="w"><span class="sans">kapi-dhvajaḥ</span> he whose banner bears the monkey</span>
+        <span class="w"><span class="sans">pravṛtte</span> when it had begun</span>
+        <span class="w"><span class="sans">śastra-sampāte</span> the clash of weapons</span>
+        <span class="w"><span class="sans">dhanuḥ</span> bow</span>
+        <span class="w"><span class="sans">udyamya</span> raising</span>
+        <span class="w"><span class="sans">pāṇḍavaḥ</span> the son of Pāṇḍu</span></p>
       <p>Then the son of Pāṇḍu, whose banner bears the monkey, seeing Dhṛtarāṣṭra's men drawn up, raised his bow as the clash of weapons was about to begin.</p>
     </details>
   </div>
@@ -849,7 +1104,23 @@
       <span class="sans">senayorubhayormadhye rathaṃ sthāpaya me'cyuta</span><br>
       <span class="num sans">|| 21 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">hṛṣīkeśam</span> to Hṛṣīkeśa</span>
+        <span class="w"><span class="sans">tadā</span> then</span>
+        <span class="w"><span class="sans">vākyam</span> word</span>
+        <span class="w"><span class="sans">idam</span> this</span>
+        <span class="w"><span class="sans">āha</span> spoke</span>
+        <span class="w"><span class="sans">mahī-pate</span> O lord of the earth</span>
+        <span class="w"><span class="sans">arjunaḥ</span> Arjuna</span>
+        <span class="w"><span class="sans">uvāca</span> said</span>
+        <span class="w"><span class="sans">senayoḥ</span> of the armies</span>
+        <span class="w"><span class="sans">ubhayoḥ</span> both</span>
+        <span class="w"><span class="sans">madhye</span> between</span>
+        <span class="w"><span class="sans">ratham</span> chariot</span>
+        <span class="w"><span class="sans">sthāpaya</span> halt</span>
+        <span class="w"><span class="sans">me</span> my</span>
+        <span class="w"><span class="sans">acyuta</span> O Acyuta</span></p>
       <p>And, O lord of the earth, he spoke these words to Hṛṣīkeśa. Arjuna said: Station my chariot between the two armies, O Acyuta,</p>
     </details>
   </div>
@@ -860,7 +1131,20 @@
       <span class="sans">kairmayā saha yoddhavyamasmin raṇasamudyame</span><br>
       <span class="num sans">|| 22 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yāvat</span> so that</span>
+        <span class="w"><span class="sans">etān</span> these</span>
+        <span class="w"><span class="sans">nirīkṣe</span> may survey</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">yoddhu-kāmān</span> eager to fight</span>
+        <span class="w"><span class="sans">avasthitān</span> standing</span>
+        <span class="w"><span class="sans">kaiḥ</span> with whom</span>
+        <span class="w"><span class="sans">mayā</span> by me</span>
+        <span class="w"><span class="sans">saha</span> with</span>
+        <span class="w"><span class="sans">yoddhavyam</span> must be fought</span>
+        <span class="w"><span class="sans">asmin</span> in this</span>
+        <span class="w"><span class="sans">raṇa-samudyame</span> enterprise of war</span></p>
       <p>so that I may look upon these men standing eager for battle, and see with whom I must fight in this undertaking of war.</p>
     </details>
   </div>
@@ -871,7 +1155,19 @@
       <span class="sans">dhārtarāṣṭrasya durbuddheryuddhe priyacikīrṣavaḥ</span><br>
       <span class="num sans">|| 23 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yotsyamānān</span> those about to fight</span>
+        <span class="w"><span class="sans">avekṣe</span> may see</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">ye</span> who</span>
+        <span class="w"><span class="sans">ete</span> these</span>
+        <span class="w"><span class="sans">atra</span> here</span>
+        <span class="w"><span class="sans">samāgatāḥ</span> assembled</span>
+        <span class="w"><span class="sans">dhārtarāṣṭrasya</span> of Dhṛtarāṣṭra's son</span>
+        <span class="w"><span class="sans">durbuddheḥ</span> of evil mind</span>
+        <span class="w"><span class="sans">yuddhe</span> in battle</span>
+        <span class="w"><span class="sans">priya-cikīrṣavaḥ</span> wishing to please</span></p>
       <p>I would see those who have assembled here to fight, wishing to please in battle the evil-minded son of Dhṛtarāṣṭra.</p>
     </details>
   </div>
@@ -884,7 +1180,18 @@
       <span class="sans">senayorubhayormadhye sthāpayitvā rathottamam</span><br>
       <span class="num sans">|| 24 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">evam</span> thus</span>
+        <span class="w"><span class="sans">uktaḥ</span> addressed</span>
+        <span class="w"><span class="sans">hṛṣīkeśaḥ</span> Hṛṣīkeśa</span>
+        <span class="w"><span class="sans">guḍākeśena</span> by Guḍākeśa</span>
+        <span class="w"><span class="sans">bhārata</span> O Bhārata</span>
+        <span class="w"><span class="sans">senayoḥ</span> of the armies</span>
+        <span class="w"><span class="sans">ubhayoḥ</span> both</span>
+        <span class="w"><span class="sans">madhye</span> between</span>
+        <span class="w"><span class="sans">sthāpayitvā</span> having placed</span>
+        <span class="w"><span class="sans">ratha-uttamam</span> the finest of chariots</span></p>
       <p>Sañjaya said: Thus addressed by Guḍākeśa, O Bhārata, Hṛṣīkeśa stationed that finest of chariots between the two armies,</p>
     </details>
   </div>
@@ -895,7 +1202,19 @@
       <span class="sans">uvāca pārtha paśyaitān samavetān kurūniti</span><br>
       <span class="num sans">|| 25 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">bhīṣma-droṇa-pramukhataḥ</span> in front of Bhīṣma and Droṇa</span>
+        <span class="w"><span class="sans">sarveṣām</span> of all</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">mahī-kṣitām</span> rulers of the earth</span>
+        <span class="w"><span class="sans">uvāca</span> said</span>
+        <span class="w"><span class="sans">pārtha</span> O Pārtha</span>
+        <span class="w"><span class="sans">paśya</span> behold</span>
+        <span class="w"><span class="sans">etān</span> these</span>
+        <span class="w"><span class="sans">samavetān</span> assembled</span>
+        <span class="w"><span class="sans">kurūn</span> Kurus</span>
+        <span class="w"><span class="sans">iti</span> thus</span></p>
       <p>before Bhīṣma and Droṇa and all the rulers of the earth, and said: Pārtha, behold these Kurus gathered together.</p>
     </details>
   </div>
@@ -906,7 +1225,22 @@
       <span class="sans">ācāryān mātulān bhrātṝn putrān pautrānsakhīṃstathā</span><br>
       <span class="num sans">|| 26 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">tatra</span> there</span>
+        <span class="w"><span class="sans">apaśyat</span> saw</span>
+        <span class="w"><span class="sans">sthitān</span> standing</span>
+        <span class="w"><span class="sans">pārthaḥ</span> Pārtha</span>
+        <span class="w"><span class="sans">pitṝn</span> fathers</span>
+        <span class="w"><span class="sans">atha</span> and</span>
+        <span class="w"><span class="sans">pitāmahān</span> grandfathers</span>
+        <span class="w"><span class="sans">ācāryān</span> teachers</span>
+        <span class="w"><span class="sans">mātulān</span> maternal uncles</span>
+        <span class="w"><span class="sans">bhrātṝn</span> brothers</span>
+        <span class="w"><span class="sans">putrān</span> sons</span>
+        <span class="w"><span class="sans">pautrān</span> grandsons</span>
+        <span class="w"><span class="sans">sakhīn</span> friends</span>
+        <span class="w"><span class="sans">tathā</span> as well</span></p>
       <p>There Pārtha saw, standing in both armies, fathers and grandfathers, teachers, maternal uncles, brothers, sons, grandsons and friends,</p>
     </details>
   </div>
@@ -917,7 +1251,22 @@
       <span class="sans">tān samīkṣya sa kaunteyaḥ sarvān bandhūnavasthitān</span><br>
       <span class="num sans">|| 27 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">śvaśurān</span> fathers-in-law</span>
+        <span class="w"><span class="sans">suhṛdaḥ</span> well-wishers</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">eva</span> too</span>
+        <span class="w"><span class="sans">senayoḥ</span> in the armies</span>
+        <span class="w"><span class="sans">ubhayoḥ</span> both</span>
+        <span class="w"><span class="sans">api</span> also</span>
+        <span class="w"><span class="sans">tān</span> them</span>
+        <span class="w"><span class="sans">samīkṣya</span> seeing</span>
+        <span class="w"><span class="sans">saḥ</span> he</span>
+        <span class="w"><span class="sans">kaunteyaḥ</span> the son of Kuntī</span>
+        <span class="w"><span class="sans">sarvān</span> all</span>
+        <span class="w"><span class="sans">bandhūn</span> kinsmen</span>
+        <span class="w"><span class="sans">avasthitān</span> arrayed</span></p>
       <p>fathers-in-law and well-wishers too. Seeing all these kinsmen so arrayed, the son of Kuntī,</p>
     </details>
   </div>
@@ -928,7 +1277,20 @@
       <span class="sans">dṛṣṭvemaṃ svajanaṃ kṛṣṇa yuyutsuṃ samupasthitam</span><br>
       <span class="num sans">|| 28 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">kṛpayā</span> by pity</span>
+        <span class="w"><span class="sans">parayā</span> deep</span>
+        <span class="w"><span class="sans">āviṣṭaḥ</span> overcome</span>
+        <span class="w"><span class="sans">viṣīdan</span> despairing</span>
+        <span class="w"><span class="sans">idam</span> this</span>
+        <span class="w"><span class="sans">abravīt</span> said</span>
+        <span class="w"><span class="sans">dṛṣṭvā</span> seeing</span>
+        <span class="w"><span class="sans">imam</span> these</span>
+        <span class="w"><span class="sans">sva-janam</span> my own people</span>
+        <span class="w"><span class="sans">kṛṣṇa</span> O Kṛṣṇa</span>
+        <span class="w"><span class="sans">yuyutsum</span> eager to fight</span>
+        <span class="w"><span class="sans">samupasthitam</span> drawn near</span></p>
       <p>overcome by deep pity, spoke in sorrow. Arjuna said: Seeing my own people, O Kṛṣṇa, drawn up and eager to fight,</p>
     </details>
   </div>
@@ -941,7 +1303,21 @@
       <span class="sans">vepathuśca śarīre me romaharṣaśca jāyate</span><br>
       <span class="num sans">|| 29 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">sīdanti</span> fail</span>
+        <span class="w"><span class="sans">mama</span> my</span>
+        <span class="w"><span class="sans">gātrāṇi</span> limbs</span>
+        <span class="w"><span class="sans">mukham</span> mouth</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">pariśuṣyati</span> goes dry</span>
+        <span class="w"><span class="sans">vepathuḥ</span> trembling</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">śarīre</span> in body</span>
+        <span class="w"><span class="sans">me</span> my</span>
+        <span class="w"><span class="sans">roma-harṣaḥ</span> bristling of the hair</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">jāyate</span> arises</span></p>
       <p>my limbs give way, my mouth is parched, my body trembles and my hair stands on end.</p>
     </details>
   </div>
@@ -952,7 +1328,23 @@
       <span class="sans">na ca śaknomyavasthātuṃ bhramatīva ca me manaḥ</span><br>
       <span class="num sans">|| 30 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">gāṇḍīvam</span> Gāṇḍīva</span>
+        <span class="w"><span class="sans">sraṃsate</span> slips</span>
+        <span class="w"><span class="sans">hastāt</span> from my hand</span>
+        <span class="w"><span class="sans">tvak</span> skin</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">eva</span> too</span>
+        <span class="w"><span class="sans">paridahyate</span> burns all over</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">śaknomi</span> am able</span>
+        <span class="w"><span class="sans">avasthātum</span> to stand</span>
+        <span class="w"><span class="sans">bhramati iva</span> seems to reel</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">me</span> my</span>
+        <span class="w"><span class="sans">manaḥ</span> mind</span></p>
       <p>Gāṇḍīva slips from my hand, my skin is burning; I cannot stand steady, and my mind seems to whirl.</p>
     </details>
   </div>
@@ -963,7 +1355,20 @@
       <span class="sans">na ca śreyo'nupaśyāmi hatvā svajanamāhave</span><br>
       <span class="num sans">|| 31 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">nimittāni</span> omens</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">paśyāmi</span> I see</span>
+        <span class="w"><span class="sans">viparītāni</span> adverse</span>
+        <span class="w"><span class="sans">keśava</span> O Keśava</span>
+        <span class="w"><span class="sans">na</span> no</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">śreyaḥ</span> good</span>
+        <span class="w"><span class="sans">anupaśyāmi</span> do I foresee</span>
+        <span class="w"><span class="sans">hatvā</span> in killing</span>
+        <span class="w"><span class="sans">sva-janam</span> my own people</span>
+        <span class="w"><span class="sans">āhave</span> in battle</span></p>
       <p>I see ill omens, O Keśava, and I foresee no good in killing my own people in battle.</p>
     </details>
   </div>
@@ -974,7 +1379,25 @@
       <span class="sans">kiṃ no rājyena govinda kiṃ bhogairjīvitena vā</span><br>
       <span class="num sans">|| 32 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">kāṅkṣe</span> do I desire</span>
+        <span class="w"><span class="sans">vijayam</span> victory</span>
+        <span class="w"><span class="sans">kṛṣṇa</span> O Kṛṣṇa</span>
+        <span class="w"><span class="sans">na</span> nor</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">rājyam</span> kingdom</span>
+        <span class="w"><span class="sans">sukhāni</span> pleasures</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">kim</span> what use</span>
+        <span class="w"><span class="sans">naḥ</span> to us</span>
+        <span class="w"><span class="sans">rājyena</span> is a kingdom</span>
+        <span class="w"><span class="sans">govinda</span> O Govinda</span>
+        <span class="w"><span class="sans">kim</span> what</span>
+        <span class="w"><span class="sans">bhogaiḥ</span> enjoyments</span>
+        <span class="w"><span class="sans">jīvitena</span> life</span>
+        <span class="w"><span class="sans">vā</span> or</span></p>
       <p>I do not want victory, Kṛṣṇa, nor kingdom nor pleasures. What use is a kingdom to us, Govinda, or enjoyments, or life itself?</p>
     </details>
   </div>
@@ -985,7 +1408,24 @@
       <span class="sans">ta ime'vasthitā yuddhe prāṇāṃstyaktvā dhanāni ca</span><br>
       <span class="num sans">|| 33 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yeṣām</span> for whose</span>
+        <span class="w"><span class="sans">arthe</span> sake</span>
+        <span class="w"><span class="sans">kāṅkṣitam</span> is desired</span>
+        <span class="w"><span class="sans">naḥ</span> by us</span>
+        <span class="w"><span class="sans">rājyam</span> kingdom</span>
+        <span class="w"><span class="sans">bhogāḥ</span> enjoyments</span>
+        <span class="w"><span class="sans">sukhāni</span> pleasures</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">te</span> they</span>
+        <span class="w"><span class="sans">ime</span> these</span>
+        <span class="w"><span class="sans">avasthitāḥ</span> stand</span>
+        <span class="w"><span class="sans">yuddhe</span> in battle</span>
+        <span class="w"><span class="sans">prāṇān</span> lives</span>
+        <span class="w"><span class="sans">tyaktvā</span> giving up</span>
+        <span class="w"><span class="sans">dhanāni</span> wealth</span>
+        <span class="w"><span class="sans">ca</span> and</span></p>
       <p>Those for whose sake we desire kingdom, enjoyments and pleasures stand here in battle, having given up life and wealth —</p>
     </details>
   </div>
@@ -996,7 +1436,21 @@
       <span class="sans">mātulāḥ śvaśurāḥ pautrāḥ śyālāḥ sambandhinastathā</span><br>
       <span class="num sans">|| 34 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">ācāryāḥ</span> teachers</span>
+        <span class="w"><span class="sans">pitaraḥ</span> fathers</span>
+        <span class="w"><span class="sans">putrāḥ</span> sons</span>
+        <span class="w"><span class="sans">tathā</span> likewise</span>
+        <span class="w"><span class="sans">eva</span> too</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">pitāmahāḥ</span> grandfathers</span>
+        <span class="w"><span class="sans">mātulāḥ</span> maternal uncles</span>
+        <span class="w"><span class="sans">śvaśurāḥ</span> fathers-in-law</span>
+        <span class="w"><span class="sans">pautrāḥ</span> grandsons</span>
+        <span class="w"><span class="sans">śyālāḥ</span> brothers-in-law</span>
+        <span class="w"><span class="sans">sambandhinaḥ</span> kinsmen</span>
+        <span class="w"><span class="sans">tathā</span> as well</span></p>
       <p>teachers, fathers, sons and grandfathers, maternal uncles, fathers-in-law, grandsons, brothers-in-law and other kin.</p>
     </details>
   </div>
@@ -1007,7 +1461,20 @@
       <span class="sans">api trailokyarājyasya hetoḥ kiṃ nu mahīkṛte</span><br>
       <span class="num sans">|| 35 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">etān</span> these</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">hantum</span> to kill</span>
+        <span class="w"><span class="sans">icchāmi</span> I wish</span>
+        <span class="w"><span class="sans">ghnataḥ</span> killing me</span>
+        <span class="w"><span class="sans">api</span> even</span>
+        <span class="w"><span class="sans">madhusūdana</span> O Madhusūdana</span>
+        <span class="w"><span class="sans">api</span> even</span>
+        <span class="w"><span class="sans">trailokya-rājyasya</span> of sovereignty over the three worlds</span>
+        <span class="w"><span class="sans">hetoḥ</span> for the sake</span>
+        <span class="w"><span class="sans">kim nu</span> how much less</span>
+        <span class="w"><span class="sans">mahī-kṛte</span> for the earth</span></p>
       <p>These I would not wish to kill, O slayer of Madhu, even if they kill me — not for the kingship of the three worlds, let alone for the earth.</p>
     </details>
   </div>
@@ -1018,7 +1485,22 @@
       <span class="sans">pāpamevāśrayedasmān hatvaitānātatāyinaḥ</span><br>
       <span class="num sans">|| 36 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">nihatya</span> having slain</span>
+        <span class="w"><span class="sans">dhārtarāṣṭrān</span> Dhṛtarāṣṭra's sons</span>
+        <span class="w"><span class="sans">naḥ</span> to us</span>
+        <span class="w"><span class="sans">kā</span> what</span>
+        <span class="w"><span class="sans">prītiḥ</span> joy</span>
+        <span class="w"><span class="sans">syāt</span> could there be</span>
+        <span class="w"><span class="sans">janārdana</span> O Janārdana</span>
+        <span class="w"><span class="sans">pāpam</span> sin</span>
+        <span class="w"><span class="sans">eva</span> only</span>
+        <span class="w"><span class="sans">āśrayet</span> would cling</span>
+        <span class="w"><span class="sans">asmān</span> to us</span>
+        <span class="w"><span class="sans">hatvā</span> having killed</span>
+        <span class="w"><span class="sans">etān</span> these</span>
+        <span class="w"><span class="sans">ātatāyinaḥ</span> aggressors</span></p>
       <p>What joy could be ours, Janārdana, in slaying the sons of Dhṛtarāṣṭra? Only sin would cling to us for killing these aggressors.</p>
     </details>
   </div>
@@ -1029,7 +1511,22 @@
       <span class="sans">svajanaṃ hi kathaṃ hatvā sukhinaḥ syāma mādhava</span><br>
       <span class="num sans">|| 37 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">tasmāt</span> therefore</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">arhāḥ</span> right</span>
+        <span class="w"><span class="sans">vayam</span> we</span>
+        <span class="w"><span class="sans">hantum</span> to kill</span>
+        <span class="w"><span class="sans">dhārtarāṣṭrān</span> Dhṛtarāṣṭra's sons</span>
+        <span class="w"><span class="sans">sva-bāndhavān</span> our own kinsmen</span>
+        <span class="w"><span class="sans">sva-janam</span> our own people</span>
+        <span class="w"><span class="sans">hi</span> for</span>
+        <span class="w"><span class="sans">katham</span> how</span>
+        <span class="w"><span class="sans">hatvā</span> having killed</span>
+        <span class="w"><span class="sans">sukhinaḥ</span> happy</span>
+        <span class="w"><span class="sans">syāma</span> could we be</span>
+        <span class="w"><span class="sans">mādhava</span> O Mādhava</span></p>
       <p>So we ought not to kill the sons of Dhṛtarāṣṭra, our own kinsmen. How could we be happy, Mādhava, after killing our own people?</p>
     </details>
   </div>
@@ -1040,7 +1537,18 @@
       <span class="sans">kulakṣayakṛtaṃ doṣaṃ mitradrohe ca pātakam</span><br>
       <span class="num sans">|| 38 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yadi api</span> even if</span>
+        <span class="w"><span class="sans">ete</span> these</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">paśyanti</span> see</span>
+        <span class="w"><span class="sans">lobha-upahata-cetasaḥ</span> their minds overcome by greed</span>
+        <span class="w"><span class="sans">kula-kṣaya-kṛtam</span> caused by the ruin of the family</span>
+        <span class="w"><span class="sans">doṣam</span> evil</span>
+        <span class="w"><span class="sans">mitra-drohe</span> in betraying friends</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">pātakam</span> sin</span></p>
       <p>Even if these men, their minds overcome by greed, see no wrong in destroying a family and no crime in betraying friends,</p>
     </details>
   </div>
@@ -1051,7 +1559,19 @@
       <span class="sans">kulakṣayakṛtaṃ doṣaṃ prapaśyadbhirjanārdana</span><br>
       <span class="num sans">|| 39 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">katham</span> why</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">jñeyam</span> should it be known</span>
+        <span class="w"><span class="sans">asmābhiḥ</span> by us</span>
+        <span class="w"><span class="sans">pāpāt</span> from sin</span>
+        <span class="w"><span class="sans">asmāt</span> this</span>
+        <span class="w"><span class="sans">nivartitum</span> to turn away</span>
+        <span class="w"><span class="sans">kula-kṣaya-kṛtam</span> caused by the ruin of the family</span>
+        <span class="w"><span class="sans">doṣam</span> evil</span>
+        <span class="w"><span class="sans">prapaśyadbhiḥ</span> by us who see clearly</span>
+        <span class="w"><span class="sans">janārdana</span> O Janārdana</span></p>
       <p>why should not we, who clearly see the evil of destroying a family, learn to turn away from this sin, O Janārdana?</p>
     </details>
   </div>
@@ -1062,7 +1582,19 @@
       <span class="sans">dharme naṣṭe kulaṃ kṛtsnamadharmo'bhibhavatyuta</span><br>
       <span class="num sans">|| 40 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">kula-kṣaye</span> when a family is ruined</span>
+        <span class="w"><span class="sans">praṇaśyanti</span> perish</span>
+        <span class="w"><span class="sans">kula-dharmāḥ</span> the family's dharmas</span>
+        <span class="w"><span class="sans">sanātanāḥ</span> ancient</span>
+        <span class="w"><span class="sans">dharme</span> when dharma</span>
+        <span class="w"><span class="sans">naṣṭe</span> is lost</span>
+        <span class="w"><span class="sans">kulam</span> the family</span>
+        <span class="w"><span class="sans">kṛtsnam</span> whole</span>
+        <span class="w"><span class="sans">adharmaḥ</span> adharma</span>
+        <span class="w"><span class="sans">abhibhavati</span> overwhelms</span>
+        <span class="w"><span class="sans">uta</span> indeed</span></p>
       <p>When a family is destroyed, its ancient family dharmas perish; when dharma perishes, lawlessness overwhelms the whole family.</p>
     </details>
   </div>
@@ -1073,7 +1605,17 @@
       <span class="sans">strīṣu duṣṭāsu vārṣṇeya jāyate varṇasaṅkaraḥ</span><br>
       <span class="num sans">|| 41 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">adharma-abhibhavāt</span> from the prevalence of adharma</span>
+        <span class="w"><span class="sans">kṛṣṇa</span> O Kṛṣṇa</span>
+        <span class="w"><span class="sans">praduṣyanti</span> are corrupted</span>
+        <span class="w"><span class="sans">kula-striyaḥ</span> the women of the family</span>
+        <span class="w"><span class="sans">strīṣu</span> when women</span>
+        <span class="w"><span class="sans">duṣṭāsu</span> are corrupted</span>
+        <span class="w"><span class="sans">vārṣṇeya</span> O Vārṣṇeya</span>
+        <span class="w"><span class="sans">jāyate</span> arises</span>
+        <span class="w"><span class="sans">varṇa-saṅkaraḥ</span> confusion of classes</span></p>
       <p>When lawlessness prevails, Kṛṣṇa, the women of the family are corrupted; and when the women are corrupted, O Vārṣṇeya, the mixing of classes arises.</p>
     </details>
   </div>
@@ -1084,7 +1626,19 @@
       <span class="sans">patanti pitaro hyeṣāṃ luptapiṇḍodakakriyāḥ</span><br>
       <span class="num sans">|| 42 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">saṅkaraḥ</span> confusion</span>
+        <span class="w"><span class="sans">narakāya</span> to hell</span>
+        <span class="w"><span class="sans">eva</span> surely</span>
+        <span class="w"><span class="sans">kula-ghnānām</span> of the destroyers of the family</span>
+        <span class="w"><span class="sans">kulasya</span> of the family</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">patanti</span> fall</span>
+        <span class="w"><span class="sans">pitaraḥ</span> ancestors</span>
+        <span class="w"><span class="sans">hi</span> for</span>
+        <span class="w"><span class="sans">eṣām</span> their</span>
+        <span class="w"><span class="sans">lupta-piṇḍa-udaka-kriyāḥ</span> deprived of the rites of rice-ball and water</span></p>
       <p>This mixing leads to hell both the destroyers of the family and the family itself, for their ancestors fall, deprived of the offerings of rice-ball and water.</p>
     </details>
   </div>
@@ -1095,7 +1649,17 @@
       <span class="sans">utsādyante jātidharmāḥ kuladharmāśca śāśvatāḥ</span><br>
       <span class="num sans">|| 43 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">doṣaiḥ</span> by evils</span>
+        <span class="w"><span class="sans">etaiḥ</span> these</span>
+        <span class="w"><span class="sans">kula-ghnānām</span> of the destroyers of the family</span>
+        <span class="w"><span class="sans">varṇa-saṅkara-kārakaiḥ</span> causing confusion of classes</span>
+        <span class="w"><span class="sans">utsādyante</span> are destroyed</span>
+        <span class="w"><span class="sans">jāti-dharmāḥ</span> the dharmas of the community</span>
+        <span class="w"><span class="sans">kula-dharmāḥ</span> the dharmas of the family</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">śāśvatāḥ</span> everlasting</span></p>
       <p>By these misdeeds of the destroyers of families, which bring about the mixing of classes, the eternal dharmas of caste and family are uprooted.</p>
     </details>
   </div>
@@ -1106,7 +1670,17 @@
       <span class="sans">narake niyataṃ vāso bhavatītyanuśuśruma</span><br>
       <span class="num sans">|| 44 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">utsanna-kula-dharmāṇām</span> whose family dharmas are destroyed</span>
+        <span class="w"><span class="sans">manuṣyāṇām</span> of men</span>
+        <span class="w"><span class="sans">janārdana</span> O Janārdana</span>
+        <span class="w"><span class="sans">narake</span> in hell</span>
+        <span class="w"><span class="sans">niyatam</span> for certain</span>
+        <span class="w"><span class="sans">vāsaḥ</span> dwelling</span>
+        <span class="w"><span class="sans">bhavati</span> is</span>
+        <span class="w"><span class="sans">iti</span> thus</span>
+        <span class="w"><span class="sans">anuśuśruma</span> we have heard</span></p>
       <p>We have heard, Janārdana, that men whose family dharmas are uprooted dwell in hell for an unending time.</p>
     </details>
   </div>
@@ -1117,7 +1691,19 @@
       <span class="sans">yadrājyasukhalobhena hantuṃ svajanamudyatāḥ</span><br>
       <span class="num sans">|| 45 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">aho bata</span> alas</span>
+        <span class="w"><span class="sans">mahat</span> great</span>
+        <span class="w"><span class="sans">pāpam</span> sin</span>
+        <span class="w"><span class="sans">kartum</span> to commit</span>
+        <span class="w"><span class="sans">vyavasitāḥ</span> resolved</span>
+        <span class="w"><span class="sans">vayam</span> we</span>
+        <span class="w"><span class="sans">yat</span> in that</span>
+        <span class="w"><span class="sans">rājya-sukha-lobhena</span> from greed for the pleasures of a kingdom</span>
+        <span class="w"><span class="sans">hantum</span> to kill</span>
+        <span class="w"><span class="sans">sva-janam</span> our own people</span>
+        <span class="w"><span class="sans">udyatāḥ</span> we are poised</span></p>
       <p>Alas, what a great sin we have resolved to commit, ready to kill our own people out of greed for the pleasures of a kingdom!</p>
     </details>
   </div>
@@ -1128,7 +1714,20 @@
       <span class="sans">dhārtarāṣṭrā raṇe hanyustanme kṣemataraṃ bhavet</span><br>
       <span class="num sans">|| 46 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yadi</span> if</span>
+        <span class="w"><span class="sans">mām</span> me</span>
+        <span class="w"><span class="sans">apratīkāram</span> unresisting</span>
+        <span class="w"><span class="sans">aśastram</span> unarmed</span>
+        <span class="w"><span class="sans">śastra-pāṇayaḥ</span> weapons in hand</span>
+        <span class="w"><span class="sans">dhārtarāṣṭrāḥ</span> Dhṛtarāṣṭra's sons</span>
+        <span class="w"><span class="sans">raṇe</span> in battle</span>
+        <span class="w"><span class="sans">hanyuḥ</span> should kill</span>
+        <span class="w"><span class="sans">tat</span> that</span>
+        <span class="w"><span class="sans">me</span> for me</span>
+        <span class="w"><span class="sans">kṣema-taram</span> better</span>
+        <span class="w"><span class="sans">bhavet</span> would be</span></p>
       <p>Better for me if the sons of Dhṛtarāṣṭra, weapons in hand, were to kill me in battle, unresisting and unarmed.</p>
     </details>
   </div>
@@ -1141,7 +1740,18 @@
       <span class="sans">visṛjya saśaraṃ cāpaṃ śokasaṃvignamānasaḥ</span><br>
       <span class="num sans">|| 47 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">evam</span> thus</span>
+        <span class="w"><span class="sans">uktvā</span> having spoken</span>
+        <span class="w"><span class="sans">arjunaḥ</span> Arjuna</span>
+        <span class="w"><span class="sans">saṅkhye</span> on the battlefield</span>
+        <span class="w"><span class="sans">ratha-upasthe</span> on the seat of the chariot</span>
+        <span class="w"><span class="sans">upāviśat</span> sat down</span>
+        <span class="w"><span class="sans">visṛjya</span> casting aside</span>
+        <span class="w"><span class="sans">sa-śaram</span> with its arrows</span>
+        <span class="w"><span class="sans">cāpam</span> bow</span>
+        <span class="w"><span class="sans">śoka-saṃvigna-mānasaḥ</span> his mind overwhelmed with grief</span></p>
       <p>Sañjaya said: Having spoken thus on the battlefield, Arjuna sank down on the seat of the chariot, casting away his bow and arrows, his mind overwhelmed by sorrow.</p>
     </details>
   </div>
@@ -1582,7 +2192,7 @@
     // still has it, so a stale suggestion never lands on the wrong text.
     var texts = [];
     document.querySelectorAll('header h1, header .subtitle, p.speaker, ' +
-        'details.gloss:not(#contents):not(.bhashya) > p, details.bhashya > p.bh-tr, .colophon-gloss').forEach(function (el){
+        'details.gloss:not(#contents):not(.bhashya) > p:not(.wbw), p.wbw > .w, details.bhashya > p.bh-tr, .colophon-gloss').forEach(function (el){
       if (!el.children.length){ el.classList.add("ed"); texts.push(el); return; }
       [].slice.call(el.childNodes).forEach(function (c){
         if (c.nodeType !== 3 || !c.nodeValue.trim()) return;

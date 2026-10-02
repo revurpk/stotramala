@@ -253,6 +253,16 @@
     text-align:left;
     margin:0;
   }
+  /* word-by-word list above a translation: Sanskrit upright, meaning italic,
+     a middle dot between pairs */
+  .gloss p.wbw{
+    font-size:.96rem;line-height:1.75;margin:0 0 .75rem;
+    padding-bottom:.6rem;border-bottom:1px solid var(--rule);
+  }
+  .gloss p.wbw .sans{font-style:normal;color:var(--ink);}
+  .gloss p.wbw .w:not(:last-child)::after{
+    content:"\00a0·";color:var(--accent);opacity:.6;margin-right:.4em;
+  }
   .viniyoga .lines{
     font-size:1.1rem;
     line-height:1.7;
@@ -395,7 +405,21 @@
       <span class="sans">yatte'haṃ prīyamāṇāya vakṣyāmi hitakāmyayā</span><br>
       <span class="num sans">|| 1 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">bhūyaḥ</span> once more</span>
+        <span class="w"><span class="sans">eva</span> indeed</span>
+        <span class="w"><span class="sans">mahā-bāho</span> O mighty-armed</span>
+        <span class="w"><span class="sans">śṛṇu</span> hear</span>
+        <span class="w"><span class="sans">me</span> my</span>
+        <span class="w"><span class="sans">paramam</span> supreme</span>
+        <span class="w"><span class="sans">vacaḥ</span> word</span>
+        <span class="w"><span class="sans">yat</span> which</span>
+        <span class="w"><span class="sans">te</span> to you</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">prīyamāṇāya</span> who delight in it</span>
+        <span class="w"><span class="sans">vakṣyāmi</span> shall speak</span>
+        <span class="w"><span class="sans">hita-kāmyayā</span> wishing your good</span></p>
       <p>The Blessed Lord said: Hear once more, mighty-armed one, my supreme word, which I will speak to you, who delight in it, out of desire for your good.</p>
     </details>
     <details class="gloss bhashya">
@@ -413,7 +437,22 @@
       <span class="sans">ahamādirhi devānāṃ maharṣīṇāṃ ca sarvaśaḥ</span><br>
       <span class="num sans">|| 2 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">me</span> my</span>
+        <span class="w"><span class="sans">viduḥ</span> know</span>
+        <span class="w"><span class="sans">sura-gaṇāḥ</span> the hosts of gods</span>
+        <span class="w"><span class="sans">prabhavam</span> origin</span>
+        <span class="w"><span class="sans">na</span> nor</span>
+        <span class="w"><span class="sans">mahā-ṛṣayaḥ</span> the great sages</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">ādiḥ</span> the beginning</span>
+        <span class="w"><span class="sans">hi</span> for</span>
+        <span class="w"><span class="sans">devānām</span> of the gods</span>
+        <span class="w"><span class="sans">mahā-ṛṣīṇām</span> of the great sages</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">sarvaśaḥ</span> in every way</span></p>
       <p>Neither the hosts of gods nor the great seers know my origin; for I am the source of the gods and of the great seers in every way.</p>
     </details>
     <details class="gloss bhashya">
@@ -431,7 +470,20 @@
       <span class="sans">asammūḍhaḥ sa martyeṣu sarvapāpaiḥ pramucyate</span><br>
       <span class="num sans">|| 3 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yaḥ</span> who</span>
+        <span class="w"><span class="sans">mām</span> me</span>
+        <span class="w"><span class="sans">ajam</span> unborn</span>
+        <span class="w"><span class="sans">anādim</span> beginningless</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">vetti</span> knows</span>
+        <span class="w"><span class="sans">loka-mahā-īśvaram</span> the great Lord of the worlds</span>
+        <span class="w"><span class="sans">asammūḍhaḥ</span> undeluded</span>
+        <span class="w"><span class="sans">saḥ</span> he</span>
+        <span class="w"><span class="sans">martyeṣu</span> among mortals</span>
+        <span class="w"><span class="sans">sarva-pāpaiḥ</span> from all sins</span>
+        <span class="w"><span class="sans">pramucyate</span> is freed</span></p>
       <p>He who knows me as unborn and without beginning, the great lord of the worlds, is undeluded among mortals and is freed from all sins.</p>
     </details>
     <details class="gloss bhashya">
@@ -447,7 +499,23 @@
       <span class="sans">sukhaṃ duḥkhaṃ bhavo'bhāvo bhayaṃ cābhayameva ca</span><br>
       <span class="num sans">|| 4 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">buddhiḥ</span> understanding</span>
+        <span class="w"><span class="sans">jñānam</span> knowledge</span>
+        <span class="w"><span class="sans">asammohaḥ</span> non-delusion</span>
+        <span class="w"><span class="sans">kṣamā</span> patience</span>
+        <span class="w"><span class="sans">satyam</span> truth</span>
+        <span class="w"><span class="sans">damaḥ</span> self-control</span>
+        <span class="w"><span class="sans">śamaḥ</span> calm</span>
+        <span class="w"><span class="sans">sukham</span> pleasure</span>
+        <span class="w"><span class="sans">duḥkham</span> pain</span>
+        <span class="w"><span class="sans">bhavaḥ</span> being</span>
+        <span class="w"><span class="sans">abhāvaḥ</span> non-being</span>
+        <span class="w"><span class="sans">bhayam</span> fear</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">abhayam</span> fearlessness</span>
+        <span class="w"><span class="sans">eva ca</span> and also</span></p>
       <p>Understanding, knowledge, freedom from delusion, patience, truthfulness, self-restraint and calm; pleasure and pain, being and non-being, fear and fearlessness;</p>
     </details>
     <details class="gloss bhashya">
@@ -465,7 +533,21 @@
       <span class="sans">bhavanti bhāvā bhūtānāṃ matta eva pṛthagvidhāḥ</span><br>
       <span class="num sans">|| 5 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">ahiṃsā</span> non-violence</span>
+        <span class="w"><span class="sans">samatā</span> evenness</span>
+        <span class="w"><span class="sans">tuṣṭiḥ</span> contentment</span>
+        <span class="w"><span class="sans">tapaḥ</span> austerity</span>
+        <span class="w"><span class="sans">dānam</span> charity</span>
+        <span class="w"><span class="sans">yaśaḥ</span> fame</span>
+        <span class="w"><span class="sans">ayaśaḥ</span> infamy</span>
+        <span class="w"><span class="sans">bhavanti</span> arise</span>
+        <span class="w"><span class="sans">bhāvāḥ</span> states</span>
+        <span class="w"><span class="sans">bhūtānām</span> of beings</span>
+        <span class="w"><span class="sans">mattaḥ</span> from me</span>
+        <span class="w"><span class="sans">eva</span> alone</span>
+        <span class="w"><span class="sans">pṛthak-vidhāḥ</span> of their various kinds</span></p>
       <p>non-violence, equanimity, contentment, austerity, generosity, fame and infamy — these various states of beings arise from me alone.</p>
     </details>
     <details class="gloss bhashya">
@@ -481,7 +563,21 @@
       <span class="sans">madbhāvā mānasā jātā yeṣāṃ loka imāḥ prajāḥ</span><br>
       <span class="num sans">|| 6 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">mahā-ṛṣayaḥ</span> the great sages</span>
+        <span class="w"><span class="sans">sapta</span> seven</span>
+        <span class="w"><span class="sans">pūrve</span> of old</span>
+        <span class="w"><span class="sans">catvāraḥ</span> the four</span>
+        <span class="w"><span class="sans">manavaḥ</span> Manus</span>
+        <span class="w"><span class="sans">tathā</span> likewise</span>
+        <span class="w"><span class="sans">mat-bhāvāḥ</span> sharing my being</span>
+        <span class="w"><span class="sans">mānasāḥ</span> of mind</span>
+        <span class="w"><span class="sans">jātāḥ</span> were born</span>
+        <span class="w"><span class="sans">yeṣām</span> from whom</span>
+        <span class="w"><span class="sans">loke</span> in the world</span>
+        <span class="w"><span class="sans">imāḥ</span> these</span>
+        <span class="w"><span class="sans">prajāḥ</span> creatures</span></p>
       <p>The seven great seers of old and the four Manus, from whom these creatures in the world descend, were born of my mind and share my nature.</p>
     </details>
     <details class="gloss bhashya">
@@ -497,7 +593,23 @@
       <span class="sans">so'vikampena yogena yujyate nātra saṃśayaḥ</span><br>
       <span class="num sans">|| 7 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">etām</span> this</span>
+        <span class="w"><span class="sans">vibhūtim</span> glory</span>
+        <span class="w"><span class="sans">yogam</span> yoga</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">mama</span> of mine</span>
+        <span class="w"><span class="sans">yaḥ</span> who</span>
+        <span class="w"><span class="sans">vetti</span> knows</span>
+        <span class="w"><span class="sans">tattvataḥ</span> in truth</span>
+        <span class="w"><span class="sans">saḥ</span> he</span>
+        <span class="w"><span class="sans">avikampena</span> with unshaken</span>
+        <span class="w"><span class="sans">yogena</span> yoga</span>
+        <span class="w"><span class="sans">yujyate</span> is joined</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">atra</span> here</span>
+        <span class="w"><span class="sans">saṃśayaḥ</span> doubt</span></p>
       <p>He who knows in truth this glory and this yoga of mine is joined to me in unwavering yoga; of this there is no doubt.</p>
     </details>
     <details class="gloss bhashya">
@@ -513,7 +625,20 @@
       <span class="sans">iti matvā bhajante māṃ budhā bhāvasamanvitāḥ</span><br>
       <span class="num sans">|| 8 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">sarvasya</span> of all</span>
+        <span class="w"><span class="sans">prabhavaḥ</span> the origin</span>
+        <span class="w"><span class="sans">mattaḥ</span> from me</span>
+        <span class="w"><span class="sans">sarvam</span> all</span>
+        <span class="w"><span class="sans">pravartate</span> proceeds</span>
+        <span class="w"><span class="sans">iti</span> thus</span>
+        <span class="w"><span class="sans">matvā</span> thinking</span>
+        <span class="w"><span class="sans">bhajante</span> worship</span>
+        <span class="w"><span class="sans">mām</span> me</span>
+        <span class="w"><span class="sans">budhāḥ</span> the wise</span>
+        <span class="w"><span class="sans">bhāva-samanvitāḥ</span> endowed with conviction</span></p>
       <p>I am the origin of all; from me everything proceeds. Knowing this, the wise worship me, filled with devotion.</p>
     </details>
     <details class="gloss bhashya">
@@ -531,7 +656,20 @@
       <span class="sans">kathayantaśca māṃ nityaṃ tuṣyanti ca ramanti ca</span><br>
       <span class="num sans">|| 9 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">mat-cittāḥ</span> with minds on me</span>
+        <span class="w"><span class="sans">mat-gata-prāṇāḥ</span> with lives given to me</span>
+        <span class="w"><span class="sans">bodhayantaḥ</span> enlightening</span>
+        <span class="w"><span class="sans">parasparam</span> one another</span>
+        <span class="w"><span class="sans">kathayantaḥ</span> speaking of</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">mām</span> me</span>
+        <span class="w"><span class="sans">nityam</span> always</span>
+        <span class="w"><span class="sans">tuṣyanti</span> they are content</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">ramanti</span> they delight</span>
+        <span class="w"><span class="sans">ca</span> and</span></p>
       <p>With their minds on me, their lives given to me, enlightening one another and always speaking of me, they are content and rejoice.</p>
     </details>
     <details class="gloss bhashya">
@@ -547,7 +685,19 @@
       <span class="sans">dadāmi buddhiyogaṃ taṃ yena māmupayānti te</span><br>
       <span class="num sans">|| 10 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">teṣām</span> to them</span>
+        <span class="w"><span class="sans">satata-yuktānām</span> ever disciplined</span>
+        <span class="w"><span class="sans">bhajatām</span> who worship</span>
+        <span class="w"><span class="sans">prīti-pūrvakam</span> with love</span>
+        <span class="w"><span class="sans">dadāmi</span> I give</span>
+        <span class="w"><span class="sans">buddhi-yogam</span> yoga of understanding</span>
+        <span class="w"><span class="sans">tam</span> that</span>
+        <span class="w"><span class="sans">yena</span> by which</span>
+        <span class="w"><span class="sans">mām</span> to me</span>
+        <span class="w"><span class="sans">upayānti</span> come</span>
+        <span class="w"><span class="sans">te</span> they</span></p>
       <p>To those who are ever disciplined and worship me with love, I give the yoga of understanding by which they come to me.</p>
     </details>
     <details class="gloss bhashya">
@@ -565,7 +715,18 @@
       <span class="sans">nāśayāmyātmabhāvastho jñānadīpena bhāsvatā</span><br>
       <span class="num sans">|| 11 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">teṣām</span> for them</span>
+        <span class="w"><span class="sans">eva</span> alone</span>
+        <span class="w"><span class="sans">anukampā-artham</span> out of compassion</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">ajñāna-jam</span> born of ignorance</span>
+        <span class="w"><span class="sans">tamaḥ</span> darkness</span>
+        <span class="w"><span class="sans">nāśayāmi</span> destroy</span>
+        <span class="w"><span class="sans">ātma-bhāva-sthaḥ</span> abiding in their inner being</span>
+        <span class="w"><span class="sans">jñāna-dīpena</span> with the lamp of knowledge</span>
+        <span class="w"><span class="sans">bhāsvatā</span> shining</span></p>
       <p>Out of compassion for them, abiding in their hearts, I destroy the darkness born of ignorance with the shining lamp of knowledge.</p>
     </details>
     <details class="gloss bhashya">
@@ -585,7 +746,21 @@
       <span class="sans">puruṣaṃ śāśvataṃ divyamādidevamajaṃ vibhum</span><br>
       <span class="num sans">|| 12 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">param</span> the supreme</span>
+        <span class="w"><span class="sans">brahma</span> Brahman</span>
+        <span class="w"><span class="sans">param</span> the supreme</span>
+        <span class="w"><span class="sans">dhāma</span> abode</span>
+        <span class="w"><span class="sans">pavitram</span> purifier</span>
+        <span class="w"><span class="sans">paramam</span> the supreme</span>
+        <span class="w"><span class="sans">bhavān</span> you are</span>
+        <span class="w"><span class="sans">puruṣam</span> puruṣa</span>
+        <span class="w"><span class="sans">śāśvatam</span> eternal</span>
+        <span class="w"><span class="sans">divyam</span> divine</span>
+        <span class="w"><span class="sans">ādi-devam</span> the primal god</span>
+        <span class="w"><span class="sans">ajam</span> unborn</span>
+        <span class="w"><span class="sans">vibhum</span> all-pervading</span></p>
       <p>Arjuna said: You are the supreme Brahman, the supreme abode, the supreme purifier — the eternal divine Person, the first of the gods, unborn and all-pervading.</p>
     </details>
     <details class="gloss bhashya">
@@ -603,7 +778,23 @@
       <span class="sans">asito devalo vyāsaḥ svayaṃ caiva bravīṣi me</span><br>
       <span class="num sans">|| 13 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">āhuḥ</span> declare</span>
+        <span class="w"><span class="sans">tvām</span> you</span>
+        <span class="w"><span class="sans">ṛṣayaḥ</span> the sages</span>
+        <span class="w"><span class="sans">sarve</span> all</span>
+        <span class="w"><span class="sans">deva-ṛṣiḥ</span> the divine sage</span>
+        <span class="w"><span class="sans">nāradaḥ</span> Nārada</span>
+        <span class="w"><span class="sans">tathā</span> likewise</span>
+        <span class="w"><span class="sans">asitaḥ</span> Asita</span>
+        <span class="w"><span class="sans">devalaḥ</span> Devala</span>
+        <span class="w"><span class="sans">vyāsaḥ</span> Vyāsa</span>
+        <span class="w"><span class="sans">svayam</span> yourself</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">eva</span> indeed</span>
+        <span class="w"><span class="sans">bravīṣi</span> you tell</span>
+        <span class="w"><span class="sans">me</span> me</span></p>
       <p>So all the seers declare you, and the divine seer Nārada, Asita, Devala and Vyāsa; and you yourself tell me so.</p>
     </details>
     <details class="gloss bhashya">
@@ -619,7 +810,25 @@
       <span class="sans">na hi te bhagavan vyaktiṃ vidurdevā na dānavāḥ</span><br>
       <span class="num sans">|| 14 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">sarvam</span> all</span>
+        <span class="w"><span class="sans">etat</span> this</span>
+        <span class="w"><span class="sans">ṛtam</span> true</span>
+        <span class="w"><span class="sans">manye</span> I hold</span>
+        <span class="w"><span class="sans">yat</span> which</span>
+        <span class="w"><span class="sans">mām</span> to me</span>
+        <span class="w"><span class="sans">vadasi</span> you say</span>
+        <span class="w"><span class="sans">keśava</span> O Keśava</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">hi</span> for</span>
+        <span class="w"><span class="sans">te</span> your</span>
+        <span class="w"><span class="sans">bhagavan</span> O Blessed One</span>
+        <span class="w"><span class="sans">vyaktim</span> manifestation</span>
+        <span class="w"><span class="sans">viduḥ</span> know</span>
+        <span class="w"><span class="sans">devāḥ</span> the gods</span>
+        <span class="w"><span class="sans">na</span> nor</span>
+        <span class="w"><span class="sans">dānavāḥ</span> the dānavas</span></p>
       <p>All this that you tell me I hold to be true, Keśava; for neither the gods nor the demons, O Lord, know your manifestation.</p>
     </details>
     <details class="gloss bhashya">
@@ -635,7 +844,19 @@
       <span class="sans">bhūtabhāvana bhūteśa devadeva jagatpate</span><br>
       <span class="num sans">|| 15 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">svayam</span> yourself</span>
+        <span class="w"><span class="sans">eva</span> alone</span>
+        <span class="w"><span class="sans">ātmanā</span> by yourself</span>
+        <span class="w"><span class="sans">ātmānam</span> yourself</span>
+        <span class="w"><span class="sans">vettha</span> know</span>
+        <span class="w"><span class="sans">tvam</span> you</span>
+        <span class="w"><span class="sans">puruṣa-uttama</span> O supreme person</span>
+        <span class="w"><span class="sans">bhūta-bhāvana</span> O source of beings</span>
+        <span class="w"><span class="sans">bhūta-īśa</span> O lord of beings</span>
+        <span class="w"><span class="sans">deva-deva</span> O god of gods</span>
+        <span class="w"><span class="sans">jagat-pate</span> O lord of the world</span></p>
       <p>You alone know yourself by yourself, O supreme Person, source of beings, lord of beings, god of gods, lord of the world.</p>
     </details>
     <details class="gloss bhashya">
@@ -653,7 +874,21 @@
       <span class="sans">yābhirvibhūtibhirlokānimāṃstvaṃ vyāpya tiṣṭhasi</span><br>
       <span class="num sans">|| 16 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">vaktum</span> to tell</span>
+        <span class="w"><span class="sans">arhasi</span> you should</span>
+        <span class="w"><span class="sans">aśeṣeṇa</span> without remainder</span>
+        <span class="w"><span class="sans">divyāḥ</span> divine</span>
+        <span class="w"><span class="sans">hi</span> indeed</span>
+        <span class="w"><span class="sans">ātma-vibhūtayaḥ</span> your own glories</span>
+        <span class="w"><span class="sans">yābhiḥ</span> by which</span>
+        <span class="w"><span class="sans">vibhūtibhiḥ</span> glories</span>
+        <span class="w"><span class="sans">lokān</span> worlds</span>
+        <span class="w"><span class="sans">imān</span> these</span>
+        <span class="w"><span class="sans">tvam</span> you</span>
+        <span class="w"><span class="sans">vyāpya</span> pervading</span>
+        <span class="w"><span class="sans">tiṣṭhasi</span> stand</span></p>
       <p>You should tell me, without reserve, of your own divine manifestations, by which you pervade these worlds and abide in them.</p>
     </details>
     <details class="gloss bhashya">
@@ -669,7 +904,22 @@
       <span class="sans">keṣu keṣu ca bhāveṣu cintyo'si bhagavan mayā</span><br>
       <span class="num sans">|| 17 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">katham</span> how</span>
+        <span class="w"><span class="sans">vidyām</span> shall know</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">yogin</span> O Yogin</span>
+        <span class="w"><span class="sans">tvām</span> you</span>
+        <span class="w"><span class="sans">sadā</span> ever</span>
+        <span class="w"><span class="sans">paricintayan</span> meditating</span>
+        <span class="w"><span class="sans">keṣu keṣu</span> in what various</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">bhāveṣu</span> states</span>
+        <span class="w"><span class="sans">cintyaḥ</span> to be contemplated</span>
+        <span class="w"><span class="sans">asi</span> are you</span>
+        <span class="w"><span class="sans">bhagavan</span> O Blessed One</span>
+        <span class="w"><span class="sans">mayā</span> by me</span></p>
       <p>How shall I know you, O yogin, meditating on you always? In what aspects of being are you to be contemplated by me, O Lord?</p>
     </details>
     <details class="gloss bhashya">
@@ -685,7 +935,23 @@
       <span class="sans">bhūyaḥ kathaya tṛptirhi śṛṇvato nāsti me'mṛtam</span><br>
       <span class="num sans">|| 18 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">vistareṇa</span> in detail</span>
+        <span class="w"><span class="sans">ātmanaḥ</span> your own</span>
+        <span class="w"><span class="sans">yogam</span> yoga</span>
+        <span class="w"><span class="sans">vibhūtim</span> glory</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">janārdana</span> O Janārdana</span>
+        <span class="w"><span class="sans">bhūyaḥ</span> again</span>
+        <span class="w"><span class="sans">kathaya</span> tell</span>
+        <span class="w"><span class="sans">tṛptiḥ</span> satiety</span>
+        <span class="w"><span class="sans">hi</span> for</span>
+        <span class="w"><span class="sans">śṛṇvataḥ</span> as I listen</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">asti</span> is</span>
+        <span class="w"><span class="sans">me</span> for me</span>
+        <span class="w"><span class="sans">amṛtam</span> to the nectar</span></p>
       <p>Tell me again in detail of your yoga and your manifestations, Janārdana; for I never tire of hearing this nectar.</p>
     </details>
   </div>
@@ -698,7 +964,21 @@
       <span class="sans">prādhānyataḥ kuruśreṣṭha nāstyanto vistarasya me</span><br>
       <span class="num sans">|| 19 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">hanta</span> well then</span>
+        <span class="w"><span class="sans">te</span> to you</span>
+        <span class="w"><span class="sans">kathayiṣyāmi</span> I will tell</span>
+        <span class="w"><span class="sans">divyāḥ</span> divine</span>
+        <span class="w"><span class="sans">hi</span> indeed</span>
+        <span class="w"><span class="sans">ātma-vibhūtayaḥ</span> my own glories</span>
+        <span class="w"><span class="sans">prādhānyataḥ</span> the chief ones</span>
+        <span class="w"><span class="sans">kuru-śreṣṭha</span> O best of the Kurus</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">asti</span> is</span>
+        <span class="w"><span class="sans">antaḥ</span> end</span>
+        <span class="w"><span class="sans">vistarasya</span> to the extent</span>
+        <span class="w"><span class="sans">me</span> of mine</span></p>
       <p>The Blessed Lord said: Very well, I will tell you of my divine manifestations — the foremost among them, O best of the Kurus, for there is no end to my extent.</p>
     </details>
     <details class="gloss bhashya">
@@ -716,7 +996,20 @@
       <span class="sans">ahamādiśca madhyaṃ ca bhūtānāmanta eva ca</span><br>
       <span class="num sans">|| 20 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">ātmā</span> the Self</span>
+        <span class="w"><span class="sans">guḍākeśa</span> O Guḍākeśa</span>
+        <span class="w"><span class="sans">sarva-bhūta-āśaya-sthitaḥ</span> seated in the heart of all beings</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">ādiḥ</span> the beginning</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">madhyam</span> the middle</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">bhūtānām</span> of beings</span>
+        <span class="w"><span class="sans">antaḥ</span> the end</span>
+        <span class="w"><span class="sans">eva ca</span> and also</span></p>
       <p>I am the Self, Guḍākeśa, abiding in the heart of all beings; I am the beginning, the middle and the end of beings.</p>
     </details>
     <details class="gloss bhashya">
@@ -734,7 +1027,20 @@
       <span class="sans">marīcirmarutāmasmi nakṣatrāṇāmahaṃ śaśī</span><br>
       <span class="num sans">|| 21 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">ādityānām</span> of the Ādityas</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">viṣṇuḥ</span> Viṣṇu</span>
+        <span class="w"><span class="sans">jyotiṣām</span> of lights</span>
+        <span class="w"><span class="sans">raviḥ</span> the sun</span>
+        <span class="w"><span class="sans">aṃśumān</span> radiant</span>
+        <span class="w"><span class="sans">marīciḥ</span> Marīci</span>
+        <span class="w"><span class="sans">marutām</span> of the Maruts</span>
+        <span class="w"><span class="sans">asmi</span> I am</span>
+        <span class="w"><span class="sans">nakṣatrāṇām</span> among the stars</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">śaśī</span> the moon</span></p>
       <p>Of the Ādityas I am Viṣṇu; of lights, the radiant sun; of the Maruts I am Marīci; among the stars, I am the moon.</p>
     </details>
     <details class="gloss bhashya">
@@ -752,7 +1058,21 @@
       <span class="sans">indriyāṇāṃ manaścāsmi bhūtānāmasmi cetanā</span><br>
       <span class="num sans">|| 22 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">vedānām</span> of the Vedas</span>
+        <span class="w"><span class="sans">sāma-vedaḥ</span> the Sāmaveda</span>
+        <span class="w"><span class="sans">asmi</span> I am</span>
+        <span class="w"><span class="sans">devānām</span> of the gods</span>
+        <span class="w"><span class="sans">asmi</span> I am</span>
+        <span class="w"><span class="sans">vāsavaḥ</span> Indra</span>
+        <span class="w"><span class="sans">indriyāṇām</span> of the senses</span>
+        <span class="w"><span class="sans">manaḥ</span> the mind</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">asmi</span> I am</span>
+        <span class="w"><span class="sans">bhūtānām</span> in beings</span>
+        <span class="w"><span class="sans">asmi</span> I am</span>
+        <span class="w"><span class="sans">cetanā</span> consciousness</span></p>
       <p>Of the Vedas I am the Sāmaveda; of the gods I am Vāsava; of the senses I am the mind; in beings I am consciousness.</p>
     </details>
     <details class="gloss bhashya">
@@ -768,7 +1088,21 @@
       <span class="sans">vasūnāṃ pāvakaścāsmi meruḥ śikhariṇāmaham</span><br>
       <span class="num sans">|| 23 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">rudrāṇām</span> of the Rudras</span>
+        <span class="w"><span class="sans">śaṅkaraḥ</span> Śaṅkara</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">asmi</span> I am</span>
+        <span class="w"><span class="sans">vitta-īśaḥ</span> the lord of wealth</span>
+        <span class="w"><span class="sans">yakṣa-rakṣasām</span> of yakṣas and rākṣasas</span>
+        <span class="w"><span class="sans">vasūnām</span> of the Vasus</span>
+        <span class="w"><span class="sans">pāvakaḥ</span> fire</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">asmi</span> I am</span>
+        <span class="w"><span class="sans">meruḥ</span> Meru</span>
+        <span class="w"><span class="sans">śikhariṇām</span> of peaked mountains</span>
+        <span class="w"><span class="sans">aham</span> I</span></p>
       <p>Of the Rudras I am Śaṅkara; of yakṣas and rākṣasas, the lord of wealth; of the Vasus I am fire; of mountains, I am Meru.</p>
     </details>
     <details class="gloss bhashya">
@@ -784,7 +1118,21 @@
       <span class="sans">senānīnāmahaṃ skandaḥ sarasāmasmi sāgaraḥ</span><br>
       <span class="num sans">|| 24 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">purodhasām</span> of priests</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">mukhyam</span> the chief</span>
+        <span class="w"><span class="sans">mām</span> me</span>
+        <span class="w"><span class="sans">viddhi</span> know</span>
+        <span class="w"><span class="sans">pārtha</span> O Pārtha</span>
+        <span class="w"><span class="sans">bṛhaspatim</span> Bṛhaspati</span>
+        <span class="w"><span class="sans">senānīnām</span> of generals</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">skandaḥ</span> Skanda</span>
+        <span class="w"><span class="sans">sarasām</span> of waters</span>
+        <span class="w"><span class="sans">asmi</span> I am</span>
+        <span class="w"><span class="sans">sāgaraḥ</span> the ocean</span></p>
       <p>Know me, Pārtha, as the chief of household priests, Bṛhaspati; of generals I am Skanda; of bodies of water I am the ocean.</p>
     </details>
     <details class="gloss bhashya">
@@ -800,7 +1148,20 @@
       <span class="sans">yajñānāṃ japayajño'smi sthāvarāṇāṃ himālayaḥ</span><br>
       <span class="num sans">|| 25 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">mahā-ṛṣīṇām</span> of the great sages</span>
+        <span class="w"><span class="sans">bhṛguḥ</span> Bhṛgu</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">girām</span> of utterances</span>
+        <span class="w"><span class="sans">asmi</span> I am</span>
+        <span class="w"><span class="sans">ekam</span> the single</span>
+        <span class="w"><span class="sans">akṣaram</span> syllable</span>
+        <span class="w"><span class="sans">yajñānām</span> of sacrifices</span>
+        <span class="w"><span class="sans">japa-yajñaḥ</span> the sacrifice of silent repetition</span>
+        <span class="w"><span class="sans">asmi</span> I am</span>
+        <span class="w"><span class="sans">sthāvarāṇām</span> of immovable things</span>
+        <span class="w"><span class="sans">himālayaḥ</span> the Himālaya</span></p>
       <p>Of the great seers I am Bhṛgu; of utterances I am the single syllable; of sacrifices I am the sacrifice of silent repetition; of immovable things, the Himālaya.</p>
     </details>
     <details class="gloss bhashya">
@@ -816,7 +1177,18 @@
       <span class="sans">gandharvāṇāṃ citrarathaḥ siddhānāṃ kapilo muniḥ</span><br>
       <span class="num sans">|| 26 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">aśvatthaḥ</span> the aśvattha</span>
+        <span class="w"><span class="sans">sarva-vṛkṣāṇām</span> of all trees</span>
+        <span class="w"><span class="sans">deva-ṛṣīṇām</span> of divine sages</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">nāradaḥ</span> Nārada</span>
+        <span class="w"><span class="sans">gandharvāṇām</span> of gandharvas</span>
+        <span class="w"><span class="sans">citrarathaḥ</span> Citraratha</span>
+        <span class="w"><span class="sans">siddhānām</span> of the perfected</span>
+        <span class="w"><span class="sans">kapilaḥ</span> Kapila</span>
+        <span class="w"><span class="sans">muniḥ</span> the sage</span></p>
       <p>Of all trees I am the aśvattha; of divine seers, Nārada; of the gandharvas, Citraratha; of the perfected, the sage Kapila.</p>
     </details>
     <details class="gloss bhashya">
@@ -832,7 +1204,18 @@
       <span class="sans">airāvataṃ gajendrāṇāṃ narāṇāṃ ca narādhipam</span><br>
       <span class="num sans">|| 27 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">uccaiḥśravasam</span> Uccaiḥśravas</span>
+        <span class="w"><span class="sans">aśvānām</span> among horses</span>
+        <span class="w"><span class="sans">viddhi</span> know</span>
+        <span class="w"><span class="sans">mām</span> me</span>
+        <span class="w"><span class="sans">amṛta-udbhavam</span> born of the nectar</span>
+        <span class="w"><span class="sans">airāvatam</span> Airāvata</span>
+        <span class="w"><span class="sans">gaja-indrāṇām</span> among lordly elephants</span>
+        <span class="w"><span class="sans">narāṇām</span> among men</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">nara-adhipam</span> the king</span></p>
       <p>Among horses know me as Uccaiḥśravas, born of the nectar; among lordly elephants, Airāvata; and among men, the king.</p>
     </details>
     <details class="gloss bhashya">
@@ -848,7 +1231,21 @@
       <span class="sans">prajanaścāsmi kandarpaḥ sarpāṇāmasmi vāsukiḥ</span><br>
       <span class="num sans">|| 28 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">āyudhānām</span> of weapons</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">vajram</span> the thunderbolt</span>
+        <span class="w"><span class="sans">dhenūnām</span> of cows</span>
+        <span class="w"><span class="sans">asmi</span> I am</span>
+        <span class="w"><span class="sans">kāma-dhuk</span> the wish-fulfilling cow</span>
+        <span class="w"><span class="sans">prajanaḥ</span> the begetter</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">asmi</span> I am</span>
+        <span class="w"><span class="sans">kandarpaḥ</span> Kandarpa</span>
+        <span class="w"><span class="sans">sarpāṇām</span> of serpents</span>
+        <span class="w"><span class="sans">asmi</span> I am</span>
+        <span class="w"><span class="sans">vāsukiḥ</span> Vāsuki</span></p>
       <p>Of weapons I am the thunderbolt; of cows, Kāmadhenu; I am Kandarpa, the begetter; of serpents I am Vāsuki.</p>
     </details>
     <details class="gloss bhashya">
@@ -864,7 +1261,22 @@
       <span class="sans">pitṝṇāmaryamā cāsmi yamaḥ saṃyamatāmaham</span><br>
       <span class="num sans">|| 29 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">anantaḥ</span> Ananta</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">asmi</span> I am</span>
+        <span class="w"><span class="sans">nāgānām</span> of the nāgas</span>
+        <span class="w"><span class="sans">varuṇaḥ</span> Varuṇa</span>
+        <span class="w"><span class="sans">yādasām</span> of water-creatures</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">pitṝṇām</span> of the ancestors</span>
+        <span class="w"><span class="sans">aryamā</span> Aryaman</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">asmi</span> I am</span>
+        <span class="w"><span class="sans">yamaḥ</span> Yama</span>
+        <span class="w"><span class="sans">saṃyamatām</span> of those who restrain</span>
+        <span class="w"><span class="sans">aham</span> I</span></p>
       <p>Of nāgas I am Ananta; of water-beings, Varuṇa; of the ancestors I am Aryaman; of those who restrain, I am Yama.</p>
     </details>
     <details class="gloss bhashya">
@@ -880,7 +1292,22 @@
       <span class="sans">mṛgāṇāṃ ca mṛgendro'haṃ vainateyaśca pakṣiṇām</span><br>
       <span class="num sans">|| 30 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">prahlādaḥ</span> Prahlāda</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">asmi</span> I am</span>
+        <span class="w"><span class="sans">daityānām</span> of the daityas</span>
+        <span class="w"><span class="sans">kālaḥ</span> time</span>
+        <span class="w"><span class="sans">kalayatām</span> of reckoners</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">mṛgāṇām</span> of beasts</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">mṛga-indraḥ</span> the lord of beasts</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">vainateyaḥ</span> Garuḍa, son of Vinatā</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">pakṣiṇām</span> of birds</span></p>
       <p>Of the daityas I am Prahlāda; of reckoners, time; of beasts I am the lion; and of birds, the son of Vinatā.</p>
     </details>
     <details class="gloss bhashya">
@@ -896,7 +1323,21 @@
       <span class="sans">jhaṣāṇāṃ makaraścāsmi srotasāmasmi jāhnavī</span><br>
       <span class="num sans">|| 31 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">pavanaḥ</span> the wind</span>
+        <span class="w"><span class="sans">pavatām</span> of purifiers</span>
+        <span class="w"><span class="sans">asmi</span> I am</span>
+        <span class="w"><span class="sans">rāmaḥ</span> Rāma</span>
+        <span class="w"><span class="sans">śastra-bhṛtām</span> of wielders of weapons</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">jhaṣāṇām</span> of fishes</span>
+        <span class="w"><span class="sans">makaraḥ</span> the makara</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">asmi</span> I am</span>
+        <span class="w"><span class="sans">srotasām</span> of rivers</span>
+        <span class="w"><span class="sans">asmi</span> I am</span>
+        <span class="w"><span class="sans">jāhnavī</span> the Gaṅgā</span></p>
       <p>Of purifiers I am the wind; of wielders of weapons, Rāma; of fishes I am the makara; of rivers, the Gaṅgā.</p>
     </details>
     <details class="gloss bhashya">
@@ -912,7 +1353,22 @@
       <span class="sans">adhyātmavidyā vidyānāṃ vādaḥ pravadatāmaham</span><br>
       <span class="num sans">|| 32 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">sargāṇām</span> of creations</span>
+        <span class="w"><span class="sans">ādiḥ</span> the beginning</span>
+        <span class="w"><span class="sans">antaḥ</span> the end</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">madhyam</span> the middle</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">eva</span> too</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">arjuna</span> O Arjuna</span>
+        <span class="w"><span class="sans">adhyātma-vidyā</span> the knowledge of the Self</span>
+        <span class="w"><span class="sans">vidyānām</span> of knowledges</span>
+        <span class="w"><span class="sans">vādaḥ</span> debate</span>
+        <span class="w"><span class="sans">pravadatām</span> of those who dispute</span>
+        <span class="w"><span class="sans">aham</span> I</span></p>
       <p>Of creations I am the beginning, the end and the middle, Arjuna; of knowledge, the knowledge of the Self; of those who debate, I am the reasoning.</p>
     </details>
     <details class="gloss bhashya">
@@ -928,7 +1384,21 @@
       <span class="sans">ahamevākṣayaḥ kālo dhātā'haṃ viśvatomukhaḥ</span><br>
       <span class="num sans">|| 33 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">akṣarāṇām</span> of letters</span>
+        <span class="w"><span class="sans">a-kāraḥ</span> the letter a</span>
+        <span class="w"><span class="sans">asmi</span> I am</span>
+        <span class="w"><span class="sans">dvandvaḥ</span> the dvandva</span>
+        <span class="w"><span class="sans">sāmāsikasya</span> of compounds</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">eva</span> alone</span>
+        <span class="w"><span class="sans">akṣayaḥ</span> imperishable</span>
+        <span class="w"><span class="sans">kālaḥ</span> time</span>
+        <span class="w"><span class="sans">dhātā</span> the ordainer</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">viśvataḥ-mukhaḥ</span> facing everywhere</span></p>
       <p>Of letters I am the letter a; of compounds, the dvandva; I am imperishable time itself; I am the ordainer whose face is everywhere.</p>
     </details>
     <details class="gloss bhashya">
@@ -944,7 +1414,24 @@
       <span class="sans">kīrtiḥ śrīrvākca nārīṇāṃ smṛtirmedhā dhṛtiḥ kṣamā</span><br>
       <span class="num sans">|| 34 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">mṛtyuḥ</span> death</span>
+        <span class="w"><span class="sans">sarva-haraḥ</span> all-seizing</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">udbhavaḥ</span> the rise</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">bhaviṣyatām</span> of what is to be</span>
+        <span class="w"><span class="sans">kīrtiḥ</span> fame</span>
+        <span class="w"><span class="sans">śrīḥ</span> fortune</span>
+        <span class="w"><span class="sans">vāk</span> speech</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">nārīṇām</span> of feminine things</span>
+        <span class="w"><span class="sans">smṛtiḥ</span> memory</span>
+        <span class="w"><span class="sans">medhā</span> intelligence</span>
+        <span class="w"><span class="sans">dhṛtiḥ</span> steadfastness</span>
+        <span class="w"><span class="sans">kṣamā</span> patience</span></p>
       <p>I am all-seizing death and the origin of what is to be; among feminine powers I am fame, fortune, speech, memory, intelligence, steadfastness and patience.</p>
     </details>
     <details class="gloss bhashya">
@@ -960,7 +1447,19 @@
       <span class="sans">māsānāṃ mārgaśīrṣo'hamṛtūnāṃ kusumākaraḥ</span><br>
       <span class="num sans">|| 35 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">bṛhat-sāma</span> the Bṛhat Sāman</span>
+        <span class="w"><span class="sans">tathā</span> likewise</span>
+        <span class="w"><span class="sans">sāmnām</span> of Sāman chants</span>
+        <span class="w"><span class="sans">gāyatrī</span> the Gāyatrī</span>
+        <span class="w"><span class="sans">chandasām</span> of metres</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">māsānām</span> of months</span>
+        <span class="w"><span class="sans">mārgaśīrṣaḥ</span> Mārgaśīrṣa</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">ṛtūnām</span> of seasons</span>
+        <span class="w"><span class="sans">kusuma-ākaraḥ</span> the flowering spring</span></p>
       <p>Of sāmans I am the Bṛhatsāman; of metres, the Gāyatrī; of months I am Mārgaśīrṣa; of seasons, the season of flowers.</p>
     </details>
     <details class="gloss bhashya">
@@ -976,7 +1475,21 @@
       <span class="sans">jayo'smi vyavasāyo'smi sattvaṃ sattvavatāmaham</span><br>
       <span class="num sans">|| 36 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">dyūtam</span> gambling</span>
+        <span class="w"><span class="sans">chalayatām</span> of cheats</span>
+        <span class="w"><span class="sans">asmi</span> I am</span>
+        <span class="w"><span class="sans">tejaḥ</span> the splendour</span>
+        <span class="w"><span class="sans">tejasvinām</span> of the splendid</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">jayaḥ</span> victory</span>
+        <span class="w"><span class="sans">asmi</span> I am</span>
+        <span class="w"><span class="sans">vyavasāyaḥ</span> resolve</span>
+        <span class="w"><span class="sans">asmi</span> I am</span>
+        <span class="w"><span class="sans">sattvam</span> the goodness</span>
+        <span class="w"><span class="sans">sattvavatām</span> of the good</span>
+        <span class="w"><span class="sans">aham</span> I</span></p>
       <p>I am the gambling of the deceitful, the splendour of the splendid; I am victory, I am resolve, I am the goodness of the good.</p>
     </details>
     <details class="gloss bhashya">
@@ -992,7 +1505,20 @@
       <span class="sans">munīnāmapyahaṃ vyāsaḥ kavīnāmuśanā kaviḥ</span><br>
       <span class="num sans">|| 37 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">vṛṣṇīnām</span> of the Vṛṣṇis</span>
+        <span class="w"><span class="sans">vāsudevaḥ</span> Vāsudeva</span>
+        <span class="w"><span class="sans">asmi</span> I am</span>
+        <span class="w"><span class="sans">pāṇḍavānām</span> of the Pāṇḍavas</span>
+        <span class="w"><span class="sans">dhanañjayaḥ</span> Dhanañjaya</span>
+        <span class="w"><span class="sans">munīnām</span> of sages</span>
+        <span class="w"><span class="sans">api</span> also</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">vyāsaḥ</span> Vyāsa</span>
+        <span class="w"><span class="sans">kavīnām</span> of seers</span>
+        <span class="w"><span class="sans">uśanā</span> Uśanas</span>
+        <span class="w"><span class="sans">kaviḥ</span> the seer</span></p>
       <p>Of the Vṛṣṇis I am Vāsudeva; of the Pāṇḍavas, Dhanañjaya; of sages I am Vyāsa; of poets, the poet Uśanas.</p>
     </details>
     <details class="gloss bhashya">
@@ -1008,7 +1534,22 @@
       <span class="sans">maunaṃ caivāsmi guhyānāṃ jñānaṃ jñānavatāmaham</span><br>
       <span class="num sans">|| 38 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">daṇḍaḥ</span> the rod</span>
+        <span class="w"><span class="sans">damayatām</span> of those who tame</span>
+        <span class="w"><span class="sans">asmi</span> I am</span>
+        <span class="w"><span class="sans">nītiḥ</span> statecraft</span>
+        <span class="w"><span class="sans">asmi</span> I am</span>
+        <span class="w"><span class="sans">jigīṣatām</span> of those who seek victory</span>
+        <span class="w"><span class="sans">maunam</span> silence</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">eva</span> also</span>
+        <span class="w"><span class="sans">asmi</span> I am</span>
+        <span class="w"><span class="sans">guhyānām</span> of secrets</span>
+        <span class="w"><span class="sans">jñānam</span> the knowledge</span>
+        <span class="w"><span class="sans">jñānavatām</span> of the knowing</span>
+        <span class="w"><span class="sans">aham</span> I</span></p>
       <p>Of those who punish I am the rod; of those who seek victory, statecraft; of secrets I am silence; and the knowledge of the knowers am I.</p>
     </details>
     <details class="gloss bhashya">
@@ -1024,7 +1565,25 @@
       <span class="sans">na tadasti vinā yatsyānmayā bhūtaṃ carācaram</span><br>
       <span class="num sans">|| 39 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yat</span> what</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">api</span> also</span>
+        <span class="w"><span class="sans">sarva-bhūtānām</span> of all beings</span>
+        <span class="w"><span class="sans">bījam</span> the seed</span>
+        <span class="w"><span class="sans">tat</span> that</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">arjuna</span> O Arjuna</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">tat</span> that</span>
+        <span class="w"><span class="sans">asti</span> is</span>
+        <span class="w"><span class="sans">vinā</span> without</span>
+        <span class="w"><span class="sans">yat</span> which</span>
+        <span class="w"><span class="sans">syāt</span> could exist</span>
+        <span class="w"><span class="sans">mayā</span> me</span>
+        <span class="w"><span class="sans">bhūtam</span> being</span>
+        <span class="w"><span class="sans">cara-acaram</span> moving or unmoving</span></p>
       <p>Whatever is the seed of all beings, that am I, Arjuna. There is no being, moving or unmoving, that could exist without me.</p>
     </details>
     <details class="gloss bhashya">
@@ -1040,7 +1599,22 @@
       <span class="sans">eṣa tūddeśataḥ prokto vibhūtervistaro mayā</span><br>
       <span class="num sans">|| 40 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">antaḥ</span> end</span>
+        <span class="w"><span class="sans">asti</span> is</span>
+        <span class="w"><span class="sans">mama</span> of my</span>
+        <span class="w"><span class="sans">divyānām</span> divine</span>
+        <span class="w"><span class="sans">vibhūtīnām</span> glories</span>
+        <span class="w"><span class="sans">parantapa</span> O scorcher of foes</span>
+        <span class="w"><span class="sans">eṣaḥ</span> this</span>
+        <span class="w"><span class="sans">tu</span> but</span>
+        <span class="w"><span class="sans">uddeśataḥ</span> by way of example</span>
+        <span class="w"><span class="sans">proktaḥ</span> has been told</span>
+        <span class="w"><span class="sans">vibhūteḥ</span> of glory</span>
+        <span class="w"><span class="sans">vistaraḥ</span> the extent</span>
+        <span class="w"><span class="sans">mayā</span> by me</span></p>
       <p>There is no end to my divine manifestations, O scorcher of foes; what I have told is only an illustration of the extent of my glory.</p>
     </details>
     <details class="gloss bhashya">
@@ -1056,7 +1630,20 @@
       <span class="sans">tattadevāvagaccha tvaṃ mama tejo'ṃśasambhavam</span><br>
       <span class="num sans">|| 41 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yat yat</span> whatever</span>
+        <span class="w"><span class="sans">vibhūti-mat</span> glorious</span>
+        <span class="w"><span class="sans">sattvam</span> being</span>
+        <span class="w"><span class="sans">śrī-mat</span> prosperous</span>
+        <span class="w"><span class="sans">ūrjitam</span> mighty</span>
+        <span class="w"><span class="sans">eva vā</span> or indeed</span>
+        <span class="w"><span class="sans">tat tat</span> that</span>
+        <span class="w"><span class="sans">eva</span> very one</span>
+        <span class="w"><span class="sans">avagaccha</span> know</span>
+        <span class="w"><span class="sans">tvam</span> you</span>
+        <span class="w"><span class="sans">mama</span> my</span>
+        <span class="w"><span class="sans">tejaḥ-aṃśa-sambhavam</span> sprung from a portion of splendour</span></p>
       <p>Whatever being has glory, splendour or might, know that it springs from a fragment of my radiance.</p>
     </details>
     <details class="gloss bhashya">
@@ -1072,7 +1659,22 @@
       <span class="sans">viṣṭabhyāhamidaṃ kṛtsnamekāṃśena sthito jagat</span><br>
       <span class="num sans">|| 42 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">athavā</span> or else</span>
+        <span class="w"><span class="sans">bahunā</span> much</span>
+        <span class="w"><span class="sans">etena</span> with this</span>
+        <span class="w"><span class="sans">kim</span> what use</span>
+        <span class="w"><span class="sans">jñātena</span> knowledge</span>
+        <span class="w"><span class="sans">tava</span> to you</span>
+        <span class="w"><span class="sans">arjuna</span> O Arjuna</span>
+        <span class="w"><span class="sans">viṣṭabhya</span> supporting</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">idam</span> this</span>
+        <span class="w"><span class="sans">kṛtsnam</span> whole</span>
+        <span class="w"><span class="sans">eka-aṃśena</span> with a single portion</span>
+        <span class="w"><span class="sans">sthitaḥ</span> stand</span>
+        <span class="w"><span class="sans">jagat</span> world</span></p>
       <p>But what need have you, Arjuna, of this detailed knowledge? I stand supporting this whole universe with a single fragment of myself.</p>
     </details>
     <details class="gloss bhashya">
@@ -1522,7 +2124,7 @@
     // still has it, so a stale suggestion never lands on the wrong text.
     var texts = [];
     document.querySelectorAll('header h1, header .subtitle, p.speaker, ' +
-        'details.gloss:not(#contents):not(.bhashya) > p, details.bhashya > p.bh-tr, .colophon-gloss').forEach(function (el){
+        'details.gloss:not(#contents):not(.bhashya) > p:not(.wbw), p.wbw > .w, details.bhashya > p.bh-tr, .colophon-gloss').forEach(function (el){
       if (!el.children.length){ el.classList.add("ed"); texts.push(el); return; }
       [].slice.call(el.childNodes).forEach(function (c){
         if (c.nodeType !== 3 || !c.nodeValue.trim()) return;

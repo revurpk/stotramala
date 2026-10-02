@@ -34,6 +34,8 @@ types; these are Sanskrit and inside `.sans`, so they render in every script:
 | Item | Renders as | Use |
 |---|---|---|
 | `_v(…, bhashya=[…])` | a `bhāṣya` fold under the verse's translation | the commentary on that verse, one string per paragraph; a paragraph given as `{"text": …, "intro": True}` is the commentator's lead-in before the verse, set a shade lighter |
+| `_v(…, words=[[w, m], …])` | a word-by-word list at the top of the verse's translation fold (the fold is then labelled "word by word · translation") | each pair is a Sanskrit word in IAST — unsandhied, in its pausal form, compound members hyphenated (`dharma-kṣetre`) — and its English; the word follows the script switch, the meaning is editable through *Suggest a correction* |
+| a paragraph `{"text": …, "tr": "…"}` in a `bhashya` list | the English of that paragraph, set under it | a translated commentary |
 | `{"bhashya": […], "summary": "…"}` | a standalone fold | a preface not tied to one verse (a chapter's opening, the upodghāta) |
 | `{"speaker": "arjuna uvāca"}` | `.speaker` with a `.sans` line | who speaks the verses that follow |
 | `{"colophon": "iti …", "gloss": "Thus ends …"}` | `.colophon` + `.colophon-gloss` | closing colophons, with an English gloss |

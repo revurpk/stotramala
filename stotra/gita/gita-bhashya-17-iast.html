@@ -253,6 +253,16 @@
     text-align:left;
     margin:0;
   }
+  /* word-by-word list above a translation: Sanskrit upright, meaning italic,
+     a middle dot between pairs */
+  .gloss p.wbw{
+    font-size:.96rem;line-height:1.75;margin:0 0 .75rem;
+    padding-bottom:.6rem;border-bottom:1px solid var(--rule);
+  }
+  .gloss p.wbw .sans{font-style:normal;color:var(--ink);}
+  .gloss p.wbw .w:not(:last-child)::after{
+    content:"\00a0·";color:var(--accent);opacity:.6;margin-right:.4em;
+  }
   .viniyoga .lines{
     font-size:1.1rem;
     line-height:1.7;
@@ -403,7 +413,23 @@
       <span class="sans">teṣāṃ niṣṭhā tu kā kṛṣṇa sattvamāhorajastamaḥ</span><br>
       <span class="num sans">|| 1 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">ye</span> who</span>
+        <span class="w"><span class="sans">śāstra-vidhim</span> the rule of scripture</span>
+        <span class="w"><span class="sans">utsṛjya</span> setting aside</span>
+        <span class="w"><span class="sans">yajante</span> sacrifice</span>
+        <span class="w"><span class="sans">śraddhayā</span> with faith</span>
+        <span class="w"><span class="sans">anvitāḥ</span> endowed</span>
+        <span class="w"><span class="sans">teṣām</span> their</span>
+        <span class="w"><span class="sans">niṣṭhā</span> standing</span>
+        <span class="w"><span class="sans">tu</span> now</span>
+        <span class="w"><span class="sans">kā</span> what</span>
+        <span class="w"><span class="sans">kṛṣṇa</span> O Kṛṣṇa</span>
+        <span class="w"><span class="sans">sattvam</span> sattva</span>
+        <span class="w"><span class="sans">āho</span> or</span>
+        <span class="w"><span class="sans">rajaḥ</span> rajas</span>
+        <span class="w"><span class="sans">tamaḥ</span> tamas</span></p>
       <p>Arjuna said: Those who set aside the injunctions of scripture yet sacrifice with faith — what is their standing, Kṛṣṇa? Is it sattva, rajas or tamas?</p>
     </details>
     <details class="gloss bhashya">
@@ -421,7 +447,23 @@
       <span class="sans">sāttvikī rājasī caiva tāmasī ceti tāṃ śṛṇu</span><br>
       <span class="num sans">|| 2 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">tri-vidhā</span> threefold</span>
+        <span class="w"><span class="sans">bhavati</span> is</span>
+        <span class="w"><span class="sans">śraddhā</span> the faith</span>
+        <span class="w"><span class="sans">dehinām</span> of embodied beings</span>
+        <span class="w"><span class="sans">sā</span> it</span>
+        <span class="w"><span class="sans">svabhāva-jā</span> born of their nature</span>
+        <span class="w"><span class="sans">sāttvikī</span> sāttvika</span>
+        <span class="w"><span class="sans">rājasī</span> rājasa</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">eva</span> too</span>
+        <span class="w"><span class="sans">tāmasī</span> tāmasa</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">iti</span> thus</span>
+        <span class="w"><span class="sans">tām</span> it</span>
+        <span class="w"><span class="sans">śṛṇu</span> hear</span></p>
       <p>The Blessed Lord said: The faith of embodied beings, born of their own nature, is threefold — sāttvika, rājasa and tāmasa. Hear of it.</p>
     </details>
     <details class="gloss bhashya">
@@ -439,7 +481,21 @@
       <span class="sans">śraddhāmayo'yaṃ puruṣaḥ yo yacchraddhassa eva saḥ</span><br>
       <span class="num sans">|| 3 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">sattva-anurūpā</span> in accordance with his mind</span>
+        <span class="w"><span class="sans">sarvasya</span> of everyone</span>
+        <span class="w"><span class="sans">śraddhā</span> the faith</span>
+        <span class="w"><span class="sans">bhavati</span> is</span>
+        <span class="w"><span class="sans">bhārata</span> O Bhārata</span>
+        <span class="w"><span class="sans">śraddhā-mayaḥ</span> made of faith</span>
+        <span class="w"><span class="sans">ayam</span> this</span>
+        <span class="w"><span class="sans">puruṣaḥ</span> person</span>
+        <span class="w"><span class="sans">yaḥ</span> who</span>
+        <span class="w"><span class="sans">yat-śraddhaḥ</span> has whatever faith</span>
+        <span class="w"><span class="sans">saḥ</span> that</span>
+        <span class="w"><span class="sans">eva</span> very</span>
+        <span class="w"><span class="sans">saḥ</span> he is</span></p>
       <p>The faith of each is in keeping with his inner being, O Bhārata. A person is made of faith; as his faith is, so is he.</p>
     </details>
     <details class="gloss bhashya">
@@ -457,7 +513,20 @@
       <span class="sans">pretān bhūtagaṇāṃścānye yajante tāmasā janāḥ</span><br>
       <span class="num sans">|| 4 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yajante</span> sacrifice</span>
+        <span class="w"><span class="sans">sāttvikāḥ</span> the sāttvika</span>
+        <span class="w"><span class="sans">devān</span> to the gods</span>
+        <span class="w"><span class="sans">yakṣa-rakṣāṃsi</span> to yakṣas and rākṣasas</span>
+        <span class="w"><span class="sans">rājasāḥ</span> the rājasa</span>
+        <span class="w"><span class="sans">pretān</span> to ghosts</span>
+        <span class="w"><span class="sans">bhūta-gaṇān</span> the hosts of spirits</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">anye</span> the others</span>
+        <span class="w"><span class="sans">yajante</span> sacrifice</span>
+        <span class="w"><span class="sans">tāmasāḥ</span> tāmasa</span>
+        <span class="w"><span class="sans">janāḥ</span> people</span></p>
       <p>The sāttvika worship the gods; the rājasa worship yakṣas and rākṣasas; and the others, tāmasa people, worship ghosts and hosts of spirits.</p>
     </details>
     <details class="gloss bhashya">
@@ -475,7 +544,16 @@
       <span class="sans">dambhāhaṅkārasaṃyuktāḥ kāmarāgabalānvitāḥ</span><br>
       <span class="num sans">|| 5 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">aśāstra-vihitam</span> not enjoined by scripture</span>
+        <span class="w"><span class="sans">ghoram</span> terrible</span>
+        <span class="w"><span class="sans">tapyante</span> practise</span>
+        <span class="w"><span class="sans">ye</span> who</span>
+        <span class="w"><span class="sans">tapaḥ</span> austerity</span>
+        <span class="w"><span class="sans">janāḥ</span> people</span>
+        <span class="w"><span class="sans">dambha-ahaṅkāra-saṃyuktāḥ</span> joined with ostentation and egoism</span>
+        <span class="w"><span class="sans">kāma-rāga-bala-anvitāḥ</span> possessed of the force of desire and passion</span></p>
       <p>Those people who practise terrible austerities not enjoined by scripture, given to hypocrisy and egoism, driven by the force of desire and passion,</p>
     </details>
     <details class="gloss bhashya">
@@ -493,7 +571,20 @@
       <span class="sans">māṃ caivāntaḥ śarīrasthaṃ tān viddhyāsuraniścayān</span><br>
       <span class="num sans">|| 6 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">karśayantaḥ</span> torturing</span>
+        <span class="w"><span class="sans">śarīra-stham</span> in the body</span>
+        <span class="w"><span class="sans">bhūta-grāmam</span> the aggregate of elements</span>
+        <span class="w"><span class="sans">acetasaḥ</span> senseless</span>
+        <span class="w"><span class="sans">mām</span> me</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">eva</span> too</span>
+        <span class="w"><span class="sans">antaḥ</span> within</span>
+        <span class="w"><span class="sans">śarīra-stham</span> dwelling in the body</span>
+        <span class="w"><span class="sans">tān</span> them</span>
+        <span class="w"><span class="sans">viddhi</span> know</span>
+        <span class="w"><span class="sans">āsura-niścayān</span> of demonic resolve</span></p>
       <p>senseless, tormenting the aggregate of elements in the body, and me too who dwell within the body — know them to be of demonic resolve.</p>
     </details>
     <details class="gloss bhashya">
@@ -509,7 +600,23 @@
       <span class="sans">yajñastapastathā dānaṃ teṣāṃ bhedamimaṃ śṛṇu</span><br>
       <span class="num sans">|| 7 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">āhāraḥ</span> food</span>
+        <span class="w"><span class="sans">tu</span> but</span>
+        <span class="w"><span class="sans">api</span> also</span>
+        <span class="w"><span class="sans">sarvasya</span> to each</span>
+        <span class="w"><span class="sans">tri-vidhaḥ</span> of three kinds</span>
+        <span class="w"><span class="sans">bhavati</span> is</span>
+        <span class="w"><span class="sans">priyaḥ</span> dear</span>
+        <span class="w"><span class="sans">yajñaḥ</span> sacrifice</span>
+        <span class="w"><span class="sans">tapaḥ</span> austerity</span>
+        <span class="w"><span class="sans">tathā</span> likewise</span>
+        <span class="w"><span class="sans">dānam</span> charity</span>
+        <span class="w"><span class="sans">teṣām</span> of them</span>
+        <span class="w"><span class="sans">bhedam</span> distinction</span>
+        <span class="w"><span class="sans">imam</span> this</span>
+        <span class="w"><span class="sans">śṛṇu</span> hear</span></p>
       <p>Even the food that is dear to each is of three kinds, and so are sacrifice, austerity and giving. Hear the distinction between them.</p>
     </details>
     <details class="gloss bhashya">
@@ -527,7 +634,15 @@
       <span class="sans">rasyāḥ snigdhāḥ sthirā hṛdyā āhārāssāttvikapriyāḥ</span><br>
       <span class="num sans">|| 8 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">āyuḥ-sattva-bala-ārogya-sukha-prīti-vivardhanāḥ</span> increasing life, sattva, strength, health, happiness and cheerfulness</span>
+        <span class="w"><span class="sans">rasyāḥ</span> savoury</span>
+        <span class="w"><span class="sans">snigdhāḥ</span> oily</span>
+        <span class="w"><span class="sans">sthirāḥ</span> substantial</span>
+        <span class="w"><span class="sans">hṛdyāḥ</span> pleasing to the heart</span>
+        <span class="w"><span class="sans">āhārāḥ</span> foods</span>
+        <span class="w"><span class="sans">sāttvika-priyāḥ</span> dear to the sāttvika</span></p>
       <p>Foods that increase life, vigour, strength, health, happiness and cheerfulness, that are savoury, rich, nourishing and agreeable, are dear to the sāttvika.</p>
     </details>
     <details class="gloss bhashya">
@@ -543,7 +658,13 @@
       <span class="sans">āhārā rājasasyeṣṭā duḥkhaśokāmayapradāḥ</span><br>
       <span class="num sans">|| 9 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">kaṭu-amla-lavaṇa-ati-uṣṇa-tīkṣṇa-rūkṣa-vidāhinaḥ</span> bitter, sour, salty, very hot, pungent, dry and burning</span>
+        <span class="w"><span class="sans">āhārāḥ</span> foods</span>
+        <span class="w"><span class="sans">rājasasya</span> by the rājasa</span>
+        <span class="w"><span class="sans">iṣṭāḥ</span> liked</span>
+        <span class="w"><span class="sans">duḥkha-śoka-āmaya-pradāḥ</span> giving pain, grief and disease</span></p>
       <p>Foods that are bitter, sour, salty, very hot, pungent, dry and burning, which cause pain, grief and sickness, are dear to the rājasa.</p>
     </details>
     <details class="gloss bhashya">
@@ -559,7 +680,20 @@
       <span class="sans">ucchiṣṭamapi cāmedhyaṃ bhojanaṃ tāmasapriyam</span><br>
       <span class="num sans">|| 10 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yāta-yāmam</span> stale</span>
+        <span class="w"><span class="sans">gata-rasam</span> tasteless</span>
+        <span class="w"><span class="sans">pūti</span> putrid</span>
+        <span class="w"><span class="sans">paryuṣitam</span> left overnight</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">yat</span> which</span>
+        <span class="w"><span class="sans">ucchiṣṭam</span> leftovers</span>
+        <span class="w"><span class="sans">api</span> also</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">amedhyam</span> impure</span>
+        <span class="w"><span class="sans">bhojanam</span> food</span>
+        <span class="w"><span class="sans">tāmasa-priyam</span> dear to the tāmasa</span></p>
       <p>Food that is stale, tasteless, putrid and left overnight, leftovers and what is impure, is dear to the tāmasa.</p>
     </details>
     <details class="gloss bhashya">
@@ -575,7 +709,20 @@
       <span class="sans">yaṣṭavyameveti manaḥ samādhāya sa sāttvikaḥ</span><br>
       <span class="num sans">|| 11 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">aphala-ākāṅkṣibhiḥ</span> by those who seek no fruit</span>
+        <span class="w"><span class="sans">yajñaḥ</span> sacrifice</span>
+        <span class="w"><span class="sans">vidhi-dṛṣṭaḥ</span> as seen in the rule</span>
+        <span class="w"><span class="sans">yaḥ</span> which</span>
+        <span class="w"><span class="sans">ijyate</span> is offered</span>
+        <span class="w"><span class="sans">yaṣṭavyam</span> it ought to be offered</span>
+        <span class="w"><span class="sans">eva</span> only</span>
+        <span class="w"><span class="sans">iti</span> thus</span>
+        <span class="w"><span class="sans">manaḥ</span> the mind</span>
+        <span class="w"><span class="sans">samādhāya</span> fixing</span>
+        <span class="w"><span class="sans">saḥ</span> that</span>
+        <span class="w"><span class="sans">sāttvikaḥ</span> is sāttvika</span></p>
       <p>Sacrifice offered according to the rule by those who desire no fruit, with the mind fixed on the thought that it simply ought to be done, is sāttvika.</p>
     </details>
     <details class="gloss bhashya">
@@ -593,7 +740,22 @@
       <span class="sans">ijyate bharataśreṣṭha taṃ yajñaṃ viddhi rājasam</span><br>
       <span class="num sans">|| 12 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">abhisandhāya</span> with a view to</span>
+        <span class="w"><span class="sans">tu</span> but</span>
+        <span class="w"><span class="sans">phalam</span> fruit</span>
+        <span class="w"><span class="sans">dambha-artham</span> for ostentation</span>
+        <span class="w"><span class="sans">api</span> also</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">eva</span> indeed</span>
+        <span class="w"><span class="sans">yat</span> which</span>
+        <span class="w"><span class="sans">ijyate</span> is offered</span>
+        <span class="w"><span class="sans">bharata-śreṣṭha</span> O best of the Bharatas</span>
+        <span class="w"><span class="sans">tam</span> that</span>
+        <span class="w"><span class="sans">yajñam</span> sacrifice</span>
+        <span class="w"><span class="sans">viddhi</span> know</span>
+        <span class="w"><span class="sans">rājasam</span> to be rājasa</span></p>
       <p>But know, O best of the Bhāratas, that sacrifice offered with an eye to its fruit, or for display, is rājasa.</p>
     </details>
     <details class="gloss bhashya">
@@ -609,7 +771,16 @@
       <span class="sans">śraddhāvirahitaṃ yajñaṃ tāmasaṃ paricakṣate</span><br>
       <span class="num sans">|| 13 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">vidhi-hīnam</span> without rule</span>
+        <span class="w"><span class="sans">asṛṣṭa-annam</span> without distribution of food</span>
+        <span class="w"><span class="sans">mantra-hīnam</span> without mantras</span>
+        <span class="w"><span class="sans">adakṣiṇam</span> without fees</span>
+        <span class="w"><span class="sans">śraddhā-virahitam</span> devoid of faith</span>
+        <span class="w"><span class="sans">yajñam</span> sacrifice</span>
+        <span class="w"><span class="sans">tāmasam</span> tāmasa</span>
+        <span class="w"><span class="sans">paricakṣate</span> they call</span></p>
       <p>Sacrifice without regard to the rule, in which no food is distributed, without mantras, without gifts to the priests and without faith, is called tāmasa.</p>
     </details>
     <details class="gloss bhashya">
@@ -625,7 +796,17 @@
       <span class="sans">brahmacaryamahiṃsā ca śārīraṃ tapa ucyate</span><br>
       <span class="num sans">|| 14 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">deva-dvija-guru-prājña-pūjanam</span> worship of gods, the twice-born, teachers and the wise</span>
+        <span class="w"><span class="sans">śaucam</span> purity</span>
+        <span class="w"><span class="sans">ārjavam</span> straightforwardness</span>
+        <span class="w"><span class="sans">brahmacaryam</span> celibacy</span>
+        <span class="w"><span class="sans">ahiṃsā</span> non-violence</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">śārīram</span> of the body</span>
+        <span class="w"><span class="sans">tapaḥ</span> austerity</span>
+        <span class="w"><span class="sans">ucyate</span> is called</span></p>
       <p>Worship of the gods, the twice-born, teachers and the wise; purity, uprightness, celibacy and non-violence — this is called austerity of the body.</p>
     </details>
     <details class="gloss bhashya">
@@ -643,7 +824,20 @@
       <span class="sans">svādhyāyābhyasanaṃ caiva vāṅmayaṃ tapa ucyate</span><br>
       <span class="num sans">|| 15 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">anudvega-karam</span> causing no agitation</span>
+        <span class="w"><span class="sans">vākyam</span> speech</span>
+        <span class="w"><span class="sans">satyam</span> true</span>
+        <span class="w"><span class="sans">priya-hitam</span> pleasant and beneficial</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">yat</span> which</span>
+        <span class="w"><span class="sans">svādhyāya-abhyasanam</span> the practice of recitation</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">eva</span> also</span>
+        <span class="w"><span class="sans">vāk-mayam</span> of speech</span>
+        <span class="w"><span class="sans">tapaḥ</span> austerity</span>
+        <span class="w"><span class="sans">ucyate</span> is called</span></p>
       <p>Speech that causes no agitation, that is truthful, pleasant and beneficial, and the practice of study of scripture — this is called austerity of speech.</p>
     </details>
     <details class="gloss bhashya">
@@ -659,7 +853,18 @@
       <span class="sans">bhāvasaṃśuddhirityetattapo mānasamucyate</span><br>
       <span class="num sans">|| 16 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">manaḥ-prasādaḥ</span> serenity of mind</span>
+        <span class="w"><span class="sans">saumyatvam</span> gentleness</span>
+        <span class="w"><span class="sans">maunam</span> silence</span>
+        <span class="w"><span class="sans">ātma-vinigrahaḥ</span> self-control</span>
+        <span class="w"><span class="sans">bhāva-saṃśuddhiḥ</span> purity of disposition</span>
+        <span class="w"><span class="sans">iti</span> thus</span>
+        <span class="w"><span class="sans">etat</span> this</span>
+        <span class="w"><span class="sans">tapaḥ</span> austerity</span>
+        <span class="w"><span class="sans">mānasam</span> of the mind</span>
+        <span class="w"><span class="sans">ucyate</span> is called</span></p>
       <p>Serenity of mind, gentleness, silence, self-restraint and purity of disposition — this is called austerity of the mind.</p>
     </details>
     <details class="gloss bhashya">
@@ -675,7 +880,19 @@
       <span class="sans">aphalākāṅkṣibhiryuktaiḥ sāttvikaṃ paricakṣate</span><br>
       <span class="num sans">|| 17 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">śraddhayā</span> with faith</span>
+        <span class="w"><span class="sans">parayā</span> supreme</span>
+        <span class="w"><span class="sans">taptam</span> practised</span>
+        <span class="w"><span class="sans">tapaḥ</span> austerity</span>
+        <span class="w"><span class="sans">tat</span> that</span>
+        <span class="w"><span class="sans">tri-vidham</span> threefold</span>
+        <span class="w"><span class="sans">naraiḥ</span> by men</span>
+        <span class="w"><span class="sans">aphala-ākāṅkṣibhiḥ</span> who seek no fruit</span>
+        <span class="w"><span class="sans">yuktaiḥ</span> disciplined</span>
+        <span class="w"><span class="sans">sāttvikam</span> sāttvika</span>
+        <span class="w"><span class="sans">paricakṣate</span> they call</span></p>
       <p>This threefold austerity, practised with supreme faith by disciplined people who desire no fruit, is called sāttvika.</p>
     </details>
     <details class="gloss bhashya">
@@ -693,7 +910,21 @@
       <span class="sans">kriyate tadiha proktaṃ rājasaṃ calamadhruvam</span><br>
       <span class="num sans">|| 18 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">satkāra-māna-pūjā-artham</span> for the sake of respect, honour and worship</span>
+        <span class="w"><span class="sans">tapaḥ</span> austerity</span>
+        <span class="w"><span class="sans">dambhena</span> with ostentation</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">eva</span> indeed</span>
+        <span class="w"><span class="sans">yat</span> which</span>
+        <span class="w"><span class="sans">kriyate</span> is done</span>
+        <span class="w"><span class="sans">tat</span> that</span>
+        <span class="w"><span class="sans">iha</span> here</span>
+        <span class="w"><span class="sans">proktam</span> is declared</span>
+        <span class="w"><span class="sans">rājasam</span> rājasa</span>
+        <span class="w"><span class="sans">calam</span> unstable</span>
+        <span class="w"><span class="sans">adhruvam</span> uncertain</span></p>
       <p>Austerity practised for the sake of respect, honour and reverence, and with hypocrisy, is here called rājasa; it is unstable and fleeting.</p>
     </details>
     <details class="gloss bhashya">
@@ -709,7 +940,20 @@
       <span class="sans">parasyotsādanārthaṃ vā tattāmasamudāhṛtam</span><br>
       <span class="num sans">|| 19 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">mūḍha-grāheṇa</span> with deluded conviction</span>
+        <span class="w"><span class="sans">ātmanaḥ</span> of oneself</span>
+        <span class="w"><span class="sans">yat</span> which</span>
+        <span class="w"><span class="sans">pīḍayā</span> with torture</span>
+        <span class="w"><span class="sans">kriyate</span> is done</span>
+        <span class="w"><span class="sans">tapaḥ</span> austerity</span>
+        <span class="w"><span class="sans">parasya</span> of another</span>
+        <span class="w"><span class="sans">utsādana-artham</span> for the ruin</span>
+        <span class="w"><span class="sans">vā</span> or</span>
+        <span class="w"><span class="sans">tat</span> that</span>
+        <span class="w"><span class="sans">tāmasam</span> tāmasa</span>
+        <span class="w"><span class="sans">udāhṛtam</span> is declared</span></p>
       <p>Austerity practised out of a deluded notion, with self-torture, or for the purpose of harming another, is called tāmasa.</p>
     </details>
     <details class="gloss bhashya">
@@ -725,7 +969,23 @@
       <span class="sans">deśe kāle ca pātre ca taddānaṃ sāttvikaṃ smṛtam</span><br>
       <span class="num sans">|| 20 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">dātavyam</span> it ought to be given</span>
+        <span class="w"><span class="sans">iti</span> thus</span>
+        <span class="w"><span class="sans">yat</span> which</span>
+        <span class="w"><span class="sans">dānam</span> gift</span>
+        <span class="w"><span class="sans">dīyate</span> is given</span>
+        <span class="w"><span class="sans">anupakāriṇe</span> to one who does no service in return</span>
+        <span class="w"><span class="sans">deśe</span> in a proper place</span>
+        <span class="w"><span class="sans">kāle</span> at a proper time</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">pātre</span> to a worthy person</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">tat</span> that</span>
+        <span class="w"><span class="sans">dānam</span> gift</span>
+        <span class="w"><span class="sans">sāttvikam</span> sāttvika</span>
+        <span class="w"><span class="sans">smṛtam</span> is held</span></p>
       <p>A gift given because it ought to be given, to one who cannot return it, at the right place and time and to a worthy person, is held to be sāttvika.</p>
     </details>
     <details class="gloss bhashya">
@@ -743,7 +1003,22 @@
       <span class="sans">dīyate ca parikliṣṭaṃ taddānaṃ rājasaṃ smṛtam</span><br>
       <span class="num sans">|| 21 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yat</span> which</span>
+        <span class="w"><span class="sans">tu</span> but</span>
+        <span class="w"><span class="sans">prati-upakāra-artham</span> for the sake of a return</span>
+        <span class="w"><span class="sans">phalam</span> fruit</span>
+        <span class="w"><span class="sans">uddiśya</span> aiming at</span>
+        <span class="w"><span class="sans">vā</span> or</span>
+        <span class="w"><span class="sans">punaḥ</span> again</span>
+        <span class="w"><span class="sans">dīyate</span> is given</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">parikliṣṭam</span> grudgingly</span>
+        <span class="w"><span class="sans">tat</span> that</span>
+        <span class="w"><span class="sans">dānam</span> gift</span>
+        <span class="w"><span class="sans">rājasam</span> rājasa</span>
+        <span class="w"><span class="sans">smṛtam</span> is held</span></p>
       <p>But a gift given in expectation of a return, or with an eye to its fruit, or grudgingly, is held to be rājasa.</p>
     </details>
     <details class="gloss bhashya">
@@ -759,7 +1034,19 @@
       <span class="sans">asatkṛtamavajñātaṃ tattāmasamudāhṛtam</span><br>
       <span class="num sans">|| 22 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">adeśa-kāle</span> at the wrong place and time</span>
+        <span class="w"><span class="sans">yat</span> which</span>
+        <span class="w"><span class="sans">dānam</span> gift</span>
+        <span class="w"><span class="sans">apātrebhyaḥ</span> to unworthy persons</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">dīyate</span> is given</span>
+        <span class="w"><span class="sans">asatkṛtam</span> without respect</span>
+        <span class="w"><span class="sans">avajñātam</span> with contempt</span>
+        <span class="w"><span class="sans">tat</span> that</span>
+        <span class="w"><span class="sans">tāmasam</span> tāmasa</span>
+        <span class="w"><span class="sans">udāhṛtam</span> is declared</span></p>
       <p>A gift given at the wrong place and time, to unworthy persons, without respect or with contempt, is called tāmasa.</p>
     </details>
     <details class="gloss bhashya">
@@ -775,7 +1062,22 @@
       <span class="sans">brāhmaṇāstena vedāśca yajñāśca vihitāḥ purā</span><br>
       <span class="num sans">|| 23 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">om tat sat</span> om tat sat</span>
+        <span class="w"><span class="sans">iti</span> thus</span>
+        <span class="w"><span class="sans">nirdeśaḥ</span> the designation</span>
+        <span class="w"><span class="sans">brahmaṇaḥ</span> of Brahman</span>
+        <span class="w"><span class="sans">tri-vidhaḥ</span> threefold</span>
+        <span class="w"><span class="sans">smṛtaḥ</span> is remembered</span>
+        <span class="w"><span class="sans">brāhmaṇāḥ</span> the brāhmaṇas</span>
+        <span class="w"><span class="sans">tena</span> by that</span>
+        <span class="w"><span class="sans">vedāḥ</span> the Vedas</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">yajñāḥ</span> the sacrifices</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">vihitāḥ</span> were ordained</span>
+        <span class="w"><span class="sans">purā</span> of old</span></p>
       <p>'Oṃ tat sat' — this is held to be the threefold designation of Brahman. By it the brāhmaṇas, the Vedas and sacrifices were ordained of old.</p>
     </details>
     <details class="gloss bhashya">
@@ -793,7 +1095,17 @@
       <span class="sans">pravartante vidhānoktāḥ satataṃ brahmavādinām</span><br>
       <span class="num sans">|| 24 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">tasmāt</span> therefore</span>
+        <span class="w"><span class="sans">om</span> om</span>
+        <span class="w"><span class="sans">iti</span> thus</span>
+        <span class="w"><span class="sans">udāhṛtya</span> uttering</span>
+        <span class="w"><span class="sans">yajña-dāna-tapaḥ-kriyāḥ</span> the acts of sacrifice, charity and austerity</span>
+        <span class="w"><span class="sans">pravartante</span> proceed</span>
+        <span class="w"><span class="sans">vidhāna-uktāḥ</span> enjoined by the ordinance</span>
+        <span class="w"><span class="sans">satatam</span> always</span>
+        <span class="w"><span class="sans">brahma-vādinām</span> of the expounders of Brahman</span></p>
       <p>Therefore the acts of sacrifice, giving and austerity prescribed by the rule are always begun by the expounders of Brahman after uttering 'Om'.</p>
     </details>
     <details class="gloss bhashya">
@@ -809,7 +1121,18 @@
       <span class="sans">dānakriyāśca vividhāḥ kriyante mokṣakāṅkṣibhiḥ</span><br>
       <span class="num sans">|| 25 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">tat</span> tat</span>
+        <span class="w"><span class="sans">iti</span> thus</span>
+        <span class="w"><span class="sans">anabhisandhāya</span> without aiming at</span>
+        <span class="w"><span class="sans">phalam</span> fruit</span>
+        <span class="w"><span class="sans">yajña-tapaḥ-kriyāḥ</span> the acts of sacrifice and austerity</span>
+        <span class="w"><span class="sans">dāna-kriyāḥ</span> the acts of charity</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">vividhāḥ</span> various</span>
+        <span class="w"><span class="sans">kriyante</span> are done</span>
+        <span class="w"><span class="sans">mokṣa-kāṅkṣibhiḥ</span> by those who long for liberation</span></p>
       <p>With 'tat', and without aiming at fruit, acts of sacrifice and austerity and various acts of giving are performed by those who seek liberation.</p>
     </details>
     <details class="gloss bhashya">
@@ -825,7 +1148,21 @@
       <span class="sans">praśaste karmaṇi tathā sacchabdaḥ pārtha yujyate</span><br>
       <span class="num sans">|| 26 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">sat-bhāve</span> in the sense of reality</span>
+        <span class="w"><span class="sans">sādhu-bhāve</span> in the sense of goodness</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">sat</span> sat</span>
+        <span class="w"><span class="sans">iti</span> thus</span>
+        <span class="w"><span class="sans">etat</span> this</span>
+        <span class="w"><span class="sans">prayujyate</span> is used</span>
+        <span class="w"><span class="sans">praśaste</span> praiseworthy</span>
+        <span class="w"><span class="sans">karmaṇi</span> for an action</span>
+        <span class="w"><span class="sans">tathā</span> likewise</span>
+        <span class="w"><span class="sans">sat-śabdaḥ</span> the word sat</span>
+        <span class="w"><span class="sans">pārtha</span> O Pārtha</span>
+        <span class="w"><span class="sans">yujyate</span> is used</span></p>
       <p>'Sat' is used in the sense of reality and of goodness; and the word 'sat' is likewise used, Pārtha, of a praiseworthy act.</p>
     </details>
     <details class="gloss bhashya">
@@ -843,7 +1180,25 @@
       <span class="sans">karma caiva tadarthīyaṃ sadityevābhidhīyate</span><br>
       <span class="num sans">|| 27 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yajñe</span> in sacrifice</span>
+        <span class="w"><span class="sans">tapasi</span> in austerity</span>
+        <span class="w"><span class="sans">dāne</span> in charity</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">sthitiḥ</span> steadfastness</span>
+        <span class="w"><span class="sans">sat</span> sat</span>
+        <span class="w"><span class="sans">iti</span> thus</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">ucyate</span> is called</span>
+        <span class="w"><span class="sans">karma</span> action</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">eva</span> also</span>
+        <span class="w"><span class="sans">tat-arthīyam</span> for that purpose</span>
+        <span class="w"><span class="sans">sat</span> sat</span>
+        <span class="w"><span class="sans">iti</span> thus</span>
+        <span class="w"><span class="sans">eva</span> indeed</span>
+        <span class="w"><span class="sans">abhidhīyate</span> is called</span></p>
       <p>Steadfastness in sacrifice, austerity and giving is also called 'sat', and any action for such purposes is likewise called 'sat'.</p>
     </details>
     <details class="gloss bhashya">
@@ -859,7 +1214,26 @@
       <span class="sans">asadityucyate pārtha na ca tatpretya no iha</span><br>
       <span class="num sans">|| 28 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">aśraddhayā</span> without faith</span>
+        <span class="w"><span class="sans">hutam</span> what is offered</span>
+        <span class="w"><span class="sans">dattam</span> what is given</span>
+        <span class="w"><span class="sans">tapaḥ</span> austerity</span>
+        <span class="w"><span class="sans">taptam</span> practised</span>
+        <span class="w"><span class="sans">kṛtam</span> done</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">yat</span> whatever</span>
+        <span class="w"><span class="sans">asat</span> asat</span>
+        <span class="w"><span class="sans">iti</span> thus</span>
+        <span class="w"><span class="sans">ucyate</span> is called</span>
+        <span class="w"><span class="sans">pārtha</span> O Pārtha</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">tat</span> that</span>
+        <span class="w"><span class="sans">pretya</span> hereafter</span>
+        <span class="w"><span class="sans">no</span> nor</span>
+        <span class="w"><span class="sans">iha</span> here</span></p>
       <p>Whatever is offered, given, or done as austerity or as a rite without faith is called 'asat', Pārtha; it is of no avail here or hereafter.</p>
     </details>
     <details class="gloss bhashya">
@@ -1311,7 +1685,7 @@
     // still has it, so a stale suggestion never lands on the wrong text.
     var texts = [];
     document.querySelectorAll('header h1, header .subtitle, p.speaker, ' +
-        'details.gloss:not(#contents):not(.bhashya) > p, details.bhashya > p.bh-tr, .colophon-gloss').forEach(function (el){
+        'details.gloss:not(#contents):not(.bhashya) > p:not(.wbw), p.wbw > .w, details.bhashya > p.bh-tr, .colophon-gloss').forEach(function (el){
       if (!el.children.length){ el.classList.add("ed"); texts.push(el); return; }
       [].slice.call(el.childNodes).forEach(function (c){
         if (c.nodeType !== 3 || !c.nodeValue.trim()) return;

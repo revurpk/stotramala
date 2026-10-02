@@ -253,6 +253,16 @@
     text-align:left;
     margin:0;
   }
+  /* word-by-word list above a translation: Sanskrit upright, meaning italic,
+     a middle dot between pairs */
+  .gloss p.wbw{
+    font-size:.96rem;line-height:1.75;margin:0 0 .75rem;
+    padding-bottom:.6rem;border-bottom:1px solid var(--rule);
+  }
+  .gloss p.wbw .sans{font-style:normal;color:var(--ink);}
+  .gloss p.wbw .w:not(:last-child)::after{
+    content:"\00a0·";color:var(--accent);opacity:.6;margin-right:.4em;
+  }
   .viniyoga .lines{
     font-size:1.1rem;
     line-height:1.7;
@@ -409,7 +419,24 @@
       <span class="sans">sa sannyāsī ca yogī ca na niragnirna cākriyaḥ</span><br>
       <span class="num sans">|| 1 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">anāśritaḥ</span> not depending on</span>
+        <span class="w"><span class="sans">karma-phalam</span> the fruit of action</span>
+        <span class="w"><span class="sans">kāryam</span> that ought to be done</span>
+        <span class="w"><span class="sans">karma</span> action</span>
+        <span class="w"><span class="sans">karoti</span> does</span>
+        <span class="w"><span class="sans">yaḥ</span> who</span>
+        <span class="w"><span class="sans">saḥ</span> he</span>
+        <span class="w"><span class="sans">sannyāsī</span> a renouncer</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">yogī</span> a yogin</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">niragniḥ</span> he who keeps no fire</span>
+        <span class="w"><span class="sans">na</span> nor</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">akriyaḥ</span> he who performs no rites</span></p>
       <p>The Blessed Lord said: He who does the action that ought to be done, without depending on its fruit, is a renouncer and a yogin — not one who merely gives up the sacred fire and ritual acts.</p>
     </details>
     <details class="gloss bhashya">
@@ -425,7 +452,22 @@
       <span class="sans">na hyasannyastasaṅkalpo yogī bhavati kaścana</span><br>
       <span class="num sans">|| 2 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yam</span> what</span>
+        <span class="w"><span class="sans">sannyāsam</span> renunciation</span>
+        <span class="w"><span class="sans">iti</span> as</span>
+        <span class="w"><span class="sans">prāhuḥ</span> they call</span>
+        <span class="w"><span class="sans">yogam</span> yoga</span>
+        <span class="w"><span class="sans">tam</span> that</span>
+        <span class="w"><span class="sans">viddhi</span> know</span>
+        <span class="w"><span class="sans">pāṇḍava</span> O Pāṇḍava</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">hi</span> for</span>
+        <span class="w"><span class="sans">asannyasta-saṅkalpaḥ</span> one who has not renounced intention</span>
+        <span class="w"><span class="sans">yogī</span> a yogin</span>
+        <span class="w"><span class="sans">bhavati</span> becomes</span>
+        <span class="w"><span class="sans">kaścana</span> anyone</span></p>
       <p>What they call renunciation, know that to be yoga, Pāṇḍava; for no one becomes a yogin without renouncing intention.</p>
     </details>
     <details class="gloss bhashya">
@@ -443,7 +485,20 @@
       <span class="sans">yogārūḍhasya tasyaiva śamaḥ kāraṇamucyate</span><br>
       <span class="num sans">|| 3 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">ārurukṣoḥ</span> wishing to ascend</span>
+        <span class="w"><span class="sans">muneḥ</span> for the sage</span>
+        <span class="w"><span class="sans">yogam</span> to yoga</span>
+        <span class="w"><span class="sans">karma</span> action</span>
+        <span class="w"><span class="sans">kāraṇam</span> the means</span>
+        <span class="w"><span class="sans">ucyate</span> is said</span>
+        <span class="w"><span class="sans">yoga-ārūḍhasya</span> who has ascended to yoga</span>
+        <span class="w"><span class="sans">tasya</span> for him</span>
+        <span class="w"><span class="sans">eva</span> same</span>
+        <span class="w"><span class="sans">śamaḥ</span> calm</span>
+        <span class="w"><span class="sans">kāraṇam</span> the means</span>
+        <span class="w"><span class="sans">ucyate</span> is said</span></p>
       <p>For the sage who wishes to ascend to yoga, action is said to be the means; for the same sage, once he has ascended, stillness is said to be the means.</p>
     </details>
     <details class="gloss bhashya">
@@ -461,7 +516,19 @@
       <span class="sans">sarvasaṅkalpasannyāsī yogārūḍhastadocyate</span><br>
       <span class="num sans">|| 4 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yadā</span> when</span>
+        <span class="w"><span class="sans">hi</span> indeed</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">indriya-artheṣu</span> to the objects of the senses</span>
+        <span class="w"><span class="sans">na</span> nor</span>
+        <span class="w"><span class="sans">karmasu</span> to actions</span>
+        <span class="w"><span class="sans">anuṣajjate</span> one is attached</span>
+        <span class="w"><span class="sans">sarva-saṅkalpa-sannyāsī</span> renouncing all intentions</span>
+        <span class="w"><span class="sans">yoga-ārūḍhaḥ</span> ascended to yoga</span>
+        <span class="w"><span class="sans">tadā</span> then</span>
+        <span class="w"><span class="sans">ucyate</span> one is said</span></p>
       <p>When one is attached neither to the objects of the senses nor to actions, and has renounced all intention, then he is said to have ascended to yoga.</p>
     </details>
     <details class="gloss bhashya">
@@ -479,7 +546,23 @@
       <span class="sans">ātmaivahyātmano bandhurātmaiva ripurātmanaḥ</span><br>
       <span class="num sans">|| 5 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">uddharet</span> one should lift up</span>
+        <span class="w"><span class="sans">ātmanā</span> by the self</span>
+        <span class="w"><span class="sans">ātmānam</span> the self</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">ātmānam</span> the self</span>
+        <span class="w"><span class="sans">avasādayet</span> should cast down</span>
+        <span class="w"><span class="sans">ātmā</span> the self</span>
+        <span class="w"><span class="sans">eva</span> alone</span>
+        <span class="w"><span class="sans">hi</span> for</span>
+        <span class="w"><span class="sans">ātmanaḥ</span> of the self</span>
+        <span class="w"><span class="sans">bandhuḥ</span> the friend</span>
+        <span class="w"><span class="sans">ātmā</span> the self</span>
+        <span class="w"><span class="sans">eva</span> alone</span>
+        <span class="w"><span class="sans">ripuḥ</span> the enemy</span>
+        <span class="w"><span class="sans">ātmanaḥ</span> of the self</span></p>
       <p>Let one raise the self by the self and not let the self sink; for the self alone is the friend of the self, and the self alone is its enemy.</p>
     </details>
     <details class="gloss bhashya">
@@ -497,7 +580,24 @@
       <span class="sans">anātmanastu śatrutve vartetātmaiva śatruvat</span><br>
       <span class="num sans">|| 6 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">bandhuḥ</span> the friend</span>
+        <span class="w"><span class="sans">ātmā</span> the self</span>
+        <span class="w"><span class="sans">ātmanaḥ</span> of the self</span>
+        <span class="w"><span class="sans">tasya</span> of him</span>
+        <span class="w"><span class="sans">yena</span> by whom</span>
+        <span class="w"><span class="sans">ātmā</span> the self</span>
+        <span class="w"><span class="sans">eva</span> itself</span>
+        <span class="w"><span class="sans">ātmanā</span> by the self</span>
+        <span class="w"><span class="sans">jitaḥ</span> is conquered</span>
+        <span class="w"><span class="sans">anātmanaḥ</span> for one who has not mastered himself</span>
+        <span class="w"><span class="sans">tu</span> but</span>
+        <span class="w"><span class="sans">śatrutve</span> in enmity</span>
+        <span class="w"><span class="sans">varteta</span> would act</span>
+        <span class="w"><span class="sans">ātmā</span> the self</span>
+        <span class="w"><span class="sans">eva</span> itself</span>
+        <span class="w"><span class="sans">śatru-vat</span> like an enemy</span></p>
       <p>The self is the friend of the self for one who has conquered himself by the self; but for one who has not conquered himself, the self acts like an enemy in hostility.</p>
     </details>
     <details class="gloss bhashya">
@@ -515,7 +615,15 @@
       <span class="sans">śītoṣṇasukhaduḥkheṣu tathā mānāpamānayoḥ</span><br>
       <span class="num sans">|| 7 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">jita-ātmanaḥ</span> of one who has mastered himself</span>
+        <span class="w"><span class="sans">praśāntasya</span> who is calm</span>
+        <span class="w"><span class="sans">parama-ātmā</span> the supreme Self</span>
+        <span class="w"><span class="sans">samāhitaḥ</span> is collected</span>
+        <span class="w"><span class="sans">śīta-uṣṇa-sukha-duḥkheṣu</span> in cold and heat, pleasure and pain</span>
+        <span class="w"><span class="sans">tathā</span> likewise</span>
+        <span class="w"><span class="sans">māna-apamānayoḥ</span> in honour and dishonour</span></p>
       <p>The supreme Self of one who has conquered himself and is at peace remains composed in cold and heat, pleasure and pain, honour and dishonour.</p>
     </details>
     <details class="gloss bhashya">
@@ -531,7 +639,16 @@
       <span class="sans">yukta ityucyate yogī samaloṣṭāśmakāñcanaḥ</span><br>
       <span class="num sans">|| 8 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">jñāna-vijñāna-tṛpta-ātmā</span> whose self is content in knowledge and realisation</span>
+        <span class="w"><span class="sans">kūṭa-sthaḥ</span> unshakeable</span>
+        <span class="w"><span class="sans">vijita-indriyaḥ</span> who has conquered the senses</span>
+        <span class="w"><span class="sans">yuktaḥ</span> disciplined</span>
+        <span class="w"><span class="sans">iti</span> thus</span>
+        <span class="w"><span class="sans">ucyate</span> is called</span>
+        <span class="w"><span class="sans">yogī</span> the yogin</span>
+        <span class="w"><span class="sans">sama-loṣṭa-aśma-kāñcanaḥ</span> to whom a clod, a stone and gold are the same</span></p>
       <p>The yogin who is content with knowledge and realisation, unshakeable, with senses conquered, to whom a clod, a stone and gold are alike, is called disciplined.</p>
     </details>
     <details class="gloss bhashya">
@@ -547,7 +664,15 @@
       <span class="sans">sādhuṣvapi ca pāpeṣu samabuddhirviśiṣyate</span><br>
       <span class="num sans">|| 9 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">suhṛt-mitra-ari-udāsīna-madhyastha-dveṣya-bandhuṣu</span> towards well-wishers, friends, enemies, the indifferent, the neutral, the hateful and kinsmen</span>
+        <span class="w"><span class="sans">sādhuṣu</span> towards the good</span>
+        <span class="w"><span class="sans">api</span> even</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">pāpeṣu</span> towards sinners</span>
+        <span class="w"><span class="sans">sama-buddhiḥ</span> one of even mind</span>
+        <span class="w"><span class="sans">viśiṣyate</span> excels</span></p>
       <p>He excels who is of even mind towards well-wishers, friends and foes, the indifferent and the neutral, the hateful and kinsmen, the good and the wicked.</p>
     </details>
     <details class="gloss bhashya">
@@ -563,7 +688,18 @@
       <span class="sans">ekākī yatacittātmā nirāśīraparigrahaḥ</span><br>
       <span class="num sans">|| 10 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yogī</span> the yogin</span>
+        <span class="w"><span class="sans">yuñjīta</span> should discipline</span>
+        <span class="w"><span class="sans">satatam</span> constantly</span>
+        <span class="w"><span class="sans">ātmānam</span> himself</span>
+        <span class="w"><span class="sans">rahasi</span> in solitude</span>
+        <span class="w"><span class="sans">sthitaḥ</span> staying</span>
+        <span class="w"><span class="sans">ekākī</span> alone</span>
+        <span class="w"><span class="sans">yata-citta-ātmā</span> with mind and self restrained</span>
+        <span class="w"><span class="sans">nirāśīḥ</span> without hope</span>
+        <span class="w"><span class="sans">aparigrahaḥ</span> without possessions</span></p>
       <p>The yogin should constantly concentrate his mind, remaining in solitude, alone, with mind and body controlled, without hope and without possessions.</p>
     </details>
     <details class="gloss bhashya">
@@ -581,7 +717,19 @@
       <span class="sans">nātyucchritaṃ nātinīcaṃ cailājinakuśottaram</span><br>
       <span class="num sans">|| 11 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">śucau</span> in a clean</span>
+        <span class="w"><span class="sans">deśe</span> place</span>
+        <span class="w"><span class="sans">pratiṣṭhāpya</span> having set up</span>
+        <span class="w"><span class="sans">sthiram</span> firm</span>
+        <span class="w"><span class="sans">āsanam</span> seat</span>
+        <span class="w"><span class="sans">ātmanaḥ</span> his own</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">ati-ucchritam</span> too high</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">ati-nīcam</span> too low</span>
+        <span class="w"><span class="sans">caila-ajina-kuśa-uttaram</span> covered with cloth, deer-skin and kuśa grass</span></p>
       <p>In a clean place, setting up for himself a firm seat, neither too high nor too low, covered with cloth, deer-skin and kuśa grass,</p>
     </details>
     <details class="gloss bhashya">
@@ -599,7 +747,18 @@
       <span class="sans">upaviśyāsane yuñjyādyogamātmaviśuddhaye</span><br>
       <span class="num sans">|| 12 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">tatra</span> there</span>
+        <span class="w"><span class="sans">eka-agram</span> one-pointed</span>
+        <span class="w"><span class="sans">manaḥ</span> the mind</span>
+        <span class="w"><span class="sans">kṛtvā</span> making</span>
+        <span class="w"><span class="sans">yata-citta-indriya-kriyaḥ</span> with the activity of mind and senses restrained</span>
+        <span class="w"><span class="sans">upaviśya</span> sitting</span>
+        <span class="w"><span class="sans">āsane</span> on the seat</span>
+        <span class="w"><span class="sans">yuñjyāt</span> he should practise</span>
+        <span class="w"><span class="sans">yogam</span> yoga</span>
+        <span class="w"><span class="sans">ātma-viśuddhaye</span> for the purification of the self</span></p>
       <p>sitting there on the seat, making the mind one-pointed, with the workings of mind and senses restrained, let him practise yoga for the purification of the self.</p>
     </details>
     <details class="gloss bhashya">
@@ -617,7 +776,19 @@
       <span class="sans">samprekṣya nāsikāgraṃ svaṃ diśaścānavalokayan</span><br>
       <span class="num sans">|| 13 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">samam</span> erect</span>
+        <span class="w"><span class="sans">kāya-śiraḥ-grīvam</span> body, head and neck</span>
+        <span class="w"><span class="sans">dhārayan</span> holding</span>
+        <span class="w"><span class="sans">acalam</span> motionless</span>
+        <span class="w"><span class="sans">sthiraḥ</span> steady</span>
+        <span class="w"><span class="sans">samprekṣya</span> gazing at</span>
+        <span class="w"><span class="sans">nāsikā-agram</span> the tip of the nose</span>
+        <span class="w"><span class="sans">svam</span> his own</span>
+        <span class="w"><span class="sans">diśaḥ</span> the directions</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">anavalokayan</span> not looking about</span></p>
       <p>Holding body, head and neck erect and still, steady, gazing at the tip of his nose and not looking around,</p>
     </details>
     <details class="gloss bhashya">
@@ -635,7 +806,18 @@
       <span class="sans">manaḥ saṃyamya maccitto yukta āsīta matparaḥ</span><br>
       <span class="num sans">|| 14 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">praśānta-ātmā</span> serene of self</span>
+        <span class="w"><span class="sans">vigata-bhīḥ</span> fearless</span>
+        <span class="w"><span class="sans">brahmacāri-vrate</span> in the vow of celibacy</span>
+        <span class="w"><span class="sans">sthitaḥ</span> established</span>
+        <span class="w"><span class="sans">manaḥ</span> the mind</span>
+        <span class="w"><span class="sans">saṃyamya</span> restraining</span>
+        <span class="w"><span class="sans">mat-cittaḥ</span> with mind on me</span>
+        <span class="w"><span class="sans">yuktaḥ</span> disciplined</span>
+        <span class="w"><span class="sans">āsīta</span> he should sit</span>
+        <span class="w"><span class="sans">mat-paraḥ</span> intent on me</span></p>
       <p>serene, fearless, firm in the vow of celibacy, restraining the mind, thinking of me, let him sit disciplined, intent on me.</p>
     </details>
     <details class="gloss bhashya">
@@ -651,7 +833,18 @@
       <span class="sans">śāntiṃ nirvāṇaparamāṃ matsaṃsthāmadhigacchati</span><br>
       <span class="num sans">|| 15 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yuñjan</span> disciplining</span>
+        <span class="w"><span class="sans">evam</span> thus</span>
+        <span class="w"><span class="sans">sadā</span> always</span>
+        <span class="w"><span class="sans">ātmānam</span> himself</span>
+        <span class="w"><span class="sans">yogī</span> the yogin</span>
+        <span class="w"><span class="sans">niyata-mānasaḥ</span> with mind controlled</span>
+        <span class="w"><span class="sans">śāntim</span> peace</span>
+        <span class="w"><span class="sans">nirvāṇa-paramām</span> culminating in nirvāṇa</span>
+        <span class="w"><span class="sans">mat-saṃsthām</span> abiding in me</span>
+        <span class="w"><span class="sans">adhigacchati</span> attains</span></p>
       <p>Thus always disciplining himself, the yogin of restrained mind attains the peace that culminates in nirvāṇa and abides in me.</p>
     </details>
     <details class="gloss bhashya">
@@ -669,7 +862,25 @@
       <span class="sans">na cātisvapnaśīlasya jāgrato naiva cārjuna</span><br>
       <span class="num sans">|| 16 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">ati-aśnataḥ</span> for one who eats too much</span>
+        <span class="w"><span class="sans">tu</span> but</span>
+        <span class="w"><span class="sans">yogaḥ</span> yoga</span>
+        <span class="w"><span class="sans">asti</span> is</span>
+        <span class="w"><span class="sans">na</span> nor</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">ekāntam</span> at all</span>
+        <span class="w"><span class="sans">anaśnataḥ</span> for one who does not eat</span>
+        <span class="w"><span class="sans">na</span> nor</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">ati-svapna-śīlasya</span> for one given to too much sleep</span>
+        <span class="w"><span class="sans">jāgrataḥ</span> for one who keeps awake</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">eva</span> either</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">arjuna</span> O Arjuna</span></p>
       <p>Yoga is not for one who eats too much, nor for one who does not eat at all, nor for one who sleeps too much or keeps awake too long, Arjuna.</p>
     </details>
     <details class="gloss bhashya">
@@ -687,7 +898,15 @@
       <span class="sans">yuktasvapnāvabodhasya yogo bhavati duḥkhahā</span><br>
       <span class="num sans">|| 17 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yukta-āhāra-vihārasya</span> for one disciplined in food and recreation</span>
+        <span class="w"><span class="sans">yukta-ceṣṭasya</span> disciplined in effort</span>
+        <span class="w"><span class="sans">karmasu</span> in actions</span>
+        <span class="w"><span class="sans">yukta-svapna-avabodhasya</span> disciplined in sleep and waking</span>
+        <span class="w"><span class="sans">yogaḥ</span> yoga</span>
+        <span class="w"><span class="sans">bhavati</span> becomes</span>
+        <span class="w"><span class="sans">duḥkha-hā</span> the destroyer of sorrow</span></p>
       <p>For one who is moderate in food and recreation, disciplined in the movements of action, moderate in sleep and waking, yoga becomes the destroyer of sorrow.</p>
     </details>
     <details class="gloss bhashya">
@@ -705,7 +924,20 @@
       <span class="sans">niḥspṛhaḥ sarvakāmebhyo yukta ityucyate tadā</span><br>
       <span class="num sans">|| 18 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yadā</span> when</span>
+        <span class="w"><span class="sans">viniyatam</span> well controlled</span>
+        <span class="w"><span class="sans">cittam</span> the mind</span>
+        <span class="w"><span class="sans">ātmani</span> in the Self</span>
+        <span class="w"><span class="sans">eva</span> alone</span>
+        <span class="w"><span class="sans">avatiṣṭhate</span> rests</span>
+        <span class="w"><span class="sans">niḥspṛhaḥ</span> free from longing</span>
+        <span class="w"><span class="sans">sarva-kāmebhyaḥ</span> for all desires</span>
+        <span class="w"><span class="sans">yuktaḥ</span> disciplined</span>
+        <span class="w"><span class="sans">iti</span> thus</span>
+        <span class="w"><span class="sans">ucyate</span> one is called</span>
+        <span class="w"><span class="sans">tadā</span> then</span></p>
       <p>When the controlled mind rests in the Self alone, free from longing for all desires, then one is said to be disciplined.</p>
     </details>
     <details class="gloss bhashya">
@@ -723,7 +955,21 @@
       <span class="sans">yogino yatacittasya yuñjato yogamātmanaḥ</span><br>
       <span class="num sans">|| 19 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yathā</span> as</span>
+        <span class="w"><span class="sans">dīpaḥ</span> a lamp</span>
+        <span class="w"><span class="sans">nivāta-sthaḥ</span> in a windless place</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">iṅgate</span> flickers</span>
+        <span class="w"><span class="sans">sā</span> that</span>
+        <span class="w"><span class="sans">upamā</span> simile</span>
+        <span class="w"><span class="sans">smṛtā</span> is thought of</span>
+        <span class="w"><span class="sans">yoginaḥ</span> for the yogin</span>
+        <span class="w"><span class="sans">yata-cittasya</span> of restrained mind</span>
+        <span class="w"><span class="sans">yuñjataḥ</span> practising</span>
+        <span class="w"><span class="sans">yogam</span> yoga</span>
+        <span class="w"><span class="sans">ātmanaḥ</span> of the self</span></p>
       <p>'As a lamp in a windless place does not flicker' — that is the simile used for the yogin of controlled mind practising the yoga of the Self.</p>
     </details>
     <details class="gloss bhashya">
@@ -741,7 +987,21 @@
       <span class="sans">yatra caivātmanā''tmānaṃ paśyannātmani tuṣyati</span><br>
       <span class="num sans">|| 20 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yatra</span> where</span>
+        <span class="w"><span class="sans">uparamate</span> comes to rest</span>
+        <span class="w"><span class="sans">cittam</span> the mind</span>
+        <span class="w"><span class="sans">niruddham</span> restrained</span>
+        <span class="w"><span class="sans">yoga-sevayā</span> by the practice of yoga</span>
+        <span class="w"><span class="sans">yatra</span> where</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">eva</span> indeed</span>
+        <span class="w"><span class="sans">ātmanā</span> by the self</span>
+        <span class="w"><span class="sans">ātmānam</span> the Self</span>
+        <span class="w"><span class="sans">paśyan</span> seeing</span>
+        <span class="w"><span class="sans">ātmani</span> in the Self</span>
+        <span class="w"><span class="sans">tuṣyati</span> he is content</span></p>
       <p>Where the mind, restrained by the practice of yoga, comes to rest; where, seeing the Self by the self, one is content in the Self;</p>
     </details>
     <details class="gloss bhashya">
@@ -759,7 +1019,23 @@
       <span class="sans">vetti yatra na caivāyaṃ sthitaścalati tattvataḥ</span><br>
       <span class="num sans">|| 21 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">sukham</span> happiness</span>
+        <span class="w"><span class="sans">ātyantikam</span> utmost</span>
+        <span class="w"><span class="sans">yat</span> which</span>
+        <span class="w"><span class="sans">tat</span> that</span>
+        <span class="w"><span class="sans">buddhi-grāhyam</span> grasped by the understanding</span>
+        <span class="w"><span class="sans">ati-indriyam</span> beyond the senses</span>
+        <span class="w"><span class="sans">vetti</span> he knows</span>
+        <span class="w"><span class="sans">yatra</span> where</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">eva</span> indeed</span>
+        <span class="w"><span class="sans">ayam</span> this one</span>
+        <span class="w"><span class="sans">sthitaḥ</span> established</span>
+        <span class="w"><span class="sans">calati</span> moves</span>
+        <span class="w"><span class="sans">tattvataḥ</span> from the truth</span></p>
       <p>where one knows that boundless happiness which is grasped by the understanding and lies beyond the senses, and, established there, never moves from the truth;</p>
     </details>
     <details class="gloss bhashya">
@@ -775,7 +1051,24 @@
       <span class="sans">yasmin sthito na duḥkhena guruṇā'pi vicālyate</span><br>
       <span class="num sans">|| 22 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yam</span> which</span>
+        <span class="w"><span class="sans">labdhvā</span> having gained</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">aparam</span> other</span>
+        <span class="w"><span class="sans">lābham</span> gain</span>
+        <span class="w"><span class="sans">manyate</span> he thinks</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">adhikam</span> greater</span>
+        <span class="w"><span class="sans">tataḥ</span> than that</span>
+        <span class="w"><span class="sans">yasmin</span> in which</span>
+        <span class="w"><span class="sans">sthitaḥ</span> established</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">duḥkhena</span> by sorrow</span>
+        <span class="w"><span class="sans">guruṇā</span> heavy</span>
+        <span class="w"><span class="sans">api</span> even</span>
+        <span class="w"><span class="sans">vicālyate</span> is he shaken</span></p>
       <p>having gained which one thinks no other gain greater, and established in which one is not shaken even by heavy sorrow —</p>
     </details>
     <details class="gloss bhashya">
@@ -791,7 +1084,17 @@
       <span class="sans">sa niścayena yoktavyo yogo'nirviṇṇacetasā</span><br>
       <span class="num sans">|| 23 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">tam</span> that</span>
+        <span class="w"><span class="sans">vidyāt</span> one should know</span>
+        <span class="w"><span class="sans">duḥkha-saṃyoga-viyogam</span> disjunction from union with sorrow</span>
+        <span class="w"><span class="sans">yoga-sañjñitam</span> called yoga</span>
+        <span class="w"><span class="sans">saḥ</span> that</span>
+        <span class="w"><span class="sans">niścayena</span> with resolve</span>
+        <span class="w"><span class="sans">yoktavyaḥ</span> is to be practised</span>
+        <span class="w"><span class="sans">yogaḥ</span> yoga</span>
+        <span class="w"><span class="sans">anirviṇṇa-cetasā</span> with an undespondent mind</span></p>
       <p>let that be known as yoga: the unyoking from union with sorrow. That yoga should be practised with resolve and an undespairing mind.</p>
     </details>
     <details class="gloss bhashya">
@@ -809,7 +1112,18 @@
       <span class="sans">manasaivendriyagrāmaṃ viniyamya samantataḥ</span><br>
       <span class="num sans">|| 24 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">saṅkalpa-prabhavān</span> born of intention</span>
+        <span class="w"><span class="sans">kāmān</span> desires</span>
+        <span class="w"><span class="sans">tyaktvā</span> abandoning</span>
+        <span class="w"><span class="sans">sarvān</span> all</span>
+        <span class="w"><span class="sans">aśeṣataḥ</span> without remainder</span>
+        <span class="w"><span class="sans">manasā</span> by the mind</span>
+        <span class="w"><span class="sans">eva</span> alone</span>
+        <span class="w"><span class="sans">indriya-grāmam</span> the host of the senses</span>
+        <span class="w"><span class="sans">viniyamya</span> restraining</span>
+        <span class="w"><span class="sans">samantataḥ</span> on every side</span></p>
       <p>Giving up entirely all desires born of intention, restraining the whole group of the senses on every side with the mind alone,</p>
     </details>
     <details class="gloss bhashya">
@@ -825,7 +1139,19 @@
       <span class="sans">ātmasaṃsthaṃ manaḥ kṛtvā na kiñcidapi cintayet</span><br>
       <span class="num sans">|| 25 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">śanaiḥ śanaiḥ</span> little by little</span>
+        <span class="w"><span class="sans">uparamet</span> one should come to rest</span>
+        <span class="w"><span class="sans">buddhyā</span> by the understanding</span>
+        <span class="w"><span class="sans">dhṛti-gṛhītayā</span> held by firmness</span>
+        <span class="w"><span class="sans">ātma-saṃstham</span> abiding in the Self</span>
+        <span class="w"><span class="sans">manaḥ</span> the mind</span>
+        <span class="w"><span class="sans">kṛtvā</span> making</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">kiñcit</span> anything</span>
+        <span class="w"><span class="sans">api</span> at all</span>
+        <span class="w"><span class="sans">cintayet</span> should one think of</span></p>
       <p>little by little let him come to rest, with the understanding held firm; having fixed the mind in the Self, let him think of nothing at all.</p>
     </details>
     <details class="gloss bhashya">
@@ -841,7 +1167,20 @@
       <span class="sans">tatastato niyamyaitadātmanyeva vaśaṃ nayet</span><br>
       <span class="num sans">|| 26 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yataḥ yataḥ</span> from whatever</span>
+        <span class="w"><span class="sans">niścarati</span> wanders off</span>
+        <span class="w"><span class="sans">manaḥ</span> the mind</span>
+        <span class="w"><span class="sans">cañcalam</span> fickle</span>
+        <span class="w"><span class="sans">asthiram</span> unsteady</span>
+        <span class="w"><span class="sans">tataḥ tataḥ</span> from that</span>
+        <span class="w"><span class="sans">niyamya</span> restraining</span>
+        <span class="w"><span class="sans">etat</span> it</span>
+        <span class="w"><span class="sans">ātmani</span> in the Self</span>
+        <span class="w"><span class="sans">eva</span> alone</span>
+        <span class="w"><span class="sans">vaśam</span> under control</span>
+        <span class="w"><span class="sans">nayet</span> one should bring</span></p>
       <p>Wherever the restless, unsteady mind wanders off, from there let him restrain it and bring it back under the control of the Self alone.</p>
     </details>
     <details class="gloss bhashya">
@@ -859,7 +1198,18 @@
       <span class="sans">upaiti śāntarajasaṃ brahmabhūtamakalmaṣam</span><br>
       <span class="num sans">|| 27 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">praśānta-manasam</span> whose mind is serene</span>
+        <span class="w"><span class="sans">hi</span> for</span>
+        <span class="w"><span class="sans">enam</span> to this</span>
+        <span class="w"><span class="sans">yoginam</span> yogin</span>
+        <span class="w"><span class="sans">sukham</span> happiness</span>
+        <span class="w"><span class="sans">uttamam</span> the highest</span>
+        <span class="w"><span class="sans">upaiti</span> comes</span>
+        <span class="w"><span class="sans">śānta-rajasam</span> whose rajas is stilled</span>
+        <span class="w"><span class="sans">brahma-bhūtam</span> who has become Brahman</span>
+        <span class="w"><span class="sans">akalmaṣam</span> stainless</span></p>
       <p>For supreme happiness comes to the yogin whose mind is at peace, whose passion is stilled, who has become Brahman and is free from stain.</p>
     </details>
     <details class="gloss bhashya">
@@ -875,7 +1225,19 @@
       <span class="sans">sukhena brahmasaṃsparśamatyantaṃ sukhamaśnute</span><br>
       <span class="num sans">|| 28 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yuñjan</span> disciplining</span>
+        <span class="w"><span class="sans">evam</span> thus</span>
+        <span class="w"><span class="sans">sadā</span> always</span>
+        <span class="w"><span class="sans">ātmānam</span> himself</span>
+        <span class="w"><span class="sans">yogī</span> the yogin</span>
+        <span class="w"><span class="sans">vigata-kalmaṣaḥ</span> his stain gone</span>
+        <span class="w"><span class="sans">sukhena</span> easily</span>
+        <span class="w"><span class="sans">brahma-saṃsparśam</span> of contact with Brahman</span>
+        <span class="w"><span class="sans">atyantam</span> endless</span>
+        <span class="w"><span class="sans">sukham</span> happiness</span>
+        <span class="w"><span class="sans">aśnute</span> attains</span></p>
       <p>Thus always disciplining himself, the yogin freed from stain easily enjoys the boundless happiness of contact with Brahman.</p>
     </details>
     <details class="gloss bhashya">
@@ -891,7 +1253,17 @@
       <span class="sans">īkṣate yogayuktātmā sarvatra samadarśanaḥ</span><br>
       <span class="num sans">|| 29 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">sarva-bhūta-stham</span> abiding in all beings</span>
+        <span class="w"><span class="sans">ātmānam</span> the Self</span>
+        <span class="w"><span class="sans">sarva-bhūtāni</span> all beings</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">ātmani</span> in the Self</span>
+        <span class="w"><span class="sans">īkṣate</span> sees</span>
+        <span class="w"><span class="sans">yoga-yukta-ātmā</span> he whose self is disciplined in yoga</span>
+        <span class="w"><span class="sans">sarvatra</span> everywhere</span>
+        <span class="w"><span class="sans">sama-darśanaḥ</span> seeing the same</span></p>
       <p>With the self disciplined in yoga, seeing the same everywhere, he sees the Self abiding in all beings and all beings in the Self.</p>
     </details>
     <details class="gloss bhashya">
@@ -909,7 +1281,25 @@
       <span class="sans">tasyā'haṃ na praṇaśyāmi sa ca me na praṇaśyati</span><br>
       <span class="num sans">|| 30 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yaḥ</span> who</span>
+        <span class="w"><span class="sans">mām</span> me</span>
+        <span class="w"><span class="sans">paśyati</span> sees</span>
+        <span class="w"><span class="sans">sarvatra</span> everywhere</span>
+        <span class="w"><span class="sans">sarvam</span> all</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">mayi</span> in me</span>
+        <span class="w"><span class="sans">paśyati</span> sees</span>
+        <span class="w"><span class="sans">tasya</span> to him</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">praṇaśyāmi</span> am lost</span>
+        <span class="w"><span class="sans">saḥ</span> he</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">me</span> to me</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">praṇaśyati</span> is lost</span></p>
       <p>He who sees me everywhere and sees everything in me — I am not lost to him, nor is he lost to me.</p>
     </details>
     <details class="gloss bhashya">
@@ -927,7 +1317,21 @@
       <span class="sans">sarvathā vartamāno'pi sa yogī mayi vartate</span><br>
       <span class="num sans">|| 31 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">sarva-bhūta-sthitam</span> abiding in all beings</span>
+        <span class="w"><span class="sans">yaḥ</span> who</span>
+        <span class="w"><span class="sans">mām</span> me</span>
+        <span class="w"><span class="sans">bhajati</span> worships</span>
+        <span class="w"><span class="sans">ekatvam</span> in oneness</span>
+        <span class="w"><span class="sans">āsthitaḥ</span> established</span>
+        <span class="w"><span class="sans">sarvathā</span> in whatever way</span>
+        <span class="w"><span class="sans">vartamānaḥ</span> living</span>
+        <span class="w"><span class="sans">api</span> though</span>
+        <span class="w"><span class="sans">saḥ</span> that</span>
+        <span class="w"><span class="sans">yogī</span> yogin</span>
+        <span class="w"><span class="sans">mayi</span> in me</span>
+        <span class="w"><span class="sans">vartate</span> abides</span></p>
       <p>The yogin who, established in oneness, worships me as dwelling in all beings, abides in me, however he may live.</p>
     </details>
     <details class="gloss bhashya">
@@ -945,7 +1349,22 @@
       <span class="sans">sukhaṃ vā yadi vā duḥkhaṃ sa yogī paramo mataḥ</span><br>
       <span class="num sans">|| 32 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">ātma-aupamyena</span> by likeness to himself</span>
+        <span class="w"><span class="sans">sarvatra</span> everywhere</span>
+        <span class="w"><span class="sans">samam</span> the same</span>
+        <span class="w"><span class="sans">paśyati</span> sees</span>
+        <span class="w"><span class="sans">yaḥ</span> who</span>
+        <span class="w"><span class="sans">arjuna</span> O Arjuna</span>
+        <span class="w"><span class="sans">sukham</span> pleasure</span>
+        <span class="w"><span class="sans">vā</span> whether</span>
+        <span class="w"><span class="sans">yadi vā</span> or</span>
+        <span class="w"><span class="sans">duḥkham</span> pain</span>
+        <span class="w"><span class="sans">saḥ</span> that</span>
+        <span class="w"><span class="sans">yogī</span> yogin</span>
+        <span class="w"><span class="sans">paramaḥ</span> the highest</span>
+        <span class="w"><span class="sans">mataḥ</span> is held</span></p>
       <p>He who, by comparison with himself, sees the same everywhere, Arjuna, whether in pleasure or in pain — he is deemed the highest yogin.</p>
     </details>
     <details class="gloss bhashya">
@@ -965,7 +1384,22 @@
       <span class="sans">etasyāhaṃ na paśyāmi cañcalatvāt sthitiṃ sthirām</span><br>
       <span class="num sans">|| 33 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yaḥ</span> which</span>
+        <span class="w"><span class="sans">ayam</span> this</span>
+        <span class="w"><span class="sans">yogaḥ</span> yoga</span>
+        <span class="w"><span class="sans">tvayā</span> by you</span>
+        <span class="w"><span class="sans">proktaḥ</span> declared</span>
+        <span class="w"><span class="sans">sāmyena</span> as sameness</span>
+        <span class="w"><span class="sans">madhusūdana</span> O Madhusūdana</span>
+        <span class="w"><span class="sans">etasya</span> of this</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">paśyāmi</span> see</span>
+        <span class="w"><span class="sans">cañcalatvāt</span> because of restlessness</span>
+        <span class="w"><span class="sans">sthitim</span> continuance</span>
+        <span class="w"><span class="sans">sthirām</span> steady</span></p>
       <p>Arjuna said: This yoga of sameness that you have taught, Madhusūdana — I do not see how it can stand firm, because the mind is restless.</p>
     </details>
     <details class="gloss bhashya">
@@ -983,7 +1417,22 @@
       <span class="sans">tasyāhaṃ nigrahaṃ manye vāyoriva suduṣkaram</span><br>
       <span class="num sans">|| 34 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">cañcalam</span> restless</span>
+        <span class="w"><span class="sans">hi</span> for</span>
+        <span class="w"><span class="sans">manaḥ</span> the mind</span>
+        <span class="w"><span class="sans">kṛṣṇa</span> O Kṛṣṇa</span>
+        <span class="w"><span class="sans">pramāthi</span> turbulent</span>
+        <span class="w"><span class="sans">balavat</span> strong</span>
+        <span class="w"><span class="sans">dṛḍham</span> stubborn</span>
+        <span class="w"><span class="sans">tasya</span> of it</span>
+        <span class="w"><span class="sans">aham</span> I</span>
+        <span class="w"><span class="sans">nigraham</span> the restraint</span>
+        <span class="w"><span class="sans">manye</span> think</span>
+        <span class="w"><span class="sans">vāyoḥ</span> of the wind</span>
+        <span class="w"><span class="sans">iva</span> as</span>
+        <span class="w"><span class="sans">su-duṣkaram</span> very hard to achieve</span></p>
       <p>For the mind is restless, Kṛṣṇa, turbulent, strong and obstinate. I think it as hard to restrain as the wind.</p>
     </details>
     <details class="gloss bhashya">
@@ -1003,7 +1452,19 @@
       <span class="sans">abhyāsena tu kaunteya vairāgyeṇa ca gṛhyate</span><br>
       <span class="num sans">|| 35 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">asaṃśayam</span> without doubt</span>
+        <span class="w"><span class="sans">mahā-bāho</span> O mighty-armed</span>
+        <span class="w"><span class="sans">manaḥ</span> the mind</span>
+        <span class="w"><span class="sans">durnigraham</span> is hard to restrain</span>
+        <span class="w"><span class="sans">calam</span> restless</span>
+        <span class="w"><span class="sans">abhyāsena</span> by practice</span>
+        <span class="w"><span class="sans">tu</span> but</span>
+        <span class="w"><span class="sans">kaunteya</span> O son of Kuntī</span>
+        <span class="w"><span class="sans">vairāgyeṇa</span> by dispassion</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">gṛhyate</span> it is held</span></p>
       <p>The Blessed Lord said: Without doubt, mighty-armed one, the mind is restless and hard to control; but by practice and dispassion, son of Kuntī, it is held.</p>
     </details>
     <details class="gloss bhashya">
@@ -1021,7 +1482,20 @@
       <span class="sans">vaśyātmanā tu yatatā śakyo'vāptumupāyataḥ</span><br>
       <span class="num sans">|| 36 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">asaṃyata-ātmanā</span> by one whose self is unrestrained</span>
+        <span class="w"><span class="sans">yogaḥ</span> yoga</span>
+        <span class="w"><span class="sans">duṣprāpaḥ</span> is hard to attain</span>
+        <span class="w"><span class="sans">iti</span> thus</span>
+        <span class="w"><span class="sans">me</span> my</span>
+        <span class="w"><span class="sans">matiḥ</span> view</span>
+        <span class="w"><span class="sans">vaśya-ātmanā</span> by one whose self is controlled</span>
+        <span class="w"><span class="sans">tu</span> but</span>
+        <span class="w"><span class="sans">yatatā</span> who strives</span>
+        <span class="w"><span class="sans">śakyaḥ</span> it can</span>
+        <span class="w"><span class="sans">avāptum</span> be attained</span>
+        <span class="w"><span class="sans">upāyataḥ</span> through the means</span></p>
       <p>Yoga is hard to attain for one who is not self-controlled, I agree; but it can be attained by the right means by one who is self-controlled and strives.</p>
     </details>
     <details class="gloss bhashya">
@@ -1041,7 +1515,19 @@
       <span class="sans">aprāpya yogasaṃsiddhiṃ kāṃ gatiṃ kṛṣṇa gacchati</span><br>
       <span class="num sans">|| 37 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">ayatiḥ</span> one who does not strive</span>
+        <span class="w"><span class="sans">śraddhayā</span> with faith</span>
+        <span class="w"><span class="sans">upetaḥ</span> endowed</span>
+        <span class="w"><span class="sans">yogāt</span> from yoga</span>
+        <span class="w"><span class="sans">calita-mānasaḥ</span> whose mind has strayed</span>
+        <span class="w"><span class="sans">aprāpya</span> not attaining</span>
+        <span class="w"><span class="sans">yoga-saṃsiddhim</span> perfection in yoga</span>
+        <span class="w"><span class="sans">kām</span> to what</span>
+        <span class="w"><span class="sans">gatim</span> end</span>
+        <span class="w"><span class="sans">kṛṣṇa</span> O Kṛṣṇa</span>
+        <span class="w"><span class="sans">gacchati</span> does he go</span></p>
       <p>Arjuna said: One who has faith but does not strive, whose mind has strayed from yoga without attaining perfection in it — what end does he reach, Kṛṣṇa?</p>
     </details>
     <details class="gloss bhashya">
@@ -1059,7 +1545,19 @@
       <span class="sans">apratiṣṭho mahābāho vimūḍho brahmaṇaḥ pathi</span><br>
       <span class="num sans">|| 38 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">kaccit</span> is it that</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">ubhaya-vibhraṣṭaḥ</span> fallen from both</span>
+        <span class="w"><span class="sans">chinna-abhram</span> a broken cloud</span>
+        <span class="w"><span class="sans">iva</span> like</span>
+        <span class="w"><span class="sans">naśyati</span> he perishes</span>
+        <span class="w"><span class="sans">apratiṣṭhaḥ</span> without support</span>
+        <span class="w"><span class="sans">mahā-bāho</span> O mighty-armed</span>
+        <span class="w"><span class="sans">vimūḍhaḥ</span> deluded</span>
+        <span class="w"><span class="sans">brahmaṇaḥ</span> of Brahman</span>
+        <span class="w"><span class="sans">pathi</span> on the path</span></p>
       <p>Fallen from both, does he not perish like a scattered cloud, mighty-armed one, without support and bewildered on the path to Brahman?</p>
     </details>
     <details class="gloss bhashya">
@@ -1075,7 +1573,22 @@
       <span class="sans">tvadanyaḥ saṃśayasyāsya cchettā na hyupapadyate</span><br>
       <span class="num sans">|| 39 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">etat</span> this</span>
+        <span class="w"><span class="sans">me</span> my</span>
+        <span class="w"><span class="sans">saṃśayam</span> doubt</span>
+        <span class="w"><span class="sans">kṛṣṇa</span> O Kṛṣṇa</span>
+        <span class="w"><span class="sans">chettum</span> to cut</span>
+        <span class="w"><span class="sans">arhasi</span> you should</span>
+        <span class="w"><span class="sans">aśeṣataḥ</span> entirely</span>
+        <span class="w"><span class="sans">tvat-anyaḥ</span> other than you</span>
+        <span class="w"><span class="sans">saṃśayasya</span> of doubt</span>
+        <span class="w"><span class="sans">asya</span> this</span>
+        <span class="w"><span class="sans">chettā</span> a remover</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">hi</span> for</span>
+        <span class="w"><span class="sans">upapadyate</span> is to be found</span></p>
       <p>You must dispel this doubt of mine completely, Kṛṣṇa; for there is no one but you who can dispel it.</p>
     </details>
     <details class="gloss bhashya">
@@ -1093,7 +1606,24 @@
       <span class="sans">na hi kalyāṇakṛtkaściddurgatiṃ tāta gacchati</span><br>
       <span class="num sans">|| 40 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">pārtha</span> O Pārtha</span>
+        <span class="w"><span class="sans">na</span> neither</span>
+        <span class="w"><span class="sans">eva</span> indeed</span>
+        <span class="w"><span class="sans">iha</span> here</span>
+        <span class="w"><span class="sans">na</span> nor</span>
+        <span class="w"><span class="sans">amutra</span> hereafter</span>
+        <span class="w"><span class="sans">vināśaḥ</span> ruin</span>
+        <span class="w"><span class="sans">tasya</span> for him</span>
+        <span class="w"><span class="sans">vidyate</span> is there</span>
+        <span class="w"><span class="sans">na</span> not</span>
+        <span class="w"><span class="sans">hi</span> for</span>
+        <span class="w"><span class="sans">kalyāṇa-kṛt</span> one who does good</span>
+        <span class="w"><span class="sans">kaścit</span> anyone</span>
+        <span class="w"><span class="sans">durgatim</span> to a bad end</span>
+        <span class="w"><span class="sans">tāta</span> dear one</span>
+        <span class="w"><span class="sans">gacchati</span> goes</span></p>
       <p>The Blessed Lord said: Neither here nor hereafter is there ruin for him, Pārtha; for no one who does good, my friend, comes to an evil end.</p>
     </details>
     <details class="gloss bhashya">
@@ -1109,7 +1639,19 @@
       <span class="sans">śucīnāṃ śrīmatāṃ gehe yogabhraṣṭo'bhijāyate</span><br>
       <span class="num sans">|| 41 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">prāpya</span> having reached</span>
+        <span class="w"><span class="sans">puṇya-kṛtām</span> of the righteous</span>
+        <span class="w"><span class="sans">lokān</span> the worlds</span>
+        <span class="w"><span class="sans">uṣitvā</span> having dwelt</span>
+        <span class="w"><span class="sans">śāśvatīḥ</span> endless</span>
+        <span class="w"><span class="sans">samāḥ</span> years</span>
+        <span class="w"><span class="sans">śucīnām</span> of the pure</span>
+        <span class="w"><span class="sans">śrīmatām</span> and prosperous</span>
+        <span class="w"><span class="sans">gehe</span> in the home</span>
+        <span class="w"><span class="sans">yoga-bhraṣṭaḥ</span> one fallen from yoga</span>
+        <span class="w"><span class="sans">abhijāyate</span> is born</span></p>
       <p>Having reached the worlds of the doers of merit and dwelt there for countless years, one who has fallen from yoga is born in the house of the pure and prosperous.</p>
     </details>
     <details class="gloss bhashya">
@@ -1127,7 +1669,21 @@
       <span class="sans">etaddhi durlabhataraṃ loke janma yadīdṛśam</span><br>
       <span class="num sans">|| 42 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">athavā</span> or else</span>
+        <span class="w"><span class="sans">yoginām</span> of yogins</span>
+        <span class="w"><span class="sans">eva</span> indeed</span>
+        <span class="w"><span class="sans">kule</span> in a family</span>
+        <span class="w"><span class="sans">bhavati</span> he is born</span>
+        <span class="w"><span class="sans">dhīmatām</span> wise</span>
+        <span class="w"><span class="sans">etat</span> this</span>
+        <span class="w"><span class="sans">hi</span> for</span>
+        <span class="w"><span class="sans">durlabha-taram</span> harder to gain</span>
+        <span class="w"><span class="sans">loke</span> in the world</span>
+        <span class="w"><span class="sans">janma</span> birth</span>
+        <span class="w"><span class="sans">yat</span> which</span>
+        <span class="w"><span class="sans">īdṛśam</span> is such</span></p>
       <p>Or he is born in a family of wise yogins; but a birth such as this is harder to obtain in the world.</p>
     </details>
     <details class="gloss bhashya">
@@ -1143,7 +1699,19 @@
       <span class="sans">yatate ca tato bhūyaḥ saṃsiddhau kurunandana</span><br>
       <span class="num sans">|| 43 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">tatra</span> there</span>
+        <span class="w"><span class="sans">tam</span> that</span>
+        <span class="w"><span class="sans">buddhi-saṃyogam</span> union with the understanding</span>
+        <span class="w"><span class="sans">labhate</span> he regains</span>
+        <span class="w"><span class="sans">paurva-dehikam</span> of his former body</span>
+        <span class="w"><span class="sans">yatate</span> he strives</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">tataḥ</span> from there</span>
+        <span class="w"><span class="sans">bhūyaḥ</span> further</span>
+        <span class="w"><span class="sans">saṃsiddhau</span> for perfection</span>
+        <span class="w"><span class="sans">kuru-nandana</span> O joy of the Kurus</span></p>
       <p>There he regains the understanding cultivated in his former body, and strives on from there once more towards perfection, O joy of the Kurus.</p>
     </details>
     <details class="gloss bhashya">
@@ -1161,7 +1729,21 @@
       <span class="sans">jijñāsurapi yogasya śabdabrahmātivartate</span><br>
       <span class="num sans">|| 44 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">pūrva-abhyāsena</span> by former practice</span>
+        <span class="w"><span class="sans">tena</span> that</span>
+        <span class="w"><span class="sans">eva</span> same</span>
+        <span class="w"><span class="sans">hriyate</span> he is carried along</span>
+        <span class="w"><span class="sans">hi</span> for</span>
+        <span class="w"><span class="sans">avaśaḥ</span> against his will</span>
+        <span class="w"><span class="sans">api</span> even</span>
+        <span class="w"><span class="sans">saḥ</span> he</span>
+        <span class="w"><span class="sans">jijñāsuḥ</span> one who wishes to know</span>
+        <span class="w"><span class="sans">api</span> even</span>
+        <span class="w"><span class="sans">yogasya</span> of yoga</span>
+        <span class="w"><span class="sans">śabda-brahma</span> the Veda's rites</span>
+        <span class="w"><span class="sans">ativartate</span> passes beyond</span></p>
       <p>By that former practice he is carried on even against his will. Even one who merely wishes to know yoga passes beyond the word-Brahman of the Veda.</p>
     </details>
     <details class="gloss bhashya">
@@ -1179,7 +1761,18 @@
       <span class="sans">anekajanmasaṃsiddhastato yāti parāṃ gatim</span><br>
       <span class="num sans">|| 45 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">prayatnāt</span> with effort</span>
+        <span class="w"><span class="sans">yatamānaḥ</span> striving</span>
+        <span class="w"><span class="sans">tu</span> but</span>
+        <span class="w"><span class="sans">yogī</span> the yogin</span>
+        <span class="w"><span class="sans">saṃśuddha-kilbiṣaḥ</span> cleansed of sins</span>
+        <span class="w"><span class="sans">aneka-janma-saṃsiddhaḥ</span> perfected through many births</span>
+        <span class="w"><span class="sans">tataḥ</span> then</span>
+        <span class="w"><span class="sans">yāti</span> goes</span>
+        <span class="w"><span class="sans">parām</span> to the supreme</span>
+        <span class="w"><span class="sans">gatim</span> goal</span></p>
       <p>But the yogin who strives with effort, cleansed of sin, perfected through many births, then reaches the highest goal.</p>
     </details>
     <details class="gloss bhashya">
@@ -1197,7 +1790,23 @@
       <span class="sans">karmibhyaścādhiko yogī tasmādyogī bhavārjuna</span><br>
       <span class="num sans">|| 46 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">tapasvibhyaḥ</span> than ascetics</span>
+        <span class="w"><span class="sans">adhikaḥ</span> greater</span>
+        <span class="w"><span class="sans">yogī</span> the yogin</span>
+        <span class="w"><span class="sans">jñānibhyaḥ</span> than men of knowledge</span>
+        <span class="w"><span class="sans">api</span> even</span>
+        <span class="w"><span class="sans">mataḥ</span> is held</span>
+        <span class="w"><span class="sans">adhikaḥ</span> greater</span>
+        <span class="w"><span class="sans">karmibhyaḥ</span> than men of action</span>
+        <span class="w"><span class="sans">ca</span> and</span>
+        <span class="w"><span class="sans">adhikaḥ</span> greater</span>
+        <span class="w"><span class="sans">yogī</span> the yogin</span>
+        <span class="w"><span class="sans">tasmāt</span> therefore</span>
+        <span class="w"><span class="sans">yogī</span> a yogin</span>
+        <span class="w"><span class="sans">bhava</span> become</span>
+        <span class="w"><span class="sans">arjuna</span> O Arjuna</span></p>
       <p>The yogin is greater than the ascetics, and deemed greater even than the learned; the yogin is greater than those devoted to ritual action. Therefore be a yogin, Arjuna.</p>
     </details>
     <details class="gloss bhashya">
@@ -1215,7 +1824,21 @@
       <span class="sans">śraddhāvān bhajate yo māṃ sa me yuktatamo mataḥ</span><br>
       <span class="num sans">|| 47 ||</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">yoginām</span> of yogins</span>
+        <span class="w"><span class="sans">api</span> even</span>
+        <span class="w"><span class="sans">sarveṣām</span> all</span>
+        <span class="w"><span class="sans">mat-gatena</span> gone to me</span>
+        <span class="w"><span class="sans">antaḥ-ātmanā</span> with his inner self</span>
+        <span class="w"><span class="sans">śraddhāvān</span> full of faith</span>
+        <span class="w"><span class="sans">bhajate</span> worships</span>
+        <span class="w"><span class="sans">yaḥ</span> who</span>
+        <span class="w"><span class="sans">mām</span> me</span>
+        <span class="w"><span class="sans">saḥ</span> he</span>
+        <span class="w"><span class="sans">me</span> by me</span>
+        <span class="w"><span class="sans">yukta-tamaḥ</span> the most disciplined</span>
+        <span class="w"><span class="sans">mataḥ</span> is held</span></p>
       <p>And of all yogins, he who worships me with faith, his inmost self absorbed in me, I hold to be the most disciplined.</p>
     </details>
     <details class="gloss bhashya">
@@ -1665,7 +2288,7 @@
     // still has it, so a stale suggestion never lands on the wrong text.
     var texts = [];
     document.querySelectorAll('header h1, header .subtitle, p.speaker, ' +
-        'details.gloss:not(#contents):not(.bhashya) > p, details.bhashya > p.bh-tr, .colophon-gloss').forEach(function (el){
+        'details.gloss:not(#contents):not(.bhashya) > p:not(.wbw), p.wbw > .w, details.bhashya > p.bh-tr, .colophon-gloss').forEach(function (el){
       if (!el.children.length){ el.classList.add("ed"); texts.push(el); return; }
       [].slice.call(el.childNodes).forEach(function (c){
         if (c.nodeType !== 3 || !c.nodeValue.trim()) return;
