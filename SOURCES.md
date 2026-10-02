@@ -1229,7 +1229,7 @@ word-by-word list (8,901 pairs) at the top of its translation fold. The words
 are the maintainer's own *padaccheda* of the verse, in verse order: sandhi
 resolved, each word in its pausal form (*samavetāḥ*, *kim*, *ca*, *eva*),
 compound members joined by reading-hyphens (*dharma-kṣetre*), which the page
-drops in Devanāgarī and Telugu. The meanings are original, written to agree
+keeps in Devanāgarī and Telugu (धर्म-क्षेत्रे). The meanings are original, written to agree
 with the verse translation and, where a word is disputed, with Śaṅkara's
 reading (7.22 *hi tān*, 13.20 *kārya-karaṇa*). Neither edition's Telugu
 word-glosses were used. A script checks each verse's joined words against the
@@ -1237,6 +1237,37 @@ verse text (sandhi-insensitive similarity), so a dropped or mistyped word shows
 up; all 700 pass, and every word converts cleanly to both scripts. The check
 also caught one misprint in the mūla: 4.37 *kuruterju'na* → *kurute'rjuna*
 (avagraha set after *rju* instead of before *r*).
+
+**Word-by-word glosses for the other stotras (2026-10-02).** The remaining 33
+generated pages and the hand-written Durgā Saptaślokī page carry the same
+lists: 1,388 units, about 26,000 pairs. They are kept apart from the text, in
+`tools/words/<slug>.txt`, one line per verse or prose unit
+(`N  word = meaning | word = meaning`, `N` counting the units of the page from
+1); `build_stotra.py` merges a file into its page when the data file has no
+`words=` of its own. The Durgā Saptaślokī page is the shell the others are
+built from, so its lists are written into the page and
+`tools/words/durga-saptashloki.txt` is the record of them. The conventions
+are those of the Gītā glosses, with these additions:
+
+- Vedic texts (the sūktas, the Upaniṣad, the mantras of the Mahānyāsam and
+  the vratakalpam) are glossed without svara marks.
+- The pages in Telugu (the Annamayya and Rāmadāsu kīrtanas, the daṇḍakams,
+  Gajendra Mokṣam) give the words in Telugu script, unhyphenated.
+- Nāma lists and ritual formulae are glossed as units where a word-level
+  split would say nothing (*oṃ keśavāya namaḥ* = "om, salutation to Keśava").
+- A mantra the page quotes only by its opening and closing words is glossed
+  for the words shown.
+- The words follow the page's reading, also where it differs from the usual
+  one: Kanakadhārā 9 *duṣkarma-dharmam* (usually *-gharmam*), Subrahmaṇya
+  Bhujaṅgam 31 *namaś ca tubhyam* and 32 *pitā*, Lalitā 128 *vara-dā*, and
+  the vratakalpam's *ā satyena* for *ā kṛṣṇena* and *kubjākṛṣṇāmbaradharāya*
+  for *kubjākṛṣṭa-*. These are noted here for a later check against the
+  sources; the text itself was not changed.
+
+The meanings are original. `tools/words_check.py` reports coverage and
+compares each unit's joined words with its text; all units pass except three
+whose text is elided or in close Telugu sandhi (Gajendra Mokṣam 3, Mahānyāsam
+259–260), which were read by hand.
 
 **Bhāṣya translation.** Each Sanskrit paragraph in a fold is followed by its
 English (`<p class="bh-tr">`, italic, set off by a rule on the left); the data

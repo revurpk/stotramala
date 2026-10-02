@@ -402,7 +402,14 @@
       <span class="sans">శ్రీమన్నారాయణ శ్రీమన్నారాయణ</span><br>
       <span class="sans">శ్రీమన్నారాయణ నీ శ్రీపాదమే శరణు</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">శ్రీమన్నారాయణ</span> O glorious Nārāyaṇa</span>
+        <span class="w"><span class="sans">శ్రీమన్నారాయణ</span> O glorious Nārāyaṇa</span>
+        <span class="w"><span class="sans">శ్రీమన్నారాయణ</span> O glorious Nārāyaṇa</span>
+        <span class="w"><span class="sans">నీ</span> your</span>
+        <span class="w"><span class="sans">శ్రీపాదమే</span> holy feet alone</span>
+        <span class="w"><span class="sans">శరణు</span> are my refuge</span></p>
       <p>Śrīman Nārāyaṇa, Śrīman Nārāyaṇa, Śrīman Nārāyaṇa — your holy feet alone are my refuge.</p>
     </details>
   </div>
@@ -414,7 +421,20 @@
       <span class="sans">కమలాసనహిత గరుడగమన శ్రీ</span><br>
       <span class="sans">కమలనాభ నీపదకమలమే శరణు</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">కమలాసతీ</span> of the lady Lakṣmī</span>
+        <span class="w"><span class="sans">ముఖకమల</span> of the lotus face</span>
+        <span class="w"><span class="sans">కమలహిత</span> O sun, friend of the lotus</span>
+        <span class="w"><span class="sans">కమలప్రియ</span> O beloved of Lakṣmī</span>
+        <span class="w"><span class="sans">కమలేక్షణ</span> O lotus-eyed</span>
+        <span class="w"><span class="sans">కమలాసనహిత</span> O well-wisher of Brahmā, who sits on the lotus</span>
+        <span class="w"><span class="sans">గరుడగమన</span> O you who ride on Garuḍa</span>
+        <span class="w"><span class="sans">శ్రీ</span> O glorious</span>
+        <span class="w"><span class="sans">కమలనాభ</span> lotus-navelled one</span>
+        <span class="w"><span class="sans">నీ</span> your</span>
+        <span class="w"><span class="sans">పదకమలమే</span> lotus feet alone</span>
+        <span class="w"><span class="sans">శరణు</span> are my refuge</span></p>
       <p>O sun to the lotus-face of Kamalā your consort; O beloved of the Lotus-lady, O lotus-eyed; O friend of the lotus-seated Brahmā, O rider of Garuḍa; O lotus-naveled Padmanābha — your lotus feet alone are my refuge.</p>
     </details>
   </div>
@@ -426,7 +446,19 @@
       <span class="sans">పరమాత్మ పరమాణురూప శ్రీ</span><br>
       <span class="sans">తిరువేంకటగిరి దేవ శరణు</span></p>
     <details class="gloss">
-      <summary>translation</summary>
+      <summary>word by word · translation</summary>
+      <p class="wbw">
+        <span class="w"><span class="sans">పరమయోగిజన</span> of the great yogins</span>
+        <span class="w"><span class="sans">భాగధేయ</span> O good fortune</span>
+        <span class="w"><span class="sans">శ్రీ</span> O glorious</span>
+        <span class="w"><span class="sans">పరమపూరుష</span> supreme Person</span>
+        <span class="w"><span class="sans">పరాత్పర</span> O higher than the highest</span>
+        <span class="w"><span class="sans">పరమాత్మ</span> O supreme Self</span>
+        <span class="w"><span class="sans">పరమాణురూప</span> O you whose form is the subtlest atom</span>
+        <span class="w"><span class="sans">శ్రీ</span> O holy</span>
+        <span class="w"><span class="sans">తిరువేంకటగిరి</span> of the sacred Veṅkaṭa hill</span>
+        <span class="w"><span class="sans">దేవ</span> O Lord</span>
+        <span class="w"><span class="sans">శరణు</span> you are my refuge</span></p>
       <p>O very fortune of the highest yogis; O supreme Person, higher than the highest; O supreme Self, subtle as the finest atom; O God of holy Veṅkaṭa hill — you are my refuge.</p>
     </details>
   </div>
@@ -891,7 +923,13 @@
       var accented = false;
       nodes.forEach(function (n, i){
         var c = correction(i, sc);
-        var t = c != null ? c : computed(n.getAttribute("data-iast"), sc);
+        var src = n.getAttribute("data-iast");
+        // a word-by-word entry keeps its compound hyphens in every script
+        // (dharma-kṣetre → धर्म-क्षेत्रे), each member converted on its own
+        var t = c != null ? c
+              : n.parentNode.classList.contains("w") && src.indexOf("-") > 0
+                ? src.split("-").map(function (p){ return computed(p, sc); }).join("-")
+                : computed(src, sc);
         if (sc === "tel" && SRC !== "tel" && SVRE.test(t)){ n.innerHTML = telSvaraHTML(t); accented = true; }
         else n.textContent = t;
       });

@@ -40,6 +40,32 @@ types; these are Sanskrit and inside `.sans`, so they render in every script:
 | `{"speaker": "arjuna uvāca"}` | `.speaker` with a `.sans` line | who speaks the verses that follow |
 | `{"colophon": "iti …", "gloss": "Thus ends …"}` | `.colophon` + `.colophon-gloss` | closing colophons, with an English gloss |
 
+**Word-by-word lists for a stotra** go in a sidecar file rather than the data
+file: `tools/words/<slug>.txt`, one line per unit that has `padas`, numbered
+from 1 in page order.
+
+```
+# comment lines start with #
+1 devi = O Goddess | tvam = you | bhakta-su-labhe = easily reached by devotees
+2 śṛṇu = listen | deva = O Lord | pravakṣyāmi = I will tell
+```
+
+- `python tools\words_check.py --dump <slug> [FROM TO]` prints the numbered
+  units to gloss, svara marks removed.
+- Words in verse order, sandhi resolved, pausal forms (final `-m`, `-ḥ`),
+  compound members hyphenated; a long ornate compound may stay one unit.
+  Vedic words without svara marks. A page in Telugu (`src="tel"`) takes
+  Telugu-script words, no hyphens.
+- Follow the page's reading even where the usual text differs, and note the
+  difference in SOURCES.md.
+- The separators are exactly ` = ` and ` | `; a meaning must not contain
+  either. A line the builder cannot parse stops the build.
+- `python tools\words_check.py [<slug>]` reports coverage and flags units
+  whose joined words stray from the text (a dropped or mistyped word). It
+  cannot judge a meaning. Then rebuild the page.
+
+A `words=` given in the data file wins over the sidecar line.
+
 Give commentary paragraphs as prose (no `|`), keep the quotation marks as “ ”
 (the renderer reads `'` and `’` as avagraha), and verify them with the same
 render check as the padas — `verify.py --data` checks padas only.

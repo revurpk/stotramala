@@ -60,6 +60,12 @@ The Gaṇeśa, Viṣṇu, and Advaita stotras are works of Ādi Śaṅkara; see
 [SOURCES.md](SOURCES.md) §5 for provenance. New stotras are generated
 from a small data file by `tools/build_stotra.py`.
 
+Every verse and prose unit has a **word-by-word** list at the top of its
+translation fold: the words unsandhied, each with its English. For the Gītā
+the lists are in the data files; for the other stotras they are in
+`tools/words/<slug>.txt`, and `tools/words_check.py` checks them against the
+text.
+
 Open `index.html` for the browsable list, or open any file in
 `stotra/` directly. The main edition renders the verses in **IAST,
 Devanāgarī, or Telugu** — pick a script from the bar at the top; the

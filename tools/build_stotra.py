@@ -219,11 +219,35 @@ def render_body(st, slug, asset):
     return "\n\n".join(parts)
 
 
+def load_words(slug, st):
+    """Word-by-word glosses kept beside the data file: tools/words/<slug>.txt,
+    one line per verse — `N  word = meaning | word = meaning | …`, where N is
+    the verse's position on the page (1 = the first section with padas).
+    A verse that already has "words" in the data file keeps them."""
+    path = DATA_DIR.parent / "words" / f"{slug}.txt"
+    if not path.exists():
+        return
+    verses = [s for s in st["sections"] if isinstance(s, dict) and "padas" in s]
+    for ln, line in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
+        line = line.strip()
+        if not line or line.startswith("#"):
+            continue
+        try:
+            n, rest = line.split(None, 1)
+            pairs = [[x.strip() for x in item.split(" = ", 1)] for item in rest.split(" | ")]
+            v = verses[int(n) - 1]
+            assert int(n) >= 1 and all(len(p) == 2 and p[0] and p[1] for p in pairs)
+        except Exception:
+            sys.exit(f"{path.name} line {ln}: cannot read word glosses")
+        v.setdefault("words", pairs)
+
+
 def load_data(slug):
     path = DATA_DIR / f"{slug}.py"
     spec = importlib.util.spec_from_file_location(slug.replace("-", "_"), path)
     mod = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(mod)
+    load_words(slug, mod.STOTRA)
     return mod.STOTRA
 
 

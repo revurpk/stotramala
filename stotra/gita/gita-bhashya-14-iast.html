@@ -1694,7 +1694,13 @@
       var accented = false;
       nodes.forEach(function (n, i){
         var c = correction(i, sc);
-        var t = c != null ? c : computed(n.getAttribute("data-iast"), sc);
+        var src = n.getAttribute("data-iast");
+        // a word-by-word entry keeps its compound hyphens in every script
+        // (dharma-kṣetre → धर्म-क्षेत्रे), each member converted on its own
+        var t = c != null ? c
+              : n.parentNode.classList.contains("w") && src.indexOf("-") > 0
+                ? src.split("-").map(function (p){ return computed(p, sc); }).join("-")
+                : computed(src, sc);
         if (sc === "tel" && SRC !== "tel" && SVRE.test(t)){ n.innerHTML = telSvaraHTML(t); accented = true; }
         else n.textContent = t;
       });
