@@ -66,6 +66,21 @@ the lists are in the data files; for the other stotras they are in
 `tools/words/<slug>.txt`, and `tools/words_check.py` checks them against the
 text.
 
+**E-books.** `tools/build_epub.py` makes an EPUB 3 of any selection of pages,
+in Telugu, Devanāgarī or IAST, with the word-by-word lists, translations and
+bhāṣya (each can be left out). It runs the site's own transliterator through
+Node.js (`tools/epub_convert.js`), so it needs Node on PATH. Books go to
+`dist\`, which git ignores.
+
+```powershell
+uv run python tools\build_epub.py --list
+uv run python tools\build_epub.py lingashtakam bilvashtakam --script dev
+uv run python tools\build_epub.py --deity shiva
+uv run python tools\build_epub.py "gita-bhashya-*" --no-bhashya --title "Bhagavad Gītā"
+```
+
+Run `python tools\build_epub.py --help` for the options.
+
 Open `index.html` for the browsable list, or open any file in
 `stotra/` directly. The main edition renders the verses in **IAST,
 Devanāgarī, or Telugu** — pick a script from the bar at the top; the
