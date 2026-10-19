@@ -672,6 +672,24 @@ presentational difference in the source, not a textual one.
 (`zgG-gjioU1g`), verified live via YouTube's oEmbed endpoint. As on all pages,
 this is a plain outbound link, never an embed.
 
+### 5.24 Ardhanārīśvara Stotram — `stotra/shiva/`
+
+| Field | Value |
+|---|---|
+| Source | Sanskrit Wikisource, *अर्धनारीश्वरस्तोत्रम्* (author given as शंकरभगवतः) |
+| URL | `sa.wikisource.org/wiki/अर्धनारीश्वरस्तोत्रम्` |
+| Recorded | 2026-10-18 |
+| Text status | public domain (ancient); attributed to Ādi Śaṅkara |
+| Content | 8 verses to Śivā and Śiva in paired epithets (Upajāti), a phalaśruti (9) and the Śaṅkara colophon |
+
+**Editorial notes.** Verse text exactly as on Wikisource (verse 6 reads
+*nirīśvarāyai*). The title line `॥ अर्धनारीश्वरस्तोत्रम् ॥` becomes the page
+heading. In the colophon the anusvāra before a stop is written as the class
+nasal by site convention (*śrīmacchaṃkara-* → *śrīmacchaṅkara-*), and
+*sampūrṇam* likewise. No recitation link. Translations and the word-by-word
+list (`tools/words/ardhanarishvara-stotram.txt`) are original.
+`verify.py --data`: 18/18 padas pass.
+
 ### 5.23 Recitation links (all pages)
 
 Every page except one carries an optional **recitation link** in its header
@@ -847,6 +865,51 @@ were regenerated.
 | Recorded | 2026-07-27 |
 | Text status | public domain |
 | Content | philosophical kīrtana — everyday life a play, the unseen Reality kaivalya: pallavi + 3 charaṇas. The verse text uses బతుకు (batuku), the page title బదుకు (baduku). |
+
+### 6.11 Rukmiṇī Kalyāṇam — `stotra/vishnu/`
+
+| Field | Value |
+|---|---|
+| Author | Bammera Pōtana, 15th c. |
+| Source (authoritative) | *Bammera Potanamatya Praneeta Sri Mahabhagavatamu, with Commentary*, Vol. VI (Skandha 10-1). Commentary by Dr. Appajodu Venkatasubbaiah, Dr. A.S. Gopal Rao, Sri Prabhala Subrahmanya Sarma, Dr. P. Narasimha Reddy, Vidwan Mudivarthi Kondamacharyulu and Dr. P.R. Harinath; edited by Dr. Samudrala Lakshmanaiah. T.T.D. Religious Publications Series No. 1242, published by Tirumala Tirupati Devasthanams, Tirupati; first edition 2017. © TTD, all rights reserved. PDF supplied by the maintainer. |
+| Recorded | 2026-10-18 |
+| Range | verses 10.1-1680 to 10.1-1792 (book pp. 681–737; PDF pages 757–818): from *రుక్మిణీ కల్యాణ కథాప్రారంభము* to the wedding, with Śuka's closing verses (1790–1791) and the skandha's closing gadya (1792). 113 units: 75 padyams, 38 vacanams. |
+| Text status | Pōtana's verse text is public domain. Only the verses are reproduced; the edition's ప్రతిపదార్థం (word meanings), తాత్పర్యం (paraphrase), విశేషం notes, introduction and index are not used. The English translations and headings are original. |
+
+**Text.** The TTD edition is the authority for every reading. The text was
+taken from the PDF's text layer, set in the Priyaanka DTP font, by
+`scripts/priyaanka.py` (§7.4), reading only Pōtana's lines (PriyaankaBold,
+18 pt; the section titles are 22 pt). For this book the converter gained the
+Mac-Roman forms `∆` `µ` of the ṣa-vattu and u-sign, `€` (ḍa-vattu), `ñ`
+(arasunna ఁ) and `రీ`+`î` (ఠీ) — additions only, so the Gītā conversion is
+unchanged. No reading has been changed; in particular nothing has been
+"corrected" towards Telugu Wikisource or any other edition.
+
+**Conventions (presentation, not text).**
+- The metre labels (క. మ. ఉ. సీ. తే. ఆ. శా. చ. మత్త. మాలిని. గ. వ.) are taken out of
+  the line and named in each translation, e.g. *[Sīsam with tēṭagīti]*. The
+  book labels 1757 *వి.*, a vacanam; the translation calls it a vacanam.
+- Verse lines are the book's lines. Prose (vacanam, gadyam) also keeps the
+  book's line breaks, because the PDF does not record whether a line ends
+  between words or inside one (the book wraps mid-word: *వాఁ / డితూపులం*).
+- Verse numbers are the book's 10.1 series, shown as `॥ 1680 ॥` etc.
+- The six section titles of the book are given as English headings.
+- 1705: the avagraha of *లోకమనోఽభిరాముఁ* is set below the line in the book, and
+  the PDF put it on a row of its own; it is restored in place.
+
+**Check against a witness (2026-10-18).** The converted text was compared
+verse by verse with Telugu Wikisource's Pōtana Bhāgavatam (same numbering).
+20 of 113 units match exactly. Nearly all differences are the two editions'
+own: TTD's ర for ఱ, సేయు for చేయు, placement of arasunna, Wikisource keeping a
+sīsa's pendant verse separately, and genuine variant readings (1702
+*వచ్చితి వయ్య నీవు* / *వచ్చితి రయ్య మీరు*, 1745 without *ఫలంబులు*, 1757 without
+*విస్ఫోటితకపాలంబును*, 1766, 1779, 1781 …). These follow TTD. Seven places
+could in principle be a conversion slip rather than the book's reading and
+have **not yet been checked against the page image**: 1687 *అనయుఁడు* (WS
+*అనఘుఁడు*), 1720 *బుగ్యజుస్సామాథర్వణ* (WS *ఋగ్యజుస్సామ…*), 1771 *హతప్రాయుండై*
+(WS *హతప్రాణుండై*), 1786 *వరమానందము* (WS *పరమానందము*), 1788 *రుక్మిణతోడ*
+(WS *రుక్మిణితోడ*), 1791 *పోషీ* (WS *తోషీ*), and 1757 *వీకీర్ణ* (WS *వికీర్ణ*;
+the page image shows *వీకీర్ణ*, so this one is the book's).
 
 ## 7. Sanskrit work from a scanned modern edition
 

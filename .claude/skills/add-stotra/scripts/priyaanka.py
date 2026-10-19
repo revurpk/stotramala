@@ -112,7 +112,7 @@ SEQ = [  # multi-glyph sequences, rewritten before tokenising (order matters)
     ("|∞∞", "\uE010"), ("|∞¸", "\uE011"),
     ("∞∞", "Ú"), ("∞∂", "¸"),   # some pages double the hook
     ("~°≠", "\uE012"), ("~Ú", "\uE013"), ("~¸", "\uE014"),
-    ("$Ï", "\uE015"), ("÷û", "\uE016"), ("~î", "\uE017"), ("iî", "\uE018"),
+    ("$Ï", "\uE015"), ("÷û", "\uE016"), ("~î", "\uE017"), ("iî", "\uE018"), ("sî", "\uE019"),
 ]
 INDEP.update({"\uE010": "ఋ", "\uE011": "ౠ"})
 BASE.update({"\uE012": "ఝ", "\uE017": "ఠ", "é": "ర"})
@@ -120,8 +120,16 @@ COMPOSITE.update({"m": ("ళ", "ీ"), "o": ("ళ", "ి")})
 SIGN.update({"Á": "ొ", "∏": "ొ", "ô": "ి"})
 VATTU.update({"§": "ళ", "]": "ర"})
 VIRAMA.update("∑π")
-COMPOSITE.update({"\uE013": ("య", "ి"), "\uE014": ("య", "ీ"), "\uE018": ("ఠ", "ి")})
+COMPOSITE.update({"\uE013": ("య", "ి"), "\uE014": ("య", "ీ"), "\uE018": ("ఠ", "ి"), "\uE019": ("ఠ", "ీ")})
 SIGN.update({"\uE015": "ౄ"})
+
+
+# TTD Potana Bhāgavatam (2016), Priyaanka via Mac Roman (SOURCES §8.1): the same
+# glyphs arrive as the maths symbols ∆ µ instead of Greek Δ μ; € is the ḍa
+# vattu (పడ్డారు) and ñ the arasunna ఁ, which Sanskrit-only books never used.
+NORMALISE = {"∆": "Δ", "µ": "μ"}
+VATTU.update({"€": "డ"})
+MOD.update({"ñ": "ఁ"})
 
 
 POST = set(TICK) | set(SIGN) | set(HOOK) | set(VATTU) | VIRAMA | set("èä¶ùÏC")
@@ -129,6 +137,8 @@ POSTSPACE = re.compile(" +([" + re.escape("".join(sorted(POST - {"-"}))) + "])")
 
 
 def convert(text):
+    for a, b in NORMALISE.items():
+        text = text.replace(a, b)
     # the PDF inserts spaces before glyphs that hang off a base (స్మ $తి)
     text = POSTSPACE.sub(r"\1", text)
     for a, b in SEQ:

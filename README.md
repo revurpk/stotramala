@@ -34,6 +34,7 @@ IAST, Devanāgarī, or Telugu (script bar at the top).
 | Veṅkaṭeśvara | Nānāṭi Batuku Nāṭakamu (Annamayya, Telugu) | [read](stotra/venkateshwara/nanati-batuku-iast.html) |
 | Rāma | Paluke Bangāramāyenā (Rāmadāsu, Telugu) | [read](stotra/rama/paluke-bangaramayena-iast.html) |
 | Viṣṇu | Gajendra Mokṣam (Pōtana, Telugu) | [read](stotra/vishnu/gajendra-moksham-iast.html) |
+| Viṣṇu | Rukmiṇī Kalyāṇam (Pōtana, Telugu) — Bhāgavatam 10.1-1680…1792, TTD edition | [read](stotra/vishnu/rukmini-kalyanam-iast.html) |
 | Hanumān | Āñjaneya Daṇḍakam (Telugu) | [read](stotra/hanuman/anjaneya-dandakam-iast.html) |
 | Viṣṇu | Narasiṃha Daṇḍakam (Telugu) | [read](stotra/vishnu/narasimha-dandakam-iast.html) |
 | Viṣṇu | Madhurāṣṭakam | [read](stotra/vishnu/madhurashtakam-iast.html) |
@@ -41,6 +42,7 @@ IAST, Devanāgarī, or Telugu (script bar at the top).
 | Rāma | Śrī Rāma Rakṣā Stotram | [read](stotra/rama/rama-raksha-stotram-iast.html) |
 | Śiva | Śiva Mānasa Pūjā | [read](stotra/shiva/shiva-manasa-puja-iast.html) |
 | Śiva | Liṅgāṣṭakam | [read](stotra/shiva/lingashtakam-iast.html) |
+| Śiva | Ardhanārīśvara Stotram (Śaṅkara) | [read](stotra/shiva/ardhanarishvara-stotram-iast.html) |
 | Śiva | Bilvāṣṭakam | [read](stotra/shiva/bilvashtakam-iast.html) |
 | Subrahmaṇya | Śrī Subrahmaṇya Bhujaṅgam | [read](stotra/subrahmanya/subrahmanya-bhujangam-iast.html) |
 | Advaita | Nirvāṇa Ṣaṭkam | [read](stotra/advaita/nirvana-shatkam-iast.html) |
