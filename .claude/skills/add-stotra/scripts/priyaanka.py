@@ -136,7 +136,12 @@ POST = set(TICK) | set(SIGN) | set(HOOK) | set(VATTU) | VIRAMA | set("èä¶ùÏ
 POSTSPACE = re.compile(" +([" + re.escape("".join(sorted(POST - {"-"}))) + "])")
 
 
-def convert(text):
+def convert(text, alveolar_ra=False):
+    """alveolar_ra: the TTD Bhāgavatam's glyph usage (SOURCES §6.11) — read é
+    as ఱ (plain ర is ~), and the two-glyph |Ú as ఋ (elsewhere |∞∞). The
+    Sanskrit Gītā book has no ఱ and keeps é as ర."""
+    if alveolar_ra:
+        text = text.replace("|Ú", "")
     for a, b in NORMALISE.items():
         text = text.replace(a, b)
     # the PDF inserts spaces before glyphs that hang off a base (స్మ $తి)
@@ -161,7 +166,7 @@ def convert(text):
         if c in BASE or c in COMPOSITE or c in INDEP:
             flush()
             if c in BASE:
-                cur = Ak(BASE[c])
+                cur = Ak("ఱ" if alveolar_ra and c == "é" else BASE[c])
             elif c in COMPOSITE:
                 b, s = COMPOSITE[c]
                 cur = Ak(b)

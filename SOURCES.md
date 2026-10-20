@@ -882,7 +882,9 @@ taken from the PDF's text layer, set in the Priyaanka DTP font, by
 18 pt; the section titles are 22 pt). For this book the converter gained the
 Mac-Roman forms `∆` `µ` of the ṣa-vattu and u-sign, `€` (ḍa-vattu), `ñ`
 (arasunna ఁ) and `రీ`+`î` (ఠీ) — additions only, so the Gītā conversion is
-unchanged. No reading has been changed; in particular nothing has been
+unchanged. It is run with `alveolar_ra=True`, which reads this book's glyph
+`é` as **ఱ** (plain ర is `~`; the Gītā book has no ఱ and keeps `é` as ర) and
+its two-glyph `|Ú` as ఋ (one occurrence, 1720). No reading has been changed; in particular nothing has been
 "corrected" towards Telugu Wikisource or any other edition.
 
 **Conventions (presentation, not text).**
@@ -906,17 +908,32 @@ of the vacanams are glossed as units. The meanings are original.
 
 **Check against a witness (2026-10-18).** The converted text was compared
 verse by verse with Telugu Wikisource's Pōtana Bhāgavatam (same numbering).
-20 of 113 units match exactly. Nearly all differences are the two editions'
-own: TTD's ర for ఱ, సేయు for చేయు, placement of arasunna, Wikisource keeping a
-sīsa's pendant verse separately, and genuine variant readings (1702
-*వచ్చితి వయ్య నీవు* / *వచ్చితి రయ్య మీరు*, 1745 without *ఫలంబులు*, 1757 without
-*విస్ఫోటితకపాలంబును*, 1766, 1779, 1781 …). These follow TTD. Seven places
-could in principle be a conversion slip rather than the book's reading and
-have **not yet been checked against the page image**: 1687 *అనయుఁడు* (WS
-*అనఘుఁడు*), 1720 *బుగ్యజుస్సామాథర్వణ* (WS *ఋగ్యజుస్సామ…*), 1771 *హతప్రాయుండై*
-(WS *హతప్రాణుండై*), 1786 *వరమానందము* (WS *పరమానందము*), 1788 *రుక్మిణతోడ*
-(WS *రుక్మిణితోడ*), 1791 *పోషీ* (WS *తోషీ*), and 1757 *వీకీర్ణ* (WS *వికీర్ణ*;
-the page image shows *వీకీర్ణ*, so this one is the book's).
+After the two conversion fixes below, 27 of 113 units match exactly. The
+remaining differences are the two editions' own: సేయు for చేయు, placement of
+arasunna, Wikisource keeping a sīsa's pendant verse separately, and genuine
+variant readings (1702 *వచ్చితి వయ్య నీవు* / *వచ్చితి రయ్య మీరు*, 1745 without
+*ఫలంబులు*, 1757 without *విస్ఫోటితకపాలంబును*, 1766, 1779, 1781 …). These
+follow TTD.
+
+**Checked against the page images (2026-10-20).** The seven places where the
+comparison could have hidden a conversion slip were read in the PDF's page
+images (400 dpi crops of the verse lines):
+
+| Verse | Book prints | Wikisource | Result |
+|---|---|---|---|
+| 1687 | అనయుఁడు | అనఘుఁడు | book's reading, kept |
+| 1720 | ఋగ్యజుస్సామాథర్వణ | ఋగ్యజుస్సామ… | **conversion slip** (బు) — fixed |
+| 1757 | వీకీర్ణ | వికీర్ణ | book's reading, kept |
+| 1771 | హతప్రాయుండై | హతప్రాణుండై | book's reading, kept |
+| 1786 | వరమానందము | పరమానందము | book's reading, kept |
+| 1788 | రుక్మిణతోడ | రుక్మిణితోడ | book's reading, kept |
+| 1791 | పోషీ | తోషీ | book's reading, kept |
+
+The images also showed that the book **does** print ఱ (చిఱునగవు, గొఱిగి,
+తెఱఁగున, కొఱకు, మఱియు …), which the first conversion had turned into ర; the
+earlier note here that TTD "writes ర for ఱ" was wrong. All 80 ఱ are restored
+(78 words in the word list), and a check confirmed the text changed by
+ర → ఱ alone. No ర-against-ఱ difference with Wikisource remains.
 
 ## 7. Sanskrit work from a scanned modern edition
 
