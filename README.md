@@ -69,8 +69,10 @@ the lists are in the data files; for the other stotras they are in
 text.
 
 **E-books.** `tools/build_epub.py` makes an EPUB 3 of any selection of pages,
-in Telugu, Devanāgarī or IAST, with the word-by-word lists, translations and
-bhāṣya (each can be left out). It runs the site's own transliterator through
+in Telugu (the default), Devanāgarī or IAST (`--script tel|dev|iast`), with
+the word-by-word lists, translations and bhāṣya (each can be left out). As on
+the site, these sit in collapsible folds under each verse; readers without
+fold support show them open, and `--no-fold` makes them always open. It runs the site's own transliterator through
 Node.js (`tools/epub_convert.js`), so it needs Node on PATH. Books go to
 `dist\`, which git ignores.
 

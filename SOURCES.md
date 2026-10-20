@@ -897,6 +897,13 @@ unchanged. No reading has been changed; in particular nothing has been
 - 1705: the avagraha of *లోకమనోఽభిరాముఁ* is set below the line in the book, and
   the PDF put it on a row of its own; it is restored in place.
 
+**Word-by-word lists (2026-10-19).** All 113 units carry a list in
+`tools/words/rukmini-kalyanam.txt`, made from the TTD text by the Telugu-page
+conventions (§6, and the note after §7.4): Telugu-script words, unhyphenated,
+with the sandhi resolved (*డమరేంద్రు* → *అమరేంద్రున్*); the long prose compounds
+of the vacanams are glossed as units. The meanings are original.
+`words_check.py` passes all 113.
+
 **Check against a witness (2026-10-18).** The converted text was compared
 verse by verse with Telugu Wikisource's Pōtana Bhāgavatam (same numbering).
 20 of 113 units match exactly. Nearly all differences are the two editions'

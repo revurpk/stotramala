@@ -20,7 +20,10 @@ folders; --all takes every page. Pages appear in the order given, and in
 index.html order for --all and --deity.
 
 Options:
-    --script tel|dev|iast   script of the Sanskrit (default tel)
+    --script tel|dev|iast   Telugu, Devanāgarī or IAST (default: tel, Telugu)
+    --no-fold               show word-by-word lists, translations and bhāṣya
+                            open, instead of in collapsible folds (the default;
+                            readers without fold support show them open anyway)
     --title T               book title (default from the selection)
     --out FILE              output path (default dist/<selection>-<script>.epub)
     --no-words              leave out the word-by-word lists
@@ -189,6 +192,9 @@ class Writer:
             return False
         if n.tag == "details" and "bhashya" in n.cls and self.o.no_bhashya:
             return False
+        if (n.tag == "details" and "bhashya" not in n.cls and self.o.no_translation
+                and (self.o.no_words or not n.find(lambda k: "wbw" in k.cls))):
+            return False                      # a fold with nothing left in it
         if (n.tag == "p" and self.o.no_translation and n.parent is not None
                 and n.parent.tag == "details" and "bhashya" not in n.parent.cls
                 and "wbw" not in n.cls):
@@ -213,13 +219,20 @@ class Writer:
             for k in n.kids:
                 self.node(k)
             return
-        if tag == "summary":                  # a fold's label; only bhāṣya folds keep one
+        if tag == "summary":                  # a fold's label
             d = n.parent
-            if d is not None and "bhashya" in d.cls:
+            bh = d is not None and "bhashya" in d.cls
+            if not self.o.no_fold:            # keep the fold, as on the page
+                label = n.text().strip() if bh else " · ".join(
+                    x for x, off in (("word by word", self.o.no_words or not d.find(
+                        lambda k: "wbw" in k.cls)), ("translation", self.o.no_translation)) if not off)
+                self.emit(f"<summary>{self.esc(label)}</summary>")
+                return
+            if bh:                            # flat: only bhāṣya folds keep a label
                 tag, cls = "p", {"fold-title"}
             else:
                 return
-        if tag == "details":
+        if tag == "details" and self.o.no_fold:
             tag = "div"
         heading = tag == "p" and "speaker" in cls and not n.find(lambda k: "sans" in k.cls)
         if heading:                           # an English section heading
@@ -304,6 +317,9 @@ p.wbw{text-align:left;font-size:.92em;line-height:1.6;}
 .sep{color:#888;}
 .speaker{text-align:center;font-style:italic;margin:1.6em 0 .4em;}
 .fold-title{font-variant:small-caps;letter-spacing:.06em;color:#666;margin:1em 0 .3em;}
+details{margin:.3em 0 0;}
+summary{cursor:pointer;font-variant:small-caps;letter-spacing:.06em;color:#8a5a2b;font-size:.85em;text-align:center;margin:.2em 0;}
+details[open] > summary{margin-bottom:.4em;}
 .bhashya p{text-align:justify;}
 .bh-intro{opacity:.85;}
 .bh-tr{font-style:italic;margin-left:1em;padding-left:.6em;border-left:2px solid #ccc;}
@@ -402,10 +418,11 @@ def main(argv):
     ap.add_argument("--deity", action="append", default=[], help="a folder under stotra/, e.g. shiva")
     ap.add_argument("--all", action="store_true")
     ap.add_argument("--list", action="store_true", help="list the pages and stop")
-    ap.add_argument("--script", choices=SCRIPTS, default="tel")
+    ap.add_argument("--script", choices=SCRIPTS, default="tel",
+                    help="tel = Telugu (default), dev = Devanāgarī, iast = IAST")
     ap.add_argument("--title")
     ap.add_argument("--out")
-    for f in ("words", "translation", "bhashya", "svara", "font"):
+    for f in ("words", "translation", "bhashya", "svara", "font", "fold"):
         ap.add_argument(f"--no-{f}", action="store_true")
     o = ap.parse_args(argv)
     cat = catalogue()
@@ -450,7 +467,7 @@ def main(argv):
 
     files, nav = build(sel, cat, o)
     lang = {"tel": "sa-Telu", "dev": "sa-Deva", "iast": "sa-Latn"}[o.script]
-    flags = ",".join(f for f in ("words", "translation", "bhashya", "svara") if getattr(o, f"no_{f}"))
+    flags = ",".join(f for f in ("words", "translation", "bhashya", "svara", "fold") if getattr(o, f"no_{f}"))
     uid = "urn:uuid:" + str(uuid.uuid5(uuid.NAMESPACE_URL, f"stotramala:{o.script}:{flags}:{','.join(sel)}"))
     modified = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
