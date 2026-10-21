@@ -120,7 +120,8 @@ COMPOSITE.update({"m": ("ళ", "ీ"), "o": ("ళ", "ి")})
 SIGN.update({"Á": "ొ", "∏": "ొ", "ô": "ి"})
 VATTU.update({"§": "ళ", "]": "ర"})
 VIRAMA.update("∑π")
-COMPOSITE.update({"\uE013": ("య", "ి"), "\uE014": ("య", "ీ"), "\uE018": ("ఠ", "ి"), "\uE019": ("ఠ", "ీ")})
+COMPOSITE.update({"\uE013": ("య", "ి"), "\uE014": ("య", "ీ"), "\uE018": ("ఠ", "ి"), "\uE019": ("ఠ", "ీ"),
+                  "\uE01A": ("ఝ", "ి")})
 SIGN.update({"\uE015": "ౄ"})
 
 
@@ -141,7 +142,7 @@ def convert(text, alveolar_ra=False):
     as ఱ (plain ర is ~), and the two-glyph |Ú as ఋ (elsewhere |∞∞). The
     Sanskrit Gītā book has no ఱ and keeps é as ర."""
     if alveolar_ra:
-        text = text.replace("|Ú", "")
+        text = text.replace("|Ú", "").replace("i≠", "")   # ఋ; ఝి (ఝిల్లీ)
     for a, b in NORMALISE.items():
         text = text.replace(a, b)
     # the PDF inserts spaces before glyphs that hang off a base (స్మ $తి)
