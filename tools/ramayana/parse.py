@@ -30,7 +30,23 @@ def clean(x):
     x = re.sub(r"<ref.*?</ref>", "", x, flags=re.S)
     x = re.sub(r"[‌‍﻿”’“‘]", "", x)   # zero-width marks hide ॥ N ॥ (Yuddha 117); stray quotes
     x = re.sub(r"((?:॥|।।)\s*[०-९0-9]+\s*(?:॥|।।))\s*\(\d+\)", r"\1", x)   # "॥ १॥(4)"
-    lines = [l.strip() for l in x.split("\n")]
+    x = re.sub(r"\[https?://\S+[^\]]*\]", "", x)          # inline links to outside notes
+    x = x.replace("ऺ", "")                           # a stray sign typed through Ayodhyā 89–119
+    n_colon = len(re.findall(r"(?<=[ऀ-ॿ]):", x))
+    x = re.sub(r"(?<=[ऀ-ॿ]):", "ः", x)           # visarga typed as a colon (same sargas)
+    if n_colon:
+        MIDLOG.append(f"{n_colon} visargas typed as “:” restored")
+    lines = []
+    for l in x.split("\n"):
+        l = l.strip().lstrip(":").strip()                 # "::" indents a long-metre line
+        if re.search(r"[A-Za-z]{3}", l) or re.match(r"^[०-९]{3}\s", l) or re.fullmatch(r"\(.*\)", l):
+            if l:
+                MIDLOG.append(f"dropped non-text line “{l[:50]}”")
+            continue                                      # audio-player text, a reciter's credit
+        for g in re.findall(r"\s*\([^)]*\)", l):
+            MIDLOG.append(f"bracketed note “{g.strip()}” removed")
+        l = re.sub(r"\s*\([^)]*\)", "", l)
+        lines.append(l)
     # a number inside a line ends a verse there; what follows is either the next
     # verse's start or (Uttara) a stray copy of nearby text, dropped when it is
     out = []
@@ -69,6 +85,9 @@ def repair(verses, where, log):
         k = n - prev                      # e.g. prev 2, this 4 → it holds 3 and 4
         if n == prev and (nxt is None or nxt == prev + 2):
             out.append([prev + 1, ls]); log.append(f"{where}: second {n} read as {prev + 1}")
+            prev += 1; continue
+        if n != prev + 1 and nxt == prev + 2 and len(ls) == 2:   # 2, 13, 4 → the 13 is 3
+            out.append([prev + 1, ls]); log.append(f"{where}: number {n} between {prev} and {nxt} read as {prev + 1}")
             prev += 1; continue
         if n == prev + 2 and nxt == n and len(ls) == 2:     # 13, 15, 15 → the first 15 is 14
             out.append([prev + 1, ls]); log.append(f"{where}: first {n} read as {prev + 1}")
