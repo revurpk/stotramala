@@ -935,6 +935,55 @@ earlier note here that TTD "writes ర for ఱ" was wrong. All 80 ఱ are restor
 (78 words in the word list), and a check confirmed the text changed by
 ర → ఱ alone. No ర-against-ఱ difference with Wikisource remains.
 
+### 6.12 Pōtana Bhāgavatam (the whole work) — `stotra/bhagavatam/`
+
+| Field | Value |
+|---|---|
+| Author | Bammera Pōtana, 15th c. (with the portions traditionally ascribed to his successors, as the edition prints them) |
+| Source (authoritative) | *Bammera Potanamatya Praneeta Sri Mahabhagavatamu, with Commentary*, Vols. I–VIII, T.T.D. Religious Publications Series Nos. 1237–1244, Tirumala Tirupati Devasthanams, Tirupati; first edition 2017. Vols. I–II ed. Vidwan Mudivarthi Kondamacharyulu; III–VIII ed. Dr. Samudrala Lakshmanaiah. © TTD, all rights reserved. PDFs supplied by the maintainer. |
+| Recorded | 2026-10-21 |
+| Range | all twelve skandhas, 9,010 units in the book's numbering per part (1: 529 · 2: 288 · 3: 1,055 · 4: 977 · 5.1: 184 · 5.2: 168 · 6: 530 · 7: 482 · 8: 744 · 9: 737 · 10.1: 1,792 · 10.2: 1,343 · 11: 127 · 12: 54) |
+| Text status | Pōtana's verse text is public domain. Only the verses are reproduced; the edition's ప్రతిపదార్థం, తాత్పర్యం, విశేషం, introductions, story summaries and indexes are not used, nor are its section titles (the English headings in `tools/bhagavatam/headings.tsv` are original). |
+
+**Text.** Extracted from the eight PDFs by `tools/bhagavatam/extract.py`, which
+reads only Pōtana's lines (PriyaankaBold, 17–19.7 pt), the margin verse
+numbers and the running heads that name the skandha, and converts them with
+`priyaanka.py` (`alveolar_ra=True`, as for §6.11; it gained `i≠` → ఝి for this
+work). An audit found every part's numbering complete, with no gaps, repeats
+or unconverted glyphs. The extractor's own repairs:
+- each part's opening verse begins with a 25-pt drop-cap శ్రీ, which is
+  restored to the line (the book prints no metre label on these verses);
+- a unit split across a page turn is rejoined; bare commentary labels set at
+  verse size, and the closing *శ్రీకృష్ణార్పణమస్తు*, are dropped;
+- 10.2-275 *ధాతునిర్ఝరరంజిత*: the text layer lacks the ఝ, which was read
+  from the page image.
+
+The reviewed Rukmiṇī Kalyāṇam text (§6.11) is reproduced exactly: 113 of 113.
+
+**Check against a witness (2026-10-21).** All units were compared with Telugu
+Wikisource's Pōtana Bhāgavatam (8,990 verses, fetched once, politely, for
+comparison only), allowing for the two editions' numbering drifting by up to
+eight. The commonest differences are the editions' spelling: TTD prints the
+sandhi changes (చ→స, క→గ, త→ద, ప→వ/బ: *సముల్ సనునెడ*), ై where Wikisource has
+యి and the reverse, and differs in placing arasunna. There is no sign of a
+systematic glyph error. The units with no close match are short vacanams
+(*మఱియును*, *అంత*) or stretches where the numbering drifts further. As with
+§6.11, no reading is changed towards Wikisource.
+
+**Presentation.**
+- Pages hold whole story sections, at most about 120 units, and a longer
+  section is split into "(continued)" pieces. Each part (skandha, or āśvāsa /
+  half for 5 and 10) has a contents page, and `bhagavatam-iast.html` lists the
+  parts. Links run through the whole work.
+- Unlike §6.11, each unit keeps the book's metre label at its head (*క.*, *సీ.*,
+  *వ.* …), since there is no translation yet to name it in; a vacanam or gadyam
+  is set as prose. Lines are the book's lines; numbers are the book's, `॥ N ॥`.
+- Text first: translations and word lists will be added over time. Verses
+  10.1-1680…1792 already carry the Rukmiṇī Kalyāṇam translations and word
+  lists, and 8-71, 73–77, 90 and 96 the Gajendra Mokṣam translations.
+- The data files (`tools/stotras/bhagavatam-*.py`) were written by
+  `tools/bhagavatam/gen.py` and are now the source to edit.
+
 ## 7. Sanskrit work from a scanned modern edition
 
 ### 7.1 Vedānta Ḍiṇḍima — `stotra/advaita/`

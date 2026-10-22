@@ -278,8 +278,8 @@ def main(argv):
     top = []
     for row, pages in plan:
         n_units = sum(len(us) for page in pages for _, us in page)
-        first = pages[0][0][0] if pages[0][0][0] != "Invocation" else pages[0][1][0] if len(pages[0]) > 1 else ""
-        top.append((row[2], f"bhagavatam-{row[1]}-iast.html", f"{n_units} verses · {len(pages)} pages · from “{first}”"))
+        top.append((row[2], f"bhagavatam-{row[1]}-iast.html",
+                    f"{n_units:,} verses · {len(pages)} page{'s' if len(pages) > 1 else ''}"))
     st = {"src": "tel", "deity": "bhagavatam",
           "doc_title": "Pōtana Bhāgavatam", "app_title": "Pōtana Bhāgavatam",
           "h1": "Pōtana Bhāgavatam",
