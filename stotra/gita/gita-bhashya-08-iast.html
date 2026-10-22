@@ -374,6 +374,24 @@
   }
   .add-card button{font:inherit;font-size:.72rem;margin-top:.5rem;cursor:pointer;color:var(--ink-soft);
     background:transparent;border:1px solid var(--rule);border-radius:2rem;padding:.15rem .7rem;}
+
+  /* ---- Favourite and bookmark (kept in this browser only) ---- */
+  .om a{color:inherit;text-decoration:none;}
+  .scriptbar .marks{display:flex;gap:.3rem;margin-left:.3rem;}
+  @media (min-width:40rem){
+    .scriptbar .marks{position:absolute;right:.9rem;bottom:.55rem;margin:0;}
+  }
+  .scriptbar .marks button{padding:.32rem .55rem;min-width:2.1rem;}
+  .scriptbar .marks svg{width:.8rem;height:.8rem;vertical-align:-.1rem;display:inline-block;}
+  .scriptbar .marks button.on svg{fill:currentColor;}
+  .verse.bm::before{content:"";display:block;width:2.4rem;height:2px;margin:0 auto .7rem;background:var(--accent);}
+  .marktoast{position:fixed;left:50%;bottom:calc(env(safe-area-inset-bottom) + 1rem);transform:translateX(-50%);
+    z-index:6;display:flex;align-items:center;gap:.8rem;max-width:calc(100% - 2rem);
+    background:var(--paper);color:var(--ink);border:1px solid var(--rule);border-radius:2rem;
+    padding:.45rem 1rem;font-size:.82rem;line-height:1.3;box-shadow:0 2px 12px rgba(0,0,0,.14);}
+  .marktoast[hidden]{display:none;}
+  .marktoast button{font:inherit;background:none;border:0;padding:0;cursor:pointer;color:var(--accent);}
+  .marktoast button.x{color:var(--ink-soft);}
 </style>
 </head>
 <body>
@@ -382,12 +400,16 @@
   <button type="button" data-script="iast" class="on" aria-pressed="true">IAST</button>
   <button type="button" data-script="dev" lang="hi" aria-pressed="false">देवनागरी</button>
   <button type="button" data-script="tel" lang="te" aria-pressed="false">తెలుగు</button>
+  <span class="marks">
+    <button type="button" id="favBtn" aria-pressed="false" aria-label="Favourite" title="add to favourites (this device)">☆</button>
+    <button type="button" id="markBtn" aria-pressed="false" aria-label="Bookmark" title="bookmark the verse you are reading"><svg viewBox="0 0 12 16" aria-hidden="true"><path d="M1.5 1.5h9v13L6 11l-4.5 3.5z" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/></svg></button>
+  </span>
 </nav>
 
 <main class="page">
 
   <header>
-    <div class="om">ॐ</div>
+    <div class="om"><a href="../../index.html" title="all stotras">ॐ</a></div>
     <h1>Bhagavad Gītā · Chapter 8</h1>
     <p class="subtitle">Akṣarabrahma Yoga · the imperishable Brahman · with Śaṅkara's bhāṣya</p>
     <hr class="titlerule">
@@ -1897,6 +1919,108 @@
     if (SRC === "tel" && start === "dev") start = "tel";   // dev not offered here
     render(start);
     if (location.hash === "#review") setReview(true);
+  })();
+</script>
+
+<script>
+  /* Favourites and bookmarks, kept in this browser only (localStorage) and
+     listed on the index page; nothing is sent anywhere. The star marks the
+     page as a favourite. The bookmark is the verse at the top of the screen
+     when it is pressed; reopening the page offers to resume there, and the
+     index's link (#resume) goes straight to it. */
+  (function (){
+    "use strict";
+    var fav = document.getElementById("favBtn"), mark = document.getElementById("markBtn");
+    if (!fav || !mark) return;
+    var FK = "stotra-favourites", BK = "stotra-bookmarks";
+    function load(k, d){ try { return JSON.parse(localStorage.getItem(k)) || d; } catch (e){ return d; } }
+    function save(k, v){ try { localStorage.setItem(k, JSON.stringify(v)); return true; } catch (e){ return false; } }
+    // this page's path from the site root, found from the root-relative icon link
+    var icon = document.querySelector('link[rel="apple-touch-icon"]');
+    var root = icon ? new URL(icon.getAttribute("href"), location.href).pathname.replace(/[^\/]*$/, "") : "/";
+    var path = location.pathname.indexOf(root) === 0 ? location.pathname.slice(root.length) : location.pathname;
+    var title = document.title;
+
+    var tEl, tTimer;
+    function hide(){ if (tEl) tEl.hidden = true; }
+    function toast(msg, act, fn, ms){
+      if (!tEl){
+        tEl = document.createElement("div"); tEl.className = "marktoast";
+        tEl.setAttribute("role", "status"); document.body.appendChild(tEl);
+      }
+      tEl.textContent = "";
+      var s = document.createElement("span"); s.textContent = msg; tEl.appendChild(s);
+      if (act){
+        var b = document.createElement("button"); b.type = "button"; b.textContent = act;
+        b.addEventListener("click", function (){ hide(); fn(); }); tEl.appendChild(b);
+      }
+      var x = document.createElement("button"); x.type = "button"; x.className = "x";
+      x.textContent = "✕"; x.setAttribute("aria-label", "close");
+      x.addEventListener("click", hide); tEl.appendChild(x);
+      tEl.hidden = false; clearTimeout(tTimer); tTimer = setTimeout(hide, ms || 4000);
+    }
+    var NOSTORE = "This browser is not keeping data for this site";
+
+    function isFav(){ return load(FK, []).some(function (f){ return f.path === path; }); }
+    function showFav(){
+      var on = isFav();
+      fav.textContent = on ? "★" : "☆"; fav.classList.toggle("on", on);
+      fav.setAttribute("aria-pressed", on ? "true" : "false");
+      fav.title = on ? "remove from favourites" : "add to favourites (this device)";
+    }
+    fav.addEventListener("click", function (){
+      var adding = !isFav();
+      var l = load(FK, []).filter(function (f){ return f.path !== path; });
+      if (adding) l.unshift({ path: path, title: title, t: Date.now() });
+      if (!save(FK, l)) return toast(NOSTORE);
+      showFav(); toast(adding ? "Added to favourites" : "Removed from favourites");
+    });
+
+    var verses = [].slice.call(document.querySelectorAll("main .verse"));
+    function barBottom(){ var b = document.querySelector(".scriptbar"); return b ? b.getBoundingClientRect().bottom : 0; }
+    function current(){
+      var top = barBottom() + 8;
+      for (var i = 0; i < verses.length; i++) if (verses[i].getBoundingClientRect().bottom > top) return i;
+      return verses.length - 1;
+    }
+    function label(i){
+      var n = verses[i] && verses[i].querySelector(".num");
+      var t = n && (n.getAttribute("data-iast") || n.textContent).trim();
+      return t || "verse " + (i + 1);
+    }
+    function getMark(){ var m = load(BK, {})[path]; return m && verses[m.i] ? m : null; }
+    function setMark(m){ var all = load(BK, {}); if (m) all[path] = m; else delete all[path]; return save(BK, all); }
+    function showMark(){
+      var m = getMark();
+      verses.forEach(function (v, i){ v.classList.toggle("bm", !!m && m.i === i); });
+      mark.classList.toggle("on", !!m); mark.setAttribute("aria-pressed", m ? "true" : "false");
+      mark.title = m ? "bookmarked at " + m.label + " — press to move it to the verse you are reading"
+                     : "bookmark the verse you are reading";
+    }
+    function go(i, now){
+      var v = verses[i]; if (!v) return;
+      window.scrollTo({ top: v.getBoundingClientRect().top + window.pageYOffset - barBottom() - 14, behavior: now ? "auto" : "smooth" });
+    }
+    mark.addEventListener("click", function (){
+      if (!verses.length) return toast("This page has no verses to bookmark");
+      var i = current(), m = { i: i, label: label(i), title: title, t: Date.now() };
+      if (!setMark(m)) return toast(NOSTORE);
+      showMark();
+      toast("Bookmarked at " + m.label, "remove", function (){ setMark(null); showMark(); toast("Bookmark removed"); });
+    });
+
+    showFav(); showMark();
+    var m = getMark();
+    if (m && location.hash === "#resume"){
+      // after the web font has laid the page out, so the verse stays put
+      window.addEventListener("load", function (){
+        (document.fonts && document.fonts.ready ? document.fonts.ready : Promise.resolve())
+          .then(function (){ go(m.i, true); });
+      });
+      if (history.replaceState) history.replaceState(null, "", location.pathname + location.search);
+    } else if (m && !location.hash){
+      toast("Bookmarked at " + m.label, "resume", function (){ go(m.i); }, 9000);
+    }
   })();
 </script>
 

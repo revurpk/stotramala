@@ -121,6 +121,18 @@
   .search input::placeholder{color:var(--ink-soft);opacity:.85;}
   .noresults{display:none;color:var(--ink-soft);font-style:italic;text-align:center;margin:2rem 0;}
   .hidden{display:none !important;}
+
+  /* ---- Favourites and bookmarks (this browser only; filled by script) ---- */
+  .mine[hidden]{display:none;}
+  .mine .label{font-variant:small-caps;letter-spacing:.15em;font-size:.82rem;color:var(--accent);margin:1.6rem 0 .4rem;}
+  .mine ul{list-style:none;margin:0;padding:0;border-top:1px solid var(--rule);}
+  .mine li{display:flex;align-items:baseline;gap:.6rem;padding:.55rem 0;border-bottom:1px solid var(--rule);}
+  .mine li a{flex:1;color:var(--ink);text-decoration:none;}
+  .mine li a:hover,.mine li a:focus{color:var(--accent);}
+  .mine li .at{display:block;font-size:.82rem;font-style:italic;color:var(--ink-soft);}
+  .mine li button{font:inherit;font-size:.8rem;background:none;border:0;padding:0 .2rem;cursor:pointer;color:var(--ink-soft);}
+  .mine li button:hover{color:var(--accent);}
+  .mine .hint{font-size:.78rem;color:var(--ink-soft);font-style:italic;margin:.5rem 0 0;}
 </style>
 </head>
 <body>
@@ -140,6 +152,12 @@
       aria-label="Search stotras">
   </div>
   <p class="noresults" id="noresults">No stotra matches that search.</p>
+
+  <section class="mine" id="mine" hidden aria-label="Your favourites and bookmarks">
+    <div id="favs" hidden><p class="label">Favourites</p><ul></ul></div>
+    <div id="marks" hidden><p class="label">Bookmarks</p><ul></ul></div>
+    <p class="hint">Kept in this browser only. Use ☆ and the bookmark button at the top of any page.</p>
+  </section>
 
   <p class="deity">Gaṇeśa</p>
   <div class="entry">
@@ -587,6 +605,51 @@
   </footer>
 
 </main>
+
+<script>
+  /* Favourites and bookmarks saved by the stotra pages in this browser
+     (localStorage); nothing is sent anywhere. Paths are from the site root. */
+  (function () {
+    "use strict";
+    var FK = "stotra-favourites", BK = "stotra-bookmarks";
+    function load(k, d) { try { return JSON.parse(localStorage.getItem(k)) || d; } catch (e) { return d; } }
+    function save(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} }
+    var box = document.getElementById("mine");
+    if (!box) return;
+    function item(href, text, at, onRemove) {
+      var li = document.createElement("li"), a = document.createElement("a");
+      a.href = href; a.textContent = text;
+      if (at) { var s = document.createElement("span"); s.className = "at"; s.textContent = at; a.appendChild(s); }
+      var x = document.createElement("button");
+      x.type = "button"; x.textContent = "✕"; x.title = "remove"; x.setAttribute("aria-label", "remove " + text);
+      x.addEventListener("click", function () { onRemove(); draw(); });
+      li.appendChild(a); li.appendChild(x);
+      return li;
+    }
+    function draw() {
+      var favs = load(FK, []), marks = load(BK, {});
+      var fl = document.querySelector("#favs ul"), ml = document.querySelector("#marks ul");
+      fl.textContent = ""; ml.textContent = "";
+      favs.forEach(function (f) {
+        fl.appendChild(item(f.path, f.title, "", function () {
+          save(FK, load(FK, []).filter(function (g) { return g.path !== f.path; }));
+        }));
+      });
+      Object.keys(marks).map(function (k) { return [k, marks[k]]; })
+        .sort(function (a, b) { return (b[1].t || 0) - (a[1].t || 0); })
+        .forEach(function (e) {
+          ml.appendChild(item(e[0] + "#resume", e[1].title, "at " + e[1].label, function () {
+            var all = load(BK, {}); delete all[e[0]]; save(BK, all);
+          }));
+        });
+      document.getElementById("favs").hidden = !favs.length;
+      document.getElementById("marks").hidden = !ml.children.length;
+      box.hidden = !favs.length && !ml.children.length;
+    }
+    draw();
+    window.addEventListener("pageshow", draw);   // coming back from a page
+  })();
+</script>
 
 <script>
   /* Client-side filter for the stotra list. Diacritic-insensitive, so

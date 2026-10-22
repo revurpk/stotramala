@@ -135,7 +135,7 @@ def load_corrections(slug):
 def render_body(st, slug, asset):
     parts = [
         '\n\n  <header>\n'
-        '    <div class="om">ॐ</div>\n'
+        f'    <div class="om"><a href="{asset}index.html" title="all stotras">ॐ</a></div>\n'
         f'    <h1>{esc(st["h1"])}</h1>\n'
         f'    <p class="subtitle">{esc(st["subtitle"])}</p>\n'
         '    <hr class="titlerule">\n'
