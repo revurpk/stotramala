@@ -733,6 +733,79 @@ shell, so its `SHELL` path was updated to the new location.
 
 ---
 
+### 5.25 Vālmīki Rāmāyaṇa — `stotra/ramayana/`
+
+| Field | Value |
+|---|---|
+| Work | Vālmīki Rāmāyaṇa, the seven kāṇḍas |
+| Source | Sanskrit Wikisource, `रामायणम्/<kāṇḍa>/सर्गः N` (654 pages, fetched 2026-10-21 through the MediaWiki API, revision ids kept) |
+| Recension | the vulgate (northern-southern "standard" text as in the Gita Press and Nirṇaya Sāgara prints): 77 + 119 + 75 + 67 + 68 + 128 + 111 = 645 sargas; Bāla 1 has 100 verses. Not the Baroda critical edition. |
+| Text status | ancient and public domain; a bare transcription on Wikisource (CC BY-SA), used as public domain as for §5. The pages were created from 2005 (user Yann); no print edition is named. |
+
+**Pipeline.** `tools/ramayana/fetch.py` (polite: 50 titles a request, 3 s
+apart), `tools/ramayana/parse.py` (every layout on the site — `<poem>` with
+॥k-s-v॥, `<pre>` with ॥ v॥, Uttara's ।। ७.२.१ ।।, `<br>` runs — reduced to verses),
+`tools/ramayana/gen.py` (dev2iast, daṇḍas as | and ||; pages of whole sargas,
+up to 150 verses; a contents page per kāṇḍa). Each sarga's colophon is kept as
+printed on Wikisource, without its number. The e-text gives no speaker lines
+(… uvāca), so none appear.
+
+**Held back.** Ayodhyā 48–88 and Araṇya 14–15 are typed on Wikisource as a
+word-split reading aid — sandhi undone and compounds opened (*prabhātāyām tu
+śarvaryām*, *rakta akṣau*, *tataḥ daśa ahe atigate*), with slips of their own —
+not as the received text. They are not built until re-keyed from a printed
+edition.
+
+**Interpolation.** Araṇya 56 is followed on the same page by an interpolated
+sarga, labelled ५६अ प्रक्षिप्तः, with its own numbering; it is shown under its
+own heading, "Sarga 56A · interpolated (prakṣipta)".
+
+**Repairs to the e-text** (no wording is changed; numbers and line breaks only):
+- zero-width joiners hid three verse numbers in Yuddha 117 — removed;
+- a verse number inside a line ends the verse there; in Uttara the number is
+  sometimes followed by a stray copy of nearby text, which is dropped;
+- where the e-text dropped numbers, a block holding exactly two verses' lines
+  is split; a duplicated number before a gap is read as the missing one;
+- Bāla 29's numbers are garbled throughout (25, 2, 25, 25 …) and the sarga is
+  numbered by position;
+- a gap with nothing to split is kept as printed (a verse missing from the
+  e-text).
+
+| Where | Repair |
+|---|---|
+| Bāla 26 | e-text has no verse 3–12 (gap kept) |
+| Bāla 26 | number 4 after 13 kept as printed |
+| Bāla 28 | second 21 read as 22 |
+| Bāla 29 | e-text numbers garbled ([25, 2, 25, 25]…); numbered by position 1–32 |
+| Bāla 31 | number 19 after 19 kept as printed |
+| Bāla 42 | first 15 read as 14 |
+| Ayodhyā 13 | second 16 read as 17 |
+| Ayodhyā 17 | first 16 read as 15 |
+| Ayodhyā 24 | e-text has no verse 23 (gap kept) |
+| Ayodhyā 32 | e-text has no verse 4 (gap kept) |
+| Araṇya 73 | block 41 split into 40–41 (their numbers were dropped) |
+| Kiṣkindhā 22 | second 13 read as 14 |
+| Kiṣkindhā 24 | second 33 read as 34 |
+| Kiṣkindhā 39 | second 8 read as 9 |
+| Sundara 30 | second 34 read as 35 |
+| Yuddha 17 | second 63 read as 64 |
+| Yuddha 30 | second 31 read as 32 |
+| Uttara 6 | dropped stray “धन्ते समरोद्धर्षा ये च तेषां पुरःसराः ।” after ।। ७.६.८ ।। |
+| Uttara 9 | dropped stray “त्वं हि सर्वगुणोपेता श्रीः साक्षादिव पुत” after ।। ७.९.९ ।। |
+| Uttara 17 | dropped stray “ैव भोगेन च बलेन च ।।” after ।। ७.१७.२५ ।। |
+| Uttara 20 | dropped stray “्तम ।” after ।। ७.२०.७ ।। |
+| Uttara 24 | block 14 split into 13–14 (their numbers were dropped) |
+| Uttara 26 | dropped stray “भिरुद्भासितवनान्तरे ।” after ।। ७.२६.७ ।। |
+| Uttara 26 | dropped stray “स्मि यदवोचस्त्वमेकपत्नीष्वयं क्रमः ।” after ।। ७.२६.४१ ।। |
+| Uttara 27 | dropped stray “यामि ज्ञात्वा कालमुपागतम् ।” after ।। ७.२७.२१ ।। |
+| Uttara 30 | dropped stray “्वं हि कस्यचित्प्राणिनो भुवि ।” after ।। ७.३०.१२ ।। |
+| Uttara 32 | dropped stray “चः श्रुत्वा मन्त्रिणो ऽथार्जुनस्य ते ।” after ।। ७.३२.२८ ।। |
+| Uttara 40 | dropped stray “लोके च मामिका ।” after ।। ७.४०.२१ ।। |
+| Uttara 51 | e-text has no verse 18 (gap kept) |
+| Uttara 94 | dropped stray “सोत्तराणि महात्मना ।” after ।। ७.९४.२८ ।। |
+| Uttara 95 | dropped stray “परिषदो मध्ये रामो वचनमब्रवीत् ।” after ।। ७.९५.३ ।। |
+| Uttara 110 | dropped stray “ां विशालाक्षीं तव पूर्वपरिग्रहाम् ।” after ।। ७.११०.११ ।। |
+
 ## 6. Telugu-language works
 
 These are compositions in the **Telugu language** (not Sanskrit). For
