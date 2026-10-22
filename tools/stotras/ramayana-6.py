@@ -1,0 +1,70 @@
+# -*- coding: utf-8 -*-
+# Copyright 2026 Pradyumna Revur — CC BY 4.0 (see LICENSE)
+# Vālmīki Rāmāyaṇa (vulgate), Sanskrit Wikisource → IAST; written by
+# tools/ramayana/gen.py, now edited by hand. See SOURCES §5.25.
+
+def _v(padas, num, gloss=""):
+    return {"padas": padas, "num": num, "gloss": gloss}
+
+
+STOTRA = {
+    "deity": "ramayana",
+    "doc_title": "Vālmīki Rāmāyaṇa · Yuddhakāṇḍa",
+    "app_title": "Rāmāyaṇa 6",
+    "h1": "Vālmīki Rāmāyaṇa",
+    "subtitle": "Yuddhakāṇḍa · contents · 128 sargas in 47 pages",
+    "note": "Vālmīki's Rāmāyaṇa in the vulgate text, from Sanskrit Wikisource. Verse numbers are the e-text's, sarga by sarga. Translations will follow.",
+    "nav": [("‹ Sundarakāṇḍa", "ramayana-5-iast.html"), ("all kāṇḍas", "ramayana-iast.html"), ("Uttarakāṇḍa ›", "ramayana-7-iast.html")],
+    "footer": "Source: Sanskrit Wikisource — वाल्मीकिरामायणम् (vulgate text; public domain), converted to IAST; repairs to the e-text's numbering are listed in SOURCES §5.25; translations original",
+    "sections": [
+    {"links": [
+        ("1 · sargas 1–3", "ramayana-6-01-iast.html", "76 verses"),
+        ("2 · sargas 4–5", "ramayana-6-02-iast.html", "144 verses"),
+        ("3 · sargas 6–11", "ramayana-6-03-iast.html", "150 verses"),
+        ("4 · sargas 12–16", "ramayana-6-04-iast.html", "123 verses"),
+        ("5 · sargas 17–19", "ramayana-6-05-iast.html", "148 verses"),
+        ("6 · sargas 20–21", "ramayana-6-06-iast.html", "69 verses"),
+        ("7 · sargas 22–24", "ramayana-6-07-iast.html", "149 verses"),
+        ("8 · sargas 25–27", "ramayana-6-08-iast.html", "128 verses"),
+        ("9 · sargas 28–30", "ramayana-6-09-iast.html", "106 verses"),
+        ("10 · sargas 31–33", "ramayana-6-10-iast.html", "127 verses"),
+        ("11 · sargas 34–38", "ramayana-6-11-iast.html", "144 verses"),
+        ("12 · sargas 39–40", "ramayana-6-12-iast.html", "58 verses"),
+        ("13 · sargas 41–42", "ramayana-6-13-iast.html", "146 verses"),
+        ("14 · sargas 43–45", "ramayana-6-14-iast.html", "113 verses"),
+        ("15 · sargas 46–49", "ramayana-6-15-iast.html", "144 verses"),
+        ("16 · sargas 50–52", "ramayana-6-16-iast.html", "139 verses"),
+        ("17 · sargas 53–56", "ramayana-6-17-iast.html", "140 verses"),
+        ("18 · sargas 57–58", "ramayana-6-18-iast.html", "105 verses"),
+        ("19 · sarga 59", "ramayana-6-19-iast.html", "146 verses"),
+        ("20 · sargas 60–61", "ramayana-6-20-iast.html", "138 verses"),
+        ("21 · sargas 62–64", "ramayana-6-21-iast.html", "118 verses"),
+        ("22 · sargas 65–66", "ramayana-6-22-iast.html", "90 verses"),
+        ("23 · sarga 67", "ramayana-6-23-iast.html", "177 verses"),
+        ("24 · sargas 68–69", "ramayana-6-24-iast.html", "120 verses"),
+        ("25 · sarga 70", "ramayana-6-25-iast.html", "67 verses"),
+        ("26 · sargas 71–72", "ramayana-6-26-iast.html", "135 verses"),
+        ("27 · sarga 73", "ramayana-6-27-iast.html", "74 verses"),
+        ("28 · sargas 74–75", "ramayana-6-28-iast.html", "146 verses"),
+        ("29 · sargas 76–78", "ramayana-6-29-iast.html", "139 verses"),
+        ("30 · sargas 79–82", "ramayana-6-30-iast.html", "146 verses"),
+        ("31 · sargas 83–86", "ramayana-6-31-iast.html", "138 verses"),
+        ("32 · sargas 87–88", "ramayana-6-32-iast.html", "107 verses"),
+        ("33 · sargas 89–90", "ramayana-6-33-iast.html", "147 verses"),
+        ("34 · sargas 91–93", "ramayana-6-34-iast.html", "136 verses"),
+        ("35 · sargas 94–96", "ramayana-6-35-iast.html", "131 verses"),
+        ("36 · sargas 97–99", "ramayana-6-36-iast.html", "115 verses"),
+        ("37 · sargas 100–101", "ramayana-6-37-iast.html", "118 verses"),
+        ("38 · sargas 102–104", "ramayana-6-38-iast.html", "128 verses"),
+        ("39 · sargas 105–107", "ramayana-6-39-iast.html", "134 verses"),
+        ("40 · sargas 108–110", "ramayana-6-40-iast.html", "85 verses"),
+        ("41 · sargas 111–112", "ramayana-6-41-iast.html", "150 verses"),
+        ("42 · sargas 113–116", "ramayana-6-42-iast.html", "150 verses"),
+        ("43 · sargas 117–121", "ramayana-6-43-iast.html", "148 verses"),
+        ("44 · sargas 122–124", "ramayana-6-44-iast.html", "107 verses"),
+        ("45 · sargas 125–126", "ramayana-6-45-iast.html", "101 verses"),
+        ("46 · sarga 127", "ramayana-6-46-iast.html", "64 verses"),
+        ("47 · sarga 128", "ramayana-6-47-iast.html", "125 verses"),
+    ]},
+    ],
+}
