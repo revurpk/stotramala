@@ -80,14 +80,18 @@ def render_verse(v, asset):
         items = "\n".join(f'        <span class="w"><span class="sans">{esc(w)}</span> {esc(m)}</span>'
                           for w, m in v["words"])
         wbw = f'      <p class="wbw">\n{items}</p>\n'
+    # a text-only verse (no translation or word list yet) has no fold at all
+    fold = ""
+    if gloss or wbw:
+        fold = ('    <details class="gloss">\n'
+                f'      <summary>{"word by word · translation" if wbw else "translation"}</summary>\n'
+                + wbw +
+                (f'      <p>{gloss}</p>\n' if gloss else "")
+                + '    </details>\n')
     return (
         f'  <div class="{cls}">\n'
         f'    <p class="lines">\n{body}</p>\n'
-        '    <details class="gloss">\n'
-        f'      <summary>{"word by word · translation" if wbw else "translation"}</summary>\n'
-        + wbw +
-        f'      <p>{gloss}</p>\n'
-        '    </details>\n'
+        + fold
         + (render_bhashya(v["bhashya"]) + "\n" if v.get("bhashya") else "")
         + '  </div>'
     )
@@ -188,6 +192,15 @@ def render_body(st, slug, asset):
             # a commentary passage not tied to one verse (a chapter's preamble)
             parts.append('  <div class="verse">\n'
                          + render_bhashya(sec["bhashya"], sec.get("summary", "bhāṣya")) + "\n  </div>")
+        elif "links" in sec:
+            # a contents list for a multi-page work: [(label, href, detail), …],
+            # the detail (English) set a size down under each link
+            for label, href, detail in sec["links"]:
+                parts.append('  <p class="colophon-gloss" style="font-style:normal;text-align:left;'
+                             f'max-width:30rem;margin:0 auto 1.1rem;"><a href="{esc(href)}" '
+                             f'style="color:var(--accent);">{esc(label)}</a>'
+                             + (f'<br><span style="font-size:.88em;opacity:.8;">{esc(detail)}</span>' if detail else "")
+                             + '</p>')
         elif "colophon" in sec:
             parts.append(f'  <p class="colophon"><span class="sans">{esc(sec["colophon"])}</span></p>')
             if sec.get("gloss"):
