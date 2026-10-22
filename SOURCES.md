@@ -760,12 +760,23 @@ edition.
 sarga, labelled ५६अ प्रक्षिप्तः, with its own numbering; it is shown under its
 own heading, "Sarga 56A · interpolated (prakṣipta)".
 
-**Repairs to the e-text** (no wording is changed; numbers and line breaks only):
+**Repairs to the e-text** (no reading is emended; only markup, numbering and evident typing slips, each listed below):
+- wiki indents (`::`) before long-metre lines, inline links to outside notes,
+  audio-player text and a reciter's credit (Yuddha 44) are markup, not text — removed;
 - zero-width joiners hid three verse numbers in Yuddha 117 — removed;
+- Ayodhyā 89–119 were typed with a stray sign (U+093A) through the words and
+  with the visarga as a colon; the sign is removed and the colons read as ः.
+  The old spelling र्य्य (*sūryya*, *bhāryyā*) is kept as typed;
+- ऱ and the short-e sign ॆ, which Sanskrit does not use, are read as र and े
+  (Sundara 8, 44; Uttara 95);
+- bracketed notes are removed: glosses (*(=सर्प)*), variant readings
+  (*(पात्यमानो)*, *(अग्रतः)*), and two one-letter corrections whose intent is
+  unclear (Ayodhyā 91 *श्रोतृ(त्र)सुखे*, 116 *प्र(म)मादाभ्युचितां*) — the words are left as typed;
 - a verse number inside a line ends the verse there; in Uttara the number is
   sometimes followed by a stray copy of nearby text, which is dropped;
 - where the e-text dropped numbers, a block holding exactly two verses' lines
-  is split; a duplicated number before a gap is read as the missing one;
+  is split; a duplicated number before a gap, or a stray number between two
+  consecutive ones, is read as the missing one;
 - Bāla 29's numbers are garbled throughout (25, 2, 25, 25 …) and the sarga is
   numbered by position;
 - a gap with nothing to split is kept as printed (a verse missing from the
@@ -773,36 +784,83 @@ own heading, "Sarga 56A · interpolated (prakṣipta)".
 
 | Where | Repair |
 |---|---|
-| Bāla 26 | e-text has no verse 3–12 (gap kept) |
-| Bāla 26 | number 4 after 13 kept as printed |
+| Bāla 26 | number 13 between 2 and 4 read as 3 |
 | Bāla 28 | second 21 read as 22 |
 | Bāla 29 | e-text numbers garbled ([25, 2, 25, 25]…); numbered by position 1–32 |
 | Bāla 31 | number 19 after 19 kept as printed |
-| Bāla 42 | first 15 read as 14 |
+| Bāla 42 | number 15 between 13 and 15 read as 14 |
+| Ayodhyā 7 | bracketed note “(=सर्प)” removed |
+| Ayodhyā 9 | bracketed note “(=पृष्ठ-वक्रभागः)” removed |
 | Ayodhyā 13 | second 16 read as 17 |
-| Ayodhyā 17 | first 16 read as 15 |
+| Ayodhyā 17 | number 16 between 14 and 16 read as 15 |
 | Ayodhyā 24 | e-text has no verse 23 (gap kept) |
 | Ayodhyā 32 | e-text has no verse 4 (gap kept) |
+| Ayodhyā 52 | bracketed note “(महेति!)” removed |
+| Ayodhyā 55 | bracketed note “(प्रतिस्रोतःसमागताम् - पा.भे.)” removed |
+| Ayodhyā 89 | 40 visargas typed as “:” restored |
+| Ayodhyā 90 | 30 visargas typed as “:” restored |
+| Ayodhyā 91 | 141 visargas typed as “:” restored |
+| Ayodhyā 91 | bracketed note “(त्र)” removed |
+| Ayodhyā 92 | 46 visargas typed as “:” restored |
+| Ayodhyā 93 | 47 visargas typed as “:” restored |
+| Ayodhyā 94 | 48 visargas typed as “:” restored |
+| Ayodhyā 95 | 26 visargas typed as “:” restored |
+| Ayodhyā 96 | 34 visargas typed as “:” restored |
+| Ayodhyā 97 | 31 visargas typed as “:” restored |
+| Ayodhyā 98 | 29 visargas typed as “:” restored |
+| Ayodhyā 99 | 53 visargas typed as “:” restored |
+| Ayodhyā 100 | 116 visargas typed as “:” restored |
+| Ayodhyā 101 | 14 visargas typed as “:” restored |
+| Ayodhyā 102 | 72 visargas typed as “:” restored |
+| Ayodhyā 103 | 64 visargas typed as “:” restored |
+| Ayodhyā 104 | 41 visargas typed as “:” restored |
+| Ayodhyā 105 | 82 visargas typed as “:” restored |
+| Ayodhyā 106 | 44 visargas typed as “:” restored |
+| Ayodhyā 107 | 31 visargas typed as “:” restored |
+| Ayodhyā 108 | 21 visargas typed as “:” restored |
+| Ayodhyā 109 | 72 visargas typed as “:” restored |
+| Ayodhyā 110 | 72 visargas typed as “:” restored |
+| Ayodhyā 111 | 37 visargas typed as “:” restored |
+| Ayodhyā 112 | 40 visargas typed as “:” restored |
+| Ayodhyā 113 | 39 visargas typed as “:” restored |
+| Ayodhyā 114 | 35 visargas typed as “:” restored |
+| Ayodhyā 115 | 44 visargas typed as “:” restored |
+| Ayodhyā 116 | 42 visargas typed as “:” restored |
+| Ayodhyā 116 | bracketed note “(म)” removed |
+| Ayodhyā 117 | 39 visargas typed as “:” restored |
+| Ayodhyā 118 | 47 visargas typed as “:” restored |
+| Ayodhyā 119 | 33 visargas typed as “:” restored |
 | Araṇya 73 | block 41 split into 40–41 (their numbers were dropped) |
 | Kiṣkindhā 22 | second 13 read as 14 |
 | Kiṣkindhā 24 | second 33 read as 34 |
 | Kiṣkindhā 39 | second 8 read as 9 |
+| Sundara 8 | 1 × ऱ read as र |
 | Sundara 30 | second 34 read as 35 |
+| Sundara 44 | 1 × ॆ read as े |
 | Yuddha 17 | second 63 read as 64 |
 | Yuddha 30 | second 31 read as 32 |
+| Yuddha 44 | dropped non-text line “०४४ इन्द्रजिता अदृश्यरूपेण युद्धरङ्गागमनम्” |
+| Yuddha 44 | dropped non-text line “Your browser does not support the audio element, b” |
+| Yuddha 44 | dropped non-text line “(श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्)” |
+| Yuddha 117 | 1 visargas typed as “:” restored |
 | Uttara 6 | dropped stray “धन्ते समरोद्धर्षा ये च तेषां पुरःसराः ।” after ।। ७.६.८ ।। |
 | Uttara 9 | dropped stray “त्वं हि सर्वगुणोपेता श्रीः साक्षादिव पुत” after ।। ७.९.९ ।। |
 | Uttara 17 | dropped stray “ैव भोगेन च बलेन च ।।” after ।। ७.१७.२५ ।। |
 | Uttara 20 | dropped stray “्तम ।” after ।। ७.२०.७ ।। |
+| Uttara 22 | bracketed note “(पात्यमानो)” removed |
+| Uttara 23 | bracketed note “(प्रहसो)” removed |
 | Uttara 24 | block 14 split into 13–14 (their numbers were dropped) |
+| Uttara 25 | bracketed note “(अग्रतः)” removed |
 | Uttara 26 | dropped stray “भिरुद्भासितवनान्तरे ।” after ।। ७.२६.७ ।। |
 | Uttara 26 | dropped stray “स्मि यदवोचस्त्वमेकपत्नीष्वयं क्रमः ।” after ।। ७.२६.४१ ।। |
 | Uttara 27 | dropped stray “यामि ज्ञात्वा कालमुपागतम् ।” after ।। ७.२७.२१ ।। |
 | Uttara 30 | dropped stray “्वं हि कस्यचित्प्राणिनो भुवि ।” after ।। ७.३०.१२ ।। |
 | Uttara 32 | dropped stray “चः श्रुत्वा मन्त्रिणो ऽथार्जुनस्य ते ।” after ।। ७.३२.२८ ।। |
 | Uttara 40 | dropped stray “लोके च मामिका ।” after ।। ७.४०.२१ ।। |
+| Uttara 49 | bracketed note “(?)” removed |
 | Uttara 51 | e-text has no verse 18 (gap kept) |
 | Uttara 94 | dropped stray “सोत्तराणि महात्मना ।” after ।। ७.९४.२८ ।। |
+| Uttara 95 | 1 × ऱ read as र |
 | Uttara 95 | dropped stray “परिषदो मध्ये रामो वचनमब्रवीत् ।” after ।। ७.९५.३ ।। |
 | Uttara 110 | dropped stray “ां विशालाक्षीं तव पूर्वपरिग्रहाम् ।” after ।। ७.११०.११ ।। |
 

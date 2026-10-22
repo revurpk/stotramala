@@ -32,6 +32,11 @@ def clean(x):
     x = re.sub(r"((?:॥|।।)\s*[०-९0-9]+\s*(?:॥|।।))\s*\(\d+\)", r"\1", x)   # "॥ १॥(4)"
     x = re.sub(r"\[https?://\S+[^\]]*\]", "", x)          # inline links to outside notes
     x = x.replace("ऺ", "")                           # a stray sign typed through Ayodhyā 89–119
+    # letters Sanskrit does not use, typed for their Sanskrit neighbours (Sundara 3, 14)
+    for a, b in (("ऱ", "र"), ("ॆ", "े"), ("ॊ", "ो"), ("ऎ", "ए"), ("ऒ", "ओ")):
+        if a in x:
+            MIDLOG.append(f"{x.count(a)} × {a} read as {b}")
+            x = x.replace(a, b)
     n_colon = len(re.findall(r"(?<=[ऀ-ॿ]):", x))
     x = re.sub(r"(?<=[ऀ-ॿ]):", "ः", x)           # visarga typed as a colon (same sargas)
     if n_colon:
