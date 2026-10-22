@@ -46,13 +46,16 @@ for path in sys.argv[1:]:
     breaks = [(a, b) for a, b in zip([0] + nums, nums) if b != a + 1]
     uv = sum(1 for _, p, _ in mantras if len(p) == 1 and re.search(r"(वाच|ऊचुः)$", p[0]))
     ardha = sum(1 for _, p, _ in mantras if len(p) == 1) - uv
-    shloka = sum(1 for _, p, _ in mantras if len(p) >= 2)
+    # tripād: a refrain mantra whose second line is only the salutation (ch. 5)
+    tri = sum(1 for _, p, _ in mantras if len(p) == 2 and p[1].startswith("नमस्तस्यै"))
+    shloka = sum(1 for _, p, _ in mantras if len(p) >= 2) - tri
     # later chapters shorten the labels: उवाच ॥ ३ ॥ श्लोक ॥ ४१ ॥ अर्ध ॥ … ॥
     want = {k + "मंत्राः": tally(colo, k + "(?:मंत्राः)?") for k in ("उवाच", "अर्ध", "श्लोक")}
+    want["त्रिपान्मंत्राः"] = tally(colo, "त्रिपान्(?:मंत्राः)?")
     want["एवं मंत्राः"] = tally(colo, r"एवं(?:\s*मंत्राः)?(?!मादितः)\s*॥?")
     run += len(mantras)
     adi = tally(colo, "एवमादितः")
-    got = {"उवाचमंत्राः": uv, "अर्धमंत्राः": ardha, "श्लोकमंत्राः": shloka, "एवं मंत्राः": len(mantras)}
+    got = {"उवाचमंत्राः": uv, "अर्धमंत्राः": ardha, "श्लोकमंत्राः": shloka, "त्रिपान्मंत्राः": tri, "एवं मंत्राः": len(mantras)}
     odd = sorted({c for _, p, _ in mantras for l in p for c in l
                   if not ("ऀ" <= c <= "ॿ" or c in " ।॥'ऽ-")})
     good = not breaks and all(want[k] in (None, got[k]) for k in want) and not odd and adi in (None, run)
