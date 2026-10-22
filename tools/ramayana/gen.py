@@ -34,8 +34,8 @@ HOLD = {"2": set(range(48, 89)), "3": {14, 15}}
 NOTE = ("Vālmīki's Rāmāyaṇa in the vulgate text, from Sanskrit Wikisource. "
         "Verse numbers are the e-text's, sarga by sarga. Translations will follow.")
 FOOTER = ("Source: Sanskrit Wikisource — वाल्मीकिरामायणम् (vulgate text; public "
-          "domain), converted to IAST; repairs to the e-text's numbering are listed "
-          "in SOURCES §5.25; translations original")
+          "domain), converted to IAST; repairs to the e-text (numbering, markup, "
+          "typing slips) are listed in SOURCES §5.25; translations original")
 
 
 def iast(line):

@@ -15,7 +15,7 @@ STOTRA = {
     "subtitle": "Uttarakāṇḍa · contents · 111 sargas in 27 pages",
     "note": "Vālmīki's Rāmāyaṇa in the vulgate text, from Sanskrit Wikisource. Verse numbers are the e-text's, sarga by sarga. Translations will follow.",
     "nav": [("‹ Yuddhakāṇḍa", "ramayana-6-iast.html"), ("all kāṇḍas", "ramayana-iast.html")],
-    "footer": "Source: Sanskrit Wikisource — वाल्मीकिरामायणम् (vulgate text; public domain), converted to IAST; repairs to the e-text's numbering are listed in SOURCES §5.25; translations original",
+    "footer": "Source: Sanskrit Wikisource — वाल्मीकिरामायणम् (vulgate text; public domain), converted to IAST; repairs to the e-text (numbering, markup, typing slips) are listed in SOURCES §5.25; translations original",
     "sections": [
     {"links": [
         ("1 · sargas 1–4", "ramayana-7-01-iast.html", "143 verses"),

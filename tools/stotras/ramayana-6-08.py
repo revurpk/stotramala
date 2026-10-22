@@ -16,7 +16,7 @@ STOTRA = {
     "note": "Vālmīki's Rāmāyaṇa in the vulgate text, from Sanskrit Wikisource. Verse numbers are the e-text's, sarga by sarga. Translations will follow.",
     "toc": True,
     "nav": [("‹ previous", "ramayana-6-07-iast.html"), ("Yuddhakāṇḍa · contents", "ramayana-6-iast.html"), ("next ›", "ramayana-6-09-iast.html")],
-    "footer": "Source: Sanskrit Wikisource — वाल्मीकिरामायणम् (vulgate text; public domain), converted to IAST; repairs to the e-text's numbering are listed in SOURCES §5.25; translations original",
+    "footer": "Source: Sanskrit Wikisource — वाल्मीकिरामायणम् (vulgate text; public domain), converted to IAST; repairs to the e-text (numbering, markup, typing slips) are listed in SOURCES §5.25; translations original",
     "sections": [
     {"heading": "Sarga 25"},
     _v(["sabale sāgaraṃ tīrṇe rāme daśarathātmaje |",

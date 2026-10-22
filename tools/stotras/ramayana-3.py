@@ -15,7 +15,7 @@ STOTRA = {
     "subtitle": "Araṇyakāṇḍa · contents · 73 sargas in 19 pages",
     "note": "Vālmīki's Rāmāyaṇa in the vulgate text, from Sanskrit Wikisource. Verse numbers are the e-text's, sarga by sarga. Translations will follow. Sargas 14–15 are not yet included: the e-text gives them as a word-split reading aid, and they are being re-keyed from a printed edition.",
     "nav": [("‹ Ayodhyākāṇḍa", "ramayana-2-iast.html"), ("all kāṇḍas", "ramayana-iast.html"), ("Kiṣkindhākāṇḍa ›", "ramayana-4-iast.html")],
-    "footer": "Source: Sanskrit Wikisource — वाल्मीकिरामायणम् (vulgate text; public domain), converted to IAST; repairs to the e-text's numbering are listed in SOURCES §5.25; translations original",
+    "footer": "Source: Sanskrit Wikisource — वाल्मीकिरामायणम् (vulgate text; public domain), converted to IAST; repairs to the e-text (numbering, markup, typing slips) are listed in SOURCES §5.25; translations original",
     "sections": [
     {"links": [
         ("1 · sargas 1–4", "ramayana-3-01-iast.html", "109 verses"),
