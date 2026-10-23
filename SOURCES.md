@@ -910,6 +910,21 @@ The Purāṇic Rātri Sūkta (*viśveśvarīṃ jagaddhātrīṃ…*, chapter 1,
 the Tantric Devī Sūkta (*namo devyai mahādevyai…*, chapter 5, 9–82) are
 passages of the text itself and are read there.
 
+**Checked against Gita Press.** The thirteen chapters were collated in full
+against the Gita Press *Śrīdurgāsaptaśatī* (sthūlākṣara mūla, Gorakhpur;
+archive.org `kggr-shri-durga-saptashati-sthulaksharair-mudrita-mula-`), a
+modern copyrighted edition used only to check readings; none of its text or
+Hindi is copied. Every difference was then read again on the 1917 page.
+One was our slip and is corrected: 8.6, *maurvāḥ*, which the 1917 print has
+and which we had keyed as *mauryāḥ*. The other 83 rows are the editions'
+own variants, and the 1917 reading is kept. In 27 of them, Gita Press's own
+footnote (पा॰) records a reading; usually it is the 1917 one. The rest
+include several places where the two prints divide the half-verses
+differently but give the same count, and one where the lines differ
+(10.18 and 10.32). All are listed in `tools/saptashati/gitapress.tsv`. The
+two prints agree on every chapter total and on the running total of ७००.
+The aṅgas and rahasyas have not been collated.
+
 ### 5.27 Devī Bhāgavatam — `stotra/devibhagavatam/`
 
 | Field | Value |
