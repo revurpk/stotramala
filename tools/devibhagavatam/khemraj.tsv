@@ -1,0 +1,20 @@
+# Readings of the Khemraj print (Śrī Veṅkaṭeśvara Steam Press, Bombay, 1902; archive.org
+# scans) adopted over the Wikisource e-text, from a verse-by-verse collation.
+# Spelling conventions are not collated (anusvāra for a class nasal, ddh/dh doubling,
+# avagraha). One line per change, tab-separated:
+#   part  adhyāya  verse  op  e-text  print  [scan leaf]
+# op r = replace the e-text words with the print's; split = a new verse begins at the
+# given words (the e-text fused two); head = drop a heading line set into the verse.
+0	1	1	head	श्रीदुर्गादेव्यै नमः		k1 13
+0	1	1	head	श्रीमद्देवीभागवतमाहात्म्यम्		k1 13
+0	1	7	r	कलावपि वरं त्वत्तो	कलावपि परं त्वत्तो	k1 13
+0	1	7	split	सूत उवाच।		k1 13
+0	1	8	r	तो वक्ष्याम्यशेषतः	तद्वो वक्ष्याम्यशेषतः	k1 13
+0	1	12	r	तत्पुरायणं	तत्पुराणं	k1 13
+0	1	19	r	पूर्वं यस्य पिता	पूर्वमस्य पिता	k1 13
+0	1	25	split	सर्वयज्ञेषु तीर्थेषु		k1 13
+0	1	27	r	कृतादो बहवो	कृतादौ बहवो	k1 13
+0	1	34	r	परस्वदाराहणेतिऽलुब्धाये	परस्वदाराहरणेतिलुब्धा ये	k1 14
+0	1	34	r	नवाहज्ञेन	नवाहयज्ञेन	k1 14
+0	1	38	r	हैकसिंहासनस्थितम्	हैमसिंहासनस्थितम्	k1 14
+0	1	50	r	शूद्रोऽपि शृण्वन्स्वकृतोत्तमः स्यात्	शूद्रोऽपि शृण्वन्स्वकुलोत्तमः स्यात्	k1 14
