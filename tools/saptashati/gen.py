@@ -32,13 +32,19 @@ HEADS = {"प्रथमचरित्रम्": "Prathama carita · first ep
          "उत्तमचरित्रम्": "Uttama carita · last episode", "देवीकवचम्": "Devī Kavaca",
          "अर्गलास्तोत्रम्": "Argalā Stotra", "कीलकस्तोत्रम्": "Kīlaka Stotra",
          "प्राधानिकरहस्यम्": "Prādhānika Rahasya", "वैकृतिकरहस्यम्": "Vaikṛtika Rahasya",
-         "मूर्तिरहस्यम्": "Mūrti Rahasya"}
+         "मूर्तिरहस्यम्": "Mūrti Rahasya",
+         "वैदिकं रात्रिसूक्तम्": "Rātri Sūkta · Ṛgveda 10.127", "वैदिकं देवीसूक्तम्": "Devī Sūkta · Ṛgveda 10.125"}
 SOURCE = ("Source: Saptaśatī, Nirṇaya Sāgara Press, Bombay, Śaka 1839 (1917 CE), "
           "corrected by Vāsudeva Śarmā Paṇaśīkara (public domain; archive.org scan), "
           "transcribed from the page images; numbering as printed; translations original")
 NOTE = ("The Durgā Saptaśatī (Devī Māhātmya) as printed by the Nirṇaya Sāgara Press in "
         "1917, in its seven hundred mantras: each chapter counts its uvāca, half-verse "
         "and verse mantras, and the numbers here are the print's. Translations will follow.")
+
+
+SUKTA_NOTE = ("The two Ṛgveda hymns recited around the Saptaśatī — the Rātri Sūkta before it, "
+              "the Devī Sūkta after — with their svaras. The page opens in Devanāgarī, where the "
+              "accents are printed; Telugu draws them; IAST omits them.")
 
 
 def iast(line):
@@ -101,6 +107,7 @@ def write(slug, st, force):
 def main(argv):
     force = "--force" in argv
     pages = ([("saptashati-purva", "Before the text · kavaca, argalā, kīlaka", ["a1_kavaca", "a2_argala", "a3_kilaka"])]
+             + [("saptashati-sukta", "The Vedic Rātri and Devī Sūktas, with svaras", ["c1_suktas"])]
              + [(f"saptashati-{i:02d}", TITLES[f"ch{i:02d}"], [f"ch{i:02d}"]) for i in range(1, 14)]
              + [("saptashati-uttara", "After the text · the three rahasyas", ["b1_pradhanika", "b2_vaikrtika", "b3_murti"])])
     links, written = [], []
@@ -123,6 +130,9 @@ def main(argv):
               "h1": "Durgā Saptaśatī", "subtitle": title, "note": NOTE, "nav": nav,
               "toc": len(files) > 1 or any(isinstance(s, dict) and "heading" in s for s in secs),
               "footer": SOURCE, "sections": secs}
+        if any(isinstance(s, dict) and re.search("[_^]", " ".join(s.get("padas", []))) for s in secs):
+            st["script"] = "dev"                          # accented: open in Devanāgarī, like Mahānyāsam
+            st["note"] = SUKTA_NOTE
         if write(slug, st, force):
             written.append(slug)
     st = {"deity": "devi", "doc_title": "Durgā Saptaśatī", "app_title": "Durgā Saptaśatī",

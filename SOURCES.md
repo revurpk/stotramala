@@ -893,9 +893,22 @@ Argalā (23) and Kīlaka (14), each with its viniyoga. The three caritas, each
 opening with its viniyoga and the print's dhyāna cue. After the text: the
 Prādhānika (29), Vaikṛtika (39) and Mūrti (22) Rahasyas. Not yet included:
 the navārṇa mantra's nyāsas and procedure (scan 74–105; its last two pages
-are damaged in the scan), and the Vedic and Purāṇic Rātri- and Devī-sūktas,
-which the print sets with svara marks and which wait on the site's rule for
-accented Vedic text.
+are damaged in the scan).
+
+**The Vedic sūktas, with svaras** (`saptashati-sukta-iast.html`). The print
+gives the Vedic Rātri Sūkta (ṚV 10.127) before the text and the Vedic Devī
+Sūkta (ṚV 10.125) after it, both with their svaras (scan 94–95, 250–252),
+with their viniyogas. Read against the page images, the print's words and
+accent marks agree with the accented Ṛgveda text on Sanskrit Wikisource
+(`ऋग्वेदः सूक्तं १०.१२७`, `१०.१२५`; Sāyaṇa's text), whose lines are used — with
+its spelling, so *padvanto* where the print writes the anusvāra, and the
+kampa numeral १ as the Ṛgveda marks it. The print runs ṛcs together and
+numbers its groups (॥१॥, ॥२॥); the page numbers the eight ṛcs. Svaras follow
+the site's accented-Vedic convention (§5.18): the page opens in Devanāgarī,
+Telugu draws the marks with CSS as on the Mahānyāsam page, IAST omits them.
+The Purāṇic Rātri Sūkta (*viśveśvarīṃ jagaddhātrīṃ…*, chapter 1, 71–87) and
+the Tantric Devī Sūkta (*namo devyai mahādevyai…*, chapter 5, 9–82) are
+passages of the text itself and are read there.
 
 ## 6. Telugu-language works
 
