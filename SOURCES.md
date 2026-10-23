@@ -910,6 +910,110 @@ The Purāṇic Rātri Sūkta (*viśveśvarīṃ jagaddhātrīṃ…*, chapter 1,
 the Tantric Devī Sūkta (*namo devyai mahādevyai…*, chapter 5, 9–82) are
 passages of the text itself and are read there.
 
+### 5.27 Devī Bhāgavatam — `stotra/devibhagavatam/`
+
+| Field | Value |
+|---|---|
+| Work | Śrīmad Devī Bhāgavata Mahāpurāṇa: the māhātmya (Skanda Purāṇa, 5 adhyāyas) and the twelve skandhas (318 adhyāyas) |
+| Source | Sanskrit Wikisource, `देवीभागवतपुराणम्/स्कन्धः NN/अध्यायः NN` (337 pages, fetched 2026-10-22, revision ids kept); copied there in 2016 from satsangdhara.net ("courtesy Shri Bhide"), which names no edition |
+| Checked against | *Śrīmaddevībhāgavatam* with Nīlakaṇṭha's commentary, Khemraj Śrīkṛṣṇadāsa, Śrī Veṅkaṭeśvara Steam Press, Bombay, 1902 — two archive.org scans (Ishwar Ashram Trust, CC0): skandhas 1–4 with the māhātmya, and 7–12 |
+| Text status | ancient and public domain; the e-text is used as public domain as for §5 |
+
+**Scan coverage.** The two scans hold the māhātmya, skandhas 1–3, skandha 4
+adhyāyas 1–9 (the rest of that volume is handwritten), skandhas 7–10 and
+skandha 12 adhyāyas 11–14. Skandhas 5, 6 and 11, and the uncovered parts of
+4 and 12, are the e-text alone; their contents pages say so.
+
+**Method (option 2: targeted).** `tools/devibhagavatam/parse.py` reads the
+e-text and repairs its numbering by logged rules (the Rāmāyaṇa's, §5.25, plus
+the e-text's own habits: a number glued to a word, `।। s.a.N ।।`, a colophon or
+an adhyāya title set inside the poem, a verse closed by a bare ॥ with its
+number dropped, a verse typed twice). Every adhyāya whose numbering stayed
+broken was read against the Khemraj scan where the scan reaches it, and one
+leaf of each scanned skandha was collated in full as a sample (about 130
+verses: māhātmya 1; 1.5.95–112; 2.6.45–56; 3.7.14–25; 4.6.39–46;
+7.3.63–7.4.8; 8.8.8–17; 9.8.76–86; 10.7.2–12; 12.12.37–49). The samples found
+0–1 e-text slips a leaf except in the māhātmya (about a dozen in 50 verses) and
+skandha 8 (five in ten), whose remaining adhyāyas most need a full collation.
+Readings of the print are adopted (`tools/devibhagavatam/khemraj.tsv`, applied
+by `gen.py`); spelling conventions (anusvāra for a class nasal, doubling) are
+not collated. Volume 2 prints Nīlakaṇṭha's commentary in small type between
+the verses; only the mūla is read.
+
+Left as the e-text has them (no scan): 5.31 verse 22 (absent), 5.33 (a verse
+numbered 1 twice), 6.1 (no colophon). 9.20 exists twice on Wikisource with the
+same text; one copy is used.
+
+**Readings adopted from the Khemraj print**
+
+| Where | Op | E-text | Print | Leaf |
+|---|---|---|---|---|
+| Māhātmya.1.1 | head | श्रीदुर्गादेव्यै नमः |  | k1 13 |
+| Māhātmya.1.1 | head | श्रीमद्देवीभागवतमाहात्म्यम् |  | k1 13 |
+| Māhātmya.1.7 | r | कलावपि वरं त्वत्तो | कलावपि परं त्वत्तो | k1 13 |
+| Māhātmya.1.7 | split | सूत उवाच। |  | k1 13 |
+| Māhātmya.1.8 | r | तो वक्ष्याम्यशेषतः | तद्वो वक्ष्याम्यशेषतः | k1 13 |
+| Māhātmya.1.12 | r | तत्पुरायणं | तत्पुराणं | k1 13 |
+| Māhātmya.1.19 | r | पूर्वं यस्य पिता | पूर्वमस्य पिता | k1 13 |
+| Māhātmya.1.25 | split | सर्वयज्ञेषु तीर्थेषु |  | k1 13 |
+| Māhātmya.1.27 | r | कृतादो बहवो | कृतादौ बहवो | k1 13 |
+| Māhātmya.1.34 | r | परस्वदाराहणेतिऽलुब्धाये | परस्वदाराहरणेतिलुब्धा ये | k1 14 |
+| Māhātmya.1.34 | r | नवाहज्ञेन | नवाहयज्ञेन | k1 14 |
+| Māhātmya.1.38 | r | हैकसिंहासनस्थितम् | हैमसिंहासनस्थितम् | k1 14 |
+| Māhātmya.1.50 | r | शूद्रोऽपि शृण्वन्स्वकृतोत्तमः स्यात् | शूद्रोऽपि शृण्वन्स्वकुलोत्तमः स्यात् | k1 14 |
+| 7.22.48 | split | निष्कैः पुत्रो |  | k2 57 |
+| 7.22.49 | r | स्वप्लमालक्ष्य | स्वल्पमालक्ष्य | k2 57 |
+| 1.5.102 | r | अन्तर्धानं गता तथा | अन्तर्धानं गता तदा | k1 78 |
+| 3.7.14 | r | निगुणौ | निर्गुणौ | k1 198 |
+| 4.6.45 | r | गहीत्वेमा | गृहीत्वेमा | k1 290 |
+| 8.8.9 | r | पुमान्तस्त्री | पुमान्स्त्री | k2 137 |
+| 8.8.10 | r | स्वीणाम | स्त्रीणाम | k2 137 |
+| 8.8.14 | r | यथानोस्त्रतमन्यु | यथानोजितमन्यु | k2 137 |
+| 8.8.16 | r | मिवक्यचित् | मिवक्वचित् | k2 137 |
+| 8.8.17 | r | यत्सवतो | यत्संवृतो | k2 137 |
+| 9.8.85 | r | मृत्युज्जय | मृत्युञ्जय | k2 215 |
+| 10.7.2 | r | बभूबु | बभूवु | k2 365 |
+| 8.7.22 | r | चतुर्भद्रेति* | चतुर्भद्रेति | k2 135 |
+| 8.7.23 | drop | *चक्षुर्भद्रेति? |  | k2 135 |
+
+**Repairs to the e-text's numbering**
+
+| Where | Repair |
+|---|---|
+| Māhātmya.1 | block 26 split into 25–26 (their numbers were dropped) |
+| Māhātmya.1 | block 41 split into 40–41 (their numbers were dropped) |
+| Māhātmya.1 | block 46 split into 45–46 (their numbers were dropped) |
+| Māhātmya.4 | verse after 48 closed by a bare ॥, numbered 49 |
+| Māhātmya.4 | verse after 52 closed by a bare ॥, numbered 53 |
+| Māhātmya.4 | number 3 between 72 and 74 read as 73 |
+| Māhātmya.5 | 1 brackets/backticks removed |
+| Māhātmya.5 | verse ८७ ended mid-line |
+| Māhātmya.5 | number 10 between 89 and 91 read as 90 |
+| 5.17 | number 15 between 15 and 17 read as 16 |
+| 5.17 | number 58 between 52 and 54 read as 53 |
+| 5.18 | number 98 between 57 and 59 read as 58 |
+| 5.31 | e-text has no verse 22 (gap kept) |
+| 5.32 | verse after 42 closed by a bare ॥, numbered 43 |
+| 5.33 | verse after 4 closed by a bare ॥, numbered 5 |
+| 5.33 | number 1 after 1 kept as printed |
+| 5.35 | verse after 29 closed by a bare ॥, numbered 30 |
+| 7.5 | block 23 split into 22–23 (their numbers were dropped) |
+| 7.8 | 2 brackets/backticks removed |
+| 7.8 | number 23 between 23 and 25 read as 24 |
+| 7.9 | 2 brackets/backticks removed |
+| 7.17 | 2 brackets/backticks removed |
+| 7.18 | number 28 between 37 and 39 read as 38 |
+| 7.22 | block 4 split into 3–4 (their numbers were dropped) |
+| 7.22 | e-text has no verse 47 (gap kept) |
+| 7.26 | number 63 between 61 and 63 read as 62 |
+| 7.27 | verse 21 repeated in the e-text, second copy dropped |
+| 7.27 | number 8 between 6 and 8 read as 7 |
+| 8.7 | verse २२ ended mid-line |
+| 9.12 | 1 unnumbered prose passage(s) kept |
+| 9.13 | number 7 between 116 and 118 read as 117 |
+| 9.15 | verse १० ended mid-line |
+| 12.4 | 1 unnumbered prose passage(s) kept |
+
 ## 6. Telugu-language works
 
 These are compositions in the **Telugu language** (not Sanskrit). For

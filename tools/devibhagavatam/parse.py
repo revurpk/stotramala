@@ -15,9 +15,10 @@ sys.stdout.reconfigure(encoding="utf-8")
 d = pathlib.Path(sys.argv[1])
 pages = json.load(open(d / "pages.json", encoding="utf-8"))
 DIG = str.maketrans("०१२३४५६७८९", "0123456789")
-VNUM = re.compile(r"(?:॥|।।)\s*(?:[०-९0-9]+\s*\.\s*[०-९0-9]+\s*\.\s*)?([०-९0-9]+)\s*(?:॥|।।)?\s*\.?\s*$")   # closing ॥ sometimes missing
+VNUM = re.compile(r"(?:(?:॥|।।|।)\s*|(?<=[\u0900-\u0963])|(?<=[\u0900-\u0963]\s))(?:[०-९0-9]+\s*\.\s*[०-९0-9]+\s*\.\s*)?([०-९0-9]+)[\s।॥]*\.?\s*$")   # closing ॥ sometimes missing
 COLO = re.compile(r"^(?:(?:इ)?ति\s*श्र\S*\s*(?:देवी\s?भागवत\S*|स्कन्द)\s|इति\s*श्री\S*\s*(?:मद्)?\s*(?:देवी\s?भागवते|स्कन्द\s?पुराणे|स्कान्दे|देवीभागवतमाहात्म्ये)|समाप्त(?:ः|ोऽ|मिदम्|मिदं))")   # not समाप्ते, समाप्ति…
-SPEAK = re.compile(r"^(?:\S+\s+){0,2}(?:उवाच|ऊचुः|ऊचतुः)\s*[-–—:।]*\s*$")
+SPEAK = re.compile(r"^(?:\S+\s+){0,2}\S*(?:वाच|ऊचुः|ऊचतुः)\s*[-–—:।॥]*\s*(?:[०-९0-9]+\s*[।॥]*\s*)?$")
+AHEAD = re.compile(r"^(?:अथ\s+)?\S*अध्याय[ः:]?\s*[०-९0-9]*\s*[।॥]*\s*$")
 TITLE = re.compile(r"देवीभागवतपुराणम्/(?:स्कन्धः\s*([०-९]+)|(माहात्म्यम्))/अध्याय[ः]?\s*([०-९]+)")
 
 
@@ -26,6 +27,26 @@ def repair(vs, where, log):
     vs = [v for v in vs if v["n"] is not None]
     if prose:
         log.append(f"{where}: {len(prose)} unnumbered prose passage(s) kept")
+    merged, carry = [], None                                # a bare-॥ block: a verse whose number
+    for i, v in enumerate(vs):                              # was dropped, or only a half-verse
+        if carry:
+            v = {**v, "lines": carry["lines"] + v["lines"], "sp": carry["sp"] + v["sp"]}; carry = None
+        if v["n"] == -1:
+            prevn = merged[-1]["n"] if merged else 0
+            nxt = next((w["n"] for w in vs[i + 1:] if w["n"] != -1), None)
+            if nxt == prevn + 2:
+                log.append(f"{where}: verse after {prevn} closed by a bare ॥, numbered {prevn + 1}")
+                v = {**v, "n": prevn + 1}
+            else:
+                carry = v; continue
+        merged.append(v)
+    vs = merged
+    out2 = []
+    for v in vs:                                            # a verse typed twice in a row
+        if out2 and v["lines"] == out2[-1]["lines"]:
+            log.append(f"{where}: verse {v['n']} repeated in the e-text, second copy dropped"); continue
+        out2.append(v)
+    vs = out2
     src = [v["n"] for v in vs]
     if not src or src == list(range(1, len(src) + 1)):
         return vs + prose
@@ -67,6 +88,12 @@ for t, p in sorted(pages.items(), key=lambda kv: (kv[0].replace("अध्या
     x = re.sub(r"\{\{[^{}]*\}\}", "", x)
     x = re.sub(r"\[\[(?:वर्गः|Category):[^\]]*\]\]", "", x)
     x = x.replace("‌", "").replace("‍", "")
+    x = re.sub(r"\[https?://\S+\s+([^\]]*)\]", r"\1", x)   # an outside link around a word: keep the word
+    nb = len(re.findall(r"[\[\]`]", re.sub(r"\[\[[^\]]*\]\]", "", x)))
+    if nb:
+        fixes.append(f"{part}.{ch}: {nb} brackets/backticks removed")
+    x = re.sub(r"(?<!\[)\[(?!\[)|(?<!\])\](?!\])|`", "", x)
+    x = re.sub(r"(?<=[ऀ-ॿ])H", "ः", x)           # visarga typed as H
     pre, _, rest = x.partition("<poem>")
     if not rest:
         pre, rest = "", x
@@ -75,13 +102,30 @@ for t, p in sorted(pages.items(), key=lambda kv: (kv[0].replace("अध्या
     colo = []
     colo_lines, tail_colo = [], colo
     vs, cur, sp, incolo, done, end = [], [], [], False, False, []
+    raw = []
     for l in (l.strip() for l in body.splitlines()):
+        # a verse number inside a line ends the verse there (…च्छिदम् ॥ ७ । सूत उवाच)
+        while True:
+            mm = re.search(r"(?:(?:॥|।।)\s*|(?<=[\u0900-\u0963]))([०-९]+)\s*(?:॥|।।|।)\s*।?\s*(?=[^\s।॥.])", l)
+            if not mm or mm.end() >= len(l):
+                break
+            raw.append(l[:mm.end()].rstrip(" ।") + " ॥" if l[mm.end() - 1] == "।" else l[:mm.end()])
+            fixes.append(f"{part}.{ch}: verse {mm.group(1)} ended mid-line")
+            l = l[mm.end():].strip()
+        raw.append(l)
+    # a page that ends half-verses with ॥ (5.17 …) cannot use a bare ॥ as a verse end
+    nb = sum(1 for l in raw if re.search(r"\S\s*(?:॥|।।)\s*$", l) and not VNUM.search(l))
+    bare_ok = nb <= max(2, len(raw) // 40)
+    for l in raw:
         if not l:
             continue
-        if l in ("ॐ", "-", "—"):
+        l = re.sub(r"[“”\"]", "", l).strip()
+        if l in ("ॐ", "-", "—", ""):
             continue
         if done:                                           # after the colophon: end-notes
             end.append(l); continue
+        if AHEAD.match(l) and not cur:                    # "अथ त्रयस्त्रिंशोऽध्यायः" set in the poem
+            head.append(l); continue
         if SPEAK.match(l) and cur and not vs and not any("।" in c or "॥" in c for c in cur):
             head += cur; cur = []                          # an adhyāya title set inside the poem
         if not cur and SPEAK.match(l):
@@ -97,6 +141,10 @@ for t, p in sorted(pages.items(), key=lambda kv: (kv[0].replace("अध्या
             continue
         cur.append(l)
         mm = VNUM.search(l)
+        if not mm and bare_ok and re.search(r"\S\s*(?:॥|।।)\s*$", l) and len(cur) >= 2:
+            cur[-1] = re.sub(r"\s*(?:॥|।।)\s*$", "", l)        # closed by a bare ॥: number dropped
+            vs.append({"n": -1, "lines": cur, "sp": sp}); cur, sp = [], []
+            continue
         if mm:
             cur[-1] = l[:mm.start()].rstrip(" ।")
             vs.append({"n": int(mm.group(1).translate(DIG)), "lines": cur, "sp": sp})
