@@ -19,7 +19,7 @@ STOTRA = {
     {'padas': ['tataḥ kopaparādhīnacetāḥ śumbhaḥ pratāpavān |', 'udyogaṃ sarvasainyānāṃ daityānāmādideśa ha'], 'num': '|| 3 ||', 'gloss': ''},
     {'padas': ['adya sarvabalairdaityāḥ ṣaḍaśītirudāyudhāḥ |', 'kaṃbūnāṃ caturaśītirniryāntu svabalairvṛtāḥ'], 'num': '|| 4 ||', 'gloss': ''},
     {'padas': ['koṭivīryāṇi paṃcāśadasurāṇāṃ kulāni vai |', 'śataṃ kulāni dhaumrāṇāṃ nirgacchantu mamājñayā'], 'num': '|| 5 ||', 'gloss': ''},
-    {'padas': ['kālakā daurhṛdā mauryāḥ kālikeyāstathāsurāḥ |', 'yuddhāya sajjā niryāṃtu ājñayā tvaritā mama'], 'num': '|| 6 ||', 'gloss': ''},
+    {'padas': ['kālakā daurhṛdā maurvāḥ kālikeyāstathāsurāḥ |', 'yuddhāya sajjā niryāṃtu ājñayā tvaritā mama'], 'num': '|| 6 ||', 'gloss': ''},
     {'padas': ['ityājñāpyāsurapatiḥ śumbho bhairavaśāsanaḥ |', 'nirjagāma mahāsainyasahasrairbahubhirvṛtaḥ'], 'num': '|| 7 ||', 'gloss': ''},
     {'padas': ['āyāṃtaṃ caṇḍikā dṛṣṭvā tatsainyamatibhīṣaṇam |', 'jyāsvanaiḥ pūrayāmāsa dharaṇīgaganāṃtaram'], 'num': '|| 8 ||', 'gloss': ''},
     {'padas': ['tataḥ siṃho mahānādamatīva kṛtavānnṛpa |', 'ghaṇṭāsvanena tānnādānaṃbikā copabṛṃhayat'], 'num': '|| 9 ||', 'gloss': ''},
