@@ -1,0 +1,48 @@
+# -*- coding: utf-8 -*-
+# Copyright 2026 Pradyumna Revur — CC BY 4.0 (see LICENSE)
+# Devī Bhāgavatam, Sanskrit Wikisource → IAST (with Khemraj readings); written by
+# tools/devibhagavatam/gen.py. See SOURCES §5.27.
+
+STOTRA = {
+    "deity": "devibhagavatam",
+    "doc_title": "Devī Bhāgavatam · Skandha 8 · adhyāya 4",
+    "app_title": "Devī Bhāgavatam 8·4",
+    "h1": "Devī Bhāgavatam",
+    "subtitle": "Skandha 8 · adhyāya 4 of 24",
+    "note": "The Śrīmad Devī Bhāgavata Mahāpurāṇa in Sanskrit, from Sanskrit Wikisource. Translations will follow.",
+    "nav": [("‹ previous", "devibhagavatam-08-03-iast.html"), ("Skandha 8 · contents", "devibhagavatam-08-iast.html"), ("next ›", "devibhagavatam-08-05-iast.html")],
+    "footer": "Source: Sanskrit Wikisource — देवीभागवतपुराणम् (public domain), converted to IAST; checked against the Khemraj print (Śrī Veṅkaṭeśvara Press, Bombay, 1902) where it disagrees with the e-text's numbering, and by sample (adhyāya 8); repairs and readings listed in SOURCES §5.27; translations original",
+    "sections": [
+    {'speaker': 'bhuvanakośaviṣaye priyavratavaṃśavarṇanam'},
+    {'speaker': 'śrīnārāyaṇa uvāca'},
+    {'padas': ['manoḥ svāyambhuvasyāsījjyeṣṭhaḥ putraḥ priyavrataḥ |', 'pituḥ sevāparo nityaṃ satyadharmaparāyaṇaḥ'], 'num': '|| 1 ||', 'gloss': ''},
+    {'padas': ['prajāpaterduhitaraṃ surūpāṃ viśvakarmaṇaḥ |', 'barhiṣmatīṃ copayeme samānāṃ śīlakarmabhiḥ'], 'num': '|| 2 ||', 'gloss': ''},
+    {'padas': ['tasyāṃ putrāndaśa guṇairanvitānbhāvitātmanaḥ |', 'janayāmāsa kanyāṃ corjasvatīṃ ca yavīyasīm'], 'num': '|| 3 ||', 'gloss': ''},
+    {'padas': ['āgnīdhraścedhmajihvaśca yajñabāhustṛtīyakaḥ |', 'mahāvīraścaturthastu pañcamo rukmaśukrakaḥ'], 'num': '|| 4 ||', 'gloss': ''},
+    {'padas': ['ghṛtapṛṣṭhaśca savano medhātithirathāṣṭamaḥ |', 'vītihotraḥ kaviśceti daśaite vahnināmakāḥ'], 'num': '|| 5 ||', 'gloss': ''},
+    {'padas': ["eteṣāṃ daśaputrāṇāṃ trayo'pyāsanvirāgiṇaḥ |", 'kaviśca savanaścaiva mahāvīra iti trayaḥ'], 'num': '|| 6 ||', 'gloss': ''},
+    {'padas': ['ātmavidyāpariṣṇātāḥ sarve te hyūrdhvaretasaḥ |', 'āśrame parahaṃsākhye niḥspṛhā hyabhavanmudāḥ'], 'num': '|| 7 ||', 'gloss': ''},
+    {'padas': ['aparasyāṃ ca jāyāyāṃ trayaḥ putrāśca jajñire |', 'uttamastāmasaścaiva raivataśceti viśrutāḥ'], 'num': '|| 8 ||', 'gloss': ''},
+    {'padas': ['manvantarādhipataya ete putrā mahaujasaḥ |', 'priyavrataḥ sa rājendro bubhuje jagatīmimām'], 'num': '|| 9 ||', 'gloss': ''},
+    {'padas': ['ekādaśārbudābdānāmavyāhatabalendriyaḥ |', "yadā sūryaḥ pṛthivyāśca vibhāge prathame'tapat"], 'num': '|| 10 ||', 'gloss': ''},
+    {'padas': ['bhāge dvitīye tatrāsīdandhakārodayaḥ kila |', 'evaṃ vyatikaraṃ rājā vilokya manasā ciram'], 'num': '|| 11 ||', 'gloss': ''},
+    {'padas': ['praśāsti mayi bhūmyāṃ ca tamaḥ prādurbhavetkatham |', 'evaṃ nivārayiṣyāmi bhūmau yogabalena ca'], 'num': '|| 12 ||', 'gloss': ''},
+    {'padas': ['evaṃ vyavasito rājā putraḥ svāyambhuvasya saḥ |', 'rathenādityavarṇena saptakṛtvaḥ prakāśayan'], 'num': '|| 13 ||', 'gloss': ''},
+    {'padas': ['tasyāpi gacchato rājño bhūmau yadrathanemayaḥ |', 'patitāste samudrākhyāṃ bhejire lokahetave'], 'num': '|| 14 ||', 'gloss': ''},
+    {'padas': ['jātāḥ pradeśāste sapta dvīpā bhūmau vibhāgaśaḥ |', 'rathanemisamutthāste parikhāḥ sapta sindhavaḥ'], 'num': '|| 15 ||', 'gloss': ''},
+    {'padas': ['yata āsaṃstataḥ sapta bhuvo dvīpā hi te smṛtāḥ |', 'jambudvīpaḥ plakṣadvīpaḥ śālmalīdvīpasaṃjñakaḥ'], 'num': '|| 16 ||', 'gloss': ''},
+    {'padas': ['kuśadvīpaḥ krauñcadvīpaḥ śākadvīpaśca puṣkaraḥ |', 'teṣāṃ ca parimāṇaṃ tu dviguṇaṃ cottarottaram'], 'num': '|| 17 ||', 'gloss': ''},
+    {'padas': ['samantataścopaklṛptaṃ bahirbhāgakrameṇa ca |', 'kṣārodekṣurasodau ca surodaśca ghṛtodakaḥ'], 'num': '|| 18 ||', 'gloss': ''},
+    {'padas': ['kṣīrodo dadhimaṇḍodaḥ śuddhodaśceti te smṛtāḥ |', 'saptaite prativikhyātāḥ pṛthivyāṃ sindhavastadā'], 'num': '|| 19 ||', 'gloss': ''},
+    {'padas': ['prathamo jambudvīpākhyo yaḥ kṣārodena veṣṭitaḥ |', 'tatpatiṃ vidadhe rājā putramāgnīdhrasaṃjñakam'], 'num': '|| 20 ||', 'gloss': ''},
+    {'padas': ["plakṣadvīpe dvitīye'smindvīpekṣurasasaṃplute |", 'jātastadadhipaḥ praiyavrata idhmādijihvakaḥ'], 'num': '|| 21 ||', 'gloss': ''},
+    {'padas': ['śālmalīdvīpa etasminsurodadhipariplute |', 'yajñabāhuṃ tadadhipaṃ karoti sma priyavrataḥ'], 'num': '|| 22 ||', 'gloss': ''},
+    {'padas': ["kuśadvīpe'tiramye ca ghṛtodenopaveṣṭite |", 'hiraṇyaretā rājābhūtpriyavratatanūjaniḥ'], 'num': '|| 23 ||', 'gloss': ''},
+    {'padas': ['krauñcadvīpe pañcame tu kṣīrodaparisaṃplute |', 'praiyavrato ghṛtapṛṣṭhaḥ patirāsīnmahābalaḥ'], 'num': '|| 24 ||', 'gloss': ''},
+    {'padas': ['śākadvīpe cārutare dadhimaṇḍodasaṃkule |', 'medhātithirabhūdrājā priyavratasuto varaḥ'], 'num': '|| 25 ||', 'gloss': ''},
+    {'padas': ['puṣkaradvīpake śuddhodakasindhusamākule |', 'vītihotro babhūvāsau rājā janakasammataḥ'], 'num': '|| 26 ||', 'gloss': ''},
+    {'padas': ['kanyāmūrjasvatīnāmnīṃ dadāvuśanase vibhuḥ |', 'āsīttasyāṃ devayānī kanyā kāvyasya viśrutā'], 'num': '|| 27 ||', 'gloss': ''},
+    {'padas': ['evaṃ vibhajya putrebhyaḥ saptadvīpān priyavrataḥ |', "vivekavaśago bhūtvā yogamārgāśrito'bhavat"], 'num': '|| 28 ||', 'gloss': ''},
+    {'colophon': "iti śrīmaddevībhāgavate mahāpurāṇe'ṣṭādaśasāhasryāṃ saṃhitāyāmaṣṭamaskandhe ||"},
+    ],
+}
