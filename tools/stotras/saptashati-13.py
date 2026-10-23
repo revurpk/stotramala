@@ -1,0 +1,48 @@
+# -*- coding: utf-8 -*-
+# Copyright 2026 Pradyumna Revur — CC BY 4.0 (see LICENSE)
+# Durgā Saptaśatī, 1917 Nirṇaya Sāgara print → IAST; written by
+# tools/saptashati/gen.py from tools/saptashati/text. See SOURCES §5.26.
+
+STOTRA = {
+    "deity": "devi",
+    "doc_title": "Durgā Saptaśatī · Chapter 13 · the boons to Suratha and Samādhi",
+    "app_title": "Saptaśatī · Chapter 13",
+    "h1": "Durgā Saptaśatī",
+    "subtitle": "Chapter 13 · the boons to Suratha and Samādhi",
+    "note": "The Durgā Saptaśatī (Devī Māhātmya) as printed by the Nirṇaya Sāgara Press in 1917, in its seven hundred mantras: each chapter counts its uvāca, half-verse and verse mantras, and the numbers here are the print's. Translations will follow.",
+    "nav": [("‹ previous", "saptashati-12-iast.html"), ("contents", "saptashati-iast.html"), ("next ›", "saptashati-uttara-iast.html")],
+    "toc": False,
+    "footer": "Source: Saptaśatī, Nirṇaya Sāgara Press, Bombay, Śaka 1839 (1917 CE), corrected by Vāsudeva Śarmā Paṇaśīkara (public domain; archive.org scan), transcribed from the page images; numbering as printed; translations original",
+    "sections": [
+    {'padas': ['ṛṣiruvāca'], 'num': '|| 1 ||', 'gloss': ''},
+    {'padas': ['etatte kathitaṃ bhūpa devīmāhātmyamuttamam'], 'num': '|| 2 ||', 'gloss': ''},
+    {'padas': ['evaṃprabhāvā sā devī yayedaṃ dhāryate jagat |', 'vidyā tathaiva kriyate bhagavadviṣṇumāyayā'], 'num': '|| 3 ||', 'gloss': ''},
+    {'padas': ['tayā tvameṣa vaiśyaśca tathaivānye vivekinaḥ |', 'mohyaṃte mohitāścaiva mohameṣyaṃti cāpare'], 'num': '|| 4 ||', 'gloss': ''},
+    {'padas': ['tāmupaihi mahārāja śaraṇaṃ parameśvarīm |', 'ārādhitā saiva nṛṇāṃ bhogasvargāpavargadā'], 'num': '|| 5 ||', 'gloss': ''},
+    {'padas': ['mārkaṃḍeya uvāca'], 'num': '|| 6 ||', 'gloss': ''},
+    {'padas': ['iti tasya vacaḥ śrutvā surathaḥ sa narādhipaḥ |', 'praṇipatya mahābhāgaṃ tamṛṣiṃ saṃśitavratam'], 'num': '|| 7 ||', 'gloss': ''},
+    {'padas': ['nirviṇṇotimamatvena rājyāpaharaṇena ca |', 'jagāma sadyastapase sa ca vaiśyo mahāmune'], 'num': '|| 8 ||', 'gloss': ''},
+    {'padas': ['saṃdarśanārthamaṃbāyā nadīpulinamāsthitaḥ |', 'sa ca vaiśyastapastepe devīsūktaṃ paraṃ japan'], 'num': '|| 9 ||', 'gloss': ''},
+    {'padas': ['tau tasminpuline devyāḥ kṛtvā mūrtiṃ mahīmayīm |', 'arhaṇāṃ cakratustasyāḥ puṣpadhūpāgnitarpaṇaiḥ'], 'num': '|| 10 ||', 'gloss': ''},
+    {'padas': ['nirāhārau yatātmānau tanmanaskau samāhitau |', 'dadatustau baliṃ caiva nijagātrāsṛgukṣitam'], 'num': '|| 11 ||', 'gloss': ''},
+    {'padas': ['evaṃ samārādhayatostribhirvarṣairyatātmanoḥ |', 'parituṣṭā jagaddhātrī pratyakṣaṃ prāha caṃḍikā'], 'num': '|| 12 ||', 'gloss': ''},
+    {'padas': ['devyuvāca'], 'num': '|| 13 ||', 'gloss': ''},
+    {'padas': ['yatprārthyate tvayā bhūpa tvayā ca kulanaṃdana |', 'mattastatprāpyatāṃ sarvaṃ parituṣṭā dadāmi te'], 'num': '|| 14 ||', 'gloss': ''},
+    {'padas': ['mārkaṃḍeya uvāca'], 'num': '|| 15 ||', 'gloss': ''},
+    {'padas': ['tato vavre nṛpo rājyamavibhraṃśyanyajanmani |', 'atraiva ca nijaṃ rājyaṃ hataśatrubalaṃ balāt'], 'num': '|| 16 ||', 'gloss': ''},
+    {'padas': ['sopi vaiśyastato jñānaṃ vavre nirviṇṇamānasaḥ |', 'mametyahamiti prājñaḥ saṃgavicyutikārakam'], 'num': '|| 17 ||', 'gloss': ''},
+    {'padas': ['devyuvāca'], 'num': '|| 18 ||', 'gloss': ''},
+    {'padas': ['svalpairahobhirnṛpate svaṃ rājyaṃ prāpsyate bhavān'], 'num': '|| 19 ||', 'gloss': ''},
+    {'padas': ['hatvā ripūnaskhalitaṃ tava tatra bhaviṣyati'], 'num': '|| 20 ||', 'gloss': ''},
+    {'padas': ['mṛtaśca bhūyaḥ saṃprāpya janma devādvivasvataḥ'], 'num': '|| 21 ||', 'gloss': ''},
+    {'padas': ['sāvarṇiko manurnāma bhavānbhuvi bhaviṣyati'], 'num': '|| 22 ||', 'gloss': ''},
+    {'padas': ['vaiśyavarya tvayā yaśca varosmattobhivāṃchitaḥ'], 'num': '|| 23 ||', 'gloss': ''},
+    {'padas': ['taṃ prayacchāmi saṃsiddhyai tava jñānaṃ bhaviṣyati'], 'num': '|| 24 ||', 'gloss': ''},
+    {'padas': ['mārkaṃḍeya uvāca'], 'num': '|| 25 ||', 'gloss': ''},
+    {'padas': ['iti dattvā tayordevī yathābhilaṣitaṃ varam |', 'babhūvāṃtarhitā sadyo bhaktyā tābhyāmabhiṣṭutā'], 'num': '|| 26 ||', 'gloss': ''},
+    {'padas': ['evaṃ devyā varaṃ labdhvā surathaḥ kṣatriyarṣabhaḥ |', 'sūryājjanma samāsādya sāvarṇirbhavitā manuḥ'], 'num': '|| 27 ||', 'gloss': ''},
+    {'padas': ['iti dattvā tayordevī yathābhilaṣitaṃ varam |', 'babhūvāṃtarhitā sadyo bhaktyā tābhyāmabhiṣṭutā'], 'num': '|| 28 ||', 'gloss': ''},
+    {'padas': ['evaṃ devyā varaṃ labdhvā surathaḥ kṣatriyarṣabhaḥ |', 'sūryājjanma samāsādya sāvarṇirbhavitā manuḥ klīṃ oṃ'], 'num': '|| 29 ||', 'gloss': ''},
+    {'colophon': 'śrīmārkaṃḍeyapurāṇe sāvarṇike manvaṃtare devīmāhātmye surathavaiśyayorvarapradānaṃ nāma trayodaśaḥ || 13 || uvācamaṃtrāḥ || 6 || ardhamaṃtrāḥ || 7 || ślokamaṃtrāḥ || 16 || evaṃ || 29 || evamāditaḥ || 700'},
+    ],
+}

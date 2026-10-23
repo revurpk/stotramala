@@ -864,6 +864,39 @@ own heading, "Sarga 56A · interpolated (prakṣipta)".
 | Uttara 95 | dropped stray “परिषदो मध्ये रामो वचनमब्रवीत् ।” after ।। ७.९५.३ ।। |
 | Uttara 110 | dropped stray “ां विशालाक्षीं तव पूर्वपरिग्रहाम् ।” after ।। ७.११०.११ ।। |
 
+### 5.26 Durgā Saptaśatī — `stotra/devi/`
+
+| Field | Value |
+|---|---|
+| Work | Durgā Saptaśatī (Devī Māhātmya, Mārkaṇḍeya Purāṇa), with its aṅgas |
+| Source | *Saptaśatī*, Nirṇaya Sāgara Press, Bombay, Śaka 1839 (1917 CE); "saṃśodhita" by Vāsudeva Śarmā Paṇaśīkara, son of Lakṣmaṇa Śarmā (the editor Wasudev Laxman Shastri Paṇśīkar, d. 1925); published by Tukaram Javaji. Scan: archive.org `SaptashatiNirnayaSagarPress` (306 pages). |
+| Recorded | 2026-10-22 |
+| Text status | ancient and public domain; the 1917 print is public domain by age (published before 1931; editor died 1925). No digital text was used: the archive.org OCR is unusable. |
+
+**Transcription.** Every line was read from the page images (scan pages
+54–74, 105–249, 260–280) into `tools/saptashati/text/`, one file per chapter
+or aṅga. The print runs the text on without word breaks; word division and
+the half-verse line breaks are ours, the spelling the print's (its
+anusvāra for a class nasal — *saṃbhūtā*, *naṃdā* — is kept). Refrains the
+print abbreviates (*yā devī… namastasyai°*, *rūpaṃ dehi…°*, and chapter 13's
+repeated mantras 28–29) are written out after the forms it spells in full.
+
+**The seven hundred.** The numbering is the print's own, chapter by chapter.
+Each chapter's colophon counts its uvāca, ardha (half-verse), tripād and
+śloka mantras, the total, and the running total from the start;
+`tools/saptashati/check.py` checks every chapter against those counts. All
+thirteen agree exactly, and the running total ends at ७०० (104 · 69 · 44 ·
+42 · 129 · 24 · 27 · 63 · 41 · 32 · 55 · 41 · 29).
+
+**What the pages include.** Before the text: the Devī Kavaca (50 verses),
+Argalā (23) and Kīlaka (14), each with its viniyoga. The three caritas, each
+opening with its viniyoga and the print's dhyāna cue. After the text: the
+Prādhānika (29), Vaikṛtika (39) and Mūrti (22) Rahasyas. Not yet included:
+the navārṇa mantra's nyāsas and procedure (scan 74–105; its last two pages
+are damaged in the scan), and the Vedic and Purāṇic Rātri- and Devī-sūktas,
+which the print sets with svara marks and which wait on the site's rule for
+accented Vedic text.
+
 ## 6. Telugu-language works
 
 These are compositions in the **Telugu language** (not Sanskrit). For
