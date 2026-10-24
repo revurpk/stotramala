@@ -11,7 +11,7 @@ STOTRA = {
     "subtitle": "Skandha 5 · adhyāya 12 of 35",
     "note": "The Śrīmad Devī Bhāgavata Mahāpurāṇa in Sanskrit, from Sanskrit Wikisource. Translations will follow.",
     "nav": [("‹ previous", "devibhagavatam-05-11-iast.html"), ("Skandha 5 · contents", "devibhagavatam-05-iast.html"), ("next ›", "devibhagavatam-05-13-iast.html")],
-    "footer": "Source: Sanskrit Wikisource — देवीभागवतपुराणम् (public domain), converted to IAST; this skandha is not in the available scans of the Khemraj print and has not been checked against a print; repairs and readings listed in SOURCES §5.27; translations original",
+    "footer": "Source: Sanskrit Wikisource — देवीभागवतपुराणम् (public domain), converted to IAST; this skandha is not in the available scans of the Khemraj print; read in full against the Gita Press edition (Gorakhpur), whose readings were used only to correct the e-text's slips; repairs and readings listed in SOURCES §5.27; translations original",
     "sections": [
     {'speaker': 'devīparājayakaraṇāya durdharaprabodhavacanam'},
     {'speaker': 'vyāsa uvāca'},

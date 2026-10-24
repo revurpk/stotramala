@@ -11,7 +11,7 @@ STOTRA = {
     "subtitle": "Skandha 5 · adhyāya 10 of 35",
     "note": "The Śrīmad Devī Bhāgavata Mahāpurāṇa in Sanskrit, from Sanskrit Wikisource. Translations will follow.",
     "nav": [("‹ previous", "devibhagavatam-05-09-iast.html"), ("Skandha 5 · contents", "devibhagavatam-05-iast.html"), ("next ›", "devibhagavatam-05-11-iast.html")],
-    "footer": "Source: Sanskrit Wikisource — देवीभागवतपुराणम् (public domain), converted to IAST; this skandha is not in the available scans of the Khemraj print and has not been checked against a print; repairs and readings listed in SOURCES §5.27; translations original",
+    "footer": "Source: Sanskrit Wikisource — देवीभागवतपुराणम् (public domain), converted to IAST; this skandha is not in the available scans of the Khemraj print; read in full against the Gita Press edition (Gorakhpur), whose readings were used only to correct the e-text's slips; repairs and readings listed in SOURCES §5.27; translations original",
     "sections": [
     {'speaker': 'mantrīdvārā mahiṣāsureṇa devyā saha vivāhaprastāvaḥ'},
     {'speaker': 'vyāsa uvāca'},
@@ -49,7 +49,7 @@ STOTRA = {
     {'padas': ['śṛṇu sāciva vakṣyāmi vākyānāṃ sāramuttamam |', 'śāstradṛṣṭena mārgeṇa cāturyamanucintya ca'], 'num': '|| 29 ||', 'gloss': ''},
     {'padas': ['mahiṣasya pradhānastvaṃ mayā jñātaṃ dhiyā kila |', "paśubuddhisvabhāvo'si vacanāttava sāmpratam"], 'num': '|| 30 ||', 'gloss': ''},
     {'padas': ['mantriṇastvādṛśā yasya sa kathaṃ buddhimānbhavet |', "ubhayoḥ sadṛśo yogaḥ kṛto'yaṃ vidhinā kila"], 'num': '|| 31 ||', 'gloss': ''},
-    {'padas': ['yaduktaṃ strīsvabhāvāsi tadvicārasya mūḍha kim |', 'pumānnāhaṃ tatsvabhāvābhavaṃstrīveṣadhāriṇī'], 'num': '|| 32 ||', 'gloss': ''},
+    {'padas': ['yaduktaṃ strīsvabhāvāsi tadvicāraya mūḍha kim |', 'pumānnāhaṃ tatsvabhāvābhavaṃstrīveṣadhāriṇī'], 'num': '|| 32 ||', 'gloss': ''},
     {'padas': ['yācitaṃ maraṇaṃ pūrvaṃ striyā tvatprabhuṇā yathā |', "tasmānmanye'timūrkho'sau na vīrarasavittamaḥ"], 'num': '|| 33 ||', 'gloss': ''},
     {'padas': ['kāminyā maraṇaṃ klībaratidaṃ śūraduḥkhadam |', 'prārthitaṃ prabhuṇā tena mahiṣeṇātmabuddhinā'], 'num': '|| 34 ||', 'gloss': ''},
     {'padas': ['tasmātstrīrūpamādhāya kāryaṃ kartumupāgatā |', 'kathaṃ bibhemi tvadvākyairdharmaśāstravirodhakaiḥ'], 'num': '|| 35 ||', 'gloss': ''},

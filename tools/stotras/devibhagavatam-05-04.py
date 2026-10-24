@@ -11,7 +11,7 @@ STOTRA = {
     "subtitle": "Skandha 5 · adhyāya 4 of 35",
     "note": "The Śrīmad Devī Bhāgavata Mahāpurāṇa in Sanskrit, from Sanskrit Wikisource. Translations will follow.",
     "nav": [("‹ previous", "devibhagavatam-05-03-iast.html"), ("Skandha 5 · contents", "devibhagavatam-05-iast.html"), ("next ›", "devibhagavatam-05-05-iast.html")],
-    "footer": "Source: Sanskrit Wikisource — देवीभागवतपुराणम् (public domain), converted to IAST; this skandha is not in the available scans of the Khemraj print and has not been checked against a print; repairs and readings listed in SOURCES §5.27; translations original",
+    "footer": "Source: Sanskrit Wikisource — देवीभागवतपुराणम् (public domain), converted to IAST; this skandha is not in the available scans of the Khemraj print; read in full against the Gita Press edition (Gorakhpur), whose readings were used only to correct the e-text's slips; repairs and readings listed in SOURCES §5.27; translations original",
     "sections": [
     {'speaker': 'bhayāturendrādidevaiḥ suraguruṇā saha parāmarśavarṇanam'},
     {'speaker': 'vyāsa uvāca'},
@@ -56,7 +56,7 @@ STOTRA = {
     {'padas': ["adhairyādyādṛśaṃ duḥkhaṃ na tu dhairye'sti tādṛśam |", 'durlabhaṃ sahanatvaṃ vai samaye sukhaduḥkhayoḥ'], 'num': '|| 39 ||', 'gloss': ''},
     {'padas': ['harṣaśokodbhavo yatra na bhaved buddhiniścayāt |', "kiṃ duḥkhaṃ kasya vā duḥkhaṃ nirguṇo'haṃ sadāvyayaḥ"], 'num': '|| 40 ||', 'gloss': ''},
     {'padas': ["caturviṃśātirikto'smi kiṃ me duḥkhaṃ sukhaṃ ca kim |", 'prāṇasya kṣutpipāse dve manasaḥ śokamūrchane'], 'num': '|| 41 ||', 'gloss': ''},
-    {'padas': ['jarāmṛtyū śarīrasya ṣaḍūrmirahitaḥ śivaḥ |', "śokamohau śarīrasya gaṇau kiṃ me'tra cintane"], 'num': '|| 42 ||', 'gloss': ''},
+    {'padas': ['jarāmṛtyū śarīrasya ṣaḍūrmirahitaḥ śivaḥ |', "śokamohau śarīrasya guṇau kiṃ me'tra cintane"], 'num': '|| 42 ||', 'gloss': ''},
     {'padas': ['śarīraṃ nāhamathavā tatsambandhī na cāpyaham |', "saptaikaṣoḍaśādibhyo vibhinno'haṃ sadā sukhī"], 'num': '|| 43 ||', 'gloss': ''},
     {'padas': ['prakṛtirvikṛtirnāhaṃ kiṃ me duḥkhaṃ sadā punaḥ |', 'iti matvā sureśa tvaṃ manasā bhava nirmamaḥ'], 'num': '|| 44 ||', 'gloss': ''},
     {'padas': ["upāyaḥ prathamo'yaṃ te duḥkhanāśe śatakrato |", 'mamatā paramaṃ duḥkhaṃ nirmamatvaṃ paraṃ sukham'], 'num': '|| 45 ||', 'gloss': ''},

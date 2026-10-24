@@ -936,8 +936,9 @@ The aṅgas and rahasyas have not been collated.
 
 **Scan coverage.** The two scans hold the māhātmya, skandhas 1–3, skandha 4
 adhyāyas 1–9 (the rest of that volume is handwritten), skandhas 7–10 and
-skandha 12 adhyāyas 11–14. Skandhas 5, 6 and 11, and the uncovered parts of
-4 and 12, are the e-text alone; their contents pages say so.
+skandha 12 adhyāyas 11–14. Skandha 5 is checked against Gita Press instead
+(below). Skandhas 6 and 11, and the uncovered parts of 4 and 12, are the
+e-text alone; their contents pages say so.
 
 **Method (option 2: targeted).** `tools/devibhagavatam/parse.py` reads the
 e-text and repairs its numbering by logged rules (the Rāmāyaṇa's, §5.25, plus
@@ -955,9 +956,24 @@ by `gen.py`); spelling conventions (anusvāra for a class nasal, doubling) are
 not collated. Volume 2 prints Nīlakaṇṭha's commentary in small type between
 the verses; only the mūla is read.
 
-Left as the e-text has them (no scan): 5.31 verse 22 (absent), 5.33 (a verse
-numbered 1 twice), 6.1 (no colophon). 9.20 exists twice on Wikisource with the
-same text; one copy is used.
+Left as the e-text has them (no scan): 5.33 (a verse numbered 1 twice; Gita
+Press prints the second as a bracketed passage inside verse 1), 6.1 (no
+colophon). 9.20 exists twice on Wikisource with the same text; one copy is used.
+
+**Skandha 5 against Gita Press.** No Khemraj scan reaches skandha 5. So all 35
+of its adhyāyas (2,086 verses) were read against the Gita Press edition
+(*Śrīmaddevībhāgavata Mahāpurāṇa* with Hindi translation, Gorakhpur, 2010
+printing; archive.org `21-devi-bhagavata-with-hindi-translation-vol-1-gitapress-2010`,
+leaves 539–730). Each Gita Press leaf was compared on the page image with the
+e-text verses that the OCR places on it. Gita Press is a modern copyrighted
+edition, so it was used only to correct the e-text's slips: 162 misspelt or
+broken words, such as *mathurāṃ* for *madhurāṃ* or *gṛhītvā* for *gahītvā*.
+One half-verse the e-text had dropped is restored, 5.31.22's *saukumāryañca
+dhairyañca parasparavirodhi yat*, so the adhyāya's verse 22 is no longer
+missing. Twelve real variants, where both readings are sound, are kept as
+the e-text has them and only listed. Everything is in
+`tools/devibhagavatam/gitapress.tsv`, which `gen.py` applies; none of Gita
+Press's Hindi is used.
 
 **Readings adopted from the Khemraj print**
 

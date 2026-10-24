@@ -11,7 +11,7 @@ STOTRA = {
     "subtitle": "Skandha 5 · adhyāya 7 of 35",
     "note": "The Śrīmad Devī Bhāgavata Mahāpurāṇa in Sanskrit, from Sanskrit Wikisource. Translations will follow.",
     "nav": [("‹ previous", "devibhagavatam-05-06-iast.html"), ("Skandha 5 · contents", "devibhagavatam-05-iast.html"), ("next ›", "devibhagavatam-05-08-iast.html")],
-    "footer": "Source: Sanskrit Wikisource — देवीभागवतपुराणम् (public domain), converted to IAST; this skandha is not in the available scans of the Khemraj print and has not been checked against a print; repairs and readings listed in SOURCES §5.27; translations original",
+    "footer": "Source: Sanskrit Wikisource — देवीभागवतपुराणम् (public domain), converted to IAST; this skandha is not in the available scans of the Khemraj print; read in full against the Gita Press edition (Gorakhpur), whose readings were used only to correct the e-text's slips; repairs and readings listed in SOURCES §5.27; translations original",
     "sections": [
     {'speaker': 'śaṅkaraśaraṇagamanavarṇanam'},
     {'speaker': 'vyāsa uvāca'},
@@ -77,7 +77,7 @@ STOTRA = {
     {'padas': ['militvā vāsudevaṃ vai kartavyaṃ kāryacintanam |', 'prapañcena ca buddhyā sa saṃvidhāsyati sādhanam'], 'num': '|| 55 ||', 'gloss': ''},
     {'speaker': 'vyāsa uvāca'},
     {'padas': ['iti rudravacaḥ śrutvā brahmādyāḥ surasattamāḥ |', 'utthitāste tathetyuktvā śivena saha satvarāḥ'], 'num': '|| 56 ||', 'gloss': ''},
-    {'padas': ['svakīyairvāhanaiḥ sarve yayuviṣṇapuraṃ prati |', 'muditāḥ śakunāndṛṣṭvā kāryasiddhikarāñchubhān'], 'num': '|| 57 ||', 'gloss': ''},
+    {'padas': ['svakīyairvāhanaiḥ sarve yayurviṣṇupuraṃ prati |', 'muditāḥ śakunāndṛṣṭvā kāryasiddhikarāñchubhān'], 'num': '|| 57 ||', 'gloss': ''},
     {'padas': ['vavurvātāḥ śubhāḥ śāntāḥ sugandhāḥ śubhaśaṃsinaḥ |', 'pakṣiṇaśca śivā vācastatrocuḥ pathi sarvaśaḥ'], 'num': '|| 58 ||', 'gloss': ''},
     {'padas': ['nirmalaṃ cābhavadvyoma diśaśca vimalāstathā |', 'gamane tatra devānāṃ sarvaṃ śubhamivābhavat'], 'num': '|| 59 ||', 'gloss': ''},
     {'colophon': "iti śrīmaddevībhāgavate mahāpurāṇe'ṣṭādaśasāhasryāṃ saṃhitāyāṃ pañcamaskandhe ||"},

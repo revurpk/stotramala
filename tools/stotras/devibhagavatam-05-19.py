@@ -11,7 +11,7 @@ STOTRA = {
     "subtitle": "Skandha 5 · adhyāya 19 of 35",
     "note": "The Śrīmad Devī Bhāgavata Mahāpurāṇa in Sanskrit, from Sanskrit Wikisource. Translations will follow.",
     "nav": [("‹ previous", "devibhagavatam-05-18-iast.html"), ("Skandha 5 · contents", "devibhagavatam-05-iast.html"), ("next ›", "devibhagavatam-05-20-iast.html")],
-    "footer": "Source: Sanskrit Wikisource — देवीभागवतपुराणम् (public domain), converted to IAST; this skandha is not in the available scans of the Khemraj print and has not been checked against a print; repairs and readings listed in SOURCES §5.27; translations original",
+    "footer": "Source: Sanskrit Wikisource — देवीभागवतपुराणम् (public domain), converted to IAST; this skandha is not in the available scans of the Khemraj print; read in full against the Gita Press edition (Gorakhpur), whose readings were used only to correct the e-text's slips; repairs and readings listed in SOURCES §5.27; translations original",
     "sections": [
     {'speaker': 'devīsāntvanam'},
     {'speaker': 'vyāsa uvāca'},
@@ -56,7 +56,7 @@ STOTRA = {
     {'padas': ['sarvaṃ kṛtaṃ tvayā devi kāryaṃ naḥ khalu sāmpratam |', 'yadayaṃ nihataḥ śatrurasmākaṃ mahiṣāsuraḥ'], 'num': '|| 36 ||', 'gloss': ''},
     {'padas': ["smariṣyāmo yathā te'mba sadaiva padapaṅkajam |", 'tathā kuru jaganmātarbhaktiṃ tvayyapyacañcalām'], 'num': '|| 37 ||', 'gloss': ''},
     {'padas': ['aparādhasahasrāṇi mātaiva sahate sadā |', 'iti jñātvā jagadyoniṃ na bhajante kuto janāḥ'], 'num': '|| 38 ||', 'gloss': ''},
-    {'padas': ["dvau suparṇo tu dehe'smiṃstayoḥ sakhyaṃ nirantaram |", "nānyaḥ sakhā tṛtīyo'sti yo'parādhaṃ saheta hi"], 'num': '|| 39 ||', 'gloss': ''},
+    {'padas': ["dvau suparṇau tu dehe'smiṃstayoḥ sakhyaṃ nirantaram |", "nānyaḥ sakhā tṛtīyo'sti yo'parādhaṃ saheta hi"], 'num': '|| 39 ||', 'gloss': ''},
     {'padas': ['tasmājjīvaḥ sakhāyaṃ tvāṃ hitvā kiṃ nu kariṣyati |', "pāpātmā mandabhāgyo'sau suramānuṣayoniṣu"], 'num': '|| 40 ||', 'gloss': ''},
     {'padas': ['prāpya dehaṃ suduṣprāpaṃ na smarettvāṃ narādhamaḥ |', 'manasā karmaṇā vācā brūmaḥ satyaṃ punaḥ punaḥ'], 'num': '|| 41 ||', 'gloss': ''},
     {'padas': ['sukhe vāpyathavā duḥkhe tvaṃ naḥ śaraṇamadbhutam |', 'pāhi naḥ satataṃ devi sarvaistava varāyudhaiḥ'], 'num': '|| 42 ||', 'gloss': ''},

@@ -24,6 +24,8 @@ OUT = TOOLS / "stotras"
 SCANNED = {"0": "all", "1": "all", "2": "all", "3": "all", "4": "1–9", "7": "all",
            "8": "all", "9": "all", "10": "all", "12": "11–14"}
 SAMPLED = {"0": "1", "1": "5", "2": "6", "3": "7", "4": "6", "7": "3–4", "8": "8", "9": "8", "10": "7", "12": "12"}
+# skandhas read in full against the Gita Press edition (gitapress.tsv)
+GITAPRESS = {"5"}
 NAME = lambda part: "Māhātmya" if part == "0" else f"Skandha {part}"
 
 
@@ -40,11 +42,14 @@ def loose(s):
     return re.compile(r"\s*".join(re.escape(c) for c in s.replace(" ", "")))
 
 
-def apply_khemraj(data):
+def apply_readings(data, name):
+    """Apply a readings file (khemraj.tsv, gitapress.tsv); op v rows are listed only."""
     report = []
-    ops = [l.split("\t") for l in (HERE / "khemraj.tsv").read_text(encoding="utf-8").splitlines()
+    ops = [l.split("\t") for l in (HERE / name).read_text(encoding="utf-8").splitlines()
            if l.strip() and not l.startswith("#")]
     for part, ch, n, op, old, new, *where in ops:
+        if op == "v":
+            continue
         vs = data[part][ch]["verses"]
         i = next((k for k, v in enumerate(vs) if v["n"] == int(n)), None)
         if i is None:
@@ -56,6 +61,14 @@ def apply_khemraj(data):
             if not hit:
                 report.append(f"{part}.{ch}.{n} r: '{old}' not found"); continue
             v["lines"][hit[0]] = rx.sub(new, v["lines"][hit[0]], count=1)
+        elif op == "add":                                   # a line the e-text dropped, after `old`
+            rx = loose(old)
+            hit = [k for k, l in enumerate(v["lines"]) if rx.match(l.strip())]
+            if not hit:
+                report.append(f"{part}.{ch}.{n} add: '{old}' not found"); continue
+            if any(loose(new).match(l.strip()) for l in v["lines"]):
+                continue
+            v["lines"].insert(hit[0] + 1, new)
         elif op == "drop":                                  # a contributor's note set as a line
             rx = loose(old)
             keep = [l for l in v["lines"] if not rx.fullmatch(l.strip())]
@@ -94,6 +107,8 @@ def footer(part):
     sc = SCANNED.get(part)
     chk = (f"checked against the Khemraj print (Śrī Veṅkaṭeśvara Press, Bombay, 1902) where it disagrees "
            f"with the e-text's numbering, and by sample (adhyāya {SAMPLED[part]})" if sc else
+           "this skandha is not in the available scans of the Khemraj print; read in full against the Gita Press "
+           "edition (Gorakhpur), whose readings were used only to correct the e-text's slips" if part in GITAPRESS else
            "this skandha is not in the available scans of the Khemraj print and has not been checked against a print")
     return ("Source: Sanskrit Wikisource — देवीभागवतपुराणम् (public domain), converted to IAST; " + chk +
             "; repairs and readings listed in SOURCES §5.27; translations original")
@@ -123,8 +138,9 @@ def write(slug, st, force):
 def main(argv):
     data = json.loads(pathlib.Path(argv[0]).read_text(encoding="utf-8"))
     force, only = "--force" in argv, set(argv[argv.index("--only") + 1:]) if "--only" in argv else None
-    for r in apply_khemraj(data):
-        print("khemraj.tsv:", r)
+    for name in ("khemraj.tsv", "gitapress.tsv"):
+        for r in apply_readings(data, name):
+            print(f"{name}:", r)
     parts = sorted(data, key=int)
     flat = [(p, int(c)) for p in parts for c in sorted(data[p], key=int)]
     href = lambda p, c: f"devibhagavatam-{int(p):02d}-{c:02d}-iast.html"
@@ -156,7 +172,8 @@ def main(argv):
                 written.append(1)
         nverses = sum(1 for c in chs for v in data[p][c]["verses"] if v["n"])
         top.append((NAME(p), f"devibhagavatam-{int(p):02d}-iast.html", f"{len(chs)} adhyāyas · {nverses:,} verses"
-                    + ("" if p in SCANNED else " · not checked against a print")))
+                    + ("" if p in SCANNED else " · checked against Gita Press" if p in GITAPRESS
+                       else " · not checked against a print")))
         if only and f"{int(p):02d}" not in only:
             continue
         i = parts.index(p)
