@@ -51,6 +51,7 @@ IAST, Devanāgarī, or Telugu (script bar at the top).
 | Gaṇeśa | Gaṇapati Atharvaśīrṣa (Gaṇeśa Upaniṣad) | [read](stotra/ganesha/ganapati-atharvashirsha-iast.html) |
 | Advaita | Īśāvāsya Upaniṣad (18 mantras) | [read](stotra/advaita/ishavasya-upanishad-iast.html) |
 | Veda | Puruṣa Sūktam — Ṛgveda 10.90, accented (16 ṛcs) | [read](stotra/veda/purusha-suktam-iast.html) |
+| Veda | Sandhyāvandanam — Kṛṣṇa Yajurveda (Taittirīya), morning, noon and evening; Saṃhitā/Ṛgveda mantras accented, glosses original | [read](stotra/veda/sandhyavandanam-iast.html) |
 | Veda | Manyu Sūktam — Ṛgveda 10.83–84, accented (14 ṛcs) | [read](stotra/veda/manyu-suktam-iast.html) |
 | Viṣṇu | Viṣṇu Sahasranāmam — the thousand names (108 verses) | [read](stotra/vishnu/vishnu-sahasranamam-iast.html) |
 | Viṣṇu | Śrī Satyanārāyaṇa Vratakalpam — full pūjā and the five-chapter kathā (Annavaram) | [read](stotra/vishnu/satyanarayana-vratakalpam-iast.html) |

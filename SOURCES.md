@@ -1045,6 +1045,64 @@ Press's Hindi is used.
 | 9.15 | verse १० ended mid-line |
 | 12.4 | 1 unnumbered prose passage(s) kept |
 
+### 5.28 Sandhyāvandanam, Kṛṣṇa Yajurveda (Taittirīya) — `stotra/veda/sandhyavandanam-iast.html`
+
+| Field | Value |
+|---|---|
+| Work | The daily twilight worship (sandhyāvandana) of the Taittirīya household: preliminaries, mārjana, prāśana (morning, noon, evening), arghya, Gāyatrī āvāhana, nyāsa, japa, upasthāna for the three times, concluding salutations |
+| Wording and order | B. V. Kamesvara Aiyar, *The Sandhyavandanam of Rig, Yajus, and Sâma Vedins*, Madras: G. A. Natesan, 1898 (archive.org `sandhyavandanam00aiyagoog`, Harvard copy scanned by Google). Public domain by age. The Yajurvedin mantras only; the Ṛgvedin and Sāmavedin alternatives the book also gives are left out |
+| Svaras | Taittirīya Saṃhitā, ed. A. Mahadeva Sastri and K. Rangacharya, vol. V, Mysore, 1896 (archive.org `ksu.a27.taittiriyasamhit0000amah`, pp. 370–383, TS 3.4.11); Taittirīya Saṃhitā, Bombay, 1888 (archive.org `ksu.a238.taittiriyasamhit0000tuka`; TS 1.4.43, 1.5.6, 2.1.11 checked); accented Ṛgveda on Sanskrit Wikisource (revisions: 10.9 r315287, 4.39 r402356, 3.62 r330443, 1.50 r401983, 1.115 r329056, 1.24 r401826, 1.25 r283258, 7.89 r201385) |
+| Recorded | 2026-11-07 |
+| Text status | ancient and public domain; both prints are public domain by age |
+
+**Why the svaras come from elsewhere.** The 1898 book prints the mantras
+in Devanāgarī with some svara marks, but they are incomplete: many akṣaras
+that need a mark are bare, and several mantras have none. Following the
+maintainer's choice, the wording and order are the book's, and the svaras
+come from the accented Saṃhitā and Ṛgveda texts the book itself cites.
+
+- **TS mantras read on the Mysore 1896 page:** *mitrasya carṣaṇīdhṛtaḥ*,
+  *mitro janān*, *pra sa mitra* (morning upasthāna), *ā satyena* (noon),
+  *yac cid dhi te*, *yat kiñcedam*, *kitavāso* (evening), all TS 3.4.11.
+  Where the TS reading differs from the Ṛgveda (*śravo … sānasim | satyaṃ*,
+  *prajānan*, *satyāya … vidhema*, *ā satyena … bhuvanā vipaśyan*, *devāthā*),
+  the TS reading is used, and it is also the book's.
+- **Ṛgveda mantras whose TS text has the same words:** *āpo hi ṣṭhā*
+  (ṚV 10.9.1–3 / TS 4.1.5), *dadhikrāvṇo* (4.39.6 / TS 1.5.11), the Gāyatrī
+  (3.62.10 / TS 1.5.6), *udu tyam* and *citram* (1.50.1, 1.115.1 / TS 1.4.43),
+  *imaṃ me varuṇa* and *tat tvā yāmi* (1.25.19, 1.24.11 / TS 2.1.11). Their
+  svaras and sandhi are the Ṛgveda saṃhitā's, half-verse by half-verse, as
+  Wikisource prints them; the TS prints compared (1888, leaves 41, 50, 110)
+  carry the same marks. The book's pauses after each pāda are therefore not
+  shown as daṇḍas.
+- **Spellings from the book, not the Ṛgveda:** *mṛḍaya*, *aheḍamāno* (ḍ for
+  the Ṛgveda's ḷ); Taittirīya *ꣳ* (shown *gṃ*, rendered ग्ं) in *aṃho* →
+  *agṃho* and *uruśagṃsa*; *yas te āditya* and *carṣaṇīdhṛtaḥ śravo* without
+  the TS's sandhi (*yasta āditya*, *dhṛtaśśravo*); *manuṣyāś carāmasi* in
+  the TS form, without the Ṛgveda's pluta.
+- **Unaccented:** the Taittirīya Āraṇyaka mantras (prāśana TA 10.23–25,
+  Gāyatrī-śiras, āvāhana TA 10.26, *uttame śikhare*, *antaś carati* TA 10.31,
+  *tac cakṣur … ya udagāt* TA 4) and the formulas (vyāhṛtis, saṅkalpa, nyāsa,
+  *asāv ādityo brahma*, the closing salutations). The only accented
+  public-domain TA 10 found, the Ānandāśrama print, is scanned at about 100
+  dpi, too coarse to read its marks. *Udvayaṃ tamasas pari* (TS 4.1.7) is also
+  unaccented: its TS reading (*paśyanto jyotir uttaram*) differs from the
+  Ṛgveda's, and no legible accented TS page of it was found.
+
+**Editorial notes.**
+- The book abbreviates the prāṇāyāma vyāhṛtis ("oṃ bhūḥ &c."); they are
+  written out as the seven (*oṃ bhūḥ … oṃ satyam*).
+- The book gives the quarter-salutation for the east and says "and so on";
+  only the east is printed, with a rubric for the others.
+- The evening and noon prāśana changes are given as the book gives them, as a
+  substitution list after the morning mantra.
+- The book's footnoted variants (*juṣasva me*, *jāte*, *abhyanujñānam*,
+  *netratrayāya*) are mentioned in the glosses, not adopted.
+- Ācamana formulas and the nyāsa's ṛṣi–chandas–devatā statement are
+  described in the book but not printed, so they are not given.
+- Rubrics and glosses are original; the book's word-by-word English
+  (after Sāyaṇa) was used only to check understanding.
+
 ## 6. Telugu-language works
 
 These are compositions in the **Telugu language** (not Sanskrit). For
