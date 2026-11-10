@@ -27,7 +27,9 @@ SUBTITLE = {1: "Yāska's Nirukta, adhyāya 1 · the introduction: the four kinds
             2: "Yāska's Nirukta, adhyāya 2 · the rules of derivation, and the first word-lists of the Nighaṇṭu: "
                "earth, gold, sky, rays, night, dawn, cloud, speech, water, rivers, horses",
             3: "Yāska's Nirukta, adhyāya 3 · the rest of the Nighaṇṭu's synonyms: offspring and inheritance, "
-               "men, the numbers, comparison, and the words that come in pairs"}
+               "men, the numbers, comparison, and the words that come in pairs",
+            4: "Yāska's Nirukta, adhyāya 4 · the Naigama-kāṇḍa begins: single obscure words of the hymns, "
+               "from jahā to the wheel of the year"}
 NOTE = ("Yāska's Nirukta, the oldest surviving treatise on Vedic etymology and a commentary on the "
         "Nighaṇṭu. The text is Lakshman Sarup's critical edition (1927); words in square brackets are "
         "found in only part of the manuscripts. Quotations Sarup sets apart (mantras, and phrases from "
