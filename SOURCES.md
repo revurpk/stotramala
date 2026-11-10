@@ -1341,6 +1341,56 @@ support, each of which was looked at again on the image.
 
 The English glosses, one for each khaṇḍa, are original.
 
+### 5.31 Nirukta — `stotra/veda/nirukta-1-iast.html`
+
+| Field | Value |
+|---|---|
+| Work | Yāska's Nirukta, the commentary on the Nighaṇṭu (§5.30): twelve adhyāyas and two pariśiṣṭas. Adhyāya 1 (20 khaṇḍas), the introduction, is done so far, one page an adhyāya |
+| Source | Lakshman Sarup, *The Nighaṇṭu and the Nirukta*, vol. I: Sanskrit text, 1927 (as §5.30) — archive.org `in.ernet.dli.2015.282287`, adhyāya 1 = leaves n66–n82 = printed pp. 27–43. Public domain: Sarup died in 1946 |
+| Recorded | 2026-11-10 |
+| Text status | ancient and public domain; the edition public domain by age |
+
+**Not Wikisource.** Sanskrit Wikisource's Nirukta is copied from the
+Maharishi University of Management Vedic Literature Collection, which is
+distributed "for education purpose only"; it was not used, not even as a
+check.
+
+**Method.** Each page of Sarup's Nirukta carries the text above a rule and
+a long apparatus below it. `tools/nirukta/maintext.py` finds the rule and
+crops the text; `tools/nirukta/ocrmain.sh` fetches each leaf and runs
+Tesseract on the crop. The text was read off the page images, paragraph by
+paragraph, into `tools/nirukta/nirukta1.txt`, with the OCR as a draft.
+`tools/nirukta/ocrcheck.py` then lists every word the OCR does not
+support; the 64 it listed for adhyāya 1 were each looked at again on the
+image (all were OCR failures, chiefly on mantras and long compounds).
+Readings in doubt were checked on the full-resolution scan.
+`tools/nirukta/gen_nirukta.py` writes the page from the transcription and
+the English key `tools/nirukta/gloss1.txt`.
+
+**Editorial notes.**
+
+- Sarup's square brackets (words found in only part of the manuscripts)
+  and his khaṇḍa numbers are kept; his footnotes and footnote markers are
+  not.
+- Sarup prints svaras on the quoted mantras; they are not carried.
+- Quotations he sets apart on their own lines (mantras, and in smaller type
+  phrases from the Brāhmaṇas) are separate lines here, in his order.
+- His spellings are kept as printed: anusvāra before a stop where he
+  prints it (*paṃcamī-*, *saṃprayujyate*, *naighaṃṭukam*,
+  *kiñcittṛṃdyāt*), the Ṛgvedic ḷ and ḷh (*krīḷantau*, *mṛḷa*,
+  *parivṛḷhaḥ*), and his word division.
+- 1.4 reads *[ ācārya kasmāt ]*, without visarga, as printed.
+- 1.5 reads *athāpi nu nanu ity etābhyāṃ*, as printed.
+- 1.6: an ink smudge on leaf n71 covers part of *śvastanam* and of
+  *idam apītarad adbhutam*; what is legible agrees with that reading.
+- The opening line (*śrīyāskamuniviracitaṃ niruktaṃ prārabhyate*), the
+  closing lines, and the khaṇḍānukramaṇī (the opening words of the twenty
+  khaṇḍas) that Sarup prints after the adhyāya are kept, the last as a
+  small passage under a rubric.
+
+The heading and English summary of each khaṇḍa are original; they
+summarise, they do not translate.
+
 ## 6. Telugu-language works
 
 These are compositions in the **Telugu language** (not Sanskrit). For
