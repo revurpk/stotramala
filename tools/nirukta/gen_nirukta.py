@@ -29,7 +29,9 @@ SUBTITLE = {1: "Yāska's Nirukta, adhyāya 1 · the introduction: the four kinds
             3: "Yāska's Nirukta, adhyāya 3 · the rest of the Nighaṇṭu's synonyms: offspring and inheritance, "
                "men, the numbers, comparison, and the words that come in pairs",
             4: "Yāska's Nirukta, adhyāya 4 · the Naigama-kāṇḍa begins: single obscure words of the hymns, "
-               "from jahā to the wheel of the year"}
+               "from jahā to the wheel of the year",
+            5: "Yāska's Nirukta, adhyāya 5 · the Naigama-kāṇḍa continued: obscure words of the hymns, "
+               "from sasni to sṛṇi, the goad"}
 NOTE = ("Yāska's Nirukta, the oldest surviving treatise on Vedic etymology and a commentary on the "
         "Nighaṇṭu. The text is Lakshman Sarup's critical edition (1927); words in square brackets are "
         "found in only part of the manuscripts. Quotations Sarup sets apart (mantras, and phrases from "
@@ -80,12 +82,14 @@ def main(n):
             l = l[1:].strip()
         verse = l.endswith("#v")      # a number Sarup prints on a quoted verse, not a khaṇḍa's
         l = l[:-2].strip() if verse else l
-        m = None if verse else re.search(r"॥\s*([०-९]+)\s*॥\s*$", l)
+        # a khaṇḍa may close inside Sarup's bracket, when he prints a whole paragraph as found
+        # in only part of the manuscripts: "… ॥ २७ ॥ ]"
+        m = None if verse else re.search(r"॥\s*([०-९]+)\s*॥\s*(\])?\s*$", l)
         if not m:
             padas.append(iast(l))
             continue
         k = int(m.group(1).translate(DIG))
-        padas.append(iast(l[:m.start()]))
+        padas.append(iast(l[:m.start()]) + (" ]" if m.group(2) else ""))
         if k != len(done) + 1:
             sys.exit(f"khaṇḍa {k} out of order after {len(done)}")
         head, g = gloss[k]

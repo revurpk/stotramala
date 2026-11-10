@@ -1356,6 +1356,7 @@ The English glosses, one for each khaṇḍa, are original.
 | 2 | 28 | n83–n97 | 44–58 | 59, all OCR failures |
 | 3 | 22 | n98–n113 | 59–74 | 68; two led to keeping the print's word division (below) |
 | 4 | 27 | n114–n129 | 75–90 | 64, all OCR failures |
+| 5 | 28 | n130–n147 | 91–108 | 76, all OCR failures |
 
 **Not Wikisource.** Sanskrit Wikisource's Nirukta is copied from the
 Maharishi University of Management Vedic Literature Collection, which is
@@ -1418,6 +1419,12 @@ the English keys `tools/nirukta/glossN.txt`.
   (*[ rajāṃsi citrā vi caranti tānyavaḥ … ]*, *[ pratyagne harasā haraḥ
   śṛṇīhi … ]*, *[ gātuṃ kṛṇvann uṣaso janāya … ]*), being found in only part
   of the manuscripts, keep their brackets.
+
+- 5.27: after the khaṇḍa Sarup prints, in brackets, a second version of
+  its comment (*sudevas tvaṃ kalyāṇadevaḥ … bīriṭaṃ taiṭīkiḥ …*), found in
+  only part of the manuscripts, which closes with its own ॥ २७ ॥. Both are
+  kept, the bracketed one last in the khaṇḍa.
+- 5.7 *akra juhvāno*, 5.17 *aṅkitam evāñcitam*, as printed.
 
 The heading and English summary of each khaṇḍa are original; they
 summarise, they do not translate.
