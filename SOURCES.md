@@ -1294,6 +1294,53 @@ Translations will follow; the varga descriptions in English are original.
 | 2.8.972 | v | भेदो दण्डः साम दानमित्युपायचतुष्टयम् | सामदाने भेददण्डावित्युपायचतुष्टयम् | 185 |
 | 1.1.162 | v | कैलासः स्थानमलका | कैलासस्थानमलका | 17 |
 
+### 5.30 Nighaṇṭu — `stotra/veda/nighantu-iast.html`
+
+| Field | Value |
+|---|---|
+| Work | The Nighaṇṭu, the Vedic word-lists on which Yāska's Nirukta is a commentary: five adhyāyas, 78 khaṇḍas (adhyāyas 1–3 synonyms, 4 the Naigama-kāṇḍa of single words, 5 the Daivata-kāṇḍa of deities) |
+| Source | Lakshman Sarup, *The Nighaṇṭu and the Nirukta*, vol. I: Sanskrit text, University of the Panjab, Lahore, 1927, printed at the Nirṇaya Sāgara Press, Bombay — archive.org `in.ernet.dli.2015.282287` (Digital Library of India), leaves n40–n65 = printed pp. 1–26. Public domain: Sarup died in 1946 |
+| Also used | Rudolph Roth, *Jâska's Nirukta sammt den Nighaṇṭavas*, Göttingen, 1852 (archive.org `india.history.resource.41273`, p. 18), for two words torn away in the scan (below) |
+| Recorded | 2026-11-09 |
+| Text status | ancient and public domain; both editions public domain by age |
+
+**Why not Wikisource.** Sanskrit Wikisource has the Nighaṇṭu and the
+Nirukta. Its Nirukta pages are marked as copied from the Maharishi
+University of Management Vedic Literature Collection, which is
+distributed "for education purpose only", so they were not used. Its
+Nighaṇṭu pages name no source at all, so the text was taken from a print
+instead.
+
+**Method.** archive.org's OCR of the scan is unusable, so each leaf was
+fetched at full size and read off the image; Tesseract 5 (Sanskrit
+model, after `tools/nirukta/clean.py` removes the scan's grain) was run on
+every leaf as a check. The transcription is `tools/nirukta/nighantu.txt`;
+`tools/nirukta/check.py` compares each khaṇḍa's word count with the count
+its own closing words state (गोत्रेत्येकविंशतिः …) — all 78 agree, two
+counting one more word that only the longer recension has (2.5
+*gabhastayaḥ*, 2.7 *yaśaḥ*) — and lists every word Tesseract does not
+support, each of which was looked at again on the image.
+`tools/nirukta/gen_nighantu.py` writes the page.
+
+**Editorial notes.**
+
+- Sarup's square brackets, which mark what is found in only part of the
+  manuscripts (chiefly each khaṇḍa's count of its words), are kept.
+- Sarup prints the svaras; they are not carried (a later pass may add them).
+- His section numbers are kept; his footnotes (manuscript readings) and
+  footnote markers are not.
+- Where he prints the shorter recension's form of a khaṇḍa as an
+  alternative (2.14, 3.14 from *bhandate*, 3.16), only his main text is
+  given, and a rubric says so.
+- The summary verses that some manuscripts add after each adhyāya, which
+  Sarup prints with their sigla, are kept as small passages under a rubric.
+- Leaf n54 (p. 15) is torn across 3.1–3.2: *sahasram । salilam* (3.1) and
+  *hrasvaḥ । nighṛṣvaḥ* (3.2) are supplied from Roth (1852), whose text
+  agrees with Sarup's on the rest of both khaṇḍas.
+- 3.7 reads *śaṣyamiti rūpasya* (so the text and Sarup's footnote).
+
+The English glosses, one for each khaṇḍa, are original.
+
 ## 6. Telugu-language works
 
 These are compositions in the **Telugu language** (not Sanskrit). For

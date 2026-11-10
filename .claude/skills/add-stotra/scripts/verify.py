@@ -134,8 +134,9 @@ def data_roundtrip(slug):
     padas = [p for s in m.STOTRA["sections"] if isinstance(s, dict) and "padas" in s
              for p in s["padas"]]
     # Ḷ = vocalic ḷ (ऌ); prose padas (viniyoga, nyāsa) may carry “quotes” and
-    # ordinary punctuation, which pass through the renderer unchanged
-    ok = set("abcdeghijklmnoprstuvyāīūṛṝḷḹḶṅñṭḍṇśṣṃḥṁ '|—…()_^0123456789“”,.;:?!–")
+    # ordinary punctuation, which pass through the renderer unchanged; square
+    # brackets carry an editor's critical marks (the Nighaṇṭu, after Sarup)
+    ok = set("abcdeghijklmnoprstuvyāīūṛṝḷḹḶṅñṭḍṇśṣṃḥṁ '|—…()[]_^0123456789“”,.;:?!–")
     bad = 0
     for p in padas:
         stray = set(p) - ok
