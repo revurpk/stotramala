@@ -1341,13 +1341,13 @@ support, each of which was looked at again on the image.
 
 The English glosses, one for each khaṇḍa, are original.
 
-### 5.31 Nirukta — `stotra/veda/nirukta-1-iast.html`
+### 5.31 Nirukta — `stotra/veda/nirukta-1-iast.html`, `nirukta-2-iast.html`
 
 | Field | Value |
 |---|---|
-| Work | Yāska's Nirukta, the commentary on the Nighaṇṭu (§5.30): twelve adhyāyas and two pariśiṣṭas. Adhyāya 1 (20 khaṇḍas), the introduction, is done so far, one page an adhyāya |
-| Source | Lakshman Sarup, *The Nighaṇṭu and the Nirukta*, vol. I: Sanskrit text, 1927 (as §5.30) — archive.org `in.ernet.dli.2015.282287`, adhyāya 1 = leaves n66–n82 = printed pp. 27–43. Public domain: Sarup died in 1946 |
-| Recorded | 2026-11-10 |
+| Work | Yāska's Nirukta, the commentary on the Nighaṇṭu (§5.30): twelve adhyāyas and two pariśiṣṭas. Adhyāyas 1 (20 khaṇḍas, the introduction) and 2 (28 khaṇḍas) are done so far, one page an adhyāya |
+| Source | Lakshman Sarup, *The Nighaṇṭu and the Nirukta*, vol. I: Sanskrit text, 1927 (as §5.30) — archive.org `in.ernet.dli.2015.282287`, adhyāya 1 = leaves n66–n82 = printed pp. 27–43, adhyāya 2 = leaves n83–n97 = pp. 44–58. Public domain: Sarup died in 1946 |
+| Recorded | 2026-11-10 (adhyāyas 1–2) |
 | Text status | ancient and public domain; the edition public domain by age |
 
 **Not Wikisource.** Sanskrit Wikisource's Nirukta is copied from the
@@ -1359,13 +1359,13 @@ check.
 a long apparatus below it. `tools/nirukta/maintext.py` finds the rule and
 crops the text; `tools/nirukta/ocrmain.sh` fetches each leaf and runs
 Tesseract on the crop. The text was read off the page images, paragraph by
-paragraph, into `tools/nirukta/nirukta1.txt`, with the OCR as a draft.
+paragraph, into `tools/nirukta/nirukta1.txt` and `nirukta2.txt`, with the OCR as a draft.
 `tools/nirukta/ocrcheck.py` then lists every word the OCR does not
-support; the 64 it listed for adhyāya 1 were each looked at again on the
-image (all were OCR failures, chiefly on mantras and long compounds).
+support; the 64 it listed for adhyāya 1 and the 59 for adhyāya 2 were each
+looked at again on the image (all were OCR failures, chiefly on mantras and long compounds).
 Readings in doubt were checked on the full-resolution scan.
 `tools/nirukta/gen_nirukta.py` writes the page from the transcription and
-the English key `tools/nirukta/gloss1.txt`.
+the English keys `tools/nirukta/glossN.txt`.
 
 **Editorial notes.**
 
@@ -1387,6 +1387,16 @@ the English key `tools/nirukta/gloss1.txt`.
   closing lines, and the khaṇḍānukramaṇī (the opening words of the twenty
   khaṇḍas) that Sarup prints after the adhyāya are kept, the last as a
   small passage under a rubric.
+
+- 2.3: the verse *yasmāt paraṃ nāparam asti* … (Taittirīya Āraṇyaka
+  10.10.3), which Sarup numbers ॥ ३ ॥ in the middle of the khaṇḍa, keeps
+  that number in the text; the khaṇḍa's own ॥ ३ ॥ follows on the next
+  leaf.
+- 2.6 reads *kṣākṣiyater nivāsakarmaṇaḥ*, 2.16 *śarīrasya śrotāṃsi*, 2.17
+  *tadu vṛtrasya vṛtratvam* (three times), as printed.
+- 2.28: the khaṇḍānukramaṇī reads *vidyā ha vai*; the vowel sign of *vai*
+  is under a footnote mark in the scan, and the verse it cites (2.4) begins
+  *vidyā ha vai*.
 
 The heading and English summary of each khaṇḍa are original; they
 summarise, they do not translate.

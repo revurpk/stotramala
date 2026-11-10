@@ -6,7 +6,8 @@ the English key tools/nirukta/glossN.txt.
 niruktaN.txt: one paragraph a line; "> …" a quotation Sarup sets apart; a khaṇḍa closes
 with ॥ N ॥; "= …" a closing or opening line in Sanskrit (a colophon); "+ note: [ Sanskrit ]"
 an editorial note in English with a Sanskrit passage, set as a rubric and a small passage;
-"@N" records the leaf; other "#" lines are comments.
+"@N" records the leaf; other "#" lines are comments; a line ending "#v" carries a
+number Sarup prints on a quoted verse, kept in the text and not read as a khaṇḍa's.
 glossN.txt: "N | heading | gloss" for each khaṇḍa.
 Each khaṇḍa becomes a heading (for the contents panel) and one unit whose padas are its
 paragraphs and quotations, with the khaṇḍa number and the English gloss.
@@ -22,7 +23,9 @@ from dev2iast import dev2iast  # noqa: E402
 
 DIG = str.maketrans("०१२३४५६७८९", "0123456789")
 SUBTITLE = {1: "Yāska's Nirukta, adhyāya 1 · the introduction: the four kinds of words, "
-               "the particles, the derivation of nouns, the meaning of the mantras"}
+               "the particles, the derivation of nouns, the meaning of the mantras",
+            2: "Yāska's Nirukta, adhyāya 2 · the rules of derivation, and the first word-lists of the Nighaṇṭu: "
+               "earth, gold, sky, rays, night, dawn, cloud, speech, water, rivers, horses"}
 NOTE = ("Yāska's Nirukta, the oldest surviving treatise on Vedic etymology and a commentary on the "
         "Nighaṇṭu. The text is Lakshman Sarup's critical edition (1927); words in square brackets are "
         "found in only part of the manuscripts. Quotations Sarup sets apart (mantras, and phrases from "
@@ -55,6 +58,10 @@ def main(n):
             continue
         if l.startswith("="):
             body = l[1:].strip().strip("॥ ").rstrip("।").strip()
+            if "|" in body:          # "= Sanskrit | English"
+                skt, en = (x.strip() for x in l[1:].split("|", 1))
+                secs.append({"colophon": iast(skt), "gloss": en})
+                continue
             if body not in COLOPHON:
                 sys.exit(f"colophon without an English gloss: {body}")
             secs.append({"colophon": iast(l[1:]), "gloss": COLOPHON[body]})
@@ -67,7 +74,9 @@ def main(n):
             continue
         if l.startswith(">"):
             l = l[1:].strip()
-        m = re.search(r"॥\s*([०-९]+)\s*॥\s*$", l)
+        verse = l.endswith("#v")      # a number Sarup prints on a quoted verse, not a khaṇḍa's
+        l = l[:-2].strip() if verse else l
+        m = None if verse else re.search(r"॥\s*([०-९]+)\s*॥\s*$", l)
         if not m:
             padas.append(iast(l))
             continue
