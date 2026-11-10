@@ -25,7 +25,9 @@ DIG = str.maketrans("०१२३४५६७८९", "0123456789")
 SUBTITLE = {1: "Yāska's Nirukta, adhyāya 1 · the introduction: the four kinds of words, "
                "the particles, the derivation of nouns, the meaning of the mantras",
             2: "Yāska's Nirukta, adhyāya 2 · the rules of derivation, and the first word-lists of the Nighaṇṭu: "
-               "earth, gold, sky, rays, night, dawn, cloud, speech, water, rivers, horses"}
+               "earth, gold, sky, rays, night, dawn, cloud, speech, water, rivers, horses",
+            3: "Yāska's Nirukta, adhyāya 3 · the rest of the Nighaṇṭu's synonyms: offspring and inheritance, "
+               "men, the numbers, comparison, and the words that come in pairs"}
 NOTE = ("Yāska's Nirukta, the oldest surviving treatise on Vedic etymology and a commentary on the "
         "Nighaṇṭu. The text is Lakshman Sarup's critical edition (1927); words in square brackets are "
         "found in only part of the manuscripts. Quotations Sarup sets apart (mantras, and phrases from "
