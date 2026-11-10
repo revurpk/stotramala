@@ -1103,6 +1103,197 @@ come from the accented Saṃhitā and Ṛgveda texts the book itself cites.
 - Rubrics and glosses are original; the book's word-by-word English
   (after Sāyaṇa) was used only to check understanding.
 
+### 5.29 Amarakośa (Nāmaliṅgānuśāsana) — `stotra/amarakosha/`
+
+| Field | Value |
+|---|---|
+| Work | Amarasiṃha's *Nāmaliṅgānuśāsana*, the Amarakośa: three kāṇḍas, 25 vargas as the print divides them, 1,500 numbered ślokas plus the kṣepakas |
+| Source | Sanskrit Wikisource, `अमरकोशः/प्रथमकाण्डम्` (rev 407023), `/द्वितीयकाण्डम्` (rev 340250), `/तृतीयकाण्डम्` (rev 407024), fetched 2026-11-09. The e-text names no edition; it sets one half-verse a line with a running count (॥ K.V.N ॥) |
+| Read against | *Nāmaliṅgānuśāsanam* with Maheśvara's *Amaraviveka*, enlarged by Raghunātha Śāstrī Talekar, ed. Cintāmaṇi Śāstrī Thatte under F. Kielhorn, 2nd ed., Bombay: Government Central Book Depot, 1882, printed at the Nirṇaya Sāgara Press (archive.org `20231127_20231127_1402`, scan with tesseract OCR). Public domain by age |
+| Recorded | 2026-11-09 |
+| Text status | ancient and public domain; the e-text is used as public domain as for §5; the 1882 print is public domain |
+
+**Why the print.** The e-text has no śloka division of its own: it
+numbers half-verses straight through each kāṇḍa, and it runs later
+interpolations (kṣepakas) into the mūla unmarked, so its half-verses
+cannot simply be paired. The 1882 print sets the kośa in large type over
+the commentary, numbers the ślokas afresh in each varga, and puts every
+kṣepaka in quotation marks. Its structure is followed throughout; its
+commentary is not used. (A 1940 Poona edition with English equivalents,
+on archive.org as `AmaraKosa`, is in copyright and was not used.)
+
+**Method.** `tools/amarakosha/`: `parse.py` reads the e-text into vargas
+and applies `print1882.tsv`; `ocr.py` pulls the kośa lines out of the
+print's OCR by type size; `align.py` aligns every e-text half-verse with
+a print line (2,915 of 3,119 matched; the rest are lines the OCR lost or
+lines the print lacks); `number.py` closes a śloka wherever the print
+closes one with ॥ N ॥ and marks the quoted spans as kṣepakas, checking its
+own count against the print's digits; `gen.py` writes the pages. Every
+place where the count and the print's digits disagreed for more than a
+stray misread was settled on the page image (`leaf.py`, `crop.ps1`), and
+the outcome recorded in `print1882.tsv`; in the final state the two agree
+everywhere except two runs of three where the OCR reads ४ as २. All
+lines that fail the anuṣṭubh count (anything but 16 syllables, āryās
+aside) were read against the print, as was one leaf of every varga in
+full (leaves 11, 17, 21, 28, 34, 39, 47, 54, 56, 62, 67, 72, 77, 80, 101,
+126, 149, 173, 194, 224, 244, 282, 318, 352, 365). Spelling conventions
+(anusvāra for a class nasal, the print's `ऽ` spacing) are not collated.
+
+**Structure.** The print's vargas are kept: it runs the opening verses
+into the svargavarga, the vāgvarga and śabdavarga into one śabdādivarga,
+each kāṇḍa's opening into its first varga, and the indeclinables of
+several meanings into the nānārthavarga, and the pages follow (with a
+heading where the e-text's section changes). The first kāṇḍa's closing
+verse, numbered on its own in the print, ends the vārivarga page. A varga
+may end on a half-śloka (as the print has it). Kṣepakas — 51 passages —
+and the 20 runs the e-text has and the print lacks are kept, set a size
+smaller under a rubric that says which they are, so nothing in the e-text
+is dropped. The e-text's tallies of verses (अत्र मूलश्लोकाः …), a running
+count fused to some lines (९७०, …), and a contributor's query are
+removed; its group markers in the nānārthavarga (इति कान्ताः …) are kept
+as colophons, three moved to where the print sets them. The print's
+marker इति प्राणिवर्गः inside the viśeṣyanighnavarga, which falls between
+the halves of a śloka, is not set. Each page closes with the print's
+इति … वर्गः, and each kāṇḍa with its colophon as the print gives it (the
+e-text cut the second's short and dropped the third's).
+
+Translations will follow; the varga descriptions in English are original.
+
+**Readings of the 1882 print adopted (r, line, add, join, move)**
+
+| Where | Op | E-text | Print | Leaf |
+|---|---|---|---|---|
+| 2.8.963 | line | लिखिताक्षरविन्यासे संस्थाने | लिखिताक्षरसंस्थाने लिपिर्लिबिरुभे स्त्रियौ | 183 |
+| 2.8.973 | line | साहसं तु समो दमो | साहसं तु दमो दण्डः साम सान्त्वमथो समौ | 185 |
+| 2.8.1016 | line | दूष्या चूषा | दूष्या कक्ष्या वरत्रा स्यात्कल्पना सज्जना समे | 190 |
+| 2.8.1019 | line | घोटके वीति पीति | घोटके वीतितुरगतुरङ्गाश्वतुरङ्गमाः | 190 |
+| 3.3.348 | join | च यः |  | 290 |
+| 3.3.352 | r | स्याद्व्याग्रेऽपि | स्याद्व्याघ्रेऽपि | 291 |
+| 3.3.363 | r | धृणिज्वाले | घृणिज्वाले | 291 |
+| 1.1.101 | line | व्ऱीद्धश्रवाः सुनासीरः पुरुहूतः पुरन्दरः | वृद्धश्रवाः शुनासीरः पुरुहूतः पुरन्दरः | 11 |
+| 2.4.211 | add |  | शोणकश्चारलौ तिष्यफला त्वामलकी त्रिषु | 95 |
+| 2.6.789 | add |  | घनसारश्चन्द्रसंज्ञः सिताभ्रो हिमवालुका | 163 |
+| 2.6.789.1 | add |  | गन्धसारो मलयजो भद्रश्रीश्चन्दनोऽस्त्रियाम् | 163 |
+| 3.3.414 | r | दक्षामन्दागदेषु तु | दक्षामन्दागदेषु च | 296 |
+| 3.3.590 | line | व्युत्थानं प्रतिरोधे च विरोधाचरणेऽपि च | उत्थानं पौरुषे तन्त्रे संनिविष्टोद्गमेऽपि च | 313 |
+| 3.3.591 | line | उत्थानं पौरुषे तन्त्रे संनिविष्टोद्गमेऽपि च | व्युत्थानं प्रतिरोधे च विरोधाचरणेऽपि च | 313 |
+| 3.3.604 | r | संविधानम | संपिधानम | 314 |
+| 3.3.815 | r | कोषोऽस्त्री | कोशोऽस्त्री | 337 |
+| 3.3.815 | move |  | 806 | 337 |
+| 1.1.139 | r | कोणपः क्रव्यात्क्र्व्यादो | कौणपः क्रव्यात्क्रव्यादो | 15 |
+| 1.2.170 | r | विहासयोऽपि | विहायसोऽपि | 17 |
+| 1.2.170 | r | तदव्यम् | तदव्ययम् | 17 |
+| 1.3.176 | r | दीचीचीनम | दीचीनम | 18 |
+| 1.3.194 | r | विद्युच्च्ञ्चला | विद्युच्चञ्चला | 19 |
+| 1.3.208 | r | प्रसाद्स्तु | प्रसादस्तु | 20 |
+| 1.6.353 | r | व्यवहार | व्याहार | 36 |
+| 1.8.426 | r | साम्यममथा | साम्यमथा | 45 |
+| 1.10.514 | r | निर्र्तिः | निर्ऋतिः | 55 |
+| 2.1.24 | r | एवादिमावेववम | एवादिमावेवम | 72 |
+| 2.4.194 | r | ष्ड्ग्रन्थो | षड्ग्रन्थो | 93 |
+| 2.4.244 | r | कुरकण्टकः | कुरण्टकः | 99 |
+| 2.4.370 | r | छगलान्त्रयावेगी | छगलान्त्र्यावेगी | 112 |
+| 2.4.395 | r | स्याद्वाअतकः | स्याद्वातकः | 115 |
+| 2.6.654 | r | क्र्व्यम | क्रव्यम | 149 |
+| 2.6.655 | r | उत्ततप्तं शुश्कमांसं | उत्तप्तं शुष्कमांसं | 149 |
+| 2.6.699 | r | संहततलप्रतलौ | संहतलप्रतलौ | 154 |
+| 2.6.703 | r | स्तिर्यगनन्तरम् | स्तिर्यगन्तरम् | 154 |
+| 2.6.803 | r | खट्व्या | खट्वया | 165 |
+| 2.7.828 | r | गीर्पतीष्टया | गीष्पतीष्ट्या | 168 |
+| 2.7.871 | r | म्र्तार्थं | मृतार्थं | 173 |
+| 2.7.884 | r | चाअदिकविः | चादिकविः | 174 |
+| 2.7.920 | r | तद्वत्क्.च्छं | तद्वत्कृच्छ्रं | 178 |
+| 2.8.962 | r | लिपिकारोऽक्षरचरणो | लिपिकरोऽक्षरचणो | 183 |
+| 2.8.1038 | r | प्रेङ्खाअदिकाः | प्रेङ्खादिकाः | 193 |
+| 2.8.1117 | r | स्याच्छ्स्त्री | स्याच्छस्त्री | 202 |
+| 2.8.1121 | r | राज्ञानां | राज्ञां | 203 |
+| 2.8.1148 | r | पताहादम्बरओ | पटहाडम्बरौ | 206 |
+| 2.8.1151 | r | मोहो.आप्यवमर्दस्तु पीदनम् | मोहोऽप्यवमर्दस्तु पीडनम् | 206 |
+| 2.9.1193 | r | खरीवापस्तु | खारीवापस्तु | 211 |
+| 2.9.1193 | r | उत्त्मर्ण | उत्तमर्ण | 211 |
+| 2.9.1231 | r | अङ्गारधानिकाङ्गागरशकट्यपि | अङ्गारधानिकाङ्गारशकट्यपि | 217 |
+| 2.9.1274 | r | गोमयस्त्रियाम् | गोमयमस्त्रियाम् | 223 |
+| 2.9.1310 | r | चतुर्हाण्येवं | चतुर्हायण्येवं | 227 |
+| 2.9.1315 | r | स्यात्नवसूतिका | स्यान्नवसूतिका | 228 |
+| 3.1.68 | r | स्यादवाङ्प्यधोमुखः | स्यादवाङप्यधोमुखः | 260 |
+| 3.1.118 | r | परार्ध्याग्रप्राग्रहरप्राग्रयाग्रयाग्रीयमग्रियम् | परार्ध्याग्र्यप्राग्रहरप्राग्र्याग्र्याग्रीयमग्रियम् | 265 |
+| 3.1.122 | r | अप्राग्रयं | अप्राग्र्यं | 266 |
+| 3.1.129 | r | भूयश च | भूयश्च | 267 |
+| 3.1.177 | r | नुत्तनुन्नास्तनिष्ठयूता | नुत्तनुन्नास्तनिष्ठ्यूता | 271 |
+| 3.2.303 | r | निष्ठयूति | निष्ठ्यूति | 285 |
+| 3.3.480 | r | विस्तार वल्लयोर्व्रततिर् | विस्तारवल्ल्योर्व्रततिर् | 302 |
+| 3.3.549 | r | स्यात्प्रकृतस्यादि विनश्वरे | स्यात्प्रकृत्यादिविनश्वरे | 309 |
+| 3.3.550 | r | प्रकृत्यानुवर्तने | प्रकृतस्यानुवर्तने | 309 |
+| 3.3.626 | r | पुमूबहुत्वेऽपि | पुंबहुत्वेऽपि | 316 |
+| 3.6.987 | r | द्वयष्कम | द्व्यच्कम | 365 |
+| 3.6.990 | r | द्वन्द्वैक्त्वा | द्वन्द्वैकत्वा | 365 |
+| 2.4.248 | r | ओण्ड्रपुष्पं | ओड्रपुष्पं | 99 |
+| 1.3.215 | r | स्यातगस्त्यः | स्यादगस्त्यः | 21 |
+| 1.3.218 | r | दाक्षायिण्योऽश्विनी | दाक्षायण्योऽश्विनी | 21 |
+| 1.3.220 | r | धनिष्ठाः स्युः | धनिष्ठा स्युः | 21 |
+| 1.5.340 | r | पूतिगन्धस्तु | पूतिगन्धिस्तु | 34 |
+| 2.4.265 | r | पाटाम्बष्टा विद्धकर्न्णी | पाठाम्बष्ठा विद्धकर्णी | 101 |
+| 2.4.266 | r | एकाष्टीला | एकाष्ठीला | 101 |
+| 2.6.660 | r | पुरीतगुल्मस्तु | पुरीतत् गुल्मस्तु | 149 |
+| 2.7.872 | r | शस्त्रतः | शास्त्रतः | 173 |
+| 2.8.1047 | r | अनुकर्षी | अनुकर्षो | 194 |
+| 2.9.1281 | r | मन्डं | मण्डं | 224 |
+| 2.10.1444 | r | मोपकाः | मोषकाः | 244 |
+| 3.2.276 | r | स्यादपसर | स्यादवसर | 282 |
+| 3.3.640 | r | निगमा | निगमो | 318 |
+| 3.3.643 | r | कुतिले | कुटिले | 318 |
+| 2.10.1491 | line | इत्यमरसिंहकृतौ नामलिङ्गानुशासने द्वितीयः काण्डो | इत्यमरसिंहकृतौ नामलिङ्गानुशासने | 250 |
+| 2.10.1491 | add |  | द्वितीयः काण्डो भूम्यादिः साङ्ग एव समर्थितः | 250 |
+| 3.6.1031 | add |  | इत्यमरसिंहकृतौ नामलिङ्गानुशासने | 374 |
+| 3.6.1031.1 | add |  | सामान्यकाण्डस्तृतीयः साङ्ग एव समर्थितः | 374 |
+| 2.10.1490 | r | वृत्तावूत्द्या | वृत्तावूह्या | 250 |
+
+**Structure taken from the print (nip = in the e-text, not in the print, shown apart; ks = a kṣepaka the OCR did not mark; end = a śloka closes; mark = a group marker)**
+
+| Where | Op | E-text | Print | Leaf |
+|---|---|---|---|---|
+| 3.3.349-358 | ks |  |  | 290-291 |
+| 3.3.359 | nip | मृद्भाण्डेऽप्युष्ट्रिका मन्थे खजकं रसदर्वकः | (not in the print) | 291 |
+| 1.1.57-60 | nip | अरविन्दमशोकं च … पञ्च बाणाः प्रकीर्तिताः | (not in the print) | 8-9 |
+| 1.1.86-87 | nip | अणिमा महिमा … चाष्ट सिद्धयः | (quoted in the commentary, not mūla) | 10-11 |
+| 1.1.92 | ks | कर्ममोटी तु चामुण्डा चर्ममुण्डा तु चर्चिका | (quoted half-verse) | 11 |
+| 2.5.463 | nip | चुचुन्दरी गन्धमूषी दीर्घदेही तु मूषिका | (not in the print) | 124 |
+| 2.8.984 | nip | सुधरणा सुधारा स्त्री सुस्थितिः सुदशोन्नतिः | (not in the print) | 186 |
+| 3.1.107 | nip | रम्यं मनोहरं सौम्यं भद्रकं रमणीयकम् | (not in the print) | 264 |
+| 3.3.389-390 | ks |  | (the chānta group, one kṣepaka śloka) | 294 |
+| 3.3.401 | nip | दोषज्ञौ वैद्यविद्वांसौ ज्ञो विद्वान्सोमजोऽपि च | (not in the print) | 295 |
+| 3.3.430-432 | nip | संघातग्रासयोः पिण्डी … शिखण्डो बर्हचूडयोः | (not in the print) | 297 |
+| 3.3.416-417 | nip | पोटा दासी … कृपीटमुदरे जले | (not in the print) | 296 |
+| 3.3.517 | mark |  | इति तान्ताः | 306 |
+| 3.3.518-520 | nip | समूहोत्पन्नयोर्जातम् … व्यवस्थायामपि स्थितिः | (not in the print) | 306 |
+| 3.3.562-563 | nip | लेशेऽपि गन्धः … ज्ञातृचान्द्रिसुरा बुधाः | (not in the print) | 310 |
+| 3.3.576 | end |  | (OCR lost ॥ ११० ॥) | 311 |
+| 3.3.620-622 | nip | शिफा शिखायां … बाहोरलंकारे च कीर्तितः | (not in the print) | 316 |
+| 3.3.747-750 | nip | आसारो वेगवद्वर्षे … अधीरः कातरे चले | (not in the print) | 331 |
+| 3.3.777-781 | nip | कुलं गृहेऽपि … शष्कुली कर्णपाल्यपि | (not in the print) | 334 |
+| 3.3.781 | mark |  |  | 334 |
+| 3.3.776 | mark |  | इति लान्ताः | 334 |
+| 3.3.807-809 | nip | नाशः क्षये … पाशो बन्धनशस्त्रयोः | (not in the print) | 337 |
+| 3.3.809 | mark |  |  | 337 |
+| 3.3.815 | mark |  | इति शान्ताः | 337 |
+| 3.3.825-828 | nip | व्याजसंख्याशरव्येषु … द्वयोश्च मुखपूरणे | (not in the print) | 339 |
+| 3.3.828 | mark |  |  | 339 |
+| 3.3.824 | mark |  | इति षान्ताः | 339 |
+| 3.5.930-931 | nip | अमानुगुण्ये स्मरणे … हीनसंबोधते त्वरे | (not in the print) | 354 |
+| 2.7.914 | nip | कक्षापटी च कौपीनं शाटी च स्त्रीति लक्ष्यतः | (not in the print) | 178 |
+| 3.1.6 | nip | क्षेमङ्करोऽरिष्टतातिश्शिवतातिश्शिवङ्करः | (not in the print) | 252-253 |
+| 3.3.626 | end |  | (OCR lost ॥ १३३ ॥) | 316 |
+| 3.3.627-628 | nip | चित्रपुङ्खेऽपि कादम्बो … मण्डलेऽपि च | (not in the print) | 316-317 |
+| 3.3.628 | mark |  |  | 316 |
+| 3.3.626 | mark |  | इति बान्ताः | 316 |
+
+**Real variants kept as the e-text has them**
+
+| Where | Op | E-text | Print | Leaf |
+|---|---|---|---|---|
+| 2.8.972 | v | भेदो दण्डः साम दानमित्युपायचतुष्टयम् | सामदाने भेददण्डावित्युपायचतुष्टयम् | 185 |
+| 1.1.162 | v | कैलासः स्थानमलका | कैलासस्थानमलका | 17 |
+
 ## 6. Telugu-language works
 
 These are compositions in the **Telugu language** (not Sanskrit). For

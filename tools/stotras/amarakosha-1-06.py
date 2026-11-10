@@ -1,0 +1,47 @@
+# -*- coding: utf-8 -*-
+# Copyright 2026 Pradyumna Revur — CC BY 4.0 (see LICENSE)
+# Amarakośa, Sanskrit Wikisource → IAST, structured and read against the 1882 print;
+# written by tools/amarakosha/gen.py. See SOURCES §5.29.
+
+STOTRA = {
+    "deity": "amarakosha",
+    "doc_title": "Amarakośa · Śabdādivarga",
+    "app_title": "Amarakośa · Śabdādivarga",
+    "h1": "Amarakośa",
+    "subtitle": "Svargādikāṇḍa · Śabdādivarga — speech and sound",
+    "note": "Amarasiṃha's Nāmaliṅgānuśāsana, the Amarakośa, in Sanskrit: the Sanskrit Wikisource text read against the 1882 Bombay print with Maheśvara's Amaraviveka, numbered as that print numbers it. Verses the print marks as later additions (kṣepaka) are set smaller. Translations will follow.",
+    "nav": [("‹ Dhīvarga", "amarakosha-1-05-iast.html"), ("all vargas", "amarakosha-iast.html"), ("Nāṭyavarga ›", "amarakosha-1-08-iast.html")],
+    "footer": "Source: Sanskrit Wikisource — अमरकोशः (public domain), converted to IAST; structure, kṣepakas and readings from the 1882 print (ed. Thatte under Kielhorn, Bombay; archive.org), every change listed in SOURCES §5.29; translations original",
+    "sections": [
+    {'padas': ['brāhmī tu bhāratī bhāṣā gīrvāgvāṇī sarasvatī |', 'vyāhāra uktirlapitaṃ bhāṣitaṃ vacanaṃ vacaḥ'], 'num': '|| 1 ||', 'gloss': ''},
+    {'padas': ["apabhraṃśo'paśabdaḥ syācchāstre śabdastu vācakaḥ |", 'tiṅsubantacayo vākyaṃ kriyā vā kārakānvitā'], 'num': '|| 2 ||', 'gloss': ''},
+    {'padas': ['śrutiḥ strī veda āmnāyastrayī dharmastu tadvidhiḥ |', 'striyāmṛksāmayajuṣī iti vedāstrayastrayī'], 'num': '|| 3 ||', 'gloss': ''},
+    {'padas': ['śikṣetyādi śruteraṅgamoṅkārapraṇavau samau |', 'itihāsaḥ purāvṛttamudāttādyāstrayaḥ svarāḥ'], 'num': '|| 4 ||', 'gloss': ''},
+    {'padas': ['ānvīkṣikī daṇḍanītistarkavidyārthaśāstrayoḥ |', 'ākhyāyikopalabdhārthā purāṇaṃ pañcalakṣaṇam'], 'num': '|| 5 ||', 'gloss': ''},
+    {'padas': ['prabandhakalpanā kathā pravahlikā prahelikā |', 'smṛtistu dharmasaṃhitā samāhṛtistu saṃgrahaḥ'], 'num': '|| 6 ||', 'gloss': ''},
+    {'padas': ['samasyā tu samāsārthā kiṃvadantī janaśrutiḥ |', 'vārtā pravṛttirvṛttānta udantaḥ syādathāhvayaḥ'], 'num': '|| 7 ||', 'gloss': ''},
+    {'padas': ['ākhyāhve abhidhānaṃ ca nāmadheyaṃ ca nāma ca |', 'hūtirākāraṇāhvānaṃ saṃhūtirbahubhiḥ kṛtā'], 'num': '|| 8 ||', 'gloss': ''},
+    {'padas': ['vivādo vyavahāraḥ syādupanyāsastu vāṅmukham |', 'upoddhāta udāhāraḥ śapanaṃ śapathaḥ pumān'], 'num': '|| 9 ||', 'gloss': ''},
+    {'padas': ["praśno'nuyogaḥ pṛcchā ca prativākyottare same |", "mithyābhiyogo'bhyākhyānamatha mithyābhiśaṃsanam"], 'num': '|| 10 ||', 'gloss': ''},
+    {'padas': ['abhiśāpaḥ praṇādastu śabdaḥ syādanurāgajaḥ |', 'yaśaḥ kīrtiḥ samajñā ca stavaḥ stotraṃ stutirnutiḥ'], 'num': '|| 11 ||', 'gloss': ''},
+    {'padas': ['āmreḍitaṃ dvistriruktamuccairghuṣṭaṃ tu ghoṣaṇā |', 'kākuḥ striyāṃ vikāro yaḥ śokabhītyādibhirdhvaneḥ'], 'num': '|| 12 ||', 'gloss': ''},
+    {'padas': ['avarṇākṣepanirvādaparīvādāpavādavat |', 'upakrośo jugupsā ca kutsā nindā ca garhaṇe'], 'num': '|| 13 ||', 'gloss': ''},
+    {'padas': ['pāruṣyamativādaḥ syādbhartsanaṃ tvapakāragīḥ |', 'yaḥ saninda upālambhastatra syātparibhāṣaṇam'], 'num': '|| 14 ||', 'gloss': ''},
+    {'padas': ['tatra tvākṣāraṇā yaḥ syādākrośo maithunaṃ prati |', "syādābhāṣaṇamālāpaḥ pralāpo'narthakaṃ vacaḥ"], 'num': '|| 15 ||', 'gloss': ''},
+    {'padas': ['anulāpo muhurbhāṣā vilāpaḥ paridevanam |', 'vipralāpo virodhoktiḥ saṃlāpo bhāṣaṇaṃ mithaḥ'], 'num': '|| 16 ||', 'gloss': ''},
+    {'padas': ['supralāpaḥ suvacanamapalāpastu nihnavaḥ |', 'sandeśavāgvācikaṃ syādvāgbhedāstu triṣūttare'], 'num': '|| 17 ||', 'gloss': ''},
+    {'rubric': 'kṣepaka — an added verse, in quotation marks in the 1882 print'},
+    {'padas': ['codyamākṣepābhiyogau śāpākrośau dureṣaṇā |', 'astrī cāṭu caṭu ślāghā premṇā mithyāvikatthanam'], 'num': '', 'gloss': '', 'prose': True},
+    {'padas': ['ruśatī vāgakalyāṇī syātkalyā tu śubhātmikā |', 'atyarthamadhuraṃ sāntvaṃ saṃgataṃ hṛdayaṅgamam'], 'num': '|| 18 ||', 'gloss': ''},
+    {'padas': ['niṣṭhuraṃ paruṣaṃ grāmyamaślīlaṃ sūnṛtaṃ priye |', "satye'tha saṃkulakliṣṭe parasparaparāhate"], 'num': '|| 19 ||', 'gloss': ''},
+    {'padas': ['luptavarṇapadaṃ grastaṃ nirastaṃ tvaritoditam |', 'jambūkṛtaṃ saniṣṭīvamabaddhaṃ syādanarthakam'], 'num': '|| 20 ||', 'gloss': ''},
+    {'padas': ['anakṣaramavācyaṃ syādāhataṃ tu mṛṣārthakam |', 'atha mliṣṭamavispaṣṭaṃ vitathaṃ tvanṛtaṃ vacaḥ'], 'num': '|| 21 ||', 'gloss': ''},
+    {'rubric': 'kṣepaka — an added verse, in quotation marks in the 1882 print'},
+    {'padas': ['solluṭhanaṃ tu sotprāsaṃ maṇitaṃ ratikūjitam |', 'śrāvyaṃ hṛdyaṃ manohāri vispaṣṭaṃ prakaṭoditam'], 'num': '', 'gloss': '', 'prose': True},
+    {'padas': ['satyaṃ tathyamṛtaṃ samyagamūni triṣu tadvati |', 'śabde ninādaninadadhvanidhvānaravasvanāḥ'], 'num': '|| 22 ||', 'gloss': ''},
+    {'padas': ['svānanirghoṣanirhrādanādanisvānanisvanāḥ |', 'āravārāvasaṃrāvavirāvā atha marmaraḥ'], 'num': '|| 23 ||', 'gloss': ''},
+    {'padas': ['svanite vastraparṇānāṃ bhūṣaṇānāṃ tu śiñjitam |', 'nikvāṇo nikvaṇaḥ kvāṇaḥ kvaṇaḥ kvaṇanamityapi'], 'num': '|| 24 ||', 'gloss': ''},
+    {'padas': ['vīṇāyāḥ kvaṇite prādeḥ prakvāṇaprakvaṇādayaḥ |', 'kolāhalaḥ kalakalastiraścāṃ vāśitaṃ rutam |', 'strī pratiśrutpratidhvāne gītaṃ gānamime same'], 'num': '|| 25 ||', 'gloss': ''},
+    {'colophon': 'iti śabdādivargaḥ ||'},
+    ],
+}
