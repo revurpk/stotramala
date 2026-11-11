@@ -88,6 +88,11 @@ def render_verse(v, asset):
                 + wbw +
                 (f'      <p>{gloss}</p>\n' if gloss else "")
                 + '    </details>\n')
+    # a Telugu rendering of the translation ("te"), for the Learn pages; it is
+    # Telugu-language text, so it stays Telugu whatever the script switch says
+    if v.get("te"):
+        fold = fold.replace('    </details>\n',
+                            f'      <p lang="te" style="font-style:normal;{TE_FONT}">{esc(v["te"])}</p>\n    </details>\n')
     return (
         f'  <div class="{cls}">\n'
         f'    <p class="lines">\n{body}</p>\n'
@@ -114,6 +119,59 @@ def render_bhashya(paras, summary="bhāṣya", indent="    "):
             f'{indent}  <summary>{esc(summary)}</summary>\n'
             + "\n".join(ps) + "\n"
             f'{indent}</details>')
+
+
+def inline(t):
+    """English prose with Sanskrit inside it (the Learn pages): ⟨…⟩ marks IAST,
+    set as a .sans span so it follows the script switch; *…* is italic, as the
+    printed primers set words not to be translated."""
+    import re
+    t = esc(t)
+    t = re.sub(r"⟨([^⟩]*)⟩", r'<span class="sans" style="font-style:normal;color:var(--ink);">\1</span>', t)
+    t = re.sub(r"\*\*([^*]+)\*\*", r"<strong>\1</strong>", t)      # **…** bold
+    return re.sub(r"\*([^*]+)\*", r"<em>\1</em>", t)
+
+
+# Telugu-language glosses: Baloo Tammudu 2, the font the page embeds for Telugu
+TE_FONT = "font-family:'Baloo Tammudu 2',sans-serif;"
+LEARN_P = ('style="font-style:normal;text-align:left;max-width:34rem;'
+           'margin:0 auto 1rem;line-height:1.7;"')
+
+
+def render_learn(sec):
+    """The Learn pages' section types, rendered with inline styles so the
+    shared shell is untouched: "para" (prose with ⟨IAST⟩), "table" (a paradigm:
+    {"head": [...], "rows": [[...]]}, cells as prose), "vocab" ([[IAST,
+    English, Telugu], …]) and "en" (an English sentence to put into Sanskrit,
+    with "answer" in IAST and "te" its Telugu, folded)."""
+    if "para" in sec:
+        return f'  <p class="colophon-gloss" {LEARN_P}>{inline(sec["para"])}</p>'
+    if "table" in sec:
+        tb = sec["table"]
+        cell = 'style="padding:.15rem .7rem;text-align:left;vertical-align:top;"'
+        head = ("    <tr>" + "".join(f'<th {cell}>{inline(h)}</th>' for h in tb["head"]) + "</tr>\n"
+                if tb.get("head") else "")
+        rows = "".join("    <tr>" + "".join(f'<td {cell}>{inline(c)}</td>' for c in r) + "</tr>\n"
+                       for r in tb["rows"])
+        return ('  <div style="overflow-x:auto;overflow-y:hidden;margin:0 auto 1.4rem;max-width:34rem;">\n'
+                '  <table class="colophon-gloss" style="font-style:normal;border-collapse:collapse;'
+                'margin:0 auto;font-size:.95rem;">\n' + head + rows + '  </table>\n  </div>')
+    if "vocab" in sec:
+        items = "<br>\n".join(
+            f'    <span class="sans" style="font-style:normal;color:var(--ink);">{esc(w)}</span>'
+            f' {inline(en)}' + (f' <span lang="te" style="opacity:.85;{TE_FONT}">· {esc(te)}</span>' if te else "")
+            for w, en, te in sec["vocab"])
+        return f'  <p class="colophon-gloss" {LEARN_P}>\n{items}</p>'
+    if "en" in sec:
+        fold = ('    <details class="gloss">\n      <summary>sanskrit</summary>\n'
+                f'      <p class="lines"><span class="sans">{esc(sec["answer"])}</span></p>\n'
+                + (f'      <p lang="te" style="font-style:normal;{TE_FONT}">{esc(sec["te"])}</p>\n' if sec.get("te") else "")
+                + '    </details>\n')
+        num = f'{esc(sec["num"])}. ' if sec.get("num") else ""
+        return ('  <div class="verse viniyoga">\n'
+                f'    <p class="colophon-gloss" style="font-style:normal;margin:0;">{num}{inline(sec["en"])}</p>\n'
+                + fold + '  </div>')
+    return None
 
 
 def load_corrections(slug):
@@ -205,6 +263,8 @@ def render_body(st, slug, asset):
             parts.append(f'  <p class="colophon"><span class="sans">{esc(sec["colophon"])}</span></p>')
             if sec.get("gloss"):
                 parts.append(f'  <p class="colophon-gloss">{esc(sec["gloss"])}</p>')
+        elif any(k in sec for k in ("para", "table", "vocab", "en")):
+            parts.append(render_learn(sec))
         else:
             parts.append(render_verse(sec, asset))
     parts.append(

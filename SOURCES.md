@@ -2183,3 +2183,41 @@ books first and only then from elsewhere:
 
 The translations of all of it are original. Every line passes
 `verify.py --data gita-bhashya-01`.
+
+## 8. Learning Sanskrit
+
+Teaching books in the public domain, set as Learn pages: the author's prose
+in English, with every Sanskrit word in IAST so that it follows the page's
+script switch (`tools/build_stotra.py`: section types `para`, `table`,
+`vocab`, `en`, and `te` on a sentence).
+
+### 8.1 A Sanskrit Primer (Perry) — `stotra/learn/perry-NN-iast.html`
+
+| Field | Value |
+|---|---|
+| Work | Edward Delavan Perry, *A Sanskrit Primer, based on the Leitfaden für den Elementarcursus des Sanskrit of Professor Georg Bühler of Vienna*: an introduction to the structure of the language (§§ 1–91), 45 graded lessons with vocabularies and exercises, and glossaries. Lesson I is done so far, one page a lesson |
+| Source | Ginn & Co., Boston, 1885; the scan used is of the 1892 issue, Cornell University Library copy, archive.org `cu31924011121690` (leaf n38 = p. 19; Lesson I = leaves n43–n45 = pp. 24–26). Public domain: published 1885, and Perry died in 1938 |
+| Recorded | 2026-11-11 |
+| Text status | public domain |
+
+**Method.** The text is read off the page images (the scan is clean; the
+pencil notes of a former owner are ignored) into `tools/perry/lessonNN.txt`,
+and `tools/perry/gen_perry.py` writes the page. Perry prints each Sanskrit
+word twice, in Devanāgarī and in transliteration; here it is given once, in
+IAST, and the page renders it in whichever script the reader picks.
+`verify.py --data` round-trips every Sanskrit string on the page, those
+inside the prose, tables and vocabularies included.
+
+**Editorial notes.**
+
+- Perry's transliteration is converted to IAST: his *ç* is *ś*; his accent
+  marks (*vádati*) are not carried; where he writes *ṅ* before a sibilant
+  (*çaṅs*) and his Devanāgarī has anusvāra (शंस्), the IAST is *ṃ* (*śaṃs*).
+- Perry's italics (words not to be translated in the English exercises),
+  bold rule headings and superscript word-order figures are kept.
+- English in [square brackets] is the editor's (Lesson I: the Latin
+  abbreviation under *yaj*, and *-que* under *ca*).
+- The Telugu meanings in the vocabularies, the English and Telugu
+  translations of the Sanskrit exercises, and the Sanskrit answers (with
+  their Telugu) to the English exercises are the editor's, folded under
+  each sentence so a learner can try it first.

@@ -133,6 +133,19 @@ def data_roundtrip(slug):
     m = importlib.util.module_from_spec(spec); spec.loader.exec_module(m)
     padas = [p for s in m.STOTRA["sections"] if isinstance(s, dict) and "padas" in s
              for p in s["padas"]]
+    # the Learn pages' Sanskrit: ⟨IAST⟩ inside prose and table cells, the
+    # words of a vocabulary list, and the Sanskrit answers to exercises
+    for s in m.STOTRA["sections"]:
+        if not isinstance(s, dict):
+            continue
+        prose = [s.get("para", ""), s.get("en", "")]
+        if "table" in s:
+            prose += list(s["table"].get("head", [])) + [c for r in s["table"]["rows"] for c in r]
+        prose += [en for _, en, _ in s.get("vocab", [])]
+        padas += [x for t in prose for x in re.findall(r"⟨([^⟩]*)⟩", t)]
+        padas += [w for w, _, _ in s.get("vocab", [])]
+        if s.get("answer"):
+            padas.append(s["answer"])
     # Ḷ = vocalic ḷ (ऌ); prose padas (viniyoga, nyāsa) may carry “quotes” and
     # ordinary punctuation, which pass through the renderer unchanged; square
     # brackets carry an editor's critical marks (the Nighaṇṭu, after Sarup)

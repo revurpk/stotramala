@@ -1,0 +1,87 @@
+# Perry, A Sanskrit Primer (1885; this scan Ginn & Co., 1892), archive.org cu31924011121690.
+# Lesson I = pp. 24–26 = leaves n43–n45. Format: see gen_perry.py.
+@43
+¶ **92. Verbs. Present Indicative active. Unaccented ⟨a⟩-class.** A number of roots conjugated in this class have medial short ⟨a⟩. Inasmuch as “⟨a⟩ is its own *guṇa*”, these roots merely add an ⟨a⟩ to form the present-stem; e.g., ⟨vad⟩, present-stem ⟨vada⟩. The final ⟨a⟩ of the stem is lengthened in the three first persons.
+T  | Sing. | Dual. | Plural.
+R 1. | ⟨vadāmi⟩ | ⟨vadāvas⟩ | ⟨vadāmas⟩
+R 2. | ⟨vadasi⟩ | ⟨vadathas⟩ | ⟨vadatha⟩
+R 3. | ⟨vadati⟩ | ⟨vadatas⟩ | ⟨vadanti⟩
+¶ **93.** The ending of the 3rd plur. is properly ⟨anti⟩; it suffers abbreviation, however, by the loss of its ⟨a⟩, in verbs whose stem ends in ⟨a⟩.
+¶ **94.** As a heavy syllable ending in a consonant cannot be gunated, a root like ⟨jīv⟩ makes its 3rd sing. ⟨jīvati⟩; ⟨nind⟩ makes ⟨nindati⟩, etc. See § 53.
+¶ **95. Euphonic rule.** At the end of a word standing in the final position of a sentence, or alone, ⟨s⟩ and ⟨r⟩ always become *visarga* (*ḥ*); and generally also before ⟨k⟩, ⟨kh⟩, ⟨p⟩, ⟨ph⟩, and before sibilants [⟨ś⟩, ⟨ṣ⟩, ⟨s⟩], whether these stand in the same word, or as initial in the following word; e.g. ⟨vadatas punar⟩ becomes always ⟨vadataḥ punaḥ⟩.
+¶ **96. Force of the present.** The present indicative signifies 1. Present time. 2. Immediate futurity. 3. Past time, in lively narration (“historical present”).
+@44
+## Vocabulary I
+¶ Verbs to be conjugated like ⟨vad⟩:
+V car | (intr.) go, wander, graze (of cattle); (tr.) perform, commit. | తిరుగు, మేయు (పశువులు); ఆచరించు
+V jīv | live. | జీవించు
+V tyaj | leave, abandon. | విడుచు, వదలిపెట్టు
+V dah | burn. | కాల్చు
+V dhāv | run. | పరుగెత్తు
+V nam | (intr.) bow, bend one’s self; (tr.) honor, reverence. | వంగు, నమస్కరించు; గౌరవించు
+V pac | cook. | వండు
+V pat | fall; fly. | పడు; ఎగురు
+V yaj | sacrifice (*c. acc. pers. et instr. rei*) [with the accusative of the one honoured and the instrumental of the offering]. | యజ్ఞం చేయు, (దేవతను) ఆరాధించు
+V rakṣ | protect. | రక్షించు, కాపాడు
+V vad | speak, say. | పలుకు, చెప్పు
+V vas | dwell. | నివసించు
+V vah | (tr.) carry, bear; (intr.) flow, blow, proceed. | మోయు; ప్రవహించు, వీచు, సాగు
+V śaṃs | praise. | పొగడు, స్తుతించు
+## Adverbs and Conjunctions
+V atas, itas | hence. | ఇక్కడి నుండి; అందువలన
+V tatas | thence; therefore; thereupon. | అక్కడి నుండి; అందుచేత; ఆ తరువాత
+V yatas | whence; wherefore. | ఎక్కడి నుండి; ఎందుచేత
+V atra, iha | here; hither. | ఇక్కడ; ఇక్కడికి
+V tatra | there; thither. | అక్కడ; అక్కడికి
+V yatra | where; whither. | ఎక్కడైతే; ఎక్కడికైతే
+V ittham | in this way; so. | ఈ విధంగా, ఇలా
+V tathā | in that way; so. | ఆ విధంగా, అలా
+V yathā | in which way; as. | ఏ విధంగానైతే, ఎలాగో అలా
+V kutas | whence? why? | ఎక్కడి నుండి? ఎందుకు?
+V kutra, kva | where? whither? | ఎక్కడ? ఎక్కడికి?
+V katham | how? | ఎలా?
+V kadā | when? | ఎప్పుడు?
+V adhunā | now. | ఇప్పుడు
+V tadā | then. | అప్పుడు
+V yadā | when, if. | ఎప్పుడైతే; ఒకవేళ
+V adya | to-day. | ఈ రోజు
+V sarvatra | everywhere. | అన్ని చోట్లా
+V sadā | always. | ఎల్లప్పుడూ
+V evam | so, thus. | ఈ విధంగా, ఇలా
+V iti | so, thus. | ఇలా, అని
+V tu | but, however. | కానీ, అయితే
+V eva | just, exactly. | -ఏ, సరిగ్గా, మాత్రమే
+V ca | (postpos.) -que [“and”, set after the word it joins]. | మరియు (ఆ పదం వెనుక వస్తుంది)
+V punar | again, but. | మళ్ళీ; కానీ
+@45
+## Exercise I
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | adya jīvāmaḥ | To-day we live. | ఈ రోజు మేము జీవిస్తున్నాము.
+S 2 | sadā pacathaḥ | You two always cook. | మీరిద్దరూ ఎల్లప్పుడూ వండుతారు.
+S 3 | atra rakṣati | Here he protects. | ఇక్కడ అతడు రక్షిస్తాడు.
+S 4 | adhunā rakṣāmi | Now I protect. | ఇప్పుడు నేను రక్షిస్తున్నాను.
+S 5 | yadā dhāvatha tadā patatha | When you run, then you fall. | మీరు ఎప్పుడు పరుగెత్తుతారో అప్పుడు పడిపోతారు.
+S 6 | kva yajanti | Where do they sacrifice? | వారు ఎక్కడ యజ్ఞం చేస్తారు?
+S 7 | tatra carathaḥ | There you two wander. | అక్కడ మీరిద్దరూ తిరుగుతారు.
+S 8 | kutaḥ śaṃsasi | Why do you praise? | నువ్వు ఎందుకు పొగుడుతున్నావు?
+S 9 | tyajāmi katham | How do I abandon? | నేను ఎలా విడిచిపెడతాను?
+S 10 | punaḥ patāvaḥ | Again we two fall (or fly). | మళ్ళీ మేమిద్దరం పడిపోతాము (లేదా ఎగురుతాము).
+S 11 | dahasi | You burn. | నువ్వు కాలుస్తున్నావు.
+S 12 | punarvadanti | Again they speak. | మళ్ళీ వారు మాట్లాడుతున్నారు.
+S 13 | tatra vasāvaḥ | There we two dwell. | అక్కడ మేమిద్దరం నివసిస్తున్నాము.
+S 14 | sarvatra jīvanti | Everywhere they live. | అన్ని చోట్లా వారు జీవిస్తున్నారు.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Perry’s note: The superior figures indicate the position in the Sanskrit sentence of equivalents for the words so designated. By this indication is avoided the necessity of applying euphonic rules which have not yet been stated. The order of words in Sanskrit is very free, and rarely influences the meaning of the sentence. From the figures the number of words required in the Sanskrit sentence will readily be seen. Words in Italics are not to be translated.
+E 15 | To-day¹ *they* abandon². | adya tyajanti | ఈ రోజు వారు విడిచిపెడతారు.
+E 16 | Now¹ *ye* go². | adhunā caratha | ఇప్పుడు మీరు వెళ్తున్నారు.
+E 17 | Always¹ *I* protect². | sadā rakṣāmi | ఎల్లప్పుడూ నేను రక్షిస్తాను.
+E 18 | *We two* bow¹ again². | namāvaḥ punaḥ | మేమిద్దరం మళ్ళీ నమస్కరిస్తాము.
+E 19 | Whither¹ runnest² *thou*? | kva dhāvasi | నువ్వు ఎక్కడికి పరుగెత్తుతున్నావు?
+E 20 | *We* sacrifice. | yajāmaḥ | మేము యజ్ఞం చేస్తాము.
+E 21 | *They two* cook. | pacataḥ | వారిద్దరూ వండుతారు.
+E 22 | *Ye* abandon. | tyajatha | మీరు విడిచిపెడతారు.
+E 23 | *He* burns. | dahati | అతడు కాలుస్తాడు.
+E 24 | Now¹ *we* live². | adhunā jīvāmaḥ | ఇప్పుడు మేము జీవిస్తున్నాము.
+E 25 | *Ye two* praise. | śaṃsathaḥ | మీరిద్దరూ పొగుడుతారు.
+E 26 | Why² do *ye* bend¹? | namatha kutaḥ | మీరు ఎందుకు వంగుతున్నారు?
+E 27 | There¹ *they* fly². | tatra patanti | అక్కడ వారు ఎగురుతున్నారు.
+E 28 | Where¹ do *ye* dwell²? | kva vasatha | మీరు ఎక్కడ నివసిస్తున్నారు?
