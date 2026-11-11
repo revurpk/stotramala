@@ -2195,8 +2195,8 @@ script switch (`tools/build_stotra.py`: section types `para`, `table`,
 
 | Field | Value |
 |---|---|
-| Work | Edward Delavan Perry, *A Sanskrit Primer, based on the Leitfaden für den Elementarcursus des Sanskrit of Professor Georg Bühler of Vienna*: an introduction to the structure of the language (§§ 1–91), 45 graded lessons with vocabularies and exercises, and glossaries. Lessons I–IV are done so far, one page a lesson |
-| Source | Ginn & Co., Boston, 1885; the scan used is of the 1892 issue, Cornell University Library copy, archive.org `cu31924011121690` (leaf n38 = p. 19; Lesson I = leaves n43–n45 = pp. 24–26; Lesson II = leaves n45–n48 = pp. 26–29; Lesson III = leaves n49–n51 = pp. 30–32, with the footnote to Exercise III continued on p. 33; Lesson IV = leaves n51–n55 = pp. 32–36). Public domain: published 1885, and Perry died in 1938 |
+| Work | Edward Delavan Perry, *A Sanskrit Primer, based on the Leitfaden für den Elementarcursus des Sanskrit of Professor Georg Bühler of Vienna*: an introduction to the structure of the language (§§ 1–91), 45 graded lessons with vocabularies and exercises, and glossaries. Lessons I–V are done so far, one page a lesson |
+| Source | Ginn & Co., Boston, 1885; the scan used is of the 1892 issue, Cornell University Library copy, archive.org `cu31924011121690` (leaf n38 = p. 19; Lesson I = leaves n43–n45 = pp. 24–26; Lesson II = leaves n45–n48 = pp. 26–29; Lesson III = leaves n49–n51 = pp. 30–32, with the footnote to Exercise III continued on p. 33; Lesson IV = leaves n51–n55 = pp. 32–36; Lesson V = leaves n55–n58 = pp. 36–39). Public domain: published 1885, and Perry died in 1938 |
 | Recorded | 2026-11-11 |
 | Text status | public domain |
 
@@ -2245,3 +2245,7 @@ inside the prose, tables and vocabularies included.
 - Lesson IV: Perry prints the ablative singular of agni as “A.” (agnes) in the paradigm; it is the ablative, and is labelled Ab. here.
 - Lesson IV: In Exercise IV, sentence 4 is printed with ∗ (Perry’s note: modifiers generally precede the word modified) after the word read here as areḥ, “of the enemy”; the vowel sign in the scan is e, as in girer of sentence 7. Sentence 12 reads ṛṣibhī (§ 123), as printed.
 - Lesson IV: The footnote “See preceding note”, under the paradigm of vāri on p. 33, refers to the long note on n and ṇ that begins on p. 32 under Exercise III; it is given in Lesson III, and here as a pointer.
+- Lesson V: Leaf n58 of the Cornell scan (p. 39) is cut off at the right edge; the end of Exercise V (sentences 29–31) was read from the Toronto copy of the same edition, archive.org sanskritprimerb00perr, leaf n54.
+- Lesson V: In Vocabulary V Perry prints “+ ā (ārohati)” on a line of its own under ruh, for the compound; it is given here as a second entry for ruh. His “gam + ā” is likewise “gam | + ā”. His “Hindu” forms in § 126 (dhe, hve, gai) are given in IAST.
+- Lesson V: In Exercise V, sentence 5 is read agnir udadhau tiṣṭhati (Fire stays in the ocean); the scan is clear. The footnote of sentence 2 (the Vedic hymns were “seen” by their authors) is given whole.
+- Lesson V: The editor’s answers to the English sentences keep Perry’s set of words but not always his numbered order; he says the order of words in Sanskrit is very free. Sentence 19 is given with adhunā first, to avoid a vowel combination Perry has not yet taught.

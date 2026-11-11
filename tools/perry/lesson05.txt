@@ -1,0 +1,98 @@
+# Perry, A Sanskrit Primer. Lesson V = p. 36 (from the heading) to p. 39 (to the end of the exercise) = leaves n55–n58 of the Cornell scan.
+% Verbs: the ya-class (nahyati, paśyati); nouns in u (bhānu); the palatal sibilant; the preposition ā
+! Leaf n58 of the Cornell scan (p. 39) is cut off at the right edge; the end of Exercise V (sentences 29–31) was read from the Toronto copy of the same edition, archive.org sanskritprimerb00perr, leaf n54.
+! In Vocabulary V Perry prints “+ ā (ārohati)” on a line of its own under ruh, for the compound; it is given here as a second entry for ruh. His “gam + ā” is likewise “gam | + ā”. His “Hindu” forms in § 126 (dhe, hve, gai) are given in IAST.
+! In Exercise V, sentence 5 is read agnir udadhau tiṣṭhati (Fire stays in the ocean); the scan is clear. The footnote of sentence 2 (the Vedic hymns were “seen” by their authors) is given whole.
+! The editor’s answers to the English sentences keep Perry’s set of words but not always his numbered order; he says the order of words in Sanskrit is very free. Sentence 19 is given with adhunā first, to avoid a vowel combination Perry has not yet taught.
+@55
+## Lesson V
+¶ **124. Verbs. Unaccented ⟨ya⟩-class.** Roots of this class form their present-stem by adding ⟨ya⟩ to the root, which bears the accent. Thus from ⟨nah⟩ is made the present-stem ⟨nahya⟩; from ⟨lubh⟩, ⟨lubhya⟩.
+¶ **125.** The inflection of stems of this class follows the model of ⟨vad⟩.
+¶ **126.** Certain ⟨ā⟩-roots, because of their peculiar exchanges with ⟨i⟩ and ⟨ī⟩-forms, especially in the formation of the present-stem, are given by the Hindu grammarians as ending in ⟨e⟩ or ⟨ai⟩ or ⟨o⟩ (cf. § 132), and by them assigned to the ⟨bhū⟩, or ⟨a⟩-class. Thus ⟨dhā⟩, ‘suck’ (Hindu ⟨dhe⟩), forms ⟨dhayati⟩; the root ⟨hū⟩ or ⟨hvā⟩ (Hindu ⟨hve⟩) forms ⟨hvayati⟩; ⟨gā⟩ (Hindu ⟨gai⟩) makes ⟨gāyati⟩.
+¶ **127.** For the root ⟨dṛś⟩, ‘see’, is substituted in the present-system another root ⟨paś⟩, which makes ⟨paśyati⟩.
+¶ **128. Masculines in ⟨u⟩.** ⟨bhānu⟩, ‘sun’.
+T  | Singular. | Dual. | Plural.
+R N. | ⟨bhānus⟩ | ⟨bhānū⟩ | ⟨bhānavas⟩
+R A. | ⟨bhānum⟩ | „ „ | ⟨bhānūn⟩
+R I. | ⟨bhānunā⟩ | ⟨bhānubhyām⟩ | ⟨bhānubhis⟩
+R D. | ⟨bhānave⟩ | „ „ | ⟨bhānubhyas⟩
+R Ab. | ⟨bhānos⟩ | „ „ | „ „
+R G. | „ „ | ⟨bhānvos⟩ | ⟨bhānūnām⟩
+R L. | ⟨bhānau⟩ | „ „ | ⟨bhānuṣu⟩
+R V. | ⟨bhāno⟩ |  |
+@56
+¶ Masculine adjectives in ⟨u⟩ are similarly declined.
+¶ **129. Euphonic Changes of ⟨s⟩, cont’d.** 1. Final ⟨s⟩, the dental sibilant, whether original or representing final ⟨r⟩, before the palatal surd mutes [⟨c⟩, ⟨ch⟩], is assimilated, becoming palatal ⟨ś⟩. Thus ⟨naras carati⟩ becomes ⟨naraś carati⟩; ⟨naras chalena⟩ becomes ⟨naraś chalena⟩. 2. Before a lingual surd mute [⟨ṭ⟩, ⟨ṭh⟩], in like manner, it would become lingual ⟨ṣ⟩, but the case almost never occurs. 3. Before the dental surd mutes [⟨t⟩, ⟨th⟩], since it is already of the same class with them, it of course remains unchanged; thus, ⟨rāmas tiṣṭhati⟩.
+¶ **130.** The preposition ⟨ā⟩ is sometimes used with the ablative (much less often with the accusative), in the sense of ‘hither from’, ‘all the way from’; but far more usually to signify ‘all the way to’, ‘until’. As a prefix to verbs, ⟨ā⟩ means ‘to’, ‘unto’, ‘at’.
+## Vocabulary V
+¶ Verbs:
+V as | (⟨asyati⟩) throw, hurl. | విసురు, ప్రయోగించు
+V kup | (⟨kupyati⟩ — w. gen. or dat.) be angry. | కోపించు
+V krudh | (⟨krudhyati⟩ — w. gen. or dat.) be angry. | కోపగించు
+V gam | + ⟨ā⟩ (⟨āgacchati⟩) come. | రా, వచ్చు
+V tṛ | (⟨tarati⟩) cross over. | దాటు
+V naś | (⟨naśyati⟩) perish. | నశించు
+V paś | (⟨paśyati⟩) see. | చూడు
+V ruh | (⟨rohati⟩) rise, spring up, grow. | ఎదుగు, మొలకెత్తు, పెరుగు
+V ruh | + ⟨ā⟩ (⟨ārohati⟩) climb, mount, ascend. | ఎక్కు, ఆరోహించు
+V likh | (⟨likhati⟩) scratch; write. | గీయు; రాయు
+V lubh | (⟨lubhyati⟩ — w. dat. or loc.) desire, covet. | ఆశించు, లోభించు
+V śuṣ | (⟨śuṣyati⟩) dry up. | ఎండిపోవు
+V snih | (⟨snihyati⟩ — w. gen. or loc.) feel inclined to, love. | ప్రేమించు, అభిమానించు
+V hū | or ⟨hvā⟩ (⟨hvayati⟩) call. | పిలుచు
+@57
+¶ Subst.:
+V anna | n., food, fodder. | అన్నం, ఆహారం, మేత
+V aśva | m., horse. | గుర్రం
+V udadhi | m., ocean. | సముద్రం
+V guru | m., teacher. | గురువు
+V pattra | n., leaf, letter. | ఆకు, ఉత్తరం
+V paraśu | m., axe. | గొడ్డలి
+V pāda | m., foot; quarter; ray, beam. | పాదం, అడుగు; పాతిక; కిరణం
+V bāhu | m., arm. | బాహువు, చేయి
+V bindu | m., drop. | బిందువు, చుక్క
+V bhānu | m., sun. | సూర్యుడు
+V maṇi | m., jewel. | మణి
+V ratna | n., jewel. | రత్నం
+V rāśi | m., heap. | రాశి, కుప్ప
+V vāyu | m., wind. | గాలి, వాయువు
+V viṣṇu | m., *nom. pr.* name of a god. | విష్ణువు (ఒక దేవుని పేరు)
+V śatru | m., enemy. | శత్రువు
+V śikhara | m., summit. | శిఖరం
+V śiṣya | m., pupil, scholar. | శిష్యుడు, విద్యార్థి
+V sūkta | n., Vedic hymn. | వేదసూక్తం
+## Exercise V
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | kavayo dhane lubhyanti | The poets covet wealth. | కవులు ధనాన్ని ఆశిస్తారు.
+S 2 | ṛṣiḥ sūktāni paśyati∗ | The seer sees hymns. | ఋషి సూక్తాలను దర్శిస్తాడు.
+S 3 | gurū śiṣyayoḥ krudhyataḥ | The two teachers are angry at the two pupils. | ఇద్దరు గురువులు ఇద్దరు శిష్యులపై కోపిస్తున్నారు.
+S 4 | nṛpā aribhyaḥ kupyanti | The kings are angry at the enemies. | రాజులు శత్రువులపై కోపిస్తున్నారు.
+S 5 | agnir udadhau tiṣṭhati | Fire stays in the ocean. | అగ్ని సముద్రంలో ఉంటుంది.
+S 6 | paraśunā vṛkṣān kṛntatha | You cut the trees with an axe. | మీరు గొడ్డలితో చెట్లను నరుకుతారు.
+S 7 | jalasya bindavo gireḥ patanti | Drops of water fall from the mountain. | నీటి చుక్కలు కొండ నుండి పడతాయి.
+S 8 | viṣṇum ṛṣir yajati nṛpāya | The seer worships Viṣṇu for the king. | ఋషి రాజు కోసం విష్ణువును ఆరాధిస్తాడు.
+S 9 | nṛpo 'śvam ārohati | The king mounts the horse. | రాజు గుర్రాన్ని ఎక్కుతాడు.
+S 10 | kṣetreṣu jalaṃ śuṣyati | The water in the fields dries up. | పొలాలలో నీరు ఎండిపోతుంది.
+S 11 | guravaḥ śiṣyāṇāṃ snihyanti | The teachers love their pupils. | గురువులు శిష్యులను ప్రేమిస్తారు.
+S 12 | nṛpāṇāṃ śatravo 'sinā naśyanti | The kings’ enemies perish by the sword. | రాజుల శత్రువులు కత్తి వలన నశిస్తారు.
+S 13 | bālo gurave pattraṃ likhati | The boy writes a letter to the teacher. | బాలుడు గురువుకు ఉత్తరం రాస్తాడు.
+S 14 | janā maṇīnāṃ rāśīn icchanti | People desire heaps of jewels. | ప్రజలు మణుల రాశులను కోరుకుంటారు.
+S 15 | ā girer vṛkṣā rohanti | Trees grow as far as the mountain. | చెట్లు కొండ వరకు పెరుగుతాయి.
+S 16 | bāhubhyāṃ jalaṃ narās taranti | The men cross the water with their arms. | మనుషులు తమ చేతులతో నీటిని దాటుతారు.
+S 17 | bālau gṛhe hvayati naraḥ | The man calls the two boys in the house. | మనిషి ఇంట్లో ఇద్దరు బాలురను పిలుస్తాడు.
+S 18 | kaveḥ putrau grāmasya mārge gajaṃ paśyataḥ | The poet’s two sons see an elephant on the village road. | కవి ఇద్దరు కొడుకులు ఊరి దారిలో ఏనుగును చూస్తారు.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Words in italics are not to be translated, and the superior figures give the position of the Sanskrit word in the sentence.
+E 19 | Now⁴ the sun’s¹ rays² climb⁵ the mountains³. | adhunā bhānoḥ pādā girīn ārohanti | ఇప్పుడు సూర్యుని కిరణాలు పర్వతాలను ఎక్కుతున్నాయి.
+E 20 | A drop² of water¹ falls⁴ *down from* the cloud³. | jalasya bindur meghāt patati | నీటి చుక్క మేఘం నుండి పడుతుంది.
+E 21 | O¹ men², we see⁴ the city³. | he narā nagaraṃ paśyāmaḥ | ఓ మనుషులారా, మేము నగరాన్ని చూస్తున్నాము.
+E 22 | *Both* kings¹ love³ poets² (*gen.* or *loc.*). | nṛpau kavīnāṃ snihyataḥ | ఇద్దరు రాజులు కవులను ప్రేమిస్తారు.
+E 23 | The wind¹ blows⁴ (⟨vah⟩) *from* the summits³ of the mountains². | vāyur girīṇāṃ śikharebhyo vahati | గాలి పర్వతాల శిఖరాల నుండి వీస్తుంది.
+E 24 | The king¹ hurls⁴ spears³ *at his* enemies² (*dat.* or *loc.*). | nṛpo 'ribhyaḥ kuntān kṣipati | రాజు తన శత్రువులపై ఈటెలను విసురుతాడు.
+E 25 | The scholar¹ bows³ *before his* teacher² (*acc.*). | śiṣyo gurum namati | శిష్యుడు తన గురువుకు నమస్కరిస్తాడు.
+E 26 | *Two* men¹ come³ *with their* sons² (*instr.*). | narau putrābhyām āgacchataḥ | ఇద్దరు మనుషులు తమ కొడుకులతో వస్తారు.
+E 27 | The *two* kings¹ desire⁴ the poet’s² jewels³ (*dat.* or *loc.*). | nṛpau kaver maṇibhyo lubhyataḥ | ఇద్దరు రాజులు కవి మణులను ఆశిస్తారు.
+E 28 | O¹ seer,² we sacrifice⁴ *to* Viṣṇu³ (*acc.*). | he ṛṣe viṣṇuṃ yajāmaḥ | ఓ ఋషీ, మేము విష్ణువును ఆరాధిస్తాము.
+E 29 | The *two* cook³ food¹ *with* fire². | annam agninā pacataḥ | వారిద్దరూ అగ్నితో అన్నం వండుతారు.
+E 30 | The seers¹ praise⁴ Viṣṇu² *with* hymns³. | ṛṣayo viṣṇuṃ sūktaiḥ śaṃsanti | ఋషులు సూక్తాలతో విష్ణువును స్తుతిస్తారు.
+E 31 | *In* the city¹ the king² calls⁴ *his* enemies³. | nagare nṛpo 'rīn hvayati | నగరంలో రాజు తన శత్రువులను పిలుస్తాడు.
+¶ ∗ Orthodox Hindus maintain that the Vedic hymns, etc., were revealed to their reputed authors, who thus ‘saw’ them.
