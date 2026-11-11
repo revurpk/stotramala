@@ -45,7 +45,9 @@ SUBTITLE = {1: "Yāska's Nirukta, adhyāya 1 · the introduction: the four kinds
             11: "Yāska's Nirukta, adhyāya 11 · the rest of the mid-air: Soma, the moon, death, the groups of gods, "
                 "and the goddesses from Aditi to Rodasī",
             12: "Yāska's Nirukta, adhyāya 12 · the deities of the sky: the Aśvins, Dawn, Sūryā, Savitṛ, Bhaga, "
-                "Sūrya, Pūṣan, Viṣṇu, and the groups of the sky; the end of the second half"}
+                "Sūrya, Pūṣan, Viṣṇu, and the groups of the sky; the end of the second half",
+            13: "Yāska's Nirukta, the pariśiṣṭa (adhyāyas 13–14) · the over-praises, the four quarters of speech, "
+                "the imperishable, and the inquiry into the self"}
 NOTE = ("Yāska's Nirukta, the oldest surviving treatise on Vedic etymology and a commentary on the "
         "Nighaṇṭu. The text is Lakshman Sarup's critical edition (1927); words in square brackets are "
         "found in only part of the manuscripts. Quotations Sarup sets apart (mantras, and phrases from "
@@ -118,8 +120,9 @@ def main(n):
     first_head = next(i for i, s in enumerate(secs) if "heading" in s)
     pre = [s for s in secs[:first_head] if "colophon" in s]
     secs = pre + [s for s in secs if s not in pre]
-    st = {"deity": "veda", "doc_title": f"Nirukta · Adhyāya {n}", "app_title": f"Nirukta {n}",
-          "h1": f"Nirukta · Adhyāya {n}", "subtitle": SUBTITLE[n], "note": NOTE, "footer": FOOTER,
+    name = "Pariśiṣṭa" if n == 13 else f"Adhyāya {n}"
+    st = {"deity": "veda", "doc_title": f"Nirukta · {name}", "app_title": f"Nirukta {name}" if n == 13 else f"Nirukta {n}",
+          "h1": f"Nirukta · {name}", "subtitle": SUBTITLE[n], "note": NOTE, "footer": FOOTER,
           "toc": True, "sections": secs}
     q = lambda v: repr(v) if isinstance(v, bool) else json.dumps(v, ensure_ascii=False)
     out = ["# -*- coding: utf-8 -*-", "# Copyright 2026 Pradyumna Revur — CC BY 4.0 (see LICENSE)",

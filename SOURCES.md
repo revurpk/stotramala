@@ -1345,7 +1345,7 @@ The English glosses, one for each khaṇḍa, are original.
 
 | Field | Value |
 |---|---|
-| Work | Yāska's Nirukta, the commentary on the Nighaṇṭu (§5.30): twelve adhyāyas and two pariśiṣṭas, one page an adhyāya; the adhyāyas done so far are listed below |
+| Work | Yāska's Nirukta, the commentary on the Nighaṇṭu (§5.30): twelve adhyāyas and the pariśiṣṭa (counted as adhyāya 13, or as 13–14), one page each; complete |
 | Source | Lakshman Sarup, *The Nighaṇṭu and the Nirukta*, vol. I: Sanskrit text, 1927 (as §5.30) — archive.org `in.ernet.dli.2015.282287`, leaf nN = printed page N − 39. Public domain: Sarup died in 1946 |
 | Recorded | 2026-11-10 onwards |
 | Text status | ancient and public domain; the edition public domain by age |
@@ -1364,6 +1364,7 @@ The English glosses, one for each khaṇḍa, are original.
 | 10 | 47 | n212–n228 | 173–189 | 41, all OCR failures |
 | 11 | 50 | n229–n244 | 190–205 | 49, all OCR failures |
 | 12 | 46 | n245–n261 | 206–222 | 45, all OCR failures |
+| 13 (pariśiṣṭa) | 48 | n262–n283 | 223–244 | 56, all OCR failures |
 
 **Not Wikisource.** Sanskrit Wikisource's Nirukta is copied from the
 Maharishi University of Management Vedic Literature Collection, which is
@@ -1447,6 +1448,17 @@ the English keys `tools/nirukta/glossN.txt`.
 - 7.31: after the adhyāya Sarup prints *iti uttaraṣaṭke prathamo'dhyāyaḥ*
   (the second six counting afresh) as well as *iti nirukte saptamo'dhyāyaḥ*;
   both are kept.
+
+- The pariśiṣṭa: Sarup numbers it as one adhyāya of 48 khaṇḍas, giving in
+  his running heads the second numbering of the manuscripts that make it two
+  (13.14 = 14.1 … 13.48 = 14.37); the page follows his main numbering, and a
+  rubric marks where the old thirteenth adhyāya closes after 13.13. Two
+  passages he prints in square brackets, with no khaṇḍa number of their own
+  (the khila verse *ā yāhīndra pathibhiḥ* with its comment after 13.42, and
+  the verse *idaṃ te 'nyābhiḥ* with its comment, closing ॥ १४ ॥ ३४ ॥, after
+  13.46), are kept where he prints them, at the head of the khaṇḍa that
+  follows. The list of the names of the
+  great self (13.24), accented in the print, is given unaccented.
 
 The heading and English summary of each khaṇḍa are original; they
 summarise, they do not translate.
