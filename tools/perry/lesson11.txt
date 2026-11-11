@@ -1,0 +1,82 @@
+# Perry, A Sanskrit Primer. Lesson XI = p. 54 (from the heading) to p. 56 (to the end of the exercise) = leaves n73–n75 of the Cornell scan.
+% Verbs: the imperfect active (avadam); feminine nouns in ī (nadī); final nasals doubled
+! The augment is accented in Perry’s transliteration (ávadam); accents are not carried. His āi and āu are written ai and au.
+! In Exercise XI, sentence 3 is read dāsyo ’nnam ānayan (the plural verb is the editor’s reading of the last, partly blurred, syllable); sentence 7 is read putryā ayacchad viṣṇuḥ. In the English exercise 14 Perry’s “besought” is a prapad verb: the editor’s answer uses the imperfect middle prāpadyadhvam, which Perry teaches in the next lesson (Lesson XII).
+@73
+## Lesson XI
+¶ **178. Verbs. Imperfect Active, ⟨a⟩-conjugation.** The imperfect is formed from the present-stem by prefixing the augment ⟨a⟩, and adding a set of secondary endings.
+¶ **179.** If the present-stem begin with a vowel, the augment unites with it to form always the *vṛddhi*-vowel, not the *guṇa*: thus ⟨a⟩ + ⟨i⟩ or ⟨ī⟩ or ⟨e⟩ = ⟨ai⟩; ⟨a⟩ + ⟨u⟩ or ⟨ū⟩ = ⟨au⟩; ⟨a⟩ + ⟨ṛ⟩ = ⟨ār⟩.
+¶ **180.** If a preposition be prefixed, the augment comes between preposition and verb, as in Greek; thus, from ⟨upa-nī⟩, impf.-stem ⟨upānaya⟩, i. e. ⟨upa⟩ + ⟨a⟩ + ⟨naya⟩; ⟨vi-nī⟩, impf.-stem ⟨vyanaya⟩.
+¶ **181.** The inflection in the active is as follows:
+T  | Sing. | Dual. | Plural.
+R 1. | ⟨avadam⟩ | ⟨avadāva⟩ | ⟨avadāma⟩
+R 2. | ⟨avadas⟩ | ⟨avadatam⟩ | ⟨avadata⟩
+R 3. | ⟨avadat⟩ | ⟨avadatām⟩ | ⟨avadan⟩
+¶ **182.** The imperfect is the tense of narration; it expresses past time simply, without any further implication.
+¶ **183. Polysyllabic Feminines in ⟨ī⟩,** declined like ⟨nadī⟩, ‘river.’
+@74
+T  | Sing. | Dual. | Plural.
+R N. | ⟨nadī⟩ | ⟨nadyau⟩ | ⟨nadyas⟩
+R A. | ⟨nadīm⟩ | „ „ | ⟨nadīs⟩
+R I. | ⟨nadyā⟩ | ⟨nadībhyām⟩ | ⟨nadībhis⟩
+R D. | ⟨nadyai⟩ | „ „ | ⟨nadībhyas⟩
+R Ab. | ⟨nadyās⟩ | „ „ | „ „
+R G. | „ „ | ⟨nadyos⟩ | ⟨nadīnām⟩
+R L. | ⟨nadyām⟩ | „ „ | ⟨nadīṣu⟩
+R V. | ⟨nadi⟩ |  |
+¶ **184. Final nasals.** The nasals ⟨ṅ⟩, ⟨ṇ⟩, and ⟨n⟩, occurring as finals *after a short vowel*, are doubled before any initial vowel: thus, ⟨atiṣṭhan atra⟩ becomes ⟨atiṣṭhann atra⟩.
+## Vocabulary XI
+¶ Verbs:
+V kṛt | + ⟨ava⟩ (⟨avakṛntati⟩) cut off or down. | నరికివేయు
+V paṭh | (⟨paṭhati⟩) recite, read. | చదువు, పఠించు
+V viś | + ⟨pra⟩ (⟨praviśati⟩) enter. | ప్రవేశించు
+V viś | + ⟨upa⟩ seat oneself. | కూర్చుండు
+V hṛ | + ⟨ā⟩ (⟨āharati⟩, ⟨-te⟩) fetch, bring. | తీసుకురా
+¶ Subst.:
+V artha | m., purpose; meaning; wealth. | ప్రయోజనం; అర్థం; ధనం
+V indra | m., *nom. pr.*, the god Indra. | ఇంద్రుడు
+V indrāṇī | f., *nom. pr.*, the goddess Indrāṇī. | ఇంద్రాణి
+V kāvya | n., poem. | కావ్యం
+V grantha | m., literary work, book. | గ్రంథం
+V jananī | f., mother. | తల్లి
+V dāsī | f., female slave, servant. | దాసి
+V devī | f., goddess, queen. | దేవి, రాణి
+V nagarī | f., city. | నగరి, పట్టణం
+V nārī | f., woman, wife. | స్త్రీ, భార్య
+V patnī | f., wife, consort. | పత్ని
+V putrī | f., daughter. | కూతురు
+V pustaka | n., book (manuscript). | పుస్తకం
+V pūra | m., flood, high water. | వరద
+V pṛthivī | f., earth; ground. | భూమి; నేల
+V brāhmaṇa | m., priest, Brāhman. | బ్రాహ్మణుడు
+V matsya | m., fish. | చేప
+V vāpī | f., cistern. | బావి
+V sabhā | f., council, meeting. | సభ
+V senā | f., army. | సైన్యం
+V stotra | n., song of praise. | స్తోత్రం
+@75
+## Exercise XI
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | nṛpatir nagarīṃ senayā 'jayat | The king conquered the city with an army. | రాజు సైన్యంతో నగరాన్ని జయించాడు.
+S 2 | kavayaḥ sabhāyāṃ kāvyāny apaṭhan | The poets recited poems in the assembly. | కవులు సభలో కావ్యాలను చదివారు.
+S 3 | dāsyo 'nnam ānayan | The maidservants brought food. | దాసీలు అన్నం తీసుకువచ్చారు.
+S 4 | devīr devāṃś ca harir apūjayat | Hari honoured the goddesses and the gods. | హరి దేవతలను, దేవుళ్ళను పూజించాడు.
+S 5 | sādhoḥ patnyā bhikṣave rūpakāṇi dīyante | Gold pieces are given by the saint’s wife to the beggar. | సాధువు భార్య భిక్షువుకు బంగారు నాణేలు ఇస్తుంది.
+S 6 | nadīṣu matsyān apaśyāma | We saw fish in the rivers. | మేము నదులలో చేపలను చూశాము.
+S 7 | putryā ayacchad viṣṇuḥ pustakam | Viṣṇu gave the daughter a book. | విష్ణువు కూతురికి పుస్తకం ఇచ్చాడు.
+S 8 | nagaryā rathyāsu gajāv abhrāmyatām | The two elephants wandered in the streets of the city. | రెండు ఏనుగులు నగర వీధులలో తిరిగాయి.
+S 9 | pṛthivyāḥ prabhūtā vihagā udapatan | Many birds flew up from the earth. | భూమి నుండి చాలా పక్షులు ఎగిరాయి.
+S 10 | gṛhaṃ nadyāḥ pūreṇohyate | The house is carried away by the river’s flood. | నది వరద ఇంటిని కొట్టుకుపోతోంది.
+S 11 | patnībhir narā nagara āgacchan | The men came to the city with their wives. | మనుషులు భార్యలతో కలిసి నగరానికి వచ్చారు.
+S 12 | yadā śivo viṣṇuś ca grantham apaṭhatāṃ tadārthe nāvāgacchāva | When Śiva and Viṣṇu recited the book, we two did not understand its meaning. | శివుడు, విష్ణువు గ్రంథాన్ని చదివినప్పుడు మేమిద్దరం దాని అర్థాన్ని గ్రహించలేదు.
+S 13 | śiṣyā guror gṛhaṃ prāviśann upāviśaṃś ca kaṭayoḥ pṛthivyām | The pupils entered the teacher’s house and sat on mats on the ground. | శిష్యులు గురువు ఇంట్లోకి ప్రవేశించి నేలపై చాపల మీద కూర్చున్నారు.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Words in italics are not to be translated, and the superior figures give the position of the Sanskrit word in the sentence.
+E 14 | When¹ ye besought⁴ (⟨pra-pad⟩) the king² *for* protection³ (*acc.*), then⁵ ye were⁷ (⟨sthā⟩) in misfortune⁶. | yadā nṛpaṃ śaraṇaṃ prāpadyadhvaṃ tadā duḥkhe 'tiṣṭhata | మీరు రాజు శరణు కోరినప్పుడు కష్టంలో ఉన్నారు.
+E 15 | *In* the *two* rivers¹ Gaṅgā² and⁴ Yamunā³ it is⁶ (⟨vartate⟩) high-water⁵. | nadyor gaṅgāyāṃ yamunāyāṃ ca pūro vartate | గంగ, యమున అనే రెండు నదులలో వరద ఉంది.
+E 16 | The *two* women¹ sang⁴ a song of praise³ *about* Rāma² (*gen.*). | nāryau rāmasya stotram agāyatām | ఇద్దరు స్త్రీలు రాముని గురించి స్తోత్రం పాడారు.
+E 17 | O¹ seers², why³ do ye both sacrifice⁶ *to* the goddesses⁴ *with* melted butter⁵? | he ṛṣī kuto devī ghṛtena yajathaḥ | ఓ ఋషులారా, మీరిద్దరూ నెయ్యితో దేవతలను ఎందుకు ఆరాధిస్తున్నారు?
+E 18 | The queen’s¹ women-servants² brought⁶ jewels³ and⁵ precious stones⁴. | devyā dāsyo maṇīn ratnāni cānayan | రాణి దాసీలు మణులను రత్నాలను తీసుకువచ్చారు.
+E 19 | *In* anger¹ (*abl.*) the teacher² struck⁴ the scholar⁵ *with his* hand³. | kopād guruḥ pāṇinā śiṣyam atāḍayat | కోపంతో గురువు చేతితో శిష్యుని కొట్టాడు.
+E 20 | The *two* servants¹ brought⁵ water⁴ *from* the cistern³ *in* pots². | bhṛtyau ghaṭābhyāṃ vāpyā jalam āharatām | ఇద్దరు సేవకులు కుండలలో బావి నుండి నీరు తెచ్చారు.
+E 21 | Ye cut off⁴ (*impf.*) wood³ *from* the trees² *with* the axe¹. | paraśunā vṛkṣebhyaḥ kāṣṭham avākṛntata | మీరు గొడ్డలితో చెట్ల నుండి కట్టెను నరికారు.
+E 22 | The seer¹ praised⁶ Indrāṇī⁴, Indra’s² consort³, *with* hymns⁵. | ṛṣir indrasya patnīm indrāṇīṃ sūktair aśaṃsat | ఋషి ఇంద్రుని పత్నియైన ఇంద్రాణిని సూక్తాలతో స్తుతించాడు.
