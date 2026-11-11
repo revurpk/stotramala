@@ -1358,6 +1358,7 @@ The English glosses, one for each khaṇḍa, are original.
 | 4 | 27 | n114–n129 | 75–90 | 64, all OCR failures |
 | 5 | 28 | n130–n147 | 91–108 | 76, all OCR failures |
 | 6 | 36 | n148–n170 | 109–131 | 84, all OCR failures |
+| 7 | 31 | n171–n188 | 132–149 | 74, all OCR failures |
 
 **Not Wikisource.** Sanskrit Wikisource's Nirukta is copied from the
 Maharishi University of Management Vedic Literature Collection, which is
@@ -1432,6 +1433,15 @@ the English keys `tools/nirukta/glossN.txt`.
   quotation are printed by Sarup in square brackets and kept so.
 - 6.36: after the adhyāya Sarup prints the colophon of the first half,
   *iti naigamaṃ kāṇḍaṃ pūrvārdhaś ca samāptam*, kept as a closing line.
+
+- 7.1: the praṇava Sarup prints before *athāto daivatam* is written
+  *oṃ* in the IAST, which the page renders as ॐ.
+- 7.20: the whole comment on *jātavedase sunavāma somam*, with its own
+  closing numbers ॥ २ ॥ २५ ॥, is printed in square brackets and kept so,
+  inside the khaṇḍa.
+- 7.31: after the adhyāya Sarup prints *iti uttaraṣaṭke prathamo'dhyāyaḥ*
+  (the second six counting afresh) as well as *iti nirukte saptamo'dhyāyaḥ*;
+  both are kept.
 
 The heading and English summary of each khaṇḍa are original; they
 summarise, they do not translate.
