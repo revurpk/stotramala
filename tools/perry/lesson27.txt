@@ -1,0 +1,112 @@
+# Perry, A Sanskrit Primer. Lesson XXVII = p. 109 (from the heading) to p. 113 (to the end of the exercise) = leaves n128–n132 of the Cornell scan.
+% The demonstratives ayam and asau, enam; the past passive participle in -ta and -na
+! Perry’s āi and āu are written ai and au. The pencil marks are ignored. His footnote to § 291.4 (the commonest exceptions: khādita from khād “eat”, matta from mad, mudita from mud “rejoice”, rudita from rud “weep”, udita from vad “speak”, vidita from vid “know”) is given whole, as are the footnotes to Exercise XXVII (∗ “I am so-and-so; N. or M.”; ∗∗ translate the pronoun-forms by “here”, and cf. § 225). His roots 2kṛ and 1pṛ carry the numerals before them as in the vocabulary.
+! Exercise XXVII opens with a verse Perry numbers ॥ 15 ॥ (vardhamānam ṛṇaṃ rājan paribhūtāś ca śatravaḥ …, “Growing debt, O king, and enemies who have been slighted, and disease neglected: they breed great fear”); his sentences are then numbered 1–11, and the English ones 12–22. Sentence 2 is read bho asāv aham∗ ity uccārayan garīyaso 'bhivādayeta; sentence 3, ayaṃ naḥ pitā rathād avatīrṇaḥ sakhyā saha sambhāṣamāṇas tiṣṭhati; sentence 5, udadhau majjantaṃ bhujyum aśvinau nāvoddharatām (nāvā + uddharatām), printed with a dot under the long ā; sentence 8, yudhyamānān amūn anaḍuhaḥ paśya; sentence 10 is printed idam∗∗ āsanam imā āpaḥ snānāyāyam madhuparka idaṃ bhojanam imāni vastrāṇīyaṃ śayyeti gṛhastho 'tithiṃ gṛham āgacchantaṃ vadet.
+@128
+## Lesson XXVII
+¶ **285. Demonstrative Pronouns.** Two demonstrative-declensions are made up with particular irregularity: they are those of the pronouns ⟨ayam⟩ and ⟨asau⟩ (for which the natives give the stem-forms as ⟨idam⟩ and ⟨adas⟩ respectively). The first is a more indefinite demonstrative: ‘this’ or ‘that’; the other signifies especially the remoter relation.
+¶ **286.** ⟨ayam⟩ (⟨idam⟩):
+@129
+T Masculine | Sing. | Dual | Plural | Fem. Sing. | Fem. Dual | Fem. Plural
+R N. | ⟨ayam⟩ | ⟨imau⟩ | ⟨ime⟩ | ⟨iyam⟩ | ⟨ime⟩ | ⟨imās⟩
+R A. | ⟨imam⟩ | „ | ⟨imān⟩ | ⟨imām⟩ | „ | „
+R I. | ⟨anena⟩ | ⟨ābhyām⟩ | ⟨ebhis⟩ | ⟨anayā⟩ | ⟨ābhyām⟩ | ⟨ābhis⟩
+R D. | ⟨asmai⟩ | „ | ⟨ebhyas⟩ | ⟨asyai⟩ | „ | ⟨ābhyas⟩
+R Ab. | ⟨asmāt⟩ | „ | „ | ⟨asyās⟩ | „ | „
+R G. | ⟨asya⟩ | ⟨anayos⟩ | ⟨eṣām⟩ | „ | ⟨anayos⟩ | ⟨āsām⟩
+R L. | ⟨asmin⟩ | „ | ⟨eṣu⟩ | ⟨asyām⟩ | „ | ⟨āsu⟩
+¶ Neuter: Nom.-acc. sing. ⟨idam⟩, du. ⟨ime⟩, pl. ⟨imāni⟩; the rest is like the masculine.
+¶ **287.** ⟨asau⟩ (⟨adas⟩):
+T Masculine | Sing. | Dual | Plural | Fem. Sing. | Fem. Dual | Fem. Plural
+R N. | ⟨asau⟩ | ⟨amū⟩ | ⟨amī⟩ | ⟨asau⟩ | ⟨amū⟩ | ⟨amūs⟩
+R A. | ⟨amum⟩ | „ | ⟨amūn⟩ | ⟨amūm⟩ | „ | „
+R I. | ⟨amunā⟩ | ⟨amūbhyām⟩ | ⟨amībhis⟩ | ⟨amuyā⟩ | ⟨amūbhyām⟩ | ⟨amūbhis⟩
+R D. | ⟨amuṣmai⟩ | „ | ⟨amībhyas⟩ | ⟨amuṣyai⟩ | „ | ⟨amūbhyas⟩
+R Ab. | ⟨amuṣmāt⟩ | „ | „ | ⟨amuṣyās⟩ | „ | „
+R G. | ⟨amuṣya⟩ | ⟨amuyos⟩ | ⟨amīṣām⟩ | „ | ⟨amuyos⟩ | ⟨amūṣām⟩
+R L. | ⟨amuṣmin⟩ | „ | ⟨amīṣu⟩ | ⟨amuṣyām⟩ | „ | ⟨amūṣu⟩
+¶ Neuter: Nom.-acc. sing. ⟨adas⟩, du. ⟨amū⟩, pl. ⟨amūni⟩; the rest like masc. — The final ⟨ī⟩ of ⟨amī⟩ is unchangeable (cf. § 161).
+¶ **288.** There is a defective pronominal stem ⟨ena⟩, which is accentless, and hence used only in situations where no emphasis falls upon it. The only forms are the following: Sing. acc. m. ⟨enam⟩, n. ⟨enad⟩, f. ⟨enām⟩; instr. m., n., ⟨enena⟩, f. ⟨enayā⟩. Du. acc. m. ⟨enau⟩, f., n., ⟨ene⟩; gen.-loc. m., f., n., ⟨enayos⟩. Pl. acc. m. ⟨enān⟩, n. ⟨enāni⟩, f. ⟨enās⟩. — These forms may be used only when the person or object to which they refer has already been indicated by a form of ⟨ayam⟩ or ⟨eṣa⟩. Thus, ⟨anena kāvyam adhītam enaṃ vyākaraṇam adhyāpaya⟩ “this one has read the art of poetry; teach him grammar”.
+¶ **289. Past Passive Participle in ⟨ta⟩ or ⟨na⟩.** By the suffix ⟨ta⟩ — or, in a comparatively small number of verbs, ⟨na⟩ — is formed, directly from the root of the verb, and unconnected with any tense-stem, a verbal adjective called the past passive participle. The fem. ends always in ⟨ā⟩. When this participle is made from transitive verbs, it qualifies something as having endured the action expressed by the verb; thus, ⟨datta⟩ ‘given’; ⟨ukta⟩ ‘spoken’. When made from an intransitive or neuter verb, the same par-
+@130
+¶ ticiple has no passive, but only an indefinite past, sense; thus, ⟨gata⟩, ‘gone’, ⟨bhūta⟩, ‘been’; ⟨patita⟩, ‘fallen’.
+¶ **290.** This participle is often used as an adjective. Very commonly, also, it supplies the place of a finite verb, when some form of ⟨as⟩, ‘be’, or ⟨bhū⟩ is to be supplied; thus, ⟨sa gataḥ⟩: “he is gone”; ⟨mayā pattraṃ likhitam⟩ “by me a letter was written”. The neuter is frequently used as a substantive; thus, ⟨dattam⟩ ‘a gift’; ⟨dugdham⟩ ‘milk’; and also as *nomen actionis*. Sometimes it has a present signification, particularly when made from neuter verbs; thus, ⟨sthita⟩ (from ⟨sthā⟩) often ‘standing’.
+¶ **291. A. With suffix ⟨na⟩ [⟨ṇa⟩].** The suffix ⟨na⟩ is taken by a number of roots. Thus:
+¶ 1. Certain roots in ⟨ā⟩, and in *i* and *u*-vowels; thus, ⟨pyā⟩ or ⟨pī⟩ ‘swell, be fat’, ⟨pīna⟩; ⟨hā⟩ ‘abandon’, ⟨hīna⟩; ⟨glā⟩ ‘wither’, ⟨glāna⟩; ⟨kṣi⟩ ‘destroy’, ⟨kṣīṇa⟩; ⟨śvā⟩ or ⟨śvi⟩ ‘swell’, ⟨śūna⟩; ⟨lū⟩ ‘cut’, ⟨lūna⟩.
+¶ 2. The roots in variable ⟨ṛ⟩ (so-called ṝ-roots), which before the suffix becomes ⟨īr⟩ or ⟨ūr⟩, as in the pres. pass.; thus, 2⟨kṛ⟩ (⟨kir⟩), ⟨kīrṇa⟩; ⟨tṛ⟩, ⟨tīrṇa⟩; 1⟨pṛ⟩ (⟨pūr⟩) ‘fill’, ⟨pūrṇa⟩.
+¶ 3. A few roots ending in ⟨j⟩ (which becomes ⟨g⟩ before the ⟨na⟩); thus, ⟨bhañj⟩ ‘break’, ⟨bhagna⟩; 1⟨bhuj⟩ ‘bend’, ⟨bhugna⟩; ⟨majj⟩ ‘sink’, ⟨magna⟩; ⟨ruj⟩ ‘be sick’, ⟨rugṇa⟩; ⟨vij⟩ ‘fear’, ⟨vigna⟩. Also one or two others which exhibit a guttural before the ⟨na⟩: ⟨lag⟩ ‘attach’, ⟨lagna⟩; ⟨vraśc⟩ ‘cut up’, ⟨vṛkṇa⟩.
+¶ 4. A number of roots, some of them very common, in ⟨d⟩ (which becomes ⟨n⟩ before ⟨na⟩): ⟨sad⟩, ⟨sanna⟩; (⟨ni-sad⟩, ⟨niṣaṇṇa⟩;) ⟨bhid⟩ ‘cut’, ⟨bhinna⟩.∗
+¶ **292.** Some few verbs make double forms; thus, ⟨tvar⟩ ‘hasten’, ⟨tūrṇa⟩ or ⟨tvarita⟩; ⟨vid⟩ ‘acquire’, ⟨vinna⟩ or ⟨vitta⟩.
+¶ ∗ Commonest exceptions: ⟨khādita⟩ from ⟨khād⟩ ‘eat’; ⟨matta⟩ from ⟨mad⟩; ⟨mudita⟩ from ⟨mud⟩ ‘rejoice’; ⟨rudita⟩ from ⟨rud⟩ ‘weep’; ⟨udita⟩ from ⟨vad⟩ ‘speak’; ⟨vidita⟩ from ⟨vid⟩ ‘know’.
+@131
+## Vocabulary XXVII
+¶ Verbs:
+V īkṣ | + ⟨upa⟩ (⟨upekṣate⟩) neglect. | నిర్లక్ష్యం చేయు
+V kṛ | 2 + ⟨vi⟩ (⟨vikirati⟩) scatter. | చెదరగొట్టు
+V gaṇaya | + ⟨ava⟩ (den. — ⟨avagaṇayati⟩) despise. | తృణీకరించు
+V car | + ⟨ud⟩, in caus. (⟨uccārayati⟩) pronounce, say. | ఉచ్చరించు
+V tṛ | + ⟨ava⟩ (⟨avatarati⟩) descend. | దిగు
+V tṛ | + ⟨ud⟩ (⟨uttarati⟩) emerge, come out. | బయటపడు, ఒడ్డుకు చేరు
+V pī | or ⟨pyā⟩ (⟨pyāyate⟩) become stout or fat. | లావెక్కు
+V bhakṣ | (⟨bhakṣayati⟩) eat. | తిను
+V bhañj | break. | విరుగు, విరుచు
+V bhuj | 2 + ⟨upa⟩ enjoy. | అనుభవించు
+V bhū | + ⟨pari⟩ (⟨paribhavati⟩) despise. | తిరస్కరించు
+V majj | (⟨majjati⟩) sink. | మునుగు
+V yuj | in caus. (⟨yojayati⟩) yoke, harness. | కట్టు, జతచేయు
+V lag | (⟨lagati⟩) attach; hang, cling, adhere. | అంటుకొను, వ్రేలాడు
+V sad | (⟨sīdati⟩) sit, settle down; be overcome, exhausted. | కూర్చుండు; అలసిపోవు
+¶ Subst.:
+V aśvinau | m. du., *nom. pr.*, the Aśvins (the Indian Dioskouroi). | అశ్వినులు
+V ācāra | m., “walk and conversation”; conduct of life, observance. | ఆచారం, నడవడి
+V ṛṇa | n., debt. | ఋణం
+V kailāsa | m., *n. pr.* a mountain. | కైలాసం (ఒక పర్వతం)
+V kṣudh | f., hunger. | ఆకలి
+V brahmacarya | n., life of holiness, i. e. religious studentship. | బ్రహ్మచర్యం
+V bhojana | n., meal-time, meal. | భోజనం
+V bhujyu | m., *n. pr.*, a Vedic personage. | భుజ్యుడు (ఒక వైదిక పాత్ర)
+V madhuparka | m., sweet drink. | మధుపర్కం
+V muktā | f., pearl. | ముత్యం
+V rākṣasa | m., demon. | రాక్షసుడు
+V lābha | m., acquisition, gain. | లాభం
+V vivāha | m., wedding, marriage. | వివాహం
+V vyādhi | m., illness. | వ్యాధి
+V śakaṭa | m., car. | బండి
+V śayyā | f., bed. | పడక
+V hala | m., n., plough. | నాగలి
+V hāra | m., chain, garland. | హారం
+¶ Adj.:
+V kṣīṇa | (part. of 2⟨kṣi⟩) reduced, decayed; ruined. | క్షీణించిన; నశించిన
+V tīvra | f. ā, great, strong, violent. | తీవ్రమైన
+V pīna | (part. of ⟨pī⟩) fat. | లావైన
+V brahmacārin | studying sacred knowledge; *as m. subst.*, Brāhman student. | బ్రహ్మచారి
+V hīna | (part.) abandoned; wanting in; and so sometimes w. instr., = ‘without’. | విడువబడిన; లోపించిన; (తృతీయతో) లేకుండా
+@132
+## Exercise XXVII
+¶ The exercise opens with a verse, in two halves (the translations are the editor’s):
+S a | vardhamānam ṛṇaṃ rājan paribhūtāś ca śatravaḥ | Growing debt, O king, and enemies who have been slighted, | ఎదుగుతున్న ఋణం, రాజా, నిర్లక్ష్యం చేయబడిన శత్రువులు,
+S b | janayanti bhayaṃ tīvraṃ vyādhayaś cāpy upekṣitāḥ | and diseases that have been neglected: they breed great fear. | నిర్లక్ష్యం చేయబడిన వ్యాధులు — ఇవి తీవ్రమైన భయాన్ని పుట్టిస్తాయి.
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | yāni karmāṇy asmin loke kriyante teṣāṃ phalaṃ kartāmuṣmin loka upabhujyate | The fruit of the deeds that are done in this world is enjoyed by the doer in the other world. | ఈ లోకంలో చేసే కర్మల ఫలాన్ని కర్త పరలోకంలో అనుభవిస్తాడు.
+S 2 | bho asāv aham∗ ity uccārayan garīyaso 'bhivādayeta | Pronouncing “Ho! I am so-and-so,” one should greet those more venerable. | “భో! నేను ఫలానా” అని ఉచ్చరిస్తూ పెద్దలకు అభివాదం చేయాలి.
+S 3 | ayaṃ naḥ pitā rathād avatīrṇaḥ sakhyā saha sambhāṣamāṇas tiṣṭhati | Here our father, having alighted from the chariot, stands conversing with his friend. | ఇదిగో మా తండ్రి రథం నుండి దిగి తన స్నేహితునితో మాట్లాడుతూ నిలుచున్నాడు.
+S 4 | ācāreṇa hīnaṃ pumāṃsaṃ vidvāṃsam apy avagaṇayanti santaḥ | The good despise even a learned man who lacks good conduct. | ఆచారం లేనివాడిని, పండితుడైనా, సత్పురుషులు తృణీకరిస్తారు.
+S 5 | udadhau majjantaṃ bhujyum aśvinau nāvoddharatām | The two Aśvins drew Bhujyu, who was sinking in the ocean, out with a ship. | సముద్రంలో మునిగిపోతున్న భుజ్యుని అశ్వినులు నావతో బయటకు తీశారు.
+S 6 | ebhyaḥ kṣudhā sīdadbhyo bhikṣubhyo 'nnaṃ prayaccha | Give food to these beggars who are exhausted with hunger. | ఆకలితో అలసిపోతున్న ఈ భిక్షువులకు అన్నం ఇవ్వు.
+S 7 | pathy asmākaṃ ratho bhagnaḥ | On the road our car was broken. | దారిలో మా బండి విరిగింది.
+S 8 | yudhyamānān amūn anaḍuhaḥ paśya | Look at those oxen fighting yonder. | అక్కడ పోరాడుతున్న ఆ ఎద్దులను చూడు.
+S 9 | bhavatā vikīrṇaṃ dhānyam ime vihagā bhakṣayanti | These birds eat the grain scattered by you. | మీరు చల్లిన ధాన్యాన్ని ఈ పక్షులు తింటున్నాయి.
+S 10 | ābhir adbhiḥ pāṇī prakṣālaya | Wash your hands with this water. | ఈ నీటితో చేతులు కడుక్కో.
+S 11 | idam∗∗ āsanam imā āpaḥ snānāyāyaṃ madhuparka idaṃ bhojanam imāni vastrāṇīyaṃ śayyeti gṛhastho 'tithiṃ gṛham āgacchantaṃ vadet | “Here is a seat, here is water for bathing, here a sweet drink, here a meal, here garments, here a bed”: so the householder should say to a guest coming to his house. | “ఇదిగో ఆసనం, ఇదిగో స్నానానికి నీరు, ఇదిగో మధుపర్కం, ఇదిగో భోజనం, ఇదిగో వస్త్రాలు, ఇదిగో పడక” అని గృహస్థుడు ఇంటికి వచ్చే అతిథికి చెప్పాలి.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Words in italics are not to be translated, and “(*pass. part.*)” asks for the past passive participle.
+E 12 | Have medicine given quickly (*use pass. part. of* ⟨tvar⟩, *in nom.*) to these sick *persons*. | tūrṇam ebhyo vyādhitebhya auṣadhaṃ dāpaya | ఈ రోగులకు త్వరగా ఔషధం ఇప్పించు.
+E 13 | This is that mountain Kailāsa, on which Çiva dwells. | ayaṃ sa kailāso girir yatra śivo vasati | ఇదే శివుడు నివసించే ఆ కైలాస పర్వతం.
+E 14 | In order to attain (⟨lābha⟩, *dat.*) this and that *other* world (*gen.*) the priest offered sacrifice for me (⟨yaj⟩ *caus.*). | asya parasya ca lokasya lābhāya purohito mām ayājayat | ఈ లోకాన్ని, ఆ పరలోకాన్ని పొందడం కోసం పురోహితుడు నా కోసం యజ్ఞం చేయించాడు.
+E 15 | The flowers in the garlands of these women are withered. | āsāṃ nārīṇāṃ hāreṣu sumanasaḥ śūnā | ఈ స్త్రీల హారాలలోని పువ్వులు వాడిపోయాయి.
+E 16 | By that king, who *was* praised by us, we were delighted with these jewels. | yena rājñāsmābhiḥ śastena vayam ebhī ratnais tuṣyāma | మేము స్తుతించిన ఆ రాజు చేత ఈ రత్నాలతో మేము సంతోషపరచబడ్డాము.
+E 17 | The peasant yoked two fat oxen to the plough. | kṛṣīvalo halāya pīnāv anaḍvāhau yojitavān | రైతు నాగలికి రెండు లావైన ఎద్దులను కట్టాడు.
+E 18 | The learned Brāhman emerged (*pass. part.*) from the water. | vidvān brāhmaṇo 'dbhya uttīrṇaḥ | పండిత బ్రాహ్మణుడు నీటి నుండి బయటకు వచ్చాడు.
+E 19 | Here comes (*pass. part.*) the queen. | iyaṃ devy āgatā | ఇదిగో రాణి వచ్చింది.
+E 20 | A chain of pearls hung (*pass. part.*) on the neck of this demon. | muktāhāro 'sya rākṣasasya kaṇṭhe lagnaḥ | ముత్యాల హారం ఈ రాక్షసుని కంఠంలో వ్రేలాడుతోంది.
+E 21 | What sin is not committed by *persons* reduced *in fortune*? | kṣīṇair janaiḥ kiṃ pāpaṃ na kriyate | నష్టపోయినవారు ఏ పాపం చేయరు?
+E 22 | This garden is filled with men and women. | idam udyānaṃ pumbhiḥ strībhiś ca pūrṇam | ఈ తోట స్త్రీపురుషులతో నిండి ఉంది.
