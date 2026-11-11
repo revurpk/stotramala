@@ -1,0 +1,92 @@
+# Perry, A Sanskrit Primer. Lesson IV = p. 32 (from the heading) to p. 36 (to the end of the exercise) = leaves n51–n55.
+% Nouns in i (agni, vāri); the changes of final s and r before other sounds; the verbs muñcati, limpati, lumpati
+! Perry prints the ablative singular of agni as “A.” (agnes) in the paradigm; it is the ablative, and is labelled Ab. here.
+! In Exercise IV, sentence 4 is printed with ∗ (Perry’s note: modifiers generally precede the word modified) after the word read here as areḥ, “of the enemy”; the vowel sign in the scan is e, as in girer of sentence 7. Sentence 12 reads ṛṣibhī (§ 123), as printed.
+! The footnote “See preceding note”, under the paradigm of vāri on p. 33, refers to the long note on n and ṇ that begins on p. 32 under Exercise III; it is given in Lesson III, and here as a pointer.
+@51
+## Lesson IV
+¶ **113. Masculines in ⟨i⟩.** ⟨agni⟩, ‘fire’.
+T  | Singular. | Dual. | Plural.
+R N. | ⟨agnis⟩ | ⟨agnī⟩ | ⟨agnayas⟩
+R A. | ⟨agnim⟩ | „ „ | ⟨agnīn⟩
+R I. | ⟨agninā⟩ | ⟨agnibhyām⟩ | ⟨agnibhis⟩
+R D. | ⟨agnaye⟩ | „ „ | ⟨agnibhyas⟩
+R Ab. | ⟨agnes⟩ | „ „ | „ „
+R G. | „ „ | ⟨agnyos⟩ | ⟨agnīnām⟩
+R L. | ⟨agnau⟩ | „ „ | ⟨agniṣu⟩∗
+R V. | ⟨agne⟩ |  |
+¶ ∗ See note to § 102.
+@52
+¶ **114. Neuters in ⟨i⟩.** ⟨vāri⟩, ‘water’.
+T  | Singular. | Dual. | Plural.
+R N. | ⟨vāri⟩ | ⟨vāriṇī⟩ | ⟨vārīṇi⟩
+R A. | „ „ | „ „ | „ „
+R I. | ⟨vāriṇā⟩∗ | ⟨vāribhyām⟩ | ⟨vāribhis⟩
+R D. | ⟨vāriṇe⟩ | „ „ | ⟨vāribhyas⟩
+R Ab. | ⟨vāriṇas⟩ | „ „ | „ „
+R G. | „ „ | ⟨vāriṇos⟩ | ⟨vārīṇām⟩
+R L. | ⟨vāriṇi⟩ | „ „ | ⟨vāriṣu⟩
+R V. | ⟨vāre⟩ or ⟨vāri⟩ |  |
+¶ ∗ See preceding note [the note on ⟨n⟩ and ⟨ṇ⟩ under Exercise III].
+¶ **115.** Masculine and neuter adjectives in ⟨i⟩ are declined like the substantives above. But neuter adjectives (never substantives) may, in the dat., abl., gen., and loc. sing., and the gen. and loc. dual, substitute the corresponding forms of masculines.
+¶ **116. Euphonic changes of ⟨s⟩ and ⟨r⟩.** These two sounds stand to each other in the practical relation, *in external combination*, of corresponding surd and sonant: in countless cases ⟨s⟩ becomes ⟨r⟩ in situations requiring or favoring the occurrence of a sonant; and, less often, ⟨r⟩ becomes ⟨s⟩ where a surd is required. In internal combination the two are far less interchangeable. The *s* is extremely common as an etymological final, the *r* not common.
+¶ **117. A. Final ⟨s⟩.** 1. Before a sonant, either vowel or consonant (except ⟨r⟩ — see below), ⟨s⟩ is changed to the sonant ⟨r⟩ — unless, indeed, it be preceded by ⟨a⟩ or ⟨ā⟩; thus, ⟨agnis atra⟩ becomes ⟨agnir atra⟩; ⟨agnis dahati⟩ becomes ⟨agnir dahati⟩. See also § 95.
+@53
+¶ **118.** 2. Final ⟨as⟩, before any sonant consonant or before initial short ⟨a⟩, is changed to ⟨o⟩ — and the initial ⟨a⟩ is dropped; thus, ⟨nṛpas jayati⟩ becomes ⟨nṛpo jayati⟩; ⟨nṛpas atra⟩ = ⟨nṛpo 'tra⟩.
+¶ **119.** It is the practice in our system of transliteration to render the sign ⟨'⟩ [the avagraha], which denotes this dropping of an initial ⟨a⟩, by an inverted comma.
+¶ **120.** 3. Before any initial vowel other than short ⟨a⟩, final ⟨as⟩ loses its ⟨s⟩, becoming simple ⟨a⟩; and the hiatus thus occasioned remains; thus, ⟨nṛpas icchati⟩ becomes ⟨nṛpa icchati⟩; ⟨tatas udakam⟩ = ⟨tata udakam⟩.
+¶ **121.** 4. Final ⟨ās⟩ before any sonant, whether vowel or consonant, loses its ⟨s⟩, becoming simply ⟨ā⟩; and the hiatus thus occasioned remains; thus, ⟨nṛpās icchanti⟩ = ⟨nṛpā icchanti⟩; ⟨nṛpās jayanti⟩ = ⟨nṛpā jayanti⟩.
+¶ **122. B. Final ⟨r⟩.** 1. Final ⟨r⟩ in general shows the same form which ⟨s⟩ would exhibit under the same conditions: thus ⟨punar⟩ standing at the end of a sentence becomes ⟨punaḥ⟩; ⟨gīr⟩, ⟨gīḥ⟩. But *original* final ⟨r⟩, after ⟨a⟩ or ⟨ā⟩, maintains itself before vowels and sonant consonants; thus, ⟨punar atra⟩, ⟨punar jayati⟩.
+¶ **123.** 2. A double ⟨r⟩ is nowhere admitted: if such would occur, either by retention of an original ⟨r⟩ or by conversion of ⟨s⟩ to ⟨r⟩, the first ⟨r⟩ is omitted, and the preceding vowel, if short, is made long by compensation; thus, ⟨punar rāmaḥ⟩ = ⟨punā rāmaḥ⟩; ⟨agnis rocate⟩ = ⟨agnī rocate⟩; ⟨dhenus rocate⟩ = ⟨dhenū rocate⟩.
+@54
+## Vocabulary IV
+¶ Verbs:
+V kṛt | (⟨kṛntati⟩) cut, cut off. | కోయు, నరుకు
+V muc | (⟨muñcati⟩) free, deliver, release. | విడిపించు, విముక్తి చేయు, వదలు
+V ruh | (⟨rohati⟩) grow. | పెరుగు, ఎక్కు
+V lip | (⟨limpati⟩) smear. | పూయు
+V lup | (⟨lumpati⟩) break to pieces, devastate, plunder. | పగులగొట్టు, ధ్వంసం చేయు, దోచుకొను
+¶ Subst.:
+V agni | m., fire; (as proper name) Agni, the god of fire. | అగ్ని; అగ్నిదేవుడు
+V ari | m., enemy. | శత్రువు
+V asi | m., sword. | ఖడ్గం, కత్తి
+V ṛṣi | m., seer. | ఋషి
+V kavi | m., poet. | కవి
+V giri | m., mountain. | పర్వతం, కొండ
+V jana | m., man; (pl.) people. | మనిషి; (బహువచనం) ప్రజలు
+V duḥkha | n., misery, misfortune. | దుఃఖం, కష్టం
+V pāṇi | m., hand. | చేయి
+V pāpa | n., sin. | పాపం
+V rāma | m., *nom. pr.*, name of a hero. | రాముడు (ఒక వీరుని పేరు)
+V vṛkṣa | m., tree. | చెట్టు
+V śiva | m., *nom. pr.* name of a god. | శివుడు (ఒక దేవుని పేరు)
+V satya | n., truth, righteousness. | సత్యం, ధర్మం
+V hari | m., *nom. pr.*, name of a god. | హరి (ఒక దేవుని పేరు)
+## Exercise IV
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | sadā devā janān muñcanti pāpāt | The gods always free people from sin. | దేవతలు ఎల్లప్పుడూ ప్రజలను పాపం నుండి విడిపిస్తారు.
+S 2 | nṛpasya putrau kva vasataḥ | Where do the king’s two sons dwell? | రాజు ఇద్దరు కొడుకులు ఎక్కడ నివసిస్తున్నారు?
+S 3 | ṛṣir duḥkhāt putraṃ rakṣati | The seer protects his son from misfortune. | ఋషి కొడుకును కష్టం నుండి రక్షిస్తాడు.
+S 4 | nṛpo 'sinā 'reḥ∗ pāṇī kṛntati | The king cuts off the enemy’s two hands with a sword. | రాజు కత్తితో శత్రువు రెండు చేతులను నరుకుతాడు.
+S 5 | kavayo hariṃ śaṃsanti | The poets praise Hari. | కవులు హరిని స్తుతిస్తారు.
+S 6 | arayo janānāṃ dhanaṃ lumpanti | The enemies plunder the people’s wealth. | శత్రువులు ప్రజల ధనాన్ని దోచుకుంటారు.
+S 7 | jalaṃ gireḥ patati | Water falls from the mountain. | నీరు కొండ నుండి పడుతుంది.
+S 8 | śarān viṣeṇa limpatha | You smear the arrows with poison. | మీరు బాణాలకు విషం పూస్తారు.
+S 9 | vṛkṣā girau rohanti | Trees grow on the mountain. | చెట్లు కొండ మీద పెరుగుతాయి.
+S 10 | ṛṣyoḥ putrau tatra mārge tiṣṭhataḥ | The two sons of the two seers stand there on the road. | ఇద్దరు ఋషుల ఇద్దరు కొడుకులు అక్కడ దారిలో నిలుచున్నారు.
+S 11 | hariḥ kavibhyāṃ dānāni yacchati | Hari gives gifts to the two poets. | హరి ఇద్దరు కవులకు కానుకలు ఇస్తాడు.
+S 12 | ṛṣibhī rāmo vasati | Rāma dwells with the seers. | రాముడు ఋషులతో కలిసి నివసిస్తాడు.
+S 13 | agninā 'rīṇāṃ gṛhāṇi nṛpā dahanti | The kings burn the houses of the enemies with fire. | రాజులు అగ్నితో శత్రువుల ఇళ్ళను కాల్చివేస్తారు.
+S 14 | hariṃ kṣīreṇa yajataḥ | The two of them worship Hari with milk. | వారిద్దరూ పాలతో హరిని ఆరాధిస్తారు.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Words in italics are not to be translated, and the superior figures give the position of the Sanskrit word in the sentence.
+E 15 | Çiva¹ dwells³ in the mountains². | śivo girīṣu vasati | శివుడు కొండలలో నివసిస్తాడు.
+E 16 | *Both* enemies¹ hurl⁴ spears² *at* the king³ (dat.) | arī kuntān nṛpāya kṣipataḥ | ఇద్దరు శత్రువులు రాజు మీదికి ఈటెలను విసురుతారు.
+E 17 | Rāma¹ touches⁴ *his two* sons³ *with his* hands². | rāmaḥ pāṇibhyāṃ putrau spṛśati | రాముడు తన రెండు చేతులతో తన ఇద్దరు కొడుకులను తాకుతాడు.
+E 18 | Fire¹ burns³ the trees². | agnir vṛkṣān dahati | అగ్ని చెట్లను కాల్చుతుంది.
+E 19 | Seers¹ speak² the truth³. | ṛṣayo vadanti satyam | ఋషులు సత్యం పలుకుతారు.
+E 20 | *Through* righteousness¹ happiness³ arises⁴ (⟨bhū⟩) *for* mankind² (⟨jana⟩, gen. pl.). | satyena janānāṃ sukhaṃ bhavati | సత్యం వలన మనుషులకు సుఖం కలుగుతుంది.
+E 21 | The seer’s¹ *two* hands² touch⁴ water³. | ṛṣeḥ pāṇī jalaṃ spṛśataḥ | ఋషి రెండు చేతులు నీటిని తాకుతాయి.
+E 22 | Fruits¹ are³ (use ⟨sthā⟩) *on* the trees². | phalāni vṛkṣeṣu tiṣṭhanti | పండ్లు చెట్ల మీద ఉన్నాయి.
+E 23 | People¹ remember³ Hari². | janā hariṃ smaranti | ప్రజలు హరిని స్మరిస్తారు.
+E 24 | Rāma¹ hurls⁴ the sword³ from *his* hand² (*abl.*). | rāmo hastād asiṃ kṣipati | రాముడు తన చేతి నుండి కత్తిని విసురుతాడు.
+¶ ∗ Modifiers generally precede the word which is modified.

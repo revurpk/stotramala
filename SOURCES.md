@@ -2195,8 +2195,8 @@ script switch (`tools/build_stotra.py`: section types `para`, `table`,
 
 | Field | Value |
 |---|---|
-| Work | Edward Delavan Perry, *A Sanskrit Primer, based on the Leitfaden für den Elementarcursus des Sanskrit of Professor Georg Bühler of Vienna*: an introduction to the structure of the language (§§ 1–91), 45 graded lessons with vocabularies and exercises, and glossaries. Lessons I–III are done so far, one page a lesson |
-| Source | Ginn & Co., Boston, 1885; the scan used is of the 1892 issue, Cornell University Library copy, archive.org `cu31924011121690` (leaf n38 = p. 19; Lesson I = leaves n43–n45 = pp. 24–26; Lesson II = leaves n45–n48 = pp. 26–29; Lesson III = leaves n49–n51 = pp. 30–32, with the footnote to Exercise III continued on p. 33). Public domain: published 1885, and Perry died in 1938 |
+| Work | Edward Delavan Perry, *A Sanskrit Primer, based on the Leitfaden für den Elementarcursus des Sanskrit of Professor Georg Bühler of Vienna*: an introduction to the structure of the language (§§ 1–91), 45 graded lessons with vocabularies and exercises, and glossaries. Lessons I–IV are done so far, one page a lesson |
+| Source | Ginn & Co., Boston, 1885; the scan used is of the 1892 issue, Cornell University Library copy, archive.org `cu31924011121690` (leaf n38 = p. 19; Lesson I = leaves n43–n45 = pp. 24–26; Lesson II = leaves n45–n48 = pp. 26–29; Lesson III = leaves n49–n51 = pp. 30–32, with the footnote to Exercise III continued on p. 33; Lesson IV = leaves n51–n55 = pp. 32–36). Public domain: published 1885, and Perry died in 1938 |
 | Recorded | 2026-11-11 |
 | Text status | public domain |
 
@@ -2242,3 +2242,6 @@ inside the prose, tables and vocabularies included.
   The footnote to Exercise III (sentence 4) is printed across the foot of
   pp. 32–33, beneath the first paragraphs of Lesson IV; it is given whole
   here, under the exercise it belongs to.
+- Lesson IV: Perry prints the ablative singular of agni as “A.” (agnes) in the paradigm; it is the ablative, and is labelled Ab. here.
+- Lesson IV: In Exercise IV, sentence 4 is printed with ∗ (Perry’s note: modifiers generally precede the word modified) after the word read here as areḥ, “of the enemy”; the vowel sign in the scan is e, as in girer of sentence 7. Sentence 12 reads ṛṣibhī (§ 123), as printed.
+- Lesson IV: The footnote “See preceding note”, under the paradigm of vāri on p. 33, refers to the long note on n and ṇ that begins on p. 32 under Exercise III; it is given in Lesson III, and here as a pointer.

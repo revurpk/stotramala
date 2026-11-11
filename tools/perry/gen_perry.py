@@ -11,7 +11,7 @@ lessonNN.txt, one item a line ("|" separates fields):
   V iast | English | Telugu      a vocabulary entry (consecutive V lines make one list)
   S n | iast | English | Telugu  a sentence into English, with the editor's translations
   E n | English | iast | Telugu  a sentence into Sanskrit, with the editor's answer
-  @N  the leaf;  # a comment
+  @N  the leaf;  # a comment;  % the page subtitle;  ! a note for SOURCES (read by wire.py)
 Sanskrit is written in IAST: Perry's ç is ś, his accent marks are left out, and a nasal he
 writes ṅ before a sibilant is ṃ where his Devanāgarī has anusvāra (see SOURCES).
 The English in [square brackets] and all Telugu are the editor's.
@@ -47,8 +47,11 @@ def fields(l, n):
 def main(nn):
     src = (HERE / f"lesson{nn:02d}.txt").read_text(encoding="utf-8").splitlines()
     secs, table, vocab = [], None, None
+    sub = next((x.strip()[1:].strip() for x in src if x.strip().startswith("%")), None)
     for raw in src:
         l = raw.strip()
+        if l.startswith(("%", "!")):
+            continue
         if not l or l.startswith(("#", "@")) and not l.startswith("##"):
             continue
         kind = l[:2] if l.startswith("##") else l[0]
@@ -82,7 +85,7 @@ def main(nn):
         secs.append({"vocab": vocab})
     r = ROMAN[nn]
     st = {"deity": "learn", "doc_title": f"Perry · Lesson {r}", "app_title": f"Perry {r}",
-          "h1": f"Sanskrit Primer · Lesson {r}", "subtitle": TITLES[nn], "note": NOTE,
+          "h1": f"Sanskrit Primer · Lesson {r}", "subtitle": sub or TITLES[nn], "note": NOTE,
           "footer": FOOTER, "toc": True, "sections": secs}
     q = lambda v: repr(v) if isinstance(v, bool) else json.dumps(v, ensure_ascii=False)
     out = ["# -*- coding: utf-8 -*-", "# Copyright 2026 Pradyumna Revur — CC BY 4.0 (see LICENSE)",
