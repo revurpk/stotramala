@@ -1,0 +1,97 @@
+# Perry, A Sanskrit Primer. Lesson XVI = p. 68 (from the heading) to p. 71 (to the end of the exercise) = leaves n87–n90 of the Cornell scan.
+% Verbs: the present optative active (vadeyam); nouns of relationship in ṛ (pitṛ, mātṛ); the stem go
+! Perry’s āi and āu are written ai and au; his root “çaṅs” is śaṃs. Accents on the verbs are not carried.
+! Exercise XVI opens with a verse Perry numbers ॥ 5 ॥ (gaur gauḥ kāmaduhā …, with a play on words throughout, his footnote ∗: “Predicate”); his sentences are then numbered 1–12, and the English ones 13–22. Sentence 9 is read yadi śāstram abhyaseyaṃ tadā guravas tuṣyeyuḥ; sentence 12 is read he śiśavaḥ pitṝn sevadhvaṃ bhrātṝṇāṃ snihyata (the vowel signs in the scan are clear).
+! In the editor’s answers, 14 translates Perry’s “opt. or imv.” with the optative, and 22 gives the daughters as accusative duals.
+@87
+## Lesson XVI
+¶ **206. Verbs, ⟨a⟩-conjugation. Present Optative Active.** The present optative is formed from the general present-stem by the addition of a mode-sign, after which are used secondary endings (in 3rd pl. act. ⟨us⟩, in 1st sing. mid. ⟨a⟩, in 3rd pl. mid. ⟨ran⟩). After an ⟨a⟩-stem, this mode-sign, in all voices, is ⟨ī⟩, unaccented, which blends with the final ⟨a⟩ to ⟨e⟩ (accented, or not, according to the accent of the ⟨a⟩): and the ⟨e⟩ is maintained unchanged before a vowel-ending (⟨am⟩, ⟨us⟩, ⟨āthām⟩, ⟨ātām⟩) by means of an interposed euphonic ⟨y⟩. The inflection in the active voice is as follows:
+T  | Sing. | Dual. | Plural.
+R 1. | ⟨vadeyam⟩ | ⟨vadeva⟩ | ⟨vadema⟩
+R 2. | ⟨vades⟩ | ⟨vadetam⟩ | ⟨vadeta⟩
+R 3. | ⟨vadet⟩ | ⟨vadetām⟩ | ⟨vadeyus⟩
+¶ Similarly, ⟨viśeyam⟩, ⟨nahyeyam⟩, ⟨coryeyam⟩, etc.
+@88
+¶ **207.** The optative expresses: 1. wish or desire; 2. request or entreaty; 3. what is desirable or proper; 4. what may or might, can or could be. It is also largely used in conditional sentences. The subject is often indefinite and unexpressed. The negative used with the opt. is ⟨na⟩. Both the prescriptive and the prohibitive optative are very common.
+¶ **208.** The nouns of relationship in ⟨ṛ⟩ (except ⟨svasṛ⟩ and ⟨naptṛ⟩ — see § 203) gunate ⟨ṛ⟩ in the strong cases; thus, ⟨pitṛ⟩ m., ‘father’, ⟨mātṛ⟩ f., ‘mother’, declined as follows:
+T  | Sing. | Dual. | Plural.
+R N. | ⟨pitā⟩ ⟨mātā⟩ | ⟨pitarau⟩ ⟨mātarau⟩ | ⟨pitaras⟩ ⟨mātaras⟩
+R A. | ⟨pitaram⟩ ⟨mātaram⟩ | „ „ | ⟨pitṝn⟩ ⟨mātṝs⟩
+R I. | ⟨pitrā⟩ ⟨mātrā⟩ | ⟨pitṛbhyām⟩ ⟨mātṛbhyām⟩ | ⟨pitṛbhis⟩ ⟨mātṛbhis⟩
+R … | etc. | etc. | etc.
+R V. | ⟨pitar⟩ ⟨mātar⟩ |  |
+¶ **209.** The stem ⟨go⟩ m., f., ‘bull’ or ‘cow’, is declined thus:
+T  | Sing. | Dual. | Plural.
+R NV. | ⟨gaus⟩ | ⟨gāvau⟩ | ⟨gāvas⟩
+R A. | ⟨gām⟩ | „ „ | ⟨gās⟩
+R I. | ⟨gavā⟩ | ⟨gobhyām⟩ | ⟨gobhis⟩
+R D. | ⟨gave⟩ | „ „ | ⟨gobhyas⟩
+R Ab. | ⟨gos⟩ | „ „ | „ „
+R G. | „ „ | ⟨gavos⟩ | ⟨gavām⟩
+R L. | ⟨gavi⟩ | „ „ | ⟨goṣu⟩
+## Vocabulary XVI
+¶ Verbs:
+V man | (⟨manyate⟩) think, suppose. | భావించు, తలచు
+V mud | (⟨modate⟩) rejoice. | సంతోషించు
+V śaṃs | (⟨śaṃsati⟩) proclaim (see also in Vocab. I.). | ప్రకటించు
+V smṛ | (⟨smarati⟩; p. ⟨smaryate⟩) remember; think of; teach, *esp. in pass.* ‘it is taught’, i. e. ‘traditional’. | స్మరించు; బోధించు (కర్మణిలో: “స్మృతి”)
+@89
+¶ Subst.:
+V go | m., f., bull, steer, cow; f., speech. | ఎద్దు, ఆవు; (స్త్రీలింగంలో) వాక్కు
+V gotva | n., ox-nature; stupidity. | గోత్వం, మూర్ఖత్వం
+V ghāsa | m., fodder, hay. | గడ్డి, మేత
+V jāmātṛ | m., son-in-law. | అల్లుడు
+V duhitṛ | f., daughter. | కూతురు
+V paṅka | n., mud, bog. | బురద
+V pitṛ | m., father; du., parents; pl., *manes*. | తండ్రి; (ద్వివచనంలో) తల్లిదండ్రులు; (బహువచనంలో) పితృదేవతలు
+V prayoktṛ | m., user, arranger. | ప్రయోగించువాడు
+V budha | m., wise man, sage. | పండితుడు, జ్ఞాని
+V bhrātṛ | m., brother. | సోదరుడు
+V mātṛ | f., mother. | తల్లి
+V māsa | m., month. | నెల
+V yugma | n., pair. | జంట
+V rakṣaṇa | n., protection. | రక్షణ
+V śrāddha | n., an oblation to the *manes*, accompanied by a sacrificial meal and gifts to the Brāhmans. | శ్రాద్ధం
+¶ Adj.:
+V adhika | f. ā, more, greater, greatest. | అధికమైన, ఎక్కువ
+V kāmaduha | f. ā, granting wishes; *as f., sc.* dhenu, the fabulous Wonder-cow. | కోరికలు తీర్చే; కామధేనువు
+V duṣprayukta | f. ā, badly arranged or used. | చెడుగా ప్రయోగించబడిన
+V prayukta | f. ā, arranged, used. | ప్రయోగించబడిన, చక్కగా అమర్చబడిన
+V śreṣṭha | f. ā, best. | శ్రేష్ఠమైన
+¶ Pron.:
+V sā | f., she, it. | ఆమె, అది
+¶ Adv. and Conj.:
+V cet | if. | ఒకవేళ
+V nityam | always, daily. | ఎల్లప్పుడూ, ప్రతిరోజూ
+V yadi | if. | ఒకవేళ
+V samyak | well, properly. | చక్కగా, సరిగా
+## Exercise XVI
+¶ The exercise opens with a verse, in two halves (the translations are the editor’s):
+S a | gaur gauḥ kāmaduhā∗ samyak prayuktā smaryate budhaiḥ | A “cow” (go) well used is remembered by the wise as the Wonder-cow. | “గో” (వాక్కు) చక్కగా ప్రయోగించబడితే పండితులు దానిని కామధేనువుగా స్మరిస్తారు.
+S b | duṣprayuktā punar gotvaṃ prayoktuḥ saiva śaṃsati | Badly used, it proclaims the user’s own “ox-nature”. | చెడుగా ప్రయోగించబడితే అదే ప్రయోగించినవాని గోత్వాన్ని (మూర్ఖత్వాన్ని) ప్రకటిస్తుంది.
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | bhartāraṃ bhartuś ca pitaraṃ mātaraṃ ca patnī devān iva pūjayet | A wife should honour her husband, and her husband’s father and mother, like the gods. | భార్య తన భర్తను, భర్త తల్లిదండ్రులను దేవతలను వలె పూజించాలి.
+S 2 | gā rakṣed gavāṃ rakṣaṇena puṇyaṃ bhavatīti dvijātayo manyante | “By protecting cows merit arises”: so the Aryans think. | “గోవులను రక్షించడం వలన పుణ్యం కలుగుతుంది” అని ద్విజులు భావిస్తారు.
+S 3 | yadā prayāga āgaccheva tadā pitre pattraṃ likheva | When you come to Prayāga, then write a letter to your father. | నువ్వు ప్రయాగకు వచ్చినప్పుడు నీ తండ్రికి ఉత్తరం రాయి.
+S 4 | pitṛbhyo māse māse śrāddhaṃ yaccheyuḥ | They should give a śrāddha to the fathers every month. | ప్రతి నెలా పితృదేవతలకు శ్రాద్ధం ఇవ్వాలి.
+S 5 | grāmam adya gacchetām iti mātarau putrāv abhāṣetām | “Let the two of you go to the village to-day”: thus the two parents said to the two sons. | “ఈ రోజు మీరిద్దరూ ఊరికి వెళ్ళండి” అని తల్లిదండ్రులు ఇద్దరు కొడుకులతో అన్నారు.
+S 6 | goḥ kṣīreṇa śiśavo modantām | Let the children rejoice in the cow’s milk. | ఆవు పాలతో పిల్లలు సంతోషించుదురు గాక.
+S 7 | gām atithaye pacemety ṛṣir bhāryām avadat | “We would cook a cow for the guest,” the seer said to his wife. | “అతిథి కోసం ఆవును వండుదామా?” అని ఋషి తన భార్యతో అన్నాడు.
+S 8 | duhitaraṃ pitarau rakṣetāṃ svasāraṃ bhrātarau mātuḥ putrāś ca rakṣeyuḥ | Let the parents protect the daughter, and the two brothers the sister; and the mother’s sons would protect her. | తల్లిదండ్రులు కూతురిని కాపాడుదురు గాక, ఇద్దరు సోదరులు సోదరిని; తల్లి కొడుకులు కూడా ఆమెను రక్షించవచ్చు.
+S 9 | yadi śāstram abhyaseyaṃ tadā guravas tuṣyeyuḥ | If I should study the science, then the teachers would be pleased. | నేను శాస్త్రాన్ని అభ్యసిస్తే గురువులు సంతోషిస్తారు.
+S 10 | he svasaḥ pitror gṛhe tiṣṭhata | O sisters, stay in your parents’ house. | ఓ సోదరీలారా, తల్లిదండ్రుల ఇంట్లో ఉండండి.
+S 11 | bāhubhyāṃ nadīṃ na tareta | One should not cross a river with the arms. | చేతులతో నదిని దాటకూడదు.
+S 12 | he śiśavaḥ pitṝn sevadhvaṃ bhrātṝṇāṃ snihyata | O children, serve your fathers and love your brothers. | ఓ పిల్లలారా, మీ తండ్రులను సేవించండి, మీ సోదరులను ప్రేమించండి.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Words in italics are not to be translated.
+@90
+E 13 | By Ṛṣabhadatta, son-in-law of Nahapāna, many cattle and villages and much money were given to the Brāhmans. | nahapānasya jāmātrā ṛṣabhadattena bahvyo gāvo grāmāś ca prabhūtaṃ vasu ca brāhmaṇebhyo 'dīyanta | నహపాన అల్లుడైన ఋషభదత్తుడు బ్రాహ్మణులకు అనేక గోవులను, గ్రామాలను, చాలా ధనాన్ని ఇచ్చాడు.
+E 14 | Thou shalt give the mother’s jewels to the sisters (*opt. or imv.*). | mātur ratnāni svasṛbhyo dadyāḥ | నువ్వు తల్లి రత్నాలను సోదరీలకు ఇవ్వవచ్చు.
+E 15 | Let the coachman bring (⟨ā-hṛ⟩) fodder for the horses; let him not torment the horses. | sūto 'śvebhyo ghāsam āharatu nāśvān pīḍayet | సారథి గుర్రాలకు గడ్డి తెచ్చుగాక; గుర్రాలను బాధపెట్టకూడదు.
+E 16 | Of the father’s property a greater part is to be given (*imv.*) to the eldest of the brothers. | pitur dhanasyādhiko bhāgo bhrātṝṇāṃ jyeṣṭhāya dīyatām | తండ్రి ఆస్తిలో అధిక భాగం సోదరులలో పెద్దవానికి ఇవ్వబడాలి.
+E 17 | “Children, bring wood and water into the house daily”; thus *was* the father’s command. | śiśavo nityaṃ gṛhe kāṣṭhaṃ jalaṃ cānayateti pitur ādeśaḥ | “పిల్లలారా, ప్రతిరోజూ ఇంట్లోకి కట్టెలు, నీరు తీసుకురండి” అని తండ్రి ఆదేశం.
+E 18 | Let the cows graze in the forest. | gāvo vane caratu | ఆవులు అడవిలో మేయుగాక.
+E 19 | Let both live on the milk (*instr.*) of the black cow. | kṛṣṇāyā dhenoḥ kṣīreṇa jīvatām | నల్ల ఆవు పాలతో ఇద్దరూ జీవించుదురు గాక.
+E 20 | The wagon is drawn by two steers. | gobhyāṃ ratho vahyate | బండిని రెండు ఎద్దులు లాగుతున్నాయి.
+E 21 | The seer rejoices over the pair (*instr.*) of white steers. | ṛṣiḥ śvetena goyugmena modate | ఋషి తెల్ల ఎద్దుల జంటను చూసి సంతోషిస్తాడు.
+E 22 | Hari and Śiva marry two sisters, the daughters of Rāma. | harir bhavaś ca rāmasya duhitarau svasārau pariṇayataḥ | హరి, శివుడు రాముని కూతుళ్ళయిన ఇద్దరు సోదరీలను వివాహమాడతారు.
+¶ ∗ Predicate. Play upon words throughout the verse.
