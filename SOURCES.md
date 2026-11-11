@@ -2195,8 +2195,8 @@ script switch (`tools/build_stotra.py`: section types `para`, `table`,
 
 | Field | Value |
 |---|---|
-| Work | Edward Delavan Perry, *A Sanskrit Primer, based on the Leitfaden für den Elementarcursus des Sanskrit of Professor Georg Bühler of Vienna*: an introduction to the structure of the language (§§ 1–91), 45 graded lessons with vocabularies and exercises, and glossaries. Lessons I–VII are done so far, one page a lesson |
-| Source | Ginn & Co., Boston, 1885; the scan used is of the 1892 issue, Cornell University Library copy, archive.org `cu31924011121690` (leaf n38 = p. 19; Lesson I = leaves n43–n45 = pp. 24–26; Lesson II = leaves n45–n48 = pp. 26–29; Lesson III = leaves n49–n51 = pp. 30–32, with the footnote to Exercise III continued on p. 33; Lesson IV = leaves n51–n55 = pp. 32–36; Lesson V = leaves n55–n58 = pp. 36–39; Lesson VI = leaves n58–n61 = pp. 39–42; Lesson VII = leaves n61–n63 = pp. 42–44). Public domain: published 1885, and Perry died in 1938 |
+| Work | Edward Delavan Perry, *A Sanskrit Primer, based on the Leitfaden für den Elementarcursus des Sanskrit of Professor Georg Bühler of Vienna*: an introduction to the structure of the language (§§ 1–91), 45 graded lessons with vocabularies and exercises, and glossaries. Lessons I–VIII are done so far, one page a lesson |
+| Source | Ginn & Co., Boston, 1885; the scan used is of the 1892 issue, Cornell University Library copy, archive.org `cu31924011121690` (leaf n38 = p. 19; Lesson I = leaves n43–n45 = pp. 24–26; Lesson II = leaves n45–n48 = pp. 26–29; Lesson III = leaves n49–n51 = pp. 30–32, with the footnote to Exercise III continued on p. 33; Lesson IV = leaves n51–n55 = pp. 32–36; Lesson V = leaves n55–n58 = pp. 36–39; Lesson VI = leaves n58–n61 = pp. 39–42; Lesson VII = leaves n61–n63 = pp. 42–44; Lesson VIII = leaves n63–n67 = pp. 44–48). Public domain: published 1885, and Perry died in 1938 |
 | Recorded | 2026-11-11 |
 | Text status | public domain |
 
@@ -2254,3 +2254,6 @@ inside the prose, tables and vocabularies included.
 - Lesson VI: Where two words have coalesced, the editor writes them as one (paraśunākrāmati, jalenāgniḥ, as in Perry’s Devanāgarī) in the exercise sentences, so that no avagraha appears.
 - Lesson VII: Perry’s causative stems carry an accent on the aya (corayati, tāḍayati); the accents are not carried. His āi and āu (§ 144) are written ai and au.
 - Lesson VII: In Exercise VII the final-t rules of §§ 148–151 are applied by Perry in sentences 1, 5, 7, 10, 11 (gṛhāc corayati, grāmāj janān nagaraṃ, nṛpāc chatrūṇāṃ, kopād daṇḍayati, gṛhāl lokā); the editor’s answers apply them in 21 (kopān nṛpaḥ).
+- Lesson VIII: Perry’s āi and āu are written ai and au (§§ 159, 161, 164). The accents on the verbs are not carried.
+- Lesson VIII: Exercise VIII, sentence 6: the conjunct before ca is blurred in the scan; it is read udyogaś ca (the dual verb rocete wants two subjects). Sentence 13 is read pāṇyos (gen.-loc. dual of pāṇi). Sentence 2 is asinā 'rayo, with Perry’s sign for the dropped a.
+- Lesson VIII: In sentence 4 (śāstre) Perry’s reference to § 161 shows that śāstre is the dual, “the two sciences”; sentence 11 (paśūṃ) shows § 139 applied.

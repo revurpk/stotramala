@@ -1,0 +1,92 @@
+# Perry, A Sanskrit Primer. Lesson VIII = p. 44 (from the heading) to p. 48 (to the end of the exercise) = leaves n63–n67 of the Cornell scan.
+% Verbs: the present middle (vade, bhāṣate, jāyate); the combination of final and initial vowels
+! Perry’s āi and āu are written ai and au (§§ 159, 161, 164). The accents on the verbs are not carried.
+! Exercise VIII, sentence 6: the conjunct before ca is blurred in the scan; it is read udyogaś ca (the dual verb rocete wants two subjects). Sentence 13 is read pāṇyos (gen.-loc. dual of pāṇi). Sentence 2 is asinā 'rayo, with Perry’s sign for the dropped a.
+! In sentence 4 (śāstre) Perry’s reference to § 161 shows that śāstre is the dual, “the two sciences”; sentence 11 (paśūṃ) shows § 139 applied.
+@63
+## Lesson VIII
+¶ **152. Verbs, ⟨a⟩-conjugation. Present Indicative Middle.** The present indicative middle of verbs whose stems end in ⟨a⟩ is inflected as follows:
+@64
+T  | Singular. | Dual. | Plural.
+R 1. | ⟨vade⟩ | ⟨vadāvahe⟩ | ⟨vadāmahe⟩
+R 2. | ⟨vadase⟩ | ⟨vadethe⟩ | ⟨vadadhve⟩
+R 3. | ⟨vadate⟩ | ⟨vadete⟩ | ⟨vadante⟩
+¶ **153.** The ending of the 3rd pl. is properly ⟨ante⟩ (cf. ⟨nti⟩ for ⟨anti⟩ in the act.); before the ⟨e⟩ of the 1st sing. the stem-final is dropped. ⟨ethe⟩ and ⟨ete⟩ are hard to explain.
+¶ **154.** With verbs inflected in both voices, the chief force of the middle is this, that the action is performed for the benefit of the actor himself; thus, ⟨yajati⟩ ‘he sacrifices’ (for some one else); ⟨yajate⟩ ‘he sacrifices for himself’. But many verbs are conjugated only in the middle, like the Latin and Greek deponents.
+¶ **155.** The verb ⟨mṛ⟩, ‘die’, makes ⟨mriyate⟩ in the present; and ⟨jan⟩, ‘give birth’, substitutes as present mid. ⟨jāyate⟩, ‘be born’.
+¶ **156. Combination of final and initial vowels.** Two simple vowels, either or both of them short or long, coalesce and form the corresponding long vowel. For the ⟨a⟩-vowels, see above, § 105. Thus: 1. ⟨i⟩ or ⟨ī⟩ + ⟨i⟩ or ⟨ī⟩ = ⟨ī⟩; e. g. ⟨gacchati iti⟩ becomes ⟨gacchatī 'ti⟩. 2. ⟨u⟩ or ⟨ū⟩ + ⟨u⟩ or ⟨ū⟩ = ⟨ū⟩; e. g. ⟨sādhu uktam⟩ becomes ⟨sādhū 'ktam⟩.∗
+¶ **157.** The ⟨i⟩-vowels, the ⟨u⟩-vowels, and ⟨ṛ⟩, before a dissimilar vowel or diphthong, are regularly converted each into its own corresponding semivowel, ⟨y⟩ or ⟨v⟩ or ⟨r⟩. Thus, ⟨tiṣṭhati atra⟩ becomes ⟨tiṣṭhaty atra⟩ (four syllables); ⟨nadī atra⟩ becomes ⟨nady atra⟩; ⟨madhu atra⟩ becomes ⟨madhv atra⟩; ⟨kartṛ iha⟩ becomes ⟨kartr iha⟩.
+¶ ∗ And theoretically 3. ⟨ṛ⟩ + ⟨ṛ⟩ = ⟨ṝ⟩, but probably this has no occurrence.
+@65
+¶ **158.** Final ⟨e⟩ and ⟨o⟩ remain unchanged before an initial *short* ⟨a⟩, but the ⟨a⟩ disappears. Thus, ⟨vane atra⟩ becomes ⟨vane 'tra⟩; ⟨bhāno atra⟩ becomes ⟨bhāno 'tra⟩. By far the commonest case of final ⟨o⟩ is where it represents final ⟨as⟩ (see § 118).
+¶ **159.** The final ⟨i⟩ or ⟨u⟩-element of a diphthong is changed to its corresponding semivowel ⟨y⟩ or ⟨v⟩, before any vowel or diphthong, except when the rule of § 158 would apply. Thus, ⟨e⟩ becomes ⟨ay⟩, and ⟨ai⟩, ⟨āy⟩; ⟨o⟩ becomes ⟨av⟩, and ⟨au⟩, ⟨āv⟩. Thus, in internal combination, ⟨ne-a⟩ becomes ⟨naya⟩; ⟨bho-a⟩ becomes ⟨bhava⟩; so ⟨nai-aya⟩ yields ⟨nāy-aya⟩, and ⟨bhau-aya⟩ yields ⟨bhāv-aya⟩.
+¶ **160.** In *external* combination, the resulting semivowel is in general dropped; and the resulting hiatus remains. Thus, ⟨vane iti⟩ becomes ⟨vana iti⟩ (through the intermediate stage ⟨vanay iti⟩); ⟨bhāno iti⟩ becomes ⟨bhāna iti⟩ (through ⟨bhānav iti⟩). The case of final ⟨e⟩ is by far the more frequent. See also § 164.
+¶ **161.** Certain final vowels maintain themselves unchanged before any following vowel. Such are 1. ⟨ī⟩, ⟨ū⟩, and ⟨e⟩ as dual endings, both of declension and of conjugation; thus, ⟨girī iha⟩, ⟨sādhū atra⟩; ⟨phale atra⟩. 2. The final, or only, vowel of an interjection; thus, ⟨he indra⟩, ⟨he agne⟩.
+## Vocabulary VIII
+¶ Verbs (deponents):
+V arthaya | (denom. — ⟨arthayate⟩) ask for (w. two accus.). | అడుగు (రెండు ద్వితీయలతో)
+V īkṣ | (⟨īkṣate⟩) see, behold. | చూచు, వీక్షించు
+V kamp | (⟨kampate⟩) tremble. | వణుకు, కంపించు
+V jan | (⟨jāyate⟩) be born, arise, spring up (mother in loc.). | పుట్టు, జనించు (తల్లి సప్తమిలో)
+V bhāṣ | (⟨bhāṣate⟩) speak. | మాట్లాడు
+V mṛ | (⟨mriyate⟩) die. | చచ్చు, మరణించు
+V yat | (⟨yatate⟩) strive for (w. dat.). | ప్రయత్నించు (చతుర్థితో)
+V yudh | (⟨yudhyate⟩) fight (w. instr. of accompaniment). | యుద్ధం చేయు (తృతీయతో)
+V rabh | + ⟨ā⟩ (⟨ārabhate⟩) take hold on, begin. | ఆరంభించు
+V ruc | (⟨rocate⟩) please (dat., gen.). | ఇష్టమగు, రుచించు
+V labh | (⟨labhate⟩) receive, take. | పొందు, తీసుకొను
+@66
+V vand | (⟨vandate⟩) greet, honor. | నమస్కరించు, గౌరవించు
+V śikṣ | (⟨śikṣate⟩) learn. | నేర్చుకొను
+V sah | (⟨sahate⟩) endure. | సహించు
+V sev | (⟨sevate⟩) serve, honor. | సేవించు
+¶ Subst.:
+V anartha | m., misfortune. | అనర్థం, కీడు
+V udyoga | m., diligence. | శ్రద్ధ, ప్రయత్నశీలత
+V kalyāṇa | n., advantage; salvation. | శ్రేయస్సు; ముక్తి
+V taru | m., tree. | చెట్టు
+V dvija | m., Aryan. | ద్విజుడు, ఆర్యుడు
+V dvijāti | m., Aryan. | ద్విజుడు, ఆర్యుడు
+V dharma | m., right; law; virtue. | ధర్మం, న్యాయం, సద్గుణం
+V dhairya | n., steadfastness. | ధైర్యం, స్థిరత్వం
+V paśu | m., beast. | పశువు
+V bala | n., strength, might. | బలం
+V manuṣya | m., man (*homo*). | మనిషి
+V yajña | m., sacrifice. | యజ్ఞం
+V vana | n., woods, forest. | అడవి
+V vinaya | m., obedience. | వినయం, విధేయత
+V vīci | m., wave. | అల
+V śāstra | n., science; text-book. | శాస్త్రం, పాఠ్యగ్రంథం
+V śūdra | m., man of the fourth caste. | శూద్రుడు
+V hita | n., advantage. | మేలు, హితం
+¶ Adverb:
+V na | not. | కాదు, లేదు
+## Exercise VIII
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | vāyor balena taravaḥ kampante | The trees tremble by the wind’s force. | గాలి బలంతో చెట్లు వణుకుతున్నాయి.
+S 2 | asinā 'rayo mriyanta ity∗ atra nṛpo bhāṣate | “The enemies die by the sword,” the king says here. | “శత్రువులు కత్తితో చస్తారు” అని రాజు ఇక్కడ అంటాడు.
+S 3 | vasūnāṃ rāśīn nṛpatīn kavayo 'rthayante | The poets ask the kings for heaps of wealth. | కవులు రాజులను ధనరాశులను అడుగుతారు.
+S 4 | śāstre adhunā śikṣāmaha iti pattre harir likhati | Hari writes in the letter: “We are now learning the two sciences.” [Perry cites § 161: śāstre is a dual, so its e stays before the a.] | “మేము ఇప్పుడు రెండు శాస్త్రాలను నేర్చుకుంటున్నాము” అని హరి ఉత్తరంలో రాస్తాడు.
+S 5 | pāpād duḥkhaṃ jāyate | Misery arises from sin. | పాపం వలన దుఃఖం కలుగుతుంది.
+S 6 | śiṣyāṇāṃ vinaya udyogaś ca gurubhyo rocete | The pupils’ obedience and diligence please the teachers. | శిష్యుల వినయం, శ్రద్ధ గురువులకు ఇష్టమవుతాయి.
+S 7 | adharmāya na dharmāya yatethe | You two strive not for wrong but for right. | మీరిద్దరూ అధర్మం కోసం కాదు, ధర్మం కోసం ప్రయత్నిస్తున్నారు.
+S 8 | viṣṇoḥ sūkte ṛṣī labhete | The two seers receive two hymns from Viṣṇu. [Perry marks viṣṇoḥ as ablative.] | ఇద్దరు ఋషులు విష్ణువు నుండి రెండు సూక్తాలను పొందుతారు.
+S 9 | atrarṣir bhānuṃ vandate | Here the seer greets the sun. | ఇక్కడ ఋషి సూర్యునికి నమస్కరిస్తాడు.
+S 10 | agnī īkṣate bālaḥ | The boy sees the two fires. | బాలుడు రెండు అగ్నులను చూస్తాడు.
+S 11 | dhanena paśūṃ labhadhve yajñāya | With money you obtain beasts for the sacrifice. | మీరు ధనంతో యజ్ఞం కోసం పశువులను పొందుతారు.
+S 12 | sadā guroḥ pādau bālāḥ sevante | The boys always serve the teacher’s feet. | బాలురు ఎల్లప్పుడూ గురువు పాదాలను సేవిస్తారు.
+S 13 | phale atra manuṣyasya pāṇyos tiṣṭhataḥ | Here two fruits lie in the man’s two hands. | ఇక్కడ మనిషి రెండు చేతులలో రెండు పండ్లు ఉన్నాయి.
+S 14 | sahete anarthaṃ sādhū | The two saints endure misfortune. | ఇద్దరు సాధువులు అనర్థాన్ని సహిస్తారు.
+S 15 | vaneṣv iharkṣā vasanti | Bears live here in the forests. | ఎలుగుబంట్లు ఇక్కడ అడవులలో నివసిస్తాయి.
+S 16 | kṣatriyā ṛṣī sevante | The warriors serve the two seers. | యోధులు ఇద్దరు ఋషులను సేవిస్తారు.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Words in italics are not to be translated, and the superior figures give the position of the Sanskrit word in the sentence.
+E 17 | The two houses⁴ yonder⁵ tremble⁶ *by* the power³ (*instr.*) of the ocean’s¹ waves². | udadher vīcīnāṃ balena gṛhe tatra kampete | సముద్రపు అలల బలంతో అక్కడి రెండు ఇళ్ళు వణుకుతున్నాయి.
+E 18 | The father³ beholds⁴ *his* son’s¹ face². | putrasya mukhaṃ janaka īkṣate | తండ్రి తన కొడుకు ముఖాన్ని చూస్తాడు.
+E 19 | “We strive³ *after* the advantage² of the scholars¹;” thus⁴ (⟨iti⟩) speak⁶ the teachers⁵. | śiṣyāṇāṃ hitāya yatāmaha iti guravo bhāṣante | “మేము శిష్యుల మేలు కోసం ప్రయత్నిస్తున్నాము” అని గురువులు చెబుతారు.
+E 20 | The children² ask⁴ *their* father¹ *for* food³ (*accus.*). | janakaṃ bālā annam arthayante | పిల్లలు తమ తండ్రిని అన్నం అడుగుతారు.
+E 21 | *In* the forest¹ yonder² elephants³ are fighting⁵ *with* bears⁴. | vane tatra gajā ṛkṣair yudhyante | అక్కడి అడవిలో ఏనుగులు ఎలుగుబంట్లతో పోరాడుతున్నాయి.
+E 22 | The two Çūdras³ serve⁴ the two Aryans¹ here². | dvijāv atra śūdrau sevete | ఇద్దరు శూద్రులు ఇక్కడ ఇద్దరు ద్విజులను సేవిస్తారు.
+E 23 | Fruits¹ please³ the children². | phalāni bālebhyo rocante | పండ్లు పిల్లలకు ఇష్టమవుతాయి.
+E 24 | Whence¹ do ye receive³ money²? | kuto vasu labhadhve | మీరు ధనాన్ని ఎక్కడి నుండి పొందుతారు?
+E 25 | Now¹ the two seers² begin⁴ the sacrifice³. | adhunarṣī yajñam ārabhete | ఇప్పుడు ఇద్దరు ఋషులు యజ్ఞాన్ని ఆరంభిస్తారు.
+¶ ∗ ⟨iti⟩, ‘thus’, is very commonly used as a particle of quotation, following the words quoted.
