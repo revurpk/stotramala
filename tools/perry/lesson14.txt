@@ -1,0 +1,106 @@
+# Perry, A Sanskrit Primer. Lesson XIV = p. 62 (from the heading) to p. 65 (to the end of the exercise) = leaves n81–n84 of the Cornell scan.
+% Verbs: the present imperative active (vadāni, vada, vadatu); root-words in ū (bhū, vadhū)
+! Perry’s āi and āu are written ai and au; accents on the verbs (vádāni) are not carried. In the vocabulary he marks the accent of juhū-stems and nouns (putrá); it is not carried either.
+! Exercise XIV opens with a verse Perry numbers ॥ 3 ॥ (dharmaṃ carata mādharmam …); his sentences are then numbered 1–24. Sentences 6 and 11 are read kṣipateṣūn muñcata and juhvāgnau ghṛtaṃ prāsyāni. In Vocabulary XIV the last adverb is printed hrasvam, “near by”.
+! In the editor’s answers 22 uses the imperfect passive aucyata (a + ucyata) for Perry’s “spoke (pass.)”.
+@81
+## Lesson XIV
+¶ **193. Verbs, ⟨a⟩-conjugation. Present Imperative Active.** The inflection of this mode is as follows:
+T  | Sing. | Dual. | Plural.
+R 1. | ⟨vadāni⟩ | ⟨vadāva⟩ | ⟨vadāma⟩
+R 2. | ⟨vada⟩ | ⟨vadatam⟩ | ⟨vadata⟩
+R 3. | ⟨vadatu⟩ | ⟨vadatām⟩ | ⟨vadantu⟩
+¶ **194.** The three first persons are properly subjunctive forms, and accordingly often express a wish or future action.
+¶ **195.** The second and third persons of the imperative express oftenest a command; sometimes a wish or future action. The negative used with the imv. is ⟨mā⟩.
+¶ **196.** A rare imv. form, either 2nd or 3rd pers. sing. (or plur.), is made with the ending ⟨tāt⟩; thus, ⟨bhavatāt⟩. Its value is that of a posterior or future imv. (like the Latin forms in *to* and *tote*).
+¶ **197. Root-words in ⟨ū⟩,** inflected like ⟨bhū⟩ f., ‘earth’.
+@82
+T  | Sing. | Dual. | Plural.
+R NV. | ⟨bhūs⟩ | ⟨bhuvau⟩ | ⟨bhuvas⟩
+R A. | ⟨bhuvam⟩ | „ „ | „ „
+R I. | ⟨bhuvā⟩ | ⟨bhūbhyām⟩ | ⟨bhūbhis⟩
+R D. | ⟨bhuve⟩ | „ „ | ⟨bhūbhyas⟩
+R Ab. | ⟨bhuvas⟩ | „ „ | „ „
+R G. | „ „ | ⟨bhuvos⟩ | ⟨bhuvām⟩
+R L. | ⟨bhuvi⟩ | „ „ | ⟨bhūṣu⟩
+¶ In the D., Ab.-G., and L. sing., and G. pl., these stems sometimes follow ⟨nadī⟩; thus, ⟨bhuvai⟩, ⟨bhuvās⟩, ⟨bhuvām⟩, ⟨bhūnām⟩. Cf. §§ 185, 189.
+¶ **198. Polysyllabic Feminines in ⟨ū⟩,** inflected like ⟨vadhū⟩ f., ‘woman’.
+T  | Sing. | Dual. | Plural.
+R N. | ⟨vadhūs⟩ | ⟨vadhvau⟩ | ⟨vadhvas⟩
+R A. | ⟨vadhūm⟩ | „ „ | ⟨vadhūs⟩
+R I. | ⟨vadhvā⟩ | ⟨vadhūbhyām⟩ | ⟨vadhūbhis⟩
+R D. | ⟨vadhvai⟩ | „ „ | ⟨vadhūbhyas⟩
+R Ab. | ⟨vadhvās⟩ | „ „ | „ „
+R G. | „ „ | ⟨vadhvos⟩ | ⟨vadhūnām⟩
+R L. | ⟨vadhvām⟩ | „ „ | ⟨vadhūṣu⟩
+R V. | ⟨vadhu⟩ |  |
+## Vocabulary XIV
+¶ Verbs:
+V as | + ⟨abhi⟩ (⟨abhyasyati⟩) repeat, study, learn. | అభ్యసించు
+V as | + ⟨pra⟩ (⟨prasyati⟩) throw forward or into. | ముందుకు విసురు, వేయు
+V diś | + ⟨ā⟩ (⟨ādiśati⟩) command. | ఆజ్ఞాపించు
+V dṛś | *in pass.* (⟨dṛśyate⟩) seem, look. | కనిపించు, తోచు
+V vas | + ⟨ni⟩ (⟨nivasati⟩) inhabit; dwell. | నివసించు
+V vṛt | + ⟨pra⟩ (⟨pravartate⟩) get a-going, break out, arise. | మొదలగు, చెలరేగు, పుట్టు
+V śuc | (⟨śocati⟩) sorrow, grieve. | దుఃఖించు, శోకించు
+V sad | + ⟨ni⟩ (⟨niṣīdati⟩) seat oneself. | కూర్చుండు
+@83
+¶ Subst.:
+V atithi | m., guest. | అతిథి
+V anṛta | n., untruth. | అసత్యం
+V abhyāsa | m., study; recitation. | అభ్యాసం, పఠనం
+V ādeśa | m., command, prescription. | ఆదేశం, విధి
+V āsana | n., seat, chair. | ఆసనం, పీట
+V juhū | f., spoon, esp. sacrificial spoon. | గరిట, యజ్ఞపు గరిట
+V pāṭha | m., lecture, lesson. | పాఠం
+V prajā | f., creature; subject. | ప్రజ, ప్రాణి
+V bhū | f., earth, ground. | భూమి
+V bhūṣaṇa | n., ornament. | ఆభరణం
+V bhrū | f., eyebrow. | కనుబొమ
+V vadhū | f., woman, wife. | స్త్రీ, వధువు
+V vedi | f., altar. | వేదిక
+V śvaśrū | f., mother-in-law. | అత్త
+V stuti | f., song of praise; praise. | స్తుతి, స్తోత్రం
+V snuṣā | f., daughter-in-law. | కోడలు
+¶ Adj.:
+V apara | f. ā, lower; other. | కింది; ఇతర
+V para | f. ā, highest; other. | ఉత్తమ; ఇతర
+V vakra | f. ā, crooked, bent. | వంకర
+V sundara | f. ī, beautiful. | అందమైన
+¶ Adv.:
+V adhastāt | under, underneath (*gen.*). | క్రింద (షష్ఠితో)
+V ciram | long (of time). | చాలా కాలం
+V dīrgham | far, afar. | దూరం
+V mā | prohibitive particle, like Greek μή, Latin *ne*. | నిషేధార్థక అవ్యయం (“వద్దు”)
+V vā | (*postpos.*) or. | లేదా (పదం వెనుక వస్తుంది)
+V hrasvam | near by. | దగ్గరగా
+## Exercise XIV
+¶ The exercise opens with a verse, in two halves (the translations are the editor’s):
+S a | dharmaṃ carata mādharmaṃ satyaṃ vadata mānṛtam | Practise righteousness, not unrighteousness; speak the truth, not untruth. | ధర్మాన్ని ఆచరించండి, అధర్మాన్ని కాదు; సత్యం పలకండి, అసత్యాన్ని కాదు.
+S b | dīrghaṃ paśyata mā hrasvaṃ paraṃ paśyata māparam | Look far, not near; look to the highest, not to the lower. | దూరాన్ని చూడండి, దగ్గరిదాన్ని కాదు; ఉన్నతాన్ని చూడండి, తక్కువదాన్ని కాదు.
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | jayatu mahārājaś ciraṃ ca kṛtsnāṃ bhuvam adhitiṣṭhatu | May the great king conquer, and rule the whole earth for long. | మహారాజు జయించుగాక, చాలా కాలం భూమి అంతటినీ పాలించుగాక.
+S 2 | prayāgaṃ gacchataṃ sukhena ca tatra nivasatam | You two go to Prayāga and dwell there in comfort. | మీరిద్దరూ ప్రయాగకు వెళ్ళి అక్కడ సుఖంగా నివసించండి.
+S 3 | sundaryā bhruvau vakre dṛśyete | The beautiful woman’s two eyebrows look arched. | అందమైన స్త్రీ కనుబొమలు వంపుగా కనిపిస్తున్నాయి.
+S 4 | gurava āsane niṣīdantu bhuvi śiṣyāḥ | Let the teachers sit on seats, the pupils on the ground. | గురువులు ఆసనాల మీద, శిష్యులు నేల మీద కూర్చోవాలి.
+S 5 | snuṣābhiḥ saha śvaśrūṇāṃ kalahaḥ prāvartata | A quarrel broke out between the mothers-in-law and the daughters-in-law. | అత్తలకు కోడళ్ళకు మధ్య కలహం చెలరేగింది.
+S 6 | he kṣatriyāḥ kuntān kṣipateṣūn muñcata pāpāñ chatrūn daṇḍayateti krodhān nṛpatir abhāṣata | “O warriors, hurl spears, shoot arrows, punish the wicked enemies!” the king said in anger. | “ఓ యోధులారా, ఈటెలను విసరండి, బాణాలను వదలండి, దుష్ట శత్రువులను శిక్షించండి!” అని రాజు కోపంతో అన్నాడు.
+S 7 | atithiṃ pṛcchatu rātrau kutra nyavasa iti | Let him ask the guest, “Where did you stay in the night?” | “రాత్రి ఎక్కడ ఉన్నారు?” అని అతిథిని అడగాలి.
+S 8 | śvaśrūḥ kopāc chocataḥ snuṣe | The mother-in-law, in anger, makes the two daughters-in-law grieve. | అత్త కోపంతో ఇద్దరు కోడళ్ళను దుఃఖపెడుతుంది.
+S 9 | vadhvāḥ snihyaty ṛṣiḥ | The seer feels affection for the woman. | ఋషి ఆ స్త్రీపై అభిమానం చూపుతాడు.
+S 10 | pāṭhasyābhyāsāya śiṣyāv āgacchatām iti guror ājñā | “Let the two pupils come for the study of the lesson”: such is the teacher’s command. | “ఇద్దరు శిష్యులు పాఠాభ్యాసానికి రావాలి” అనేది గురువు ఆజ్ఞ.
+S 11 | juhvāgnau ghṛtaṃ prāsyāni | Let me throw ghee into the fire with the spoon. | నేను గరిటతో అగ్నిలో నెయ్యి వేయనివ్వండి.
+S 12 | he vadhu vāpyā jalam ānaya | O woman, bring water from the cistern. | ఓ స్త్రీ, బావి నుండి నీరు తీసుకురా.
+S 13 | juhvāṃ ghṛtaṃ tiṣṭhati | Ghee is in the spoon. | గరిటలో నెయ్యి ఉంది.
+S 14 | bhruvor adhastān netre vartete | The two eyes are beneath the eyebrows. | కళ్ళు కనుబొమల క్రింద ఉన్నాయి.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Words in italics are not to be translated; where Perry gives figures, they show the position of the Sanskrit word.
+E 15 | The women sing the praises (*singular*) of Indrāṇī (*pass. constr.*). | nāribhir indrāṇyāḥ stutir gīyate | స్త్రీలు ఇంద్రాణి స్తుతిని పాడుతున్నారు.
+E 16 | “Study ye holy writ and the sciences, speak the truth, honor your teachers”: thus¹ *is* the prescription³ of the text-books² *for* scholars⁴ (*gen.*). | śrutiṃ śāstrāṇi cābhyasyata satyaṃ vadata gurūn pūjayateti śāstrāṇām ādeśaḥ śiṣyāṇām | “శ్రుతిని శాస్త్రాలను అభ్యసించండి, సత్యం పలకండి, గురువులను గౌరవించండి” అని శిష్యులకు శాస్త్రాల ఆదేశం.
+E 17 | Let kings protect *their* subjects and punish the wicked: thus is the law not offended (⟨han⟩ *pass.*). | nṛpāḥ prajā rakṣantu pāpāṃś ca daṇḍayantv iti dharmo na pratihanyate | రాజులు ప్రజలను రక్షించాలి, దుష్టులను శిక్షించాలి: అలా ధర్మానికి అపచారం జరగదు.
+E 18 | O women, reverence *your* mothers-in-law. | he nāryaḥ śvaśrūr vandadhvam | ఓ స్త్రీలారా, మీ అత్తలను గౌరవించండి.
+E 19 | Let not the coachman strike or torment the horses. | mā sūto 'śvāṃs tāḍayatu pīḍayatu vā | సారథి గుర్రాలను కొట్టకూడదు, బాధపెట్టకూడదు.
+E 20 | “Bring the jewels”: thus the two maid-servants were commanded by the queen. | maṇīn ānayatam iti devyā dāsyāv ādiśyetām | “మణులను తీసుకురండి” అని రాణి ఇద్దరు దాసీలకు ఆజ్ఞాపించింది.
+E 21 | Let us with two spoons drop water on the altar. | juhūbhyāṃ vedyāṃ jalaṃ siñcāma | మనం రెండు గరిటలతో వేదికపై నీటిని చిలకరిద్దాం.
+E 22 | “Let us play with dice for money” (*instr.*): thus spoke the two warriors (*pass.*). | akṣair vasunā dīvyāmeti kṣatriyābhyām aucyata | “ధనం కోసం పాచికలతో ఆడదాం” అని ఇద్దరు యోధులు అన్నారు.
+E 23 | “To-day let me initiate (*imv.*) my *two* sons”: thus says the Brāhman. | adya putrāv upanayānīti brāhmaṇo vadati | “ఈ రోజు నా ఇద్దరు కొడుకులకు ఉపనయనం చేయనివ్వండి” అని బ్రాహ్మణుడు అంటాడు.
+E 24 | Let the men dig a cistern. | narā vāpīṃ khanantu | మనుషులు బావిని తవ్వాలి.
