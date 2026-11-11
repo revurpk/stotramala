@@ -1,0 +1,132 @@
+# Perry, A Sanskrit Primer. Lesson XXIV = p. 97 (from the heading) to p. 101 (to the end of the exercise) = leaves n116–n120 of the Cornell scan.
+% The possessive participles (śrīmant), bhavant, stems in an (rājan, nāman, ātman, brahman); the final stops before nasals and h
+! Perry’s āi and āu are written ai and au. His paradigms of rājan, nāman and ātman, brahman print the masculine and neuter columns together; they are given as in Lessons XX–XXIII. The footnote ∗ to the instrumental rājñā (§ 265: a dental meeting a lingual or palatal is usually assimilated; thus tiṣṭhati from ti-stha-ti, rājñā for rājnā) is given in full; the footnote to § 263 (iyant, kiyant are declined alike) and those to § 264 (bhavant, probably from bhagavant; bhos loses its s before vowels and sonant consonants, bho bho ṛṣe) likewise.
+! In the paradigm the nominative singular rājā is printed with a small mark under the ā; it is kept as rājā. Vocabulary XXIV: Perry marks brahman (n.) and brahman (m.) by their accent (bráhman and brahmán); the accents are not carried, and the two are told apart by gender as he gives it.
+! Exercise XXIV opens with a verse Perry numbers ॥ 12 ॥ (nodvejayej jagad vācā rūkṣayā priyavāg bhavet …, “One should not frighten the world with harsh speech; one should be sweet-spoken; for, as a rule, a kind-acting man is served even if he is poor”); his sentences are then numbered 1–12, and the English ones 13–24. Sentence 4 is read kiyato māsān bhavān kāśyāṃ nyavasat; sentence 9, grāme parivrāṇ tiṣṭhed vane paribhramanbrahma dhyāyet.
+@116
+## Lesson XXIV
+¶ **263. Declension. Stems in ⟨ant⟩ (or ⟨at⟩), cont’d. B. Stems in ⟨mant⟩ (⟨mat⟩) and ⟨vant⟩ (⟨vat⟩).** Adjectives formed with these suffixes are possessives. They are declined precisely alike∗; and differ in inflection from the participles in ⟨ant⟩ only by lengthening the ⟨a⟩ in the nom. sing. masc. The feminine is made in ⟨ī⟩; thus, ⟨śrīmatī⟩. In the dual neut. ⟨n⟩ is never inserted. Thus, ⟨śrīmant⟩, ‘rich’, ‘celebrated:’
+@117
+¶ Masculine:
+T  | Singular | Dual | Plural
+R N. | ⟨śrīmān⟩ | ⟨śrīmantau⟩ | ⟨śrīmantas⟩
+R A. | ⟨śrīmantam⟩ | „ | ⟨śrīmatas⟩
+R I. | ⟨śrīmatā⟩ | ⟨śrīmadbhyām⟩ | ⟨śrīmadbhis⟩
+R L. | ⟨śrīmati⟩ | ⟨śrīmatos⟩ | ⟨śrīmatsu⟩
+R V. | ⟨śrīman⟩ |  |
+¶ Neuter:
+T  | Singular | Dual | Plural
+R NV. | ⟨śrīmat⟩ | ⟨śrīmatī⟩ | ⟨śrīmanti⟩
+R A. | „ | „ | „
+R I., L. | as in the masculine |  |
+¶ **264.** A stem ⟨bhavant⟩∗ (to be carefully distinguished from the pres. part. act. ⟨bhavant⟩ of ⟨bhū⟩; the two differ only in accent in Perry’s print: bhávant and bhavánt) is frequently used in respectful address as a substitute for the pronoun of the second person. It is construed with the verb in the third person. Its nom. sing. masc. is ⟨bhavān⟩ (fem. ⟨bhavatī⟩); and ⟨bhos⟩, the contracted form of its older voc. ⟨bhavas⟩, is a common exclamation of address: “you, sir!”, “ho, there!”; and is often doubled.∗∗
+¶ **265. Derivative stems in ⟨an⟩.** These are made by the suffixes ⟨an⟩, ⟨man⟩, and ⟨van⟩, and are, with one or two exceptions, masc. and neut. only. The stem has a triple form. In the strong cases of the masc. the vowel of the suffix is lengthened to ⟨ā⟩, in the weakest cases it is in general dropped; in the middle cases the final ⟨n⟩ is dropped, and it is also lost in the nom. sing. of all genders. In the neuter, the nom.-acc. pl., as being strong cases, lengthen the vowel of the suffix; the same cases in the dual (as weakest cases) lose ⟨a⟩ — but this only optionally. After the ⟨m⟩ or ⟨v⟩ of ⟨man⟩ and ⟨van⟩, when these are preceded by a consonant, the ⟨a⟩ is retained in all the weakest cases, to avoid too great an accumulation of consonants. Examples: ⟨rājan⟩ m., ‘king’; ⟨nāman⟩ n., ‘name’; ⟨ātman⟩ m., ‘soul, self’; ⟨brahman⟩ n., ‘devotion’.
+¶ ∗ Probably contracted from ⟨bhagavant⟩ ‘blessed’.
+¶ ∗∗ ⟨bhos⟩ loses its final ⟨s⟩ before all vowels and all sonant consonants; thus, ⟨bho bho ṛṣe⟩.
+@118
+¶ Masculine and neuter, rājan and nāman:
+T  | rājan (m.): Singular | Dual | Plural
+R N. | ⟨rājā⟩ | ⟨rājānau⟩ | ⟨rājānas⟩
+R A. | ⟨rājānam⟩ | „ | ⟨rājñas⟩
+R I. | ⟨rājñā⟩∗ | ⟨rājabhyām⟩ | ⟨rājabhis⟩
+R L. | ⟨rājñi⟩ or ⟨rājani⟩ | ⟨rājños⟩ | ⟨rājasu⟩
+R V. | ⟨rājan⟩ |  |
+T  | nāman (n.): Singular | Dual | Plural
+R N. | ⟨nāma⟩ | ⟨nāmanī⟩ or ⟨nāmnī⟩ | ⟨nāmāni⟩
+R A. | „ | „ | „
+R I. | ⟨nāmnā⟩ | ⟨nāmabhyām⟩ | ⟨nāmabhis⟩
+R L. | ⟨nāmani⟩ or ⟨nāmni⟩ | ⟨nāmnos⟩ | ⟨nāmasu⟩
+R V. | ⟨nāman⟩ or ⟨nāma⟩ |  |
+¶ Masculine ātman and neuter brahman:
+T  | ātman (m.): Singular | Dual | Plural
+R N. | ⟨ātmā⟩ | ⟨ātmānau⟩ | ⟨ātmānas⟩
+R A. | ⟨ātmānam⟩ | „ | ⟨ātmanas⟩
+R I. | ⟨ātmanā⟩ | ⟨ātmabhyām⟩ | ⟨ātmabhis⟩
+R V. | ⟨ātman⟩ |  |
+T  | brahman (n.): Singular | Dual | Plural
+R N. | ⟨brahma⟩ | ⟨brahmaṇī⟩ | ⟨brahmāṇi⟩
+R A. | „ | „ | „
+R I. | ⟨brahmaṇā⟩ | ⟨brahmabhyām⟩ | ⟨brahmabhis⟩
+R V. | ⟨brahman⟩ or ⟨brahma⟩ |  |
+¶ **266. Euphonic rules.** Final ⟨k⟩, ⟨ṭ⟩ and ⟨p⟩ remain unaltered before initial surd consonants; before sonants, whether vowel or consonant, they become respectively ⟨g⟩, ⟨ḍ⟩, ⟨b⟩. Before nasals they may be still further assimilated, becoming the nasals ⟨ṅ⟩, ⟨ṇ⟩, ⟨m⟩. Thus, ⟨parivrāṭ na⟩ becomes either ⟨parivrāḍ na⟩ or ⟨parivrāṇ na⟩; ⟨samyak na⟩ becomes ⟨samyag na⟩ or ⟨samyaṅ na⟩. The latter method is much more usual.
+¶ **267.** Before initial ⟨h⟩ a final mute is made sonant; and then the ⟨h⟩ may either remain unchanged, or be converted into the sonant aspirate corresponding to the preceding letter; thus, either ⟨samyag hastaḥ⟩ or ⟨samyag ghastaḥ⟩; either ⟨tasmād hastāt⟩ or ⟨tasmād dhastāt⟩. In practice the latter method is almost invariably followed.
+¶ ∗ When a dental mute comes in contact with a lingual or palatal mute or sibilant, the dental is usually assimilated, becoming lingual or palatal respectively. Thus, ⟨tiṣṭhati⟩ from ⟨ti-stha-ti⟩; ⟨rājñā⟩ instead of ⟨rājnā⟩.
+@119
+## Vocabulary XXIV
+¶ Verbs:
+V chid | + ⟨ava⟩ cut off. | నరికివేయు
+V mṛj | in caus. (⟨mārjayati⟩) rub, rub off, polish. | తోమించు, తుడిచివేయు
+V varṇaya | (denom. — ⟨varṇayati⟩) describe, portray. | వర్ణించు
+V vij | + ⟨ud⟩ in caus. (⟨udvejayati⟩) terrify. | భయపెట్టు
+¶ Subst.:
+V ātman | m., soul, self; often as simple reflexive pronoun; *in genitive*, his, etc.; one’s own. | ఆత్మ; (షష్ఠిలో) తన
+V karman | n., deed; ceremony; fate. | కర్మ; క్రియ; విధి
+V carman | n., hide, skin; leather. | చర్మం; తోలు
+V janman | n., birth. | జన్మ
+V tīra | n., bank, shore. | ఒడ్డు, తీరం
+V triṣṭubh | f., name of a metre. | త్రిష్టుప్ (ఒక ఛందస్సు)
+V dina | n., day. | రోజు
+V devakula | n., temple. | దేవాలయం
+V naraka | m., hell. | నరకం
+V patrin | m., bird. | పక్షి
+V pātra | n., pot, vessel. | పాత్ర
+V brahman | n., devotion; sacred word (of God); sacred knowledge; the world-spirit. | భక్తి; పరమాత్మ; వేదజ్ఞానం
+V brahman | m., the supreme All-Soul, the creator. | బ్రహ్మ
+V bhasman | n., ashes. | బూడిద
+V yati | m., ascetic. | యతి
+V rājan | m., king. | రాజు
+V loman | n., hair. | రోమం
+V varṣa | n., year. | సంవత్సరం
+V samāgama | m., meeting, encounter. | కలయిక
+V sīman | f., border, boundary; outskirts. | సరిహద్దు; శివారు
+V hantṛ | m., slayer, killer. | హంతకుడు
+¶ Adj.:
+V āyuṣmant | long-lived (often used in respectful address). | ఆయుష్మంతుడు
+V iyant | so great, so much (263). | ఇంత గొప్ప, ఇంత
+V kiyant | how great? how much? | ఎంత గొప్ప? ఎంత?
+V kṛpaṇa | f. ā, poor; niggardly. | పేద; పిసినారి
+V tāvant | so much, so many. | అంత, అన్ని
+V dvitīya | f. ā, second. | రెండవ
+V priyakarman | kind. | ప్రియమైన పని చేసే, దయగల
+V priyavāc | saying pleasant things, sociable. | ప్రియంగా మాట్లాడే
+V balavant | strong, mighty. | బలవంతుడు
+V bhagavant | f. -vatī, honorable; blessed. | పూజ్యుడు; భగవంతుడు
+V bhāsvant | shining, brilliant. | ప్రకాశించే
+V matimant | shrewd, prudent. | బుద్ధిమంతుడు
+V yāvant | how much, as many. | ఎంత, ఎన్ని
+V rūkṣa | f. ā, harsh, rough. | కఠినమైన, పరుషమైన
+V vibhu | f. -bhvī, pervading, far-reaching; omnipresent; mighty. | విశ్వవ్యాపి; శక్తిమంతుడు
+V hata | f. ā (pass. part. of ⟨han⟩) killed. | చంపబడిన
+¶ Adv.:
+V prāyeṇa | commonly. | సాధారణంగా
+@120
+## Exercise XXIV
+¶ The exercise opens with a verse, in two halves (the translations are the editor’s):
+S a | nodvejayej jagad vācā rūkṣayā priyavāg bhavet | One should not terrify the world with harsh speech; one should be sweet-spoken; | కఠినమైన మాటతో లోకాన్ని భయపెట్టకూడదు; ప్రియంగా మాట్లాడాలి;
+S b | prāyeṇa priyakarmā yaḥ kṛpaṇo 'pi hi sevyate | for as a rule one who acts kindly is served, even if he is poor. | ఎందుకంటే దయతో ప్రవర్తించేవాడు పేదవాడైనా సాధారణంగా సేవించబడతాడు.
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | yāvanti hatasya paśoś carmaṇi lomāni vidyante tāvanti varṣāṇi hantā narake vaset | For as many years as there are hairs on the hide of the slain beast, the slayer must dwell in hell. | చంపబడిన పశువు చర్మంపై ఎన్ని రోమాలు ఉన్నాయో అన్ని సంవత్సరాలు హంతకుడు నరకంలో ఉండాలి.
+S 2 | bhṛtyā balavantaṃ rājānam āyuṣmann iti vadantu | Let the servants say to the mighty king, “O long-lived one.” | సేవకులు బలవంతుడైన రాజుతో “ఆయుష్మంతా” అని అనాలి.
+S 3 | bhāsvantaṃ sūryaṃ dine dine dvijātayaḥ pūjayantu | Let the Aryans worship the shining sun day by day. | ద్విజులు ప్రకాశించే సూర్యుని ప్రతిరోజూ పూజించుదురు గాక.
+S 4 | kiyato māsān bhavān kāśyāṃ nyavasat | For how many months did your honour dwell at Kāśī? | తమరు కాశీలో ఎన్ని నెలలు నివసించారు?
+S 5 | kecid yatayo bhasmanā śarīraṃ mārjayanti | Some ascetics rub the body with ashes. | కొందరు యతులు బూడిదతో శరీరాన్ని తోముకుంటారు.
+S 6 | karma balavad iti matimato daridrān paśyato me matiḥ | “Fate is strong”: such is the opinion of me, a prudent man, who sees the poor. [Perry marks me as genitive.] | “కర్మ బలవంతమైనది” అనేది పేదలను చూస్తున్న బుద్ధిమంతుడినైన నా అభిప్రాయం. [పెర్రీ me ను షష్ఠీ అని సూచిస్తాడు.]
+S 7 | tvayi rājñi tiṣṭhaty asmākaṃ sarvāsāṃ ca prajānāṃ sukhaṃ na vinaśyet | While you, king, stay, may the happiness of us and of all the subjects not perish. | రాజా, నువ్వు ఉండగా మా సుఖం, ప్రజలందరి సుఖం నశించకుండా ఉండుగాక.
+S 8 | ekasmin janmani ye śūdrā ajāyanta ta ātmano dharmān samyag anutiṣṭhanto dvitīye janmani dvijātayo bhaveyuḥ | The Śūdras who were born in one birth, rightly following their own duties, would in a second birth be Aryans. | ఒక జన్మలో శూద్రులుగా పుట్టినవారు తమ ధర్మాలను సరిగ్గా ఆచరిస్తే రెండవ జన్మలో ద్విజులు అవుతారు.
+S 9 | grāme parivrāṇ tiṣṭhed vane paribhraman brahma dhyāyet | A wandering ascetic should stay in a village; wandering in the forest, he should meditate on the sacred word. | సన్యాసి గ్రామంలో ఉండాలి; అడవిలో తిరుగుతూ బ్రహ్మాన్ని ధ్యానించాలి.
+S 10 | etasyāṃ puri śrīmato rājñaḥ samāgamo 'jāyata | In this city a meeting of the glorious king took place. | ఈ నగరంలో శ్రీమంతుడైన రాజు కలయిక జరిగింది.
+S 11 | brahmā jagataḥ sraṣṭā vedeṣu śrūyate | Brahman is heard of in the Vedas as the creator of the world. | వేదాలలో బ్రహ్మ జగత్తు సృష్టికర్తగా వినబడతాడు.
+S 12 | yān patriṇo vanasya sīmani vṛkṣād utpatato 'paśyata te sarve mayā bhrātrā ca pāśair jīvanta evābadhyanta mātrā cāsmabhyam apacyanta | All the birds that flew up from the tree on the edge of the forest, which they saw — they were all caught alive in snares by me and my brother, and were cooked for us by our mother. | అడవి అంచున చెట్టు నుండి ఎగిరిన పక్షులన్నీ నా చేత, నా సోదరుని చేత ఉచ్చులతో సజీవంగా పట్టబడ్డాయి, మా తల్లి మాకు వండిపెట్టింది.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Words in italics are not to be translated.
+E 13 | Brāhmans have *their* shoes made (*use* ⟨kṛ⟩ *caus.*) of leather (*instr.*) or wood. | brāhmaṇāś carmaṇā kāṣṭhena vopānahaḥ kārayanti | బ్రాహ్మణులు తోలుతో లేదా కర్రతో పాదరక్షలు చేయిస్తారు.
+E 14 | A temple of blessed Viṣṇu stands in the outskirts of this village, on the bank of the river. | asya grāmasya sīmani nadyās tīre bhagavato viṣṇor devakulaṃ tiṣṭhati | ఈ గ్రామపు శివారులో నది ఒడ్డున పూజ్యుడైన విష్ణువు దేవాలయం ఉంది.
+E 15 | Let him rub off the vessels diligently with ashes (*pl.*). | sa pātrāṇy udyogena bhasmabhir mārjayatu | అతడు పాత్రలను శ్రద్ధగా బూడిదతో తోమాలి.
+E 16 | The servants announced to the king that the two celebrated poets were coming (*use or. recta with* ⟨iti⟩). | bhṛtyā rājñe kavī śrīmantāv āgacchata iti nyavedayan | సేవకులు ఇద్దరు ప్రసిద్ధ కవులు వస్తున్నారని రాజుకు నివేదించారు.
+E 17 | O children (*du.*), tell me your (⟨ātman⟩, *gen. du.*) names. | he bālāv ātmanor nāmanī mahyaṃ vadatam | ఓ పిల్లలారా, మీ పేర్లను నాకు చెప్పండి.
+E 18 | The world-spirit is described in many Upaniṣads. | prabhūtāsūpaniṣatsu brahma varṇyate | అనేక ఉపనిషత్తులలో పరమాత్మ వర్ణించబడింది.
+E 19 | It is said by the seers that the world-spirit is omnipresent (*use or. recta*). | ṛṣibhir ucyate brahma vibhv iti | ఋషులు పరమాత్మ సర్వవ్యాపి అని చెబుతారు.
+E 20 | That part of the world-spirit, which is encompassed by the body, is called the soul of man (*cf.* § 234). | brahmaṇo yo bhāgaḥ śarīreṇa ruddhaḥ sa manuṣyasyātmety ucyate | పరమాత్మలో శరీరంచే ఆవరించబడిన భాగం మనిషి ఆత్మ అనబడుతుంది.
+E 21 | Candragupta was the mighty emperor of the whole earth. | candraguptaḥ kṛtsnāyāḥ pṛthivyā balavān samrāḍ abhavat | చంద్రగుప్తుడు భూమి అంతటికీ బలవంతుడైన చక్రవర్తి.
+E 22 | All the mighty warriors who fought in Kṛṣṇa’s army were killed in battle by the enemy. | ye kṣatriyā balavantaḥ kṛṣṇasya senāyām ayudhyanta te sarve yuddhe dviḍbhir ahanyanta | కృష్ణుని సైన్యంలో పోరాడిన బలవంతులైన యోధులందరూ యుద్ధంలో శత్రువుల చేత చంపబడ్డారు.
+E 23 | In the Rigveda (⟨ṛc⟩ *pl.*) occurs (⟨vid⟩ *pass.*) also the Triṣṭubh. | ṛkṣu triṣṭub api vidyate | ఋగ్వేదంలో త్రిష్టుప్పు కూడా కనిపిస్తుంది.
+E 24 | The king of Pāṭaliputra is by birth a Śūdra; let him not marry the beautiful daughter of the ascetic Mitrātithi. | pāṭaliputrasya rājā janmanā śūdro mitrātither yater duhitaraṃ sundarīṃ na pariṇayatu | పాటలీపుత్ర రాజు పుట్టుకతో శూద్రుడు; అతడు యతి మిత్రాతిథి సుందరమైన కూతురిని వివాహమాడకూడదు.
