@@ -1,0 +1,94 @@
+# Perry, A Sanskrit Primer. Lesson II = pp. 26–29 = leaves n45–n48 (cu31924011121690).
+# ∗ and ∗∗ are Perry's footnote marks (U+2217, so that * can stay for italics).
+@45
+## Lesson II
+¶ **97. Verbs. Unaccented ⟨a⟩-class, cont’d.** Roots of this class which end in a vowel, and consonant-roots not forming heavy syllables (§ 53), gunate their vowels in forming their present-stems; e. g., ⟨ji⟩ and ⟨nī⟩ form ⟨je⟩ and ⟨ne⟩; ⟨dru⟩ and ⟨bhū⟩ form ⟨dro⟩ and ⟨bho⟩; ⟨smṛ⟩ forms ⟨smar⟩; ⟨cit⟩ and ⟨budh⟩ form ⟨cet⟩ and ⟨bodh⟩; ⟨vṛṣ⟩ forms ⟨varṣ⟩.
+¶ **98.** With the class-sign ⟨a⟩, a final ⟨e⟩ of the gunated root unites to form ⟨aya⟩ — see § 159; so ⟨o⟩ with ⟨a⟩ becomes ⟨ava⟩; ⟨ar⟩ with ⟨a⟩ yields ⟨ara⟩. Thus, ⟨ji⟩, 3rd sing. ⟨jayati⟩; ⟨bhū⟩ ⟨bhavati⟩; ⟨smṛ⟩ ⟨smarati⟩.
+¶ **99.** Roots in consonants: ⟨budh⟩, 3rd sing. ⟨bodhati⟩; ⟨cit⟩ ⟨cetati⟩; ⟨vṛṣ⟩ ⟨varṣati⟩.
+@46
+¶ **100.** The roots ⟨gam⟩ and ⟨yam⟩ make the present-stems ⟨gaccha⟩ and ⟨yaccha⟩∗.
+¶ **101.** The root ⟨sad⟩, ‘sit’, makes the present-stem ⟨sīda⟩. The root ⟨guh⟩, ‘hide’, makes ⟨gūhati⟩.
+¶ **102.** Several roots in final ⟨ā⟩ form their present-stem by a peculiar process of reduplication; thus, ⟨sthā⟩, 3rd sing. ⟨tiṣṭhati⟩∗∗; ⟨pā⟩ ⟨pibati⟩; ⟨ghrā⟩ ⟨jighrati⟩.
+¶ **103. Masculines and Neuters in ⟨a⟩.**
+¶ a. Masculines: ⟨deva⟩, ‘god’.
+T  | Singular. | Dual. | Plural.
+R N. | ⟨devas⟩ | ⟨devau⟩ | ⟨devās⟩
+R Acc. | ⟨devam⟩ | „ | ⟨devān⟩
+R Voc. | ⟨deva⟩ |  |
+¶ b. Neuters: ⟨phala⟩, ‘fruit’.
+T  | Singular. | Dual. | Plural.
+R N. | ⟨phalam⟩ | ⟨phale⟩ (a + i) | ⟨phalāni⟩
+R Acc. | „ | „ | „
+R Voc. | ⟨phala⟩ |  |
+¶ ∗ As a rule, the grammarians do not allow ⟨ch⟩ to stand in that form after a vowel, but require it to be doubled, becoming ⟨cch⟩. An aspirate is doubled by prefixing the corresponding non-aspirate. Cf. § 165.
+¶ ∗∗ The dental sibilant ⟨s⟩ is changed to the lingual ⟨ṣ⟩, if immediately preceded by any vowel save ⟨a⟩ and ⟨ā⟩, or by ⟨k⟩ or ⟨r⟩ — unless the ⟨s⟩ be final, or followed by ⟨r⟩. Thus, ⟨ti-stha-ti⟩ becomes ⟨tiṣṭhati⟩ (the change of ⟨th⟩ to ⟨ṭh⟩ — a process of assimilation — will be explained below). So ⟨agni-su⟩ becomes ⟨agniṣu⟩; and ⟨dhanus-ā⟩ becomes ⟨dhanuṣā⟩.
+¶ The nasalization of the alterant vowel, or in other words, its being followed by *anusvāra*, does not prevent its altering effect upon the sibilant; thus, ⟨havīṃṣi⟩. And the alteration takes place in the initial of an ending after the final ⟨s⟩ of a stem, whether the latter be regarded as also changed to ⟨ṣ⟩ or as converted into *visarga*; thus, ⟨haviṣ-ṣu⟩ or ⟨haviḥ-ṣu⟩ instead of ⟨havis-su⟩.
+@47
+¶ **104. Force of cases.** 1. The nominative is *casus subjectivus*. 2. The accusative is *casus objectivus*, denoting chiefly the nearer or direct, sometimes however the more remote, object; sometimes also the *terminus ad quem*, and extent of time and space.
+¶ **105. Euphonic combination of vowels.**
+T  | Rule | Example
+R 1. | ⟨a⟩ or ⟨ā⟩ + ⟨a⟩ or ⟨ā⟩ = ⟨ā⟩. | e. g. ⟨gatā⟩ + ⟨api⟩ = ⟨gatā 'pi⟩.
+R 2. | ⟨a⟩ or ⟨ā⟩ + ⟨i⟩ or ⟨ī⟩ = ⟨e⟩. | e. g. ⟨gatā⟩ + ⟨iti⟩ = ⟨gate 'ti⟩.
+R 3. | ⟨a⟩ or ⟨ā⟩ + ⟨u⟩ or ⟨ū⟩ = ⟨o⟩. | e. g. ⟨gatā⟩ + ⟨uta⟩ = ⟨gato 'ta⟩.
+R 4. | ⟨a⟩ or ⟨ā⟩ + ⟨ṛ⟩ = ⟨ar⟩. | e. g. ⟨mahā⟩ + ⟨ṛṣiḥ⟩ = ⟨maharṣiḥ⟩.
+R 5. | ⟨a⟩ or ⟨ā⟩ + ⟨e⟩ or ⟨ai⟩ = ⟨ai⟩. | e. g. ⟨gatā⟩ + ⟨eva⟩ = ⟨gatai 'va⟩.
+R 6. | ⟨a⟩ or ⟨ā⟩ + ⟨o⟩ or ⟨au⟩ = ⟨au⟩. | e. g. ⟨gatā⟩ + ⟨oṣadhiḥ⟩ = ⟨gatau 'ṣadhiḥ⟩.
+¶ **106.** It will be the practice everywhere in this work to separate independent words in transliteration, but not in the *devanāgarī* text; and if an initial vowel of a following word has coalesced with a final of the preceding, this will be indicated by an apostrophe — single if the initial vowel be the shorter, double if it be the longer, of the two different initials which in every case of combination yield the same result. To aid the beginner, a point will sometimes be placed, in the *devanāgarī*, under a long vowel formed by two coalescing vowels; thus, ⟨agninā 'rīṇām⟩.
+## Vocabulary II
+¶ Verbs, ⟨a⟩-class:
+V gam | (⟨gacchati⟩) go. | వెళ్ళు
+V ghrā | (⟨jighrati⟩) smell. | వాసన చూడు
+V ji | (tr. and intr.) conquer, win. | జయించు, గెలుచు
+V dru | run. | పరుగెత్తు
+V nī | lead, guide. | నడిపించు, తీసుకువెళ్ళు
+@48
+V pā | (⟨pibati⟩) drink. | తాగు
+V bhū | become, be, exist. | అగు, ఉండు
+V yam | (⟨yacchati⟩) furnish, give. | ఇచ్చు, సమకూర్చు
+V vṛṣ | rain, give rain; (fig.) shower down; overwhelm. | వర్షించు; (లక్షణార్థంలో) కురిపించు, ముంచెత్తు
+V smṛ | remember, think on. | గుర్తుచేసుకొను, స్మరించు
+V sthā | (⟨tiṣṭhati⟩) stand (intr.). | నిలుచు
+¶ Subst. Masc.:
+V gaja | elephant. | ఏనుగు
+V gandha | odor, perfume. | వాసన, సుగంధం
+V grāma | village. | గ్రామం, ఊరు
+V nara | man (*vir* and *homo*). | మనిషి, పురుషుడు
+V nṛpa | king. | రాజు
+V putra | son. | కొడుకు
+¶ Neut.:
+V kṣīra | milk. | పాలు
+V gṛha | house. | ఇల్లు
+V jala | water. | నీరు
+V dāna | gift, present. | దానం, కానుక
+V nagara | city. | నగరం, పట్టణం
+¶ Interj.:
+V he | O, ho. | ఓ, ఓహో
+## Exercise II
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | sadā devān smaranti | They always remember the gods. | వారు ఎల్లప్పుడూ దేవతలను స్మరిస్తారు.
+S 2 | gṛhaṃ∗ gacchāmaḥ | We go to the house. | మేము ఇంటికి వెళ్తాము.
+S 3 | jalaṃ pibati putraḥ | The son drinks water. | కొడుకు నీరు తాగుతాడు.
+S 4 | nṛpau jayataḥ | The two kings conquer. | ఇద్దరు రాజులు జయిస్తారు.
+S 5 | kadā phalāni yacchatha | When do you give fruits? | మీరు ఎప్పుడు పండ్లు ఇస్తారు?
+S 6 | kutrādhunā gajaṃ nayāmi | Where am I leading the elephant now? | ఇప్పుడు నేను ఏనుగును ఎక్కడికి నడిపిస్తున్నాను?
+S 7 | nayanti devāḥ | The gods lead. | దేవతలు నడిపిస్తారు.
+S 8 | nayatha he devāḥ | You lead, O gods. | ఓ దేవతలారా, మీరు నడిపిస్తారు.
+S 9 | naraḥ phale yacchati | The man gives two fruits. | మనిషి రెండు పండ్లు ఇస్తాడు.
+S 10 | adhunā jighrāmi gandham | Now I smell the perfume. | ఇప్పుడు నేను సుగంధాన్ని వాసన చూస్తున్నాను.
+S 11 | devaṃ yajāvaḥ | We two worship the god. | మేమిద్దరం దేవుణ్ణి ఆరాధిస్తాము.
+S 12 | putra grāmaṃ gacchanti | The sons go to the village. [Perry prints putra; the plural putrāḥ is meant.] | కొడుకులు గ్రామానికి వెళ్తారు. [పెర్రీ putra అని ముద్రించాడు; putrāḥ అని అర్థం.]
+S 13 | tatra gṛhe bhavataḥ | There are two houses. | అక్కడ రెండు ఇళ్ళు ఉన్నాయి.
+S 14 | sarvatra dānāni varṣanti nṛpāḥ | Everywhere the kings shower gifts. | అన్ని చోట్లా రాజులు దానాలు కురిపిస్తారు.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Perry’s note applies as in Exercise I: the superior figures give the position of the Sanskrit word in the sentence, and words in italics are not to be translated.
+E 15 | The man¹ drinks³ milk². | naraḥ kṣīraṃ pibati | మనిషి పాలు తాగుతాడు.
+E 16 | The king³ leads² the elephant¹. | gajaṃ nayati nṛpaḥ | రాజు ఏనుగును నడిపిస్తాడు.
+E 17 | *Two* houses¹ fall². | gṛhe patataḥ | రెండు ఇళ్ళు పడతాయి.
+E 18 | The god³ gives² water¹. | jalaṃ yacchati devaḥ | దేవుడు నీరు ఇస్తాడు.
+E 19 | Ye *both* think² on (⟨smṛ⟩) the *two* gods¹ (accus.). | devau smarathaḥ | మీరిద్దరూ ఇద్దరు దేవతలను స్మరిస్తారు.
+E 20 | The king³ wins² the village¹. | grāmaṃ jayati nṛpaḥ | రాజు గ్రామాన్ని గెలుస్తాడు.
+E 21 | The *two* elephants¹ smell³ the perfume². | gajau gandhaṃ jighrataḥ | రెండు ఏనుగులు సుగంధాన్ని వాసన చూస్తాయి.
+E 22 | *They* cook² fruits¹. | phalāni pacanti | వారు పండ్లు వండుతారు.
+E 23 | The man³ reverences² the gods¹. | devān namati naraḥ | మనిషి దేవతలను గౌరవిస్తాడు.
+E 24 | The *two* elephants¹ live². | gajau jīvataḥ | రెండు ఏనుగులు జీవిస్తాయి.
+E 25 | The gods² give¹ rain (⟨vṛṣ⟩). | varṣanti devāḥ | దేవతలు వర్షం కురిపిస్తారు.
+¶ ∗ Final ⟨m⟩ is commonly written as *anusvāra* if the following word begins with a consonant; but the Hindus pronounce it as ⟨m⟩ in such cases. At the end of a sentence *anusvāra* should not be written for ⟨m⟩, though this is a habit common in the MSS. Final radical ⟨m⟩, in internal combination, is assimilated to a following mute or spirant. In the former case it becomes the nasal of the same class with the mute; in the latter it becomes *anusvāra*. — Final radical ⟨n⟩, in internal combination, becomes *anusvāra* before a sibilant.

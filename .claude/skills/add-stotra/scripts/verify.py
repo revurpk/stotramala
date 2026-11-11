@@ -148,14 +148,16 @@ def data_roundtrip(slug):
             padas.append(s["answer"])
     # Ḷ = vocalic ḷ (ऌ); prose padas (viniyoga, nyāsa) may carry “quotes” and
     # ordinary punctuation, which pass through the renderer unchanged; square
-    # brackets carry an editor's critical marks (the Nighaṇṭu, after Sarup)
-    ok = set("abcdeghijklmnoprstuvyāīūṛṝḷḹḶṅñṭḍṇśṣṃḥṁ '|—…()[]_^0123456789“”,.;:?!–")
+    # brackets carry an editor's critical marks (the Nighaṇṭu, after Sarup); a
+    # hyphen divides morphemes in IAST and is dropped by the render (Learn pages),
+    # ∗ is a footnote mark
+    ok = set("abcdeghijklmnoprstuvyāīūṛṝḷḹḶṅñṭḍṇśṣṃḥṁ '|—…()[]_^0123456789“”,.;:?!–-∗")
     bad = 0
     for p in padas:
         stray = set(p) - ok
         back = dev2iast(dev_svara(p).replace("॥", "||").replace("।", "|"))
         back = back.replace("ऽ", "'").replace("ॐ", "oṃ").replace("॒", "_").replace("॑", "^").replace("᳚", "^^")
-        want = p.replace("ṁ", "ṃ").replace("Ḷ", "ḷ")
+        want = p.replace("ṁ", "ṃ").replace("Ḷ", "ḷ").replace("-", "")
         back = back.replace("ॡ", "ḹ")
         if stray or re.sub(r"[_^]", "", back) != re.sub(r"[_^]", "", want):
             bad += 1

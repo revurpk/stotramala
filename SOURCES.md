@@ -2195,8 +2195,8 @@ script switch (`tools/build_stotra.py`: section types `para`, `table`,
 
 | Field | Value |
 |---|---|
-| Work | Edward Delavan Perry, *A Sanskrit Primer, based on the Leitfaden für den Elementarcursus des Sanskrit of Professor Georg Bühler of Vienna*: an introduction to the structure of the language (§§ 1–91), 45 graded lessons with vocabularies and exercises, and glossaries. Lesson I is done so far, one page a lesson |
-| Source | Ginn & Co., Boston, 1885; the scan used is of the 1892 issue, Cornell University Library copy, archive.org `cu31924011121690` (leaf n38 = p. 19; Lesson I = leaves n43–n45 = pp. 24–26). Public domain: published 1885, and Perry died in 1938 |
+| Work | Edward Delavan Perry, *A Sanskrit Primer, based on the Leitfaden für den Elementarcursus des Sanskrit of Professor Georg Bühler of Vienna*: an introduction to the structure of the language (§§ 1–91), 45 graded lessons with vocabularies and exercises, and glossaries. Lessons I–II are done so far, one page a lesson |
+| Source | Ginn & Co., Boston, 1885; the scan used is of the 1892 issue, Cornell University Library copy, archive.org `cu31924011121690` (leaf n38 = p. 19; Lesson I = leaves n43–n45 = pp. 24–26; Lesson II = leaves n45–n48 = pp. 26–29). Public domain: published 1885, and Perry died in 1938 |
 | Recorded | 2026-11-11 |
 | Text status | public domain |
 
@@ -2221,3 +2221,17 @@ inside the prose, tables and vocabularies included.
   translations of the Sanskrit exercises, and the Sanskrit answers (with
   their Telugu) to the English exercises are the editor's, folded under
   each sentence so a learner can try it first.
+- Hyphens inside a Sanskrit word (Perry's *ti-stha-ti*, *agni-su*) show in
+  IAST and disappear in Devanāgarī and Telugu, where the render drops them.
+- Perry's footnote marks ∗ and ∗∗ are printed as ∗ (U+2217) so that * can
+  keep its use for italics. His accent marks on the nouns of the
+  vocabularies (*putrá*) are not carried.
+- His *āi* and *āu* are written *ai* and *au* (*devāu* → *devau*).
+- Perry separates words in the transliteration but not in his Devanāgarī
+  (§ 106), and marks a vowel combination in the Devanāgarī with a point; the
+  page renders one IAST text in all three scripts, so the words are
+  separated in all of them and the apostrophe shows as an avagraha
+  (*gatā ’pi* → गता ऽपि).
+- Exercise II, sentence 12 is printed *putra grāmaṃ gacchanti* (a singular
+  stem with a plural verb). It is kept as printed and the editor's
+  translation notes that *putrāḥ* is meant.

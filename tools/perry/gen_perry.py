@@ -94,7 +94,8 @@ def main(nn):
     print(f"perry-{nn:02d}: {len(secs)} sections")
 
 
-TITLES = {1: "Verbs: the present indicative of the a-class (vadati); visarga at the end of a word"}
+TITLES = {1: "Verbs: the present indicative of the a-class (vadati); visarga at the end of a word",
+          2: "Verbs: the a-class continued (gacchati, tiṣṭhati); nouns in a (deva, phala); the combination of vowels"}
 
 if __name__ == "__main__":
     main(int(sys.argv[1]))
