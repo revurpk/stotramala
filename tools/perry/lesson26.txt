@@ -1,0 +1,82 @@
+# Perry, A Sanskrit Primer. Lesson XXVI = p. 105 (from the heading) to p. 109 (to the end of the exercise) = leaves n124–n128 of the Cornell scan.
+% Some irregular substantives (ambā, sakhi, pati, akṣan, strī, ap, div, rai, anaḍvah, panthan, puṃs, pad, han, pūṣan)
+! Perry’s āi and āu are written ai and au; his dotted ṅ before a sibilant is written ṃ. The pencil marks are ignored. §§ 273–284 are paragraphs of irregular forms printed in running text; they are given as paragraphs, each form in ⟨ ⟩. In § 274 the dual is sakhāyau, sakhibhyām, sakhyos; in § 275 “curds” is dadhan and the weakest cases are akṣṇā, dadhnas, sakthni (or sakthani); in § 276 acc. strīm is printed with a long ī; § 277 gives divam, dyubhis and rāyas as printed; in § 278 the strong stem is anaḍvāh, mid. anaḍud, weakest anaḍuh, nom. anaḍvān, voc. anaḍvan; in § 282 pād and pad are the stems; § 283’s footnote ∗ (an altering cause in one member sometimes lingualizes an n of the next member; a guttural or labial in direct combination with n sometimes prevents it, as in the instr. brahmaghnā) is given whole.
+! Exercise XXVI opens with a verse Perry numbers ॥ 14 ॥ (patyau bhaktir vrataṃ strīṇām adroho mantriṇāṃ vratam …, “For wives devotion to the husband is the vow; for ministers faithfulness; for kings the protection of their subjects is the fixed vow”); his sentences are then numbered 1–17, and the English ones 18–27. Sentence 5 is read bāhubhyāṃ bhūbhṛt kṛtsnaṃ jagad ajayat; sentence 6, kena pathā bhavān sakhyā sahāgacchat; sentence 7, padā mām aspṛśat sakhā (the prefix of mām aspṛśat is clear); sentence 11 is printed strī patye rūpakān arpayati, with the long ī of the nominative; sentence 15 is read brahmaghnā na sambhāṣeta na ca tam adhyāpayed yājayed vā.
+@124
+## Lesson XXVI
+¶ **273. Some Irregular Substantives.** ⟨ambā⟩ f., ‘mother’: voc. sing. ⟨amba⟩.
+¶ **274.** 1. ⟨sakhi⟩ m., ‘friend’: sing. nom. ⟨sakhā⟩, acc. ⟨sakhāyam⟩, inst.
+@125
+¶ ⟨sakhyā⟩, dat. ⟨sakhye⟩, abl.-gen. ⟨sakhyus⟩, loc. ⟨sakhyau⟩, voc. ⟨sakhe⟩; du. ⟨sakhāyau⟩, ⟨sakhibhyām⟩, ⟨sakhyos⟩; pl. nom. ⟨sakhāyas⟩, acc. ⟨sakhīn⟩, instr. ⟨sakhibhis⟩; the rest like ⟨agni⟩. — 2. ⟨pati⟩ m., is declined regularly (like ⟨agni⟩) in composition, and when meaning ‘lord, master’; when meaning ‘husband’, it follows ⟨sakhi⟩ in the following forms: inst. sing. ⟨patyā⟩, dat. ⟨patye⟩, abl.-gen. ⟨patyus⟩, loc. ⟨patyau⟩.
+¶ **275.** The neuter stems ⟨akṣan⟩ ‘eye’, ⟨asthan⟩ ‘bone’, ⟨dadhan⟩ ‘curds’, ⟨sakthan⟩ ‘thigh’, form only the weakest cases; thus, ⟨akṣṇā⟩, ⟨dadhnas⟩, ⟨sakthni⟩ or ⟨sakthani⟩, etc.; the rest of the inflection is made from corresponding stems in ⟨i⟩; thus, nom. sing. ⟨akṣi⟩ etc.
+¶ **276.** 1. ⟨lakṣmī⟩ f., ‘goddess of fortune’, makes nom. sing. ⟨lakṣmīs⟩. — 2. ⟨strī⟩ f., ‘woman’, follows a mixed declension; thus, nom. sing. ⟨strī⟩, acc. ⟨striyam⟩ or ⟨strīm⟩, instr. ⟨striyā⟩, dat. ⟨striyai⟩, abl.-gen. ⟨striyās⟩, loc. ⟨striyām⟩; du. ⟨striyau⟩, ⟨strībhyām⟩, ⟨striyos⟩; pl. nom. ⟨striyas⟩, acc. ⟨striyas⟩ or ⟨strīs⟩, instr. ⟨strībhis⟩, etc.; gen. ⟨strīṇām⟩.
+¶ **277.** 1. ⟨ap⟩ f., ‘water’, only pl.; its final is changed to ⟨d⟩ before ⟨bh⟩; thus, nom. ⟨āpas⟩, acc. ⟨apas⟩, instr. ⟨adbhis⟩, dat.-abl. ⟨adbhyas⟩, gen. ⟨apām⟩, loc. ⟨apsu⟩. — 2. ⟨div⟩ f.,∗ ‘sky’, makes nom. sing. ⟨dyaus⟩, du. ⟨dyāvau⟩, pl. (sometimes) ⟨dyāvas⟩; the endings are the normal ones, but the root becomes ⟨dyu⟩ before consonant-endings: thus, acc. sing. ⟨divam⟩, nom.-acc. pl. ⟨divas⟩, instr. ⟨dyubhis⟩. Not all the cases are found in use. — 3. Stem ⟨rai⟩ m. (rarely f.), ‘wealth’: sing. ⟨rās⟩, ⟨rāyam⟩, ⟨rāyā⟩ etc.; du. ⟨rāyau⟩, ⟨rābhyām⟩, ⟨rāyos⟩; pl. ⟨rāyas⟩ (nom. and acc.), ⟨rābhis⟩ etc.
+¶ **278.** 1. ⟨anaḍuh⟩ or ⟨anaḍvah⟩ m., (from ⟨anas⟩ + ⟨vah⟩ ‘cart-drawing’, i. e.) ‘ox’: strong stem ⟨anaḍvāh⟩, mid. ⟨anaḍud⟩, weakest ⟨anaḍuh⟩; nom. sing. ⟨anaḍvān⟩, voc. ⟨anaḍvan⟩. — 2. The stem ⟨panthan⟩ m., ‘road’, makes all the strong cases, with irregular nom. sing. ⟨panthās⟩; the corresponding middle cases are made from ⟨pathi⟩, and the weakest from ⟨path⟩; thus, acc. sing. ⟨panthānam⟩, dat. ⟨pathe⟩, acc. pl. ⟨pathas⟩,
+¶ ∗ In the older language oftener masculine.
+@126
+¶ dat. ⟨pathibhyas⟩. [The stems ⟨manthan⟩ m., ‘stirring-stick’, and ⟨ṛbhukṣan⟩ m., an epithet of Indra, are said to follow ⟨panthan⟩.]
+¶ **279.** The stem ⟨puṃs⟩ m., ‘man’, is very irregular. The strong stem is ⟨pumāṃs⟩, mid. ⟨pum⟩, weakest ⟨puṃs⟩. Thus, sing. ⟨pumān⟩, ⟨pumāṃsam⟩, ⟨puṃsā⟩, etc., voc. ⟨pumān⟩; du. ⟨pumāṃsau⟩, ⟨pumbhyām⟩, ⟨puṃsos⟩; pl. ⟨pumāṃsas⟩, ⟨puṃsas⟩, ⟨pumbhis⟩ etc., ⟨puṃsu⟩.
+¶ **280.** For the stem ⟨jarā⟩ f., ‘age’, may be substituted in the cases with vowel-endings forms from ⟨jaras⟩ f.; thus, ⟨jarayā⟩ or ⟨jarasā⟩.
+¶ **281.** ⟨hṛd⟩ n., ‘heart’, does not make nom.-voc.-acc. of any number (except in composition), these being supplied from ⟨hṛdaya⟩ n.
+¶ **282.** The stem ⟨pad⟩ m., ‘foot’, becomes ⟨pād⟩ in strong cases; and, in compounds, in the middle cases also; thus, nom. sing. ⟨pāt⟩, acc. ⟨pādam⟩, instr. ⟨padā⟩, etc. From ⟨dvipad⟩ ‘biped’, acc. sing. ⟨dvipādam⟩, pl. ⟨dvipadas⟩, instr. pl. ⟨dvipādbhis⟩. [The stem ⟨pāda⟩ m., ‘foot’, has the complete declension of ⟨a⟩-stems.]
+¶ **283.** The root ⟨han⟩ ‘slay’, as final member of a compound, becomes ⟨hā⟩ in nom. sing., and loses its ⟨n⟩ in the middle cases and its ⟨a⟩ in the weakest cases (but only optionally in loc. sing.). Further, when ⟨a⟩ is lost, ⟨h⟩ in contact with ⟨n⟩ reverts to its original ⟨gh⟩; thus, ⟨brahmahan⟩ m., ‘killing a Brāhman’, makes nom. sing. ⟨brahmahā⟩, acc. ⟨-haṇam⟩∗, instr. ⟨brahmaghnā⟩, etc., loc. ⟨brahmaghni⟩ or ⟨-haṇi⟩, voc. ⟨-han⟩; du. ⟨brahmahaṇau⟩, ⟨-habhyām⟩ etc.; pl. nom. ⟨-haṇas⟩, acc. ⟨-ghnas⟩.
+¶ **284.** The stems ⟨pūṣan⟩ m., *n. pr.*, and ⟨aryaman⟩ m., *n. pr.* (both personifications of the sun), make the nom. sing. in ⟨ā⟩, but otherwise do not lengthen the ⟨a⟩; thus, nom. ⟨pūṣā⟩, acc. ⟨pūṣaṇam⟩, instr. ⟨pūṣṇā⟩.
+¶ ∗ In compound words, an altering cause in one member sometimes lingualizes a ⟨n⟩ of the next following member. But a guttural or labial in direct combination with ⟨n⟩ sometimes prevents the combination, as in the instr. ⟨brahmaghnā⟩.
+@127
+## Vocabulary XXVI
+¶ Verbs:
+V ṛ | move; in caus. (⟨arpayati⟩) send; put; hand over, give. | కదలు; (ప్రేరణార్థకంలో) పంపు; ఉంచు; అప్పగించు
+V guh | (⟨gūhati⟩) in caus. (⟨gūhayati⟩) hide away, conceal. | దాచు
+V tṛp | (⟨tṛpyati⟩) be pleased or satisfied, satisfy or satiate oneself. | తృప్తి పొందు; తృప్తిపరచు
+V lap | + ⟨vi⟩ (⟨vilapati⟩) complain. | విలపించు
+¶ Subst.:
+V akṣan | (⟨akṣi⟩) n., eye. | కన్ను
+V adroha | m., faithfulness. | ద్రోహం లేకపోవడం, విశ్వాసం
+V asura | m., demon. | అసురుడు
+V citta | n., notice, thought, mind. | చిత్తం, మనస్సు
+V devatā | f., divinity, deity. | దేవత
+V dadhyañc | (weakest ⟨dadhīc⟩) m., *n. pr.*, a Vedic saint. | దధ్యంచుడు (ఒక వైదిక ఋషి)
+V pad | m., foot. | పాదం
+V pālana | n., protection. | రక్షణ
+V mānava | m., man (*homo*). | మానవుడు
+V vrata | n., vow, obligation, duty. | వ్రతం, నియమం
+¶ Adj.:
+V kāṇa | f. ā, one-eyed. | ఒక కన్ను గల
+V catuṣpad | four-footed, quadruped. | నాలుగు కాళ్ళ
+V dvipad | m., biped. | రెండు కాళ్ళ
+V niyata | f. ā (part. of ⟨ni-yam⟩), ordained, fixed, permanent. | నియమించబడిన, స్థిరమైన
+V śiva | f. ā, beneficent, gracious, blessed. | మంగళకరమైన, దయగల
+## Exercise XXVI
+¶ The exercise opens with a verse, in two halves (the translations are the editor’s):
+S a | patyau bhaktir vrataṃ strīṇām adroho mantriṇāṃ vratam | For wives devotion to the husband is the vow; for ministers faithfulness is the vow; | భార్యలకు భర్తపట్ల భక్తి వ్రతం; మంత్రులకు విశ్వాసమే వ్రతం;
+S b | prajānāṃ pālanaṃ caiva niyataṃ bhūbhṛtāṃ vratam | and for kings the protection of their subjects is the fixed vow. | రాజులకు ప్రజల రక్షణయే నియమిత వ్రతం.
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | balavantāv anaḍvāhau lāṅgalaṃ vahetām | Let the two strong oxen draw the plough. | బలమైన రెండు ఎద్దులు నాగలిని లాగుదురు గాక.
+S 2 | śivās te panthānas | May your roads be auspicious. | నీ దారులు శుభప్రదంగా ఉండుగాక.
+S 3 | lakṣmīr viṣṇor bhāryā | Lakṣmī is Viṣṇu’s wife. | లక్ష్మి విష్ణువు భార్య.
+S 4 | hṛdy eṣa pumān paraṃ brahma dhyāyati | This man in his heart meditates on the supreme Brahman. | ఈ పురుషుడు హృదయంలో పరబ్రహ్మను ధ్యానిస్తాడు.
+S 5 | bāhubhyāṃ bhūbhṛt kṛtsnaṃ jagad ajayat | By his arms the king conquered the whole world. | రాజు తన భుజబలంతో లోకం మొత్తాన్ని జయించాడు.
+S 6 | kena pathā bhavān sakhyā sahāgacchat | By what road did you come, with your friend? | మీరు మీ స్నేహితునితో ఏ దారిలో వచ్చారు?
+S 7 | padā mām aspṛśat sakhā | My friend touched me with his foot. | నా స్నేహితుడు నన్ను కాలితో తాకాడు.
+S 8 | pumbhiḥ saha strīr āgamayad rājā | The king made the women come with the men. | రాజు స్త్రీలను పురుషులతో కలిసి రప్పించాడు.
+S 9 | he yuvan panthānaṃ me darśaya | O young man, show me the road. | ఓ యువకా, నాకు దారి చూపించు.
+S 10 | adbhiḥ pādau cālayaty eṣa parivrāṭ | This wandering ascetic washes his feet with water. | ఈ సన్యాసి నీటితో పాదాలను కడుగుతున్నాడు.
+S 11 | strī patye rūpakān arpayati | The wife hands over gold pieces to her husband. | భార్య భర్తకు బంగారు నాణేలను అప్పగిస్తుంది.
+S 12 | ekenākṣṇā yo na kiñcit paśyati taṃ kāṇaṃ vadanti | They call one who sees nothing with one eye one-eyed. | ఒక కన్నుతో ఏమీ చూడనివాడిని ఒంటికన్ను వాడు అంటారు.
+S 13 | dyauḥ pitā pṛthivī ca mātā vo racatām | May Heaven be your father and Earth your mother. | ద్యౌః మీ తండ్రి, పృథివి మీ తల్లి అగుగాక.
+S 14 | ete pumāṃso hṛdayeṣu pāpaṃ gūhayanti | These men hide sin in their hearts. | ఈ పురుషులు తమ హృదయాలలో పాపాన్ని దాచుకుంటారు.
+S 15 | brahmaghnā na sambhāṣeta na ca tam adhyāpayed yājayed vā | One should not speak with a slayer of Brāhmans, nor teach him, nor sacrifice for him. | బ్రహ్మహత్య చేసినవానితో మాట్లాడకూడదు, అతనికి బోధించకూడదు, అతని కోసం యజ్ఞం చేయించకూడదు.
+S 16 | asurebhyo bhayān mānavā devatāḥ pālanaṃ prārthayanta tābhiś ca śivābhiḥ pāpā asurā aghātyanta | From fear of the demons men begged the gods for protection, and by those gracious ones the wicked demons were slain. | అసురుల భయం వలన మనుషులు దేవతల రక్షణ కోరారు, ఆ మంగళకరమైన దేవతల చేత దుష్ట అసురులు చంపబడ్డారు.
+S 17 | mahān udīcāṃ rājā daridraiḥ pathi tiṣṭhadbhiḥ śiṣyaiḥ sambhāṣamāṇas tebhyo bhikṣāṃ yacchati | The great king of the north, being addressed by the poor pupils standing in the road, gives them alms. | ఉత్తరపు మహారాజు దారిలో నిలుచున్న పేద శిష్యులచే సంబోధించబడి వారికి భిక్ష ఇస్తాడు.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Words in italics are not to be translated.
+@128
+E 18 | The meeting of the men and women took place on the road. | pathi puṃsāṃ strīṇāṃ ca samāgamo 'jāyata | పురుషులు, స్త్రీల కలయిక దారిలో జరిగింది.
+E 19 | In the Veda they call the sun Pūṣan, Mitra (*m.*), Aryaman, and Savitar. | vede sūryaṃ pūṣāṇaṃ mitram aryamāṇaṃ savitāraṃ ca vadanti | వేదంలో సూర్యుని పూషన్, మిత్రుడు, అర్యమన్, సవితృ అని పిలుస్తారు.
+E 20 | Water also is named (⟨gaṇaya⟩, *pass.*) among the deities in the Rik (*use* ⟨ṛcas⟩) and in the sacrificial formulas. | apo 'pi devatāsu gaṇyante ṛcasu yajuṣu ca | ఋక్కులలో, యజుస్సులలో దేవతలలో నీరు కూడా లెక్కించబడింది.
+E 21 | Be gracious, O Çiva, to biped and quadruped. | he śiva dvipade catuṣpade ca śivo bhava | ఓ శివా, రెండు కాళ్ళ వారికి, నాలుగు కాళ్ళ వారికి మంగళకరుడవు కమ్ము.
+E 22 | The seers’ view is, that fire is to be found in the water (*use* ⟨vṛt⟩, *and make a direct statement with* ⟨iti⟩). | apsv agnir vartata ity ṛṣīṇāṃ matiḥ | నీటిలో అగ్ని ఉంది అనేది ఋషుల అభిప్రాయం.
+E 23 | The Asura was slain by Maghavan with a bone of Dadhyañc. | dadhīcer asthnā maghavatāsuro 'ghātyata | దధీచి ఎముకతో ఇంద్రుడు అసురుని చంపాడు.
+E 24 | Who knows the wind’s path (*pass.*)? | vāyoḥ panthā kena jñāyate | గాలి దారిని ఎవరు తెలుసుకోగలరు?
+E 25 | Mother, satisfy (⟨tṛp⟩ *caus.*) the child with curds. | amba dadhnā bālaṃ tarpaya | అమ్మా, పెరుగుతో బిడ్డను తృప్తిపరచు.
+E 26 | Have food brought (*use* ⟨ā-nī⟩, *caus.*, *pl.*) from our friend’s house. | asmākaṃ sakhyur gṛhād annam ānāyayata | మా స్నేహితుని ఇంటి నుండి అన్నం తెప్పించండి.
+E 27 | The Maruts are Maghavan’s friends. | marutaḥ maghavataḥ sakhāyaḥ | మరుత్తులు ఇంద్రుని స్నేహితులు.
