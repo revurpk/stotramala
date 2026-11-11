@@ -1,0 +1,96 @@
+# Perry, A Sanskrit Primer. Lesson IX = p. 48 (from the heading) to p. 51 (to the end of the exercise) = leaves n67–n70 of the Cornell scan.
+% Nouns: feminines in ā (senā); the combination of ai and au; verbal prefixes
+! Perry’s āi and āu are written ai and au (§ 164). His Devanāgarī sentences are given with the sandhi he prints (nāvagacchanti, sahāgacchataḥ, bālāv ṛṣir).
+! In Exercise IX, sentence 9 refers to § 164 (kanyāyai + annam → kanyāyā annam); the reference is moved into the English note. Sentence 13 is read atra cchāyāyāṃ (§ 165). Sentence 1 carries Perry’s footnote (“Birds of a feather flock together”).
+@67
+## Lesson IX
+¶ **162. Feminines in ⟨ā⟩,** declined like ⟨senā⟩, ‘army.’
+T  | Singular. | Dual. | Plural.
+R N. | ⟨senā⟩ | ⟨sene⟩ (ā + ī) | ⟨senās⟩
+R A. | ⟨senām⟩ | „ „ | „ „
+R I. | ⟨senayā⟩ | ⟨senābhyām⟩ | ⟨senābhis⟩
+R D. | ⟨senāyai⟩ | „ „ | ⟨senābhyas⟩
+R Ab. | ⟨senāyās⟩ | „ „ | „ „
+R G. | „ „ | ⟨senayos⟩ | ⟨senānām⟩
+R L. | ⟨senāyām⟩ | „ „ | ⟨senāsu⟩
+R V. | ⟨sene⟩ |  |
+¶ **163.** Adjectives in ⟨a⟩ are declined in the masc. like ⟨deva⟩, in the fem. like ⟨senā⟩, in the neuter like ⟨phala⟩. But often the fem. stem ends in ⟨ī⟩, and is declined like ⟨nadī⟩ (in Less. XI).
+¶ **164.** Final ⟨ai⟩ and ⟨au⟩, according to § 159, become ⟨āy⟩ and ⟨āv⟩ respectively before any following vowel or diphthong. The ⟨y⟩ or ⟨v⟩ may then be dropped, leaving a hiatus. The ⟨y⟩ is in fact always dropped, but the ⟨v⟩ not often. Thus, ⟨senāyai atra⟩ becomes, through the medium of ⟨senāyāy atra⟩, ⟨senāyā atra⟩; ⟨devau atra⟩ becomes ⟨devāv atra⟩.
+¶ **165.** Initial ⟨ch⟩, after short vowels, the preposition ⟨ā⟩, and the prohibitive particle ⟨mā⟩, becomes ⟨cch⟩: thus, ⟨atra chāyā⟩ becomes ⟨atra cchāyā⟩; ⟨ā⟩ + ⟨chādayati⟩ = ⟨ācchādayati⟩.
+@68
+¶ **166.** An initial ⟨n⟩ of a root generally becomes ⟨ṇ⟩ after a verbal prefix containing ⟨r⟩, either original or representing ⟨s⟩; such as ⟨antar⟩ ‘between’, ⟨nis⟩, ⟨parā⟩, etc. Thus, ⟨praṇayati⟩, ⟨nirṇayati⟩.
+¶ **167.** The following prefixes are often used before verbs: ⟨anu⟩ ‘after, along, toward’; ⟨ava⟩ ‘down, off’; ⟨ud⟩ ‘up, up forth or out’; ⟨upa⟩ ‘to, toward’; ⟨ni⟩ ‘down; in, into’; ⟨nis⟩ ‘out, forth’; ⟨parā⟩ ‘to a distance, away’; ⟨pari⟩ ‘round about, around’; ⟨pra⟩ ‘forward, forth’; ⟨sam⟩ ‘along with, completely.’
+## Vocabulary IX
+¶ Active Verbs:
+V gam | + ⟨ava⟩ (⟨avagacchati⟩) understand. | అర్థం చేసుకొను
+V tṛ | + ⟨ava⟩ (⟨avatarati⟩) descend. | దిగు
+V nī | + ⟨upa⟩ (⟨upanayati⟩) introduce, consecrate. | ఉపనయనం చేయు, సమీపానికి తీసుకువెళ్ళు
+V nī | + ⟨pari⟩ (⟨parinayati⟩) lead about; marry. | చుట్టూ తిప్పు; వివాహమాడు
+V pat | + ⟨ud⟩ (⟨utpatati⟩) fly up. | ఎగిరిపోవు
+V ruh | + ⟨ava⟩ (⟨avarohati⟩) descend. | దిగు
+¶ Deponents:
+V gam | + ⟨sam⟩ (⟨saṃgacchate⟩) come together, meet. | కలుసుకొను, సంగమించు
+V ji | + ⟨parā⟩ (⟨parājayate⟩) be conquered (*rarely w. act. sense:* conquer). | ఓడిపోవు (అరుదుగా కర్తరి అర్థంలో: జయించు)
+V pad | + ⟨pra⟩ (⟨prapadyate⟩) flee for refuge (*acc.*) to (*acc. of person*). | శరణు పొందు (ద్వితీయతో)
+V bhikṣ | (⟨bhikṣate⟩) beg, get by begging. | భిక్షమెత్తు, యాచించు
+V mṛgaya | (denom. — ⟨mṛgayate⟩) hunt for, seek. | వెదకు, వేటాడు
+V vṛt | (⟨vartate⟩) exist, subsist, be, become. | ఉండు, జీవించు, అగు
+V śubh | (⟨śobhate⟩) be brilliant, shine; be eminent. | ప్రకాశించు, శోభించు
+¶ Subst.:
+V iṣu | m., arrow. | బాణం
+V kanyā | f., daughter, maiden. | కూతురు, కన్య
+@69
+V gaṅgā | f., *n. pr.*, the Ganges. | గంగ
+V gṛhastha | m., householder, head of family. | గృహస్థుడు
+V chāyā | f., shade. | నీడ
+V prayāga | m., *nom. pr.*, Prayāga (a city, Allahābād). | ప్రయాగ (ఒక నగరం)
+V bhaya | n., fear. | భయం
+V bhāryā | f., wife, woman. | భార్య, స్త్రీ
+V bhāṣā | f., speech, language. | భాష, మాట
+V bhikṣā | f., alms. | భిక్ష
+V yamunā | f., *n. pr.*, Yamunā (a river, the Jumna). | యమున (ఒక నది)
+V raṇa | m., n., battle. | యుద్ధం
+V rathyā | f., street. | వీధి
+V vidyā | f., knowledge, learning. | విద్య, జ్ఞానం
+V vihaga | m., bird. | పక్షి
+V vyādha | m., hunter. | వేటగాడు
+V śaraṇa | n., protection. | శరణు, రక్షణ
+V saṃdhyā | f., twilight. | సంధ్య
+V svarga | m., heaven. | స్వర్గం
+V hṛdaya | n., heart. | హృదయం
+¶ Adj.:
+V kṛṣṇa | f. ā, black. | నల్లని
+V pāpa | f. ā, bad, wicked. | చెడ్డ, పాపి
+V prabhūta | f. ā, much, abundant; pl. many. | అధికమైన, విస్తారమైన; (బహువచనంలో) చాలా
+¶ Adv.:
+V saha | together with (*postpos., w. instr.*). | తో కూడి (తృతీయతో, పదం వెనుక వస్తుంది)
+V sahasā | suddenly, quickly. | హఠాత్తుగా, వెంటనే
+## Exercise IX
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | ratnaṃ ratnena saṃgacchate∗ | Jewel meets jewel. | రత్నం రత్నంతో కలుస్తుంది.
+S 2 | yadā vihagā vyādhaṃ paśyanti tadā sahasotpatanti | When the birds see the hunter, then they suddenly fly up. | పక్షులు వేటగాడిని చూసినప్పుడు హఠాత్తుగా ఎగిరిపోతాయి.
+S 3 | satyaṃ hṛdayeṣu mṛgayanta ṛṣayaḥ | The seers seek the truth in their hearts. | ఋషులు సత్యాన్ని హృదయాలలో వెదుకుతారు.
+S 4 | hareḥ kanyāṃ rāmaḥ pariṇayati | Rāma marries Hari’s daughter. | రాముడు హరి కూతురిని వివాహమాడతాడు.
+S 5 | viṣṇor hareś ca bhārye kanyābhiḥ sahāgacchataḥ | The wives of Viṣṇu and of Hari come together with the girls. | విష్ణువు, హరి భార్యలిద్దరూ కన్యలతో కలిసి వస్తారు.
+S 6 | rāmo viṣṇuś ca devāñ charaṇaṃ prapadyete | Rāma and Viṣṇu take refuge with the gods. | రాముడు, విష్ణువు దేవతల శరణు పొందుతారు.
+S 7 | bhikṣayā rāmasya śiṣyau vartete | Rāma’s two pupils live by begging. | రాముని ఇద్దరు శిష్యులు భిక్షతో జీవిస్తున్నారు.
+S 8 | yadā janā gaṅgāyāṃ mriyante tadā svargaṃ labhante | When people die in the Ganges, then they attain heaven. | ప్రజలు గంగలో మరణించినప్పుడు స్వర్గాన్ని పొందుతారు.
+S 9 | kanyāyā annaṃ yacchaty ṛṣer bhāryā | The seer’s wife gives food to the girl. [Perry cites § 164: kanyāyā stands for kanyāyai.] | ఋషి భార్య కన్యకు అన్నం ఇస్తుంది. [పెర్రీ § 164 ను చూపిస్తాడు: kanyāyā అంటే kanyāyai.]
+S 10 | vana ṛkṣeṣv iṣūn muñcanti vyādhāḥ kṛṣṇau ca mriyete | In the forest the hunters shoot arrows at the bears, and the two black ones die. | అడవిలో వేటగాళ్ళు ఎలుగుబంట్లపై బాణాలు వదులుతారు, రెండు నల్లవి చస్తాయి.
+S 11 | dvijātīnāṃ bhāṣāṃ śūdrā nāvagacchanti | The Śūdras do not understand the language of the Aryans. | శూద్రులు ద్విజుల భాషను అర్థం చేసుకోరు.
+S 12 | he śiṣyā nagarasya rathyāsu sādhūnāṃ bhāryābhyo 'dya bhikṣāṃ labhadhve | O pupils, today in the streets of the city you receive alms from the wives of the saints. | ఓ శిష్యులారా, ఈ రోజు నగరపు వీధులలో సాధువుల భార్యల నుండి భిక్ష పొందుతున్నారు.
+S 13 | atra cchāyāyāṃ prabhūtā vihagās tiṣṭhanti | Here many birds stay in the shade. | ఇక్కడ నీడలో చాలా పక్షులు ఉన్నాయి.
+S 14 | kṣatriyasya bālāv ṛṣir upanayati | The seer brings the warrior’s two boys to him for initiation. | ఋషి క్షత్రియుని ఇద్దరు బాలురకు ఉపనయనం చేస్తాడు.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Words in italics are not to be translated, and the superior figures give the position of the Sanskrit word in the sentence.
+E 15 | The two scholars¹ beg⁶ much² alms³ *from* the wives⁵ of the householders⁴. | śiṣyau prabhūtāṃ bhikṣāṃ gṛhasthānāṃ bhāryābhyo bhikṣete | ఇద్దరు శిష్యులు గృహస్థుల భార్యల నుండి చాలా భిక్షను అడుగుతారు.
+E 16 | *At* Prayāga¹ the Ganges² unites⁴ *with* the Yamunā³. | prayāge gaṅgā yamunayā saṃgacchate | ప్రయాగలో గంగ యమునతో కలుస్తుంది.
+E 17 | Bad¹ men² do not⁴ reach⁵ (⟨labh⟩) heaven³. | pāpā janā na svargaṃ labhante | చెడ్డ మనుషులు స్వర్గాన్ని పొందరు.
+E 18 | O Viṣṇu¹, to-day³ Çiva² marries⁷ Gaṅgā⁶, Hari’s⁴ daughter⁵. | he viṣṇo śivo 'dya hareḥ kanyāṃ gaṅgāṃ pariṇayati | ఓ విష్ణూ, ఈ రోజు శివుడు హరి కూతురైన గంగను వివాహమాడతాడు.
+E 19 | *In* the battle¹ the kings³ fight⁴ *with* arrows² and⁶ conquer⁷ *their* enemies⁵. | raṇa iṣubhir nṛpā yudhyante 'rīṃś ca jayanti | యుద్ధంలో రాజులు బాణాలతో పోరాడుతారు, శత్రువులను జయిస్తారు.
+E 20 | Here² *in* the street³ the *two* kings¹ dismount⁶ *from their* black⁴ horses⁵. | nṛpāv atra rathyāyāṃ kṛṣṇābhyām aśvābhyām avarohataḥ | ఇక్కడ వీధిలో ఇద్దరు రాజులు తమ నల్లని గుర్రాల మీద నుండి దిగుతారు.
+E 21 | The seer’s² *two* sons³ are eminent⁴ *in* learning¹ (*instr.*). | vidyayarṣeḥ putrau śobhete | ఋషి ఇద్దరు కొడుకులు విద్యలో ప్రకాశిస్తారు.
+E 22 | *From* fear³ of the wicked¹ hunters² (*abl.*) *two* birds⁴ fly up⁵. | pāpānāṃ vyādhānāṃ bhayād vihagāv utpatataḥ | దుష్టులైన వేటగాళ్ళ భయం వలన రెండు పక్షులు ఎగిరిపోతాయి.
+E 23 | *At* twilight¹ (*loc. du.*) the seers² (§ 13, 3) reverence⁴ the gods³. | saṃdhyayor ṛṣayo devān vandante | సంధ్యల వద్ద ఋషులు దేవతలను నమస్కరిస్తారు.
+E 24 | *In* the street² of the village¹ the teacher³ and⁵ the scholar⁴ meet⁶. | grāmasya rathyāyāṃ guruḥ śiṣyaś ca saṃgacchete | ఊరి వీధిలో గురువు, శిష్యుడు కలుసుకుంటారు.
+E 25 | We *two* sacrifice² *to* the gods¹ *for ourselves*; we do not⁴ sacrifice⁵ *for* Hari³. | devān yajāvahe harim na yajāvaḥ | మేమిద్దరం మా కోసం దేవతలను ఆరాధిస్తాము; హరిని ఆరాధించము.
+¶ ∗ “Birds of a feather flock together”.
