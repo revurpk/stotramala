@@ -1,0 +1,78 @@
+# Perry, A Sanskrit Primer. Lesson XVII = p. 71 (from the heading) to p. 74 (to the end of the exercise) = leaves n90–n93 of the Cornell scan.
+% Verbs: the present optative middle (labheya); the stem nau; the declension of stems in long vowels
+! In the paradigm of viśvapā (§ 213) Perry prints, in the dual of the accusative row, the form viśvapābhyām and, in the dual of the instrumental row, viśvapos (with the transliteration viśvap-os); both are misplaced (the first belongs to the instrumental and the second is the genitive-locative). They are kept as printed.
+! § 212 reads “those in ā are rare that it is not possible …” in this scan (so rare, evidently); it is kept as printed. Perry’s āi and āu are written ai and au; accents on the verbs and on the nouns are not carried.
+! Exercise XVII opens with a verse Perry numbers ॥ 6 ॥ (nābhinandeta maraṇaṃ …, “Let him not rejoice in death nor in life, let him await his time, as a servant his orders”), with his footnote ∗ (“Rule for an ascetic …”); his sentences are then numbered 1–11, and the English ones 12–22. Sentence 1 is printed bhrātāra stenāḥ śarān amuñcan, the first word without its visarga; sentence 2 pairs the singular naraḥ with the plural anutiṣṭheyus; both are kept as printed. Sentence 2’s last verb is read śasyeran (the passive of śaṃs, § 170).
+@90
+## Lesson XVII
+¶ **210. Verbs, ⟨a⟩-conjugation. Present Optative Middle.** The optative middle (and passive) of ⟨a⟩-stems, formed as shown in the preceding lesson, is inflected as follows:
+T  | Sing. | Dual. | Plural.
+R 1. | ⟨labheya⟩ | ⟨labhevahi⟩ | ⟨labhemahi⟩
+R 2. | ⟨labhethās⟩ | ⟨labheyāthām⟩ | ⟨labhedhvam⟩
+R 3. | ⟨labheta⟩ | ⟨labheyātām⟩ | ⟨labheran⟩
+¶ Similarly ⟨coryeya⟩, ⟨saṃgaccheya⟩, etc.
+¶ **211. Declension.** The stem ⟨nau⟩ f., ‘ship, boat’, is entirely regular, taking throughout the normal endings, as given in § 90. Thus: ⟨naus⟩, ⟨nāvam⟩, ⟨nāvā⟩, etc.; ⟨nāvau⟩, ⟨naubhyām⟩, etc.; ⟨nāvas⟩, ⟨naubhis⟩, etc.
+@91
+¶ **212.** The stems ending in long vowels (⟨ā⟩, ⟨ī⟩, ⟨ū⟩) fall into two well-marked classes: A. **root-stems — mostly monosyllabic — and their compounds,** with a comparatively small number of others inflected like them; B. **derivative feminine stems** in ⟨ā⟩ and ⟨ī⟩, with a few in ⟨ū⟩, inflected like ⟨jāyā⟩, ⟨nadī⟩ and ⟨vadhū⟩. The stems of class A take the normal endings throughout, with optional exceptions in dat., abl.-gen., and loc. sing. fem., and with ⟨n⟩ inserted before ⟨ām⟩ of the gen. pl. The simple words are as nouns with few exceptions fem.; as adjectives (rare), and in adjective compounds, they coincide in masc. and fem. forms. The declension of the simple words in ⟨ī⟩ and ⟨ū⟩ has been given (in §§ 189, 197); those in ⟨ā⟩ are rare that it is not possible to make up a whole scheme of forms in actual use.
+¶ **213.** When any root in ⟨ā⟩ or ⟨ī⟩ or ⟨ū⟩ is found as final member of a compound word, these root-finals are treated as follows: 1. Roots in ⟨ā⟩ lose that vowel before vowel-endings, except in the strong cases and in the acc. pl., which is like the nominative. Thus, ⟨viśva-pā⟩ m., f., ‘all-protecting’:
+T  | Sing. | Dual. | Plural.
+R N.V. | ⟨viśvapās⟩ ⟨-pās⟩ | ⟨viśvapau⟩ ⟨-pau⟩ | ⟨viśvapās⟩ ⟨-pās⟩
+R A. | ⟨viśvapām⟩ ⟨-pām⟩ | ⟨viśvapābhyām⟩ | „ „
+R I. | ⟨viśvapā⟩ ⟨viśvap-ā⟩ | ⟨viśvapos⟩ ⟨viśvap-os⟩ | ⟨viśvapābhis⟩ etc.
+¶ **214.** 2. Roots in ⟨ī⟩ and ⟨ū⟩ change their final vowel, before vowel-endings, into ⟨y⟩ and ⟨v⟩, if but one consonant precede the final vowel; but if two or more consonants precede, the change is into ⟨iy⟩ and ⟨uv⟩. Thus, ⟨yava-krī⟩ m., f., ‘corn-buying’: nom.-voc. ⟨yavakrīs⟩, acc. ⟨yavakriyam⟩; ⟨khala-pū⟩ m., f., ‘street-sweeper’: nom. sing. ⟨khalapūs⟩, acc. ⟨khalapvam⟩.
+@92
+## Vocabulary XVII
+¶ Verbs:
+V īkṣ | + ⟨prati⟩ (⟨pratīkṣate⟩) expect. | ఎదురుచూచు
+V nand | + ⟨abhi⟩ (⟨abhinandati⟩, *poet.* ⟨-te⟩) rejoice in, greet with joy (*acc.*). | సంతోషించు, స్వాగతించు (ద్వితీయతో)
+V ram | (⟨ramate⟩) amuse oneself. | క్రీడించు, ఆనందించు
+V ram | + ⟨vi⟩ (⟨viramati⟩) cease from (*abl.*); cease. | విరమించు (పంచమితో)
+V sthā | + ⟨anu⟩ (⟨anutiṣṭhati⟩) follow out, accomplish. | ఆచరించు, నెరవేర్చు
+¶ Subst.:
+V udyāna | n., garden. | ఉద్యానవనం, తోట
+V kṛṣi | f., agriculture. | వ్యవసాయం
+V jīvita | n., life. | జీవితం
+V nirdeśa | m., command. | ఆజ్ఞ
+V pāśupālya | n., cattle-raising. | పశుపోషణ
+V purohita | m., domestic priest, chaplain. | పురోహితుడు
+V bhakṣaṇa | n., eating. | భక్షణ, తినుట
+V bhṛtaka | m., servant. | సేవకుడు
+V maraṇa | n., death. | మరణం
+V mitra | n., friend. | మిత్రుడు
+V yuddha | n., battle. | యుద్ధం
+V vāṇijya | n., trade. | వాణిజ్యం
+V vidhi | m., rule; fate. | విధి, నియమం
+V śvaśura | m., father-in-law. | మామ
+¶ Adj.:
+V bhadra | f. ā, good, pleasant, dear; *as n. subst.*, fortune. | మంచి, ప్రియమైన; (నపుంసకంగా) శుభం
+V saṃdigdha | f. ā, doubtful; unsteady. | సందేహాస్పదమైన; అస్థిరమైన
+## Exercise XVII
+¶ The exercise opens with a verse, in two halves (the translations are the editor’s):
+S a | nābhinandeta maraṇaṃ nābhinandeta jīvitam | One should not rejoice in death, nor rejoice in life; | మరణాన్ని స్వాగతించకూడదు, జీవితాన్నీ స్వాగతించకూడదు;
+S b | kālam eva pratīkṣeta nirdeśaṃ bhṛtako yathā∗ | one should await one’s time only, as a servant awaits his master’s command. | సేవకుడు యజమాని ఆజ్ఞ కోసం ఎదురుచూసినట్లు తన కాలం కోసమే ఎదురుచూడాలి.
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | bhrātāra stenāḥ śarān amuñcan | The brothers, the thieves, loosed arrows. | దొంగలైన సోదరులు బాణాలు వదిలారు.
+S 2 | yadi naraḥ śruteḥ smṛteś ca vidhīn anutiṣṭheyus tadā sādhubhiḥ śasyeran | If men should follow the rules of the holy writ and the law-books, they would be praised by the good. | మనుషులు శ్రుతి, స్మృతుల నియమాలను ఆచరిస్తే సాధువులు వారిని స్తుతిస్తారు.
+S 3 | vaiśyāḥ kṛṣyā vāṇijyena pāśupālyena vā varteran | The Vaiśyas would live by agriculture, trade, or cattle-raising. | వైశ్యులు వ్యవసాయం, వాణిజ్యం లేదా పశుపోషణతో జీవిస్తారు.
+S 4 | saṃdigdhāṃ nāvaṃ nārohet | One should not board an unsteady boat. | అస్థిరమైన పడవ ఎక్కకూడదు.
+S 5 | yadi gaṅgāyā vāriṇi mriyedhvaṃ tadā svargaṃ labhedhvam | If you should die in the water of the Ganges, then you would attain heaven. | మీరు గంగా జలంలో మరణిస్తే స్వర్గాన్ని పొందుతారు.
+S 6 | jāmātaraḥ śvaśurān snuṣāḥ śvaśrūr duhitaraś ca putrāś ca pitarau severan | Sons-in-law should serve their fathers-in-law, daughters-in-law their mothers-in-law, and daughters and sons their parents. | అల్లుళ్ళు మామలను, కోడళ్ళు అత్తలను, కూతుళ్ళు కొడుకులు తల్లిదండ్రులను సేవించాలి.
+S 7 | brāhmaṇair nāvodadhir na tīryeta | The ocean should not be crossed by Brāhmans in a ship. | బ్రాహ్మణులు నావతో సముద్రాన్ని దాటకూడదు.
+S 8 | śatrubhir na parājayethā iti nṛpatiṃ prajā vadanti | “May you not be conquered by enemies”: thus the people say to the king. | “శత్రువుల చేతిలో నీవు ఓడిపోకుందువు గాక” అని ప్రజలు రాజుతో అంటారు.
+S 9 | nṛpatī aribhir yudhyeyātām | The two kings might fight with the enemies. | ఇద్దరు రాజులు శత్రువులతో పోరాడవచ్చు.
+S 10 | nauṣu yuddham abhavat | There was a battle in the ships. | నావలలో యుద్ధం జరిగింది.
+S 11 | bālāv udyāne rameyātām | The two boys might play in the garden. | ఇద్దరు బాలురు తోటలో ఆడవచ్చు.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Words in italics are not to be translated.
+@93
+E 12 | Let fodder be brought (⟨ā-hṛ⟩) (*opt.*, *imv.*) by the brother *for* the horses of the all-protecting king. | viśvapasya nṛpasyāśvebhyo bhrātrā ghāsa āhriyeta | విశ్వరక్షకుడైన రాజు గుర్రాల కోసం సోదరుడు గడ్డి తేవాలి.
+E 13 | May ye see good fortune (*pl.*); may ye acquire (⟨labh⟩) glory. | bhadrāṇi paśyetha kīrtiṃ labhedhvam | మీరు శుభాలను చూడండి; కీర్తిని పొందండి.
+E 14 | The king with his warriors crossed the sea in a ship. | nṛpaḥ kṣatriyaiḥ saha nāvā samudram atarat | రాజు తన యోధులతో కలిసి నావతో సముద్రాన్ని దాటాడు.
+E 15 | Tell (*opt.*, *imv.*) where our friends may meet with *their* brothers. | kutrāsmākaṃ mitrāṇi bhrātṛbhiḥ saṃgaccheran iti vadeḥ | మా మిత్రులు తమ సోదరులతో ఎక్కడ కలుసుకుంటారో చెప్పు.
+E 16 | You may amuse yourselves in the garden, but cease eating (*abl. of* ⟨bhakṣaṇa⟩) the fruits (*gen.*). | udyāne ramethāḥ phalānāṃ bhakṣaṇād viramata | మీరు తోటలో ఆడవచ్చు, కానీ పండ్లు తినడం మానండి.
+E 17 | Mayest thou be saved by the all-protector from *thy* misfortune. | viśvapā tvām anarthād rakṣet | విశ్వరక్షకుడు నిన్ను అనర్థం నుండి రక్షించుగాక.
+E 18 | To-day let the king’s two sons be consecrated (*opt.*, *imv.*) by the house-priest. | adya nṛpasya putrau purohitenopanīyetām | ఈ రోజు రాజు ఇద్దరు కొడుకులకు పురోహితుడు ఉపనయనం చేయాలి.
+E 19 | Ye both shall greet (*opt.*, *imv.*) *your* parents. | pitarāv abhinandetam | మీరిద్దరూ మీ తల్లిదండ్రులను స్వాగతించండి.
+E 20 | If we two should speak untruth, then we should be punished by the king. | yady anṛtaṃ vadeva tadā nṛpeṇa daṇḍyemahi | మేమిద్దరం అసత్యం పలికితే రాజు మమ్మల్ని శిక్షిస్తాడు.
+E 21 | May I conquer the enemies *with my* brave warriors: thus is the king’s wish (*use* ⟨iṣ⟩ *pass.*). | dhīraiḥ kṣatriyaiḥ śatrūñ jayeyam iti nṛpasyecchā | “నా ధీరులైన యోధులతో శత్రువులను జయించుదునుగాక” అనేది రాజు కోరిక.
+E 22 | May we receive the reward of virtue. | dharmasya phalaṃ labhemahi | మేము ధర్మఫలాన్ని పొందుదుము గాక.
+¶ ∗ Rule for an ascetic, who is to put aside all earthly desires and passions.
