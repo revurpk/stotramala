@@ -1362,6 +1362,7 @@ The English glosses, one for each khaṇḍa, are original.
 | 8 | 22 | n189–n197 | 150–158 | 26, all OCR failures |
 | 9 | 43 | n198–n211 | 159–172 | 48, all OCR failures |
 | 10 | 47 | n212–n228 | 173–189 | 41, all OCR failures |
+| 11 | 50 | n229–n244 | 190–205 | 49, all OCR failures |
 
 **Not Wikisource.** Sanskrit Wikisource's Nirukta is copied from the
 Maharishi University of Management Vedic Literature Collection, which is
