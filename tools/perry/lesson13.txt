@@ -1,0 +1,106 @@
+# Perry, A Sanskrit Primer. Lesson XIII = p. 59 (from the heading) to p. 62 (to the end of the exercise) = leaves n78–n81 of the Cornell scan.
+% Verbs: the imperfect middle (alabhe); root-words in ī (dhī); more prefixes; the verse of greed
+! Perry’s āi and āu are written ai and au; the augmented forms carry an accent (álabhe) that is not carried.
+! The footnote at the foot of p. 61 (continued on p. 62) says that, the principal euphonic rules having now been taught, Perry no longer marks by figures the position of the words in the Sanskrit; the English sentences from no. 15 on carry none.
+! Exercise XIII opens with a verse Perry numbers ॥ 2 ॥ (lobhāt krodhaḥ prabhavati …, “From greed anger arises …”); his sentences are then numbered 1–25. Sentence 10 is printed bhānumaitrarṣiḥ, with no verb, and is kept so; sentence 10’s translation is the editor’s best reading. Sentence 1 reads pratyaṣidhyata, sentence 7 adhyaṣṭhīyata, sentence 8 śriyāśobhata (śriyā aśobhata).
+! In the editor’s answers, 16 leaves out Perry’s “ye” (the pronoun is not taught until a later lesson) and 18 uses buddhyā where Perry’s English says “its cleverness”.
+@78
+## Lesson XIII
+¶ **188. Verbs, ⟨a⟩-conjugation. Imperfect Middle.** The imperfect middle of verbs in ⟨a⟩ is as follows:
+T  | Sing. | Dual. | Plural.
+R 1. | ⟨alabhe⟩ (a + i) | ⟨alabhāvahi⟩ | ⟨alabhāmahi⟩
+R 2. | ⟨alabhathās⟩ | ⟨alabhethām⟩ | ⟨alabhadhvam⟩
+R 3. | ⟨alabhata⟩ | ⟨alabhetām⟩ | ⟨alabhanta⟩
+¶ With ⟨ethām⟩ and ⟨etām⟩ of the dual, cf. ⟨ethe⟩ and ⟨ete⟩ of the pres. ind. mid.
+¶ **189. Root-words in ⟨ī⟩** are declined as follows:
+T  | Sing. | Dual. | Plural.
+R N. V. | ⟨dhīs⟩ | ⟨dhiyau⟩ | ⟨dhiyas⟩
+R A. | ⟨dhiyam⟩ | „ „ | „ „
+R I. | ⟨dhiyā⟩ | ⟨dhībhyām⟩ | ⟨dhībhis⟩
+R D. | ⟨dhiye⟩ | „ „ | ⟨dhībhyas⟩
+R Abl. | ⟨dhiyas⟩ | „ „ | „ „
+R G. | „ „ | ⟨dhiyos⟩ | ⟨dhiyām⟩
+R L. | ⟨dhiyi⟩ | „ „ | ⟨dhīṣu⟩
+¶ In the D., Ab.-Gen., and L. sing., and G. pl., these stems sometimes follow ⟨nadī⟩; thus, ⟨dhiyai⟩, ⟨dhiyās⟩, ⟨dhiyām⟩, ⟨dhīnām⟩. Cf. § 185. Observe that where the case-ending begins with a vowel the stem-final ⟨ī⟩ is split into ⟨iy⟩.
+@79
+¶ **190.** The following additional prefixes are used with verbs: ⟨adhi⟩ ‘over, above, on’; ⟨api⟩ ‘unto, close upon’∗; ⟨abhi⟩ ‘to, unto’, ‘against’ (often with implied violence); ⟨ni⟩ ‘down, into, in’; ⟨prati⟩ ‘back to, against, in return’; ⟨vi⟩ ‘apart, away, out’.
+¶ **191.** Both in verbal forms and in derivatives, the final ⟨i⟩ or ⟨u⟩ of a prefix ordinarily lingualizes the initial ⟨s⟩ of a root to which it is prefixed; and, in a few cases, the ⟨ṣ⟩ remains even after an interposed ⟨a⟩ of augment or reduplication; thus, from ⟨sad⟩ + ⟨ni⟩, ⟨niṣīdati⟩; ⟨sthā⟩ + ⟨adhi⟩, pres. pass. ⟨adhiṣṭhīyate⟩, impf. pass. ⟨adhyaṣṭhīyata⟩.
+¶ **192.** The final ⟨s⟩ of prefixes in ⟨is⟩ and ⟨us⟩ becomes ⟨ṣ⟩ before initial ⟨k⟩, ⟨kh⟩, ⟨p⟩, ⟨ph⟩; thus, from ⟨pad⟩ + ⟨nis⟩, ⟨niṣpadyate⟩.
+## Vocabulary XIII
+¶ Verbs:
+V kram | + ⟨ati⟩ (⟨atikrāmati⟩, ⟨-kramate⟩) pass beyond or by, transgress. | దాటు, అతిక్రమించు
+V jan | + ⟨ud⟩ (⟨ujjāyate⟩) be born, arise from (*abl.*). | పుట్టు, ఉద్భవించు (పంచమితో)
+V jan | + ⟨pra⟩ arise, come into existence. | ఉద్భవించు, పుట్టు
+V dhā | + ⟨api⟩ cover, keep shut. | కప్పు, మూసి ఉంచు
+V naś | + ⟨vi⟩ (⟨vinaśyati⟩) disappear, perish. | అదృశ్యమగు, నశించు
+V nah | + ⟨sam⟩ (⟨saṃnahyati⟩) gird; equip. | కట్టు; సన్నద్ధం చేయు
+V pad | + ⟨nis⟩ (⟨niṣpadyate⟩) grow; arise from (*abl.*). | పెరుగు; కలుగు (పంచమితో)
+V bhāṣ | + ⟨prati⟩ (⟨pratibhāṣate⟩) answer (*w. acc. of pers.*). | జవాబిచ్చు (ద్వితీయతో)
+V bhū | + ⟨pra⟩ arise; rule. | పుట్టు; పాలించు
+V rac | (⟨racayati⟩) arrange, compose (a literary work). | కూర్చు, రచించు
+V sidh | + ⟨prati⟩ (⟨pratiṣedhati⟩) hold back; forbid. | నిరోధించు, నిషేధించు
+V sev | + ⟨ni⟩ (⟨niṣevate⟩) dwell; devote oneself to; attend. | నివసించు; అంకితమగు; సేవించు
+V sthā | + ⟨adhi⟩ mount, stand above or over; rule, govern. | ఎక్కు; పాలించు
+V han | + ⟨prati⟩ hinder; injure; offend. | అడ్డగించు; హాని చేయు; అపచారం చేయు
+@80
+¶ Subst.:
+V anujñā | f., permission. | అనుమతి
+V īśvara | m., god; lord. | ఈశ్వరుడు, ప్రభువు
+V kapota | m., dove. | పావురం
+V karṇa | m., ear. | చెవి
+V kāma | m., love, desire. | కామం, కోరిక
+V kāraṇa | n., reason, cause. | కారణం
+V krodha | m., anger. | కోపం
+V jāla | n., net. | వల
+V dhī | f., understanding, insight. | బుద్ధి, వివేకం
+V nāśa | m., destruction. | నాశనం
+V padma | m., n., lotus. | పద్మం
+V puruṣa | m., man (*homo*). | పురుషుడు
+V mahārāja | m., great king. | మహారాజు
+V muni | m., sage; ascetic. | ముని
+V mekhalā | f., girdle. | మొలత్రాడు
+V moha | m., infatuation. | మోహం
+V ratha | m., wagon. | రథం
+V lobha | m., desire, avarice. | లోభం, పిసినారితనం
+V vasati | f., dwelling. | నివాసం
+V śrī | f., luck, fortune, riches; *as nom. pr.*, goddess of fortune. | సిరి, లక్ష్మి
+V samudra | m., ocean. | సముద్రం
+V sṛṣṭi | f., creation. | సృష్టి
+V hrī | f., modesty, bashfulness. | సిగ్గు, వినయం
+¶ Adj.:
+V kṛtsna | f. ā, whole. | మొత్తం, సమస్తమైన
+V cāru | f. -vī, beautiful. | అందమైన
+V dhīra | f. ā, steadfast, brave. | ధీరుడు, ధైర్యవంతుడు
+V śveta | f. ā, white. | తెల్లని
+## Exercise XIII
+¶ The exercise opens with a verse, in two halves (the translations are the editor’s):
+S a | lobhāt krodhaḥ prabhavati lobhāt kāmaḥ prajāyate | From greed anger arises; from greed desire is born. | లోభం వలన కోపం కలుగుతుంది; లోభం వలన కామం పుడుతుంది.
+S b | lobhān mohaś ca nāśaś ca lobhaḥ pāpasya kāraṇam | From greed come infatuation and destruction; greed is the cause of sin. | లోభం వలన మోహం, నాశనం కలుగుతాయి; లోభమే పాపానికి కారణం.
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | nṛpatir ṛṣiṇā pāpāt pratyaṣidhyata | The king was held back from sin by the seer. | రాజు ఋషి వలన పాపం నుండి నిరోధించబడ్డాడు.
+S 2 | harer bhāryāyāṃ cāravaḥ putrā ajāyanta | Handsome sons were born to Hari’s wife. | హరి భార్యకు అందమైన కొడుకులు పుట్టారు.
+S 3 | dhīraṃ puruṣaṃ śriyaḥ sadā niṣevante | The fortunes always attend the steadfast man. | సంపదలు ఎల్లప్పుడూ ధీరుడైన మనిషిని ఆశ్రయిస్తాయి.
+S 4 | pārthivasyājñāṃ śatrū atyakramatām | The two enemies transgressed the prince’s command. | ఇద్దరు శత్రువులు రాజు ఆజ్ఞను అతిక్రమించారు.
+S 5 | padmaṃ śriyā vasatiḥ | The lotus is the dwelling of Śrī (the goddess of fortune). [Perry marks śriyā as genitive.] | పద్మం శ్రీదేవి నివాసం. [పెర్రీ śriyā ను షష్ఠీ అని సూచిస్తాడు.]
+S 6 | dhiyo balena puruṣā duḥkhāni pārayanti | By the power of insight men overcome sorrows. | బుద్ధి బలంతో మనుషులు దుఃఖాలను అధిగమిస్తారు.
+S 7 | ratho 'dhyaṣṭhīyata rāmeṇa | The chariot was mounted by Rāma. | రథాన్ని రాముడు ఎక్కాడు.
+S 8 | kaver gṛhaṃ śriyāśobhata | The poet’s house shone with riches. | కవి ఇల్లు సంపదతో ప్రకాశించింది.
+S 9 | śiśū āhvayethāṃ jananyā | The two children were called by their mother. | ఇద్దరు పిల్లలను తల్లి పిలిచింది.
+S 10 | bhānumaitrarṣiḥ | [Printed without a verb: “the sun, the friendly seer”.] | [క్రియ లేకుండా ముద్రించబడింది: “సూర్యుడు, మైత్రీ ఋషి”.]
+S 11 | guror anujñayā kaṭe śiṣyāv upāviśatām | By the teacher’s permission the two pupils sat down on the mat. | గురువు అనుమతితో ఇద్దరు శిష్యులు చాప మీద కూర్చున్నారు.
+S 12 | munir īśvarasya sṛṣṭiṃ dhyāyati | The sage meditates on the Lord’s creation. | ముని ఈశ్వరుని సృష్టిని ధ్యానిస్తాడు.
+S 13 | kṣetreṣu dhānyaṃ niṣpadyate | Grain grows in the fields. | పొలాలలో ధాన్యం పండుతుంది.
+S 14 | guravo granthān racayanti śiṣyāś ca pustakāni likhanti | The teachers compose works, and the pupils write books. | గురువులు గ్రంథాలను రచిస్తారు, శిష్యులు పుస్తకాలను రాస్తారు.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). From here Perry no longer numbers the words; words in italics are not to be translated.
+E 15 | The goddess of fortune was born from the ocean. | śrīḥ samudrād udajāyata | లక్ష్మీదేవి సముద్రం నుండి పుట్టింది.
+E 16 | Why did *ye* hold *your* ears shut? (*pass. constr.*) | kutaḥ karṇā apidhīyanta | చెవులు ఎందుకు మూయబడ్డాయి?
+E 17 | “The Çūdras spoke the language of the Aryans”: thus answered (*impers. pass.*) the Brahmans. | śūdrā dvijātīnāṃ bhāṣām abhāṣanta iti brāhmaṇaiḥ pratyabhāṣyata | “శూద్రులు ద్విజుల భాష మాట్లాడారు” అని బ్రాహ్మణులు జవాబిచ్చారు.
+E 18 | By its cleverness the dove was freed from the net. | buddhyā kapoto jālād amucyata | తన తెలివితో పావురం వల నుండి విడిపించబడింది.
+E 19 | The teacher girded both boys with the girdle. | guruḥ śiśū mekhalayā samanahyat | గురువు ఇద్దరు పిల్లలకు మొలత్రాడు కట్టాడు.
+E 20 | When the scholar’s modesty disappeared, then the law was offended *against*. | yadā śiṣyasya hrīr vyanaśyat tadā dharmaḥ pratyahanyata | శిష్యుని సిగ్గు పోయినప్పుడు ధర్మానికి అపచారం జరిగింది.
+E 21 | Whence did ye get (⟨labh⟩) the white cows? | kuto 'labhadhvaṃ śvetā gāḥ | మీరు తెల్ల ఆవులను ఎక్కడి నుండి పొందారు?
+E 22 | The whole earth was ruled by the great king. | kṛtsnā pṛthivī mahārājenādhyaṣṭhīyata | భూమి అంతా మహారాజుచే పాలించబడింది.
+E 23 | For prosperity (*dat.*) we took refuge with the king (⟨pra-pad⟩). | bhūtaye nṛpaṃ śaraṇaṃ prāpadyāmahi | ఐశ్వర్యం కోసం మేము రాజు శరణు పొందాము.
+E 24 | Two law-books were composed by Viṣṇu. | viṣṇunā smṛtī aracyetām | విష్ణువు రెండు స్మృతులను రచించాడు.
+E 25 | The milk of the black cow is drunk by both children. | kṛṣṇāyā dhenoḥ kṣīraṃ śiśubhyāṃ pīyate | నల్ల ఆవు పాలను ఇద్దరు పిల్లలు తాగుతారు.
+¶ ∗ Sometimes, with the verbs ⟨nah⟩ and ⟨dhā⟩, abbreviated to ⟨pi⟩; but in classical Skt. most commonly used as a conjunction: ‘also’, ‘too’.
