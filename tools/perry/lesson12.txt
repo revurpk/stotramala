@@ -1,0 +1,93 @@
+# Perry, A Sanskrit Primer. Lesson XII = p. 56 (from the heading) to p. 59 (to the end of the exercise) = leaves n75–n78 of the Cornell scan.
+% Nouns: feminines in i and u (mati, dhenu); the adjectives in i and u; the verse that opens the exercise
+! Perry’s “kḷp” (klṛp in the native grammarians) is written kḶp, with the capital standing for the vocalic ḷ (ऌ), as the page’s round-trip check does. His accent marks (kálpate, vindáti) are not carried.
+! Exercise XII opens with a verse Perry numbers ॥ 1 ॥ (makṣikā vraṇam icchanti …, “flies want a wound, princes wealth, the base a quarrel, the good peace”); his sentences are then numbered 1–14. It is given as a paragraph, with the editor’s English and Telugu.
+! In sentence 1 the scan reads śāntyarṣaya iha śobhante (śāntyā + ṛṣayaḥ); in sentence 7 hanvām aśvaṃ laghvā yaṣṭyātāḍayam (hanvām the locative of hanu; Perry writes anusvāra for m before l, as in § 94 of the Introduction); sentence 4 is dhṛtyāvindan nṛpatiḥ.
+@75
+## Lesson XII
+¶ **185. Feminine Substantives in ⟨i⟩ and ⟨u⟩** are declined as in the paradigms on the next page. The two series of forms exhibit complete parallelism: where the one shows ⟨i⟩, ⟨y⟩, ⟨e⟩, or ⟨ay⟩, the other shows respectively ⟨u⟩, ⟨v⟩, ⟨o⟩, or ⟨av⟩; cf. §§ 50, 51. In the D., Ab.-G., and L. sing., these stems sometimes follow ⟨nadī⟩; thus ⟨matyai⟩, ⟨-yās⟩, ⟨-yām⟩; ⟨dhenvai⟩, ⟨-vās⟩, ⟨-vām⟩.
+¶ **186. Feminines in ⟨i⟩ and ⟨u⟩:** ⟨mati⟩ ‘opinion’; ⟨dhenu⟩ ‘cow’.
+@76
+T  | Sing. | Dual. | Plural.
+R N. | ⟨matis⟩ | ⟨matī⟩ | ⟨matayas⟩
+R A. | ⟨matim⟩ | „ „ | ⟨matīs⟩
+R I. | ⟨matyā⟩ | ⟨matibhyām⟩ | ⟨matibhis⟩
+R D. | ⟨mataye⟩ | „ „ | ⟨matibhyas⟩
+R Ab. | ⟨mates⟩ | „ „ | „ „
+R G. | „ „ | ⟨matyos⟩ | ⟨matīnām⟩
+R L. | ⟨matau⟩ | „ „ | ⟨matiṣu⟩
+R V. | ⟨mate⟩ |  |
+T  | Sing. | Dual. | Plural.
+R N. | ⟨dhenus⟩ | ⟨dhenū⟩ | ⟨dhenavas⟩
+R A. | ⟨dhenum⟩ | „ „ | ⟨dhenūs⟩
+R I. | ⟨dhenvā⟩ | ⟨dhenubhyām⟩ | ⟨dhenubhis⟩
+R D. | ⟨dhenave⟩ | „ „ | ⟨dhenubhyas⟩
+R Ab. | ⟨dhenos⟩ | „ „ | „ „
+R G. | „ „ | ⟨dhenvos⟩ | ⟨dhenūnām⟩
+R L. | ⟨dhenau⟩ | „ „ | ⟨dhenuṣu⟩
+R V. | ⟨dheno⟩ |  |
+¶ **187.** Adjectives in ⟨i⟩ and ⟨u⟩ are often inflected in the feminine like ⟨mati⟩ and ⟨dhenu⟩. But adjectives in ⟨u⟩ preceded by one consonant often form a derivative feminine stem by adding ⟨ī⟩. Thus, ⟨bahu⟩ ‘much’, N. masc. ⟨bahus⟩, f. ⟨bahvī⟩, n. ⟨bahu⟩; ⟨guru⟩ ‘heavy’, m. ⟨gurus⟩, f. ⟨gurvī⟩, n. ⟨guru⟩. This fem. is then declined like ⟨nadī⟩.
+## Vocabulary XII
+¶ Verbs:
+V kḶp | (⟨kalpate⟩) be in order; tend or conduce to (*w. dat.*). | తగియుండు; దారితీయు (చతుర్థితో)
+V diś | + ⟨upa⟩ (⟨upadiśati⟩) teach, instruct. | బోధించు
+V vid | 2 (⟨vindati⟩, ⟨vindate⟩) acquire. | సంపాదించు, పొందు
+@77
+¶ Subst.:
+V kalaha | m., quarrel. | కలహం
+V kāvya | n., poem. | కావ్యం
+V kīrti | f., glory. | కీర్తి
+V gopa | m., cowherd, shepherd; guardian. | గోపాలుడు; రక్షకుడు
+V jāti | f., birth; caste; kind. | జాతి, పుట్టుక, రకం
+V dhṛti | f., decision of character; courage. | ధైర్యం, స్థిరచిత్తం
+V pārthiva | m., prince. | రాజు, రాజకుమారుడు
+V buddhi | f., prudence, intelligence. | బుద్ధి, వివేకం
+V bhakti | f., devotion, honor. | భక్తి, గౌరవం
+V bhāga | m., part, piece. | భాగం, ముక్క
+V bhūti | f., prosperity, blessing. | ఐశ్వర్యం, శుభం
+V bhūmi | f., earth, ground, land. | భూమి, నేల
+V makṣikā | f., fly, gnat. | ఈగ
+V mukti | f., salvation, deliverance. | ముక్తి, విముక్తి
+V yaṣṭi | f., stick, staff. | కర్ర, దండం
+V raśmi | m., ray; rein. | కిరణం; కళ్ళెం
+V rātri | f., night. | రాత్రి
+V vraṇa | m., wound. | గాయం
+V śānti | f., repose. | శాంతి
+V śruti | f., hearing; holy writ. | వినుట; వేదం
+V smṛti | f., tradition; law-book. | స్మృతి, ధర్మశాస్త్రం
+V svapna | m., sleep; dream. | నిద్ర; కల
+V hanu | f., jaw. | దవడ
+¶ Adj.:
+V nīca | f. ā, low. | నీచమైన
+V mukhya | f. ā, principal, first. | ముఖ్యమైన, ప్రధానమైన
+V laghu | m., f., n., or f. -vī, light. | తేలికైన
+## Exercise XII
+¶ The exercise opens with a verse, in two halves (the translations are the editor’s):
+S a | makṣikā vraṇam icchanti dhanam icchanti pārthivāḥ | Flies want a wound; princes want wealth. | ఈగలు గాయాన్ని కోరుతాయి; రాజులు ధనాన్ని కోరుతారు.
+S b | nīcāḥ kalaham icchanti śāntim icchanti sādhavaḥ | The base want a quarrel; the good want peace. | నీచులు కలహాన్ని కోరుతారు; సాధువులు శాంతిని కోరుతారు.
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | śāntyarṣaya iha śobhante | Through peace the seers shine here. | శాంతి వలన ఋషులు ఇక్కడ ప్రకాశిస్తారు.
+S 2 | śrutau bahvīṣu smṛtiṣu ca dharma upadiśyate | Righteousness is taught in the holy writ and in many law-books. | ధర్మం శ్రుతిలోనూ అనేక స్మృతులలోనూ బోధించబడుతుంది.
+S 3 | rātryāṃ svapnaṃ na labhāmahe | At night we do not get sleep. | రాత్రి మాకు నిద్ర పట్టదు.
+S 4 | bahvīṃ kīrtiṃ dhṛtyāvindan nṛpatiḥ | The king won great glory through courage. | రాజు ధైర్యం వలన గొప్ప కీర్తిని పొందాడు.
+S 5 | puṇyena muktiṃ labhadhve | You obtain deliverance through merit. | మీరు పుణ్యం వలన ముక్తిని పొందుతారు.
+S 6 | bahūn iṣūn raṇe 'riṣv akṣipan nṛpatiḥ | In the battle the king hurled many arrows at the enemies. | యుద్ధంలో రాజు శత్రువులపై అనేక బాణాలు విసిరాడు.
+S 7 | hanvām aśvaṃ laghvā yaṣṭyātāḍayam | I struck the horse on the jaw with a light stick. | నేను గుర్రాన్ని తేలికైన కర్రతో దవడ మీద కొట్టాను.
+S 8 | nṛpater buddhyā kṣatriyāṇāṃ kalaho 'śāmyat | By the king’s prudence the warriors’ quarrel ceased. | రాజు వివేకం వలన క్షత్రియుల కలహం శాంతించింది.
+S 9 | śūdrāṇāṃ jātayo nīcā gaṇyante | The castes of the Śūdras are counted low. | శూద్రుల జాతులు నీచమైనవిగా లెక్కించబడతాయి.
+S 10 | dvijātīnāṃ jātiṣu brāhmaṇā mukhyāḥ | Among the castes of the Aryans the Brāhmans are first. | ద్విజుల జాతులలో బ్రాహ్మణులు ముఖ్యులు.
+S 11 | dharmo bhūtyai kalpate | Righteousness conduces to prosperity. | ధర్మం ఐశ్వర్యానికి దారితీస్తుంది.
+S 12 | jātyā kṣatriyau vartethe | The two of them are warriors by birth. | వారిద్దరూ పుట్టుకతో క్షత్రియులు.
+S 13 | bhūmer bhāgaṃ brāhmaṇāyāyacchat pārthivaḥ | The prince gave a piece of land to the Brāhman. | రాజు బ్రాహ్మణునికి భూమిలో ఒక భాగాన్ని ఇచ్చాడు.
+S 14 | aśvā abhrāmyan bhūmāv apatan ca | The horses wandered about and fell to the ground. | గుర్రాలు తిరిగాయి, నేలపై పడ్డాయి.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Words in italics are not to be translated, and the superior figures give the position of the Sanskrit word in the sentence.
+E 15 | Viṣṇu³ rejoices⁴ *at* the devotion² (*instr.*) of the pious¹ (*pl.*), and⁶ gives⁷ deliverance⁵. | sādhūnāṃ bhaktyā viṣṇus tuṣyati muktiṃ ca yacchati | విష్ణువు సాధువుల భక్తికి సంతోషిస్తాడు, ముక్తిని ఇస్తాడు.
+E 16 | Men³ *of* many¹ castes² dwelt⁵ *in* the city⁴. | bahvīnāṃ jātīnāṃ janā nagare 'vasan | అనేక జాతుల మనుషులు నగరంలో నివసించారు.
+E 17 | The birds¹ see³ the hunter², and⁵ fly up⁶ *from* the ground⁴. | vihagā vyādhaṃ paśyanti bhūmeś cotpatanti | పక్షులు వేటగాడిని చూస్తాయి, నేల నుండి ఎగిరిపోతాయి.
+E 18 | *By* the power² of intelligence¹ we overcame⁴ adversity³. | buddher balenānartham apārayāma | బుద్ధి బలంతో మేము అనర్థాన్ని అధిగమించాము.
+E 19 | The cowherd¹ guards⁴ the cows³ *in* the wood². | gopo vane gā rakṣati | గోపాలుడు అడవిలో ఆవులను కాపాడుతాడు.
+E 20 | *By* intelligence¹ and³ diligence² ye acquire⁶ much⁴ glory⁵. | buddhyodyogena ca bahvīṃ kīrtiṃ vindatha | మీరు బుద్ధి వలన, శ్రద్ధ వలన గొప్ప కీర్తిని పొందుతారు.
+E 21 | The poem¹ tends⁴ *to* the poet’s² glory³ (*two datives*). | kāvyaṃ kaveḥ kīrtaye kalpate | కావ్యం కవి కీర్తికి దారితీస్తుంది.
+E 22 | *For* prosperity¹ we bow *before*³ Çiva² (*acc.*). | bhūtaye śivaṃ namāmaḥ | ఐశ్వర్యం కోసం మేము శివునికి నమస్కరిస్తాము.
+E 23 | The reins¹ are being fastened⁴ (⟨bandh⟩) *to* the horse’s² jaws³ (*loc.*). | raśmayo 'śvasya hanuṣu badhyante | కళ్ళేలు గుర్రం దవడలకు కట్టబడుతున్నాయి.
+E 24 | *In* the night¹ we *both* read³ (*impf.*) holy writ². | rātryāṃ śrutim apaṭhāva | రాత్రి మేమిద్దరం వేదాన్ని చదివాము.
