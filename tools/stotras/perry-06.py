@@ -15,7 +15,7 @@ STOTRA = {
     "sections": [
     {'heading': 'Lesson VI'},
     {'para': '**131. Verbs. ⟨ya⟩-class, cont’d.** The roots of this class which end in ⟨am⟩ lengthen their ⟨a⟩ in forming their present-stem; thus, ⟨tam⟩, ⟨tāmyati⟩; ⟨bhram⟩, ⟨bhrāmyati⟩ — but this last makes some forms with short ⟨a⟩. The root ⟨mad⟩ has the same lengthening: ⟨mādyati⟩.'},
-    {'para': '**132.** Certain ⟨ā⟩-roots (five — by the Hindus written with final ⟨o⟩) make present-stems with an accented ⟨yá⟩; thus, ⟨dā⟩, ⟨dyati⟩.'},
+    {'para': '**132.** Certain ⟨ā⟩-roots (five — by the Hindus written with final ⟨o⟩) make present-stems with an accented ⟨ya⟩; thus, ⟨dā⟩, ⟨dyati⟩.'},
     {'para': '**133.** The root ⟨vyadh⟩ is abbreviated to ⟨vidh⟩ in the present-system: ⟨vidhyati⟩.'},
     {'para': '**134.** The root ⟨kram⟩, said by the natives to form its present-stem according to this class, really forms it only according to the ⟨a⟩-class, and the root-vowel is lengthened in the active voice, but not in the middle; thus, ⟨krāmati⟩, but middle ⟨kramate⟩.'},
     {'para': '**135.** The root ⟨cam⟩, used only with the preposition ⟨ā⟩, forms ⟨ācāmati⟩.'},
