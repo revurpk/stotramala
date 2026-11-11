@@ -43,7 +43,9 @@ SUBTITLE = {1: "Yāska's Nirukta, adhyāya 1 · the introduction: the four kinds
             10: "Yāska's Nirukta, adhyāya 10 · the deities of the mid-air: Vāyu, Varuṇa, Rudra, Indra, "
                 "Parjanya, Bṛhaspati, Yama, Viśvakarman, Savitṛ and others",
             11: "Yāska's Nirukta, adhyāya 11 · the rest of the mid-air: Soma, the moon, death, the groups of gods, "
-                "and the goddesses from Aditi to Rodasī"}
+                "and the goddesses from Aditi to Rodasī",
+            12: "Yāska's Nirukta, adhyāya 12 · the deities of the sky: the Aśvins, Dawn, Sūryā, Savitṛ, Bhaga, "
+                "Sūrya, Pūṣan, Viṣṇu, and the groups of the sky; the end of the second half"}
 NOTE = ("Yāska's Nirukta, the oldest surviving treatise on Vedic etymology and a commentary on the "
         "Nighaṇṭu. The text is Lakshman Sarup's critical edition (1927); words in square brackets are "
         "found in only part of the manuscripts. Quotations Sarup sets apart (mantras, and phrases from "
