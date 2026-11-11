@@ -1,0 +1,123 @@
+# Perry, A Sanskrit Primer. Lesson XXI = p. 86 (from the heading) to p. 90 (to the end of the exercise) = leaves n105–n109 of the Cornell scan.
+% Nouns in consonants, continued: stems in palatals, ś, ṣ and h (vāc, ruj, diś, dviṣ, viś, lih)
+! Perry’s āi and āu are written ai and au; the pencil marks in the scan are ignored. In § 246 his list of roots (diś, dṛś, spṛś) and the remark “4. The s of su becomes ṣ after k” are kept; in the paradigm of vāc, ruj, diś the locative plural is read vākṣu, rukṣu, dikṣu (the kṣu conjunct is small in the scan). The plural of the second paradigm prints an extra daṇḍa between viś and lih; it is dropped with the other ornamental daṇḍas.
+! His paradigms print three (or two) stems side by side in each row; here each stem has its own column, and the numbers are separate tables, as in Lesson XX.
+! Exercise XXI opens with a verse Perry numbers ॥ 9 ॥ (daridrān bhara kaunteya …, “Support the poor, son of Kuntī; do not give wealth to the rich; medicine is for the sick, and the well man — what use are medicines to him?”), with his footnote ∗ (on kim with the instrumental and genitive). His sentences are then numbered 1–13, and the English ones 14–25. Sentence 2 is read dviḍbhir vyanāśyata (the ā is clear); sentence 5, bāṣpai rugbhyāṃ dṛgbhyāṃ pitā putram aikṣata paryaṣvajata ca (the kṣ in aikṣata is read from the shape of the ligature; the first word is printed so, and the meaning is “with tears … he looked at his son and embraced him”); sentence 10, sragbhir upānadbhyāṃ sametāḥ … (the ā-sign and dbh are clear enough to read the printed ‘upānajbhyāṃ’ as a misprint for it).
+@105
+## Lesson XXI
+¶ **246. Declension of Consonant-stems, cont’d. Stems in palatals, etc.** 1. Final ⟨c⟩ of a stem reverts to the original guttural when it comes to stand as word-final, and before the *pada*-endings, becoming ⟨k⟩ when final, and before ⟨su⟩, and ⟨g⟩ before ⟨bh⟩. 2. Final ⟨j⟩ is oftenest treated exactly like ⟨c⟩ — for cases of other treatment, see below. 3. In the roots∗ ⟨diś⟩, ⟨dṛś⟩ and ⟨spṛś⟩, the ⟨ś⟩ is treated in the same way. 4. The ⟨s⟩ of ⟨su⟩ becomes ⟨ṣ⟩ after ⟨k⟩;
+¶ ∗ In classical Sanskrit not many root-stems are used as independent substantives; but they are frequently employed, with adjective or (present) participial value, as final element of a compound word.
+@106
+¶ thus, ⟨-kṣu⟩. E. g. ⟨vāc⟩ f., ‘speech, word’; ⟨ruj⟩ f., ‘illness’; ⟨diś⟩ f., ‘direction, point of the compass’:
+¶ Singular:
+T  | vāc (f.) | ruj (f.) | diś (f.)
+R N.V. | ⟨vāk⟩ | ⟨ruk⟩ | ⟨dik⟩
+R A. | ⟨vācam⟩ | ⟨rujam⟩ | ⟨diśam⟩
+R I. | ⟨vācā⟩ | ⟨rujā⟩ | ⟨diśā⟩
+R L. | ⟨vāci⟩ | ⟨ruji⟩ | ⟨diśi⟩
+¶ Plural:
+T  | vāc (f.) | ruj (f.) | diś (f.)
+R N.V. | ⟨vācas⟩ | ⟨rujas⟩ | ⟨diśas⟩
+R A. | „ | „ | „
+R I. | ⟨vāgbhis⟩ | ⟨rugbhis⟩ | ⟨digbhis⟩
+R L. | ⟨vākṣu⟩ | ⟨rukṣu⟩ | ⟨dikṣu⟩
+¶ Dual:
+T  | vāc (f.) | ruj (f.) | diś (f.)
+R N.A.V. | ⟨vācau⟩ | ⟨rujau⟩ | ⟨diśau⟩
+R I.D.Ab. | ⟨vāgbhyām⟩ | ⟨rugbhyām⟩ | ⟨digbhyām⟩
+R G.L. | ⟨vācos⟩ | ⟨rujos⟩ | ⟨diśos⟩
+¶ **247.** 1. Final ⟨ś⟩ and ⟨ṣ⟩ of a stem regularly becomes the lingual mute (⟨ḍ⟩ or ⟨ṭ⟩) before ⟨bh⟩ and ⟨su⟩, and when word-final. For exceptions, see § 246, 3. 2. The final ⟨j⟩ of the root-stems ⟨rāj⟩, ‘rule’, ⟨yaj⟩, ‘sacrifice’, and ⟨sṛj⟩, with others; and 3. the final ⟨h⟩ of a number of roots, are treated like ⟨ś⟩ above. Thus, ⟨dviṣ⟩ m., ‘enemy’; ⟨viś⟩ m. pl., ‘people’, the ‘Vāiśya-caste’; ⟨lih⟩ m., f., (adj.) ‘licking’.
+¶ Singular:
+T  | dviṣ (m.) | lih (m., f.)
+R N.V. | ⟨dviṭ⟩ | ⟨liṭ⟩
+R A. | ⟨dviṣam⟩ | ⟨liham⟩
+R I. | ⟨dviṣā⟩ | ⟨lihā⟩
+R L. | ⟨dviṣi⟩ | ⟨lihi⟩
+¶ Plural:
+T  | dviṣ (m.) | viś (m. pl.) | lih (m., f.)
+R N.V. | ⟨dviṣas⟩ | ⟨viśas⟩ | ⟨lihas⟩
+R A. | „ | „ | „
+R I. | ⟨dviḍbhis⟩ | ⟨viḍbhis⟩ | ⟨liḍbhis⟩
+R L. | ⟨dviṭsu⟩ | ⟨viṭsu⟩ | ⟨liṭsu⟩
+¶ Dual:
+T  | dviṣ (m.) | lih (m., f.)
+R N.A.V. | ⟨dviṣau⟩ | ⟨lihau⟩
+R I.D.Ab. | ⟨dviḍbhyām⟩ | ⟨liḍbhyām⟩
+R G.L. | ⟨dviṣos⟩ | ⟨lihos⟩
+¶ **248.** But ⟨ṛtvij⟩ m., ‘priest’, though containing the root ⟨yaj⟩,
+@107
+¶ makes ⟨ṛtvik⟩ etc.; and ⟨sraj⟩ f., ‘garland’, though containing the root ⟨sṛj⟩, makes ⟨srak⟩ etc.
+¶ **249.** 1. Nouns having the roots ⟨dah⟩, ‘burn’, and ⟨duh⟩, ‘milk’, ⟨druh⟩ ‘be hostile’, with others, as final element, and also ⟨uṣṇih⟩ f. (name of a certain metre), change the final ⟨h⟩ into ⟨k⟩ and ⟨g⟩. Thus, ⟨kāṣṭhadah⟩, ‘wood-burning’, makes nom.-voc. sing. ⟨kāṣṭhadhak⟩; ⟨kāmaduh⟩ f., ‘granting wishes’, nom.-voc. sing. ⟨kāmadhuk⟩, acc. ⟨-duham⟩, loc. pl. ⟨-dhukṣu⟩; ⟨mitradruh⟩ ‘friend-betraying,’ nom.-voc.-sing. ⟨mitradhruk⟩ etc. 2. In words with ⟨nah⟩, ‘bind,’ as final element, where ⟨h⟩ represents original ⟨dh⟩, the ⟨h⟩ becomes ⟨d⟩ and ⟨t⟩; thus, ⟨upānah⟩ f., ‘shoe, sandal,’ nom.-voc. sing. ⟨upānat⟩, acc. ⟨-naham⟩, instr. du. ⟨-nadbhyām⟩, loc. pl. ⟨-natsu⟩.
+## Vocabulary XXI
+¶ Verbs:
+V dam | in caus. (⟨damayati⟩) tame; compel. | లొంగదీయు; బలవంతపెట్టు
+V druh | (⟨druhyati⟩) be hostile; offend. | ద్రోహం చేయు; అపకారం చేయు
+V dhṛ | in caus. (⟨dhārayati⟩) bear. | ధరించు
+V bhṛ | (⟨bharati⟩, ⟨-te⟩) bear, support (*lit. and fig.*). | భరించు, పోషించు
+V sṛj | + ⟨ud⟩ (⟨utsṛjati⟩) let loose or out; raise (the voice). | వదలు; (స్వరం) ఎత్తు
+V svaj | + ⟨pari⟩ (⟨pariṣvajate⟩∗) embrace. | ఆలింగనం చేసుకొను
+V hṛ | + ⟨pra⟩ (⟨praharati⟩) strike out; smite. | కొట్టు, ప్రహరించు
+¶ Subst.:
+V andhra | m. pl., *n. pr.*, a people in India. | ఆంధ్రులు
+V ṛc | f., verse of the Rigveda; *in pl.*, the Rigveda. | ఋక్కు; (బహువచనంలో) ఋగ్వేదం
+V auṣadha | n., medicine. | ఔషధం
+V kaunteya | m., *nom. pr.* | కౌంతేయుడు (అర్జునుడు)
+V dṛś | f., look, glance; eye. | చూపు; కన్ను
+V dviṣ | m., enemy. | శత్రువు
+V bāṣpa | m., tears. | కన్నీరు
+V madhulih | m., bee. | తుమ్మెద
+V mādhurya | n., sweetness. | మాధుర్యం
+V ruj | f., sickness, disease. | రోగం
+V samrāj | m., great king, emperor. | సామ్రాట్టు, చక్రవర్తి
+V sāmanta | m., vassal. | సామంతుడు
+V snātaka | m., one who has taken a certain ceremonial bath. | స్నాతకుడు
+V svādhyāya | m., private recitation (of sacred texts). | స్వాధ్యాయం
+¶ Adj.:
+V ākrānta | f. ā (pass. part. of ⟨kram⟩ + ⟨ā⟩), attacked, smitten. | ఆక్రమించబడిన, పీడితుడైన
+V īśvara | f. ā, rich. | ధనవంతుడు
+V kāmaduh | m. f. n., granting wishes; *as f. subst.*, the Wonder-cow. | కోరికలు తీర్చే; కామధేనువు
+V dakṣiṇa | f. ā, right hand; southern. | కుడి; దక్షిణ
+V nīruj | (i. e. ⟨nis-ruj⟩) m. f. n., healthy, well. | ఆరోగ్యవంతుడు
+V pathya | f. ā, wholesome (*gen.*). | హితమైన (షష్ఠితో)
+V baliṣṭha | f. ā, strongest. | అత్యంత బలవంతుడు
+V ruddha | f. ā (pass. part. of ⟨rudh⟩), besieged, surrounded; suffused. | ముట్టడించబడిన; నిండిన
+V vidviṣṭa | f. ā (pass. part. of ⟨dviṣ⟩ + ⟨vi⟩), hated, detested. | ద్వేషించబడిన
+V vṛddha | f. ā (part. of ⟨vṛdh⟩), old. | వృద్ధుడు
+V vyādhita | f. ā, sick, ill. | రోగి
+V sameta | f. ā, provided with. | కూడిన
+¶ Adv.:
+V kadācana, kadācit, kadāpi | ever. | ఎప్పుడైనా
+¶ ∗ ⟨svaj⟩ and a few other roots, whose nasal is not constant throughout their inflection, lose it in the present-system.
+@108
+## Exercise XXI
+¶ The exercise opens with a verse, in two halves (the translations are the editor’s):
+S a | daridrān bhara kaunteya mā prayaccheśvare dhanam | Support the poor, son of Kuntī; do not give wealth to the rich; | కౌంతేయా, పేదలను పోషించు; ధనవంతునికి ధనం ఇవ్వకు;
+S b | vyādhitasyauṣadhaṃ pathyaṃ nīrujas tu kim auṣadhaiḥ∗ | medicine is wholesome for the sick; to the well man, what use are medicines? | రోగికి ఔషధం హితం; ఆరోగ్యవంతునికి ఔషధాలతో ఏం పని?
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | marutaḥ sarvābhyo digbhyo vahanti | The winds blow from all quarters. [Perry marks digbhyo as ablative.] | గాలులు అన్ని దిక్కుల నుండి వీస్తాయి.
+S 2 | samrājo 'pi rājyaṃ dviḍbhir vyanāśyata | Even an emperor’s kingdom was destroyed by enemies. | చక్రవర్తి రాజ్యం కూడా శత్రువుల చేత నాశనం చేయబడింది.
+S 3 | tava vākṣu kālidāsa mādhuryaṃ vartate | In your speech, Kālidāsa, sweetness dwells. | కాళిదాసా, నీ వాక్కులలో మాధుర్యం ఉంది.
+S 4 | yadā diśo dahanti tadā śiṣyān nādhyāpayet | When the quarters burn, then one should not teach pupils. | దిక్కులు మండుతున్నప్పుడు శిష్యులకు బోధించకూడదు.
+S 5 | bāṣpai rugbhyāṃ dṛgbhyāṃ pitā putram aikṣata paryaṣvajata ca | With eyes full of tears and pain, the father looked at his son and embraced him. | కన్నీళ్ళతో, బాధతో నిండిన కళ్ళతో తండ్రి కొడుకును చూచి కౌగిలించుకున్నాడు.
+S 6 | ṛtvijāṃ vāk kāmadhuk sā sarvān narāṇāṃ manorathān pūrayati | The priests’ speech is a Wonder-cow; she fulfils all men’s wishes. | ఋత్విజుల వాక్కు కామధేనువు; అది మనుషుల కోరికలన్నింటినీ తీరుస్తుంది.
+S 7 | sarvāsu dikṣu dviṣo 'dṛśyanta | In all quarters enemies were seen. | అన్ని దిక్కులలో శత్రువులు కనిపించారు.
+S 8 | parivrāḍ vācaṃ notsṛjet | A wandering ascetic should not utter a word. | సన్యాసి మాట పలకకూడదు.
+S 9 | mitradhruk sarveṣāṃ vidviṣṭaḥ | A betrayer of friends is hated by all. | మిత్రద్రోహి అందరిచేత ద్వేషించబడతాడు.
+S 10 | sragbhir upānadbhyāṃ sametāḥ śiṣyā guruṃ nopatiṣṭheran | Pupils furnished with garlands and sandals should not wait on the teacher. | మాలలు, పాదరక్షలు ధరించిన శిష్యులు గురువును సమీపించకూడదు.
+S 11 | rugbhir ākrāntā bahavo janā mriyante | Many people, attacked by diseases, die. | రోగాలచే పీడితులై అనేకమంది చనిపోతారు.
+S 12 | dakṣiṇasyāṃ diśi kṛṣṇo 'ndhrāṇāṃ samrāḍ abhavat | In the southern quarter Kṛṣṇa was the emperor of the Andhras. | దక్షిణ దిక్కులో కృష్ణుడు ఆంధ్రుల చక్రవర్తి అయ్యాడు.
+S 13 | madhuliḍbhir eṣa bālo 'dṛśyata | This boy was seen by bees. | ఈ బాలుడు తుమ్మెదలచే చూడబడ్డాడు.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Words in italics are not to be translated.
+E 14 | In the private recitation *of the Veda* an ascetic must raise (*opt. or imv.*) *his* voice. | svādhyāye parivrāḍ vācam utsṛjet | స్వాధ్యాయంలో సన్యాసి స్వరం ఎత్తవచ్చు.
+E 15 | That one among the priests is called *hotṛ*, who recites the Rigveda. | ṛtvijāṃ sa hotety ucyate ya ṛco vācayati | ఋగ్వేదాన్ని పఠించే ఋత్విజుడు హోత అనబడతాడు.
+E 16 | A *snātaka* must wear shoes and a garland, and *carry* an umbrella. | snātaka upānadbhyāṃ srajā ca saṃyutaś chattraṃ dhārayet | స్నాతకుడు పాదరక్షలు, మాల ధరించి గొడుగు పట్టుకోవాలి.
+E 17 | “Among my friends Rāma is the strongest”: thus spoke Rāvaṇa. | mama mitrāṇāṃ rāmo baliṣṭha iti rāvaṇo 'vadat | “నా మిత్రులలో రాముడు అత్యంత బలవంతుడు” అని రావణుడు అన్నాడు.
+E 18 | Let an emperor keep *his* vassals in check (⟨dam⟩ *caus.*), and protect (⟨pā⟩ *caus.*) the people in all the earth. | samrāḍ sāmantān damayatu sarvasyāṃ bhuvi janān pālayatu ca | చక్రవర్తి తన సామంతులను అదుపులో ఉంచి భూమి అంతటా ప్రజలను కాపాడుగాక.
+E 19 | In the Rigveda occurs (⟨dṛś⟩ *pass.*) the Uṣṇih. | ṛgvede 'ṣṇig dṛśyate | ఋగ్వేదంలో ఉష్ణిక్కు కనిపిస్తుంది.
+E 20 | The father’s glance fell upon me (*loc.*). | pitur dṛṅ mayy apatat | తండ్రి చూపు నా మీద పడింది.
+E 21 | Among the betrayers-of-friends is named (⟨gaṇaya⟩ *pass.*) Vibhīṣaṇa. | mitradhrukṣu vibhīṣaṇo gaṇyate | మిత్రద్రోహులలో విభీషణుడు లెక్కించబడ్డాడు.
+E 22 | The seer praises Indrāṇī with verses *of the Rigveda*. | ṛṣir ṛgbhir indrāṇīṃ śaṃsati | ఋషి ఋక్కులతో ఇంద్రాణిని స్తుతిస్తాడు.
+E 23 | The emperor smote *his* enemies (*acc.*, *dat.*, or *loc.*) with the sword. | samrāḍ asinā dviṣaḥ prāharat | చక్రవర్తి కత్తితో శత్రువులను కొట్టాడు.
+E 24 | In the battle Kṛṣṇa was killed by his enemies. | yuddhe kṛṣṇo dviḍbhir amāryata | యుద్ధంలో కృష్ణుడు శత్రువుల చేత చంపబడ్డాడు.
+E 25 | “May our enemies be tormented by diseases”: thus spoke the Brāhman in anger (*abl.*). | asmākaṃ dviṣo rugbhir vyathyantām iti kopād brāhmaṇo 'vadat | “మా శత్రువులు రోగాలచే బాధపడుదురు గాక” అని బ్రాహ్మణుడు కోపంతో అన్నాడు.
+¶ ∗ ⟨kim⟩ (interrog.), with some other words expressing use or need, takes with it an instrumental of what is used or needed, and a genitive of the user. So here: “of what use to a well man are medicines”?
