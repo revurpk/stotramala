@@ -1,0 +1,88 @@
+# Perry, A Sanskrit Primer. Lesson XV = p. 65 (from the heading) to p. 68 (to the end of the exercise) = leaves n84–n87 of the Cornell scan.
+% Verbs: the present imperative middle (labhai); nouns in ṛ (kartṛ, bhartṛ); the verse of the snake and the rogue
+! Perry’s āi and āu are written ai and au; his ṝ (written with a long vowel mark) is ṝ. Accents on the verbs and on the nouns in the vocabulary are not carried.
+! Exercise XV opens with a verse Perry numbers ॥ 4 ॥ (durjanasya ca sarpasya …, “of a rogue and a snake the snake is the better …”); his sentences are then numbered 1–9, and the English ones 10–20. The verse carries Perry’s footnote ∗ (words are repeated to give a distributive sense: “at every step”) and sentence 4 his footnote ∗∗ (locative absolute). Sentence 6 is read muktāya (dat.) īśvaraḥ …; the first word is printed so.
+! Sentence 3 means “the sister’s house” (svasṛ, sister, § 203). In the editor’s answers, 19 leaves out the pronoun “thee” (not yet taught) and 20 uses a passive with svasāraḥ as its subject.
+@84
+## Lesson XV
+¶ **199. Verbs, ⟨a⟩-conjugation. Present Imperative Middle.** The present imperative middle is inflected thus:
+T  | Sing. | Dual. | Plural.
+R 1. | ⟨labhai⟩ | ⟨labhāvahai⟩ | ⟨labhāmahai⟩
+R 2. | ⟨labhasva⟩ | ⟨labhethām⟩ | ⟨labhadhvam⟩
+R 3. | ⟨labhatām⟩ | ⟨labhetām⟩ | ⟨labhantām⟩
+¶ **200.** The first persons are really subjunctive forms. The inflection of the passive imv. is precisely similar; thus, ⟨kriyai⟩, ⟨kriyasva⟩, ⟨kriyatām⟩, etc.
+¶ **201. Nouns in ⟨ṛ⟩.** These stems, like many belonging to the consonant-declension, exhibit in their inflection a difference of stem-form: strong, middle, and weak. (For the cases called strong, etc., see Introd., § 87). In the weak cases (except loc. sing.) the stem-final is ⟨ṛ⟩, which in the weakest cases is changed naturally to ⟨r⟩. But as regards the strong cases, the stems of this declension fall into two classes: in the one — which is much the larger, comprising all the *nomina agentis*, and a few others — the ⟨ṛ⟩ is vṛddhied, becoming ⟨ār⟩; while in the other class, containing
+@85
+¶ most nouns of relationship, the ⟨ṛ⟩ is gunated, becoming ⟨ar⟩. In both classes, the loc. sing. has ⟨ar⟩ as stem-final. The abl.-gen. sing. is of peculiar formation; and the final ⟨r⟩ is dropped in the nominative singular.
+¶ **202. Nomina agentis in ⟨ṛ⟩,** like ⟨kartṛ⟩ m., ‘doer’.
+T  | Sing. | Dual. | Plural.
+R N. | ⟨kartā⟩ | ⟨kartārau⟩ | ⟨kartāras⟩
+R A. | ⟨kartāram⟩ | „ „ | ⟨kartṝn⟩
+R I. | ⟨kartrā⟩ | ⟨kartṛbhyām⟩ | ⟨kartṛbhis⟩
+R D. | ⟨kartre⟩ | „ „ | ⟨kartṛbhyas⟩
+R Ab. | ⟨kartur⟩ (or ⟨-us⟩) | „ „ | „ „
+R G. | „ „ | ⟨kartros⟩ | ⟨kartṝṇām⟩
+R L. | ⟨kartari⟩ | „ „ | ⟨kartṛṣu⟩
+R V. | ⟨kartar⟩ |  |
+¶ **203.** Two nouns of relationship, ⟨svasṛ⟩ f., “sister”, and ⟨naptṛ⟩ m., ‘grandson’, follow this declension; but ⟨svasṛ⟩ makes the acc. pl. ⟨svasṝs⟩.
+¶ **204.** The nouns of agency are sometimes used participially, or with adjective value. The corresponding feminine-stem is made in ⟨ī⟩, and declined like ⟨nadī⟩; thus, ⟨kartrī⟩.
+¶ **205.** The grammarians prescribe a complete neuter declension also for bases in ⟨ṛ⟩, precisely analogous with that of ⟨vāri⟩ or ⟨madhu⟩, but such forms are rare.
+## Vocabulary XV
+¶ Verbs:
+V gam | + ⟨anu⟩ (⟨anugacchati⟩) follow. | అనుసరించు
+V car | + ⟨sam-ā⟩ (⟨samācarati⟩) commit, perform, do. | ఆచరించు, చేయు
+V vad | + ⟨vi⟩ (⟨vivadate⟩) dispute, argue. | వాదించు, తర్కించు
+V śri | + ⟨ā⟩ (⟨āśrayate⟩) go for protection to, take refuge with (*acc.*). | శరణు పొందు (ద్వితీయతో)
+@86
+¶ Subst.:
+V ācārya | m., teacher. | ఆచార్యుడు, గురువు
+V kartṛ | m., doer, maker, author; *as adj.*, doing, making. | కర్త, రచయిత
+V kāla | m., time. | కాలం
+V kṛpā | f., graciousness, pity. | కృప, దయ
+V dātṛ | m., giver; *as adj.*, generous. | దాత; ఉదారుడు
+V durjana | m., scamp, rogue. | దుర్జనుడు
+V draṣṭṛ | m., seer, author (of Vedic books); *as adj.*, seeing. | ద్రష్ట, చూచువాడు
+V dhātṛ | m., creator. | ధాత, సృష్టికర్త
+V niścaya | m., decision; certainty. | నిశ్చయం
+V netṛ | m., leader. | నాయకుడు
+V paṇḍita | m., learned man; *pandit*. | పండితుడు
+V pad | n., step. | అడుగు
+V prāyaścitta | n., penance, expiation. | ప్రాయశ్చిత్తం
+V bhartṛ | m., supporter, preserver; lord, husband; master. | భర్త, పోషకుడు, ప్రభువు
+V rakṣitṛ | m., protector. | రక్షకుడు
+V vyavahāra | m., trial, law-suit. | వ్యవహారం, వ్యాజ్యం
+V śāstṛ | m., punisher, governor. | శాసకుడు, పాలకుడు
+V sraṣṭṛ | m., creator. | సృష్టికర్త
+V namas | n., honor, glory (*often as indecl., w. foll’g dat.*). | నమస్సు, గౌరవం (చతుర్థితో)
+¶ Adj.:
+V daridra | f. ā, poor. | పేద
+V vara | f. ā, best, most excellent; better (*w. foll’g abl.*). | శ్రేష్ఠమైన; మేలైన (పంచమితో)
+## Exercise XV
+¶ The exercise opens with a verse, in two halves (the translations are the editor’s):
+S a | durjanasya ca sarpasya varaṃ sarpo na durjanaḥ | Of a rogue and a snake, better the snake than the rogue. | దుర్జనుడు, పాము — వీరిలో పాము మేలు, దుర్జనుడు కాదు.
+S b | sarpo daśati kālena durjanas tu pade pade∗ | The snake bites in time, but the rogue at every step. | పాము కాలక్రమంలో కరుస్తుంది, దుర్జనుడు అడుగడుగునా కరుస్తాడు.
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | ācārya labhasva prāyaścittaṃ samācareti pāpaṃ dvijātaya ādiśanti | “O teacher, take up penance and perform it”: thus the Aryans prescribe for sin. | “ఓ ఆచార్యా, ప్రాయశ్చిత్తాన్ని స్వీకరించి ఆచరించండి” అని ద్విజులు పాపానికి విధిస్తారు.
+S 2 | kāvyāni racayāma kīrtiṃ vindāma nṛpatīn āśrayāmahe śriyaṃ labhāmahā iti kavayo vartante | “Let us compose poems, win glory, take refuge with kings, gain fortune”: thus the poets live. | “కావ్యాలు రచిద్దాం, కీర్తిని పొందుదాం, రాజుల ఆశ్రయం తీసుకుందాం, సంపదను పొందుదాం” అని కవులు జీవిస్తారు.
+S 3 | svasur gṛhe kanye nyavasatām | The two girls dwelt in their sister’s house. | ఇద్దరు కన్యలు తమ సోదరి ఇంట్లో నివసించారు.
+S 4 | nṛpe rakṣitari∗∗ sukhena prajā vasanti | With the king as protector, the subjects live happily. | రాజు రక్షకుడిగా ఉండగా ప్రజలు సుఖంగా జీవిస్తారు.
+S 5 | dharmāya devān yajāvahā arthāya kīrtaye ca sabhāsu paṇḍitaiḥ saha vivadāvahā iti brāhmaṇasya putrayor niścayaḥ | “Let us two sacrifice to the gods for righteousness, and for wealth and glory let us two dispute with the pandits in the assemblies”: such is the decision of the Brāhman’s two sons. | “ధర్మం కోసం దేవతలను ఆరాధిద్దాం, ధనం, కీర్తి కోసం సభలలో పండితులతో వాదిద్దాం” అనేది బ్రాహ్మణుని ఇద్దరు కొడుకుల నిశ్చయం.
+S 6 | muktāya īśvaraḥ sṛṣṭeḥ kartā manuṣyair bhaktyā sevyatām | For deliverance let the Lord, the maker of creation, be served by men with devotion. | ముక్తి కోసం సృష్టికర్త అయిన ఈశ్వరుని మనుషులు భక్తితో సేవించాలి.
+S 7 | nṛpatayaḥ prajānāṃ rakṣitāro durjanānāṃ ca śāstāro vartantām | Let kings be protectors of their subjects and punishers of the wicked. | రాజులు ప్రజలకు రక్షకులుగా, దుర్జనులకు శిక్షకులుగా ఉండాలి.
+S 8 | śāstrasya kartre pāṇinaye namaḥ | Homage to Pāṇini, the author of the science. | శాస్త్రకర్త అయిన పాణినికి నమస్కారం.
+S 9 | lokasya sraṣṭṛbhyo vasūnāṃ dātṛbhyo devebhyo namo namaḥ | Homage, homage to the creators of the world, the givers of wealth, the gods! | లోకసృష్టికర్తలకు, ధనదాతలకు, దేవతలకు నమస్కారం, నమస్కారం!
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Words in italics are not to be translated; where Perry gives figures, they show the position of the Sanskrit word.
+@87
+E 10 | Let the wife love *her* husband. | patnī bhartari snihyatu | భార్య తన భర్తను ప్రేమించుగాక.
+E 11 | Let the warriors follow *their* leaders and fight with the enemy (*pl.*). | kṣatriyā netṝn anugacchantu śatrubhiś ca yudhyantām | యోధులు తమ నాయకులను అనుసరించి శత్రువులతో పోరాడుదురు గాక.
+E 12 | At the river the boy is to meet *his* two sisters (*instr.*). | nadyāṃ bālaḥ svasṛbhyāṃ saṃgacchatām | నది వద్ద బాలుడు తన ఇద్దరు సోదరీలను కలవాలి.
+E 13 | The world was created by the creator. | lokaḥ sraṣṭrāsṛjyata | లోకాన్ని సృష్టికర్త సృష్టించాడు.
+E 14 | In the houses of pious givers alms is given to ascetics. | sādhūnāṃ dātṝṇāṃ gṛheṣu bhikṣubhyo bhikṣā dīyate | ధార్మికులైన దాతల ఇళ్ళలో భిక్షువులకు భిక్ష ఇవ్వబడుతుంది.
+E 15 | King Bhoja was (⟨avartata⟩) generous toward the author (*loc.*) of the eulogies. | bhojo rājā stutīnāṃ kartari dātāvartata | భోజ రాజు స్తుతుల రచయితపట్ల ఉదారుడిగా ఉన్నాడు.
+E 16 | Let servants always be useful to (⟨sev⟩) *their* masters (*acc.*). | bhṛtyāḥ sadā bhartṝn sevantām | సేవకులు ఎల్లప్పుడూ తమ యజమానులను సేవించుదురు గాక.
+E 17 | *For* protection⁴ (*acc.*) betake yourselves⁵ *to* the gods³, the protectors² of the pious¹. | sādhūnāṃ rakṣitṝn devān śaraṇam āśrayadhvam | రక్షణ కోసం సాధువులను రక్షించే దేవతలను ఆశ్రయించండి.
+E 18 | Men live *by* the graciousness of the creator. | dhātuḥ kṛpayā janā jīvanti | సృష్టికర్త కృప వలన మనుషులు జీవిస్తారు.
+E 19 | O generous one, the poor bend *before thee*! | he dātar daridrā namanti | ఓ దాతా, పేదలు నమస్కరిస్తారు!
+E 20 | The man leads *his* sisters to the city (*pass. constr.*). | svasāro nareṇa nagaraṃ nīyante | మనిషి తన సోదరీలను నగరానికి తీసుకువెళ్తాడు.
+¶ ∗ Words are often repeated, to give an intensive, a distributive, or a repetitional meaning. So here: “at every step”. The position of ⟨ca⟩ is very unusual; it would naturally follow ⟨sarpasya⟩.
+¶ ∗∗ Loc. absol. — supply “being”.
