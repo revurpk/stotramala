@@ -1,0 +1,112 @@
+# Perry, A Sanskrit Primer. Lesson XXV = p. 102 (heading) to p. 105 (to the end of the exercise) = leaves n121–n124 of the Cornell scan.
+% The perfect active participle (vidvāṃs, jagmivāṃs); śvan, yuvan, maghavan, ahan; compounds of añc
+! Perry’s āi and āu are written ai and au; his dotted ṅ before a sibilant (as in jagmivāṅs) is written ṃ. The pencil marks are ignored. The two footnotes of the page — the footnote under the paradigm of jagmivāṃs (another form of the perfect participle of gam makes the strong and middle stems jaganvāṃs and jaganvat; the weakest form is jagmuṣ) and the footnotes to the table of añc compounds (∗ y inserted irregularly in weakest forms only; ∗∗ irregular, tiras + añc) — are given as printed. In the table of the stems of añc the table’s “Middle” column is blank for prāñc and avāñc, as in his print.
+! In § 271 the nominative-accusative singular of ahan is printed with “(-s)”: ahar (-s).
+! Exercise XXV opens with a verse Perry numbers ॥ 13 ॥ (vidvān praśasyate loke …, “The learned man is praised in the world; the learned man attains honour; by learning everything is obtained; by learning he is honoured by all”); his sentences are then numbered 1–11, and the English ones 12–23. Sentence 2 is read vidvadbhir eva viduṣāṃ śramo jñāyate; sentence 3, tvaṣṭā triśīrṣāṇaṃ putraṃ maghavāmārayat (the macron over ā is printed on mārayat, for maghavā + amārayat); sentence 6, kāśyā ājagmuṣo bhrātṝn apaśyām; sentence 10, kiyadbhir ahobhiḥ kāśyāḥ prayāgam agacchata; sentence 11 is printed pāṭaliputraṃ nāma mahānagaraṃ vidyate udīcāṃ takṣaśilā pratīcāṃ bhṛgukaccham.
+@121
+## Lesson XXV
+¶ **268. Declension. Perfect Active Participles in ⟨vāṃs⟩.** The active participles of the perfect tense-system are quite peculiar as regards the modifications of the stem. In the strong cases the suffix is ⟨vāṃs⟩, which becomes ⟨vān⟩ in the nom. sing. masc., and is shortened to ⟨van⟩ in the voc. sing. In the weakest cases the suffix is contracted into ⟨uṣ⟩; and in the middle cases it is changed to ⟨vat⟩. A union-vowel ⟨i⟩, if present in the strong and middle cases, disappears before ⟨uṣ⟩ in the weakest. Radical ⟨i⟩ and ⟨ī⟩, if preceded by *one* consonant, become ⟨y⟩ before ⟨uṣ⟩, but if preceded by more than one consonant, become ⟨iy⟩; whereas radical ⟨u⟩ always becomes ⟨uv⟩ before ⟨uṣ⟩, and radical ⟨ṛ⟩, ⟨r⟩. Thus, ⟨ninīvāṃs⟩, ⟨ninyuṣ⟩; ⟨śuśruvāṃs⟩, ⟨śuśruvuṣ⟩; ⟨cakṛvāṃs⟩, ⟨cakruṣ⟩. The feminine stem is formed with ⟨ī⟩ from the weakest stem-form; thus, ⟨ninyuṣī⟩. Examples:
+¶ 1. ⟨vidvāṃs⟩ ‘knowing’:
+¶ Masculine:
+T  | Singular | Dual | Plural
+R N. | ⟨vidvān⟩ | ⟨vidvāṃsau⟩ | ⟨vidvāṃsas⟩
+R A. | ⟨vidvāṃsam⟩ | „ | ⟨viduṣas⟩
+R I. | ⟨viduṣā⟩ | ⟨vidvadbhyām⟩ | ⟨vidvadbhis⟩
+R L. | ⟨viduṣi⟩ | ⟨viduṣos⟩ | ⟨vidvatsu⟩
+R V. | ⟨vidvan⟩ |  |
+¶ Neuter:
+T  | Singular | Dual | Plural
+R N.V. | ⟨vidvat⟩ | ⟨viduṣī⟩ | ⟨vidvāṃsi⟩
+R A. | „ | „ | „
+R I., L. | as in the masculine |  |
+¶ 2. ⟨jagmivāṃs⟩ ‘having gone’∗:
+@122
+¶ Masculine:
+T  | Singular | Dual | Plural
+R N. | ⟨jagmivān⟩ | ⟨jagmivāṃsau⟩ | ⟨-vāṃsas⟩
+R A. | ⟨jagmivāṃsam⟩ | „ | ⟨jagmuṣas⟩
+R I. | ⟨jagmuṣā⟩ | ⟨-vadbhyām⟩ | ⟨-vadbhis⟩
+R L. | ⟨jagmuṣi⟩ | ⟨jagmuṣos⟩ | ⟨jagmivatsu⟩
+R V. | ⟨jagmivan⟩ |  |
+¶ Neuter:
+T  | Singular | Dual | Plural
+R N. | ⟨jagmivat⟩ | ⟨jagmuṣī⟩ | ⟨jagmivāṃsi⟩
+R A. | „ | „ | „
+R I., L. | as in the masculine |  |
+¶ ∗ Another form of perf. part. of this verb (⟨gam⟩) makes the strong and middle stems ⟨jaganvāṃs⟩ and ⟨jaganvat⟩; the weakest form is as above, ⟨jagmuṣ⟩.
+¶ **269. Stems ⟨śvan⟩, ⟨yuvan⟩.** The stems ⟨śvan⟩ m., ‘dog’, and ⟨yuvan⟩ m., n., ‘young’, have as weakest stems ⟨śun⟩ and ⟨yūn⟩; in the strong and middle cases they follow ⟨rājan⟩; voc. ⟨śvan⟩, ⟨yuvan⟩. Fem. ⟨śunī⟩ and ⟨yuvati⟩.
+¶ **270.** The stem ⟨maghavan⟩ m., ‘generous’ (in the later language almost exclusively a name of Indra), has as strong stem ⟨maghavān⟩, mid. ⟨-vat⟩, weakest ⟨maghon⟩. Nom. sing. ⟨maghavā⟩, voc. ⟨-van⟩. Fem. ⟨maghonī⟩.
+¶ **271.** The stem ⟨ahan⟩ n., ‘day’, is used only in the strong and weakest cases, the middle, with the nom. sing., coming from ⟨ahar⟩ or ⟨ahas⟩. Thus:
+T  | Singular | Dual | Plural
+R N.A.V. | ⟨ahar⟩ (⟨-s⟩) | ⟨ahanī⟩ or ⟨ahnī⟩ | ⟨ahāni⟩
+R I. | ⟨ahnā⟩ | ⟨ahobhyām⟩ | ⟨ahobhis⟩
+R L. | ⟨ahani⟩ or ⟨ahni⟩ | ⟨ahnos⟩ | ⟨ahassu⟩ or ⟨ahaḥsu⟩
+¶ **272. Compounds with the root ⟨añc⟩.** The adjectives formed from this root with prepositions and other words are quite irregular. Some of them have only two stem-forms: a strong in ⟨āñc⟩ and a weak in ⟨āc⟩; while others distinguish from the middle in ⟨ac⟩ a weakest stem in ⟨c⟩, before which the ⟨a⟩ is contracted with a preceding ⟨i⟩ (⟨y⟩) or ⟨u⟩ (⟨v⟩) into ⟨ī⟩ or ⟨ū⟩. The fem. is made with ⟨ī⟩ from the weakest (or weak) stem; thus, ⟨viṣūcī⟩. The principal stems of this sort are as follows:
+@123
+T  | Strong | Middle | Weak (weakest)
+R ⟨prāñc⟩ ‘forward’, ‘eastward’ | ⟨prāñc⟩ | — | ⟨prāc⟩
+R ⟨avāñc⟩ ‘downward’ | ⟨avāñc⟩ | — | ⟨avāc⟩
+R ⟨udañc⟩ ‘northward’ | ⟨udañc⟩ | ⟨udac⟩ | ⟨udīc⟩∗
+R ⟨pratyañc⟩ ‘backward’, ‘westward’ | ⟨pratyañc⟩ | ⟨pratyac⟩ | ⟨pratīc⟩
+R ⟨nyañc⟩ ‘low’ | ⟨nyañc⟩ | ⟨nyac⟩ | ⟨nīc⟩
+R ⟨anvañc⟩ ‘following’ | ⟨anvañc⟩ | ⟨anvac⟩ | ⟨anūc⟩
+R ⟨tiryañc⟩ ‘going horizontally’ | ⟨tiryañc⟩ | ⟨tiryac⟩ | ⟨tiraś⟩∗∗
+## Vocabulary XXV
+¶ Verbs:
+V gam | + ⟨astam⟩ (⟨astaṃgacchati⟩) go down, set (lit’ly “go home” — used of the heavenly bodies). | అస్తమించు
+V gam | + ⟨ud⟩ (⟨udgacchati⟩) rise. | ఉదయించు
+V spṛh | (⟨spṛhayati⟩) desire (*dat.*). | ఆశించు (చతుర్థితో)
+¶ Subst.:
+V gaurava | n., weight; dignity. | బరువు; గౌరవం
+V jagat | n., that which lives. | జగత్తు, లోకం
+V takṣaśilā | f., *n. pr.*, a city (Taxila) in India. | తక్షశిల (భారతదేశంలోని నగరం)
+V tiryañc | m., n., animal. | జంతువు
+V tvaṣṭṛ | m., *n. pr.*, a god, Tvaṣṭar. | త్వష్ట (ఒక దేవుడు)
+V pariṣad | f., assembly. | సభ
+V bhṛgukaccha | n., Baroch (a holy place in India). | భృగుకచ్ఛం (భరూచ్, ఒక పుణ్యక్షేత్రం)
+V maghavan | m., Indra. | ఇంద్రుడు
+V yuvan | m., n., young; f. ⟨yuvati⟩. | యువకుడు; యువతి
+V vipāka | m., ripening; recompense. | పరిపాకం; ఫలితం
+V śrama | m., pains, trouble. | శ్రమ
+V siṃha | m., lion. | సింహం
+V snāna | n., bathing, bath. | స్నానం
+V hariṇa | m., gazelle. | జింక
+¶ Adj.:
+V adhīta | f. ā, learned, studied. | చదివిన
+V tasthivāṃs | having stood; *as n. subst.*, the immovable. | నిలిచిన; స్థావరం
+V triśīrṣan | three-headed. | మూడు తలల
+V daṣṭa | f. ā, (part. of ⟨daṃś⟩) bitten. | కరవబడిన
+V vanavāsin | forest-dwelling. | అడవిలో నివసించే
+V vidvāṃs | knowing, wise, learned. | తెలిసిన, పండితుడు
+¶ ∗ ⟨d⟩ inserted, irregularly, in weakest forms only.
+¶ ∗∗ irregular (⟨tiras⟩ + ⟨añc⟩).
+@124
+## Exercise XXV
+¶ The exercise opens with a verse, in two halves (the translations are the editor’s):
+S a | vidvān praśasyate loke vidvān gacchati gauravam | The learned man is praised in the world; the learned man attains honour; | లోకంలో పండితుడు ప్రశంసించబడతాడు; పండితుడు గౌరవాన్ని పొందుతాడు;
+S b | vidyayā labhyate sarvaṃ vidyā sarvatra pūjyate | by learning everything is obtained; learning is honoured everywhere. | విద్య వలన సమస్తం లభిస్తుంది; విద్య అన్నిచోట్లా పూజించబడుతుంది.
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | prācyāṃ diśi jyotīṃṣy udgacchanti pratīcyām astaṃgacchanti | In the eastern quarter the lights rise; in the western they set. | తూర్పు దిక్కులో జ్యోతులు ఉదయిస్తాయి, పడమరలో అస్తమిస్తాయి.
+S 2 | vidvadbhir eva viduṣāṃ śramo jñāyate | Only by the learned is the toil of the learned known. | పండితుల శ్రమ పండితులకే తెలుస్తుంది.
+S 3 | tvaṣṭus triśīrṣāṇaṃ putraṃ maghavā 'mārayat | Maghavan killed Tvaṣṭṛ’s three-headed son. | ఇంద్రుడు త్వష్ట మూడు తలల కొడుకును చంపాడు.
+S 4 | ahanī eva kṣatriyāv ayudhyetām | The two warriors fought for only two days. | ఇద్దరు యోధులు రెండు రోజులే పోరాడారు.
+S 5 | śunā daṣṭo dvijātiḥ snānam ācaret | An Aryan bitten by a dog should bathe. | కుక్క కరిచిన ద్విజుడు స్నానం చేయాలి.
+S 6 | kāśyā ājagmuṣo bhrātṝn apaśyām | I saw the brothers who had come from Kāśī. | కాశీ నుండి వచ్చిన సోదరులను చూశాను.
+S 7 | yena vedā adhītās taṃ yuvānam api guruṃ gaṇayanti | They count even a young man a teacher by whom the Vedas have been studied. | వేదాలను అధ్యయనం చేసినవాడు యువకుడైనా అతనిని గురువుగా లెక్కిస్తారు.
+S 8 | pāpāḥ karmaṇāṃ vipākena dvitīye janmani tiryaṅku jāyanta iti smṛtiḥ | “The wicked, by the ripening of their deeds, are born in a second birth among animals”: so the law-book says. | “పాపులు తమ కర్మల ఫలితంగా రెండవ జన్మలో జంతువులుగా పుడతారు” అని స్మృతి చెబుతుంది.
+S 9 | vidvāṃso vidvadbhiḥ saha samāgamāya spṛhayanti | The learned long to meet with the learned. | పండితులు పండితులతో కలయిక కోసం ఆశిస్తారు.
+S 10 | kiyadbhir ahobhiḥ kāśyāḥ prayāgam agacchata | In how many days did you go from Kāśī to Prayāga? | మీరు కాశీ నుండి ప్రయాగకు ఎన్ని రోజులలో వెళ్ళారు?
+S 11 | prācāṃ deśe pāṭaliputraṃ nāma mahānagaraṃ vidyate udīcāṃ takṣaśilā pratīcāṃ bhṛgukaccham | In the eastern country is a great city named Pāṭaliputra; in the north, Takṣaśilā; in the west, Bhṛgukaccha. | తూర్పు దేశంలో పాటలీపుత్రం అనే మహానగరం ఉంది; ఉత్తరంలో తక్షశిల; పశ్చిమంలో భృగుకచ్ఛం.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Words in italics are not to be translated.
+E 12 | Vṛtra was killed (⟨han⟩, *caus. pass.*) by Maghavan and the Maruts. | maghavatā marudbhiś ca vṛtro 'ghātyata | వృత్రుని ఇంద్రుడు, మరుత్తులు చంపారు.
+E 13 | Young *women* sang a song. | yuvatayo gītam agāyan | యువతులు పాట పాడారు.
+E 14 | Two learned Brāhmans dispute. | vidvāṃsau brāhmaṇau vivadete | ఇద్దరు పండిత బ్రాహ్మణులు వాదిస్తారు.
+E 15 | Saramā is called in the Rigveda the dog (*f.*) of the gods. | ṛgvede saramā devānāṃ śunīty ucyate | ఋగ్వేదంలో సరమ దేవతల కుక్క అనబడుతుంది.
+E 16 | Great forests are found in the west (*expr. as pred.*, *nom. pl.*). | pratīcyāṃ mahānti vanāni vidyante | పశ్చిమంలో గొప్ప అడవులు ఉన్నాయి.
+E 17 | In the assembly let the best among the learned teach (⟨upa-diś⟩) the law. | pariṣadi vidvatāṃ śreṣṭho dharmam upadiśatu | సభలో పండితులలో శ్రేష్ఠుడు ధర్మాన్ని బోధించుగాక.
+E 18 | Those who have committed evil deeds must stand by day (*acc.*) and sit by night. | ye pāpāni karmāṇi samācaranti te 'has tiṣṭheyū rātriṃ ca sīdeyuḥ | పాపకర్మలు చేసినవారు పగలు నిలుచుని రాత్రి కూర్చోవాలి.
+E 19 | Glory was attained by the young warrior. | yūnā kṣatriyeṇa yaśo 'labhyata | యువ యోధుడు కీర్తిని పొందాడు.
+E 20 | *Turned toward the* east (*nom. sing.*) let one reverence the gods; the east (⟨prācī⟩) is the quarter (⟨diś⟩) of the gods. | prāṅ devān pūjayet prācī devānāṃ dik | తూర్పు వైపు తిరిగి దేవతలను పూజించాలి; తూర్పు దేవతల దిక్కు.
+E 21 | Day by day one must worship (⟨pūj⟩) the sun. | dine dine sūryaḥ pūjyaḥ | ప్రతిరోజూ సూర్యుని పూజించాలి.
+E 22 | The gazelle *has been* killed by dogs. | hariṇaḥ śvabhir hataḥ | జింకను కుక్కలు చంపాయి.
+E 23 | The lion is king of forest-dwelling animals. | siṃho vanavāsināṃ tiryañcāṃ rājā | సింహం అడవిలో నివసించే జంతువులకు రాజు.
