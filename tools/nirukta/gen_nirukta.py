@@ -37,7 +37,9 @@ SUBTITLE = {1: "Yāska's Nirukta, adhyāya 1 · the introduction: the four kinds
             7: "Yāska's Nirukta, adhyāya 7 · the Daivata-kāṇḍa begins: the nature of the gods, "
                "the three deities, and Agni, Jātavedas and Vaiśvānara",
             8: "Yāska's Nirukta, adhyāya 8 · Draviṇodas, and the deities of the Āprī hymns, "
-               "from the kindling to the svāhā-calls"}
+               "from the kindling to the svāhā-calls",
+            9: "Yāska's Nirukta, adhyāya 9 · the deified things of the earth: horse, bird, frogs, dice, "
+               "stones, war-gear, rivers, plants, night, faith, and the eight pairs"}
 NOTE = ("Yāska's Nirukta, the oldest surviving treatise on Vedic etymology and a commentary on the "
         "Nighaṇṭu. The text is Lakshman Sarup's critical edition (1927); words in square brackets are "
         "found in only part of the manuscripts. Quotations Sarup sets apart (mantras, and phrases from "
