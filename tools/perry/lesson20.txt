@@ -1,0 +1,106 @@
+# Perry, A Sanskrit Primer. Lesson XX = p. 82 (from the heading) to p. 86 (to the end of the exercise) = leaves n101–n105 of the Cornell scan.
+% Nouns in consonants: the general rules of final consonants; stems in t, d, dh and bh (marut, āpad, jagat)
+! Perry’s āi and āu are written ai and au. His paradigm of marut, āpad, jagat prints the three stems side by side in each row, separated by daṇḍas; here each stem has its own column, and the three numbers are three tables. The ornamental daṇḍas are dropped. In the genitive singular the “„” marks stand for the form above, as in his print.
+! § 239.4 and § 244 name the letters of the final-consonant rules (t, d, dh, bh and the others) in Devanāgarī in the scan; they are given here in IAST. The verse of the exercise carries Perry’s footnote ∗∗ (see § 225; yatra = yasmin and yasyām, § 235 end), and the vocabulary a footnote ∗ on lambhayati.
+! Exercise XX opens with a verse Perry numbers ॥ 8 ॥ (te putrā ye pitur bhaktāḥ …, “Those are sons who are devoted to their father …”); the first half-line is preceded by a pencil mark, ignored. His sentences are then numbered 1–13, and the English ones 14–22. Sentence 3 is read āpadi suhṛdo ’smān pālayeyuḥ; sentence 4, viśvasyāṃ bhuvi pāpā bhūbhṛdbhir dṛśyantām (the passive of daṇḍ, “punish”, is not given; the editor reads daṇḍyantām, as Perry’s print shows a ṇḍ conjunct).
+@101
+## Lesson XX
+¶ **237. Declension of Stems in Consonants.** All noun-stems in consonants may well be classed together, since the peculiarities shown by some concern only the stems themselves, and not the endings. Masculines and feminines of the same final are inflected precisely alike; and neuters are peculiar (as usually in the other
+@102
+¶ declensions) only in the nom.-acc.-voc. of all numbers. But the majority of consonantal stems form a special feminine stem by adding ⟨ī⟩ (never ⟨ā⟩) to the weak form of the masculine.
+¶ **238.** Variations, as between stronger and weaker forms, are very general in consonantal stems: either of strong and weak stems, or of strong, middle, and weakest. The endings are throughout the normal ones (Introd., § 90).
+¶ **239.** The general law concerning final consonants is as follows: 1. The more usual etymological finals are ⟨s⟩, ⟨r⟩, ⟨m⟩, ⟨n⟩, ⟨t⟩, ⟨k⟩, ⟨p⟩, ⟨ṭ⟩; sporadic are ⟨ṅ⟩, ⟨l⟩, ⟨ś⟩ as finals.
+¶ 2. In general, only one consonant, of whatever kind, is allowed to stand at the end of a word; if two or more would etymologically occur there, the last is dropped, and again the last, until but one remains.
+¶ 3. Of the non-nasal mutes, only the first in each series, the non-aspirate surd, is allowed as final; the others — surd asp., and both sonants — are regularly converted into this, wherever they would etymologically occur.
+¶ 4. A final palatal, or ⟨h⟩, becomes either ⟨k⟩, or (less often) ⟨ṭ⟩; but ⟨h⟩ in a very few cases (where it represents original ⟨dh⟩) becomes ⟨t⟩.
+¶ **240.** According to 239. 2, the ⟨s⟩ of the nom. sing., m. and f., is always lost; and irregularities of treatment of the stem-final, in this case, are not infrequent.
+¶ **241.** Before the *pada*-endings, ⟨bhyām⟩, ⟨bhis⟩, ⟨bhyas⟩ and ⟨su⟩, a stem-final is treated as in external combination.
+¶ **242.** An aspirate mute is changed to its corresponding non-aspirate before another non-nasal mute or a sibilant; it stands unaltered only before a vowel or semivowel or nasal. Hence such a mute is doubled by prefixing its own corresponding non-aspirate.
+¶ **243. Consonant-stems of one form in ⟨t⟩, ⟨d⟩, ⟨dh⟩ and ⟨bh⟩.** Be-
+@103
+¶ fore suffixal ⟨bh⟩, both ⟨t⟩ and ⟨dh⟩ as stem-finals become ⟨d⟩; ⟨bh⟩ as stem-final becomes ⟨b⟩. Examples: ⟨marut⟩ m., ‘wind’; ⟨āpad⟩ f., ‘misfortune’; ⟨jagat⟩ n., ‘the world’.
+¶ Singular:
+T  | marut (m.) | āpad (f.) | jagat (n.)
+R N.V. | ⟨marut⟩ | ⟨āpat⟩ | ⟨jagat⟩
+R A. | ⟨marutam⟩ | ⟨āpadam⟩ | ⟨jagat⟩
+R I. | ⟨marutā⟩ | ⟨āpadā⟩ | ⟨jagatā⟩
+R D. | ⟨marute⟩ | ⟨āpade⟩ | ⟨jagate⟩
+R Ab. | ⟨marutas⟩ | ⟨āpadas⟩ | ⟨jagatas⟩
+R G. | „ | „ | „
+R L. | ⟨maruti⟩ | ⟨āpadi⟩ | ⟨jagati⟩
+¶ Plural:
+T  | marut (m.) | āpad (f.) | jagat (n.)
+R N.V. | ⟨marutas⟩ | ⟨āpadas⟩ | ⟨jaganti⟩
+R A. | „ | „ | „
+R I. | ⟨marudbhis⟩ | ⟨āpadbhis⟩ | ⟨jagadbhis⟩
+R D. | ⟨marudbhyas⟩ | ⟨āpadbhyas⟩ | ⟨jagadbhyas⟩
+R Ab. | „ | „ | „
+R G. | ⟨marutām⟩ | ⟨āpadām⟩ | ⟨jagatām⟩
+R L. | ⟨marutsu⟩ | ⟨āpatsu⟩ | ⟨jagatsu⟩
+¶ Dual:
+T  | marut (m.) | āpad (f.) | jagat (n.)
+R N.A.V. | ⟨marutau⟩ | ⟨āpadau⟩ | ⟨jagatī⟩
+R I.D.Ab. | ⟨marudbhyām⟩ | ⟨āpadbhyām⟩ | ⟨jagadbhyām⟩
+R G.L. | ⟨marutos⟩ | ⟨āpados⟩ | ⟨jagatos⟩
+¶ For the ⟨n⟩ inserted in nom.-acc. pl. neuter, cf. ⟨phalāni⟩, ⟨madhūni⟩, etc.
+¶ **244.** In a few roots, when a final sonant aspirate (⟨gh⟩, ⟨dh⟩, ⟨bh⟩; also ⟨h⟩, representing ⟨gh⟩) loses its aspiration according to §§ 239. 3, 242, the initial sonant consonant (⟨g⟩, ⟨d⟩, or ⟨b⟩) becomes aspirate; thus, ⟨budh⟩, nom.-voc. sing. ⟨bhut⟩; ⟨bhudbhis⟩, ⟨bhutsu⟩.
+¶ **245. Agreement of adjectives.** If the same adjective qualify two or more substantives, it will be used in their combined number; if the substantives are masculine and feminine, the adj. will be masc.; but in a combination of masc. or fem. subjects with neuter, the adjective will be neuter.
+@104
+## Vocabulary XX
+¶ Verbs:
+V ruh | grow; caus. (⟨rohayati⟩ or ⟨ropayati⟩) make rise or grow; plant. | పెరుగు; పెంచు, నాటు
+V labh | in caus. (⟨lambhayati⟩∗) make receive or take; give. | పొందింపజేయు; ఇచ్చు
+¶ Subst.:
+V upaniṣad | f., name of certain Vedic writings. | ఉపనిషత్తు
+V upavīta | n., sacred cord (worn by the three higher castes). | యజ్ఞోపవీతం
+V taḍit | f., lightning. | మెరుపు
+V dṛṣad | f., stone. | రాయి
+V nirvṛti | f., contentment, happiness. | తృప్తి, సుఖం
+V poṣaka | m., supporter, maintainer. | పోషకుడు
+V bhūbhṛt | m., king; mountain. | రాజు; పర్వతం
+V marut | m., wind; *as pl., n. pr.*, the Storm-gods. | గాలి; (బహువచనంలో) మరుత్తులు
+V vāta | m., wind. | గాలి
+V viśvāsa | m., trust, confidence. | నమ్మకం, విశ్వాసం
+V vṛtra | m., *n. pr.*, a demon, Vṛtra. | వృత్రుడు
+V śata | n., a hundred. | నూరు
+V śarad | f., autumn; year. | శరత్తు; సంవత్సరం
+V samidh | f., fagot. | సమిధ
+V sarit | f., river. | నది
+V suhṛd | m., friend. | మిత్రుడు
+¶ Adj.:
+V kuśala | f. ā, skilled, learned. | నేర్పరి, పండితుడు
+V trivṛt | m., f., n., threefold, triple. | మూడు పేటల
+V durlabha | f. ā, hard to find or reach; difficult. | దొరకని, కష్టసాధ్యమైన
+V bhakta | f. ā, devoted, true. | భక్తుడు, నమ్మకమైన
+¶ Indecl.:
+V api | also; even. | కూడా
+V paścāt | behind (*w. gen.*). | వెనుక (షష్ఠితో)
+## Exercise XX
+¶ The exercise opens with a verse, in two halves (the translations are the editor’s):
+S a | te putrā ye pitur bhaktāḥ sa pitā yas tu poṣakaḥ | Those are sons who are devoted to their father; he is a father who supports; | తండ్రిపట్ల భక్తి గలవారే కొడుకులు; పోషించేవాడే తండ్రి;
+S b | tan mitraṃ yatra viśvāsaḥ sā bhāryā yatra nirvṛtiḥ | that is a friend in whom there is trust; she is a wife in whom there is contentment. | నమ్మకం ఉన్నవాడే మిత్రుడు; సుఖం ఉన్నదే భార్య.
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | he śiṣya samidho vanād āhara | O pupil, bring fagots from the forest. | ఓ శిష్యా, అడవి నుండి సమిధలను తీసుకురా.
+S 2 | upaniṣatsu mukter mārga upadiśyate | In the Upaniṣads the road to deliverance is taught. | ఉపనిషత్తులలో ముక్తి మార్గం బోధించబడుతుంది.
+S 3 | āpadi suhṛdo 'smān pālayeyuḥ | In misfortune may friends protect us. | ఆపదలో మిత్రులు మమ్మల్ని కాపాడుదురు గాక.
+S 4 | viśvasyāṃ bhuvi pāpā bhūbhṛdbhir daṇḍyantām | On the whole earth let the wicked be punished by the kings. | భూమి అంతటా దుష్టులు రాజుల చేత శిక్షించబడుదురు గాక.
+S 5 | samidbhir agniṃ yajeta | One should worship the fire with fagots. | సమిధలతో అగ్నిని ఆరాధించాలి.
+S 6 | puṇyena jagato jayaḥ | By merit comes victory over the world. | పుణ్యం వలన లోకంపై జయం కలుగుతుంది.
+S 7 | tvaṃ jīva śaradaḥ śatam | May you live a hundred autumns. | నువ్వు నూరు శరత్తులు జీవించుదువు గాక.
+S 8 | bhūbhṛtaḥ śikharaṃ vayam ārohāma yūyam adhastād atiṣṭhata | We climbed the summit of the mountain, you stayed below. | మేము పర్వత శిఖరాన్ని ఎక్కాము, మీరు క్రింద ఉన్నారు.
+S 9 | kāścit saritaḥ samudreṇa kāścid anyābhiḥ saridbhiḥ saṃgacchante | Some rivers join the ocean, some other rivers. | కొన్ని నదులు సముద్రంతో కలుస్తాయి, కొన్ని ఇతర నదులతో.
+S 10 | rātrau taḍid adṛśyata | At night lightning was seen. | రాత్రి మెరుపు కనిపించింది.
+S 11 | bhaktāḥ suhṛdo 'smān sukhaṃ lambhayanti | Devoted friends give us happiness. | భక్తులైన మిత్రులు మాకు సుఖాన్ని ఇస్తారు.
+S 12 | aśrubhir nāryo bālāś ca manorathān sādhayanti | With tears the women and children accomplish their wishes. | కన్నీళ్ళతో స్త్రీలు, పిల్లలు తమ కోరికలను సాధించుకుంటారు.
+S 13 | śaradi kāsucit saritsu padmāni dṛśyante | In autumn lotuses are seen in some of the rivers. | శరత్కాలంలో కొన్ని నదులలో పద్మాలు కనిపిస్తాయి.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Words in italics are not to be translated.
+@105
+E 14 | Indra, with the Maruts *as his* companions, killed Vṛtra. | indro marudbhiḥ sahāyair vṛtram ahan | ఇంద్రుడు మరుత్తులను సహాయకులుగా పొంది వృత్రుని చంపాడు.
+E 15 | Without a companion no one can perform a difficult business. | sahāyaṃ vinā na ko 'pi durlabhaṃ kāryaṃ sādhayet | సహాయకుడు లేకుండా ఎవరూ కష్టమైన పనిని సాధించలేరు.
+E 16 | One (*express in pl.*) should plant trees on all the roads, for the sake of the shade. | sarveṣu mārgeṣu chāyāyai vṛkṣān ropayeyuḥ | నీడ కోసం అన్ని దారులలో చెట్లు నాటాలి.
+E 17 | Those friends who are true in misfortune are hard to find in the *three* worlds. | ye suhṛda āpadi bhaktās te triṣu lokeṣu durlabhāḥ | ఆపదలో నమ్మకంగా ఉండే మిత్రులు మూడు లోకాలలో దొరకడం కష్టం.
+E 18 | The girdle and the sacred cord of Aryans are to be made threefold (*neut. dual*). | dvijātīnāṃ mekhalopavīte trivṛtī kriyetām | ద్విజుల మొలత్రాడు, యజ్ఞోపవీతం మూడు పేటలుగా చేయబడాలి.
+E 19 | Put (⟨sthā⟩ *caus.*) this stone behind the fire. | agneḥ paścād imāṃ dṛṣadaṃ sthāpaya | ఈ రాయిని అగ్ని వెనుక ఉంచు.
+E 20 | The ocean is called by the poets the husband of rivers. | kavibhiḥ samudraḥ saritāṃ bhartety ucyate | కవులు సముద్రాన్ని నదులకు భర్త అని అంటారు.
+E 21 | All subjects must be protected (*imv.*) by *their* kings. | sarvāḥ prajā nṛpair rakṣyantām | ప్రజలందరూ తమ రాజులచే రక్షించబడాలి.
+E 22 | Some of these Brāhmans are learned in the Upaniṣads, others in the law-books. | eṣāṃ brāhmaṇānāṃ kecid upaniṣatsu kuśalāḥ kecit smṛtiṣu | ఈ బ్రాహ్మణులలో కొందరు ఉపనిషత్తులలో, కొందరు స్మృతులలో నిపుణులు.
