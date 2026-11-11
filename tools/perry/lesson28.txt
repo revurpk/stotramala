@@ -1,0 +1,82 @@
+# Perry, A Sanskrit Primer. Lesson XXVIII = p. 113 (from the heading) to p. 117 (to the end of the exercise) = leaves n132–n136 of the Cornell scan.
+% The past passive participle in -ta (cont’d) and the past active participle in -tavant
+! Perry’s āi and āu are written ai and au; his dotted ṅ before a sibilant is written ṃ (in § 295 smṛs/sraṃs, śaṃs). The pencil marks are ignored. §§ 294–301 list participles in running text; each form is set in ⟨ ⟩ as Perry gives it (with its root), and the lists are kept as printed: for instance § 295.4 gata, yata, nata, rata (from gam etc.) and khata, tata, mata, vata, hata (from khan, tan, man, van, han); and § 296.1 kānta, krānta, śānta, tānta, dānta, śrānta from kram etc.
+! The footnote of the vocabulary (palāy is a quasi-root from i “go” + parā “away”) is given whole. Perry’s final-t rules in § 294.4 (the h cases) are given with their examples: gāḍha from gāh; līḍha from lih; rūḍha from ruh; mūḍha from muh; but dṛḍha from dṛh; soḍha from sah; dagdha from dah; digdha from dih; dugdha from duh; mugdha; naddha from nah.
+! Exercise XXVIII opens with an eight-sentence group Perry numbers 1–9 and sets in one paragraph; the English ones are 10–15. Sentence 1 is śrīmato (abl.) rājñaḥ sammatair ebhiḥ kavibhir iṣṭāni vasūni labdhāni; sentence 4 is read mūḍhaḥ kharaḥ mṛgālasya snigdhābhir vāgbhiḥ pratāritaḥ siṃhasya guhāyām āgatas tena hataḥ; sentence 5, kṣetreṣu siktābhir meghānām adbhir dhānyaṃ prarūḍham; sentence 7, udīcā diśo yavaneṣv āgacchatsu pṛthvīrāja indraprasthāt sainyena saha niṣkrāntaḥ. In sentence 9 the last words are printed paścād asinā ghātitaḥ. Perry’s “(abl.)” after śrīmato and diśo is moved into the editor’s notes. The note “(In the following render all finite verbs by participles.)” is given.
+@132
+## Lesson XXVIII
+¶ **293. Past Passive Participle, cont’d. B. With suffix ⟨ta⟩.** I. **Without union-vowel ⟨i⟩.** Much more commonly this participle is made by adding the suffix ⟨ta⟩ to the bare root; thus, ⟨jñāta⟩ from ⟨jñā⟩; ⟨jita⟩ from ⟨ji⟩; ⟨kṣipta⟩ from ⟨kṣip⟩; ⟨hṛta⟩ from ⟨hṛ⟩ (or ⟨hvā⟩); ⟨vṛtta⟩ from ⟨vṛt⟩.
+@133
+¶ **294.** If the root end in a consonant other than ⟨k⟩, ⟨t⟩, ⟨p⟩, ⟨s⟩, the ordinary rules of euphonic combination apply as follows:
+¶ 1. Final ⟨c⟩ and ⟨j⟩ become ⟨k⟩; thus, ⟨sikta⟩ from ⟨sic⟩; ⟨yukta⟩ from ⟨yuj⟩; ⟨tyakta⟩ from ⟨tyaj⟩.
+¶ 2. Final ⟨ś⟩ becomes ⟨ṣ⟩, after which, as also after radical final ⟨ṣ⟩, ⟨t⟩ becomes ⟨ṭ⟩; thus, ⟨dṛṣṭa⟩ from ⟨dṛś⟩; ⟨dviṣṭa⟩ from ⟨dviṣ⟩. ⟨sṛṣṭa⟩ and ⟨mṛṣṭa⟩ are made from ⟨sṛj⟩ and ⟨mṛj⟩, and ⟨iṣṭa⟩ from ⟨yaj⟩, contrary to 1. ⟨prach⟩ makes ⟨pṛṣṭa⟩; and ⟨takṣ⟩, ⟨taṣṭa⟩.
+¶ 3. Final ⟨dh⟩ becomes ⟨d⟩, and ⟨bh⟩, ⟨b⟩; and the following ⟨t⟩ becomes ⟨dh⟩; thus, ⟨vṛddha⟩ from ⟨vṛdh⟩, ⟨labdha⟩ from ⟨labh⟩.
+¶ 4. Final ⟨h⟩ is treated in various ways, according to its historical value. *a.* Sometimes ⟨h⟩ combines with ⟨t⟩ to form ⟨ḍh⟩, before which short vowels (except ⟨ṛ⟩) are lengthened; thus, ⟨gāḍha⟩ from ⟨gāh⟩, ⟨līḍha⟩ from ⟨lih⟩, ⟨rūḍha⟩ from ⟨ruh⟩; ⟨mūḍha⟩ from ⟨muh⟩; but ⟨dṛḍha⟩ from ⟨dṛh⟩. ⟨sah⟩ forms ⟨soḍha⟩. *b.* Where ⟨h⟩ represents original ⟨gh⟩, the combination is ⟨gdh⟩; thus, ⟨dagdha⟩ from ⟨dah⟩; ⟨digdha⟩ from ⟨dih⟩; ⟨dugdha⟩ from ⟨duh⟩. The root ⟨muh⟩ forms also ⟨mugdha⟩. *c.* ⟨nah⟩, where ⟨h⟩ represents original ⟨dh⟩, makes ⟨naddha⟩.
+¶ **295.** The root before ⟨ta⟩ usually has its weakest form, if there is any where in the verbal system a distinction of strong and weak forms. Thus: 1. A penultimate nasal is dropped; e. g., ⟨akta⟩ from ⟨añj⟩; ⟨baddha⟩ from ⟨bandh⟩; ⟨srasta⟩ from ⟨sraṃs⟩ (or ⟨sras⟩); ⟨śasta⟩ from ⟨śaṃs⟩. 2. Roots which are abbreviated in the weak forms of the perfect suffer the same abbreviation here; e. g., ⟨ukta⟩ from ⟨vac⟩, ⟨upta⟩ from ⟨vap⟩, ⟨supta⟩ from ⟨svap⟩, ⟨ūḍha⟩ from ⟨vah⟩; ⟨iṣṭa⟩ from ⟨yaj⟩ (the same form from ⟨iṣ⟩); ⟨viddha⟩ from ⟨vyadh⟩; ⟨pṛṣṭa⟩ from ⟨prach⟩. 3. Final ⟨ā⟩ is weakened to ⟨ī⟩ in ⟨gīta⟩ from ⟨gā⟩ ‘sing’, ⟨pīta⟩ from 1⟨pā⟩ ‘drink’; to ⟨i⟩ in ⟨sthita⟩ from ⟨sthā⟩, ⟨hita⟩ from ⟨dhā⟩ ‘put’ (with ⟨dh⟩ also changed to ⟨h⟩), ⟨mita⟩ from
+@134
+¶ ⟨mā⟩ ‘measure’, and a few others. 4. A final ⟨m⟩ is lost after ⟨a⟩ in ⟨gata⟩, ⟨yata⟩, ⟨nata⟩, ⟨rata⟩ (from ⟨gam⟩ etc.); and likewise final ⟨n⟩ in ⟨khata⟩, ⟨tata⟩, ⟨mata⟩, ⟨vata⟩, ⟨hata⟩ (from ⟨khan⟩ etc.). 5. Isolated cases are ⟨śiṣṭa⟩ from ⟨śās⟩; ⟨dyūta⟩ from ⟨div⟩ ‘play’.
+¶ **296.** More irregular are the following:
+¶ 1. Some roots in ⟨am⟩ make participles in ⟨ānta⟩; thus, ⟨kānta⟩, ⟨krānta⟩, ⟨cānta⟩, ⟨tānta⟩, ⟨dānta⟩, ⟨śānta⟩, ⟨śrānta⟩, from ⟨kam⟩ etc.
+¶ 2. ⟨jan⟩, ⟨khan⟩, and ⟨san⟩ make ⟨jāta⟩ etc.
+¶ 3. The root 1⟨dā⟩, ‘give’, forms ⟨datta⟩ (from the derivative form ⟨dad⟩). The contracted form ⟨tta⟩ is widely found in composition, especially with prepositions; thus, ⟨pradatta⟩ or ⟨pratta⟩, ⟨nidatta⟩ or ⟨nītta⟩, etc.
+¶ **297.** II. **With union-vowel ⟨i⟩.** The suffix with ⟨i⟩, or in the form ⟨ita⟩, is regularly used with the derivative verb-stems in secondary conjugation, also often with roots of derivative character (like ⟨jīv⟩, ⟨hiṃs⟩), and not infrequently with original roots.
+¶ **298.** When ⟨ita⟩ is added to causative and denominative verb-stems the syllables ⟨aya⟩ are dropped; thus, ⟨cur⟩, pass. part. ⟨corita⟩; ⟨gaṇaya⟩, ⟨gaṇita⟩; ⟨taḍ⟩, ⟨tāḍita⟩; ⟨mṛ⟩, caus. ⟨mārayati⟩, caus. pass. part. ⟨mārita⟩; ⟨han⟩, caus. ⟨ghātayati⟩, ⟨ghātita⟩.
+¶ **299.** Among the original roots taking ⟨ita⟩ may be noticed the following:
+¶ ⟨pat⟩ ‘fall’, ⟨patita⟩; ⟨kup⟩, ⟨kupita⟩; ⟨vas⟩ ‘dwell’, ⟨uṣita⟩; ⟨śvas⟩, ⟨śvasita⟩; ⟨tṛṣ⟩ ‘thirst’, ⟨tṛṣita⟩; ⟨likh⟩, ⟨likhita⟩; ⟨īkṣ⟩, ⟨īkṣita⟩; ⟨vad⟩, ⟨udita⟩. ⟨grah⟩ makes ⟨gṛhīta⟩; ⟨śī⟩ ‘lie’ makes ⟨śayita⟩.
+¶ **300.** A few roots form this participle either with or without the auxiliary ⟨i⟩; thus, ⟨matta⟩ and ⟨madita⟩ from ⟨mad⟩.
+¶ **301.** The grammarians reckon as participles of the ⟨na⟩-formation a few derivative adjectives, coming from roots which do not make a regular participle; such are ⟨kṣāma⟩ ‘burnt’ (⟨kṣā⟩); ⟨kṛśa⟩ ‘thin’, ‘haggard’ (⟨kṛś⟩); ⟨pakva⟩ ‘ripe’ (⟨pac⟩); ⟨śuṣka⟩ ‘dry’ (⟨śuṣ⟩); ⟨phulla⟩ ‘expanded’ (⟨phull⟩).
+@135
+¶ **302. Past Active Participle in ⟨tavant⟩ (or ⟨navant⟩).** From the past pass. part. is made, by adding the possessive suffix ⟨vant⟩ (f. ⟨vatī⟩), a secondary derivative having the meaning and construction of a perfect active participle; thus, ⟨kṛtavant⟩, ⟨pratipannavant⟩.
+¶ **303.** This participle is almost always used predicatively, and generally without expressed copula, i. e., with the value of a personal perfect-form. Thus, ⟨māṃ na kaścid dṛṣṭavān⟩ “no one has seen me”; or, with copula, ⟨mahatkṛcchraṃ prāptavaty asi⟩ “thou (fem.) hast come into great misery”. This participle comes to be made even from intransitives; thus, ⟨sā gatavatī⟩ “she has gone”.
+## Vocabulary XXVIII
+¶ Verbs:
+V tṛ | + ⟨pra⟩ in caus. (⟨pratārayati⟩) deceive. | మోసగించు
+V nah | + ⟨sam⟩ (⟨saṃnahyati⟩) equip oneself. | సన్నద్ధమగు
+V pad | + ⟨vi-ā⟩ in caus. (⟨vyāpādayati⟩) kill. | చంపు
+V palāy | ∗ (⟨palāyate⟩) flee. | పారిపోవు
+V bhuj | 2 enjoy, eat. | అనుభవించు, తిను
+V man | + ⟨sam⟩ honor. | గౌరవించు
+V muh | (⟨muhyati⟩) be confused or dazed or stupid. | భ్రమపడు, మూఢుడగు
+V rudh | + ⟨ava⟩ besiege. | ముట్టడించు
+V ruh | + ⟨pra⟩ (⟨prarohati⟩) grow up. | మొలకెత్తు, పెరుగు
+V viś | + ⟨pra⟩ (⟨praviśati⟩) penetrate, enter. | ప్రవేశించు
+V vṛt | + ⟨pra⟩ in caus. (⟨pravartayati⟩) continue. | కొనసాగించు
+V śiṣ | + ⟨ava⟩ remain over, survive. | మిగులు, బ్రతికిపోవు
+V stṛ | + ⟨upa⟩ bestrew. | పరచు
+¶ Subst.:
+V anta | m., end; *in loc.*, at last. | అంతం; (సప్తమిలో) చివరికి
+V indraprastha | n., *n. pr.*, Delhi. | ఇంద్రప్రస్థం (ఢిల్లీ)
+V khara | m., ass. | గాడిద
+V guhā | f., cave. | గుహ
+V carita | n., behavior, life. | నడవడి, జీవితం
+V pṛthvīrāja | m., *nom. pr.* | పృథ్వీరాజు
+V paura | m., citizen. | పౌరుడు
+V prāsāda | m., palace. | ప్రాసాదం
+V yavana | m., Greek, barbarian. | యవనుడు
+V mṛgāla | m., jackal. | నక్క
+V sainika | m., soldier. | సైనికుడు
+V sainya | n., army. | సైన్యం
+V hastin | m., elephant. | ఏనుగు
+¶ ∗ A *quasi*-root from ⟨i⟩ ‘go’ + ⟨parā⟩ ‘away’.
+@136
+¶ Adj.:
+V bhūyas | (comp.) more. *In neut. sing. as adv.*: mostly. | అధికమైన; (క్రియావిశేషణంగా) చాలావరకు
+V snigdha | (part. from ⟨snih⟩) affectionate. | స్నేహపూర్వకమైన
+## Exercise XXVIII
+¶ In the following nine sentences Perry gives the Sanskrit first (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | śrīmato rājñaḥ saṃmatair ebhiḥ kavibhir iṣṭāni vasūni labdhāni | The desired wealth has been obtained by these poets, esteemed by the glorious king. [Perry marks śrīmato as ablative.] | ఈ కవులు శ్రీమంతుడైన రాజుచే సమ్మానితులై కోరిన ధనాన్ని పొందారు. [పెర్రీ śrīmato ను పంచమీ అని సూచిస్తాడు.]
+S 2 | kuto bhavān āgata iti dvāri sthitaḥ parivrāḍ gṛhasthena pṛṣṭaḥ | The wandering ascetic standing at the door was asked by the householder, “Whence have you come?” | గుమ్మం వద్ద నిలుచున్న సన్యాసిని గృహస్థుడు “మీరు ఎక్కడి నుండి వచ్చారు?” అని అడిగాడు.
+S 3 | svabhir gṛhīto hariṇo vyādhair vyāpāditaḥ | The gazelle, seized by dogs, was killed by hunters. | కుక్కలచే పట్టబడిన జింకను వేటగాళ్ళు చంపారు.
+S 4 | mūḍhaḥ kharo mṛgālasya snigdhābhir vāgbhiḥ pratāritaḥ siṃhasya guhāyām āgatas tena hataḥ | The foolish ass, deceived by the jackal’s affectionate words, came into the lion’s cave and was killed by him. | మూర్ఖుడైన గాడిద నక్క స్నేహపూర్వకమైన మాటలకు మోసపోయి సింహం గుహలోకి వచ్చి దాని చేత చంపబడింది.
+S 5 | kṣetreṣu siktābhir meghānām adbhir dhānyaṃ prarūḍham | By the waters of the clouds, sprinkled on the fields, the grain has sprung up. | పొలాలలో కురిసిన మేఘజలాలతో ధాన్యం మొలకెత్తింది.
+S 6 | kāṣṭhāny uṣitair bhrātṛbhiḥ śāstrāṇi samyag adhītānīti teṣām ācāryeṇa likhitāt pattrād avagamyate | From a letter written by their teacher it is learnt that the brothers, who have stayed for the fire-wood, have studied the sciences well. | కట్టెల కోసం ఉన్న సోదరులు శాస్త్రాలను చక్కగా చదివారని వారి ఆచార్యుడు రాసిన ఉత్తరం వలన తెలుస్తుంది.
+S 7 | udīcā diśo yavaneṣv āgacchatsu pṛthvīrāja indraprasthāt sainyena saha niṣkrāntaḥ | When the Yavanas were coming from the northern quarter, Pṛthvīrāja went out from Indraprastha with his army. [Perry marks diśo as ablative.] | ఉత్తర దిక్కు నుండి యవనులు వస్తుండగా పృథ్వీరాజు తన సైన్యంతో ఇంద్రప్రస్థం నుండి బయలుదేరాడు.
+S 8 | pathi saṅgacchamānair dviḍbhiḥ saha mahad yuddhaṃ saṃjātam | On the way, a great battle arose with the enemies who were meeting him. | దారిలో కలుసుకున్న శత్రువులతో గొప్ప యుద్ధం జరిగింది.
+S 9 | tasmin rājā parājitaḥ śarair viddho hastino bhūmau patito yavanair jīvann eva gṛhītaḥ paścād asinā ghātitaḥ | In that [battle] the king was defeated, pierced by arrows, fell from his elephant to the ground, was taken alive by the Yavanas, and afterwards killed with a sword. | ఆ యుద్ధంలో రాజు ఓడిపోయి, బాణాలతో గాయపడి, ఏనుగు మీద నుండి నేలపై పడి, యవనులచే సజీవంగా పట్టబడి, తరువాత కత్తితో చంపబడ్డాడు.
+¶ Into Sanskrit: “In the following render all finite verbs by participles.” An answer under each, the editor’s, with its Telugu.
+E 10 | Many of the soldiers were killed; some who survived fled into the city. | bahavaḥ sainikā hatāḥ kecid avaśiṣṭā nagaraṃ palāyitāḥ | అనేక సైనికులు చంపబడ్డారు; బ్రతికి మిగిలిన కొందరు నగరంలోకి పారిపోయారు.
+E 11 | The gates of the city were shut fast (⟨dṛḍhā apihitāḥ⟩); the citizens equipped themselves for battle. | purasya dvārāṇi dṛḍham apihitāni paurā yuddhāya saṃnaddhāḥ | నగర ద్వారాలు గట్టిగా మూసివేయబడ్డాయి; పౌరులు యుద్ధానికి సన్నద్ధులయ్యారు.
+E 12 | The Yavanas approached and besieged the city (*pass.*). | yavanair upagatair nagaram avaruddham | యవనులు సమీపించి నగరాన్ని ముట్టడించారు.
+E 13 | Finally the Yavanas, proving victorious (*past act. part.*), entered the city by force. | ante yavanā jayitavanto balena nagaraṃ praviṣṭāḥ | చివరికి యవనులు విజయం పొంది బలంతో నగరంలో ప్రవేశించారు.
+E 14 | The young and old men were mostly murdered; the women made slaves; the great possessions of the citizens plundered, the palaces and houses burnt with fire. | yūnaś ca vṛddhāś ca bhūyo hatāḥ striyo dāsyaḥ kṛtāḥ paurāṇāṃ mahānti vasūni luptāni prāsādā gṛhāṇi cāgninā dagdhāni | యువకులు, వృద్ధులు చాలావరకు చంపబడ్డారు; స్త్రీలు దాసీలుగా చేయబడ్డారు; పౌరుల గొప్ప సంపదలు దోచుకోబడ్డాయి; ప్రాసాదాలు, ఇళ్ళు అగ్నితో కాల్చబడ్డాయి.
+E 15 | The end of Pṛthvīrāja has been described by the Yavanas, and his previous life sung by the poet Caṇḍa. | pṛthvīrājasyāntā yavanair varṇitaḥ pūrvaṃ ca caritaṃ kavinā caṇḍena gītam | పృథ్వీరాజు అంతం యవనులచే వర్ణించబడింది, అతని పూర్వ జీవితం కవి చండునిచే గానం చేయబడింది.
