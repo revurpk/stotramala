@@ -1,0 +1,75 @@
+# Perry, A Sanskrit Primer. Lesson III = pp. 30–32 (to Exercise III) = leaves n49–n51 (cu31924011121690);
+# the footnote ∗∗ to Exercise III runs on to p. 33 (n52) and is given in full here.
+@49
+## Lesson III
+¶ **107. Verbs. Accented ⟨a⟩-class.** Roots of this class form their present-stem by adding an accented ⟨a⟩ to the root, which is not gunated. The inflection of these stems is precisely like that of stems belonging to the preceding class, except as to the position of the accent; thus, ⟨kṣip⟩, present-stem ⟨kṣipa⟩, pres. ind. ⟨kṣipāmi⟩, ⟨kṣipasi⟩, ⟨kṣipati⟩, etc.
+¶ **108.** Several roots in ⟨ṛ⟩ of this class (by the Hindus written with ⟨ṝ⟩) form stems in ⟨ira⟩; e. g., ⟨kṛ⟩, ‘strew’, ⟨kirati⟩. The roots in ⟨i⟩ and ⟨u⟩ and ⟨ū⟩ change those vowels into ⟨iy⟩ and ⟨uv⟩, respectively, before the class-sign; thus, ⟨kṣi⟩, ⟨kṣiyati⟩; ⟨su⟩, ⟨suvati⟩; ⟨dhū⟩, ⟨dhuvati⟩.
+¶ **109.** For the root ⟨iṣ⟩, ‘desire’, ⟨ich⟩ is regarded as a substitute in the present-stem; thus, ⟨icchati⟩ (§ 100, note). Likewise, ⟨ṛ⟩ makes its present ⟨ṛcchati⟩; and ⟨prach⟩, sometimes given as ⟨pṛch⟩, makes ⟨pṛcchati⟩.
+¶ **110.** A number of roots following this class are strengthened in the present by a penultimate nasal; thus, ⟨sic⟩, present ind. ⟨siñcati⟩. The nasal is always assimilated in class to the following consonant; thus ⟨ñ⟩ is used before palatals, ⟨n⟩ before dentals, ⟨m⟩ before labials; and ⟨ṃ⟩ [Perry’s dotted *ṅ*, the anusvāra] before sibilants and ⟨h⟩.
+¶ **111. Masculines and Neuters in ⟨a⟩, cont’d.**
+¶ a. Masculines:
+T  | Singular. | Dual. | Plural.
+R I. | ⟨devena⟩ | ⟨devābhyām⟩ | ⟨devais⟩
+R D. | ⟨devāya⟩ | „ | ⟨devebhyas⟩
+R Ab. | ⟨devāt⟩ | „ | „
+R G. | ⟨devasya⟩ | ⟨devayos⟩ | ⟨devānām⟩
+R L. | ⟨deve⟩ | „ | ⟨deveṣu⟩
+¶ b. Neuters follow exactly the declension of masculines in the above cases; thus, ⟨phalena⟩, ⟨phalāya⟩, etc.
+@50
+¶ **112. Force of cases.** 1. The instrumental answers the questions wherewith? and whereby? and expresses accompaniment, agent, or means. 2. The dative denotes the remoter object, and direction. It is also used as *dativus commodi*; very frequently also to denote end or purpose. Sometimes (and oftenest with copula omitted) it is predicative, in the sense of ‘makes for, tends toward’. 3. The ablative answers the question whence? and very frequently denotes cause. 4. The genitive is *casus adjectivus*, denoting all kinds of belonging (e. g. *gen. subjectivus*, *objectivus*, *partitivus*). 5. The locative denotes the place where, or the time when, an action occurs. It is often used absolutely, in agreement with a participle expressed or understood, as the ablative is used in Latin and the genitive in Greek.
+## Vocabulary III
+¶ Verbs, ⟨a⟩-class (accented):
+V iṣ | (⟨icchati⟩) wish, desire. | కోరు, ఇచ్ఛించు
+V kṛṣ | (⟨kṛṣati⟩) plough. | దున్ను
+V kṣip | (⟨kṣipati⟩) hurl, cast, throw. | విసురు, పడవేయు
+V diś | (⟨diśati⟩) show, point out. | చూపు, చూపించు
+V prach | (⟨pṛcchati⟩) ask, ask about. | అడుగు, గురించి అడుగు
+V viś | (⟨viśati⟩) enter. | ప్రవేశించు
+V sic | (⟨siñcati⟩) drip, drop; moisten. | కురియు, చిలుకరించు; తడుపు
+V sṛj | (⟨sṛjati⟩) let go; create. | విడుచు; సృష్టించు
+V spṛś | (⟨spṛśati⟩) touch; (in certain connections) wash. | తాకు; (కొన్ని సందర్భాలలో) కడుగు
+¶ ⟨a⟩-class (unaccented):
+V guh | (⟨gūhati⟩, § 101) hide, conceal. | దాచు
+V sad | (⟨sīdati⟩, § 101) sit. | కూర్చుండు
+¶ Subst. Masc.:
+V kaṭa | mat. | చాప
+V kunta | spear. | ఈటె
+V bāla | child, boy. | బాలుడు, పిల్లవాడు
+V mārga | road, way, street. | దారి, మార్గం, వీధి
+V megha | cloud. | మేఘం
+V śara | arrow. | బాణం
+V hasta | hand. | చేయి, హస్తం
+¶ Neut.:
+V kṣetra | field. | పొలం
+V dhana | money, riches. | ధనం, సంపద
+V lāṅgala | plough. | నాగలి
+V viṣa | poison. | విషం
+V sukha | fortune, luck, happiness. | సుఖం, అదృష్టం, ఆనందం
+@51
+## Exercise III
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | dhanāni gṛheṣu gūhanti | They hide riches in the houses. | వారు ధనాలను ఇళ్ళలో దాచుతారు.
+S 2 | kuntān hastābhyāṃ kṣipāmaḥ | We hurl the spears with both hands. | మేము రెండు చేతులతో ఈటెలను విసురుతాము.
+S 3 | nṛpāya narau mārgaṃ diśataḥ | The two men show the king the way. | ఇద్దరు మనుషులు రాజుకు దారి చూపిస్తారు.
+S 4 | mārgeṇa∗∗ grāmaṃ gacchāvaḥ | We two go to the village by the road. | మేమిద్దరం దారి వెంట గ్రామానికి వెళ్తాము.
+S 5 | sukheneha gṛhe tiṣṭhati putraḥ | The son stays here in the house happily. | కొడుకు ఇక్కడ ఇంట్లో సుఖంగా ఉంటాడు.
+S 6 | jalaṃ siñcati meghaḥ | The cloud drops water. | మేఘం నీటిని కురిపిస్తుంది.
+S 7 | dhanena sukham icchanti narāḥ | Men desire happiness through money. | మనుషులు ధనంతో సుఖాన్ని కోరుకుంటారు.
+S 8 | hastayoḥ phale tiṣṭhataḥ | Two fruits rest in the two hands. | రెండు చేతులలో రెండు పండ్లు ఉన్నాయి.
+S 9 | jalaṃ hastena spṛśasi | You touch the water with the hand. | నువ్వు చేతితో నీటిని తాకుతావు.
+S 10 | narau kaṭe sīdataḥ | The two men sit on the mat. | ఇద్దరు మనుషులు చాప మీద కూర్చుంటారు.
+S 11 | kṣetrāṇi lāṅgalaiḥ kṛṣanti | They plough the fields with ploughs. | వారు నాగళ్ళతో పొలాలను దున్నుతారు.
+S 12 | nagaraṃ nṛpau viśataḥ | The two kings enter the city. | ఇద్దరు రాజులు నగరంలోకి ప్రవేశిస్తారు.
+S 13 | naraḥ putreṇa mārge gacchati | The man goes on the road with his son. | మనిషి కొడుకుతో కలిసి దారిలో వెళ్తాడు.
+S 14 | narān sṛjati devaḥ | The god creates men. | దేవుడు మనుషులను సృష్టిస్తాడు.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Words in italics are not to be translated, and the superior figures give the position of the Sanskrit word in the sentence.
+E 15 | The boy⁴ asks³ the men¹ *about* the road² (acc.). | narān mārgaṃ pṛcchati bālaḥ | బాలుడు మనుషులను దారి గురించి అడుగుతాడు.
+E 16 | The clouds¹ drop⁴ water³ *on* the fields² (loc.). | meghāḥ kṣetreṣu jalaṃ siñcanti | మేఘాలు పొలాల మీద నీటిని కురిపిస్తాయి.
+E 17 | The *two* men¹ go⁴ *by two* roads² (instr.) *into* the city³. | narau mārgābhyāṃ nagaraṃ gacchataḥ | ఇద్దరు మనుషులు రెండు దారుల గుండా నగరానికి వెళ్తారు.
+E 18 | The king⁴ gives³ the *two* men¹ money². | narābhyāṃ dhanaṃ yacchati nṛpaḥ | రాజు ఇద్దరు మనుషులకు ధనం ఇస్తాడు.
+E 19 | The man’s¹ sons² sit⁴ *on* mats³. | narasya putrāḥ kaṭeṣu sīdanti | మనిషి కొడుకులు చాపల మీద కూర్చుంటారు.
+E 20 | The gods⁴ give³ the water² of the clouds¹. | meghānāṃ jalaṃ yacchanti devāḥ | దేవతలు మేఘాల నీటిని ఇస్తారు.
+E 21 | We wash³ (use ⟨spṛś⟩) *both* hands² *with* water¹. | jalena hastau spṛśāmaḥ | మేము నీటితో రెండు చేతులను కడుగుతాము.
+E 22 | *Both* men¹ lead⁴ *their* sons² (dual) home³ (⟨gṛham⟩). | narau putrau gṛhaṃ nayataḥ | ఇద్దరు మనుషులు తమ ఇద్దరు కొడుకులను ఇంటికి తీసుకువెళ్తారు.
+E 23 | The *two* boys³ point out⁴ the road² *to* the city¹ (gen.). | nagarasya mārgaṃ bālau diśataḥ | ఇద్దరు బాలురు నగరపు దారిని చూపిస్తారు.
+¶ ∗∗ The dental nasal ⟨n⟩, when immediately followed by a vowel, or by ⟨n⟩ or ⟨m⟩ or ⟨y⟩ or ⟨v⟩, is turned into the lingual ⟨ṇ⟩ if preceded in the same word by the lingual sibilant or semi-vowel or vowels — i. e. by ⟨ṣ⟩, ⟨r⟩, ⟨ṛ⟩, or ⟨ṝ⟩: and this, not only if the altering letter stands immediately before the nasal, but at whatever distance before the latter it may be found: unless, indeed, there intervene a palatal (except ⟨y⟩), a lingual, or a dental. Thus, ⟨nagareṇa⟩, ⟨mārgeṇa⟩, ⟨puṣpāṇi⟩.

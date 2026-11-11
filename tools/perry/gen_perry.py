@@ -95,7 +95,8 @@ def main(nn):
 
 
 TITLES = {1: "Verbs: the present indicative of the a-class (vadati); visarga at the end of a word",
-          2: "Verbs: the a-class continued (gacchati, tiṣṭhati); nouns in a (deva, phala); the combination of vowels"}
+          2: "Verbs: the a-class continued (gacchati, tiṣṭhati); nouns in a (deva, phala); the combination of vowels",
+          3: "Verbs: the accented a-class (kṣipati, siñcati); the other cases of nouns in a; the force of the cases"}
 
 if __name__ == "__main__":
     main(int(sys.argv[1]))

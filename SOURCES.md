@@ -2195,8 +2195,8 @@ script switch (`tools/build_stotra.py`: section types `para`, `table`,
 
 | Field | Value |
 |---|---|
-| Work | Edward Delavan Perry, *A Sanskrit Primer, based on the Leitfaden für den Elementarcursus des Sanskrit of Professor Georg Bühler of Vienna*: an introduction to the structure of the language (§§ 1–91), 45 graded lessons with vocabularies and exercises, and glossaries. Lessons I–II are done so far, one page a lesson |
-| Source | Ginn & Co., Boston, 1885; the scan used is of the 1892 issue, Cornell University Library copy, archive.org `cu31924011121690` (leaf n38 = p. 19; Lesson I = leaves n43–n45 = pp. 24–26; Lesson II = leaves n45–n48 = pp. 26–29). Public domain: published 1885, and Perry died in 1938 |
+| Work | Edward Delavan Perry, *A Sanskrit Primer, based on the Leitfaden für den Elementarcursus des Sanskrit of Professor Georg Bühler of Vienna*: an introduction to the structure of the language (§§ 1–91), 45 graded lessons with vocabularies and exercises, and glossaries. Lessons I–III are done so far, one page a lesson |
+| Source | Ginn & Co., Boston, 1885; the scan used is of the 1892 issue, Cornell University Library copy, archive.org `cu31924011121690` (leaf n38 = p. 19; Lesson I = leaves n43–n45 = pp. 24–26; Lesson II = leaves n45–n48 = pp. 26–29; Lesson III = leaves n49–n51 = pp. 30–32, with the footnote to Exercise III continued on p. 33). Public domain: published 1885, and Perry died in 1938 |
 | Recorded | 2026-11-11 |
 | Text status | public domain |
 
@@ -2235,3 +2235,10 @@ inside the prose, tables and vocabularies included.
 - Exercise II, sentence 12 is printed *putra grāmaṃ gacchanti* (a singular
   stem with a plural verb). It is kept as printed and the editor's
   translation notes that *putrāḥ* is meant.
+- Lesson III: Perry separates the accented *á*-class from the unaccented
+  *a*-class by the accent alone; with accents not carried, the vocabulary
+  headings are labelled “(accented)” and “(unaccented)” by the editor. In
+  § 110 his dotted *ṅ* (the anusvāra) is written ⟨ṃ⟩, with a bracketed note.
+  The footnote to Exercise III (sentence 4) is printed across the foot of
+  pp. 32–33, beneath the first paragraphs of Lesson IV; it is given whole
+  here, under the exercise it belongs to.
