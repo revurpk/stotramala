@@ -1,0 +1,86 @@
+# Perry, A Sanskrit Primer. Lesson VI = p. 39 (from the heading) to p. 42 (to the end of the exercise) = leaves n58–n61 of the Cornell scan.
+% Verbs: the ya-class continued (tāmyati, mādyati); nouns in u (madhu); the changes of final n
+! Leaf n58 of the Cornell scan (p. 39) is cut off at the right edge; the whole of p. 39 (§§ 131–136, the paradigm of madhu, and the end of Exercise V, sentences 29–31, which is in Lesson V) was read from the Toronto copy of the same edition, archive.org sanskritprimerb00perr, leaf n54. Perry’s § 132 there reads “written with final o”.
+! § 139: the nasalized l that Perry writes ल्ँ (l with candrabindu) and says is “the same thing” as anusvāra is given as ṃl; the scripts here have no candrabindu on l, so it shows as anusvāra and l. In Exercise VI, sentence 5 (viṣeṇāsīṃ limpanti) Perry applies that rule himself; in sentence 7 he applies § 138 (gurūñ chiṣyāṃś ca).
+! Where two words have coalesced, the editor writes them as one (paraśunākrāmati, jalenāgniḥ, as in Perry’s Devanāgarī) in the exercise sentences, so that no avagraha appears.
+@58
+## Lesson VI
+¶ **131. Verbs. ⟨ya⟩-class, cont’d.** The roots of this class which end in ⟨am⟩ lengthen their ⟨a⟩ in forming their present-stem; thus, ⟨tam⟩, ⟨tāmyati⟩; ⟨bhram⟩, ⟨bhrāmyati⟩ — but this last makes some forms with short ⟨a⟩. The root ⟨mad⟩ has the same lengthening: ⟨mādyati⟩.
+¶ **132.** Certain ⟨ā⟩-roots (five — by the Hindus written with final ⟨o⟩) make present-stems with an accented ⟨yá⟩; thus, ⟨dā⟩, ⟨dyati⟩.
+¶ **133.** The root ⟨vyadh⟩ is abbreviated to ⟨vidh⟩ in the present-system: ⟨vidhyati⟩.
+¶ **134.** The root ⟨kram⟩, said by the natives to form its present-stem according to this class, really forms it only according to the ⟨a⟩-class, and the root-vowel is lengthened in the active voice, but not in the middle; thus, ⟨krāmati⟩, but middle ⟨kramate⟩.
+¶ **135.** The root ⟨cam⟩, used only with the preposition ⟨ā⟩, forms ⟨ācāmati⟩.
+¶ **136. Neuters in ⟨u⟩.** ⟨madhu⟩, ‘honey’.
+T  | Singular. | Dual. | Plural.
+R N. | ⟨madhu⟩ | ⟨madhunī⟩ | ⟨madhūni⟩
+R A. | „ „ | „ „ | „ „
+R I. | ⟨madhunā⟩ | ⟨madhubhyām⟩ | ⟨madhubhis⟩
+R D. | ⟨madhune⟩ | „ „ | ⟨madhubhyas⟩
+R Ab. | ⟨madhunas⟩ | „ „ | „ „
+R G. | „ „ | ⟨madhunos⟩ | ⟨madhūnām⟩
+R L. | ⟨madhuni⟩ | „ „ | ⟨madhuṣu⟩
+R V. | ⟨madhu⟩ or ⟨madho⟩ |  |
+@59
+¶ **137.** Neuter adjectives (but not substantives) in ⟨u⟩ may take the forms proper to the masculine in the dat., abl.-gen., loc. sing., and gen.-loc. dual.
+¶ **138. Changes of final ⟨n⟩.** Before initial ⟨j⟩ and ⟨ś⟩, ⟨n⟩ becomes ⟨ñ⟩; thus, ⟨tān janān⟩ becomes ⟨tāñ janān⟩; ⟨tān śatrūn⟩ = ⟨tāñ śatrūn⟩. In last case, however, ⟨ch⟩ is almost always substituted for the initial ⟨ś⟩; thus, ⟨tāñ chatrūn⟩.
+¶ **139.** Final ⟨n⟩, before an initial ⟨l⟩, is assimilated and becomes nasalized ⟨l⟩, which is written ल्ँ [⟨ṃl⟩], or (what is the same thing) anusvāra ⟨ṃ⟩; thus ⟨tān lokān⟩ becomes ⟨tāṃl lokān⟩ or ⟨tāṃ lokān⟩.
+¶ **140.** Before the surd palatal, lingual, and dental mutes there is inserted after final ⟨n⟩ a sibilant of each of those classes respectively, before which ⟨n⟩ becomes *anusvāra*; thus for ⟨tān ca⟩ we find ⟨tāṃś ca⟩; for ⟨tān tathā⟩, ⟨tāṃs tathā⟩.∗
+## Vocabulary VI
+¶ Verbs:
+V ṛ | (⟨ṛcchati⟩ — § 109) go to; fall to one’s lot, fall upon. | చేరు, వెళ్ళు; భాగమగు, మీద పడు
+V kram | + ⟨ā⟩ (⟨ākrāmati⟩) stride up to, attack. | సమీపించు, దాడిచేయు
+V cam | + ⟨ā⟩ (⟨ācāmati⟩) sip, drink, rinse the mouth. | ఆచమనం చేయు, నీరు త్రాగు
+V tam | (⟨tāmyati⟩) be sad. | దుఃఖించు
+V tuṣ | (⟨tuṣyati⟩) rejoice, take pleasure in (w. instr.). | సంతోషించు, ఆనందించు
+V div | (⟨dīvyati⟩) play. | ఆడు, పాచికలాడు
+V bhram | (⟨bhrāmyati⟩ — § 131) wander about. | తిరుగు, సంచరించు
+V mad | (⟨mādyati⟩) get drunk. | మత్తెక్కు
+V vyadh | (⟨vidhyati⟩) hit, pierce. | కొట్టు, గుచ్చు
+V śam | (⟨śāmyati⟩) become quiet, be extinguished, go out. | శాంతించు, ఆరిపోవు
+V śram | (⟨śrāmyati⟩) become weary. | అలసిపోవు
+V hṛ | (⟨harati⟩) take away, steal, plunder. | తీసుకుపోవు, దొంగిలించు, దోచుకొను
+@60
+¶ Subst.:
+V akṣa | m., die, dice. | పాచిక
+V adharma | m., injustice, wrong. | అధర్మం, అన్యాయం
+V ali | m., bee. | తుమ్మెద
+V aśru | n., tear. | కన్నీరు
+V ṛkṣa | m., bear. | ఎలుగుబంటి
+V kopa | m., anger. | కోపం
+V kṣatriya | m., warrior, man of the second caste. | క్షత్రియుడు, యోధుడు
+V nṛpati | m., king. | రాజు
+V netra | n., eye. | కన్ను
+V madhu | n., honey. | తేనె
+V mukha | n., mouth, face. | నోరు, ముఖం
+V mṛtyu | m., death. | మృత్యువు
+V vasu | n., wealth, money. | సంపద, ధనం
+## Exercise VI
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | ṛkṣā madhune lubhyanti | The bears crave honey. | ఎలుగుబంట్లు తేనెను ఆశిస్తాయి.
+S 2 | ṛṣir adhunā pāṇinā jalam ācamati | Now the seer sips water with his hand. | ఇప్పుడు ఋషి చేతితో నీటిని ఆచమనం చేస్తాడు.
+S 3 | nṛpā akṣais tatra dīvyanti | The kings play there with dice. | రాజులు అక్కడ పాచికలతో ఆడతారు.
+S 4 | alir madhunā mādyati | The bee gets drunk on honey. | తుమ్మెద తేనెతో మత్తెక్కుతుంది.
+S 5 | narā viṣeṇāsīṃ limpanti | The men smear the swords with poison. | మనుషులు కత్తులకు విషం పూస్తారు.
+S 6 | rāmaḥ kṣatriyān paraśunākrāmati | Rāma attacks the warriors with an axe. | రాముడు గొడ్డలితో క్షత్రియులపై దాడి చేస్తాడు.
+S 7 | gurūñ chiṣyāṃś ca śaṃsāmaḥ | We praise the teachers and the pupils. | మేము గురువులను శిష్యులను స్తుతిస్తాము.
+S 8 | arayo janānāṃ vasūni haranti | The enemies plunder the people’s wealth. | శత్రువులు ప్రజల ధనాన్ని దోచుకుంటారు.
+S 9 | narau mṛtyum ṛcchataḥ | The two men go to their death. | ఇద్దరు మనుషులు మృత్యువును చేరుకుంటారు.
+S 10 | bālasya netrābhyām aśrūṇi patanti | Tears fall from the boy’s two eyes. | బాలుడి రెండు కళ్ళ నుండి కన్నీళ్ళు రాలుతాయి.
+S 11 | jalenāgniḥ śāmyati | Fire goes out with water. | నీటితో అగ్ని ఆరిపోతుంది.
+S 12 | ṛṣer aśvau śrāmyataḥ | The seer’s two horses grow weary. | ఋషి రెండు గుర్రాలు అలసిపోతున్నాయి.
+S 13 | guruḥ śiṣyasya pāpāt tāmyati | The teacher is sad because of the pupil’s sin. | శిష్యుని పాపం వలన గురువు దుఃఖిస్తాడు.
+S 14 | gajā nagare bhrāmyanti | Elephants wander about in the city. | ఏనుగులు నగరంలో తిరుగుతున్నాయి.
+S 15 | madhunā kṣīreṇa ca tuṣyanti bālāḥ | The children are pleased with honey and milk. | పిల్లలు తేనెతో పాలతో సంతోషిస్తారు.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Words in italics are not to be translated, and the superior figures give the position of the Sanskrit word in the sentence.
+E 16 | The warriors¹ play³ *for* money² (*instr.*). | kṣatriyā vasunā dīvyanti | యోధులు ధనం కోసం పాచికలాడతారు.
+E 17 | The king’s² horses³ become weary⁵ *on* the road⁴ to-day¹. | adya nṛpasyāśvā mārge śrāmyanti | ఈ రోజు రాజు గుర్రాలు దారిలో అలసిపోతున్నాయి.
+E 18 | The warrior¹ pierces⁴ *his* enemy³ *with* the spear². | kṣatriyaḥ kuntenāriṃ vidhyati | యోధుడు ఈటెతో తన శత్రువును గుచ్చుతాడు.
+E 19 | Bees¹ are fond of³ (⟨tuṣ⟩) honey². | alayo madhunā tuṣyanti | తుమ్మెదలు తేనెతో సంతోషిస్తాయి.
+E 20 | *The* water² *of his* tears¹ moistens⁴ (⟨sic⟩) *his* feet³. | aśrūṇāṃ jalaṃ pādān siñcati | అతని కన్నీటి నీరు అతని పాదాలను తడుపుతుంది.
+E 21 | There² bees¹ are flitting about³ (⟨bhram⟩). | alayas tatra bhrāmyanti | అక్కడ తుమ్మెదలు తిరుగుతున్నాయి.
+E 22 | *Two* men¹ are cooking⁵ honey² and⁴ fruits³. | narau madhu phalāni ca pacataḥ | ఇద్దరు మనుషులు తేనెను పండ్లను వండుతున్నారు.
+E 23 | When¹ the teacher’s² anger³ ceases⁴, then⁵ the scholars⁷ rejoice⁶. | yadā guroḥ kopaḥ śāmyati tadā tuṣyanti śiṣyāḥ | ఎప్పుడు గురువు కోపం శాంతిస్తుందో అప్పుడు శిష్యులు సంతోషిస్తారు.
+E 24 | Tears¹ stand⁴ *in* the warriors’² eyes³. | aśrūṇi kṣatriyāṇāṃ netreṣu tiṣṭhanti | యోధుల కళ్ళలో కన్నీళ్ళు నిలుస్తాయి.
+E 25 | The enemies¹ overwhelm⁴ (⟨vṛṣ⟩) the king² *with* arrows³. | arayo nṛpaṃ śarair varṣanti | శత్రువులు బాణాలతో రాజును ముంచెత్తుతారు.
+E 26 | A quarter² of the injustice¹ falls upon⁴ (⟨ṛ⟩) the king³ (*acc.*). | adharmasya pādo nṛpam ṛcchati | అధర్మంలో పావు వంతు రాజు మీద పడుతుంది.
+¶ ∗ This rule really involves an historic survival, the large majority of cases of final ⟨n⟩ in the language being for original *ns*. Practically, the rule applies only to ⟨n⟩ before ⟨c⟩ and ⟨t⟩, since cases involving the other initials are excessively rare.
