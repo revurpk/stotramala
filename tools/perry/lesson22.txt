@@ -1,0 +1,139 @@
+# Perry, A Sanskrit Primer. Lesson XXII = p. 90 (from the heading) to p. 94 (to the end of the exercise) = leaves n109–n113 of the Cornell scan.
+% Nouns in r (gir, pur), in -in (dhanin) and in -as, -is, -us (manas, havis, dhanus)
+! Perry’s paradigms print the stems side by side in each row, separated by daṇḍas; each stem has its own column here, as in Lessons XX–XXI. In the paradigm of manas, havis, dhanus the printed forms are kept (haviṣ in the singular is printed havis; the dual is manasī, haviṣī, dhanuṣī). § 254’s neuter dual of sumanas is read -nasī.
+! The footnote to § 251 (almost any noun in a may form a possessive derivative with the suffix in; thus from bala n., “strength”, balin, “having strength, strong”) is given in full. § 252 refers to “the loc. pl., p. 27, bottom of page”, a reference to Perry’s Introduction.
+! Exercise XXII opens with a verse Perry numbers ॥ 10 ॥ (gandhena gāvaḥ paśyanti …, “By smell the cows see, by the Vedas the twice-born see; by spies kings see, by eyes other men”); his sentences are then numbered 1–10, and the English ones 11–22. Sentence 5 is read viśvasyā bhuvaḥ samrāṭ purūravā urvaśīm apsarasaṃ paryaṇayat tasyāṃ ca putro ’jāyata; sentence 8, puri vāri taḍāgān nālyā pārthivo ’nāyayat (nālyā, instr.); sentence 10, etasyā dhenvāḥ payo bālān pitarāv apāyayatām (Perry’s causative of pā).
+@109
+## Lesson XXII
+¶ **250. Declension of Stems in ⟨r⟩.** The stems in ⟨ir⟩ and ⟨ur⟩ lengthen the vowel before consonant-endings, and in nom.-sing., and the ⟨s⟩ of the nom. is lost. In the nom.-sing. the final ⟨r⟩ then becomes ⟨s⟩ (or *visarga*) under conditions requiring a surd as final (see § 95, 116). Thus, ⟨gir⟩ f., ‘voice’; ⟨pur⟩ f., ‘city’.
+¶ Singular:
+T  | gir (f.) | pur (f.)
+R N.V. | ⟨gīr⟩ | ⟨pūr⟩
+R A. | ⟨giram⟩ | ⟨puram⟩
+R I. | ⟨girā⟩ | ⟨purā⟩
+R L. | ⟨giri⟩ | ⟨puri⟩
+¶ Dual:
+T  | gir (f.) | pur (f.)
+R N.V. | ⟨girau⟩ | ⟨purau⟩
+R A. | „ | „
+R I. | ⟨gīrbhyām⟩ | ⟨pūrbhyām⟩
+R L. | ⟨giros⟩ | ⟨puros⟩
+¶ Plural:
+T  | gir (f.) | pur (f.)
+R N.V. | ⟨giras⟩ | ⟨puras⟩
+R A. | „ | „
+R I. | ⟨gīrbhis⟩ | ⟨pūrbhis⟩
+R L. | ⟨gīrṣu⟩ | ⟨pūrṣu⟩
+¶ **251. Stems in ⟨in⟩ [and in ⟨min⟩ and ⟨vin⟩].** These are masc. and neut. only; the corresponding feminine is made by adding ⟨ī⟩; thus, ⟨dhaninī⟩.∗ They lose their final ⟨n⟩ before consonant-endings;
+@110
+¶ and also in the nom. sing., where the masc. lengthens the ⟨i⟩ in compensation. Thus, ⟨dhanin⟩ m., n., ‘rich’.
+T Masculine | Singular | Dual | Plural
+R N. | ⟨dhanī⟩ | ⟨dhaninau⟩ | ⟨dhaninas⟩
+R A. | ⟨dhaninam⟩ | „ | „
+R I. | ⟨dhaninā⟩ | ⟨dhanibhyām⟩ | ⟨dhanibhis⟩
+R L. | ⟨dhanini⟩ | ⟨dhaninos⟩ | ⟨dhaniṣu⟩
+R V. | ⟨dhanin⟩ |  |
+T Neuter | Singular | Dual | Plural
+R N. | ⟨dhani⟩ | ⟨dhaninī⟩ | ⟨dhanīni⟩
+R A. | „ | „ | „
+R I., L. | as in the masculine |  |
+¶ **252. Derivative stems in ⟨as⟩, ⟨is⟩, ⟨us⟩.** The stems of this division are mostly neuter; but there are a few masculines and feminines. Their inflection is nearly regular (for ⟨o⟩, ⟨ir⟩, ⟨ur⟩ before ⟨bh⟩ see § 241; for the loc. pl., p. 27, bottom of page). Masc. [and fem.] stems in ⟨as⟩ lengthen the ⟨a⟩ in nom. sing.; and the nom.-acc. pl. neut. also lengthen ⟨a⟩ or ⟨i⟩ or ⟨u⟩ before the inserted nasal (*anusvāra*). Thus, ⟨manas⟩ n., ‘mind’; ⟨havis⟩ n., ‘oblation’; ⟨dhanus⟩ n., ‘bow’.
+¶ Singular:
+T  | manas (n.) | havis (n.) | dhanus (n.)
+R N.A.V. | ⟨manas⟩ | ⟨havis⟩ | ⟨dhanus⟩
+R I. | ⟨manasā⟩ | ⟨haviṣā⟩ | ⟨dhanuṣā⟩
+R L. | ⟨manasi⟩ | ⟨haviṣi⟩ | ⟨dhanuṣi⟩
+¶ Dual:
+T  | manas (n.) | havis (n.) | dhanus (n.)
+R N.A.V. | ⟨manasī⟩ | ⟨haviṣī⟩ | ⟨dhanuṣī⟩
+R I. | ⟨manobhyām⟩ | ⟨havirbhyām⟩ | ⟨dhanurbhyām⟩
+R L. | ⟨manasos⟩ | ⟨haviṣos⟩ | ⟨dhanuṣos⟩
+¶ Plural:
+T  | manas (n.) | havis (n.) | dhanus (n.)
+R N.A. | ⟨manāṃsi⟩ | ⟨havīṃṣi⟩ | ⟨dhanūṃṣi⟩
+R I. | ⟨manobhis⟩ | ⟨havirbhis⟩ | ⟨dhanurbhis⟩
+R L. | ⟨manassu⟩ | ⟨haviṣṣu⟩ | ⟨dhanuṣṣu⟩
+R or | ⟨manaḥsu⟩ | ⟨haviḥṣu⟩ | ⟨dhanuḥṣu⟩
+¶ **253.** ⟨aṅgiras⟩ m. (name of certain mythical characters): nom. sing. ⟨aṅgirās⟩, acc. ⟨aṅgirasam⟩, instr. ⟨aṅgirasā⟩, voc. ⟨aṅgiras⟩; nom.-acc. pl. ⟨aṅgirasas⟩.
+¶ ∗ Almost any noun in ⟨a⟩ may form a possessive derivative with the suffix ⟨in⟩; thus, from ⟨bala⟩ n., ‘strength’, ⟨balin⟩, ‘having strength, strong’. Stems in ⟨min⟩ and ⟨vin⟩ are very rare.
+@111
+¶ **254.** Adjective compounds having nouns of this class as final member are very common. Thus, ⟨sumanas⟩ ‘favorably-minded.’
+T  | Singular m. f. | Singular n. | Dual m. f. | Dual n. | Plural m. f. | Plural n.
+R N. | ⟨sumanās⟩ | ⟨-nas⟩ | ⟨sumanasau⟩ | ⟨-nasī⟩ | ⟨sumanasas⟩ | ⟨-nāṃsi⟩
+R A. | ⟨sumanasam⟩ | ⟨-nas⟩ | „ | „ | „ | „
+¶ ⟨dīrghāyus⟩ ‘long-lived’:
+T  | Singular | Dual m. f. | Dual n. | Plural m. f. | Plural n.
+R N. | ⟨dīrghāyus⟩ | ⟨dīrghāyuṣau⟩ | ⟨-yuṣī⟩ | ⟨dīrghāyuṣas⟩ | ⟨-yūṃṣi⟩
+R A. | ⟨dīrghāyuṣam⟩ ⟨-yus⟩ | „ | „ | „ | „
+R I. | ⟨dīrghāyuṣā⟩ etc. | ⟨dīrghāyurbhyām⟩ etc. |  | ⟨dīrghāyurbhis⟩ etc. |
+## Vocabulary XXII
+¶ Verb:
+V sañj | (⟨sajati⟩; but often pass.: ⟨sajjate⟩ for ⟨sajyate⟩) hang on, be fastened on (as thoughts — *w. loc.*). | తగులుకొను, నిలుపు (మనస్సును — సప్తమితో)
+¶ Subst.:
+V apsaras | f., heavenly nymph. | అప్సరస
+V urvaśī | f., *n. pr.*, an Apsaras, Urvaśī. | ఊర్వశి
+V kṣitipa | m., king. | రాజు
+V gir | f., voice; song. | స్వరం; గానం
+V cakṣus | n., eye. | కన్ను
+V candramas | m., moon. | చంద్రుడు
+V cāra | m., spy. | గూఢచారి
+V jyā | f., bowstring. | వింటి నారి
+V jyotis | n., light; star; heavenly body. | కాంతి; నక్షత్రం; జ్యోతి
+V taḍāga | m., pond. | చెరువు
+V dvār | f., door, gate. | ద్వారం, తలుపు
+V dhanus | n., bow. | విల్లు
+V nālī | f., pipe, conduit. | గొట్టం, కాలువ
+V payas | n., milk. | పాలు
+V pur | f., city. | పురం, నగరం
+V purūravas | m., *n. pr.*, Purūravas. | పురూరవుడు
+V prāṇin | m., (living) creature. | ప్రాణి
+V bharatakhaṇḍa | m., n., *n. pr.*, India. | భరతఖండం
+V manas | n., mind. | మనస్సు
+V mantrin | m., minister (of state). | మంత్రి
+V yajus | n., sacrificial formula, text. | యజుస్సు
+V yaśas | n., glory, fame. | యశస్సు
+V vaṇij | m., merchant. | వర్తకుడు
+V vayas | n., age. | వయస్సు
+V sumanas | f., flower. | పువ్వు
+@112
+V sūrya | m., sun. | సూర్యుడు
+V sthāna | n., place, spot, locality; stead. | స్థలం, చోటు
+V svāmin | m., possessor, lord. | యజమాని, స్వామి
+V havis | n., oblation. | హవిస్సు
+¶ Adj.:
+V ākṛṣṭa | f. ā (part. of ⟨kṛṣ⟩ + ⟨ā⟩), drawn, bent (as a bow). | లాగబడిన, వంచబడిన (విల్లు)
+V tapasvin | suffering, doing acts of asceticism; *as m. subst.*, ascetic. | తపస్వి
+V tejasvin | courageous. | తేజస్వి, ధైర్యవంతుడు
+V prathama | f. ā, first. | మొదటి
+V mṛta | f. ā (part. of ⟨mṛ⟩), dead, fallen. | చనిపోయిన
+V sthita | f. ā (part. of ⟨sthā⟩), standing. | నిలిచి ఉన్న
+¶ Indecl.:
+V vai | to be sure, in sooth. | నిజంగా
+## Exercise XXII
+¶ The exercise opens with a verse, in two halves (the translations are the editor’s):
+S a | gandhena gāvaḥ paśyanti vedaiḥ paśyanti vai dvijāḥ | By smell the cows see; by the Vedas the twice-born see; | ఆవులు వాసనతో చూస్తాయి; ద్విజులు వేదాలతో చూస్తారు;
+S b | cāraiḥ paśyanti kṣitipāś cakṣurbhyām itare janāḥ | by spies kings see; by their eyes, other people. | రాజులు గూఢచారులతో చూస్తారు; ఇతర జనులు కళ్ళతో.
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | ā karṇam ākṛṣṭena dhanuṣā dviṭsu śarān muñcanti kṣatriyāḥ | Warriors loose arrows at their enemies with the bow drawn back to the ear. | యోధులు చెవి వరకు లాగిన విల్లుతో శత్రువులపై బాణాలు వదులుతారు.
+S 2 | sūryaś ca candramāś ca jagato jyotiṣī | The sun and the moon are the two lights of the world. | సూర్యుడు, చంద్రుడు లోకానికి రెండు జ్యోతులు.
+S 3 | dhanī vaṇigdvāri sthitebhyas tapasvibhyo vasu dāpayet | A rich man should have money given to the ascetics standing at a merchant’s door. | ధనవంతుడు వర్తకుని ద్వారం వద్ద నిలిచిన తపస్వులకు ధనం ఇప్పించాలి.
+S 4 | yajñeṣu ya ṛtvijo yajūṃṣi paṭhanti te 'dhvaryava ucyante | At sacrifices, those priests who recite the sacrificial formulas are called adhvaryus. | యజ్ఞాలలో యజుస్సులను పఠించే ఋత్విజులు అధ్వర్యులు అనబడతారు.
+S 5 | viśvasyā bhuvaḥ samrāṭ purūravā urvaśīm apsarasaṃ paryaṇayat tasyāṃ ca putro 'jāyata | Purūravas, emperor of the whole earth, married the Apsaras Urvaśī, and a son was born of her. | భూమి అంతటికీ చక్రవర్తి అయిన పురూరవుడు అప్సరస ఊర్వశిని వివాహమాడాడు; ఆమెకు కొడుకు పుట్టాడు.
+S 6 | kāmasya dhanuṣi jyāyāḥ sthāne 'layaḥ śarāṇāṃ sthāne sumanasas tiṣṭhanti | On Kāma’s bow, in place of the string are bees, and in place of arrows, flowers. | కాముని విల్లుపై నారి స్థానంలో తుమ్మెదలు, బాణాల స్థానంలో పువ్వులు ఉంటాయి.
+S 7 | prāṇināṃ manāṃsi jīvite sajanti | Creatures’ minds cling to life. | ప్రాణుల మనస్సులు జీవితానికి అంటిపెట్టుకుని ఉంటాయి.
+S 8 | puri vāri taḍāgān nālyā pārthivo 'nāyayat | The king had water brought into the city from the pond by a conduit. | రాజు చెరువు నుండి కాలువ ద్వారా నగరంలోకి నీరు తెప్పించాడు.
+S 9 | mantriṇaḥ svāmine kadāpi na druhyeyuḥ | Ministers should never be disloyal to their lord. | మంత్రులు తమ ప్రభువుకు ఎప్పుడూ ద్రోహం చేయకూడదు.
+S 10 | etasyā dhenvāḥ payo bālān pitarāv apāyayatām | The two parents gave this cow’s milk to the children to drink. | తల్లిదండ్రులు ఇద్దరూ ఈ ఆవు పాలను పిల్లలకు తాగించారు.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Words in italics are not to be translated.
+E 11 | Raise ye the voice in praise (*dat.*) of Hari. | harer stutaye giram utsṛjata | హరి స్తుతి కోసం స్వరం ఎత్తండి.
+E 12 | In the cities of India dwell rich merchants and courageous warriors. | bharatakhaṇḍasya purīṣu dhaninaś ca vaṇijas tejasvinaś ca kṣatriyā vasanti | భరతఖండపు నగరాలలో ధనవంతులైన వర్తకులు, తేజస్వులైన యోధులు నివసిస్తారు.
+E 13 | The praise of Purūravas was sung by Kālidāsa. | purūravasaḥ stutiḥ kālidāsena gīyate | పురూరవుని స్తుతిని కాళిదాసు గానం చేశాడు.
+E 14 | The king gave orders (⟨ā-jñā⟩ *caus.*) to have his minister called (*use or. recta*). | nṛpo mantriṇam āhvayateti ājñāpayat | రాజు తన మంత్రిని పిలవమని ఆజ్ఞాపించాడు.
+E 15 | The minds of ascetics must not dwell (⟨sañj⟩) on riches (⟨śrī⟩, *loc. sing.*). | tapasvināṃ manāṃsi śriyāṃ na sajjeran | తపస్వుల మనస్సులు సంపదపై నిలువకూడదు.
+E 16 | At night the moon gives light to all creatures. | rātrau candramāḥ sarvān prāṇino jyotiṣā yojayati | రాత్రి చంద్రుడు ప్రాణులందరికీ వెలుగునిస్తాడు.
+E 17 | One should sacrifice to the gods (*cf.* ⟨yaj⟩ *in Voc. I*) flowers, fruits, and milk, not living creatures. | devān sumanobhiḥ phalaiḥ payasā ca yajeta na prāṇibhiḥ | దేవతలను పువ్వులతో, పండ్లతో, పాలతో ఆరాధించాలి, ప్రాణులతో కాదు.
+E 18 | The Apsarases lead into Heaven warriors fallen in battle. | apsaraso yuddhe mṛtān kṣatriyān svargaṃ nayanti | అప్సరసలు యుద్ధంలో చనిపోయిన యోధులను స్వర్గానికి తీసుకువెళ్తారు.
+E 19 | In age (*instr.*), not in knowledge, Çiva is the eldest among *his* brothers (*loc.*, *gen.*). | vayasā na vidyayā śivo bhrātṝṇāṃ jyeṣṭhaḥ | వయస్సులో, విద్యలో కాదు, శివుడు తన సోదరులలో పెద్దవాడు.
+E 20 | The gods live by the oblation. | devā havisā jīvanti | దేవతలు హవిస్సుతో జీవిస్తారు.
+E 21 | A merchant wishes wealth (⟨śrī⟩), a warrior fame, an ascetic deliverance. | vaṇik śriyam icchati kṣatriyo yaśas tapasvī muktim | వర్తకుడు సంపదను, యోధుడు కీర్తిని, తపస్వి ముక్తిని కోరుతాడు.
+E 22 | The woman’s eyes are suffused with tears. | nāryāś cakṣuṣī bāṣpeṇa ruddhe | స్త్రీ కళ్ళు కన్నీళ్ళతో నిండి ఉన్నాయి.
