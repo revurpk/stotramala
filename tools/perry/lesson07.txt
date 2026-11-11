@@ -1,0 +1,70 @@
+# Perry, A Sanskrit Primer. Lesson VII = p. 42 (from the heading) to p. 44 (to the end of the exercise) = leaves n61–n63 of the Cornell scan.
+% Verbs: the causative and denominative class (corayati, kṣālayati); the changes of final t
+! Perry’s causative stems carry an accent on the aya (corayati, tāḍayati); the accents are not carried. His āi and āu (§ 144) are written ai and au.
+! In Exercise VII the final-t rules of §§ 148–151 are applied by Perry in sentences 1, 5, 7, 10, 11 (gṛhāc corayati, grāmāj janān nagaraṃ, nṛpāc chatrūṇāṃ, kopād daṇḍayati, gṛhāl lokā); the editor’s answers apply them in 21 (kopān nṛpaḥ).
+@61
+## Lesson VII
+¶ **141. Causative Verbs (native “⟨cur⟩-class”).** The Hindu grammarians describe a certain present-system which they assign to a so-called “⟨cur⟩-class”. This is, however, in fact no present-class at all, but a causative or secondary conjugation, which is not confined to the present-system. But many formations of this sort have no causative value; and it is chiefly these that are grouped by the Hindus in their ⟨cur⟩-class, which also includes some *denominative*-stems in ⟨aya⟩, with causative accent. For practical purposes it is well enough to consider these verbs here.
+¶ **142.** The causative-stem is formed by adding ⟨aya⟩ to the root, which is usually strengthened; and the strengthening process is in the main as follows:
+¶ **143.** 1. Medial or initial ⟨i⟩, ⟨u⟩, and ⟨ṛ⟩ have the *guṇa*-strengthening, if capable of it; thus, ⟨cur⟩, ⟨corayati⟩; ⟨vid⟩, ⟨vedayati⟩; but ⟨pīḍ⟩, ⟨pīḍayati⟩.
+¶ **144.** 2. A final vowel has the *vṛddhi*-strengthening; thus, ⟨dhṛ⟩, ⟨dhārayati⟩. Before ⟨aya⟩, ⟨ai⟩ and ⟨au⟩ become ⟨āy⟩ and ⟨āv⟩ respectively; thus, ⟨bhī⟩, ⟨bhāyayati⟩; ⟨bhū⟩, ⟨bhāvayati⟩.
+¶ **145.** 3. Medial or initial ⟨a⟩ in a metrically light syllable is sometimes lengthened, and sometimes remains unchanged; thus, ⟨kṣal⟩, caus. ⟨kṣālayati⟩; but ⟨jan⟩, caus. ⟨janayati⟩.
+¶ **146.** The inflection is the usual one of ⟨a⟩-stems.
+¶ **147. Rules of euphonic combination.** In external combination an initial sonant of whatever class (even a vowel or semivowel or nasal) requires the conversion of a preceding final surd to a sonant.
+@62
+¶ **148. Final ⟨t⟩.** 1. Final ⟨t⟩ becomes ⟨d⟩, before any initial sonant, except the palatals, the nasals, and ⟨l⟩: thus, ⟨meghāt atra⟩ becomes ⟨meghād atra⟩; ⟨pāpāt rakṣati⟩ or ⟨bhrāmyati⟩ or ⟨gopāyati⟩ becomes ⟨pāpād rakṣati⟩ or ⟨pāpād bhrāmyati⟩ or ⟨pāpād gopāyati⟩.
+¶ **149.** 2. Final ⟨t⟩ is assimilated to an initial palatal, lingual, or ⟨l⟩ in the next word; thus it becomes ⟨c⟩ before ⟨c⟩ and ⟨ch⟩, ⟨j⟩ before ⟨j⟩, and ⟨l⟩ before ⟨l⟩: e. g., ⟨meghāt ca⟩ becomes ⟨meghāc ca⟩; ⟨meghāt jalam⟩ becomes ⟨meghāj jalam⟩; ⟨pāpāt lokāt⟩ becomes ⟨pāpāl lokāt⟩.
+¶ **150.** 3. Before initial ⟨ś⟩, final ⟨t⟩ becomes ⟨c⟩, and the ⟨ś⟩ then becomes ⟨ch⟩; thus, ⟨nṛpāt śatruḥ⟩ becomes ⟨nṛpāc chatruḥ⟩.
+¶ **151.** 4. Before initial nasals ⟨t⟩ becomes ⟨n⟩: thus, ⟨gṛhāt nayati⟩ becomes ⟨gṛhān nayati⟩. But the change into ⟨d⟩ is also permitted, though hardly used; thus, ⟨gṛhād nayati⟩.
+## Vocabulary VII
+¶ Verbs:
+V kathaya | (denom. stem — ⟨kathayati⟩) relate, tell. | చెప్పు, వివరించు
+V kṣal | (⟨kṣālayati⟩) wash. | కడుగు
+V gaṇaya | (denom. — ⟨gaṇayati⟩) number, count. | లెక్కించు
+V cur | (⟨corayati⟩) steal. | దొంగిలించు
+V taḍ | (⟨tāḍayati⟩) strike, beat. | కొట్టు
+V tul | (⟨tolayati⟩) weigh. | తూచు
+V daṇḍaya | (denom. — ⟨daṇḍayati⟩) punish. | శిక్షించు
+V nī | + ⟨ā⟩ (⟨ānayati⟩) bring. | తీసుకురా
+V pīḍ | (⟨pīḍayati⟩) torment, vex. | బాధించు, వేధించు
+V pūj | (⟨pūjayati⟩) honor. | పూజించు, గౌరవించు
+V pṛ | (⟨pārayati⟩) overcome; prevail. | అధిగమించు; గెలుచు
+@63
+¶ Subst.:
+V janaka | m., father. | తండ్రి
+V daṇḍa | m., stick; punishment. | కర్ర; శిక్ష
+V puṇya | n., merit. | పుణ్యం
+V phala | n., fruit; reward. | పండు; ఫలితం
+V rāmāyaṇa | n., a noted poem. | రామాయణం (ఒక ప్రసిద్ధ కావ్యం)
+V rūpaka | n., gold-piece. | బంగారు నాణెం
+V loka | m., world, people (sing. and pl.). | లోకం, ప్రజలు (ఏకవచన, బహువచనాలు)
+V sādhu | m., holy man, saint. | సాధువు
+V suvarṇa | n., gold. | బంగారం
+V sūta | m., driver, charioteer. | సారథి
+V stena | m., thief. | దొంగ
+¶ Adverb:
+V iva | as, like (postpos.). | వలె, లాగా (పదం వెనుక వస్తుంది)
+## Exercise VII
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | stenaḥ suvarṇaṃ nṛpasya gṛhāc corayati | The thief steals gold from the king’s house. | దొంగ రాజు ఇంటి నుండి బంగారం దొంగిలిస్తాడు.
+S 2 | gurur daṇḍena śiṣyāṃs tāḍayati | The teacher strikes the pupils with a stick. | గురువు కర్రతో శిష్యులను కొడతాడు.
+S 3 | sūto 'śvān pīḍayati | The charioteer torments the horses. | సారథి గుర్రాలను బాధిస్తాడు.
+S 4 | ṛṣir jalena pāṇī kṣālayati | The seer washes his two hands with water. | ఋషి నీటితో తన రెండు చేతులను కడుగుతాడు.
+S 5 | grāmāj janān nagaraṃ nayanti | They lead the people from the village to the city. | వారు ప్రజలను ఊరి నుండి నగరానికి తీసుకువెళ్తారు.
+S 6 | narau rūpakāṇi gaṇayataḥ | The two men count gold pieces. | ఇద్దరు మనుషులు బంగారు నాణేలను లెక్కిస్తారు.
+S 7 | nṛpāc chatrūṇāṃ daṇḍo bhavati | From the king comes punishment for enemies. | రాజు వలన శత్రువులకు శిక్ష కలుగుతుంది.
+S 8 | rāmasya putrau janebhyo rāmāyaṇaṃ kathayataḥ | Rāma’s two sons recite the Rāmāyaṇa to the people. | రాముని ఇద్దరు కొడుకులు ప్రజలకు రామాయణం చెబుతారు.
+S 9 | suvarṇaṃ pāṇibhyāṃ tolayāmaḥ | We weigh the gold in our two hands. | మేము బంగారాన్ని రెండు చేతులతో తూస్తాము.
+S 10 | janakaḥ putrān kopād daṇḍayati | The father punishes his sons in anger. | తండ్రి కోపంతో కొడుకులను శిక్షిస్తాడు.
+S 11 | gṛhāl lokā āgacchanti | People come from the house. | ప్రజలు ఇంటి నుండి వస్తున్నారు.
+S 12 | puṇyena sādhur duḥkhāni pārayati | By merit the saint overcomes sorrows. | పుణ్యం వలన సాధువు దుఃఖాలను అధిగమిస్తాడు.
+S 13 | devān iva nṛpatiṃ lokaḥ pūjayati | The people honour the king like the gods. | ప్రజలు రాజును దేవతలను వలె పూజిస్తారు.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Words in italics are not to be translated, and the superior figures give the position of the Sanskrit word in the sentence.
+E 14 | Thieves¹ steal⁴ the people’s² money³. | stenā janānāṃ vasu corayanti | దొంగలు ప్రజల ధనాన్ని దొంగిలిస్తారు.
+E 15 | The *two* boys¹ wash³ *their* mouths². | bālau mukhe kṣālayataḥ | ఇద్దరు బాలురు తమ ముఖాలను కడుగుతారు.
+E 16 | The father¹ tells⁵ *his* sons² (*dat.*) the reward⁴ of sin³. | janakaḥ putrebhyaḥ pāpasya phalaṃ kathayati | తండ్రి తన కొడుకులకు పాపఫలాన్ని చెబుతాడు.
+E 17 | The scholars¹ honor³ and⁵ reverence⁴ *their* teacher². | śiṣyā guruṃ pūjayanti namanti ca | శిష్యులు తమ గురువును పూజిస్తారు, నమస్కరిస్తారు.
+E 18 | Ye both bring³ fruits¹ *in* your hands² and⁵ count⁴ *them*. | phalāni hastābhyām ānayatho gaṇayathaś ca | మీరిద్దరూ పండ్లను చేతులతో తీసుకువచ్చి లెక్కిస్తారు.
+E 19 | Merit¹ protects³ *from* misfortune² (*abl.*). | puṇyaṃ duḥkhād rakṣati | పుణ్యం కష్టం నుండి రక్షిస్తుంది.
+E 20 | The charioteers¹ strike⁴ the horses² *with* sticks³. | sūtā aśvān daṇḍais tāḍayanti | సారథులు కర్రలతో గుర్రాలను కొడతారు.
+E 21 | *In* anger¹ (*abl.*) the king² pierces⁵ the thief³ *with* a spear⁴. | kopān nṛpaḥ stenaṃ kuntena vidhyati | కోపంతో రాజు ఈటెతో దొంగను గుచ్చుతాడు.

@@ -2195,8 +2195,8 @@ script switch (`tools/build_stotra.py`: section types `para`, `table`,
 
 | Field | Value |
 |---|---|
-| Work | Edward Delavan Perry, *A Sanskrit Primer, based on the Leitfaden für den Elementarcursus des Sanskrit of Professor Georg Bühler of Vienna*: an introduction to the structure of the language (§§ 1–91), 45 graded lessons with vocabularies and exercises, and glossaries. Lessons I–VI are done so far, one page a lesson |
-| Source | Ginn & Co., Boston, 1885; the scan used is of the 1892 issue, Cornell University Library copy, archive.org `cu31924011121690` (leaf n38 = p. 19; Lesson I = leaves n43–n45 = pp. 24–26; Lesson II = leaves n45–n48 = pp. 26–29; Lesson III = leaves n49–n51 = pp. 30–32, with the footnote to Exercise III continued on p. 33; Lesson IV = leaves n51–n55 = pp. 32–36; Lesson V = leaves n55–n58 = pp. 36–39; Lesson VI = leaves n58–n61 = pp. 39–42). Public domain: published 1885, and Perry died in 1938 |
+| Work | Edward Delavan Perry, *A Sanskrit Primer, based on the Leitfaden für den Elementarcursus des Sanskrit of Professor Georg Bühler of Vienna*: an introduction to the structure of the language (§§ 1–91), 45 graded lessons with vocabularies and exercises, and glossaries. Lessons I–VII are done so far, one page a lesson |
+| Source | Ginn & Co., Boston, 1885; the scan used is of the 1892 issue, Cornell University Library copy, archive.org `cu31924011121690` (leaf n38 = p. 19; Lesson I = leaves n43–n45 = pp. 24–26; Lesson II = leaves n45–n48 = pp. 26–29; Lesson III = leaves n49–n51 = pp. 30–32, with the footnote to Exercise III continued on p. 33; Lesson IV = leaves n51–n55 = pp. 32–36; Lesson V = leaves n55–n58 = pp. 36–39; Lesson VI = leaves n58–n61 = pp. 39–42; Lesson VII = leaves n61–n63 = pp. 42–44). Public domain: published 1885, and Perry died in 1938 |
 | Recorded | 2026-11-11 |
 | Text status | public domain |
 
@@ -2252,3 +2252,5 @@ inside the prose, tables and vocabularies included.
 - Lesson VI: Leaf n58 of the Cornell scan (p. 39) is cut off at the right edge; the whole of p. 39 (§§ 131–136, the paradigm of madhu, and the end of Exercise V, sentences 29–31, which is in Lesson V) was read from the Toronto copy of the same edition, archive.org sanskritprimerb00perr, leaf n54. Perry’s § 132 there reads “written with final o”.
 - Lesson VI: § 139: the nasalized l that Perry writes ल्ँ (l with candrabindu) and says is “the same thing” as anusvāra is given as ṃl; the scripts here have no candrabindu on l, so it shows as anusvāra and l. In Exercise VI, sentence 5 (viṣeṇāsīṃ limpanti) Perry applies that rule himself; in sentence 7 he applies § 138 (gurūñ chiṣyāṃś ca).
 - Lesson VI: Where two words have coalesced, the editor writes them as one (paraśunākrāmati, jalenāgniḥ, as in Perry’s Devanāgarī) in the exercise sentences, so that no avagraha appears.
+- Lesson VII: Perry’s causative stems carry an accent on the aya (corayati, tāḍayati); the accents are not carried. His āi and āu (§ 144) are written ai and au.
+- Lesson VII: In Exercise VII the final-t rules of §§ 148–151 are applied by Perry in sentences 1, 5, 7, 10, 11 (gṛhāc corayati, grāmāj janān nagaraṃ, nṛpāc chatrūṇāṃ, kopād daṇḍayati, gṛhāl lokā); the editor’s answers apply them in 21 (kopān nṛpaḥ).
