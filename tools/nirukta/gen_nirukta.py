@@ -31,7 +31,9 @@ SUBTITLE = {1: "Yāska's Nirukta, adhyāya 1 · the introduction: the four kinds
             4: "Yāska's Nirukta, adhyāya 4 · the Naigama-kāṇḍa begins: single obscure words of the hymns, "
                "from jahā to the wheel of the year",
             5: "Yāska's Nirukta, adhyāya 5 · the Naigama-kāṇḍa continued: obscure words of the hymns, "
-               "from sasni to sṛṇi, the goad"}
+               "from sasni to sṛṇi, the goad",
+            6: "Yāska's Nirukta, adhyāya 6 · the Naigama-kāṇḍa concluded: obscure words of the hymns, "
+               "from āśuśukṣaṇi to ṛbīsa; the end of the first half"}
 NOTE = ("Yāska's Nirukta, the oldest surviving treatise on Vedic etymology and a commentary on the "
         "Nighaṇṭu. The text is Lakshman Sarup's critical edition (1927); words in square brackets are "
         "found in only part of the manuscripts. Quotations Sarup sets apart (mantras, and phrases from "

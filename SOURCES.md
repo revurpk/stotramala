@@ -1357,6 +1357,7 @@ The English glosses, one for each khaṇḍa, are original.
 | 3 | 22 | n98–n113 | 59–74 | 68; two led to keeping the print's word division (below) |
 | 4 | 27 | n114–n129 | 75–90 | 64, all OCR failures |
 | 5 | 28 | n130–n147 | 91–108 | 76, all OCR failures |
+| 6 | 36 | n148–n170 | 109–131 | 84, all OCR failures |
 
 **Not Wikisource.** Sanskrit Wikisource's Nirukta is copied from the
 Maharishi University of Management Vedic Literature Collection, which is
@@ -1425,6 +1426,12 @@ the English keys `tools/nirukta/glossN.txt`.
   only part of the manuscripts, which closes with its own ॥ २७ ॥. Both are
   kept, the bracketed one last in the khaṇḍa.
 - 5.7 *akra juhvāno*, 5.17 *aṅkitam evāñcitam*, as printed.
+
+- 6.5, 6.6: the story of Indra's question about famine (with its verse on
+  the nine livelihoods) and the gloss *kṣoṇasya kṣayaṇasya* with its
+  quotation are printed by Sarup in square brackets and kept so.
+- 6.36: after the adhyāya Sarup prints the colophon of the first half,
+  *iti naigamaṃ kāṇḍaṃ pūrvārdhaś ca samāptam*, kept as a closing line.
 
 The heading and English summary of each khaṇḍa are original; they
 summarise, they do not translate.
