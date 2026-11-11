@@ -2195,8 +2195,8 @@ script switch (`tools/build_stotra.py`: section types `para`, `table`,
 
 | Field | Value |
 |---|---|
-| Work | Edward Delavan Perry, *A Sanskrit Primer, based on the Leitfaden für den Elementarcursus des Sanskrit of Professor Georg Bühler of Vienna*: an introduction to the structure of the language (§§ 1–91), 45 graded lessons with vocabularies and exercises, and glossaries. Lessons I–IX are done so far, one page a lesson |
-| Source | Ginn & Co., Boston, 1885; the scan used is of the 1892 issue, Cornell University Library copy, archive.org `cu31924011121690` (leaf n38 = p. 19; Lesson I = leaves n43–n45 = pp. 24–26; Lesson II = leaves n45–n48 = pp. 26–29; Lesson III = leaves n49–n51 = pp. 30–32, with the footnote to Exercise III continued on p. 33; Lesson IV = leaves n51–n55 = pp. 32–36; Lesson V = leaves n55–n58 = pp. 36–39; Lesson VI = leaves n58–n61 = pp. 39–42; Lesson VII = leaves n61–n63 = pp. 42–44; Lesson VIII = leaves n63–n67 = pp. 44–48; Lesson IX = leaves n67–n70 = pp. 48–51). Public domain: published 1885, and Perry died in 1938 |
+| Work | Edward Delavan Perry, *A Sanskrit Primer, based on the Leitfaden für den Elementarcursus des Sanskrit of Professor Georg Bühler of Vienna*: an introduction to the structure of the language (§§ 1–91), 45 graded lessons with vocabularies and exercises, and glossaries. Lessons I–X are done so far, one page a lesson |
+| Source | Ginn & Co., Boston, 1885; the scan used is of the 1892 issue, Cornell University Library copy, archive.org `cu31924011121690` (leaf n38 = p. 19; Lesson I = leaves n43–n45 = pp. 24–26; Lesson II = leaves n45–n48 = pp. 26–29; Lesson III = leaves n49–n51 = pp. 30–32, with the footnote to Exercise III continued on p. 33; Lesson IV = leaves n51–n55 = pp. 32–36; Lesson V = leaves n55–n58 = pp. 36–39; Lesson VI = leaves n58–n61 = pp. 39–42; Lesson VII = leaves n61–n63 = pp. 42–44; Lesson VIII = leaves n63–n67 = pp. 44–48; Lesson IX = leaves n67–n70 = pp. 48–51; Lesson X = leaves n70–n73 = pp. 51–54). Public domain: published 1885, and Perry died in 1938 |
 | Recorded | 2026-11-11 |
 | Text status | public domain |
 
@@ -2259,3 +2259,6 @@ inside the prose, tables and vocabularies included.
 - Lesson VIII: In sentence 4 (śāstre) Perry’s reference to § 161 shows that śāstre is the dual, “the two sciences”; sentence 11 (paśūṃ) shows § 139 applied.
 - Lesson IX: Perry’s āi and āu are written ai and au (§ 164). His Devanāgarī sentences are given with the sandhi he prints (nāvagacchanti, sahāgacchataḥ, bālāv ṛṣir).
 - Lesson IX: In Exercise IX, sentence 9 refers to § 164 (kanyāyai + annam → kanyāyā annam); the reference is moved into the English note. Sentence 13 is read atra cchāyāyāṃ (§ 165). Sentence 1 carries Perry’s footnote (“Birds of a feather flock together”).
+- Lesson X: § 171: Perry lists six roots (vac, vad, vap, vas, vah, svap) but prints only the passives ucyate, upyate, uṣyate and supyate; they are kept as printed (the passives of vad and vah, udyate and uhyate, are not printed in this lesson).
+- Lesson X: In § 173 Perry’s “variable ṛ”, which the natives write with ṝ, is written ṛ, and the natives’ sign as ṝ.
+- Lesson X: In Exercise X, sentence 11 is read stenair lokānāṃ vasu coryate (vasu is neuter singular); the last syllable is blurred in the scan. Sentence 6 is printed guruṇāhvayadhve (guruṇā āhvayadhve), with the dot under the ā that Perry uses to show a coalesced vowel; it is kept as printed. Sentence 12 shows § 123 (iṣubhī raṇe for iṣubhis raṇe).

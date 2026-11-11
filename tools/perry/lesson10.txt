@@ -1,0 +1,97 @@
+# Perry, A Sanskrit Primer. Lesson X = p. 51 (from the heading) to p. 54 (to the end of the exercise) = leaves n70–n73 of the Cornell scan.
+% Verbs: the passive (kriyate, gīyate, bādhyate); the personal and the impersonal construction
+! § 171: Perry lists six roots (vac, vad, vap, vas, vah, svap) but prints only the passives ucyate, upyate, uṣyate and supyate; they are kept as printed (the passives of vad and vah, udyate and uhyate, are not printed in this lesson).
+! In § 173 Perry’s “variable ṛ”, which the natives write with ṝ, is written ṛ, and the natives’ sign as ṝ.
+! In Exercise X, sentence 11 is read stenair lokānāṃ vasu coryate (vasu is neuter singular); the last syllable is blurred in the scan. Sentence 6 is printed guruṇāhvayadhve (guruṇā āhvayadhve), with the dot under the ā that Perry uses to show a coalesced vowel; it is kept as printed. Sentence 12 shows § 123 (iṣubhī raṇe for iṣubhis raṇe).
+@70
+## Lesson X
+¶ **168. Verbs. Passive Inflection.** A certain form of present-stem, inflected with middle endings, is used only with a passive meaning, and is formed from all roots for which there is occasion to make a passive conjugation. Its sign is an accented ⟨ya⟩ added to the root, without any reference to the classes according to which the active and middle forms are made. The inflection is precisely like that of other ⟨a⟩-stems. Thus, ⟨tanye⟩, ⟨tanyase⟩, ⟨tanyate⟩, etc.
+¶ **169.** Outside the present-system middle forms may be used in a passive sense; but there is a special form for the aor. pass. in the 3rd sing.
+¶ **170.** The form of root to which the passive-sign is appended is usually a weak one. Thus a penultimate nasal is dropped; and certain abbreviations which are made in the weak forms of the perfect, or in the past passive participle, are found also in the passive present-system. E. g. from ⟨añj⟩, pass. ⟨ajyate⟩; from ⟨bandh⟩, ⟨badhyate⟩.
+¶ **171.** In the roots ⟨vac⟩, ⟨vad⟩, ⟨vap⟩, ⟨vas⟩, ⟨vah⟩, and ⟨svap⟩, the ⟨va⟩ becomes ⟨u⟩ in the pres.; thus, ⟨ucyate⟩, ⟨upyate⟩, ⟨uṣyate⟩ (see note to § 102), ⟨supyate⟩. Similarly, ⟨yaj⟩ makes ⟨ijyate⟩, and ⟨grah⟩ and ⟨prach⟩ make ⟨gṛhyate⟩ and ⟨pṛcchyate⟩; ⟨śās⟩ makes ⟨śiṣyate⟩.
+@71
+¶ **172.** Final ⟨i⟩ and ⟨u⟩ of roots are generally lengthened; thus, ⟨ji⟩, ⟨jīyate⟩; ⟨stu⟩, ⟨stūyate⟩.
+¶ **173.** Final ⟨ṛ⟩ is in general changed to ⟨ri⟩; thus, ⟨kṛ⟩, ⟨kriyate⟩; but if preceded by two consonants it takes *guṇa*; thus, ⟨smṛ⟩, ⟨smaryate⟩. The roots in “variable ⟨ṛ⟩”, which the natives write with ⟨ṝ⟩, change ⟨ṛ⟩ to ⟨īr⟩, or, if a labial letter precede, to ⟨ūr⟩; thus, ⟨tṛ⟩, ⟨tīryate⟩; ⟨kṛ⟩, ‘strew’, ⟨kīryate⟩; but ⟨pṛ⟩, ⟨pūryate⟩.
+¶ **174.** Final ⟨ā⟩ of roots is usually changed to ⟨ī⟩; thus, ⟨dā⟩, ⟨dīyate⟩; ⟨gā⟩, ⟨gīyate⟩; ⟨dhā⟩, ⟨dhīyate⟩. But ⟨dhyā⟩ makes ⟨dhyāyate⟩; and so some other roots in ⟨ā⟩.
+¶ **175.** The roots ⟨tan⟩ and ⟨khan⟩ usually form their passives from parallel roots in ⟨ā⟩; thus, ⟨tāyate⟩. But ⟨tanyate⟩ and ⟨khanyate⟩ occur.
+¶ **176.** Verbs of causative inflection, and denominatives in ⟨aya⟩, form their passive by adding ⟨ya⟩ to the causative or denominative stem after ⟨aya⟩ has been dropped; thus, ⟨coryate⟩ ‘is stolen’; ⟨gaṇyate⟩ ‘is counted’.
+¶ **177.** The personal passive construction, with the logical subject in the instrumental, is particularly common with transitive verbs; and not less so the impersonal passive construction, both with transitive and intransitive verbs. Thus, ⟨nareṇa svargo labhyate⟩ ‘Heaven is reached by the man’; ⟨āgamyate⟩ ‘one comes hither’; ⟨supyate⟩ ‘one sleeps’; ⟨śrūyate⟩ ‘it is heard’, i. e. ‘they say’. The predicate to the instrumental subject of such a construction is of course also instrumental; thus, ⟨rāmeṇarṣiṇā jīvyate⟩ ‘Rāma lives as a seer’.
+## Vocabulary X
+¶ Verbs, with passives:
+V kṛ | (p. ⟨kriyate⟩) make, do, perform. | చేయు
+V khan | (⟨khanati⟩; p. ⟨khāyate⟩, ⟨khanyate⟩) dig. | తవ్వు
+V gā | (⟨gāyati⟩; p. ⟨gīyate⟩) sing. | పాడు
+V grah | (p. ⟨gṛhyate⟩) take, receive, seize. | తీసుకొను, పట్టుకొను
+V daṃś | (⟨daśati⟩; p. ⟨daśyate⟩) bite. | కరచు
+V dā | 2 (⟨dyati⟩; p. ⟨dīyate⟩) cut. | కోయు
+V div | (⟨dīvyati⟩; p. ⟨dīvyate⟩) play. | ఆడు
+V dhā | 1 (p. ⟨dhīyate⟩) put, place. | ఉంచు
+@72
+V dhā | 2 (⟨dhayati⟩; p. ⟨dhīyate⟩) suck. | పాలు తాగు
+V dhyā | (⟨dhyāyati⟩; p. ⟨dhyāyate⟩) think, ponder. | ధ్యానించు, ఆలోచించు
+V pā | 1 (p. ⟨pīyate⟩) drink. | తాగు
+V pṛ | 1 (Hindu ⟨pṝ⟩; p. ⟨pūryate⟩) fill. | నింపు
+V bandh | (p. ⟨badhyate⟩) bind; entangle; catch. | కట్టు; చిక్కించు; పట్టుకొను
+V mā | 1 (p. ⟨mīyate⟩) measure. | కొలుచు
+V vac | (p. ⟨ucyate⟩) speak. | పలుకు
+V vap | (⟨vapati⟩; p. ⟨upyate⟩) sow, scatter. | విత్తు, చల్లు
+V śās | (p. ⟨śiṣyate⟩) rule; punish. | పాలించు; శిక్షించు
+V śru | (p. ⟨śrūyate⟩) hear. | వినుట
+V stu | (p. ⟨stūyate⟩) praise. | స్తుతించు
+V svap | (p. ⟨supyate⟩) sleep. | నిద్రించు
+V hā | 1 (p. ⟨hīyate⟩) abandon, give up; neglect. | విడుచు; విస్మరించు
+V hū | or ⟨hvā⟩ (⟨hvayati⟩; p. ⟨hūyate⟩) call. | పిలుచు
+V hū | + ⟨ā⟩ call, summon. | పిలిపించు, ఆహ్వానించు
+¶ Substantives:
+V ājñā | f., command. | ఆజ్ఞ
+V āśā | f., hope. | ఆశ
+V kāṣṭha | n., fagot; wood. | కట్టె, కర్ర
+V gīta | n., song. | పాట
+V ghaṭa | m., pot, vessel. | కుండ
+V ghṛta | n., melted butter; *ghee*. | నెయ్యి
+V dhānya | n., grain. | ధాన్యం
+V pāśa | m., noose, cord, snare. | ఉచ్చు, తాడు
+V bhāra | m., burden. | భారం, బరువు
+V bhikṣu | m., beggar, ascetic. | భిక్షువు, సన్యాసి
+V bhṛtya | m., servant. | సేవకుడు
+V mālā | f., garland. | మాల
+V rājya | n., kingdom. | రాజ్యం
+V śiśu | m., child. | శిశువు
+V sarpa | m., snake. | పాము
+¶ Adj.:
+V vidheya | f. ā, obedient. | విధేయుడు
+## Exercise X
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | rāmeṇa putrāv upanīyete iti śrūyate | It is said that the two sons are being initiated by Rāma. | రాముడు ఇద్దరు కొడుకులకు ఉపనయనం చేస్తున్నాడని వినబడుతోంది.
+S 2 | ṛṣir nṛpeṇa dharmaṃ pṛcchyate | The seer is asked about righteousness by the king. | రాజు ఋషిని ధర్మం గురించి అడుగుతున్నాడు.
+S 3 | ghaṭau ghṛtena pūryete | The two pots are filled with ghee. | రెండు కుండలు నెయ్యితో నింపబడుతున్నాయి.
+S 4 | vihagāḥ pāśair badhyante | The birds are caught with snares. | పక్షులు ఉచ్చులతో పట్టబడుతున్నాయి.
+S 5 | janair nagaraṃ gamyate | The city is gone to by the people. | ప్రజలు నగరానికి వెళ్తున్నారు.
+S 6 | he śiṣyā guruṇāhvayadhve | O pupils, you are called by the teacher. | ఓ శిష్యులారా, గురువు మిమ్మల్ని పిలుస్తున్నాడు.
+S 7 | naraiḥ kaṭāḥ kriyante | Mats are made by the men. | మనుషులు చాపలు చేస్తున్నారు.
+S 8 | kavibhir nṛpāḥ sadā stūyante | The kings are always praised by the poets. | కవులు రాజులను ఎల్లప్పుడూ స్తుతిస్తారు.
+S 9 | prabhūtā bhikṣā gṛhasthasya bhāryayā bhikṣubhyo dīyate | Much alms is given to the beggars by the householder’s wife. | గృహస్థుని భార్య భిక్షువులకు చాలా భిక్ష ఇస్తుంది.
+S 10 | kanyābhyāṃ gītaṃ gīyate | A song is sung by the two girls. | ఇద్దరు కన్యలు పాట పాడుతున్నారు.
+S 11 | stenair lokānāṃ vasu coryate | The people’s wealth is stolen by thieves. | దొంగలు ప్రజల ధనాన్ని దొంగిలిస్తున్నారు.
+S 12 | iṣubhī raṇe 'rayo nṛpatinā jīyante | In the battle the enemies are conquered by the king with arrows. | యుద్ధంలో రాజు బాణాలతో శత్రువులను జయిస్తున్నాడు.
+S 13 | he devau sādhubhiḥ sadā smaryethe | O two gods, you are always remembered by the saints. | ఓ ఇద్దరు దేవతలారా, సాధువులు మిమ్మల్ని ఎల్లప్పుడూ స్మరిస్తారు.
+S 14 | daṇḍena bālāḥ śiṣyante | The boys are ruled by the stick. | కర్రతో పిల్లలు శిక్షించబడతారు.
+S 15 | prabhūtaḥ kāṣṭhānāṃ bhāro nareṇohyate | A great burden of wood is carried by the man. | మనిషి చాలా కట్టెల భారాన్ని మోస్తున్నాడు.
+S 16 | aśvena jalaṃ pīyate | Water is drunk by the horse. | గుర్రం నీరు తాగుతోంది.
+S 17 | dharmeṇa rājyaṃ śiṣyate nṛpeṇa | The kingdom is ruled righteously by the king. | రాజు ధర్మంగా రాజ్యాన్ని పాలిస్తాడు.
+S 18 | sarpeṇa daśyete narau | The two men are bitten by a snake. | పాము ఇద్దరు మనుషులను కరుస్తోంది.
+S 19 | sūtenāśvas tāḍyate | The horse is beaten by the charioteer. | సారథి గుర్రాన్ని కొడుతున్నాడు.
+¶ Into Sanskrit — Perry: “Use passive constructions throughout.” (an answer under each, the editor’s, with its Telugu). Words in italics are not to be translated, and the superior figures give the position of the Sanskrit word in the sentence.
+E 20 | Grain² is scattered³ *for* the birds¹. | vihagebhyo dhānyam upyate | పక్షుల కోసం ధాన్యం చల్లబడుతుంది.
+E 21 | Garlands¹ are twined³ (*use* ⟨bandh⟩) *by* the maidens². | kanyābhir mālāḥ badhyante | కన్యలు మాలలు కడతారు.
+E 22 | Again² Hari¹ is praised⁴ *by* Rāma³. | harir rāmeṇa punaḥ stūyate | హరిని రాముడు మళ్ళీ స్తుతిస్తాడు.
+E 23 | Viṣṇu¹ drinks⁴ water³ *from his* hand². | viṣṇunā pāṇinā jalaṃ pīyate | విష్ణువు తన చేతితో నీరు తాగుతాడు.
+E 24 | ‘Pleasantly¹ (⟨sukhena⟩) *one* sleeps³ *in* the shade²’; so⁴ say⁵ the people⁶. | sukhena chāyāyāṃ supyata iti janā vadanti | “నీడలో సుఖంగా నిద్రించవచ్చు” అని ప్రజలు అంటారు.
+E 25 | Both seers¹ sacrifice². | ṛṣibhyām ijyate | ఇద్దరు ఋషులు యజ్ఞం చేస్తారు.
+E 26 | The father¹ sets⁴ hopes² *on his* child³ (*loc.*). | janakena śiśāv āśā dhīyante | తండ్రి తన బిడ్డపై ఆశలు పెట్టుకుంటాడు.
+E 27 | The scholar³ neglects⁴ the teacher’s¹ command². | śiṣyeṇa guror ājñā hīyate | శిష్యుడు గురువు ఆజ్ఞను విస్మరిస్తాడు.
+E 28 | The *two* scholars¹ think³ *about their* text-book² (*nom.*). | śiṣyābhyāṃ śāstraṃ dhyāyate | ఇద్దరు శిష్యులు తమ శాస్త్రగ్రంథం గురించి ఆలోచిస్తారు.
+E 29 | Grain² is sown³ *in* the fields¹. | kṣetreṣu dhānyam upyate | పొలాలలో ధాన్యం విత్తబడుతుంది.
+E 30 | They play² *with* dice¹ (*impers. pass.*). | akṣair dīvyate | పాచికలతో ఆడుతున్నారు.
+E 31 | The king’s¹ commands² are received⁵ *by* the obedient³ servants⁴. | nṛpasyājñā vidheyair bhṛtyair gṛhyante | రాజు ఆజ్ఞలను విధేయులైన సేవకులు స్వీకరిస్తారు.
+E 32 | The man¹ digs³ *in* the field². | nareṇa kṣetre khanyate | మనిషి పొలంలో తవ్వుతాడు.
