@@ -1,0 +1,99 @@
+# Perry, A Sanskrit Primer. Lesson XVIII = p. 74 (from the heading) to p. 78 (to the end of the exercise) = leaves n93–n97 of the Cornell scan.
+% Verbs: causatives (kārayati, pāyayati); participles in -ant and -māna; the pronoun of the first person
+! Perry’s āi and āu are written ai and au; accents on the verbs are not carried. His abbreviations “1 dā”, “1 pā”, “2 pā” (the roots numbered by him) are kept as numerals before the root.
+! § 221 prints the second form of the causative construction in short (vihagaiḥ piṇḍān khādayati is written vihagaiḥ pi° khā°); it is given here as printed, with the abbreviation signs.
+! Exercise XVIII: sentences 1 and 2 are separate (“sūta adhunā sthāpaya ratham” and “yathājñāpayati devaḥ”); sentence 3 is read daśarathaś cārūn putrān ajanayat (cārūn, acc. pl. of cāru, “handsome”; the vowel sign is blurred). Sentence 13’s first words are grantho ’smābhī racyate (§ 123). Perry’s note ∗ (on the expression of possession by pronouns) is given with the English exercises. In English sentence 23 Perry’s hint is “use kāthayati” (a form of kath not given in the vocabulary), which the editor’s answer follows.
+@93
+## Lesson XVIII
+¶ **215. Causative.** The chief points to be noticed in the formation of causative-stems have been given already (in Less. VII); some additional ones follow.
+¶ **216.** Most roots in ⟨ā⟩ and ⟨ṛ⟩ add ⟨p⟩ before the conjugation-sign; thus, ⟨dāpayati⟩ from 1 ⟨dā⟩; ⟨dhāpayati⟩; ⟨gāpayati⟩; ⟨arpayati⟩ from ⟨ṛ⟩. ⟨śrā⟩ makes ⟨śrapayati⟩; ⟨jñā⟩ and ⟨snā⟩, sometimes ⟨jñāpayati⟩, etc., sometimes ⟨jñapayati⟩, etc. 1 ⟨pā⟩, ‘drink’, makes ⟨pāyayati⟩ (as though from ⟨pī⟩). A few roots in ⟨i⟩ and ⟨ī⟩ take the same ⟨p⟩, with various irregularities; thus, ⟨adhyāpayati⟩ from ⟨adhi-i⟩.
+¶ **217.** Medial or initial ⟨a⟩ in a light syllable is commonly lengthened, but sometimes remains unchanged. Thus, ⟨pat⟩, ⟨pātayati⟩; ⟨kam⟩, ⟨kāmayate⟩; ⟨cam⟩, ⟨cāmayati⟩. But most roots in ⟨am⟩, and ⟨jan⟩, ⟨tvar⟩, ⟨prath⟩, ⟨vyath⟩, with other rarer ones, generally keep the ⟨a⟩ short; thus, ⟨gam⟩, ⟨gamayati⟩.
+@94
+¶ **218.** Final vowels take *vṛddhi* before ⟨aya⟩; thus, ⟨bhū⟩, ⟨bhāvayati⟩; ⟨kṛ⟩, ⟨kārayati⟩.
+¶ **219.** Some verbs of causative meaning are by formation denominatives; thus ⟨pālayati⟩, ‘protect’, called causative to 2 ⟨pā⟩; ⟨prīṇayati⟩, to ⟨prī⟩; ⟨bhīṣayati⟩, to ⟨bhī⟩; ⟨ghātayati⟩, to ⟨han⟩.
+¶ **220.** For the passive of causatives, see Less. X.
+¶ **221.** The causatives of intransitive verbs are transitive. The causatives of transitive verbs are construed sometimes (*a*) with two accusatives, sometimes (*b*) with an acc. of the object and an instrumental of the agent. Thus, “he causes the birds to eat the cakes” may be rendered either (*a*): ⟨vihagān piṇḍān khādayati⟩, or (*b*) ⟨vihagaiḥ⟩ pi° khā° (an abbreviation for ⟨vihagaiḥ piṇḍān khādayati⟩).
+¶ **222. Participles.** The general participial endings are ⟨ant⟩ (weak form ⟨at⟩) for the active, and ⟨āna⟩ for the middle. But after a tense-stem in ⟨a⟩, the active suffix is virtually ⟨nt⟩, one of the two ⟨a⟩’s being lost; and the middle suffix is ⟨māna⟩ (except ⟨āna⟩ sometimes in causative forms). Thus, ⟨bhavant⟩, ⟨tudant⟩, ⟨dīvyant⟩, ⟨corayant⟩; ⟨bhavamāna⟩, etc. For the declension of the participles in ⟨ant⟩ see below, Less. XXIII.
+¶ **223. Pronoun of the First Person.** The pronominal declension exhibits some striking peculiarities which are not easily explained. The pronoun of the first person is declined thus:
+T  | Sing. | Dual. | Plural.
+R N. | ⟨aham⟩ | ⟨āvām⟩ | ⟨vayam⟩
+R A. | ⟨mām⟩, ⟨mā⟩ | ⟨āvām⟩, ⟨nau⟩ | ⟨asmān⟩, ⟨nas⟩
+R I. | ⟨mayā⟩ | ⟨āvābhyām⟩ | ⟨asmābhis⟩
+R D. | ⟨mahyam⟩, ⟨me⟩ | „ , ⟨nau⟩ | ⟨asmabhyam⟩, ⟨nas⟩
+R Ab. | ⟨mat⟩ | „ | ⟨asmat⟩
+R G. | ⟨mama⟩, ⟨me⟩ | ⟨āvayos⟩, ⟨nau⟩ | ⟨asmākam⟩, ⟨nas⟩
+R L. | ⟨mayi⟩ | „ | ⟨asmāsu⟩
+@95
+¶ **224.** The forms ⟨mā⟩, ⟨me⟩, ⟨nau⟩, ⟨nas⟩ are enclitic, and are never used at the beginning of a sentence, or before the particles ⟨ca⟩, ⟨eva⟩, ⟨vā⟩.
+¶ **225.** In pronouns of the first and second persons the plural is often used for the singular. Pronouns (and other words as well) show in Sanskrit a curious tendency to agree in form with the predicate rather than with the subject to which they refer.
+## Vocabulary XVIII
+¶ Verbs, with causatives:
+V aś | eat; caus. (⟨āśayati⟩) make eat; give to eat. | తిను; తినిపించు
+V i | + ⟨adhi⟩ study, read; caus. (⟨adhyāpayati⟩) teach. | చదువు; బోధించు
+V kḶp | in caus. (⟨kalpayati⟩, ⟨-te⟩) make; ordain, appoint. | చేయు; నియమించు
+V jan | in caus. (⟨janayati⟩) beget. | కను, పుట్టించు
+V jñā | + ⟨ā⟩ in caus. (⟨ājñāpayati⟩) command. | ఆజ్ఞాపించు
+V dā | 1 give; caus. (⟨dāpayati⟩) make give or pay. | ఇచ్చు; ఇప్పించు
+V dṛś | see; in caus. (⟨darśayati⟩) show. | చూచు; చూపించు
+V dhā | 1 + ⟨pari⟩, in caus. (⟨dhāpayati⟩) make put on, clothe in (*two acc.*). | ధరింపజేయు
+V nī | + ⟨apa⟩ lead away (caus. ⟨apanāyayati⟩). | తీసుకుపోవు
+V prath | in caus. (⟨prathayati⟩) spread, proclaim. | వ్యాపింపజేయు, ప్రకటించు
+V mṛ | die; caus. (⟨mārayati⟩) kill. | చచ్చు; చంపు
+V yaj | sacrifice; caus. (⟨yājayati⟩) make to sacrifice; offer sacrifice for (*acc.*∗). | యజ్ఞం చేయు; (పురోహితుడు) యజ్ఞం చేయించు
+V vad | + ⟨abhi⟩ in caus. (⟨abhivādayati⟩) greet. | నమస్కరించు, అభివాదం చేయు
+V vid | know; caus. (⟨vedayati⟩) inform (*dat.*). | తెలుసుకొను; తెలియజేయు
+V vid | + ⟨ni⟩ in caus. inform (*dat.*). | నివేదించు
+V vṛdh | (⟨vardhate⟩) grow; caus. (⟨vardhayati⟩, ⟨-te⟩) make grow; bring up. | పెరుగు; పెంచు
+V vyath | in caus. (⟨vyathayati⟩) torment. | బాధించు
+V śru | hear; in caus. (⟨śrāvayati⟩) make hear, i. e. recite, proclaim (*acc. of pers.*). | వినుట; వినిపించు, పఠించు
+V sthā | stand; in caus. (⟨sthāpayati⟩) put, place; appoint; stop. | నిలుచు; నిలుపు, నియమించు
+V sthā | + ⟨pra⟩ (⟨pratiṣṭhate⟩) start off; in caus. (⟨prasthāpayati⟩) send. | బయలుదేరు; పంపు
+¶ ∗ The priest who performs sacrifice for the benefit of another person is said to “make that person sacrifice”, as though the latter (who is called ⟨yajamāna⟩) were celebrating the sacrifice for himself.
+@96
+¶ Subst.:
+V amṛta | n., nectar. | అమృతం
+V upanayana | n., initiation, investiture. | ఉపనయనం
+V kara | m., hand; trunk (of elephant); ray; toll, tax. | చేయి; తొండం; కిరణం; పన్ను
+V kālidāsa | m., *nom. pr.*, a noted poet. | కాళిదాసు
+V kāśī | f., *nom. pr.*, the city of Benares. | కాశీ
+V guṇa | m., quality; excellent quality, excellence. | గుణం, సద్గుణం
+V daśaratha | m., *nom. pr.* (Rāma’s father). | దశరథుడు
+V dāsa | m., slave, groom. | దాసుడు, సేవకుడు
+V dūta | m., messenger, envoy. | దూత
+V pāṭaliputra | n., *nom. pr.*, the city of Patnā. | పాటలీపుత్రం
+V manoratha | m., wish. | కోరిక, మనోరథం
+V vastra | n., garment. | వస్త్రం
+V vidhi | m., Brahman (the deity). | బ్రహ్మ
+V vṛka | m., wolf. | తోడేలు
+V veda | m., science, knowledge; *esp.* sacred knowledge, holy writ. | విద్య; వేదం
+¶ Adj.:
+V navīna | f. ā, new. | కొత్త
+V sva | f. ā, own, one’s own. | సొంత
+## Exercise XVIII
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | sūta adhunā sthāpaya ratham | O charioteer, stop the chariot now. | సారథీ, ఇప్పుడు రథాన్ని ఆపు.
+S 2 | yathājñāpayati devaḥ | As your majesty commands. | మహారాజు ఆజ్ఞాపించినట్లు.
+S 3 | daśarathaś cārūn putrān ajanayat | Daśaratha begot handsome sons. | దశరథుడు అందమైన కొడుకులను కన్నాడు.
+S 4 | kālidāsasya kāvyaṃ māṃ śrāvayeḥ | Please recite Kālidāsa’s poem to me. | కాళిదాసు కావ్యాన్ని నాకు వినిపించు.
+S 5 | vaiśyān karān dāpayen nṛpaḥ | The king should make the Vaiśyas pay taxes. | రాజు వైశ్యులచే పన్నులు చెల్లింపజేయాలి.
+S 6 | upanayane bālān navīnāni vastrāṇi paridhāpayeyuḥ | At the initiation they should clothe the boys in new garments. | ఉపనయనంలో బాలురకు కొత్త వస్త్రాలు ధరింపజేయాలి.
+S 7 | bhrātaro 'smān nagaraṃ prāsthāpayan | The brothers sent us to the city. | సోదరులు మమ్మల్ని నగరానికి పంపారు.
+S 8 | svasāra āgacchantīti mahyaṃ nyavedayata | They informed me that the sisters were coming. | సోదరీలు వస్తున్నారని నాకు తెలియజేశారు.
+S 9 | vāyor balena taravo 'pātyanta | By the wind’s force the trees were felled. | గాలి బలంతో చెట్లు కూలిపోయాయి.
+S 10 | kṣatriyā yuddhe 'rīn mārayanti | The warriors kill the enemies in battle. | యోధులు యుద్ధంలో శత్రువులను చంపుతారు.
+S 11 | kavayo 'smākaṃ guṇān prathayeyuḥ kīrtiṃ ca vardhayeyur iti pārthivair iṣyate | “May the poets proclaim our virtues and increase our fame”: thus the kings wish. | “కవులు మా సద్గుణాలను ప్రకటించి మా కీర్తిని పెంచుదురు గాక” అని రాజులు కోరుతారు.
+S 12 | ahaṃ prayāge nivasāmi rāmaḥ kāśyāṃ tiṣṭhati | I live at Prayāga; Rāma stays at Kāśī. | నేను ప్రయాగలో నివసిస్తున్నాను; రాముడు కాశీలో ఉన్నాడు.
+S 13 | grantho 'smābhī racyate pustakaṃ rāmeṇa lekhayāmaḥ | The work is being composed by us; we have the book written by Rāma. | గ్రంథాన్ని మేము రచిస్తున్నాము; పుస్తకాన్ని రాముడి చేత రాయిస్తున్నాము.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Words in italics are not to be translated. Perry’s note ∗: the expression of possession, etc., on the part of pronouns is made almost entirely by the genitive case, not by a derivative possessive adjective. But often the unemphatic possessive pronoun of the English is omitted in Sanskrit.
+E 14 | I cause a mat to be made (*caus. pass.*). | kaṭo mayā kāryate | నేను చాప చేయిస్తున్నాను.
+E 15 | Show me (*dat.*) the books. | mahyaṃ pustakāni darśaya | నాకు పుస్తకాలను చూపించు.
+E 16 | Let Brāhmans teach us both and offer sacrifice for us. | brāhmaṇā āvām adhyāpayantu yājayantu ca | బ్రాహ్మణులు మా ఇద్దరికి బోధించి యజ్ఞం చేయించుదురు గాక.
+E 17 | The king determined (ordained) the taxes in *his* kingdom. | nṛpo rājye karān akalpayat | రాజు తన రాజ్యంలో పన్నులను నిర్ణయించాడు.
+E 18 | I have my field ploughed by slaves. | dāsaiḥ kṣetraṃ kārṣayāmi | నేను దాసుల చేత పొలం దున్నిస్తాను.
+E 19 | Give me water and food. | mahyaṃ jalam annaṃ ca dehi | నాకు నీరు, అన్నం ఇవ్వు.
+E 20 | They had the boy taken (led) away from me (*abl.*). | mat bālam apanāyayan | వారు బాలుని నా నుండి తీసుకుపోయేలా చేశారు.
+E 21 | The kings sent envoys to Pāṭaliputra. | nṛpā dūtān pāṭaliputraṃ prāsthāpayan | రాజులు దూతలను పాటలీపుత్రానికి పంపారు.
+E 22 | Thieves stole our (*gen.*) cows, and wolves killed our∗ flocks. | stenā asmākaṃ gā acorayan vṛkāś cāsmākaṃ paśūn amārayan | దొంగలు మా ఆవులను దొంగిలించారు, తోడేళ్ళు మా పశువులను చంపాయి.
+E 23 | The king made the poet recite (*use* ⟨kāthayati⟩) a eulogy of Viṣṇu. | nṛpaḥ kaviṃ viṣṇoḥ stutiṃ kāthayati | రాజు కవిచేత విష్ణు స్తుతిని పఠింపజేశాడు.
+E 24 | We torment our hearts with wishes. | manorathair asmākaṃ hṛdayāni vyathayāmaḥ | మేము కోరికలతో మా హృదయాలను బాధిస్తాము.
+E 25 | Both scholars greet the teacher. | śiṣyau guruṃ vandete | ఇద్దరు శిష్యులు గురువును నమస్కరిస్తారు.
