@@ -39,7 +39,9 @@ SUBTITLE = {1: "Yāska's Nirukta, adhyāya 1 · the introduction: the four kinds
             8: "Yāska's Nirukta, adhyāya 8 · Draviṇodas, and the deities of the Āprī hymns, "
                "from the kindling to the svāhā-calls",
             9: "Yāska's Nirukta, adhyāya 9 · the deified things of the earth: horse, bird, frogs, dice, "
-               "stones, war-gear, rivers, plants, night, faith, and the eight pairs"}
+               "stones, war-gear, rivers, plants, night, faith, and the eight pairs",
+            10: "Yāska's Nirukta, adhyāya 10 · the deities of the mid-air: Vāyu, Varuṇa, Rudra, Indra, "
+                "Parjanya, Bṛhaspati, Yama, Viśvakarman, Savitṛ and others"}
 NOTE = ("Yāska's Nirukta, the oldest surviving treatise on Vedic etymology and a commentary on the "
         "Nighaṇṭu. The text is Lakshman Sarup's critical edition (1927); words in square brackets are "
         "found in only part of the manuscripts. Quotations Sarup sets apart (mantras, and phrases from "
