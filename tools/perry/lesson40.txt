@@ -1,0 +1,115 @@
+# Perry, A Sanskrit Primer. Lesson XL = p. 168 (from the heading) to p. 171 (to the end of the exercise) = leaves n187–n190 of the Cornell scan.
+% The root-class concluded: ās, śās, as “be”, lih, duh, rud, śvas; the verse that the resolute do not stray from the right path
+! Perry’s āi and āu are written ai and au; the accent marks that he prints under the vocabulary forms (ániti, ásti …) are not carried. The paradigm of as “be” is given cell by cell; of ās, śās, lih, duh and rud only what he prints (the first persons and the odd forms) is given, in paragraphs. His footnotes are kept: § 424 (ādhve, and so āddhvam or ādhvam in the imperative and imperfect), § 425 (see § 414; aśāt is said to be used in the 2nd person also), § 428 (cf. §§ 244, 249; and when the final sonant aspirate of a root is followed by t or th of an ending, the whole group is made sonant, and the aspiration of the root-final is not lost but is transferred to the initial of the ending), and the footnote to the vocabulary (after ud, the initial s of sthā and stambh is dropped; thus utthātum for utsthātum).
+! § 424 reads āse, āsse, āste; the second form is written with the doubled s as printed. In § 427 the 2nd singular of the imperative middle of lih is read likṣva (h before s becoming k, as the rule says); the form is blurred in the scan. § 429: Perry’s “°dos, °dat or °dīt” in the imperfect of rud are written out as arodīs, arodat and arodīt, from his rule.
+! In § 428 the second singular of duh is dhokṣi and the middle second singular dhukṣe, the stem showing the old guttural (dhokṣi from dohṣi); both are read from the print.
+! Exercise XL opens with a verse numbered ॥ 29 ॥ (nindantu nītinipuṇā yadi vā stuvantu | lakṣmīḥ samāviśatu gacchatu vā yatheṣṭam | adyaiva vā maraṇam astu yugāntare vā | nyāyyāt pathaḥ pravicalanti padaṃ na dhīrāḥ, “Let the politic blame or praise; let Fortune enter or depart at will; let death come today or at the end of an age: the resolute do not stir a step from the right path”), then ten numbered Sanskrit sentences and the English ones 11–20. Sentence 2 reads mitradhrukṣu pāpeṣu na viśvasiti buddhimān; sentence 4, pramattair ṛtvigbhir bhūmau nihitāni havīṃṣi śvānāv avālīḍhām; sentence 6, … abravīt; sentence 8 astu yaśaḥ śrutavṛtte stāṃ śriyaḥ santu na tu bhaktiṃ vinā svarge prāpnuyāḥ (read as printed: the dual stām, “let there be learning and conduct”).
+@187
+## Lesson XL
+¶ **424. Verbs. Root-class, cont’d.** ⟨ās⟩ ‘sit’ (mid.): Indic. ⟨āse⟩, ⟨āsse⟩, ⟨āste⟩; ⟨āsvahe⟩ etc.; ⟨āsmahe⟩, ⟨āddhve⟩∗, ⟨āsate⟩. Impf. ⟨āsi⟩, ⟨āsthās⟩, ⟨āsta⟩ etc. Imv. ⟨āsai⟩, ⟨āssva⟩, ⟨āstām⟩ etc. Part. ⟨āsīna⟩ (unique).
+¶ **425.** The root ⟨śās⟩, ‘command’ (act.), substitutes in the weak forms with consonant-endings the weakened stem ⟨śiṣ⟩; thus, indic. sing. ⟨śāsmi⟩ etc.; du. ⟨śiṣvas⟩ etc.; but 3rd pl. ⟨śāsati⟩. Impf.: ⟨aśāsam⟩, ⟨aśās⟩, ⟨aśāt⟩∗∗; ⟨aśiṣva⟩ etc.; but 3rd pl. ⟨aśāsus⟩. Imv. 2nd sing. ⟨śādhi⟩; 3rd pl. ⟨śāsatu⟩.
+¶ **426.** The extremely common root 1⟨as⟩, ‘be’ (act.), loses its vowel in weak forms, except when protected by the augment. The 2nd sing. imv. is ⟨edhi⟩; in the 2nd sing. indic. one ⟨s⟩ is omitted; in the 2nd and 3rd sing. impf. ⟨ī⟩ is inserted before the ending. Thus:
+¶ Indicative.
+T  | sing. | du. | pl.
+R 1. | ⟨asmi⟩ | ⟨svas⟩ | ⟨smas⟩
+R 2. | ⟨asi⟩ | ⟨sthas⟩ | ⟨stha⟩
+R 3. | ⟨asti⟩ | ⟨stas⟩ | ⟨santi⟩
+¶ Imperfect.
+T  | sing. | du. | pl.
+R 1. | ⟨āsam⟩ | ⟨āsva⟩ | ⟨āsma⟩
+R 2. | ⟨āsīs⟩ | ⟨āstam⟩ | ⟨āsta⟩
+R 3. | ⟨āsīt⟩ | ⟨āstām⟩ | ⟨āsan⟩
+¶ Imperative.
+T  | sing. | du. | pl.
+R 1. | ⟨asāni⟩ | ⟨asāva⟩ | ⟨asāma⟩
+R 2. | ⟨edhi⟩ | ⟨stam⟩ | ⟨sta⟩
+R 3. | ⟨astu⟩ | ⟨stām⟩ | ⟨santu⟩
+¶ Opt.: ⟨syām⟩ etc.; 3rd pl. ⟨syus⟩. Part.: ⟨sant⟩, f. ⟨satī⟩.
+¶ **427.** Roots in ⟨h⟩ (except ⟨dih⟩ and ⟨duh⟩) combine ⟨h⟩ with ⟨t⟩, ⟨th⟩ and ⟨dh⟩ into ⟨ḍh⟩, and then lengthen preceding ⟨a⟩, ⟨i⟩, ⟨u⟩; before ⟨s⟩, ⟨h⟩ becomes ⟨k⟩; in 2nd and 3rd sing. impf. act. (where the endings are dropped) the ⟨h⟩ becomes ⟨ṭ⟩. Thus, ⟨lih⟩ ‘lick’ (act. and mid.): Impf. act.: ⟨aleham⟩, ⟨aleṭ⟩, ⟨aleṭ⟩; ⟨alihva⟩, ⟨alīḍham⟩,
+¶ ∗ Or ⟨ādhve⟩. So ⟨āddhvam⟩ or ⟨ādhvam⟩ (imv., impf.).
+¶ ∗∗ See § 414. ⟨aśāt⟩ is said to be used in 2nd pers. also.
+@188
+¶ ⟨alīḍhām⟩; ⟨alihma⟩, ⟨alīḍha⟩, ⟨alihan⟩. Imv. mid.: ⟨lehai⟩, ⟨likṣva⟩, ⟨līḍhām⟩; ⟨lehāvahai⟩, ⟨lihāthām⟩, ⟨lihātām⟩; ⟨lehāmahai⟩, ⟨līḍhvam⟩, ⟨lihatām⟩.
+¶ **428.** In the two roots ⟨duh⟩, ‘milk’ (act. and mid.), and ⟨dih⟩, ‘smear’ (act.), the final ⟨h⟩ represents an earlier guttural which reappears in the inflection. Thus, from ⟨duh⟩:
+¶ Indicative.
+T  | sing. | du. | pl.
+R 1. | ⟨dohmi⟩ | ⟨duhvas⟩ | ⟨duhmas⟩
+R 2. | ⟨dhokṣi⟩∗ | ⟨dugdhas⟩ | ⟨dugdha⟩
+R 3. | ⟨dogdhi⟩∗∗ | ⟨dugdhas⟩ | ⟨duhanti⟩
+¶ Imperfect.
+T  | sing. | du. | pl.
+R 1. | ⟨adoham⟩ | ⟨aduhva⟩ | ⟨aduhma⟩
+R 2. | ⟨adhok⟩ | ⟨adugdham⟩ | ⟨adugdha⟩
+R 3. | ⟨adhok⟩ | ⟨adugdhām⟩ | ⟨aduhan⟩
+¶ Ind. mid.: ⟨duhe⟩, ⟨dhukṣe⟩, ⟨dugdhe⟩; ⟨duhvahe⟩ etc. Impf. mid.: ⟨aduhi⟩, ⟨adugdhās⟩, ⟨adugdha⟩; ⟨aduhvahi⟩ etc.; ⟨aduhmahi⟩, ⟨adhugdhvam⟩, ⟨aduhata⟩. Imv. mid.: ⟨dohai⟩, ⟨dhukṣva⟩, ⟨dugdhām⟩; ⟨dohāvahai⟩ etc.; ⟨dohāmahai⟩, ⟨dhugdhvam⟩, ⟨duhatām⟩.
+¶ **429.** The roots ⟨rud⟩, ‘weep’, ⟨svap⟩, ‘sleep’, ⟨an⟩, ‘breathe’, ⟨śvas⟩, ‘breathe’ (all act.), insert ⟨i⟩ before all endings beginning with a consonant, except ⟨s⟩ and ⟨t⟩ of 2nd and 3rd sing. impf., where they insert either ⟨a⟩ or ⟨ī⟩. Thus, ⟨rud⟩: Pres. indic.: ⟨rodimi⟩, ⟨rodiṣi⟩ etc., 3rd pl. ⟨rudanti⟩. Impf.: ⟨arodam⟩, ⟨arodīs⟩ or ⟨arodas⟩, ⟨arodīt⟩ or ⟨arodat⟩; ⟨arudiva⟩ etc.; 3rd pl. ⟨arudan⟩. Imv.: ⟨rodāni⟩, ⟨rudihi⟩, ⟨roditu⟩ etc. Opt.: ⟨rudyām⟩ etc. (⟨yā⟩ being mode-sign).
+¶ ∗ cf. §§ 244, 249.
+¶ ∗∗ When the final sonant aspirate of a root is followed by ⟨t⟩ or ⟨th⟩ of an ending, the whole group is made sonant, and the aspiration of the root-final is not lost, but is transferred to the initial of the ending.
+## Vocabulary XL
+¶ Verbs:
+V an | (⟨aniti⟩) breathe. | ఊపిరి పీల్చు
+V an | + ⟨pra⟩ (⟨prāṇiti⟩) live. | జీవించు
+V as | (⟨asti⟩) be. | ఉండు
+V ās | (⟨āste⟩) sit. | కూర్చుండు
+V ās | + ⟨upa⟩ sit by; wait upon; attend; reverence. | సమీపంలో కూర్చుండు; సేవించు; ఉపాసించు
+V cal | + ⟨pra-vi⟩ (⟨pravicalati⟩) move, stir (tr.). | కదలించు, తొలగు
+V dih | (⟨degdhi⟩) smear. | పూయు
+V duh | (⟨dogdhi⟩, ⟨dugdhe⟩) milk. | పాలు పితుకు
+V mīl | + ⟨ni⟩ (⟨nimīlati⟩) shut (the eyes). | కళ్ళు మూసుకొను
+V rud | (⟨roditi⟩) weep. | ఏడ్చు
+V lih | (⟨leḍhi⟩, ⟨līḍhe⟩) lick. | నాకు
+V lih | + ⟨ava⟩ lick. | నాకు
+V viś | + ⟨samā⟩ approach. | ప్రవేశించు, సమీపించు
+V śās | (⟨śāste⟩) command, govern. | ఆజ్ఞాపించు, పాలించు
+V śvas | (⟨śvasiti⟩) breathe. | ఊపిరి పీల్చు
+V śvas | + ⟨ā⟩ or ⟨samā⟩ breathe gently, revive. | తెప్పరిల్లు, ఊరటపొందు
+V śvas | + ⟨vi⟩ be confident, trust (*w. gen. or loc. of pers.*). | నమ్మకం ఉంచు (షష్ఠి లేదా సప్తమితో)
+V sthā | + ⟨ud⟩∗ (⟨uttiṣṭhati⟩) arise. | లేచు
+¶ Subst.:
+V upabhoga | m., enjoyment. | అనుభవం, భోగం
+V keśa | m., hair. | వెంట్రుక, జుట్టు
+V dāna | n., gift, generosity. | దానం, ఔదార్యం
+V bālā | f., girl, maiden. | బాలిక
+V musala | m., n., club, pestle. | రోకలి, గదా
+V rudhira | n., blood. | రక్తం
+V satra | n., sacrifice. | సత్రయాగం
+V savitṛ | m., *n. pr.*, the sun-god Savitar; the sun. | సవిత (సూర్యదేవుడు); సూర్యుడు
+V skandha | m., shoulder. | భుజం
+¶ Adj.:
+V dhīra | f. ā, firm, resolute. | ధీరుడు, స్థిరమైన
+V nipuṇa | f. ā, shrewd, skilled. | నేర్పరి
+V nyāyya | f. ā, right, proper. | న్యాయమైన
+V pramatta | f. ā, careless. | అజాగ్రత్త గల
+¶ Indecl.:
+V prātar | early, in the morning. | ప్రాతఃకాలంలో
+V bhṛśam | greatly, much. | మిక్కిలి, చాలా
+¶ ∗ After ⟨ud⟩, the initial ⟨s⟩ of ⟨sthā⟩ and ⟨stambh⟩ is dropped; thus, ⟨utthātum⟩ for ⟨utsthātum⟩.
+## Exercise XL
+¶ The exercise opens with a verse (the translations are the editor’s):
+S 29a | nindantu nītinipuṇā yadi vā stuvantu | Let the politic blame or let them praise; | నీతి నిపుణులు నిందించనీ లేదా స్తుతించనీ;
+S 29b | lakṣmīḥ samāviśatu gacchatu vā yatheṣṭam | let Fortune enter or depart as she will; | లక్ష్మి ప్రవేశించనీ లేదా ఇష్టానుసారం వెళ్ళనీ;
+S 29c | adyaiva vā maraṇam astu yugāntare vā | let death come today or at the end of an age: | ఈ రోజే మరణం రానీ లేదా యుగాంతంలో రానీ:
+S 29d | nyāyyāt pathaḥ pravicalanti padaṃ na dhīrāḥ | the resolute do not stir a step from the right path. | ధీరులు న్యాయమైన దారి నుండి ఒక్క అడుగు కూడా తొలగరు.
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | steno musalaṃ skandhe kṛtvā muktakeśo rājānam upetya śādhi mām iti brūyāt | The thief, putting a club on his shoulder, with hair let loose, should approach the king and say, “Punish me.” | దొంగ రోకలిని భుజంపై పెట్టుకొని, జుట్టు విరబోసుకొని, రాజు వద్దకు వెళ్ళి “నన్ను శిక్షించు” అని చెప్పాలి.
+S 2 | mitradhrukṣu pāpeṣu na viśvasiti buddhimān | The wise man does not trust friend-betrayers and sinners. | బుద్ధిమంతుడు మిత్రద్రోహులను, పాపులను నమ్మడు.
+S 3 | mahodadhimadhye śeṣanāgam adhiśayāno viṣṇuḥ sukhaṃ svapiti | In the middle of the great ocean, lying on the serpent Śeṣa, Viṣṇu sleeps in comfort. | మహాసముద్రం మధ్యలో శేషనాగుపై పడుకొని విష్ణువు సుఖంగా నిద్రిస్తాడు.
+S 4 | pramattair ṛtvigbhir bhūmau nihitāni havīṃṣi śvānāv avālīḍhām | The offerings placed on the ground by careless priests were licked by two dogs. | అజాగ్రత్త గల ఋత్విజులు నేలపై ఉంచిన హవిస్సులను రెండు కుక్కలు నాకాయి.
+S 5 | sukham āstāṃ bhavān iti gantum anujñāto 'payan sakhā sakhāyaṃ brūyāt | Permitted to go, the friend departing should say to his friend, “May your honour sit at ease.” | వెళ్ళడానికి అనుమతి పొందిన స్నేహితుడు వెళ్తూ స్నేహితునితో “తమరు సుఖంగా ఉండండి” అనాలి.
+S 6 | sundari samāśvasihi samāśvasihīti bhayanimīlitākṣīm urvaśīṃ purūravā abravīt | “Beautiful one, take comfort, take comfort!” Purūravas said to Urvaśī, who had shut her eyes in fear. | “సుందరీ, ఊరట పొందు, ఊరట పొందు!” అని భయంతో కళ్ళు మూసుకున్న ఊర్వశితో పురూరవుడు అన్నాడు.
+S 7 | gurukrodhabhītāḥ śiṣyā rātrau vedān adhyaiyata | The pupils, afraid of the teacher’s anger, read the Vedas at night. | గురువు కోపానికి భయపడిన శిష్యులు రాత్రి వేదాలను చదివారు.
+S 8 | astu yaśaḥ śrutavṛtte stāṃ śriyaḥ santu na tu bhaktiṃ vinā svarge prāpnuyāḥ | May there be glory, may there be learning and conduct, may there be riches; but without devotion you would not reach heaven. | కీర్తి ఉండుగాక, విద్య, నడవడి ఉండుగాక, సంపదలు ఉండుగాక; కానీ భక్తి లేకుండా నువ్వు స్వర్గాన్ని పొందలేవు.
+S 9 | dānopabhogahīnaḥ pumāñ śvasann api na jīvati | A man without giving or enjoyment, though he breathes, does not live. | దానం, భోగం లేనివాడు ఊపిరి పీల్చుతున్నా జీవించినట్లు కాదు.
+S 10 | dīrghasatram upāsate ye brahmacaryaṃ caranti | Those who live the student’s life attend a long sacrifice. | బ్రహ్మచర్యం ఆచరించేవారు దీర్ఘ సత్రాన్ని ఉపాసిస్తారు.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Perry’s hints in brackets are kept in the English.
+@190
+E 11 | Long may the great-king govern the earth according to law. | mahārājo dharmeṇa ciraṃ pṛthivīṃ śāstu | మహారాజు ధర్మానుసారంగా చాలా కాలం భూమిని పాలించుగాక.
+E 12 | *There was* a mighty king, Nala by name (⟨nāma⟩), son of Vīrasena. | vīrasenasya putro balavān nalo nāma rājā āsīt | వీరసేనుని కొడుకు, బలవంతుడైన నలుడు అనే రాజు ఉండేవాడు.
+E 13 | The lion, satiated-with-the-blood-of-the-slain-gazelle, licked *his* mouth with *his* tongue. | hatahariṇarudhiratṛpto siṃho jihvayā svam oṣṭham aleṭ | చంపిన జింక రక్తంతో తృప్తి చెందిన సింహం తన నాలుకతో తన పెదవి నాకింది.
+E 14 | Let the householder say to the guest: “where didst thou sleep during the night”? | gṛhastho 'tithiṃ brūyāt kutra tvaṃ rātrāv aśethā iti | గృహస్థుడు అతిథితో “రాత్రి నువ్వు ఎక్కడ నిద్రించావు?” అని అనాలి.
+E 15 | The cowherd milked the cows twice daily. | pratidinaṃ dvir gopo gā adhok | గోపాలుడు ప్రతిరోజూ రెండుసార్లు ఆవులను పితికాడు.
+E 16 | The boy, beaten by *his* father, wept bitterly (⟨bhṛśam⟩). | pitrā tāḍito bālo bhṛśam arodīt | తండ్రి చేత కొట్టబడిన బాలుడు తీవ్రంగా ఏడ్చాడు.
+E 17 | Whose daughter art thou, girl? | bāle kasya tvaṃ duhitāsi | బాలికా, నువ్వు ఎవరి కూతురివి?
+E 18 | Know *that* that by which thou livest, and the whole world lives, *is* the world-spirit. | yena tvaṃ prāṇiṣi sarvaṃ ca jagat prāṇiti tad brahma viddhi | నువ్వు దేనివలన జీవిస్తున్నావో, లోకమంతా దేనివలన జీవిస్తుందో అదే పరమాత్మ అని తెలుసుకో.
+E 19 | Having arisen in the morning, reverence the sun (⟨savitṛ⟩). | prātar utthāya savitāram upāssva | ఉదయాన లేచి సూర్యుని ఉపాసించు.
+E 20 | If you do not praise Rāma, there will be no salvation for you (*use* ⟨as⟩, *in pres. opt.*). | yadi rāmaṃ na stuyās tadā tava muktir na syāt | నువ్వు రాముని స్తుతించకపోతే నీకు ముక్తి కలగదు.
