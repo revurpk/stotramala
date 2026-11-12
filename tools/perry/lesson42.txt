@@ -1,0 +1,114 @@
+# Perry, A Sanskrit Primer. Lesson XLII = p. 175 (from the heading) to p. 179 (to the end of the exercise) = leaves n194–n198 of the Cornell scan.
+% Verbs: the nasal class (yunakti, ruṇaddhi, chinatti, bhinatti, hinasti); the verse that whatever one does, one reaps
+! Perry’s āi and āu are written ai and au; the accent marks that he prints under the vocabulary forms (yunákti, runáddhi …) are not carried. The paradigms of yuj and rudh are given cell by cell as printed (the roman forms of the vocabulary — yunakti, yuṅkte, ruṇaddhi, runddhe, chinatti, bhinatti, piṇaṣṭi, bhanakti, hinasti — confirm the readings of the tables, which Perry prints in Devanāgarī only). For piṣ and hiṃs only the imperfect, the 2nd persons of the indicative and imperative are printed; for tṛh only the two forms of § 446.
+! Perry’s footnote to the paradigm of yuj: instead of yuṅkthas, yuṅgdhve and the like it is allowed (and more usual) to write yuṅthas, yuṅdhve etc.; also rundhas, rundhve etc., instead of runddhas etc.; in each case omitting the consonant immediately following the nasal. Given whole, with the printed forms in the table.
+! The footnote to verse 32 (the antecedent of this relative is the subject of avāpnoti) and to sentence 1 (translate as though dative) are given with the verse and the sentence.
+! Exercise XLII opens with three verses numbered ॥ 32 ॥, ॥ 33 ॥ and ॥ 34 ॥ (yad dhyāyati yat kurute dhṛtiṃ badhnāti yatra ca | tad avāpnoty ayatnena yo hinasti na kiñcana, “What one meditates on, does, and fixes one’s mind on, that he gets without effort, who injures nothing whatever”; yasyāṃ yasyām avasthāyāṃ yat karoti śubhāśubham | tasyāṃ tasyām avasthāyāṃ tat phalaṃ samupāśnute, “In whatever state one does good or evil, in that same state one reaps its fruit”; dūta eva hi saṃdhatte bhinatty eva ca saṃhatān | dūtas tat kurute karma yena bhidyante vā na vā, “The envoy alone joins, and the envoy alone splits those united: the envoy does that deed by which they are divided or not”), then ten numbered Sanskrit sentences and the English ones 11–19. In sentence 5 the verb (read yuṅkta) and the last word (read ṛkṣu, a locative plural of ṛc) are unclear in the scan; they are given as read, and the translation follows the sense (“it is heard in the Ṛks that in the morning the two Aśvins yoke the horses to the chariot, to wake the creatures, with Uṣas, their sister”). In sentence 7 the print reads viśinaṣṭi manorujaṃ (so, manoruj, “mind’s anguish”).
+@194
+## Lesson XLII
+¶ **441. Verbs. Nasal class.** All roots of this class end in consonants. As class-sign they insert a nasal before the final consonant, unless one be there already (as in ⟨bhañj⟩); this nasal is adapted to the consonant, except in the strong forms, where it is expanded to the syllable ⟨na⟩ [⟨ṇa⟩], which bears the accent.
+¶ **442.** The combination of the final radical consonants with those of the personal endings is in accordance with the rules already given for the root and reduplicating classes.
+¶ **443.** Thus, ⟨yuj⟩ ‘join’; strong stem ⟨yunaj⟩, weak ⟨yuñj⟩.
+¶ Indicative.
+T  | Active sing. | du. | pl. | Middle sing. | du. | pl.
+R 1. | ⟨yunajmi⟩ | ⟨yuñjvas⟩ | ⟨yuñjmas⟩ | ⟨yuñje⟩ | ⟨yuñjvahe⟩ | ⟨yuñjmahe⟩
+R 2. | ⟨yunakṣi⟩ | ⟨yuṅkthas⟩∗ | ⟨yuṅktha⟩ | ⟨yuṅkṣe⟩ | ⟨yuñjāthe⟩ | ⟨yuṅgdhve⟩
+R 3. | ⟨yunakti⟩ | ⟨yuṅktas⟩ | ⟨yuñjanti⟩ | ⟨yuṅkte⟩ | ⟨yuñjāte⟩ | ⟨yuñjate⟩
+¶ Imperfect.
+T  | Active sing. | du. | pl. | Middle sing. | du. | pl.
+R 1. | ⟨ayunajam⟩ | ⟨ayuñjva⟩ | ⟨ayuñjma⟩ | ⟨ayuñji⟩ | ⟨ayuñjvahi⟩ | ⟨ayuñjmahi⟩
+R 2. | ⟨ayunak⟩ | ⟨ayuṅktam⟩ | ⟨ayuṅkta⟩ | ⟨ayuṅkthās⟩ | ⟨ayuñjāthām⟩ | ⟨ayuṅgdhvam⟩
+R 3. | ⟨ayunak⟩ | ⟨ayuṅktām⟩ | ⟨ayuñjan⟩ | ⟨ayuṅkta⟩ | ⟨ayuñjātām⟩ | ⟨ayuñjata⟩
+¶ Imperative.
+T  | Active sing. | du. | pl. | Middle sing. | du. | pl.
+R 1. | ⟨yunajāni⟩ | ⟨yunajāva⟩ | ⟨yunajāma⟩ | ⟨yunajai⟩ | ⟨yunajāvahai⟩ | ⟨yunajāmahai⟩
+R 2. | ⟨yuṅgdhi⟩ | ⟨yuṅktam⟩ | ⟨yuṅkta⟩ | ⟨yuṅkṣva⟩ | ⟨yuñjāthām⟩ | ⟨yuṅgdhvam⟩
+R 3. | ⟨yunaktu⟩ | ⟨yuṅktām⟩ | ⟨yuñjantu⟩ | ⟨yuṅktām⟩ | ⟨yuñjātām⟩ | ⟨yuñjatām⟩
+¶ Opt. act.: ⟨yuñjyām⟩ etc.; mid.: ⟨yuñjīya⟩ etc.
+¶ Part. act.: ⟨yuñjant⟩, f. ⟨yuñjatī⟩; mid.: ⟨yuñjāna⟩.
+¶ **444.** Root ⟨rudh⟩ ‘obstruct’; strong stem ⟨ruṇadh⟩, weak ⟨rundh⟩.
+¶ Indicative.
+T  | Active sing. | du. | pl. | Middle sing. | du. | pl.
+R 1. | ⟨ruṇadhmi⟩ | ⟨rundhvas⟩ | ⟨rundhmas⟩ | ⟨rundhe⟩ | ⟨rundhvahe⟩ | ⟨rundhmahe⟩
+R 2. | ⟨ruṇatsi⟩ | ⟨runddhas⟩ | ⟨runddha⟩ | ⟨runtse⟩ | ⟨rundhāthe⟩ | ⟨runddhve⟩
+R 3. | ⟨ruṇaddhi⟩ | ⟨runddhas⟩ | ⟨rundhanti⟩ | ⟨runddhe⟩ | ⟨rundhāte⟩ | ⟨rundhate⟩
+¶ ∗ Instead of ⟨yuṅkthas⟩, ⟨yuṅgdhve⟩, and the like, it is allowed (and more usual) to write ⟨yuṅthas⟩, ⟨yuṅdhve⟩ etc.; also ⟨rundhas⟩, ⟨rundhve⟩ etc., instead of ⟨runddhas⟩ etc.; in each case omitting the consonant immediately following the nasal.
+@196
+¶ Imperative.
+T  | Active sing. | du. | pl. | Middle sing. | du. | pl.
+R 1. | ⟨ruṇadhāni⟩ | ⟨ruṇadhāva⟩ | ⟨ruṇadhāma⟩ | ⟨ruṇadhai⟩ | ⟨ruṇadhāvahai⟩ | ⟨ruṇadhāmahai⟩
+R 2. | ⟨runddhi⟩ | ⟨runddham⟩ | ⟨runddha⟩ | ⟨runtsva⟩ | ⟨rundhāthām⟩ | ⟨runddhvam⟩
+R 3. | ⟨ruṇaddhu⟩ | ⟨runddhām⟩ | ⟨rundhantu⟩ | ⟨runddhām⟩ | ⟨rundhātām⟩ | ⟨rundhatām⟩
+¶ Imperf. act.: ⟨aruṇadham⟩, ⟨aruṇat⟩, ⟨aruṇat⟩; ⟨arundhva⟩ etc.; mid.: ⟨arundhi⟩ etc. — Opt. act.: ⟨rundhyām⟩ etc.; mid.: ⟨rundhīya⟩ etc. — Part. act.: ⟨rundhant⟩, f. ⟨rundhatī⟩; mid.: ⟨rundhāna⟩.
+¶ **445.** Roots ⟨piṣ⟩, ‘grind, crush’ (act.); and ⟨hiṃs⟩, ‘injure, destroy’ (act.):
+¶ Imperfect.
+T  | piṣ sing. | du. | pl. | hiṃs sing. | du. | pl.
+R 1. | ⟨apiṇaṣam⟩ | ⟨apiṃṣva⟩ | ⟨apiṃṣma⟩ | ⟨ahinasam⟩ | ⟨ahiṃsva⟩ | ⟨ahiṃsma⟩
+R 2. | ⟨apiṇaṭ⟩ | ⟨apiṃṣṭam⟩ | ⟨apiṃṣṭa⟩ | ⟨ahinas⟩ | ⟨ahiṃstam⟩ | ⟨ahiṃsta⟩
+R 3. | ⟨apiṇaṭ⟩ | ⟨apiṃṣṭām⟩ | ⟨apiṃṣan⟩ | ⟨ahinas⟩ or ⟨ahinat⟩ | ⟨ahiṃstām⟩ | ⟨ahiṃsan⟩
+¶ Ind. 2nd persons: ⟨piṇakṣi⟩, ⟨piṃṣṭhas⟩, ⟨piṃṣṭha⟩; — ⟨hinassi⟩, ⟨hiṃsthas⟩, ⟨hiṃstha⟩. Imv. 2nd persons: ⟨piṇḍḍhi⟩, ⟨piṃṣṭam⟩, ⟨piṃṣṭa⟩; — ⟨hindhi⟩, ⟨hiṃstam⟩, ⟨hiṃsta⟩.
+¶ **446.** ⟨tṛh⟩, ‘crush’ (act.), combines ⟨tṛṇah⟩ with ⟨ti⟩ and ⟨tu⟩ into ⟨tṛṇeḍhi⟩ and ⟨tṛṇeḍhu⟩.
+## Vocabulary XLII
+¶ Verbs:
+V idh | (⟨inddhe⟩) kindle, light. | మండించు, వెలిగించు
+V chid | (⟨chinatti⟩, ⟨chinddhe⟩) cut, cut off. | కోయు, నరుకు
+V chid | + ⟨ā⟩ take away, remove. | తీసివేయు
+V chid | + ⟨ud⟩ exterminate. | నిర్మూలించు
+V jāgaraya | (caus. stem) awaken. | మేల్కొలుపు
+V piṣ | (⟨piṇaṣṭi⟩) grind, crush. | రుబ్బు, నలుపు
+V bhañj | (⟨bhanakti⟩) break, destroy. | విరుగగొట్టు, నాశనం చేయు
+V bhid | (⟨bhinatti⟩, ⟨bhinddhe⟩) split. | చీల్చు
+V bhuj | (⟨bhunakti⟩, ⟨bhuṅkte⟩) eat, enjoy. | తిను, అనుభవించు
+V yuj | (⟨yunakti⟩, ⟨yuṅkte⟩) join; yoke, harness. | జతచేయు; కట్టు
+V yuj | + ⟨ni⟩ appoint, establish. | నియమించు
+V rudh | (⟨ruṇaddhi⟩, ⟨runddhe⟩) obstruct, check; besiege. | అడ్డగించు; ముట్టడించు
+V śiṣ | (⟨śinaṣṭi⟩) leave, leave remaining. | మిగిలించు
+V śiṣ | + ⟨vi⟩ set apart, distinguish. | వేరుపరచు, ప్రత్యేకపరచు
+V han | + ⟨sam⟩ unite. | కలుపు
+V hiṃs | (⟨hinasti⟩) injure, destroy. | హాని చేయు, నాశనం చేయు
+¶ Subst.:
+V avasthā | f., condition, state. | స్థితి, అవస్థ
+V uṣas | f., dawn; also personified, Uṣas, the Dawn. | ఉషస్సు; ఉషాదేవి
+V kaṇṭaka | m., thorn; enemy. | ముల్లు; శత్రువు
+V grāsa | m., bite, mouthful. | ముద్ద
+V taṇḍula | m., rice. | బియ్యం
+V pātaka | n., crime. | పాతకం, నేరం
+V pautra | m., grandson. | మనవడు
+V bandhu | m., relative. | బంధువు
+V lekhana | n., writing, copying. | రాయుట, నకలు చేయుట
+V himavant | m., the Himālaya Mts. | హిమవంతుడు, హిమాలయం
+¶ Adj.:
+V ucchrita | high. | ఎత్తైన
+V kṣātra | suitable for Kṣatriyas. | క్షత్రియులకు తగిన
+V gṛhya | domestic. | గృహ సంబంధమైన
+V pratikūla | f. ā, unfavorable. | ప్రతికూలమైన
+V śubha | f. ā, splendid, beautiful, excellent. | శుభమైన, అందమైన, శ్రేష్ఠమైన
+## Exercise XLII
+¶ The exercise opens with three verses (the translations are the editor’s; Perry’s footnote ∗ to verse 32: the antecedent of this relative is the subject of ⟨avāpnoti⟩):
+S 32a | yad dhyāyati yat kurute dhṛtiṃ badhnāti yatra ca | What one meditates on, what one does, and where one fixes the mind, | దేనిని ధ్యానిస్తాడో, దేనిని చేస్తాడో, దేనిపై మనస్సు నిలుపుతాడో,
+S 32b | tad avāpnoty ayatnena yo∗ hinasti na kiñcana | that he gets without effort, who injures nothing whatever. | దానిని ఏ ప్రయత్నమూ లేకుండా అతడు పొందుతాడు — ఎవరూ ఏమీ హాని చేయనివాడు.
+S 33a | yasyāṃ yasyām avasthāyāṃ yat karoti śubhāśubham | In whatever state one does good or evil, | ఏ ఏ స్థితిలో శుభమైనా అశుభమైనా ఏది చేస్తాడో,
+S 33b | tasyāṃ tasyām avasthāyāṃ tat phalaṃ samupāśnute | in that same state one reaps its fruit. | ఆ ఆ స్థితిలోనే దాని ఫలాన్ని అనుభవిస్తాడు.
+S 34a | dūta eva hi saṃdhatte bhinatty eva ca saṃhatān | The envoy alone joins, and the envoy alone splits those united; | దూతయే కలుపుతాడు, దూతయే కలిసినవారిని చీలుస్తాడు;
+S 34b | dūtas tat kurute karma yena bhidyante vā na vā | the envoy does that deed by which they are divided or not. | ఏ పని వలన వారు చీలిపోతారో లేదో, ఆ పనిని దూత చేస్తాడు.
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu; Perry’s footnote ∗∗ to sentence 1: translate teṣām as though dative):
+S 1 | ye gā hiṃsanti teṣāṃ∗∗ garīyaḥ prāyaścittaṃ vidadhati tasmād gāṃ mā hindhi | For those who injure cows they ordain a heavier penance; therefore do not injure a cow. | ఆవులను హింసించేవారికి భారమైన ప్రాయశ్చిత్తాన్ని విధిస్తారు; అందువల్ల ఆవును హింసించకు.
+S 2 | jīvatputrapautro varṣaśataṃ niṣkaṇṭakaṃ rājyaṃ bhuṅkṣveti kavayo mahārājam astuvan | The poets praised the great king: “With your sons and grandsons living, enjoy your kingdom, free of thorns, for a hundred years.” | “కొడుకులు, మనవలు జీవించి ఉండగా నూరు సంవత్సరాలు ముళ్ళు లేని రాజ్యాన్ని అనుభవించు” అని కవులు మహారాజును స్తుతించారు.
+S 3 | yathā vāto balena vṛkṣān bhanakty evaṃ tvaṃ me dviṣo bhaṅgdhi | As the wind breaks the trees by its force, so do you break my enemies. | గాలి తన బలంతో చెట్లను విరుగగొట్టినట్లు నువ్వు నా శత్రువులను విరుగగొట్టు.
+S 4 | raṇe śatrubhir yudhyamānaḥ śūraḥ kāṃścid iṣubhir abhinat keṣāṃ cin mūrdhahastapādādikam asinācchinat | Fighting with the enemies in battle, the hero split some with arrows, and with his sword cut off the head, hands, feet and so on of others. | యుద్ధంలో శత్రువులతో పోరాడుతూ శూరుడు కొందరిని బాణాలతో చీల్చాడు, మరికొందరి తల, చేతులు, కాళ్ళు మొదలైనవాటిని కత్తితో నరికాడు.
+S 5 | prātar aśvinau uṣasā svasrā saha bhūtāni jāgarayituṃ vicakre rathe 'śvau yuṅkta ity ṛkṣu śrūyate | It is heard in the Ṛks that in the morning the two Aśvins yoke the two horses to the two-wheeled chariot to wake the creatures, with Uṣas, their sister. [The words yuṅkta and ṛkṣu are unclear in the scan.] | ఉదయాన అశ్వినులు తమ సోదరి ఉషస్సుతో కలిసి ప్రాణులను మేల్కొలపడానికి రెండు గుర్రాలను రెండు చక్రాల రథానికి కడతారని ఋక్కులలో వినబడుతుంది. [yuṅkta, ṛkṣu అనే పదాలు స్కాన్‌లో స్పష్టంగా లేవు.]
+S 6 | yo bhūmidānam ācchindyād ācchidyamānaṃ vānumodate sa pañcabhir mahāpātakaiḥ saṃyuktaḥ syāt | He who takes back a gift of land, or approves of its being taken back, would be linked with the five great crimes. | భూదానాన్ని తిరిగి తీసుకునేవాడు లేదా తీసుకోవడాన్ని అంగీకరించేవాడు ఐదు మహాపాతకాలతో కూడినవాడవుతాడు.
+S 7 | aho pratikūlo vidhir viśinaṣṭi manorujaṃ me | Alas! Fate is unfavourable; it makes my mind’s anguish all the sharper. [Perry’s verb is viśinaṣṭi, from vi-śiṣ.] | అయ్యో! విధి ప్రతికూలం; నా మనోవ్యథను మరింత తీవ్రం చేస్తుంది. [పెర్రీ క్రియ viśinaṣṭi, vi-śiṣ నుండి.]
+S 8 | yatra pitrādīnāṃ bandhūnāṃ śirāṃsi bhindanto rudatīṃ kanyāṃ balād dharanti taṃ kṣātraṃ vivāham ṛṣayo viduḥ | The seers call that the Kṣatriya marriage in which, splitting the heads of her father and other relatives, they carry off the weeping girl by force. | తండ్రి మొదలైన బంధువుల తలలు చీల్చి ఏడుస్తున్న కన్యను బలవంతంగా ఎత్తుకుపోయే వివాహాన్ని ఋషులు క్షాత్ర వివాహం అంటారు.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Perry’s hints in brackets are kept in the English.
+@197
+E 11 | After Jayasiṃha had long besieged Girinagara, he destroyed (⟨bhañj⟩) it at last. | girinagaraṃ ciram avarudhya jayasiṃho 'nte tad abhanak | జయసింహుడు గిరినగరాన్ని చాలా కాలం ముట్టడించి చివరికి దానిని నాశనం చేశాడు.
+@198
+E 12 | An ascetic shall eat only 240 mouthfuls in a month (*loc.*). | yatir māsi catvāriṃśadadhikaśatadvayaṃ grāsān eva bhuñjīta | సన్యాసి నెలకు రెండు వందల నలభై ముద్దలు మాత్రమే తినాలి.
+E 13 | “Kindle the fire; cut branches for firewood (⟨samidhartham⟩); milk the cows; grind grain”: thus said one priest to another *early* in the morning. | agnim itsva samidhartham śākhāś chindhi gā dugdhi taṇḍulān piṇḍḍhīty ekaḥ purohito 'nyaṃ prātar abravīt | “అగ్నిని వెలిగించు; సమిధల కోసం కొమ్మలు నరుకు; ఆవులను పితుకు; ధాన్యం రుబ్బు” అని ఒక పురోహితుడు మరొకనితో ఉదయాన అన్నాడు.
+E 14 | The teacher entrusted (⟨ni-yuj⟩) the scholars with the copying of the books (*cpd.*, *dat.*). | ācāryaḥ pustakalekhanāya śiṣyān nyayunak | ఆచార్యుడు శిష్యులను పుస్తకాల నకలు రాయడానికి నియమించాడు.
+E 15 | The mountain-*range* Himavant checks the course of the clouds with its exceedingly-high peaks. | himavān parvatarājo 'tyucchritaiḥ śṛṅgair meghānāṃ gatiṃ ruṇaddhi | పర్వతరాజైన హిమవంతుడు అతి ఎత్తైన తన శిఖరాలతో మేఘాల గమనాన్ని అడ్డగిస్తాడు.
+E 16 | The doers-of-right (⟨-kṛt⟩) are happy in Heaven, enjoying the fruits-of-*their*-works. | sukṛtaḥ svarge karmaphalāni bhuñjānā modante | సత్కర్మలు చేసినవారు తమ కర్మఫలాలను అనుభవిస్తూ స్వర్గంలో ఆనందిస్తారు.
+E 17 | A king who has conquered a foreign realm must not exterminate the royal-family. | paraṃ rājyaṃ jitvā rājā rājavaṃśaṃ nocchindyāt | పరరాజ్యాన్ని జయించిన రాజు రాజవంశాన్ని నిర్మూలించకూడదు.
+E 18 | Aryans must kindle the domestic-fire at the time-of-the-wedding. | dvijātayo vivāhakāle gṛhyāgnim indhīran | ద్విజులు వివాహ సమయంలో గృహాగ్నిని వెలిగించాలి.
+E 19 | Women pounded the rice with pestles. | striyo musalais taṇḍulān apiṃṣan | స్త్రీలు రోకళ్ళతో బియ్యం దంచారు.
