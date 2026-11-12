@@ -1,0 +1,91 @@
+# Perry, A Sanskrit Primer. Lesson XXX = p. 121 (from the heading) to p. 126 (to the end of the exercise) = leaves n140–n145 of the Cornell scan.
+% The infinitive in -tum and -itum; the future passive participle (gerundive) in -ya, -tavya and -anīya
+! Perry’s āi and āu are written ai and au; his ∗ marks are the footnote signs of §§ 315 and 318 and are kept (∗ the increments of ṛ are sometimes r and rā instead of ar and ār, especially where a difficult combination of consonants is thus avoided; ∗∗ in all the tense-systems, and in derivation, the root mṛj often shows vṛddhi instead of guṇa). § 324’s footnote (the original value of the suffix ya is ia; hence e becomes ay, and o becomes av, before it) is given whole.
+! In § 324 Perry’s dabhya, vandya, sadya, but mādya (from mad), vācya (from vac); and, under e., īḍya, guhya, tṛdya; vedya, yodhya, bodhya. His circle for a prefix is not used in this lesson.
+! In § 315 the examples are kept as printed: śak, śaktum; man, mantum; āp, āptum; kṣip, kṣeptum; lup, loptum; śap “curse”, śaptum; 3vas “dwell”, vastum; and, with the changes of final consonants, pac, paktum; tyaj, tyaktum; dṛś, draṣṭum∗; spṛś, spraṣṭum∗; kṛṣ, kraṣṭum∗; prach, praṣṭum; yaj, yaṣṭum; sṛj, sraṣṭum∗; krudh, kroddhum; labh, labdhum; ruh, roḍhum; vah, voḍhum; dah, dagdhum; nah, naddhum; ad, attum; vid “know”, vettum (also veditum); gam, gantum.
+! Exercise XXX is one run of eleven sentences (the last is ॥ 11 ॥, ending the paragraph), followed by Perry’s note (“Sentences with must may be rendered either with arh or with gerundives”) and the English sentences 12–22. Sentence 3 is read pāpāny apamārṣṭum apo ’vagāhyarcaḥ paṭhanīyāḥ sāmāni vā geyāni; sentence 8, sarvāsu dikṣu svairaṃ caritum yajñiyo ’śvo bhavadbhir moktavya iti rājñādiśyata; sentence 11, svayambhuvā jagat sraṣṭuṃ manaḥ kṛtam. The English exercise 18 refers to § 177 and 21 asks for bhavant.
+@140
+## Lesson XXX
+¶ **314. Infinitive.** The later language has a single infinitive, the ending of which is ⟨tum⟩ (or ⟨itum⟩). The root takes *guṇa*, when possible.
+¶ **315. The ending ⟨tum⟩ is added directly:**
+¶ 1. To almost all roots ending in vowels, except those in ⟨ū⟩ and changeable ⟨ṛ⟩. Thus, ⟨pā⟩, ⟨pātum⟩; ⟨dā⟩, ⟨dātum⟩; ⟨ji⟩, ⟨jetum⟩; ⟨nī⟩, ⟨netum⟩; ⟨śru⟩, ⟨śrotum⟩; ⟨kṛ⟩, ⟨kartum⟩.
+¶ 2. To a number of roots ending in consonants. As root-
+@141
+¶ finals, ⟨k⟩, ⟨t⟩, ⟨p⟩ and ⟨s⟩ remain unchanged before ⟨tum⟩; thus, ⟨śak⟩, ⟨śaktum⟩; ⟨man⟩, ⟨mantum⟩; ⟨āp⟩, ⟨āptum⟩; ⟨kṣip⟩, ⟨kṣeptum⟩; ⟨lup⟩, ⟨loptum⟩; ⟨śap⟩ ‘curse’, ⟨śaptum⟩; 3⟨vas⟩ ‘dwell’, ⟨vastum⟩. — Other finals are changed according to the rules given in Lesson XXVIII for the conversion of final consonants before the participial suffix ⟨ta⟩. Thus, ⟨pac⟩, ⟨paktum⟩; ⟨tyaj⟩, ⟨tyaktum⟩; ⟨dṛś⟩, ⟨draṣṭum⟩∗; ⟨spṛś⟩, ⟨spraṣṭum⟩∗; ⟨kṛṣ⟩, ⟨kraṣṭum⟩∗; ⟨prach⟩, ⟨praṣṭum⟩; ⟨yaj⟩, ⟨yaṣṭum⟩; ⟨sṛj⟩, ⟨sraṣṭum⟩∗; ⟨krudh⟩, ⟨kroddhum⟩; ⟨labh⟩, ⟨labdhum⟩; ⟨ruh⟩, ⟨roḍhum⟩; ⟨vah⟩, ⟨voḍhum⟩; ⟨dah⟩, ⟨dagdhum⟩; ⟨nah⟩, ⟨naddhum⟩. — Final ⟨d⟩ becomes ⟨t⟩, and final ⟨m⟩, ⟨n⟩; thus, ⟨ad⟩, ⟨attum⟩; ⟨vid⟩ ‘know’, ⟨vettum⟩ (also ⟨veditum⟩); ⟨gam⟩, ⟨gantum⟩.
+¶ **316.** The ending ⟨tum⟩ with ⟨i⟩ (in the form ⟨itum⟩) is taken by roots in final long ⟨ū⟩ and the root ⟨śī⟩, with a few other vowel-roots; by the majority of roots in consonants; and by verbs of the secondary conjugations. Thus, ⟨bhū⟩, ⟨bhavitum⟩; ⟨śī⟩, ⟨śayitum⟩; ⟨īkṣ⟩, ⟨īkṣitum⟩; ⟨vand⟩, ⟨vanditum⟩; ⟨guh⟩, ⟨gūhitum⟩ (cf. § 101).
+¶ **317.** Causatives and denominatives in ⟨aya⟩ have ⟨ayitum⟩, the root being treated as in the present; thus, ⟨cur⟩, ⟨corayitum⟩; ⟨kath⟩, ⟨kathayitum⟩; ⟨taḍ⟩, ⟨tāḍayitum⟩.
+¶ **318.** Some roots in consonants insert or reject ⟨i⟩ at pleasure; thus, ⟨mṛj⟩, ⟨mārjitum⟩ or ⟨mārṣṭum⟩∗∗. The root ⟨grah⟩ makes ⟨grahītum⟩.
+¶ **319.** The rules for the use of ⟨i⟩ in the infinitive agree closely with those governing its use in the formation of the ⟨s⟩-future and of the *nomen agentis* in ⟨tṛ⟩.
+¶ **320. Uses of the infinitive.** The chief use of the infinitive is as equivalent to an accusative, as the object of a verb, especially of the verbs ⟨śak⟩ ‘be able’, and ⟨arh⟩ ‘be worthy’, ‘have the right
+@142
+¶ or power’; thus, ⟨kathayituṃ śaknoti⟩ “he is able to tell”; ⟨śrotum arhati kumāraḥ⟩ “the prince ought to hear it”. ⟨arh⟩ is often thus used with the infinitive to express a respectful request or entreaty, as in the last example. The infinitive is also often found with verbs of motion, and with those meaning ‘desire’, ‘hope’, ‘notice’, ‘know’, and the like.
+¶ **321.** But often the infinitive has a case-value not accusative. Thus, a dative value: ⟨bhavati bhoktum annam⟩ “there is food to eat” i. e. “for eating”; a genitive value: ⟨samartho gantum⟩ “capable of going”. Even a construction as nominative is not unknown.
+¶ **322.** In certain connections the infinitive has a *quasi*-passive force. Thus, ⟨kartum ārabdhaḥ⟩ “begun to be made”; ⟨śrotuṃ na yujyate⟩ “it is not fit to be heard.” This is especially frequent along with the passive forms of ⟨śak⟩; thus, ⟨tyaktuṃ na śaknoti⟩ “he cannot abandon”, but ⟨tyaktuṃ na śakyate⟩ “he cannot be abandoned”; ⟨narau śakyāv ānetum⟩ “the two men can be brought hither.”
+¶ **323. Future Passive Participle, or Gerundive.** Certain derivative adjectives, mostly secondary, have acquired a value quite like that of the Latin gerundive; thus, ⟨kārya⟩ (from ⟨kṛ⟩) ‘to be done’, *faciendum*. They may be made from every verb. The ordinary suffixes are three: ⟨ya⟩, ⟨tavya⟩, and ⟨anīya⟩.
+¶ **324. A. Suffix ⟨ya⟩.**∗ *a.* Before this suffix final radical ⟨ā⟩ becomes ⟨e⟩; thus, from ⟨dā⟩, ⟨deya⟩; ⟨gā⟩, ⟨geya⟩. *b.* Other final vowels sometimes remain unchanged, sometimes have the *guṇa* or even the *vṛddhi*-strengthening; and ⟨e⟩ often, and ⟨o⟩ always, are treated before ⟨ya⟩ as before a vowel; thus, from ⟨ji⟩, ⟨jeya⟩ and ⟨jayya⟩; from ⟨bhī⟩, ⟨bheya⟩ and ⟨bhayya⟩; from ⟨śru⟩, ⟨śravya⟩ and ⟨śrāvya⟩; from ⟨kṛ⟩, ⟨kārya⟩; from ⟨dhū⟩, ⟨dhūya⟩; from ⟨bhū⟩, ⟨bhāvya⟩. — *c.* In a few instances, a short vowel adds ⟨t⟩ before the suffix; thus, ⟨itya⟩ (⟨i⟩), ⟨śrutya⟩ (⟨śru⟩), ⟨kṛtya⟩ (⟨kṛ⟩). *d.* Medial ⟨a⟩ remains
+¶ ∗ The original value of this suffix is ⟨ia⟩. Hence the conversion of ⟨e⟩ to ⟨ay⟩ and of ⟨o⟩ to ⟨av⟩ before it.
+@143
+¶ unchanged in one class of words, and is lengthened in another class; thus, ⟨dabhya⟩, ⟨vandya⟩, ⟨sadya⟩, but ⟨mādya⟩ (⟨mad⟩), ⟨vācya⟩ (⟨vac⟩). *e.* Initial or medial *i*, *u*, and *ṛ*-vowels are sometimes unchanged, sometimes have the *guṇa*-strengthening; thus, ⟨īḍya⟩, ⟨guhya⟩, ⟨tṛdya⟩; ⟨vedya⟩, ⟨yodhya⟩, ⟨bodhya⟩. *f.* The root ⟨śās⟩ makes ⟨śiṣya⟩. A form ⟨vadhya⟩ (from the defective root ⟨vadh⟩) is assigned to ⟨han⟩. ⟨ā-labh⟩ makes ⟨ālabhya⟩ and ⟨ālambhya⟩. *g.* Causatives and denominatives in ⟨aya⟩ are treated as in the present, but omit the syllables ⟨aya⟩; thus, ⟨cur⟩, ⟨corya⟩.
+¶ **325. B. Suffix ⟨tavya⟩.** This is a secondary adjective derivative from the infinitival noun in ⟨tu⟩. Hence, both as regards the form of root and the use or omission of ⟨i⟩, the rules are the same as for the formation of the infinitive; thus, ⟨vaktavya⟩, ⟨labdhavya⟩, ⟨vanditavya⟩, ⟨śayitavya⟩ (⟨śī⟩).
+¶ **326. C. Suffix ⟨anīya⟩ [⟨aṇīya⟩].** Generally radical vowels will be found gunated before this suffix; causatives and denominatives in ⟨aya⟩ are treated as in the present-system, without the syllables ⟨aya⟩; thus, ⟨dānīya⟩ (⟨dā⟩), ⟨gānīya⟩ (⟨gā⟩), ⟨śravaṇīya⟩ (⟨śru⟩), ⟨bodhanīya⟩, ⟨coraṇīya⟩, ⟨gūhanīya⟩ (⟨gūhayati⟩).
+¶ **327.** The gerundives in ⟨tavya⟩ are common in the impersonal passive construction described in Lesson X, and not seldom have a purely future sense; thus, ⟨tena tvayā sukhinā bhavitavyam⟩ “with that thou shalt be happy”.
+## Vocabulary XXX
+¶ Verbs:
+V arh | (⟨arhati⟩) have the right, etc. (cf. § 320.) | అర్హత కలిగియుండు
+V āp | + ⟨sam⟩ finish, attain. | పూర్తిచేయు, పొందు
+V kṛ | + ⟨apa-ā⟩ pay. | చెల్లించు
+V gam | + ⟨abhi⟩ (⟨abhigacchati⟩) visit, attend. | దర్శించు, హాజరగు
+V gāh | + ⟨ava⟩ (⟨avagāhate⟩) dive under (*acc.*). | మునుగు
+V tap | (⟨tapati⟩, ⟨-te⟩) burn (tr. and intr.); pain; *in pass.*, suffer, do penance. | కాల్చు, కాలు; బాధించు; తపస్సు చేయు
+V dhā | + ⟨vi⟩ arrange, ordain, order. | విధించు, నియమించు
+V nṛt | (⟨nṛtyati⟩) dance. | నాట్యం చేయు
+V bhū | + ⟨pra⟩ be mighty, able; *valere*. | సమర్థుడగు
+V vṛt | + ⟨pra⟩ (⟨pravartate⟩) continue, go on. | కొనసాగు, ప్రవర్తించు
+¶ Subst.:
+V kṛṣīvala | m., husbandman. | రైతు
+V gīta | n., song, singing. | పాట, గానం
+V tapas | n., heat; self-torture. | తపస్సు; వేడి
+V nāṭaka | n., drama, play. | నాటకం
+V nṛtta | n., dance, dancing. | నృత్యం
+V vapus | n., body, figure. | శరీరం, ఆకృతి
+V samāja | m., convention, company. | సమాజం, గుంపు
+V sāman | n., Vedic melody, song; *pl.*, the Sāmaveda. | సామం; (బహువచనంలో) సామవేదం
+¶ Adj.:
+V taruṇa | f. ī, young, delicate. | యువ, సుకుమారమైన
+V puṣṭa | stout, fat. | బలిష్ఠమైన, లావైన
+V priyavādin | acceptably speaking. | ప్రియంగా మాట్లాడే
+V phalavant | fruitful. | ఫలవంతమైన
+V yajñiya | destined or suitable for sacrifice. | యజ్ఞానికి తగిన
+V vihita | (part. of ⟨vi-dhā⟩) ordained. | విధించబడిన
+V samartha | f. ā, capable, able. | సమర్థుడు
+V svayambhū | self-existent; *as m. subst.*, epithet of Brahmā. | స్వయంభువు; బ్రహ్మ
+¶ Adv.:
+V alam | enough, very; *w. instr.*, enough of, away with; *w. dat.*, suitable for. | చాలు, అధికంగా; (తృతీయతో) చాలు, వద్దు; (చతుర్థితో) తగిన
+V svairam | at pleasure. | ఇష్టానుసారంగా
+@144
+## Exercise XXX
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | sarve paurāḥ kālidāsena racitaṃ nāṭakaṃ draṣṭum āgacchan | All the citizens came to see the play composed by Kālidāsa. | పౌరులందరూ కాళిదాసు రచించిన నాటకాన్ని చూడడానికి వచ్చారు.
+S 2 | sarvān dviṣo bāhubhyāṃ jetuṃ svāmī samartha iti priyavādino bhṛtyā rājānam uktavantaḥ | The servants, speaking pleasingly, said to the king: “Our lord is able to conquer all enemies with his arms.” | ప్రియంగా మాట్లాడే సేవకులు రాజుతో “ప్రభువు తన భుజాలతో శత్రువులందరినీ జయించగలడు” అన్నారు.
+S 3 | pāpāny apamārṣṭum apo 'vagāhyarcaḥ paṭhanīyāḥ sāmāni vā geyāni | To wash away sins, one should dive into the water and recite the Ṛks, or sing the Sāmans. | పాపాలను కడుగుకోవడానికి నీటిలో మునిగి ఋక్కులను పఠించాలి, లేదా సామాలను పాడాలి.
+S 4 | tīvraṃ tapas taptuṃ yatir vanāya prasthitaḥ | The ascetic set out for the forest to practise severe penance. | తీవ్రమైన తపస్సు చేయడానికి యతి అడవికి బయలుదేరాడు.
+S 5 | aśvam āroḍhum adhunā me pathi śrāntasya matir jātā | Now, as I was weary on the road, the wish arose in me to mount a horse. | దారిలో అలసిపోయిన నాకు ఇప్పుడు గుర్రాన్ని ఎక్కాలనే కోరిక కలిగింది.
+S 6 | pitṛbhyo dātavyam ṛṇam apākartuṃ brāhmaṇaḥ putraṃ janayet | To pay the debt due to the fathers, the Brāhman should beget a son. | పితృదేవతలకు ఇవ్వవలసిన ఋణం తీర్చడానికి బ్రాహ్మణుడు కొడుకును కనాలి.
+S 7 | svarge labdhuṃ bhūyaso yajñān iṣṭum arhasi | To win heaven, you ought to perform many sacrifices. | స్వర్గాన్ని పొందడానికి నువ్వు అనేక యజ్ఞాలు చేయాలి.
+S 8 | sarvāsu dikṣu svairaṃ caritum yajñiyo 'śvo bhavadbhir moktavya iti rājñādiśyata | “The horse destined for sacrifice must be released by you, to roam at pleasure in all directions”: so the king was commanded. | “యజ్ఞానికి నిర్దేశించిన గుర్రాన్ని అన్ని దిక్కులలో ఇష్టానుసారంగా తిరగడానికి మీరు వదలాలి” అని రాజు ఆజ్ఞాపించబడ్డాడు.
+S 9 | bhavatāṃ bhāṣā nāvagantuṃ śakyate | Your language cannot be understood. [Perry refers to § 322.] | మీ భాష అర్థం చేసుకోబడలేదు. [పెర్రీ § 322 ను చూపిస్తాడు.]
+S 10 | puṣṭāv anaḍvāhau śakaṭe yoktuṃ kṛṣīvala ādeṣṭavyaḥ | The husbandman must be ordered to yoke the two stout oxen to the cart. | రైతును రెండు బలిష్ఠమైన ఎద్దులను బండికి కట్టమని ఆదేశించాలి.
+S 11 | svayambhuvā jagat sraṣṭuṃ manaḥ kṛtam | Brahmā made up his mind to create the world. | బ్రహ్మ లోకాన్ని సృష్టించాలని మనస్సులో నిశ్చయించాడు.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Perry’s note: sentences with “must” may be rendered either with arh or with gerundives.
+@145
+E 12 | A Brahmacārin must not visit any companies to see (⟨pra-īkṣ⟩) dancing or to hear singing. | brahmacārī nṛttaṃ prekṣituṃ gītaṃ śrotuṃ vā samājān nābhigantum arhati | బ్రహ్మచారి నృత్యం చూడడానికి లేదా పాట వినడానికి ఏ సమాజాలకూ వెళ్ళకూడదు.
+E 13 | Remembering that works will be fruitful in the other life (*use* “thus thinking”, *after or. recta*), a man must strive to perform *what is* ordained. | karmāṇi paraloke phalavanti bhavantīty evaṃ cintayan puruṣo vihitam anuṣṭhātuṃ yateta | కర్మలు పరలోకంలో ఫలవంతమవుతాయని ఇలా భావిస్తూ మనిషి విధించినదాన్ని ఆచరించడానికి ప్రయత్నించాలి.
+E 14 | The maidens seated themselves (*pass. part.*) in the garden to bind wreaths. | kanyā udyāna upaviṣṭāḥ srajo baddhum | కన్యలు మాలలు కట్టడానికి తోటలో కూర్చున్నారు.
+E 15 | True friends are able to save from misfortune. | satyāni mitrāṇy anarthād rakṣituṃ samarthāni | నిజమైన మిత్రులు అనర్థం నుండి రక్షించగలరు.
+E 16 | The daughters came (*pass. part.*) to bow before their parents. | duhitaraḥ pitarau vanditum āgatāḥ | కూతుళ్ళు తల్లిదండ్రులకు నమస్కరించడానికి వచ్చారు.
+E 17 | How is the delicate body of this fair *one* capable of enduring penance? | kathaṃ tasyāḥ sundaryās taruṇaṃ vapus tapaḥ soḍhuṃ samartham | ఈ సుందరి సుకుమారమైన శరీరం తపస్సును సహించడానికి ఎలా సమర్థమవుతుంది?
+E 18 | You must become a scholar (*use* ⟨bhavant⟩, *and cf.* § 177). | bhavatā vidvatā bhavitavyam | మీరు పండితుడు కావాలి.
+E 19 | You must bring a boat to cross the river. | bhavatā nadīṃ tartuṃ naur ānetavyā | నది దాటడానికి మీరు పడవను తీసుకురావాలి.
+E 20 | Who is able to stop the mighty wind? | mahāntaṃ vāyuṃ nirodhuṃ kaḥ samarthaḥ | బలమైన గాలిని ఆపడానికి ఎవరు సమర్థుడు?
+E 21 | The gentlemen (*use* ⟨bhavant⟩) are to read this letter. | bhavadbhir idaṃ pattraṃ paṭhitavyam | అయ్యలు ఈ ఉత్తరం చదవాలి.
+E 22 | Having finished the Veda, he went on to study the other sciences. | vedaṃ samāpyānyāni śāstrāṇy adhyetuṃ pravṛttaḥ | వేదం పూర్తిచేసి ఇతర శాస్త్రాలను అధ్యయనం చేయడానికి ప్రవృత్తుడయ్యాడు.
