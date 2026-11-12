@@ -1,0 +1,127 @@
+# Perry, A Sanskrit Primer. Lesson XXXV = p. 147 (from the heading) to p. 152 (to the end of the exercise) = leaves n166–n171 of the Cornell scan.
+% The first conjugation of verbs (present system) and the nu-class: sunoti, āpnoti, kṛṇoti
+! Perry’s āi and āu are written ai and au; the accent marks that he prints under the transliteration of each paradigm (sunómi, sunvánti, …) are not carried, and neither are the accented augments. The paradigms of su and āp are given cell by cell as printed; Perry abbreviates some middle and plural forms in the table of āp with a circle (°) for the part that repeats the form above; they are written out in full here, since the repeated part is always the same stem.
+! § 385 (the ending āna) and the Devanāgarī-only ligature for ṇ in the strong stem (ṇu, ṇo) are given in the editor’s IAST as nu and no, since the cerebral ṇ is a rule of sandhi for the roots that have r, ṛ or ṣ before the class-sign, not a separate suffix.
+! § 391.1: Perry prints “2nd du. ind. act.” for śṛṇuvas or śṛṇvas; this is the first dual, and is given as printed. Footnote ∗ to the imperfect (the augment, without any exception in verbal conjugation, is the accented element in the verbal form of which it makes a part); ∗∗ to the imperative (the rare imv. in tāt, cf. § 196, would be formed thus: sunutāt); ∗∗∗ to § 383 (for a comprehensive view of the ways of forming the present-stems of verbs following this general conjugation, see Introduction, § 78).
+! Exercise XXXV opens with a verse Perry numbers ॥ 20 ॥ (ācārād vicyuto vipro na vedaphalam aśnute | ācāreṇa tu saṃyuktaḥ saṃpūrṇaphalabhāg bhavet, “A Brāhman who has fallen from right conduct does not reap the fruit of the Veda; but joined to right conduct he would share the full fruit”), then ten Sanskrit sentences (1–10) and the English ones 11–19. His footnotes ∗ (infinitive of tṛ) and ∗∗ (the instrumental is sometimes used to express the medium, or space or distance or road, traversed) are given with the sentences. Sentence 3 is read svapitarāv udyānād āhvātuṃ bālaṃ prahiṇu; sentence 4, he maghavan paṇibhir apahṛtā asmadgāḥ pratyāhartuṃ marutaḥ sahāyān ādāya guhāyā dvāram apavṛṇuyā ity ṛṣibhir indraḥ prārthyata; sentence 5, vanavṛkṣān dhunvānasya vāyoḥ śabdaṃ pathā gacchantāv aśṛṇva (the verb is the briefer first dual aśṛṇva); sentence 6, … vidyārūpādīn guṇān āpnavāma; sentence 8, … giriśikharam avāpnuvata; sentence 9, … pracinvīraṃs tapasvinaḥ.
+@166
+## Lesson XXXV
+¶ **383. First Conjugation of Verbs. Present System.∗∗∗** In this conjugation the optative act., the 2nd sing. imv. act., and the 3rd pl. mid., are formed otherwise than in the ⟨a⟩-conjugation.
+¶ **384. Strong forms.** The forms in which the stem assumes its strong form are these: the three persons sing. of the pres. and impf. indic. act., all first persons of the imv., act. and mid., and the 3rd sing. imv. act. All other forms of the present system are weak.
+¶ **385. Endings.** For the middle endings ⟨ante⟩, ⟨anta⟩, and ⟨antām⟩ are substituted ⟨ate⟩, ⟨ata⟩, and ⟨atām⟩; and after reduplicated stems (and a few others) ⟨ati⟩, ⟨atu⟩, and ⟨us⟩ are substituted for the active endings ⟨anti⟩, ⟨antu⟩, and ⟨an⟩ (impf.).
+@167
+¶ The 2nd sing. imv. often takes the ending ⟨hi⟩ or ⟨dhi⟩. Otherwise the endings are the same as in the ⟨a⟩-conjugation.
+¶ **386. Optative mode-sign.** The sign of the opt. act. is ⟨yā⟩, with secondary endings; but ⟨us⟩ is the ending in the 3rd pl., and ⟨ā⟩ is dropped before it; thus, ⟨-yus⟩.
+¶ **387. Present participle middle.** In the first conjugation this participle is made with the suffix ⟨āna⟩ [⟨āṇa⟩], before which the stem takes the same form as before the 3rd pl. pres. ind. The fem. is always in ⟨ā⟩.
+¶ **388. Class IV. A: ⟨nu⟩-class.** The present-stem is made by adding to the root the syllable ⟨nu⟩ [⟨ṇu⟩], in strong forms ⟨no⟩ [⟨ṇo⟩]. The ⟨u⟩ of the class-sign may be dropped before ⟨v⟩ and ⟨m⟩ of the 1st du. and 1st pl. endings, except when the root ends in a consonant; and the ⟨u⟩ before a vowel-ending becomes ⟨v⟩ or ⟨uv⟩, according as it is preceded by one or by two consonants. The ending ⟨hi⟩ of the 2nd sing. imv. is dropped if the root end in a vowel.
+¶ **389. I. Roots in vowels.** ⟨su⟩ ‘press’.
+¶ Indicative.
+T  | Active sing. | du. | pl. | Middle sing. | du. | pl.
+R 1. | ⟨sunomi⟩ | ⟨sunuvas⟩ | ⟨sunumas⟩ | ⟨sunve⟩ | ⟨sunuvahe⟩ | ⟨sunumahe⟩
+R 2. | ⟨sunoṣi⟩ | ⟨sunuthas⟩ | ⟨sunutha⟩ | ⟨sunuṣe⟩ | ⟨sunvāthe⟩ | ⟨sunudhve⟩
+R 3. | ⟨sunoti⟩ | ⟨sunutas⟩ | ⟨sunvanti⟩ | ⟨sunute⟩ | ⟨sunvāte⟩ | ⟨sunvate⟩
+¶ The forms ⟨sunvas⟩, ⟨sunmas⟩, ⟨sunvahe⟩, ⟨sunmahe⟩, are alternative with those given above for 1st du. and pl., and occur oftener.
+@168
+¶ Imperfect.∗
+T  | Active sing. | du. | pl. | Middle sing. | du. | pl.
+R 1. | ⟨asunavam⟩ | ⟨asunuva⟩ | ⟨asunuma⟩ | ⟨asunvi⟩ | ⟨asunuvahi⟩ | ⟨asunumahi⟩
+R 2. | ⟨asunos⟩ | ⟨asunutam⟩ | ⟨asunuta⟩ | ⟨asunuthās⟩ | ⟨asunvāthām⟩ | ⟨asunudhvam⟩
+R 3. | ⟨asunot⟩ | ⟨asunutām⟩ | ⟨asunvan⟩ | ⟨asunuta⟩ | ⟨asunvātām⟩ | ⟨asunvata⟩
+¶ The briefer forms ⟨asunva⟩, ⟨asunma⟩, ⟨asunvahi⟩, ⟨asunmahi⟩, are allowed and more usual.
+¶ Imperative.
+T  | Active sing. | du. | pl. | Middle sing. | du. | pl.
+R 1. | ⟨sunavāni⟩ | ⟨sunavāva⟩ | ⟨sunavāma⟩ | ⟨sunavai⟩ | ⟨sunavāvahai⟩ | ⟨sunavāmahai⟩
+R 2. | ⟨sunu⟩∗∗ | ⟨sunutam⟩ | ⟨sunuta⟩ | ⟨sunuṣva⟩ | ⟨sunvātham⟩ | ⟨sunudhvam⟩
+R 3. | ⟨sunotu⟩∗∗ | ⟨sunutām⟩ | ⟨sunvantu⟩ | ⟨sunutām⟩ | ⟨sunvātām⟩ | ⟨sunvatām⟩
+¶ Optative.
+T  | Active sing. | du. | pl. | Middle sing. | du. | pl.
+R 1. | ⟨sunuyām⟩ | ⟨sunuyāva⟩ | ⟨sunuyāma⟩ | ⟨sunvīya⟩ | ⟨sunvīvahi⟩ | ⟨sunvīmahi⟩
+R 2. | ⟨sunuyās⟩ | ⟨sunuyātam⟩ | ⟨sunuyāta⟩ | ⟨sunvīthās⟩ | ⟨sunvīyāthām⟩ | ⟨sunvīdhvam⟩
+R 3. | ⟨sunuyāt⟩ | ⟨sunuyātām⟩ | ⟨sunuyus⟩ | ⟨sunvīta⟩ | ⟨sunvīyātām⟩ | ⟨sunvīran⟩
+¶ Participle. ⟨sunvant⟩, f. ⟨sunvatī⟩; ⟨sunvāna⟩, f. ⟨-ā⟩.
+¶ ∗ The augment, without any exception in verbal conjugation, is the accented element in the verbal form of which it makes a part.
+¶ ∗∗ The rare imv. in ⟨tāt⟩ (cf. § 196) would be formed thus: ⟨sunutāt⟩.
+¶ **390. II. Roots in consonants.** ⟨āp⟩ ‘acquire’.
+¶ Indicative.
+T  | Active sing. | du. | pl. | Middle sing. | du. | pl.
+R 1. | ⟨āpnomi⟩ | ⟨āpnuvas⟩ | ⟨āpnumas⟩ | ⟨āpnuve⟩ | ⟨āpnuvahe⟩ | ⟨āpnumahe⟩
+R 2. | ⟨āpnoṣi⟩ | ⟨āpnuthas⟩ | ⟨āpnutha⟩ | ⟨āpnuṣe⟩ | ⟨āpnuvāthe⟩ | ⟨āpnudhve⟩
+R 3. | ⟨āpnoti⟩ | ⟨āpnutas⟩ | ⟨āpnuvanti⟩ | ⟨āpnute⟩ | ⟨āpnuvāte⟩ | ⟨āpnuvate⟩
+@169
+¶ Imperative.
+T  | Active sing. | du. | pl. | Middle sing. | du. | pl.
+R 1. | ⟨āpnavāni⟩ | ⟨āpnavāva⟩ | ⟨āpnavāma⟩ | ⟨āpnavai⟩ | ⟨āpnavāvahai⟩ | ⟨āpnavāmahai⟩
+R 2. | ⟨āpnuhi⟩ | ⟨āpnutam⟩ | ⟨āpnuta⟩ | ⟨āpnuṣva⟩ | ⟨āpnuvātham⟩ | ⟨āpnudhvam⟩
+R 3. | ⟨āpnotu⟩ | ⟨āpnutām⟩ | ⟨āpnuvantu⟩ | ⟨āpnutām⟩ | ⟨āpnuvātām⟩ | ⟨āpnuvatām⟩
+¶ Participle. ⟨āpnuvant⟩, f. ⟨āpnuvatī⟩; ⟨āpnuvāna⟩, f. ⟨-ā⟩.
+¶ The other forms of this tense follow the model of ⟨su⟩.
+¶ **391.** 1. The root ⟨śru⟩, ‘hear’, contracts to ⟨śṛ⟩ before the class-sign, forming ⟨śṛṇo⟩ and ⟨śṛṇu⟩ as strong and weak stem; 2nd sing. imv. act. ⟨śṛṇu⟩; 2nd du. ind. act. ⟨śṛṇuvas⟩ or ⟨śṛṇvas⟩, etc. — 2. The root ⟨dhū⟩ shortens its vowel in the present-system.
+## Vocabulary XXXV
+¶ Verbs:
+V aś | (⟨aśnute⟩) acquire, obtain. | పొందు, సంపాదించు
+V aś | + ⟨sam-upa⟩ obtain. | పొందు
+V āp | (⟨āpnoti⟩, rarely ⟨āpnute⟩) acquire, reach. | సంపాదించు, చేరు
+V āp | + ⟨ava⟩, ⟨pra⟩, or ⟨sam⟩, reach. | చేరు
+V ci | (⟨cinoti⟩, ⟨cinute⟩) gather. | సేకరించు
+V ci | + ⟨pra⟩ or ⟨sam⟩, gather. | కూర్చు, పోగుచేయు
+V ci | + ⟨nis⟩ or ⟨vi-nis⟩, decide, conclude. | నిర్ణయించు
+V cud | + ⟨pra⟩ (⟨pracodayati⟩) urge on. | ప్రేరేపించు
+V du | (⟨dunoti⟩), intr., burn, feel pain or distress; tr., pain or distress (*acc.*). | బాధపడు, కాలు; బాధించు
+V dhū | (⟨dhunoti⟩, ⟨dhunute⟩) shake. | కదిలించు, ఊపు
+V vṛ | 1 (⟨vṛṇoti⟩, ⟨vṛṇute⟩) cover, surround. | కప్పు, చుట్టుముట్టు
+V vṛ | + ⟨ā⟩ cover, etc. | కప్పు
+V vṛ | + ⟨apa⟩ open. | తెరచు
+V vṛ | + ⟨vi⟩ explain, manifest. | వివరించు, వ్యక్తం చేయు
+V vṛ | + ⟨sam⟩ shut. | మూయు
+V śak | (⟨śaknoti⟩) be able. | సమర్థుడగు, చేయగలుగు
+V śru | (⟨śṛṇoti⟩, ⟨śṛṇute⟩) hear. | వినుట
+V stṛ | (⟨stṛṇoti⟩, ⟨stṛṇute⟩) scatter, strew. | చల్లు, పరచు
+V stṛ | + ⟨upa⟩ scatter. | పరచు
+V hi | (⟨hinoti⟩) send. | పంపు
+V hṛ | + ⟨prati-ā⟩ (⟨pratyāharati⟩) bring back. | తిరిగి తెచ్చు
+¶ Subst.:
+V āhāra | m., food. | ఆహారం
+V divasa | m., day. | రోజు, పగలు
+V dvāḥstha | m., doorkeeper. | ద్వారపాలకుడు
+V paṇi | m. pl., *n. pr.*, certain demons. | పణులు (కొందరు రాక్షసులు)
+V prabhāva | m., might, power. | శక్తి, ప్రభావం
+V bhoga | m., enjoyment. | భోగం, అనుభవం
+V mūla | n., root. | వేరు, మూలం
+V rasa | m., taste, feeling. | రుచి, రసం, భావం
+V vānaprastha | m., a Brāhman in the third period of his life. | వానప్రస్థుడు
+V vipra | m., Brāhman. | బ్రాహ్మణుడు
+V śabda | m., sound; noise; word. | శబ్దం; పదం
+¶ Adj.:
+V nava | f. ā, new. | కొత్త
+V puṇya | f. ā, meritorious, holy, auspicious. | పుణ్యమైన, పవిత్రమైన
+V bhāj | (at the end of a compound) sharing. | పొందు, భాగం గల (సమాసాంతంలో)
+V manohara | f. ā, entrancing, agreeable. | మనోహరమైన
+V rasavant | f. -vatī, tasteful. | రుచికరమైన, రసవంతమైన
+V sadṛśa | f. ī, similar; worthy. | సమానమైన; తగిన
+## Exercise XXXV
+¶ The exercise opens with a verse, in two halves (the translations are the editor’s):
+S a | ācārād vicyuto vipro na vedaphalam aśnute | A Brāhman fallen from right conduct does not reap the fruit of the Veda; | ఆచారం నుండి జారిన బ్రాహ్మణుడు వేదఫలాన్ని పొందడు;
+S b | ācāreṇa tu saṃyuktaḥ saṃpūrṇaphalabhāg bhavet | but joined to right conduct he would share the full fruit. | ఆచారంతో కూడినవాడు సంపూర్ణ ఫలాన్ని పొందగలడు.
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu; Perry’s footnotes: ∗ infinitive of ⟨tṛ⟩; ∗∗ the instrumental is sometimes used to express the medium, or space or distance or road, traversed):
+S 1 | balahīnā api buddhiprabhāvena mahāntaṃ duḥkhodadhiṃ tarītuṃ śaknuvanti | Even those without strength are able, by the power of intelligence, to cross the great ocean of misery. | బలం లేనివారు కూడా బుద్ధి శక్తితో గొప్ప దుఃఖ సముద్రాన్ని దాటగలరు.
+S 2 | vānaprasthaḥ śayyārthaṃ bhūmiṃ navapattrair hariṇacarmabhiś copāstṛṇot | The forest-dweller spread the ground with fresh leaves and deerskins for a bed. | వానప్రస్థుడు పడక కోసం నేలపై కొత్త ఆకులను, జింక చర్మాలను పరిచాడు.
+S 3 | svapitarāv udyānād āhvātuṃ bālaṃ prahiṇu | Send the boy to call his parents from the garden. | తోట నుండి తన తల్లిదండ్రులను పిలవడానికి బాలుని పంపు.
+S 4 | he maghavan paṇibhir apahṛtā asmadgāḥ pratyāhartuṃ marutaḥ sahāyān ādāya guhāyā dvāram apavṛṇuyā ity ṛṣibhir indraḥ prārthyata | “O Maghavan, to bring back our cows carried off by the Paṇis, take the Maruts as helpers and open the door of the cave”: so Indra was entreated by the seers. | “ఓ ఇంద్రా, పణులు అపహరించిన మా ఆవులను తిరిగి తెచ్చుటకు మరుత్తులను సహాయకులుగా తీసుకొని గుహ ద్వారాన్ని తెరువుము” అని ఋషులు ఇంద్రుని ప్రార్థించారు.
+S 5 | vanavṛkṣān dhunvānasya vāyoḥ śabdaṃ pathā gacchantāv aśṛṇva | As we two went along the road, we heard the sound of the wind shaking the forest trees. | మేమిద్దరం దారిలో వెళ్తుండగా అడవి చెట్లను ఊపుతున్న గాలి శబ్దాన్ని విన్నాము.
+S 6 | puṇyakarmabhir dharmaṃ saṃcitya mṛtāḥ svarge janmāntare ca vidyārūpādīn guṇān āpnavāma | Having gathered merit by holy deeds, may we, after death, in heaven and in another birth, attain qualities such as knowledge and beauty. | పుణ్యకర్మలతో ధర్మాన్ని కూడబెట్టి, మరణానంతరం స్వర్గంలో, మరొక జన్మలో విద్య, రూపం మొదలైన గుణాలను పొందుదుము గాక.
+S 7 | yajñeṣu hotṛpracoditā adhvaryavaḥ somaṃ sunvatām | At the sacrifices, let the adhvaryu priests, urged on by the hotṛ, press the soma. | యజ్ఞాలలో హోత ప్రేరణతో అధ్వర్యులు సోమాన్ని పిండుదురు గాక.
+S 8 | mahāvane cirātraṃ paribhramya caturthadivasasya madhyāhne giriśikharam avāpnuvata | Having wandered long in the great forest, at noon on the fourth day they reached a mountain peak. | గొప్ప అడవిలో చాలా కాలం తిరిగి నాలుగవ రోజు మధ్యాహ్నం వారు పర్వత శిఖరాన్ని చేరుకున్నారు.
+S 9 | mūlaphalādi vana āhārārthaṃ pracinvīraṃs tapasvinaḥ | The ascetics should gather roots, fruits and the like in the forest for food. | తపస్వులు ఆహారం కోసం అడవిలో వేర్లు, పండ్లు మొదలైనవి సేకరించాలి.
+S 10 | paṇḍitaḥ śiṣyebhyaḥ śabdaśāstraṃ vyavṛṇot | The scholar explained grammar to his pupils. | పండితుడు శిష్యులకు వ్యాకరణాన్ని వివరించాడు.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Perry’s hints in brackets are kept in the English.
+@170
+E 11 | Having entered the temple of the worshipful (⟨bhagavant⟩) Viṣṇu we heard the ear-entrancing (⟨śrutimanohara⟩) song of the young women (use ⟨jana⟩ at end of cpd). | bhagavato viṣṇor devakulaṃ praviśya taruṇījanasya śrutimanoharaṃ gītam aśṛṇva | పూజ్యుడైన విష్ణువు దేవాలయంలో ప్రవేశించి యువతుల చెవులకు ఇంపైన పాటను విన్నాము.
+E 12 | Listen to this word of a devoted (⟨snih⟩, *pass. part.*) friend. | snigdhasya mitrasyaitac chabdaṃ śṛṇu | ప్రేమగల స్నేహితుని ఈ మాటను విను.
+E 13 | The greedy (⟨lubh⟩, *pass. part.*), who *are* always gathering riches, never attain the enjoyment of them. | lubdhā dhanāni sadā cinvanto teṣāṃ bhogaṃ kadāpi nāpnuvanti | ఎప్పుడూ ధనాన్ని కూడబెట్టే లోభులు వాటి భోగాన్ని ఎన్నడూ పొందరు.
+E 14 | By tasteful, well-composed poems ye may attain glory in the ten regions *of the world* (⟨diś⟩). | rasavadbhiḥ suracitaiḥ kāvyair daśasu dikṣu kīrtim āpnuyāta | రుచికరమైన, చక్కగా రచించిన కావ్యాలతో పది దిక్కులలో కీర్తిని పొందగలరు.
+@171
+E 15 | Çakuntalā, mayest thou get (*imv.*) a husband worthy of thee. | śakuntale tvatsadṛśaṃ bhartāram āpnuhi | శకుంతలా, నీకు తగిన భర్తను పొందుదువు గాక.
+E 16 | My-*two*-brothers determined to travel to Benares. | madbhrātarau kāśīṃ gantuṃ niścikyāte | నా ఇద్దరు సోదరులు కాశీకి వెళ్ళాలని నిర్ణయించారు.
+E 17 | May the king’s sword bring grief to (⟨du⟩, *imv.* or *opt.*) the hearts of the wives of his enemies. | rājñaḥ khaḍgo dviṣāṃ bhāryāṇāṃ hṛdayāni dunotu | రాజు ఖడ్గం అతని శత్రువుల భార్యల హృదయాలను బాధించుగాక.
+E 18 | Clouds cover the sky. | meghā ākāśam āvṛṇvanti | మేఘాలు ఆకాశాన్ని కప్పుతాయి.
+E 19 | Let the doorkeeper close the door. | dvāḥstho dvāraṃ saṃvṛṇotu | ద్వారపాలకుడు తలుపును మూయుగాక.
