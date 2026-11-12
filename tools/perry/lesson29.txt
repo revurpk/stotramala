@@ -1,0 +1,89 @@
+# Perry, A Sanskrit Primer. Lesson XXIX = p. 117 (from the heading) to p. 121 (to the end of the exercise) = leaves n136–n140 of the Cornell scan.
+% The gerund, or absolutive, in -tvā and -ya
+! Perry’s āi and āu are written ai and au. The pencil marks are ignored. The long lists of gerunds in §§ 305–313 are kept as printed (the forms, in ⟨ ⟩, and his “cf.” links); in § 308 the example ⟨adhikṛtya⟩ stands after ⟨adhītya⟩ (adhi-i). § 311’s footnote ∗ (the absolutives are often best rendered by relative clauses, or even by clauses coordinate with the principal clause) is given whole. In § 312 Perry’s two Greek participles are written in Roman letters (labōn, echōn); he prints them in Greek type.
+! In §§ 309–310 Perry prints the compound gerunds with a circle for the prefix (°gatya, °hatya, °gamya, °tīrya, °pūrya); here the circle is written as a hyphen: -gatya, -hatya, and so on.
+! Exercise XXIX opens with a verse Perry numbers ॥ 16 ॥ (gate hi durdaśāṃ loke kṣudro ’py ahitam ācaret …, “When misfortune has come upon the world, even a small man may do harm; when the elephant is sunk in the mud, the frog is on its head”); his sentences are then numbered 1–10 in one run, and the English ones 11–20. Sentence 1 is read gurāv uṣitvā vedam adhītya strīṃ pariṇīya putraṃ janayitvā nityāni karmāṇy anuṣṭhāya yajñān iṣṭvā dānāni ca dattvā pretya brāhmaṇo na cyavate brahmaṇo lokāt; sentence 4 has hanumatā ’nyaiś ca kapibhiḥ (so the vowel signs in the scan; “with Hanumān and other monkeys”); sentence 7 runs from the foot of p. 120 into p. 121 (the line is broken after haviṣeṣṭvartvig-); sentence 8 is haviṣeṣṭvartvigbhyo … dattam.
+@136
+## Lesson XXIX
+¶ **304. Gerund, or Absolutive.** The gerund is made in classical Sanskrit by one of the suffixes ⟨tvā⟩ and ⟨ya⟩.
+@137
+¶ **305. A. ⟨tvā⟩.** To uncompounded roots is added the suffix ⟨tvā⟩. It is usually added directly to the root, but sometimes with the vowel ⟨i⟩ interposed. With regard to the use of ⟨i⟩, and to the form of root before it, this formation closely agrees with that of the participle in ⟨ta⟩ or ⟨na⟩. A final root-consonant is treated as before ⟨ta⟩. Roots which make the past pass. part. in ⟨na⟩ generally reject ⟨i⟩ before ⟨tvā⟩.
+¶ Examples. 1. Without inserted ⟨i⟩: ⟨jñātvā⟩, ⟨jitvā⟩, ⟨nītvā⟩, ⟨śrutvā⟩, ⟨bhūtvā⟩; ⟨sthitvā⟩ from ⟨sthā⟩, ⟨hitvā⟩ from 1⟨dhā⟩ ‘place’ (cf. ⟨hita⟩) and from ⟨hā⟩, ⟨dattvā⟩ from ⟨dā⟩ (cf. ⟨datta⟩), ⟨gītvā⟩ from ⟨gā⟩; ⟨uktvā⟩ from ⟨vac⟩, ⟨yuktvā⟩ from ⟨yuj⟩; ⟨gatvā⟩ from ⟨gam⟩, ⟨matvā⟩ from ⟨man⟩, ⟨vittvā⟩ from 2⟨vid⟩ ‘find’; ⟨tīrtvā⟩ from ⟨tṛ⟩ (cf. ⟨tīrṇa⟩), ⟨pūrtvā⟩ from ⟨pṛ⟩ (cf. ⟨pūrṇa⟩); ⟨dṛṣṭvā⟩ from ⟨dṛś⟩, ⟨sṛṣṭvā⟩ from ⟨sṛj⟩, ⟨iṣṭvā⟩ from ⟨yaj⟩ (cf. § 295, 2), ⟨buddhvā⟩ from ⟨budh⟩, ⟨labdhvā⟩ from ⟨labh⟩, ⟨dagdhvā⟩ from ⟨dah⟩.
+¶ 2. With inserted ⟨i⟩: ⟨viditvā⟩ from 1⟨vid⟩ ‘know’, ⟨uṣitvā⟩ from ⟨vas⟩ ‘dwell’, ⟨śayitvā⟩ from ⟨śī⟩ (cf. ⟨śayita⟩), ⟨gṛhītvā⟩ from ⟨grah⟩ (cf. ⟨gṛhīta⟩).
+¶ **306.** Some verbs make both forms; thus, from ⟨khan⟩ either ⟨khanitvā⟩ or ⟨khātvā⟩; from ⟨bhram⟩ either ⟨bhramitvā⟩ or ⟨bhrāntvā⟩.
+¶ **307.** Causatives and denominatives in ⟨aya⟩ make ⟨ayitvā⟩; thus, ⟨cur⟩, ⟨corayitvā⟩; ⟨taḍ⟩, ⟨tāḍayitvā⟩; ⟨sthāpayati⟩, ⟨sthāpayitvā⟩.
+¶ **308. B. ⟨ya⟩.** Roots in composition with prepositions (or sometimes with elements of other kinds, as adverbs or nouns) take the suffix ⟨ya⟩, before which ⟨i⟩ is never inserted. A root which ends in a short vowel adds ⟨t⟩ before ⟨ya⟩. Thus, ⟨pariṇīya⟩, ⟨anubhūya⟩; — ⟨vijitya⟩, ⟨saṃstutya⟩, ⟨adhītya⟩ (⟨adhi-i⟩) ⟨adhikṛtya⟩.
+¶ **309.** Roots in ⟨am⟩ and ⟨an⟩ whose pass. part. ends in ⟨ata⟩ form this gerund in ⟨atya⟩; thus, ⟨-gatya⟩, ⟨-hatya⟩. But such ⟨am⟩-roots (not ⟨an⟩-roots) may preserve the nasal; thus, ⟨-gamya⟩. Final changeable ⟨ṛ⟩ becomes ⟨īr⟩ or ⟨ūr⟩; thus, ⟨-tīrya⟩, ⟨-pūrya⟩. Final ⟨ā⟩ remains unaltered; thus, ⟨ādāya⟩. Some roots show a weak form before
+@138
+¶ this suffix; thus, ⟨pragṛhya⟩, ⟨saṃpṛcchya⟩; ⟨procya⟩ (⟨pra-ucya⟩) from ⟨pra-vac⟩; ⟨anūdya⟩ from ⟨anu-vad⟩; ⟨vyūhya⟩ from ⟨vi-vah⟩.
+¶ **310.** Causals and denominatives in ⟨aya⟩ reject those syllables; thus, ⟨pracorayati⟩, ⟨pracorya⟩; ⟨pratāḍya⟩; ⟨prasthāpya⟩; ⟨avaghātya⟩; ⟨ānāyayati⟩ (⟨ā-nī⟩), ⟨ānāyya⟩. But if the root ends in a single consonant and encloses short ⟨a⟩ which is not lengthened in the causative, then the gerund of the caus. ends in ⟨ayya⟩, to distinguish it from the gerund of the simple verb; thus, ⟨ava-gam⟩, ger. ⟨avagamya⟩; caus. ⟨avagamayati⟩, ger. ⟨avagamayya⟩.
+¶ **311.** The gerund or absolutive is used generally as logical adjunct to the subject of a clause. It denotes an action accompanying or (usually) preceding that which is signified by the verb of the clause. (In the later language it is not always confined to the *grammatical* subject of the clause as an adjunct.) It has thus virtually the value of an indeclinable participle, present or past, qualifying the actor whose action it describes.
+¶ Thus, ⟨tad ākarṇya chāgaṃ tyaktvā snātvā svagṛhaṃ gataḥ⟩ “having heard this, having abandoned the goat, having bathed, he went to his own house”.∗
+¶ **312.** The gerunds of some verbs have not much more than prepositional value; thus, ⟨ādāya⟩ ‘having taken’, i. e. ‘with’, like Greek labōn, echōn; ⟨muktvā⟩ ‘having released’, i. e. ‘without’, ‘except’.
+¶ **313.** Before all gerunds may be used the privative ⟨an⟩ or ⟨a⟩; thus, ⟨alabdhvā⟩ “without having received”; ⟨anāhūya⟩ “without having summoned.”
+## Vocabulary XXIX
+¶ Verbs:
+V as | + ⟨ni⟩ (⟨nyasyati⟩) entrust (to one’s care). | అప్పగించు
+V āp | acquire, attain, reach. | పొందు, చేరు
+V i | + ⟨pra⟩ go forth; die. | బయలుదేరు; మరణించు
+@139
+V kṛ | + ⟨adhi⟩ put at the head, appoint as ruler over (*loc.*). | అధిపతిగా నియమించు (సప్తమితో)
+V cal | + ⟨pra⟩ (⟨pracalati⟩) move on, march. | ముందుకు సాగు, కవాతు చేయు
+V cint | (⟨cintayati⟩) consider. | ఆలోచించు
+V cyu | (⟨cyavate⟩) totter, fall. | తూలు, జారి పడు
+V dā | + ⟨ā⟩ take. Cf. § 312. | తీసుకొను
+V dhā | + ⟨sam-ā⟩ lay or place on. | ఉంచు
+V nī | + ⟨nis⟩ (⟨nirṇayati⟩) bring to an end, determine, settle. | నిర్ణయించు
+V bhaj | + ⟨vi⟩ (⟨vibhajati⟩, ⟨-te⟩) distribute. | పంచిపెట్టు
+V vraj | + ⟨pra⟩ (⟨pravrajati⟩) wander forth; leave one’s home to become a wandering ascetic. | సన్యసించు, ఇల్లు వదిలి వెళ్ళు
+¶ Subst.:
+V abhiprāya | m., plan, design. | అభిప్రాయం, ఉద్దేశ్యం
+V āharaṇa | n., bringing. | తెచ్చుట
+V kapi | m., monkey. | కోతి
+V karin | m., elephant. | ఏనుగు
+V jaya | m., victory. | జయం
+V durdaśā | f., misfortune. | దుర్దశ
+V pakṣa | m., wing; side; party. | రెక్క; పక్షం
+V bheka | m., frog. | కప్ప
+V laṅkā | f., *n. pr.*, Ceylon. | లంక
+V śūra | m., hero. | శూరుడు
+V sādhana | n., means, device. | సాధనం, ఉపాయం
+V setu | m., bridge, dike. | వంతెన, సేతువు
+V hanumant | m., *n. pr.*, a monkey-king. | హనుమంతుడు
+V hutabhuj | (nom. ⟨-bhuk⟩) m., fire. | అగ్ని
+¶ Adj.:
+V ahita | disagreeable. | అప్రియమైన
+V āpta | responsible, trustworthy. | నమ్మదగిన
+V ubha | du., both. | ఇద్దరూ, రెండూ
+V kṣudra | f. ā, little, small. | చిన్న
+V nitya | f. ā, daily, regular. | నిత్య, ప్రతిదినపు
+V mūrdhaga | on the head. | తలపై ఉన్న
+¶ Prepos.:
+V prati | (*postpos.*, *with acc.*) against. | వ్యతిరేకంగా
+## Exercise XXIX
+¶ The exercise opens with a verse, in two halves (the translations are the editor’s):
+S a | gate hi durdaśāṃ loke kṣudro 'py ahitam ācaret | When misfortune has come upon the world, even a small man may do harm; | లోకంలో దుర్దశ వచ్చినప్పుడు చిన్నవాడైనా అపకారం చేయవచ్చు;
+S b | paṅke nimagne kariṇi bheko bhavati mūrdhagaḥ | when the elephant is sunk in the mud, the frog is on its head. | ఏనుగు బురదలో మునిగినప్పుడు కప్ప దాని తలపై ఉంటుంది.
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | gurāv uṣitvā vedam adhītya strīṃ pariṇīya putraṃ janayitvā nityāni karmāṇy anuṣṭhāya yajñān iṣṭvā dānāni ca dattvā pretya brāhmaṇo na cyavate brahmaṇo lokāt | Having lived with a teacher, studied the Veda, married a wife, begotten a son, performed his daily rites, sacrificed, and given gifts, the Brāhman, after death, does not fall from the world of Brahman. | గురువు వద్ద ఉండి, వేదం చదివి, భార్యను వివాహమాడి, కొడుకును కని, నిత్యకర్మలను ఆచరించి, యజ్ఞాలు చేసి, దానాలు ఇచ్చి, బ్రాహ్మణుడు మరణానంతరం బ్రహ్మలోకం నుండి పడిపోడు.
+S 2 | bhuktvā pītvā caite narāḥ suptāḥ | These men, having eaten and drunk, have gone to sleep. | ఈ మనుషులు తిని, తాగి నిద్రపోయారు.
+S 3 | dhīmatāṃ mantriṇām āgamanaṃ svāmine nivedya bhṛtyo niṣkrāntaḥ | Having announced to his master the arrival of the wise ministers, the servant went out. | తెలివైన మంత్రుల రాకను యజమానికి నివేదించి సేవకుడు బయటకు వెళ్ళాడు.
+S 4 | sakhyā hanumatā 'nyaiś ca kapibhiḥ sameto 'pāṃ bhartari setuṃ baddhvā laṅkāṃ praviśya ca rāmo rāvaṇaṃ hatavān | Rāma, accompanied by his friend Hanumān and other monkeys, having built a bridge over the lord of waters [the sea] and entered Laṅkā, killed Rāvaṇa. | స్నేహితుడైన హనుమంతునితో, ఇతర కోతులతో కూడిన రాముడు సముద్రంపై వంతెన కట్టి, లంకలో ప్రవేశించి రావణుని చంపాడు.
+S 5 | kṛtsnaṃ vanaṃ dagdhvā hutabhug adhunā śāntaḥ | Having burnt the whole forest, the fire has now gone out. | అడవి మొత్తాన్ని కాల్చి అగ్ని ఇప్పుడు ఆరిపోయింది.
+S 6 | balavato marutaḥ ādāya maghavā gavām āharaṇāya nirgataḥ | Taking the mighty Maruts with him, Indra went out to fetch the cows. | బలవంతులైన మరుత్తులను వెంటబెట్టుకుని ఇంద్రుడు ఆవులను తెచ్చుకోవడానికి బయలుదేరాడు.
+S 7 | śiṣyān āhūya gurus taiḥ samyag vanditas tān ṛco yajūṃṣi cādhyāpitavān | Having called the pupils, the teacher, duly saluted by them, taught them the Ṛks and the Yajus. | శిష్యులను పిలిచి, వారిచే చక్కగా నమస్కరించబడిన గురువు వారికి ఋక్కులను, యజుస్సులను బోధించాడు.
+S 8 | haviṣeṣṭvartvigbhyo bhūyo dhanaṃ yajamānena dattam | Having sacrificed with the oblation, the patron gave the priests much money. | హవిస్సుతో యజ్ఞం చేసి యజమానుడు ఋత్విజులకు ఎక్కువ ధనం ఇచ్చాడు.
+S 9 | tvāṃ muktvā na kenāpi tādṛgduḥkhaṃ soḍham | Except you, no one has endured such sorrow. | నిన్ను తప్ప మరెవరూ అలాంటి దుఃఖాన్ని సహించలేదు.
+S 10 | gūḍhacāraiḥ śatrūṇāṃ balaṃ viditvā kāryāṇi mantriṣu nyasya sainya āptāñ śūrān adhikṛtya rājā yuddhāya nirgacchet | Having learnt the enemies’ strength through secret spies, having entrusted the affairs to the ministers, and having put trustworthy heroes in charge of the army, the king should march out to battle. | గూఢచారుల ద్వారా శత్రువుల బలాన్ని తెలుసుకుని, కార్యాలను మంత్రులకు అప్పగించి, సైన్యంపై నమ్మదగిన శూరులను నియమించి రాజు యుద్ధానికి బయలుదేరాలి.
+@140
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Words in italics are not to be translated, and the participle or gerund Perry names in brackets is used.
+E 11 | After the king had conquered the vassals of the western lands he marched (*pass. part.*) against the eastern *vassals*. | rājā pratīcyā deśasya sāmantāñ jitvā prācyāñ sāmantān prati pracalitaḥ | రాజు పశ్చిమ దేశపు సామంతులను జయించి తూర్పు సామంతులపై కదిలాడు.
+E 12 | The merchants, in joy (*pass. part.*), took the money and gave the jewels to the king (*use ger.*, *and pass. constr.*). | vaṇigbhir hṛṣṭair dhanam ādāya ratnāni rājñe dattāni | వర్తకులు సంతోషంతో ధనాన్ని తీసుకుని రత్నాలను రాజుకు ఇచ్చారు.
+E 13 | “After adoring the gods at twilight, and placing fagots on the fire, bring water from the cistern”: thus having spoken, the teacher seated himself (*pass. part.*) on the mat. | saṃdhyāyāṃ devān vanditvāgnau samidhaḥ samādhāya vāpyā jalam ānayeti guruṇoktvā kaṭa upaviṣṭam | సంధ్యలో దేవతలను నమస్కరించి, అగ్నిలో సమిధలను ఉంచి, బావి నుండి నీరు తీసుకురా అని చెప్పి గురువు చాప మీద కూర్చున్నాడు.
+E 14 | The hero fought (*ger.*) with his enemies *and* gained (*part.*) great glory by the victory over them (*gen.*). | śūraḥ śatrubhir yuddhvā teṣāṃ jayena mahad yaśo labdhavān | శూరుడు శత్రువులతో యుద్ధం చేసి వారిపై విజయం వలన గొప్ప కీర్తిని పొందాడు.
+E 15 | The Brāhman, abandoning his own (*pl.*), became an ascetic (⟨pra-vraj⟩, *pass. part.*). | brāhmaṇaḥ svān hitvā pravrajitaḥ | బ్రాహ్మణుడు తనవారిని విడిచి సన్యసించాడు.
+E 16 | When the merchant had imparted (⟨ni-vid⟩, *caus.*) his plan to the servant, he sent him into the village. | vaṇig bhṛtyāyābhiprāyaṃ nivedya taṃ grāmaṃ prāhiṇot | వర్తకుడు తన ఉద్దేశాన్ని సేవకునికి తెలియజేసి అతనిని ఊరికి పంపాడు.
+E 17 | The master of the house had money brought (*ger.*) *and* distributed it to the poor. | gṛhapatir dhanam ānāyya daridrebhyo vyabhajat | ఇంటి యజమాని ధనాన్ని తెప్పించి పేదలకు పంచిపెట్టాడు.
+E 18 | Let not kings decide law-suits without hearing the arguments (⟨vāc⟩) of both sides. | nṛpā ubhayoḥ pakṣayor vācaḥ aśrutvā vyavahārān na nirṇayantu | రాజులు ఇరుపక్షాల వాదనలను వినకుండా వ్యాజ్యాలను నిర్ణయించకూడదు.
+E 19 | Whoever despises powerful foes, and fights with them without considering the means to victory (*gen.*), perishes. | yo balavataḥ śatrūn avagaṇayya jayasya sādhanam acintayitvā taiḥ saha yudhyate sa naśyati | బలవంతులైన శత్రువులను తృణీకరించి, జయసాధనాన్ని ఆలోచించకుండా వారితో పోరాడేవాడు నశిస్తాడు.
+E 20 | Whoever becomes an ascetic without having studied the Veda, attains (*ger.*) not salvation, *but* falls into hell (*loc.*). | yo vedam anadhītya pravrajati sa muktiṃ na prāpya narake patati | వేదం చదవకుండా సన్యసించేవాడు ముక్తిని పొందక నరకంలో పడతాడు.
