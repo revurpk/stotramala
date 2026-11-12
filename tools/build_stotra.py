@@ -148,7 +148,7 @@ def render_learn(sec):
         return f'  <p class="colophon-gloss" {LEARN_P}>{inline(sec["para"])}</p>'
     if "table" in sec:
         tb = sec["table"]
-        cell = 'style="padding:.15rem .7rem;text-align:left;vertical-align:top;"'
+        cell = 'style="padding:.15rem .45rem;text-align:left;vertical-align:top;"'
         head = ("    <tr>" + "".join(f'<th {cell}>{inline(h)}</th>' for h in tb["head"]) + "</tr>\n"
                 if tb.get("head") else "")
         rows = "".join("    <tr>" + "".join(f'<td {cell}>{inline(c)}</td>' for c in r) + "</tr>\n"
