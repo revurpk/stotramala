@@ -1,0 +1,119 @@
+# Perry, A Sanskrit Primer. Lesson XXXVIII = p. 160 (from the heading) to p. 164 (to the end of the exercise) = leaves n179–n183 of the Cornell scan.
+% Verbs: the root-class (eti, śete, stauti, bravīti); the emphatic pronoun svayam; the verse of the man who gathers flowers
+! Perry’s āi and āu are written ai and au; the accent marks that he prints under the vocabulary forms (éti, bravīti …) are not carried. The paradigm of i “go” (with adhi-i, “read”) is given as four tables (indicative, imperfect, imperative; the optative and participle in paragraphs, as he prints them). The footnote to § 407 (a number of roots in this class accent the root-syllable throughout, in weak as well as in strong forms, except in the imperfect) and to § 412 (special irregularities in this verb are occasionally met with, such as brūmi, bravīhi; some of the verbs in u are allowed to be inflected like brū, but forms so made are rare) are given whole.
+! In the paradigm of brū the print marks the length of u with the Devanāgarī signs; the forms read are bruve, brūvahe, brūmahe / brūṣe, bruvāthe, brūdhve / brūte, bruvāte, bruvate in the middle, and bravīmi, brūvas, brūmas / bravīṣi, brūthas, brūtha / bravīti, brūtas, bruvanti in the active. The vowel sign of a few of the dual and plural forms is blurred in the scan; the readings follow his rules (§§ 410, 412), and the paragraphs that give the rest of the tenses (the imperfect, imperative, optative and participle of stu and brū) are given as printed.
+! Exercise XXXVIII opens with a verse numbered ॥ 26 ॥ (puṣpāṇīva vicinvantam anyatra gatamānasam | anavāpteṣu kāmeṣu mṛtyur abhyeti mānavam, “Death comes upon the man, as upon one gathering flowers, whose mind has gone elsewhere, while his desires are unfulfilled”), then ten numbered Sanskrit sentences and the English ones 11–20. Sentence 1 is read bho duṣkṛtakāriṇaḥ asmād vanād apeteti krodhād ṛṣir āśramahariṇavadhodyatān vyādhān abravīt (Perry prints a daṇḍa after the vocative, which is left out here because the table format uses that sign as a separator); sentence 2 refers to § 264 for bho; sentence 5, agnīṣomāv aṣṭābhir ṛgbhir ṛṣir astaud indrāvaruṇau ca tisṛbhiḥ; sentence 10, śrīmadbhī rājabhir āhūtāḥ paṇḍitāḥ sabhāṃ yanti dharmapraśnāṃś ca vibruvate (śrīmadbhī for śrīmadbhir by § 123).
+@179
+## Lesson XXXVIII
+¶ **407. Verbs. Root-class, cont’d.∗** Roots ending in an ⟨i⟩-vowel or an ⟨u⟩-vowel (except ⟨i⟩ ‘go’) change these into ⟨iy⟩ and ⟨uv⟩ before vowel-endings in weak forms, when not gunated.
+¶ **408.** Root ⟨i⟩ ‘go’ (act., but used in mid. with the prep. ⟨adhi⟩: ‘go over for oneself’, i. e. ‘repeat, learn, read’; the ⟨i⟩ then becomes ⟨iy⟩, as above).
+¶ Indicative.
+T  | Active sing. | du. | pl. | Middle sing. | du. | pl.
+R 1. | ⟨emi⟩ | ⟨ivas⟩ | ⟨imas⟩ | ⟨adhīye⟩ | ⟨adhīvahe⟩ | ⟨adhīmahe⟩
+R 2. | ⟨eṣi⟩ | ⟨ithas⟩ | ⟨itha⟩ | ⟨adhīṣe⟩ | ⟨adhīyāthe⟩ | ⟨adhīdhve⟩
+R 3. | ⟨eti⟩ | ⟨itas⟩ | ⟨yanti⟩ | ⟨adhīte⟩ | ⟨adhīyāte⟩ | ⟨adhīyate⟩
+¶ ∗ A number of roots belonging to this class accent the root-syllable throughout, in weak as well as in strong forms — except of course in the imperfect.
+@180
+¶ Imperfect. (for augment cf. § 179.)
+T  | Active sing. | du. | pl. | Middle sing. | du. | pl.
+R 1. | ⟨āyam⟩ | ⟨aiva⟩ | ⟨aima⟩ | ⟨adhyaiyi⟩ | ⟨adhyaivahi⟩ | ⟨adhyaimahi⟩
+R 2. | ⟨ais⟩ | ⟨aitam⟩ | ⟨aita⟩ | ⟨adhyaithās⟩ | ⟨adhyaiyāthām⟩ | ⟨adhyaidhvam⟩
+R 3. | ⟨ait⟩ | ⟨aitām⟩ | ⟨āyan⟩ | ⟨adhyaita⟩ | ⟨adhyaiyātām⟩ | ⟨adhyaiyata⟩
+¶ Imperative.
+T  | Active sing. | du. | pl. | Middle sing. | du. | pl.
+R 1. | ⟨ayāni⟩ | ⟨ayāva⟩ | ⟨ayāma⟩ | ⟨adhyayai⟩ | ⟨adhyayāvahai⟩ | ⟨adhyayāmahai⟩
+R 2. | ⟨ihi⟩ | ⟨itam⟩ | ⟨ita⟩ | ⟨adhīṣva⟩ | ⟨adhīyāthām⟩ | ⟨adhīdhvam⟩
+R 3. | ⟨etu⟩ | ⟨itām⟩ | ⟨yantu⟩ | ⟨adhītām⟩ | ⟨adhīyātām⟩ | ⟨adhīyatām⟩
+¶ Optative. ⟨iyām⟩ etc., 3rd pl. ⟨iyus⟩; ⟨adhīyīya⟩ etc.
+¶ Participle. ⟨yant⟩, f. ⟨yatī⟩; ⟨adhīyāna⟩, f. ⟨-ā⟩.
+¶ **409.** The root ⟨śī⟩ (mid.), ‘lie’, has *guṇa* throughout; thus, ⟨śaye⟩, ⟨śeṣe⟩, ⟨śete⟩, ⟨śevahe⟩ etc.; impf. ⟨aśayi⟩, ⟨aśethās⟩ etc.; opt. ⟨śayīya⟩ etc., part. ⟨śayāna⟩. Other irregularities are the 3rd persons pl.: indic. ⟨śerate⟩, imv. ⟨śeratām⟩, impf. ⟨aśerata⟩.
+¶ **410.** The roots of this class ending in ⟨u⟩ have in their strong forms the *vṛddhi* instead of the *guṇa*-strengthening before an ending beginning with a consonant.
+¶ **411.** Thus, ⟨stu⟩ ‘praise’:
+¶ Indicative.
+T  | Active sing. | du. | pl. | Middle sing. | du. | pl.
+R 1. | ⟨staumi⟩ | ⟨stuvas⟩ | ⟨stumas⟩ | ⟨stuve⟩ | ⟨stuvahe⟩ | ⟨stumahe⟩
+R 2. | ⟨stauṣi⟩ | ⟨stuthas⟩ | ⟨stutha⟩ | ⟨stuṣe⟩ | ⟨stuvāthe⟩ | ⟨studhve⟩
+R 3. | ⟨stauti⟩ | ⟨stutas⟩ | ⟨stuvanti⟩ | ⟨stute⟩ | ⟨stuvāte⟩ | ⟨stuvate⟩
+¶ Imperfect. Act.: 1. ⟨astavam⟩, 2. ⟨astaus⟩, 3. ⟨astaut⟩, 3rd pl. ⟨astuvan⟩. Mid.: 1. ⟨astuvi⟩, 3rd pl. ⟨astuvata⟩.
+¶ Imperative. Act.: ⟨stavāni⟩, ⟨stuhi⟩, ⟨stautu⟩, ⟨stavāva⟩ etc., 3rd pl. ⟨stuvantu⟩. Mid.: ⟨stavai⟩, ⟨stuṣva⟩, ⟨stutām⟩, ⟨stavāvahai⟩ etc., 3rd pl. ⟨stuvatām⟩.
+¶ Optative. ⟨stuyām⟩ etc. ⟨stuvīya⟩ etc.
+@181
+¶ Participle. Act.: ⟨stuvant⟩, f. ⟨-vatī⟩. Mid.: ⟨stuvāna⟩.
+¶ **412.** The root ⟨brū⟩, ‘say’, takes the union-vowel ⟨ī⟩ after the root when strengthened, before the initial consonant of an ending.∗ Thus:
+¶ Indicative.
+T  | Active sing. | du. | pl. | Middle sing. | du. | pl.
+R 1. | ⟨bravīmi⟩ | ⟨brūvas⟩ | ⟨brūmas⟩ | ⟨bruve⟩ | ⟨brūvahe⟩ | ⟨brūmahe⟩
+R 2. | ⟨bravīṣi⟩ | ⟨brūthas⟩ | ⟨brūtha⟩ | ⟨brūṣe⟩ | ⟨bruvāthe⟩ | ⟨brūdhve⟩
+R 3. | ⟨bravīti⟩ | ⟨brūtas⟩ | ⟨bruvanti⟩ | ⟨brūte⟩ | ⟨bruvāte⟩ | ⟨bruvate⟩
+¶ Imperfect. Act.: ⟨abravam⟩, ⟨abravīs⟩, ⟨abravīt⟩; ⟨abrūva⟩ etc.; 3rd pl. ⟨abruvan⟩. Mid.: ⟨abruvi⟩, ⟨abrūthās⟩ etc.; 3rd pl. ⟨abruvata⟩.
+¶ Imperative. Act.: ⟨bravāṇi⟩, ⟨brūhi⟩, ⟨bravītu⟩; ⟨bravāva⟩ etc.; 3rd pl. ⟨bruvantu⟩. Mid.: ⟨bravai⟩, ⟨brūṣva⟩ etc.
+¶ Optative. Act.: ⟨brūyām⟩ etc. Mid.: ⟨bruvīya⟩ etc.
+¶ Participle. Act.: ⟨bruvant⟩. Mid.: ⟨bruvāṇa⟩.
+¶ **413. Emphatic Pronoun.** The uninflected pronominal word ⟨svayam⟩ signifies ‘self’, ‘own self’. It is oftenest used as a nominative, along with words of all persons and numbers; but not seldom it represents other cases also.
+¶ ∗ Special irregularities in this verb are occasionally met with, such as ⟨brūmi⟩, ⟨bravīhi⟩. Some of the verbs in ⟨u⟩ are allowed to be inflected like ⟨brū⟩, but forms so made are rare.
+## Vocabulary XXXVIII
+¶ Verbs:
+V i | (⟨eti⟩) go. | వెళ్ళు
+V i | + ⟨adhi⟩ (⟨adhīte⟩) repeat, read. | చదువు, వల్లెవేయు
+V i | + ⟨apa⟩ (⟨apaiti⟩) go away, depart. | వెళ్ళిపోవు
+V i | + ⟨abhi⟩ approach. | సమీపించు
+V i | + ⟨astam⟩ set (of heavenly bodies). | అస్తమించు
+V i | + ⟨ud⟩ rise (of heavenly bodies). | ఉదయించు
+V i | + ⟨upa⟩ approach. | చేరు
+V brū | (⟨bravīti⟩, ⟨brūte⟩) speak, say, state. | పలుకు, చెప్పు
+V brū | + ⟨pra⟩ explain, teach; announce. | వివరించు, బోధించు; ప్రకటించు
+V brū | + ⟨vi⟩ explain, etc. | వివరించు
+V ru | (⟨rauti⟩) cry, scream. | అరచు, ఏడ్చు
+V ru | + ⟨vi⟩ scream. | కేకలు వేయు
+V śī | (⟨śete⟩) lie, sleep. | పడుకొను, నిద్రించు
+V śī | + ⟨adhi⟩ lie asleep on (*acc.*). | మీద పడుకొను
+V sū | (⟨sūte⟩) bring forth, bear. | కను, ప్రసవించు
+V sū | + ⟨pra⟩ bring forth. | కను
+V stu | (⟨stauti⟩) praise. | స్తుతించు
+¶ Subst.:
+V jina | m., *n. pr.*, a name of Buddha. | జినుడు (బుద్ధుని పేరు)
+V jihvā | f., tongue. | నాలుక
+V nīlakaṇṭha | m., *n. pr.* | నీలకంఠుడు
+V nyāya | m., logic. | న్యాయశాస్త్రం
+V puṣpa | n., flower. | పువ్వు
+V praśna | m., question. | ప్రశ్న
+V mānasa | n., sense, understanding. | మనస్సు, బుద్ధి
+V vadha | m., killing, murder. | వధ, హత్య
+V śunaḥśepa | m., *n. pr.* | శునఃశేపుడు
+V sahacara | m., companion; ⟨-ī⟩ f., wife. | సహచరుడు; (స్త్రీలింగంలో) భార్య
+V sākṣin | m., witness. | సాక్షి
+V sārasa | m., crane. | సారస పక్షి
+¶ Adj.:
+V udyata | f. ā, ready. | సిద్ధంగా ఉన్న
+V udyogin | diligent, energetic. | శ్రద్ధగల, ఉత్సాహవంతుడు
+V karuṇa | f. ā, lamentable. | దీనమైన, కరుణాజనకమైన
+V kārin | (at the end of a compound) making, doing. | చేసే (సమాసాంతంలో)
+¶ Adv.:
+V adhas | below, down, on the ground. | క్రింద, నేలపై
+## Exercise XXXVIII
+¶ The exercise opens with a verse (the translations are the editor’s):
+S 26a | puṣpāṇīva vicinvantam anyatra gatamānasam | As upon one gathering flowers, whose mind has gone elsewhere, | పువ్వులను ఏరుకుంటున్నవానిపై వలె, మనస్సు మరెక్కడికో పోయిన
+S 26b | anavāpteṣu kāmeṣu mṛtyur abhyeti mānavam | while his desires are still unfulfilled, death comes upon the man. | కోరికలు తీరకుండానే మనిషి మీదికి మృత్యువు వస్తుంది.
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | bho duṣkṛtakāriṇaḥ asmād vanād apeteti krodhād ṛṣir āśramahariṇavadhodyatān vyādhān abravīt | “Ho, evil-doers, go away from this forest!”: so the seer, in anger, said to the hunters who were ready to kill the deer of the hermitage. | “ఓ దుష్టకర్ములారా, ఈ అడవి నుండి వెళ్ళిపోండి!” అని ఋషి కోపంతో ఆశ్రమ జింకలను చంపడానికి సిద్ధమైన వేటగాళ్ళతో అన్నాడు.
+S 2 | gurum abhivādya śiṣyas taṃ brūyād adhīṣva bho iti | The pupil, having saluted the teacher, should say to him, “Instruct me, sir.” [Perry refers to § 264 for bho.] | శిష్యుడు గురువుకు నమస్కరించి “అయ్యా, బోధించండి” అని అతనితో చెప్పాలి. [పెర్రీ bho కోసం § 264 ను చూపిస్తాడు.]
+S 3 | kāni śāstrāṇi kāśyāṃ tvam adhyaithāḥ | What sciences did you study at Kāśī? | నువ్వు కాశీలో ఏ శాస్త్రాలను చదివావు?
+S 4 | nyāyādīni ṣaḍ darśanāni śrīnīlakaṇṭhapaṇḍitasya gṛhe 'ham adhyaiyi | I studied the six systems, logic and the others, in the house of the learned Śrī Nīlakaṇṭha. | నేను న్యాయం మొదలైన ఆరు దర్శనాలను పండితుడైన శ్రీ నీలకంఠుని ఇంట్లో చదివాను.
+S 5 | agnīṣomāv aṣṭābhir ṛgbhir ṛṣir astaud indrāvaruṇau ca tisṛbhiḥ | The seer praised Agni and Soma with eight Ṛks, and Indra and Varuṇa with three. | ఋషి అగ్నిసోములను ఎనిమిది ఋక్కులతో, ఇంద్రవరుణులను మూడు ఋక్కులతో స్తుతించాడు.
+S 6 | udyoginaṃ puruṣasiṃhaṃ svayam upaiti lakṣmīḥ | Fortune herself comes to the diligent man, the lion among men. | శ్రద్ధగల పురుషసింహుని వద్దకు లక్ష్మి స్వయంగా వస్తుంది.
+S 7 | sā jihvā yā jinaṃ stauti tac cittaṃ yaj jine ratam | That is a tongue which praises the Jina; that is a mind which delights in the Jina. | జినుని స్తుతించేదే నాలుక; జినునిపై ఆసక్తి గలదే మనస్సు.
+S 8 | ācāryāḥ śiṣyān dharmaṃ prabruvate | The teachers teach their pupils the law. | ఆచార్యులు శిష్యులకు ధర్మాన్ని బోధిస్తారు.
+S 9 | hatasahacarāḥ sārasāḥ karuṇaṃ viruvanti | The cranes, their mates killed, cry piteously. | సహచరులను కోల్పోయిన సారసాలు దీనంగా అరుస్తాయి.
+S 10 | śrīmadbhī rājabhir āhūtāḥ paṇḍitāḥ sabhāṃ yanti dharmapraśnāṃś ca vibruvate | The scholars, summoned by the glorious kings, go to the assembly and explain questions of law. | శ్రీమంతులైన రాజులచే పిలువబడిన పండితులు సభకు వెళ్ళి ధర్మప్రశ్నలను వివరిస్తారు.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Perry’s hints in brackets are kept in the English.
+@183
+E 11 | The three wives of Daçaratha bore four sons. | daśarathasya tisro bhāryāś catvāraḥ putrān asuvata | దశరథుని ముగ్గురు భార్యలు నలుగురు కొడుకులను కన్నారు.
+E 12 | Rāma and Lakṣmaṇa, followed-by-Sītā, went (⟨i⟩) into the forest. | rāmalakṣmaṇau sītānugatau vanam aitām | సీతచే అనుసరించబడిన రామలక్ష్మణులు వనంలోకి వెళ్ళారు.
+E 13 | Women whose-husbands-are-dead must sleep six months on the ground. | mṛtabhartṛkā nāryaḥ ṣaṇ māsān adhaḥ śayīran | భర్తలు మరణించిన స్త్రీలు ఆరు నెలలు నేలపై పడుకోవాలి.
+E 14 | A witness stating *anything* other-*than-what-was*-seen-*or*-heard is to be punished (*fut. pass. part.*). | dṛṣṭaśrutād anyat kiṃ cid bruvan sākṣī daṇḍyaḥ | చూసినది, విన్నదానికంటే వేరేదైనా చెప్పే సాక్షి శిక్షార్హుడు.
+E 15 | All guilt departs from one-who-has-done-penance. | sarvaṃ pāpaṃ kṛtaprāyaścittād apaiti | ప్రాయశ్చిత్తం చేసినవాని నుండి పాపమంతా తొలగిపోతుంది.
+E 16 | One must not look at (⟨pra-īkṣ⟩) the rising or the setting sun. | udyantam astaṃyantaṃ vā sūryaṃ na prekṣeta | ఉదయించే లేదా అస్తమించే సూర్యుని చూడకూడదు.
+E 17 | Why hast thou come (⟨abhi-i⟩) to-my-house with-wife and with-children? | kasmāt tvaṃ sabhāryaḥ saputro madgṛham abhyais | నువ్వు భార్యాపిల్లలతో నా ఇంటికి ఎందుకు వచ్చావు?
+E 18 | “Praise Varuṇa”: thus the gods addressed Çunaḥçepa *who was* bound to the sacrificial post. | varuṇaṃ stuhīti devā yūpe baddhaṃ śunaḥśepam abruvan | “వరుణుని స్తుతించు” అని దేవతలు యూపానికి కట్టబడిన శునఃశేపునితో అన్నారు.
+E 19 | Always speak the truth. | sadā satyaṃ brūhi | ఎల్లప్పుడూ సత్యం పలుకు.
+E 20 | In a kingless land the rich do not sleep in peace (⟨sukhena⟩). | arājake deśe dhaninaḥ sukhena na śerate | రాజు లేని దేశంలో ధనవంతులు నెమ్మదిగా నిద్రించరు.
