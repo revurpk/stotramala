@@ -1,0 +1,119 @@
+# Perry, A Sanskrit Primer. Lesson XXXIX = p. 164 (from the heading) to p. 167 (to the end of the exercise) = leaves n183–n186 of the Cornell scan.
+% The root-class continued: roots ending in consonants (vetti, hanti, dveṣṭi, caṣṭe, īṣṭe, mārṣṭi); the verses on sin and untruth
+! Perry’s āi and āu are written ai and au; the accent marks that he prints under the vocabulary forms (véd, dvéṣṭi …) are not carried. The paradigms of vid and han and the first lines of dviṣ are given cell by cell as printed; for dviṣ only the active indicative and imperfect, and the singular of the imperative, are printed (the rest “etc.”). In § 417 the forms of the perfect-as-present are given in a paragraph, as he prints them; in § 421 the forms of caṣ (cakṣ “see”, middle) are given in a paragraph.
+! § 419 footnote ∗ on jahi: “anomalous dissimilation”. Perry prints the imperative 2nd sg. of han as jahi, a form that does not follow the rule; it is kept as printed. § 415 reads vacmi, vakṣi, vakti (“only these three forms used”): the second of them is blurred in the scan and is read vakṣi from the rule he has just stated.
+! § 421 reads (as printed) acaṣṭhās for the 2nd singular imperfect of cakṣ; it is kept as printed, though acaṣṭhās would be expected. In § 420 the second singular of dviṣ is read dvekṣi.
+! Footnote ∗ to sentence 28 (the verse numbered ॥ 28 ॥: “Refers to false witness before a court. An untruth where small beasts (sheep, etc.) are concerned involves the destruction of five ancestors; where cattle are concerned, of ten, etc.”) and ∗∗ to English sentence 14 (sakṛd ity anye, “once, according to others”) are given whole.
+! Exercise XXXIX opens with two verses numbered ॥ 27 ॥ and ॥ 28 ॥ (karoti pāpaṃ yo jñānān nātmano vetti ca kṣayam | pradveṣṭi sādhuvṛttāṃś ca sa lokasyeti vācyatām, “He who sins knowingly and knows not his own ruin, and hates those whose conduct is good — let him be called ‘of the world’”: the last words are blurred in the scan, and the translation is cautious; paśūnām … “untruth about animals destroys five, about cows ten, about horses a hundred, about men a thousand”), then eleven numbered Sanskrit sentences and the English ones 12–20. Sentence 3 reads pradviṣatīṃ bhāryāṃ kiṃ māṃ dveṣīty abravīt patiḥ; sentence 9 bhavo divo bhava dṛṣṭe pṛthivyāḥ (Perry’s dative-looking form, “be Bhava of heaven, be seen of earth”, is kept as printed); sentence 11 refers to § 374, 6.
+@183
+## Lesson XXXIX
+¶ **414. Verbs. Root-class, cont’d. Roots ending in consonants.** The endings of the 2nd and 3rd sing. impf. act. are generally dropped, and the resulting root-final treated according to the usual rules for finals. Cf. §§ 239, 242. But a root ending in a dental mute sometimes drops this final mute instead of the added ⟨s⟩ in the second person; and, on the other hand, a root or stem ending in ⟨s⟩ sometimes drops this ⟨s⟩ instead of the added ⟨t⟩ in the third person: in either case establishing the ordinary relation of ⟨s⟩ and ⟨t⟩ in the second and third persons.
+¶ **415.** Roots in ⟨c⟩ and ⟨j⟩ substitute ⟨k⟩ for those letters before ⟨t⟩, ⟨th⟩ and ⟨s⟩ (which then becomes ⟨ṣ⟩); and ⟨g⟩ before ⟨dh⟩. Thus, ⟨vac⟩ ‘speak’: ⟨vacmi⟩, ⟨vakṣi⟩, ⟨vakti⟩ (only these three forms used).
+¶ **416.** Root 1⟨vid⟩ ‘know’ (act. only):
+¶ Indicative.
+T  | sing. | du. | pl.
+R 1. | ⟨vedmi⟩ | ⟨vidvas⟩ | ⟨vidmas⟩
+R 2. | ⟨vetsi⟩ | ⟨vitthas⟩ | ⟨vittha⟩
+R 3. | ⟨vetti⟩ | ⟨vittas⟩ | ⟨vidanti⟩
+¶ Imperfect.
+T  | sing. | du. | pl.
+R 1. | ⟨avedam⟩ | ⟨avidva⟩ | ⟨avidma⟩
+R 2. | ⟨aves⟩ or ⟨avet⟩ | ⟨avittam⟩ | ⟨avitta⟩
+R 3. | ⟨avet⟩ | ⟨avittām⟩ | ⟨avidus⟩
+¶ Imperative: ⟨vedāni⟩, ⟨viddhi⟩, ⟨vettu⟩; ⟨vedāva⟩, ⟨vittam⟩, ⟨vittām⟩; ⟨vedāma⟩, ⟨vitta⟩, ⟨vidantu⟩. — Optative: ⟨vidyām⟩, etc.
+¶ ∗ In the inflection of roots with final consonant, of this class and the reduplicating and nasal classes, euphonic rules find very frequent application. The student is therefore advised at this point to read carefully the chief rules of euphonic change in Whitney’s Grammar, §§ 139–232 (the two larger sizes of print).
+@184
+¶ **417.** This root also makes a perfect without reduplication (but otherwise regular) which has always the value of a present. The forms of the indic. are: Sing. 1. ⟨veda⟩, 2. ⟨vettha⟩, 3. ⟨veda⟩; du. 1. ⟨vidva⟩, 2. ⟨vidathus⟩, 3. ⟨vidatus⟩; pl. 1. ⟨vidma⟩, 2. ⟨vida⟩, 3. ⟨vidus⟩. The participle is ⟨vidvāṃs⟩, f. ⟨viduṣī⟩ (cf. § 268).
+¶ **418.** The root ⟨ad⟩, ‘eat’ (act.), inserts ⟨a⟩ before the endings of the 2nd and 3rd sing. impf.; thus, ⟨ādas⟩, ⟨ādat⟩.
+¶ **419.** The root ⟨han⟩, ‘kill’ (act.), is treated somewhat as are noun-stems in ⟨an⟩ in declension (§ 283). Thus:
+¶ Indicative.
+T  | sing. | du. | pl.
+R 1. | ⟨hanmi⟩ | ⟨hanvas⟩ | ⟨hanmas⟩
+R 2. | ⟨haṃsi⟩ | ⟨hathas⟩ | ⟨hatha⟩
+R 3. | ⟨hanti⟩ | ⟨hatas⟩ | ⟨ghnanti⟩
+¶ Imperfect.
+T  | sing. | du. | pl.
+R 1. | ⟨ahanam⟩ | ⟨ahanva⟩ | ⟨ahanma⟩
+R 2. | ⟨ahan⟩ | ⟨ahatam⟩ | ⟨ahata⟩
+R 3. | ⟨ahan⟩ | ⟨ahatām⟩ | ⟨aghnan⟩
+¶ Imv.: ⟨hanāni⟩, ⟨jahi⟩∗, ⟨hantu⟩; ⟨hanāva⟩, ⟨hatam⟩, ⟨hatām⟩; ⟨hanāma⟩, ⟨hata⟩, ⟨ghnantu⟩. — Opt.: ⟨hanyām⟩ etc. — Part.: ⟨ghnant⟩, f. ⟨ghnatī⟩.
+¶ **420.** Roots in ⟨ś⟩, ⟨ṣ⟩, ⟨c⟩, substitute ⟨k⟩ before ⟨s⟩ (which then becomes ⟨ṣ⟩), ⟨ṣ⟩ before ⟨t⟩ and ⟨th⟩ (which become ⟨ṭ⟩ and ⟨ṭh⟩), and ⟨ḍ⟩ before ⟨dh⟩ (which becomes ⟨ḍh⟩). Thus, ⟨dviṣ⟩ ‘hate’ (act. and mid.):
+¶ Indicative Act.
+T  | sing. | du. | pl.
+R 1. | ⟨dveṣmi⟩ | ⟨dviṣvas⟩ | ⟨dviṣmas⟩
+R 2. | ⟨dvekṣi⟩ | ⟨dviṣṭhas⟩ | ⟨dviṣṭha⟩
+R 3. | ⟨dveṣṭi⟩ | ⟨dviṣṭas⟩ | ⟨dviṣanti⟩
+¶ Imperfect Act.
+T  | sing. | du. | pl.
+R 1. | ⟨adveṣam⟩ | ⟨adviṣva⟩ | ⟨adviṣma⟩
+R 2. | ⟨adveṭ⟩ | ⟨adviṣṭam⟩ | ⟨adviṣṭa⟩
+R 3. | ⟨adveṭ⟩ | ⟨adviṣṭām⟩ | ⟨adviṣan⟩
+¶ Imv. Act.: ⟨dveṣāṇi⟩, ⟨dviḍḍhi⟩, ⟨dveṣṭu⟩; ⟨dveṣāva⟩ etc.
+¶ **421.** ⟨cakṣ⟩, ‘see’ (mid.): Pres. Ind.: ⟨cakṣe⟩, ⟨cakṣe⟩, ⟨caṣṭe⟩; ⟨cakṣvahe⟩, ⟨cakṣāthe⟩, ⟨cakṣāte⟩; ⟨cakṣmahe⟩, ⟨caḍḍhve⟩, ⟨cakṣate⟩. — Impf.: ⟨acakṣi⟩, ⟨acaṣṭhās⟩, ⟨acaṣṭa⟩; ⟨acakṣvahi⟩, ⟨acakṣāthām⟩, ⟨acakṣātām⟩; ⟨acakṣmahi⟩, ⟨acaḍḍhvam⟩, ⟨acakṣata⟩.
+¶ ∗ Anomalous dissimilation.
+@185
+¶ **422.** 1. ⟨īś⟩, ‘rule’ (mid.), inserts ⟨i⟩ before endings beginning with ⟨s⟩ and ⟨dh⟩; thus, 2nd sing. ⟨īśiṣe⟩. — 2. ⟨vaś⟩, ‘wish’ (act.), is in weak forms contracted to ⟨uś⟩; thus, 3rd. pl. ⟨uśanti⟩.
+¶ **423.** ⟨mṛj⟩, ‘rub’, ‘clean’ (act.), has *vṛddhi* in the strong forms, and optionally also in weak forms when the endings begin with a vowel. In the treatment of the root-final this verb follows the roots in ⟨ś⟩. Thus, ind. 3rd sing. ⟨mārṣṭi⟩, du. ⟨mṛṣṭas⟩, pl. ⟨mṛjanti⟩ or ⟨mārjanti⟩.
+## Vocabulary XXXIX
+¶ Verbs:
+V īś | (⟨īṣṭe⟩) rule, own (*w. gen.*). | పాలించు, యజమానిగా ఉండు (షష్ఠితో)
+V cakṣ | (⟨caṣṭe⟩) + ⟨ā⟩ relate; call, name. | చెప్పు; పిలుచు, పేరు పెట్టు
+V cakṣ | + ⟨vi-ā⟩ explain. | వివరించు
+V dviṣ | (⟨dveṣṭi⟩, ⟨dviṣṭe⟩) hate. | ద్వేషించు
+V dviṣ | + ⟨pra⟩ hate extremely. | అత్యంతం ద్వేషించు
+V mṛj | (⟨mārṣṭi⟩) rub, wipe. | రుద్దు, తుడుచు
+V mṛj | + ⟨apa⟩ wipe away, off. | తుడిచివేయు
+V mṛj | + ⟨pra⟩ wipe off. | తుడిచివేయు
+V rādh | + ⟨apa⟩ (⟨aparādhnoti⟩) do wrong. | తప్పు చేయు, అపరాధం చేయు
+V vaś | (⟨vaṣṭi⟩) wish. | కోరు
+V vid | 1 (⟨vetti⟩; ⟨veda⟩) know, consider. | తెలుసుకొను, భావించు
+V han | + ⟨abhi⟩ smite. | కొట్టు
+V han | + ⟨ni⟩ kill. | చంపు
+¶ Subst.:
+V oṣṭha | m., lip. | పెదవి
+V kṣaya | m., decay, destruction. | క్షయం, నాశనం
+V cakṣus | n., eye. | కన్ను
+V jetṛ | m., conqueror. | జయించేవాడు
+V dayā | f., compassion, pity. | దయ, కరుణ
+V pralaya | m., destruction. | ప్రళయం, నాశనం
+V bhava | m., *n. pr.*, a name of Śiva. | భవుడు (శివుని పేరు)
+V mantra | m., sacred text; spell, charm. | మంత్రం
+V yāma | m., watch (of the night). | యామం (రాత్రి జాము)
+V vṛtta | n., conduct. | ప్రవర్తన, నడవడి
+V vyākaraṇa | n., grammar. | వ్యాకరణం
+V vyāsa | m., *n. pr.*, a Rishi. | వ్యాసుడు (ఒక ఋషి)
+V śaṅkā | f., hesitation. | సందేహం, వెనుకాడుట
+V śarva | m., *n. pr.*, a name of Śiva. | శర్వుడు (శివుని పేరు)
+V śruta | n., learning. | విద్య, వినిన జ్ఞానం
+V sarga | m., creation. | సృష్టి
+V sthiti | f., condition, existence. | స్థితి, ఉనికి
+¶ Adj.:
+V vācya | f. ā, blameworthy, culpable. | నిందార్హమైన, దోషి
+## Exercise XXXIX
+¶ The exercise opens with two verses (the translations are the editor’s; Perry’s footnote ∗ to the second: refers to false witness before a court, and says that an untruth where small beasts (sheep, etc.) are concerned involves the destruction of five ancestors; where cattle are concerned, of ten, etc.):
+S 27a | karoti pāpaṃ yo jñānān nātmano vetti ca kṣayam | He who sins knowingly and knows not his own ruin, | తెలిసి పాపం చేసి తన నాశనాన్ని తెలుసుకోనివాడు,
+S 27b | pradveṣṭi sādhuvṛttāṃś ca sa lokasyeti vācyatām | and hates the good in conduct — let him be called “of the world”. [The last words are blurred in the print; this is a cautious reading.] | సాధు ప్రవర్తన గలవారిని ద్వేషించేవాడు “లోకానికి చెందినవాడు” అని పిలువబడుగాక. [చివరి పదాలు స్పష్టంగా లేవు.]
+S 28a | pañca paśvanṛte hanti daśa hanti gavānṛte | Untruth about animals destroys five, about cows ten, | పశువుల గురించి అబద్ధం ఐదుగురిని, ఆవుల గురించి అబద్ధం పదిమందిని,
+S 28b | śatam aśvānṛte hanti sahasraṃ puruṣānṛte∗ | about horses a hundred, about men a thousand. | గుర్రాల గురించి అబద్ధం నూరుగురిని, మనుషుల గురించి అబద్ధం వెయ్యిమందిని నాశనం చేస్తుంది.
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | sarvaṃ vṛttāntaṃ yathāvṛttam ācaḍḍhum | To tell the whole story as it happened. | జరిగినదానిని జరిగినట్లే మొత్తం వృత్తాంతాన్ని చెప్పుటకు.
+S 2 | śarva iti prāñcaḥ śivam ācakṣate bhava ity udañcaḥ | The easterners call Śiva “Śarva”; the northerners, “Bhava”. | తూర్పువారు శివుని “శర్వుడు” అని, ఉత్తరం వారు “భవుడు” అని పిలుస్తారు.
+S 3 | pradviṣatīṃ bhāryāṃ kiṃ māṃ dveṣīty abravīt patiḥ | The husband said to his hostile wife, “Why do you hate me?” | తనను అత్యంతంగా ద్వేషించే భార్యతో భర్త “నన్ను ఎందుకు ద్వేషిస్తున్నావు?” అని అన్నాడు.
+S 4 | purāṇeṣu tribhuvanasargasthitipralayān vyāso vyācaṣṭe | In the Purāṇas Vyāsa explains the creation, existence and destruction of the three worlds. | పురాణాలలో వ్యాసుడు మూడు లోకాల సృష్టి, స్థితి, ప్రళయాలను వివరిస్తాడు.
+S 5 | yo 'smān dveṣṭi yaṃ ca vayaṃ dviṣmas tam ebhir mantrair hanāma | Let us kill with these spells him who hates us and whom we hate. | మనల్ని ద్వేషించేవాడిని, మనం ద్వేషించేవాడిని ఈ మంత్రాలతో చంపుదాం.
+S 6 | yo brahmacaryaṃ caritvā gurvanujñāto yathāvidhi snāti taṃ sarvalokapūjyaṃ snātakaṃ viduḥ | One who has lived the student’s life and, permitted by the teacher, bathes according to rule, they call a snātaka, honoured by all the world. | బ్రహ్మచర్యం ఆచరించి గురువు అనుమతితో విధి ప్రకారం స్నానం చేసినవానిని సర్వలోకపూజ్యుడైన స్నాతకుడని తెలుసుకుంటారు.
+S 7 | anaparāddhaṃ tavopakurvāṇaṃ kathaṃ bhoḥ pāpātmaṃs tvaṃ māṃ haṃsi | O sinner, how do you strike me, who have done you no wrong and have done you good? | ఓ పాపాత్మా, నీకు అపరాధం చేయని, నీకు ఉపకారం చేస్తున్న నన్ను నువ్వు ఎలా కొడతావు?
+S 8 | aśuciliptam aṅgaṃ mṛdā pramṛṣṭam adbhiḥ parimṛḍḍhi | Rub the body smeared with filth with earth, wiped off, and with water. | మలినం అంటిన శరీరాన్ని మట్టితో తుడిచి నీటితో రుద్దుకో.
+S 9 | bhavo divo bhava dṛṣṭe pṛthivyāḥ | Be, O Bhava, of heaven; be seen of earth. | భవుడా, ఆకాశానికి చెందినవాడవు కమ్ము; భూమికి కనిపించుము.
+S 10 | gāṃ dhayantīṃ parasmai nācakṣīta | One should not point out to another a cow that is drinking. | పాలు తాగుతున్న ఆవును ఇతరునికి చూపకూడదు.
+S 11 | baddham api pṛthvīrājaṃ nirdayā yavanā asinā 'ghnan | The pitiless Yavanas killed Pṛthvīrāja with a sword, even though he was bound. [Perry refers to § 374, 6.] | కనికరం లేని యవనులు బంధించబడిన పృథ్వీరాజును కూడా కత్తితో చంపారు.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Perry’s hints in brackets are kept in the English.
+E 12 | Hear the words of the learned man who explains (*pres. part.*) the-science-of-grammar. | vyākaraṇaśāstraṃ vyācakṣāṇasya paṇḍitasya vacāṃsi śṛṇu | వ్యాకరణ శాస్త్రాన్ని వివరిస్తున్న పండితుని మాటలు విను.
+E 13 | Know *that* Rāma (*acc.*) *is* the son, famous in-the-three-worlds, of Daçaratha, and the conqueror of Rāvaṇa, lord-of-Laṅkā. | rāmaṃ daśarathasya trilokavikhyātaṃ putraṃ laṅkeśvarasya rāvaṇasya jetāraṃ viddhi | రాముడు ముల్లోకాలలో ప్రసిద్ధుడైన దశరథుని కొడుకు, లంకాధిపతి రావణుని జయించినవాడు అని తెలుసుకో.
+E 14 | Having sipped (⟨ā-cam⟩) water thrice, one wipes the lips twice; according to others, once.∗∗ | trir apa ācamya dvir oṣṭhau pramārṣṭi sakṛd ity anye | మూడుసార్లు నీరు ఆచమించి రెండుసార్లు పెదవులు తుడుచుకుంటారు; ఇతరుల మతంలో ఒకసారి.
+E 15 | Two warriors smote (⟨abhi-han⟩) with arrows the king-of-the-Aṅgas, who *had* murdered their companions. | dvau yodhau śarair aṅgarājam abhyaghnatāṃ yaḥ svasahacarān ahan | ఇద్దరు యోధులు తమ సహచరులను చంపిన అంగరాజును బాణాలతో కొట్టారు.
+E 16 | Kill without-hesitation even (⟨api⟩) a teacher who approaches (*past. pass. part.*) in order to kill *you*. | tvāṃ hantum upagataṃ gurum api niḥśaṅkaṃ jahi | నిన్ను చంపడానికి వచ్చిన గురువును కూడా సంకోచం లేకుండా చంపు.
+E 17 | Why dost thou consider (⟨vid⟩) me a Çūdra, *though* knowing (⟨jñā⟩ *ger.*) my learning-and-conduct? | śrutaṃ ca vṛttaṃ ca mama jñātvāpi māṃ śūdraṃ kasmāt tvaṃ vetsi | నా విద్యను, నడవడిని తెలిసికూడా నన్ను నువ్వు ఎందుకు శూద్రునిగా భావిస్తున్నావు?
+E 18 | Do not hate the sons-of-Pāṇḍu. | pāṇḍavān na dviṣyāḥ | పాండవులను ద్వేషించకు.
+E 19 | The women *whose*-sons-*were*-dead, having lamented greatly, wiped the tears from their eyes. | hataputrā nāryo bahu vilapya cakṣurbhyo 'śrūṇy apāmārjan | కొడుకులు చనిపోయిన స్త్రీలు చాలా విలపించి తమ కళ్ళ నుండి కన్నీళ్ళు తుడుచుకున్నారు.
+E 20 | Thou, O Lord, rulest over bipeds and quadrupeds (*gen.*). | he īśvara tvaṃ dvipadāṃ catuṣpadāṃ ceśiṣe | ఓ ప్రభూ, నువ్వు ద్విపాదులను, చతుష్పాదులను పాలిస్తావు.
