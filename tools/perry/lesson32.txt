@@ -1,0 +1,72 @@
+# Perry, A Sanskrit Primer. Lesson XXXII = p. 130 (from the heading) to p. 133 (to the end of the exercise) = leaves n149–n152 of the Cornell scan.
+% The comparison of adjectives and adverbs (-īyas, -iṣṭha, -tara, -tama)
+! Perry’s āi and āu are written ai and au; his root sign (√) before ciṣ and vṛ in § 339 (√kṣip, √vṛ “encompass”) is written “the root” in the notes of this edition. In § 342 his circle (°) is written as a hyphen (-tara, -tama). The footnote of the verse (Translate as though genitive) is given whole.
+! In § 339 Perry prints kṣepīyas and kṣepiṣṭha (root kṣip) as attached to kṣipra “quick”, and varīyas and variṣṭha (root vṛ) to uru “broad”; his Devanāgarī shows the lingual ṣ in the superlative, which the page keeps.
+! Exercise XXXII opens with a verse Perry numbers ॥ 18 ॥ (jyeṣṭho bhrātā pitā vāpi yaś ca vidyāṃ prayacchati | trayas te pitaro jñeyā dharme ca pathi vartinaḥ, “the eldest brother, the father, and he who gives learning: these three are to be known as fathers, abiding in the path of law”), then his sentences 1–11 and the English ones 12–21. Sentence 5 is read yadi jyeṣṭhāyāṃ bhāryāyāṃ kaniṣṭhaḥ putro jāyeta tadā sa eva śreṣṭhaṃ dhanasya bhāgaṃ labhetety eke; sentence 6, paramāṇor apy aṇīyān mahato 'pi mahīyān vedānteṣu varṇyate; sentence 8, yā aṣṭāviṃśatir dakṣasya duhitaraś candramasā pariṇītās tāsāṃ rohiṇī bhartuḥ preṣṭhābhavat; sentence 10, pāpānāṃ pāpiṣṭhās tu brahmahaṇaḥ.
+@149
+## Lesson XXXII
+¶ **337. Comparison of Adjectives.** Derivative adjectives having comparative and superlative meaning — or often, and more originally, a merely intensive value — are made either (A.) directly from roots (by primary derivation), or (B.) from other derivative or compound stems (by secondary derivation).
+¶ **338. A.** The suffixes of primary derivation are ⟨īyas⟩ for the comparative, and ⟨iṣṭha⟩ for the superlative. The root before them is accented, and usually strengthened by *guṇa* (if capable of it), or sometimes by nasalization or prolongation. — In classical Sanskrit few such formations are in use; and these attach themselves in meaning mostly to other adjectives from the same root, which seem to be their corresponding positives. In part, however, they are connected with words unrelated to them in derivation.
+¶ **339.** Thus ⟨kṣepīyas⟩ and ⟨kṣepiṣṭha⟩ (root ⟨kṣip⟩) attach themselves to ⟨kṣipra⟩ ‘quick’; ⟨varīyas⟩ and ⟨variṣṭha⟩ (root ⟨vṛ⟩ ‘encompass’), to ⟨uru⟩ ‘broad’; ⟨pāpīyas⟩ and ⟨pāpiṣṭha⟩, ‘worse’ and ‘worst’, to the subst. ⟨pāpa⟩; ⟨paṭīyas⟩ and ⟨paṭiṣṭha⟩, to ⟨paṭu⟩ ‘skilful’; ⟨mahīyas⟩ and ⟨mahiṣṭha⟩ to
+@150
+¶ ⟨mahant⟩; ⟨balīyas⟩ and ⟨baliṣṭha⟩, to ⟨balin⟩ or ⟨balavant⟩; ⟨sādhīyas⟩ and ⟨sādhiṣṭha⟩ to ⟨sādhu⟩.
+¶ **340.** The following are examples of artificial connections: ⟨antika⟩ ‘near’, ⟨nedīyas⟩, ⟨nediṣṭha⟩; ⟨alpa⟩ ‘little’, ⟨kanīyas⟩, ⟨kaniṣṭha⟩ (but also ⟨alpīyas⟩, ⟨alpiṣṭha⟩); ⟨guru⟩ ‘heavy’, ⟨garīyas⟩, ⟨gariṣṭha⟩; ⟨dīrgha⟩ ‘long’, ⟨drāghīyas⟩, ⟨drāghiṣṭha⟩; ⟨praśasya⟩ ‘praiseworthy’, ‘good’, ⟨śreyas⟩ ‘better’, ⟨śreṣṭha⟩ ‘best’; ⟨priya⟩ ‘dear’, ⟨preyas⟩, ⟨preṣṭha⟩; ⟨bahu⟩ ‘much’, ⟨bhūyas⟩, ⟨bhūyiṣṭha⟩; ⟨yuvan⟩ ‘young’, ⟨yavīyas⟩, ⟨yaviṣṭha⟩; ⟨vṛddha⟩ ‘old’, ⟨varṣīyas⟩, ⟨varṣiṣṭha⟩. ⟨jyāyas⟩ and ⟨jyeṣṭha⟩ correspond sometimes to ⟨praśasya⟩ or ⟨sādhu⟩, sometimes to ⟨vṛddha⟩.
+¶ **341.** The stems in ⟨iṣṭha⟩ are inflected like ordinary adjectives in ⟨a⟩, with the fem. in ⟨ā⟩; those in ⟨īyas⟩ have a peculiar declension, with a strong stem in ⟨īyāṃs⟩, and fem. ⟨īyasī⟩, for which see § 255. So also ⟨jyāyas⟩ and ⟨bhūyas⟩.
+¶ **342. B.** The suffixes of secondary derivation are ⟨tara⟩ and ⟨tama⟩. They are of almost unrestricted use. That form of stem is usually taken which appears before an initial consonant of a case-ending. Stems in ⟨as⟩ are always unchanged; final ⟨vas⟩ and ⟨us⟩ become ⟨vaṣ⟩ and ⟨uṣ⟩, after which the ⟨t⟩ of the suffix becomes ⟨ṭ⟩.
+¶ Thus, ⟨priyavāc⟩, ⟨priyavāktara⟩, ⟨-ktama⟩; ⟨dhanin⟩, ⟨dhanitara⟩, ⟨-tama⟩; ⟨vidvāṃs⟩, ⟨vidvattara⟩, ⟨-ttama⟩.
+¶ **343.** Some stems which are substantives rather than adjectives are found to form derivatives of comparison; thus, ⟨mātṛtama⟩ ‘most motherly’, ⟨nṛtama⟩ ‘most manly’, ⟨gajatama⟩ ‘most like an elephant.’
+¶ **344. Comparison of Adverbs.** Adverbs are compared by adding the suffixes in the forms ⟨tarām⟩ and ⟨tamām⟩; thus, ⟨su⟩ ‘well’, ⟨sutarām⟩, ⟨sutamām⟩.
+¶ **345. Construction.** With a comparative (and sometimes with other words used in a similar way) the ablative is the regular construction; thus, ⟨putrāt kanyā tasya preyasī⟩ “a daughter is dearer to him than a son”; ⟨matir eva balād garīyasī⟩ “intellect alone is
+@151
+¶ stronger than force”. After the superlative either genitive or locative may be used. The comparative often has the force of a strengthened superlative; thus, ⟨garīyān⟩ ‘most honorable’.
+## Vocabulary XXXII
+¶ Subst.:
+V gandharva | m., one of a band of celestial singers, a Gandharva. | గంధర్వుడు
+V dakṣa | m., *n. pr.* | దక్షుడు
+V dhāvana | n., running, course. | పరుగు
+V paramātman | m., the world-spirit. | పరమాత్మ
+V mokṣa | m., deliverance, salvation. | మోక్షం
+V rohiṇī | f., *n. pr.* | రోహిణి
+V loha | n., metal; iron. | లోహం; ఇనుము
+V vāyasa | m., crow. | కాకి
+V vedānta | m., a system of philosophy. | వేదాంతం
+V śakuntalā | f., *n. pr.* | శకుంతల
+V sindhu | m., *n. pr.*, the Indus. | సింధు
+V surāpa | m., drunkard. | త్రాగుబోతు
+V hemanta | m., winter. | హేమంతం
+¶ Adj.:
+V aṇu | little, small; *as n. subst.*, atom. | చిన్న; పరమాణువు
+V āśu | swift. | వేగమైన
+V īdṛś | f. īdṛśī, such. | ఇలాంటి
+V purāṇa | f. ā and ī, old. | పురాతన
+V vartin | abiding, being. | ఉండే, ప్రవర్తించే
+¶ Indecl.:
+V ca | *sometimes in sense of* if. | (కొన్నిసార్లు “ఒకవేళ” అనే అర్థంలో)
+## Exercise XXXII
+¶ The exercise opens with a verse, in two halves (the translations are the editor’s; Perry’s footnote ∗ on dharme: “Translate as though genitive.”):
+S a | jyeṣṭho bhrātā pitā vāpi yaś ca vidyāṃ prayacchati | The eldest brother, or the father, and he who gives learning: | పెద్ద సోదరుడు, లేదా తండ్రి, మరియు విద్యనిచ్చేవాడు:
+S b | trayas te pitaro jñeyā dharme∗ ca pathi vartinaḥ | these three are to be known as fathers, abiding in the path of law. | ఈ ముగ్గురూ ధర్మమార్గంలో ఉన్న తండ్రులుగా తెలుసుకోదగినవారు.
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | mokṣāya jñānaṃ yajñebhyaḥ sādhīya iti purāṇair uktam | “Knowledge is better than sacrifices for deliverance”: so the Purāṇas say. | “మోక్షానికి యజ్ఞాల కంటే జ్ఞానం ఉత్తమమైనది” అని పురాణాలు చెబుతాయి.
+S 2 | sāmprataṃ tu bhaktyā śreyo labdhuṃ dvijātayo yatante | At present, however, the Aryans strive to win salvation by devotion. | అయితే ఇప్పుడు ద్విజులు భక్తి ద్వారా శ్రేయస్సును పొందడానికి ప్రయత్నిస్తున్నారు.
+S 3 | trayaḥ kanīyāṃso bhrātaro rāmasyābhavan | Rāma had three younger brothers. | రాముడికి ముగ్గురు తమ్ములు ఉన్నారు.
+S 4 | yavīyasīṃ bhāryāṃ pariṇayet | One should marry a younger wife. | తనకంటే చిన్న వయసు భార్యను వివాహమాడాలి.
+S 5 | yadi jyeṣṭhāyāṃ bhāryāyāṃ kaniṣṭhaḥ putro jāyeta tadā sa eva śreṣṭhaṃ dhanasya bhāgaṃ labhetety eke | “If a younger son should be born of the elder wife, then he alone shall receive the best share of the wealth”: so some say. | “పెద్ద భార్యకు చిన్న కొడుకు పుడితే అతడే ధనంలో శ్రేష్ఠమైన భాగాన్ని పొందాలి” అని కొందరు అంటారు.
+S 6 | paramāṇor apy aṇīyān mahato 'pi mahīyān vedānteṣu varṇyate | In the Vedānta it is described as smaller than the smallest atom, greater than the great. | వేదాంతంలో అది అతి సూక్ష్మమైన పరమాణువు కంటే సూక్ష్మమైనదిగా, గొప్పదాని కంటే గొప్పదిగా వర్ణించబడింది.
+S 7 | pañcabhir etābhir nadībhiḥ saha saṃgataḥ sindhur gaṅgāyā api varīyān dṛśyate | The Indus, joined by these five rivers, is seen to be broader even than the Ganges. | ఈ ఐదు నదులతో కలిసిన సింధు గంగ కంటే కూడా విశాలమైనదిగా కనిపిస్తుంది.
+S 8 | yā aṣṭāviṃśatir dakṣasya duhitaraś candramasā pariṇītās tāsāṃ rohiṇī bhartuḥ preṣṭhābhavat | Of the twenty-eight daughters of Dakṣa who were married to the Moon, Rohiṇī was the dearest to her husband. | చంద్రునికి ఇచ్చి వివాహం చేసిన దక్షుని ఇరవై ఎనిమిది కూతుళ్ళలో రోహిణి భర్తకు అత్యంత ప్రియమైనది.
+S 9 | stenebhyaḥ surāpāḥ pāpīyāṃsaḥ smaryante | Drunkards are held to be worse than thieves. | త్రాగుబోతులు దొంగల కంటే చెడ్డవారుగా భావించబడతారు.
+S 10 | pāpānāṃ pāpiṣṭhās tu brahmahaṇaḥ | Among sinners, however, slayers of Brāhmans are the worst. | అయితే పాపులలో బ్రాహ్మణ హంతకులు అత్యంత చెడ్డవారు.
+S 11 | pṛthīyo yaśas triṣu lokeṣv arjunena labdham | Arjuna won wider fame in the three worlds. | అర్జునుడు మూడు లోకాలలో విశాలమైన కీర్తిని పొందాడు.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Words in italics are not to be translated, and the words Perry marks “(comp.)” or “(express as pred.)” are given in the form he asks for.
+@152
+E 12 | Of the three wives of Daçaratha, Kāusalyā was older and more honored (⟨guru⟩, *comp.*) than Kāikeyī and Sumitrā. | tisṛṇāṃ daśarathasya bhāryāṇāṃ kausalyā kaikeyyāḥ sumitrāyāś ca jyāyasī garīyasī ca | దశరథుని ముగ్గురు భార్యలలో కౌసల్య కైకేయి కంటే, సుమిత్ర కంటే పెద్దది, ఎక్కువ గౌరవనీయురాలు.
+E 13 | In winter the nights are very long. | hemante rātrayo 'tīva dīrghāḥ | హేమంతంలో రాత్రులు చాలా పొడవుగా ఉంటాయి.
+E 14 | Not very many (*express as pred.*) such jewels are found on earth. | īdṛśāni ratnāni pṛthivyāṃ nātibahūni vidyante | ఇలాంటి రత్నాలు భూమి మీద చాలా ఎక్కువగా దొరకవు.
+E 15 | Among those kings of the North Pṛthvīrāja was the mightiest. | teṣām udīcāṃ rājñāṃ pṛthvīrājo balavattamaḥ | ఉత్తరపు ఆ రాజులలో పృథ్వీరాజు అత్యంత బలవంతుడు.
+E 16 | The poems of Kālidāsa are sweeter than the works of Bāṇa. | kālidāsasya kāvyāni bāṇasya granthebhyaḥ svādīyāṃsi | కాళిదాసు కావ్యాలు బాణుని గ్రంథాల కంటే మధురమైనవి.
+E 17 | Anāthapiṇḍika was the richest among all the merchants in Rājagṛha. | rājagṛhasya sarveṣu vaṇikṣv anāthapiṇḍiko dhanavattamaḥ | రాజగృహంలోని వర్తకులందరిలో అనాథపిండికుడు అత్యంత ధనవంతుడు.
+E 18 | Iron is lighter than gold, but heavier than wood. | suvarṇāl lohaṃ laghīyaḥ kāṣṭhāt tu garīyaḥ | ఇనుము బంగారం కంటే తేలిక, కానీ కర్ర కంటే బరువు.
+E 19 | In running the horse is the swiftest of quadrupeds. | dhāvane 'śvaś catuṣpadām āśutamaḥ | పరుగులో గుర్రం చతుష్పాదులలో అత్యంత వేగమైనది.
+E 20 | Çakuntalā was more beautiful than all other women of that time, and became the wife of the mightiest monarch (⟨samrāj⟩) of the whole earth. | śakuntalā tasya kālasya sarvābhyo 'nyābhyaḥ strībhyaḥ sundarītarā kṛtsnāyāḥ pṛthivyā balavattamasya samrājaḥ patnī cābhavat | శకుంతల ఆ కాలంలోని ఇతర స్త్రీలందరి కంటే అందమైనది, భూమి అంతటికీ అత్యంత బలవంతుడైన చక్రవర్తి భార్య అయ్యింది.
+E 21 | The crow is called the shrewdest of birds. | vāyasaḥ patriṇāṃ matimattama ucyate | కాకి పక్షులలో అత్యంత తెలివైనదని అంటారు.
