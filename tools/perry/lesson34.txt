@@ -1,0 +1,119 @@
+# Perry, A Sanskrit Primer. Lesson XXXIV = p. 141 (from the heading) to p. 147 (to the end of the exercise) = leaves n160–n166 of the Cornell scan.
+% Compounds: the secondary adjective (possessive) compounds, the dvigu and avyayībhāva; the verse of the hunter and the boar
+! Perry’s āi and āu are written ai and au; his circle for a part of a word is written as a hyphen. In § 369 the vocabulary of examples is kept: bahunadīka “rich in rivers”, mṛtabhartṛkā f. “whose husband is dead, i. e. widow”, mahāyaśas (nom. masc. and fem. -yāḥ) or mahāyaśaska; in § 370, gardabhanādin (= -nāda) “having an ass’s voice”. In § 380 the feminine trilokī is explained as “by the side of -loka n.”.
+! Footnotes kept in full: § 371 (this class of compounds is called by the natives bahuvrīhi; the name is an example of the class, meaning “having much rice”; the possessive may generally, in accented texts, be distinguished from the original determinative by a difference of accent); § 380 (the name dvigu is a sample of the class and means “of two cows”, said to be used in the sense of “worth two cows”); § 381 (the word avyayībhāva means “conversion to an indeclinable”); Exercise sentences 17 and 23 (∗ secondary adjective compounds, feminine in ī; ∗∗ dependent compound, “skilled in speech”).
+! Exercise XXXIV opens with a verse Perry numbers ॥ 19 ॥ (atitṛṣṇā na kartavyā tṛṣṇāṃ naiva parityajet | atitṛṣṇābhibhūtasya cūḍā bhavati mastake, “One should not feel excessive thirst, nor yet give up desire altogether; for him who is overcome by excessive thirst, a top-knot grows on the head”), then the story of the boar-hunter in fifteen numbered sentences, and English sentences 16–26. In the story sentence 3 (tena prasarpatā, pres. part. instr.) is Perry’s own gloss and is kept in the Sanskrit; sentence 2 is sa caikadā mṛgayāṃ kartuṃ prasthitaḥ; sentences 4 and 5 are as printed; sentence 9 is bhoḥ sānukūlo me vidhiḥ; sentence 10 tenaitac cintitaṃ bhojanam upasthitam; sentence 11 tad ahaṃ tathā bhakṣayāmi yathā bahūny ahāni me prāṇayātrā bhavati.
+! Sentence 7 reads yāvad varāhapulindau paśyati tāvat prahṛṣṭo 'cintayat (the copulative dual compound varāha-pulindau, “the boar and the hunter”).
+! The English exercise (16–26) is given with Perry’s hyphens kept, as he marks the compounds to be made; answers follow his hyphenation. Sentence 17 has two of his footnote marks; sentence 21’s “(cpd in loc. or instr.)” is kept in the English.
+@160
+## Lesson XXXIV
+¶ **366. III. Secondary Adjective Compounds.** A compound with a noun as final member very often wins secondarily the value of an adjective, being inflected in the three genders to agree with the noun which it qualifies, and used in all the constructions of an adjective. The two divisions of this class have been given above (§ 349).
+¶ **367.** Certain changes are sometimes necessary in the stem of the final member to make possible the inflection in different genders. Masc. and neut. stems in ⟨a⟩, and fem. in ⟨ā⟩, generally interchange; thus, from ⟨su⟩ + ⟨hasta⟩ comes the compound ⟨suhasta⟩ ‘with excellent hands’, nom. sing. ⟨suhastas⟩, ⟨-stā⟩, ⟨-stam⟩; so also (from ⟨tri⟩ + ⟨jihvā⟩) ⟨trijihvas⟩, ⟨-hvā⟩, ⟨-hvam⟩; and (from ⟨su⟩ + ⟨phala⟩ n.) ⟨suphalas⟩, ⟨-lā⟩, ⟨-lam⟩. The same holds good for masc., fem., and neut. stems in ⟨i⟩ and ⟨u⟩, and stems in consonants.
+¶ **368.** But often a fem. in ⟨ī⟩ is used by the side of a masc. and neut. in ⟨a⟩; thus, ⟨dviparṇa⟩ ‘two-leaved’, f. ⟨dviparṇī⟩.
+¶ **369.** Very frequently the suffix ⟨ka⟩ (attenuated into an element of indefinite value) is added to a pure possessive compound, to help the conversion of the compounded stem into an adjective; especially to fem. stems in ⟨ī⟩ and ⟨ū⟩, and to stems in ⟨ṛ⟩; and in general, where the final of the stem is less usual or manageable in adjective inflection. Thus, ⟨bahunadīka⟩ ‘rich in rivers’; ⟨mṛtabhartṛkā⟩ f., ‘whose husband is dead’, i. e. ‘widow’; ⟨mahāyaśas⟩ (nom. masc. and fem. ⟨-yāḥ⟩) or ⟨mahāyaśaska⟩.
+¶ **370.** Sometimes the possessive-making suffix ⟨in⟩ is added to secondary adjective compounds, without effect upon the meaning; thus, ⟨gardabhanādin⟩ (= ⟨-nāda⟩) ‘having an ass’s voice.’
+@161
+¶ **371. A. Possessive compounds.** The possessives are determinative compounds to which are given both an adjective inflection (as just shown), and also an adjective meaning of a kind best defined by adding ‘having’ to the meaning of the determinative. Thus, the dependent ⟨devarūpa⟩ n., ‘beauty of a god’, becomes the possessive ⟨devarūpa⟩, ⟨-ā⟩, m. f. n., ‘having the beauty of a god’; the descriptive ⟨dīrghabāhu⟩ m., ‘long arm’, becomes the possessive ⟨dīrghabāhu⟩ m. f. n, ‘having long arms’.∗
+¶ **372.** Dependent compounds are, by comparison, not often thus turned into possessives. But possessively used descriptives are extremely frequent and various; and some kinds of combination which are rare in proper descriptives are very common as possessives.
+¶ **373.** An adjective as prior member takes the masculine stem-form, even though referring to a feminine noun in the final member; thus, ⟨rūpavadbhārya⟩ (from ⟨bhāryā⟩) ‘possessing a beautiful wife’.
+¶ **374.** As prior members are found:
+¶ 1. Adjectives proper; thus, ⟨anyarūpa⟩ ‘of other form’. — 2. Participles; thus, ⟨hatamātṛka⟩ ‘whose mother is slain’. — 3. Numerals; thus, ⟨caturmukha⟩ ‘four-faced’; ⟨trilocana⟩ ‘three-eyed’. — 4. Nouns with *quasi*-adjective value; thus, ⟨hiraṇyahasta⟩ ‘gold-handed’. Especially common is the use of a noun as prior member to qualify the other appositionally, or by way of equivalence. These may well be called **appositional possessives.** Thus, ⟨kṛṣṇanāman⟩ ‘having “Kṛṣṇa” as name’; ⟨vīrapuruṣa⟩ ‘having men who are heroes’; ⟨cāracakṣus⟩ ‘using spies as eyes’; ⟨tvaddūta⟩ ‘having thee as messenger’. — 5. Adverbial elements (especially inseparable prefixes);
+¶ ∗ This class of compounds is called by the natives ⟨bahuvrīhi⟩; the name is an example of the class, meaning ‘having much rice’. — The possessive may generally, in accented texts, be distinguished from the original determinative by a difference of accent.
+@162
+¶ thus, ⟨ananta⟩ ‘endless’; ⟨aputra⟩ ‘childless’; ⟨suputra⟩ ‘with excellent sons’; ⟨durgandhi⟩ ‘ill-savored’. The associative prefix ⟨sa⟩ (less often ⟨saha⟩) is treated like an adjective element; thus, ⟨sarūpa⟩ ‘of like form’; ⟨saputra⟩ or ⟨sahaputra⟩ ‘with a son’, or ‘having one’s son along with one’; ⟨sānukūla⟩ (⟨sa⟩ + ⟨anukūla⟩ n.) ‘favorable’. — 6. Ordinary verbal prefixes; thus, ⟨praśravas⟩ ‘of wide fame’; ⟨vyaṅga⟩ ‘limbless’; ⟨nirbala⟩ ‘powerless’; ⟨unmukha⟩ ‘with uplifted face’. — 7. Ordinary adverbs; thus, ⟨ihacitta⟩ ‘with mind directed hither’.
+¶ **375.** Certain words, very frequent in the compounds mentioned at § 374, 4, have in part won a peculiar application.
+¶ 1. Thus with ⟨ādi⟩ ‘beginning’ (or the derivatives ⟨ādya⟩ or ⟨ādika⟩) are made compounds signifying the person or thing designated along with others — such a person or thing *et cetera*. Thus, ⟨devā indrādayaḥ⟩ ‘the gods having Indra as first’, i. e. ‘the gods Indra, etc.’ Often the qualifying noun is omitted; thus, ⟨annapānādīni⟩ ‘food, drink, etc.’ — 2. Words like ⟨pūrva⟩ (⟨pūrvaka⟩) etc., are used in the same way, to denote accompaniment; chiefly adverbially. — 3. The noun ⟨artha⟩ ‘object’, ‘purpose’, is used at the end of a compound, oftenest as a neut. subst. (acc. or instr. or loc.), to signify ‘for the sake of’, and the like; thus, ⟨damayantyartham⟩ ‘for Damayantī’s sake’; ⟨śayyārtham⟩ ‘for a bed’. (See below, § 379). — 4. ⟨antara⟩ (as neut. subst.) often means ‘other’ in possessives; thus, ⟨deśāntara⟩ n., ‘another region’ (lit. ‘that which has a difference of region’).
+¶ **376.** In appositional possessives, the final member, if it designate a part of the body, sometimes signifies the part to which belongs what is designated by the prior member: that on or in which it is. Thus ⟨maṇigrīva⟩ ‘with necklace on neck’. Such compounds are commonest with words meaning hand; thus, ⟨asipāṇi⟩ ‘with sword in hand’; ⟨laguḍahasta⟩ ‘with club in hand’.
+¶ **377.** The possessives are not always used with the simple
+@163
+¶ value of qualifying adjective. Often they have a pregnant sense, and become the equivalents of dependent clauses; or the ‘having’ implied in them becomes about equivalent to our ‘having’ as a sign of past action. Thus, ⟨prāptayauvana⟩ ‘possessing attained adolescence’, i. e. ‘having reached adolescence’; ⟨anadhigataśāstra⟩ ‘with unstudied books’, i. e. ‘one who has neglected study’; ⟨gataprāṇa⟩ ‘whose breath is gone’, i. e. ‘lifeless’; ⟨āsannamṛtyu⟩ ‘to whom death is come near’.
+¶ **378. B. Compounds with governed final member.**
+¶ 1. **Participial** compounds, exclusively Vedic.
+¶ 2. **Prepositional** compounds. Thus may conveniently be called those compounds in which the prior member is a particle with true prepositional value, and the final member a noun governed by it. Thus, ⟨atirātra⟩ ‘lasting over night’; ⟨atimātra⟩ ‘beyond measure’, ‘excessive’; ⟨apikarṇa⟩ ‘next the ear’.
+¶ **379. Adjective compounds as nouns and adverbs.** Compound adjectives, like simple ones, are freely used substantively as abstracts and collectives, especially in the neuter, and less often in the feminine; and they are also much used adverbially, particularly in the acc. sing. neuter.
+¶ **380.** The substantively used possessive compounds having a numeral as prior member, with some of the strictly adjective compounds, are treated by the Hindus as a separate class, and called *dvigu*∗. Examples of such numeral abstracts and collectives are: ⟨triyuga⟩ n., ‘the three ages’; ⟨triyojana⟩ n., ‘space of three leagues’. Feminines of like use occur in the later language; thus ⟨trilokī⟩ (by the side of ⟨-loka⟩ n.,) ‘the three worlds’.
+¶ **381.** Those adverbially used accusatives of secondary adjective
+¶ ∗ The name is a sample of the class, and means ‘of two cows’ (said to be used in the sense of ‘worth two cows’).
+@164
+¶ compounds which have an indeclinable or particle as prior member are considered by the Hindus a separate class of compounds, and called *avyayībhāva*∗. 1. The prepositional compounds are especially frequent in this use; thus, ⟨pratidoṣam⟩ ‘at evening’; ⟨samakṣam⟩ ‘in sight’; ⟨anugaṅgam⟩ (= ⟨gaṅgām anu⟩) ‘along the Ganges’; ⟨upagaṅgam⟩ ‘on the G.’; ⟨prativarṣam⟩ ‘every year’. — 2. A large class of *avyayībhāvas* is made up of words having a relative adverb, especially ⟨yathā⟩, as prior member. Thus, ⟨yathāvaśam⟩, ⟨yathākāmam⟩, ⟨yatheccham⟩, ‘as one chooses’. And, with other adverbs: ⟨yāvajjīvam⟩ ‘as long as one lives’; ⟨yatrakāmam⟩ ‘whither one will’.
+¶ **382.** Occasionally quite anomalous compounds will be met with. For such, cf. Whitney, § 1314.
+¶ ∗ The word means ‘conversion to an indeclinable’.
+## Vocabulary XXXIV
+¶ Verbs:
+V ci | + ⟨nis⟩ determine, decide. | నిర్ణయించు
+V dṛ | + ⟨vi⟩ in caus. (⟨vidārayati⟩) tear open. | చీల్చు
+V paṭ | (⟨pāṭayati⟩) split open. | చీల్చు, పగులగొట్టు
+V bhū | + ⟨abhi⟩ overpower. | అణచివేయు
+V vṛ | 2 (⟨varayate⟩) choose, select. | ఎంచుకొను
+V sad | + ⟨ā⟩ (⟨āsīdati⟩) approach. | సమీపించు
+V sad | + ⟨sam-ā⟩ in caus. (⟨samāsādayati⟩) meet with, encounter. | ఎదురుపడు
+V hṛṣ | (⟨harṣati⟩; ⟨hṛṣyati⟩) rejoice, be delighted. | సంతోషించు
+¶ Subst.:
+V aṅga | n., limb, member, body. | అవయవం, శరీరం
+V ākāra | m., form, figure. | ఆకారం, రూపం
+V indu | m., moon. | చంద్రుడు
+V udara | n., belly. | కడుపు
+V ketu | m., banner. | జెండా
+V koṭi | f., peak; point, tip. | కొన, అంచు
+V cūḍā | f., top-knot, scalp. | పిలక, శిఖ
+V jñāna | n., knowledge; insight. | జ్ఞానం
+V tālu | n., palate. | అంగిలి
+V tṛṣṇā | f., thirst, desire. | దాహం, కోరిక
+V daṃṣṭrā | f., tooth. | కోర
+V dyuti | f., brilliancy. | కాంతి
+V parvata | m., mountain. | పర్వతం
+V pulinda | m., a tribe in India. | పులిందుడు (ఒక తెగ)
+V prahāra | m., stroke, shot; wound. | దెబ్బ, ప్రహారం
+V prāṇa | m., breath, life (*often pl.*). | ప్రాణం
+V mastaka | n., head. | తల
+V mīna | m., fish. | చేప
+V vakṣas | n., chest, breast. | ఛాతి
+V varāha | m., boar. | అడవి పంది
+V vedanā | f., pain. | నొప్పి
+V snāyu | m., tendon; bowstring. | నరం; వింటి నారి
+¶ Adj.:
+V anavadya | f. ā, blameless, faultless. | నిర్దోషమైన
+V anukūla | f. ā, favorable; *as neut. subst.*, favor. | అనుకూలమైన; అనుగ్రహం
+V antara | f. ā, inner; *as neut. subst.*, the interior, middle; interval, difference; occasion, juncture (§ 376, 4.) | లోపలి; లోపలిభాగం; అంతరం; సందర్భం
+V paṭu | skilled. | నేర్పరి
+V bāla | f. ā, young. | బాల, చిన్న
+¶ Indecl.:
+V atha | then, thereupon. | అప్పుడు, తరువాత
+V tad | (*adv. acc.*) therefore. | అందుచేత
+V tāvat | so long; often merely = *donec*, *doch*. | అంతవరకు; కొన్నిసార్లు “అప్పుడు”
+V yāvat | as long as, while; as soon as. | ఎంతవరకు; ఎప్పుడు
+V sma | asseverative particle; gives to the present the force of an historical tense. | భూతకాల అర్థాన్నిచ్చే అవ్యయం
+@165
+## Exercise XXXIV
+¶ The exercise opens with a verse, in two halves (the translations are the editor’s):
+S a | atitṛṣṇā na kartavyā tṛṣṇāṃ naiva parityajet | One should not feel excessive thirst, nor yet give up desire altogether; | అతి కోరికను పెంచుకోకూడదు, కోరికను పూర్తిగా వదలనూ కూడదు;
+S b | atitṛṣṇābhibhūtasya cūḍā bhavati mastake | for one overcome by excessive thirst, a top-knot appears on the head. | అతి కోరికకు లోనైనవానికి తలపై పిలక వస్తుంది.
+¶ Into English (the story of the boar-hunter, fifteen sentences as Perry numbers them; the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | kasmiṃścid vane pulindaḥ prativasati sma | In a certain forest there lived a Pulinda hunter. | ఒక అడవిలో ఒక పులిందుడు నివసించేవాడు.
+S 2 | sa caikadā mṛgayāṃ kartuṃ prasthitaḥ | And once he set out to hunt. | ఒకసారి అతడు వేటకు బయలుదేరాడు.
+S 3 | atha tena prasarpatā parvataśikharākāro mahāvarāhaḥ samāsāditaḥ | Then, as he went about, he met a great boar, huge as a mountain peak. [Perry glosses prasarpatā “(pres. part.)”.] | అతడు తిరుగుతుండగా పర్వత శిఖరమంత పెద్ద అడవి పందిని ఎదుర్కొన్నాడు. [పెర్రీ prasarpatā ను “(వర్తమాన కృదంతం)” అని సూచిస్తాడు.]
+S 4 | taṃ dṛṣṭvā karṇāntākṛṣṭaśareṇa sa tena samāhataḥ | Seeing him, he struck him with an arrow drawn to the ear. | దానిని చూచి చెవి వరకు లాగిన బాణంతో దాన్ని కొట్టాడు.
+S 5 | tenāpi varāheṇa kopāviṣṭena bālendudyutinā daṃṣṭrāgreṇa pāṭitodaraḥ pulindo gataprāṇo bhūmāv apatat | And that boar, filled with rage, with the tip of a tusk bright as the young moon, tore open the hunter’s belly, and the Pulinda fell lifeless to the ground. | కోపంతో నిండిన ఆ పంది కూడా బాల చంద్రుని కాంతి వంటి కోర కొనతో పులిందుని కడుపు చీల్చింది; పులిందుడు ప్రాణం కోల్పోయి నేలపై పడ్డాడు.
+S 6 | atha vyādhaṃ vyāpādya varāho 'pi śaraprahāravedanayā mṛtaḥ | Then, having killed the hunter, the boar too died of the pain of the arrow’s stroke. | అప్పుడు వేటగాడిని చంపి పంది కూడా బాణపు దెబ్బ నొప్పితో చచ్చింది.
+S 7 | etasminn antare kaścid āsannamṛtyuḥ śṛgāla itas tataḥ paribhramaṃs taṃ deśam āgataḥ | In the meantime a jackal, whose death was near, wandering here and there, came to that place. | ఈలోగా మృత్యువు సమీపించిన ఒక నక్క అటూ ఇటూ తిరుగుతూ ఆ ప్రదేశానికి వచ్చింది.
+S 8 | yāvad varāhapulindau paśyati tāvat prahṛṣṭo 'cintayat | When he saw the boar and the hunter, he rejoiced and thought: | పంది, పులిందుడు ఇద్దరినీ చూడగానే అది సంతోషించి ఇలా ఆలోచించింది:
+S 9 | bhoḥ sānukūlo me vidhiḥ | “Ho! fate is favourable to me. | “భో! విధి నాకు అనుకూలంగా ఉంది.
+S 10 | tenaitac cintitaṃ bhojanam upasthitam | Therefore, as I thought of it, a meal has appeared. | అందుకే నేను ఆలోచించిన భోజనం ఎదురుగా వచ్చింది.
+S 11 | tad ahaṃ tathā bhakṣayāmi yathā bahūny ahāni me prāṇayātrā bhavati | So I will eat in such a way that my life is sustained for many days. | కాబట్టి చాలా రోజులు నా ప్రాణం నిలిచేలా నేను తింటాను.
+S 12 | tat tāvat prathamaṃ snāyupāśaṃ dhanuṣkoṭigataṃ bhakṣayāmi | So first I shall eat the tendon-cord at the tip of the bow. | కాబట్టి ముందుగా ధనుస్సు కొనకు ఉన్న నారి తాడును తింటాను.
+S 13 | evaṃ manasā niścitya dhanuṣkoṭiṃ mukhe kṣiptvā snāyuṃ bhakṣayitum ārabdhaḥ | Having decided thus in his mind, he put the tip of the bow in his mouth and began to eat the sinew. | ఇలా మనసులో నిశ్చయించుకొని ధనుస్సు కొనను నోటిలో ఉంచి నరాన్ని తినడం ప్రారంభించింది.
+S 14 | tataś ca kartite snāyau tālu vidārya dhanuṣkoṭir mastakamadhyena niṣkrāntā | And when the cord was cut, the bow-tip tore open the palate and came out through the middle of the head. | అప్పుడు నారి తెగగానే ధనుస్సు కొన అంగిలిని చీల్చి తల మధ్య నుండి బయటకు వచ్చింది.
+S 15 | so 'pi mṛtaḥ | He also died. | అదీ చచ్చింది.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Perry marks the compounds to be formed by hyphens; footnotes: ∗ secondary adjective compounds, feminine in ī; ∗∗ dependent compound, “skilled in speech”.
+@166
+E 16 | Those-who-have-done-evil must do penance twelve-days, six-days, or three-days. | kṛtapāpā dvādaśāhaṃ ṣaḍahaṃ tryahaṃ vā prāyaścittaṃ kuryuḥ | పాపం చేసినవారు పన్నెండు రోజులు, ఆరు రోజులు లేదా మూడు రోజులు ప్రాయశ్చిత్తం చేయాలి.
+E 17 | Purūravas, Indra’s-friend, married the moon-faced∗, faultless-limbed∗ Apsaras Urvaçī. | purūravā indrasakho 'psarasam urvaśīṃ candramukhīm anavadyāṅgīṃ pariṇītavān | ఇంద్రుని మిత్రుడైన పురూరవుడు చంద్రముఖి, నిర్దోషాంగి అయిన అప్సరస ఊర్వశిని వివాహమాడాడు.
+E 18 | Bhṛgukaccha is situated (⟨vṛt⟩) on the Narmadā. | bhṛgukacchaṃ narmadāyām upavartate | భృగుకచ్ఛం నర్మదా తీరంలో ఉంది.
+E 19 | There stands the long-armed, broad-chested king-of-the-Aṅgas, sword-in-hand. | tatra dīrghabāhur viśālavakṣā aṅgarājo 'sipāṇis tiṣṭhati | అక్కడ పొడవైన భుజాలు, విశాలమైన ఛాతి కలిగిన అంగరాజు ఖడ్గం చేత పట్టుకొని నిలుచున్నాడు.
+E 20 | The path-of-knowledge is better than the path-of-works. | karmamārgāj jñānamārgaḥ śreyān | కర్మమార్గం కంటే జ్ఞానమార్గం శ్రేష్ఠమైనది.
+E 21 | In-the-opinion-of-the-ancient-seers (*cpd in loc. or instr.*) one-whose-husband-is-dead may choose a second at-pleasure. | purāṇarṣimate mṛtabhartṛkā dvitīyaṃ yathākāmaṃ varayeta | పూర్వ ఋషుల అభిప్రాయం ప్రకారం భర్త మరణించిన స్త్రీ ఇష్టానుసారం రెండవవానిని ఎంచుకోవచ్చు.
+E 22 | Love is bodiless, and *bears*-a-fish-in-his-banner; so say the poets. | kāmo 'naṅgo mīnaketuś ceti kavayo vadanti | కాముడు అనంగుడు, మీనకేతనుడు అని కవులు అంటారు.
+E 23 | The Brāhman’s-daughter, Sītā-by-name∗, *is* lotus-eyed.∗ | brāhmaṇaduhitā sītānāmnī padmākṣī | బ్రాహ్మణుని కూతురు, సీత అనే పేరు గలది, పద్మాక్షి.
+E 24 | The king, although (⟨api⟩) many-wived, is childless. | rājā bahupatnīko 'py aputraḥ | రాజు అనేక భార్యలు కలిగి ఉన్నా సంతానం లేనివాడు.
+E 25 | The eloquent∗∗ pandit has arrived with-his-scholars. | vāgpaṭuḥ paṇḍitaḥ saśiṣya āgataḥ | వాక్పటువైన పండితుడు తన శిష్యులతో వచ్చాడు.
+E 26 | With-upturned-face (⟨unmukha⟩) Cātaka prays for rain-water. | unmukhaś cātako vṛṣṭijalaṃ prārthayate | పైకి ముఖం ఎత్తి చాతకం వాన నీటిని ప్రార్థిస్తుంది.
