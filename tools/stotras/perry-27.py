@@ -41,7 +41,7 @@ STOTRA = {
     {'vocab': [['kṣīṇa', '(part. of 2⟨kṣi⟩) reduced, decayed; ruined.', 'క్షీణించిన; నశించిన'], ['tīvra', 'f. ā, great, strong, violent.', 'తీవ్రమైన'], ['pīna', '(part. of ⟨pī⟩) fat.', 'లావైన'], ['brahmacārin', 'studying sacred knowledge; *as m. subst.*, Brāhman student.', 'బ్రహ్మచారి'], ['hīna', '(part.) abandoned; wanting in; and so sometimes w. instr., = ‘without’.', 'విడువబడిన; లోపించిన; (తృతీయతో) లేకుండా']]},
     {'heading': 'Exercise XXVII'},
     {'para': 'The exercise opens with a verse, in two halves (the translations are the editor’s):'},
-    {'padas': ['vardhamānam ṛṇaṃ rājan paribhūtāś ca śatravaḥ'], 'num': 'a', 'gloss': 'Growing debt, O king, and enemies who have been slighted,', 'te': 'ఎదుగుతున్న ఋణం, రాజా, నిర్లక్ష్యం చేయబడిన శత్రువులు,', 'prose': True},
+    {'padas': ['vardhamānam ṛṇaṃ rājan paribhūtāś ca śatravaḥ'], 'num': 'a', 'gloss': 'Growing debt, O king, and enemies who have been slighted,', 'te': 'పెరుగుతున్న ఋణం, రాజా, నిర్లక్ష్యం చేయబడిన శత్రువులు,', 'prose': True},
     {'padas': ['janayanti bhayaṃ tīvraṃ vyādhayaś cāpy upekṣitāḥ'], 'num': 'b', 'gloss': 'and diseases that have been neglected: they breed great fear.', 'te': 'నిర్లక్ష్యం చేయబడిన వ్యాధులు — ఇవి తీవ్రమైన భయాన్ని పుట్టిస్తాయి.', 'prose': True},
     {'para': 'Into English (the translations under each sentence are the editor’s, in English and Telugu):'},
     {'padas': ['yāni karmāṇy asmin loke kriyante teṣāṃ phalaṃ kartāmuṣmin loka upabhujyate'], 'num': '1', 'gloss': 'The fruit of the deeds that are done in this world is enjoyed by the doer in the other world.', 'te': 'ఈ లోకంలో చేసే కర్మల ఫలాన్ని కర్త పరలోకంలో అనుభవిస్తాడు.', 'prose': True},

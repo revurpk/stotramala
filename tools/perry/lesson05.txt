@@ -33,7 +33,7 @@ V gam | + ⟨ā⟩ (⟨āgacchati⟩) come. | రా, వచ్చు
 V tṛ | (⟨tarati⟩) cross over. | దాటు
 V naś | (⟨naśyati⟩) perish. | నశించు
 V paś | (⟨paśyati⟩) see. | చూడు
-V ruh | (⟨rohati⟩) rise, spring up, grow. | ఎదుగు, మొలకెత్తు, పెరుగు
+V ruh | (⟨rohati⟩) rise, spring up, grow. | పెరుగు, మొలకెత్తు, ఎదుగు
 V ruh | + ⟨ā⟩ (⟨ārohati⟩) climb, mount, ascend. | ఎక్కు, ఆరోహించు
 V likh | (⟨likhati⟩) scratch; write. | గీయు; రాయు
 V lubh | (⟨lubhyati⟩ — w. dat. or loc.) desire, covet. | ఆశించు, లోభించు
