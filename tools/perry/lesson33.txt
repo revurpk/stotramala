@@ -1,0 +1,111 @@
+# Perry, A Sanskrit Primer. Lesson XXXIII = p. 133 (from the heading) to p. 141 (to the end of the exercise) = leaves n152–n160 of the Cornell scan.
+% Compounds: the classes, the euphonic rules, copulative and determinative compounds
+! Perry’s āi and āu are written ai and au; his circle (°) for the part of a word that stands for the rest is written as a hyphen (-akṣa, -aha, -mūrdha, -rāja; -bhūma, -rātra, -sakha, -patha; -ahna). In § 353.1 the first form is blurred in the scan and is read -akṣa; the others are clear.
+! Footnotes kept in full: § 347 (this class of compounds is of comparatively recent development; only the other two are common in others of the related tongues); § 354 (this class is called by the Hindus dvandva, “couple”; but a dvandva of adjectives they do not recognise); § 357 (the Hindus reckon these as karmadhārayas); § 358 (the whole class of determinatives is called by the natives tatpuruṣa, a specimen of the class meaning “his man”; the second division, the descriptives, bears the special name karmadhāraya, a word of obscure meaning and application); § 364 (literally, a tiger which is not a tiger after all, but a man; or, perhaps better, “tiger of (or among) men”, so Whitney); the footnote to Exercise XXXIII, sentence 2 (to engage in the sport of hunting; cf. below, § 375, 3).
+! Exercise XXXIII is six Sanskrit sentences, one paragraph; Perry’s English sentences 7–12 are to be turned into Sanskrit with the compounds he shows by hyphens (“Form compounds of words joined by hyphens”). Sentence 1 is read duṣṣanto nāma rājarṣiḥ pūruvaṃśatilakas trilokyāṃ viśrutaḥ kṛtsnāṃ pṛthivīm apālayat ; sentence 3, tasmin vane duṣṣanto 'nekān vyāghrasiṃharkṣadvīpino 'nyāṃś ca vanacarān prāṇinaḥ svaśarair vyāpādayat; sentence 5, kaṇvasya brahmarṣer ayam āśrama iti sūtamukhāc chrutvā sainikān vane saṃsthāpyarṣiṃ nantuṃ rājā tatra praviṣṭaḥ. The name is Duṣṣanta (Perry prints “Dussanta”), the later spelling being Duṣyanta.
+! The editor’s answers to the English sentences 7–12 follow Perry’s hyphenation and the numerals on his words (for example in 10 and 11).
+@152
+## Lesson XXXIII
+¶ **Part I.**
+¶ **346. Compounds.** In all periods of the language the combination of stems of declension with one another, forming compounds which are treated in accent, inflection and construction as if simple words, is one of the most striking peculiarities of the Sanskrit tongue. In the Vedic period compounds of more than two elements are rare. In the later language this moderation is abandoned; and the later the period, and especially the more elaborate the style of composition, the more unwieldy and difficult do the compounds become. To such an extent is this carried that the advantages of an inflective language are often deliberately thrown away, and a clumsy aggregation of elements replaces the due syntactical union of inflected words into sentences.
+¶ **347.** Sanskrit compounds fall into three principal classes:
+¶ I. **Copulative or Aggregative** compounds, of which the members are syntactically coordinate: a joining together of words which in
+@153
+¶ an uncompounded state would be connected by ‘and’.∗ E. g. ⟨kṛtākṛtam⟩ ‘done and undone’; ⟨devagandharvamānuṣāḥ⟩ ‘gods and Gandharvas and men’. The members of such a compound may obviously be of any number, two or more.
+¶ II. **Determinative** compounds, of which the former member is syntactically dependent on the latter, as its determining or qualifying adjunct: being either a noun limiting it in a case-relation, or an adjective or an adverb describing it. Thus may be distinguished two sub-classes: A. **Dependent**, and B. **Descriptive**, compounds; their difference is not absolute.
+¶ Examples are: of dependents, ⟨amitrasenā⟩ ‘army of enemies’; ⟨pādodaka⟩ ‘water for the feet’; ⟨hastakṛta⟩ ‘made with hands’; — of descriptives, ⟨mahārāja⟩ ‘great king’; ⟨priyasakha⟩ (§ 353, 2) ‘dear friend’; ⟨duṣkṛta⟩ ‘badly done’.
+¶ **348.** The character of compounds of classes I. and II., as parts of speech, is determined by their final member, and they are capable of being resolved into equivalent phrases by giving the proper independent form and formal means of connection to each member. But this is not true of the third class, which accordingly is more fundamentally distinct from them than they from each other.
+¶ **349.** III. **Secondary Adjective** compounds, the value of which is not given by a simple resolution into their component parts, but which, though having as final member a noun, are themselves adjectives. These again are of two sub-classes: A. **Possessive** compounds, which are noun-compounds of the preceding class (II. A. or B.), with the idea of ‘having’ added, turning them from nouns into adjectives; and B. compounds in which the second member is
+¶ ∗ This class of compounds is of comparatively recent development; only the other two are common in others of the related tongues.
+@154
+¶ a noun syntactically dependent on the first: namely, 1. **Participial** compounds (only Vedic), of a present participle with its following object; and 2. **Prepositional** compounds, of a preposition and following noun. This whole sub-class B is comparatively small.
+¶ Examples: ⟨vīrasena⟩ ‘possessing a hero-army’; ⟨prajākāma⟩ ‘having desire of progeny’; ⟨atimātra⟩ ‘excessive’.
+¶ **350.** The adjective compounds are, like simple adjectives, sometimes used, especially in the neuter, as abstract and collective nouns; and in the accusative as adverbs. Out of these uses have grown apparent classes of compounds, reckoned and named as such by the Hindu grammarians.
+¶ **351.** A compound may, like a simple word, become a member in another compound, and so on indefinitely. The analysis of a compound (except copulatives), of whatever length, must be made by a series of bisections. Thus the dependent compound ⟨pūrvajanmakṛta⟩, ‘done in a previous existence’, is first divisible into ⟨kṛta⟩ and the descriptive ⟨pūrvajanman⟩, then this into its two elements.
+¶ **352. Euphonic combination in compounds.** The final of a stem is combined with the initial of another stem in composition according to the general rules for *external* combination. But:
+¶ 1. Final ⟨vas⟩ and ⟨us⟩ of a prior member become ⟨vaṣ⟩ and ⟨uṣ⟩ before surd gutturals, dentals, and labials; thus, ⟨jyotiṣkṛt⟩.
+¶ 2. Final ⟨as⟩ of a prior member often remains unchanged under similar circumstances.
+¶ 3. After final ⟨i⟩, ⟨u⟩, ⟨ṛ⟩, an initial ⟨s⟩ often becomes lingual.
+¶ 4. Pronouns generally take the stem-form of the neuter; for the personal pronouns are oftenest used ⟨mad⟩ and ⟨tvad⟩ in the sing., ⟨asmad⟩ and ⟨yuṣmad⟩ in the pl.
+¶ 5. For ⟨mahant⟩, in the prior member of descriptive and possessive compounds, is used ⟨mahā⟩.
+¶ 6. A case-form in the prior member is not very rare.
+@155
+¶ **353.** In all classes of compounds, certain changes of final are liable to appear in the concluding member; generally they have the effect of transferring the compound as a whole to the ⟨a⟩-declension. Thus: 1. A stem in ⟨an⟩ often drops the final ⟨n⟩, as in ⟨-akṣa⟩, ⟨-aha⟩, ⟨-mūrdha⟩, ⟨-rāja⟩. 2. An ⟨i⟩ or ⟨ī⟩ is changed to ⟨a⟩, as in ⟨-bhūma⟩, ⟨-rātra⟩, ⟨-sakha⟩, ⟨-patha⟩. 3. An ⟨a⟩ is added after a final consonant, sometimes even after an *u*-vowel or a diphthong, as in ⟨-ahna⟩ (⟨ahan⟩), ⟨gava⟩ (⟨go⟩).
+¶ The separate classes of compounds will now be taken up.
+¶ **Part II.**
+¶ **354. I. Copulative compounds.** Two or more nouns — much less often adjectives, and once or twice adverbs — having a co-ordinate construction, as though joined by ‘and’, are sometimes combined into a compound.∗
+¶ **355.** The noun-compounds fall, as regards their inflective form, into two classes:
+¶ A. The compound has the gender and declension of its final member, and is in number a dual or plural, according to its logical value as denoting either two, or more than two, individual things. Examples are: ⟨vrīhiyavau⟩ ‘rice and barley’; ⟨rāmakṛṣṇau⟩ ‘Rāma and Kṛṣṇa’; ⟨ajāvayaḥ⟩ ‘goats and sheep’; ⟨brāhmaṇakṣatriyavaiśyaśūdrāḥ⟩ ‘Brāhmans, Kṣatriyas, Vaiśyas and Śūdras’; ⟨pitāputrau⟩ (§ 352, 6) ‘father and son’.
+¶ B. The compound, without regard to the number denoted or to the gender of its constituents, becomes a neuter singular collective (so-called *samāhāra-dvandva*). Thus, ⟨pāṇipādam⟩ ‘hand and foot’; ⟨sarpanakulam⟩ ‘snake and ichneumon’; ⟨chattropānaham⟩ (§ 353, 3) ‘umbrella and shoe’; ⟨ahorātram⟩ (§ 353, 2) ‘day and night’.
+¶ **356.** The later language preserves several dual combinations
+@156
+¶ of the names of divinities, etc., which retain their earlier forms; thus, ⟨dyāvāpṛthivyau⟩ and ⟨dyāvābhūmī⟩ ‘Heaven and Earth’; ⟨mitrāvaruṇau⟩ ‘Mitra and Varuṇa’; ⟨agnīṣomau⟩ ‘Agni and Soma’.
+¶ **357.** Adjective copulative compounds are made likewise, but are rare. Examples are: ⟨śuklakṛṣṇa⟩ ‘light and dark’; ⟨vṛttapīna⟩ ‘round and plump’;∗ ⟨snātānuliptā⟩ ‘bathed and anointed’.
+¶ **358. Determinative compounds.** A noun or adjective is often combined into a compound with a preceding determining or qualifying word — a noun or adjective or adverb. The two principal divisions of this class are, as indicated above, A. Dependent, and B. Descriptive, compounds. Each class falls into two subdivisions, according as the final member, and therefore the whole compound, is noun or adjective.∗∗
+¶ **359. A. Dependent compounds.** 1. Noun-compounds. The case-relation of the prior to the second member may be of any kind, but is oftenest genitive, and least often accusative. Thus, ⟨tatpuruṣa⟩ = ⟨tasya puruṣaḥ⟩; ⟨mūrkhaśatāni⟩ ‘hundreds of fools’; — ⟨pādodaka⟩ (= ⟨pādebhya udakam⟩) ‘water for the feet’; — ⟨vidyādhana⟩ ‘money (obtained) by science’; ⟨ātmasādṛśya⟩ (= ⟨ātmanā sādṛśyam⟩) ‘likeness with self’; — ⟨corabhaya⟩ (= ⟨corād bhayam⟩) ‘fear of a thief’; — ⟨jalakrīḍā⟩ (= ⟨jale krīḍā⟩) ‘sport in the water’; — ⟨nagaragamana⟩ (= ⟨nagaraṃ gamanam⟩) ‘going to the city’; ⟨vācaspati⟩ ‘lord of speech’, *n. pr.* (§ 352, 6.).
+¶ **360.** 2. Dependent adjective compounds. Only a very small proportion of the compounds of this class have an ordinary adjective as final member; usually the final member is a participle, or a derivative of agency with the value of a participle (§ 204). The
+¶ ∗ The Hindus reckon these as ⟨karmadhāraya⟩s (see next note).
+¶ ∗∗ The whole class of determinatives is called by the natives ⟨tatpuruṣa⟩ (the name is a specimen of the class, meaning ‘his man’); the second division, the descriptives, bears the special name ⟨karmadhāraya⟩, a word of obscure meaning and application.
+@157
+¶ prior member stands in any possible case-relation. Thus, ⟨grāmagata⟩ ‘gone to the village’; ⟨vedavid⟩ ‘Veda-knowing’; — ⟨śivarakṣita⟩ ‘protected by Śiva’; ⟨gohita⟩ (= ⟨gave hitaḥ⟩) ‘good for the cow’; — ⟨svargapatita⟩ ‘fallen from the sky’; ⟨taraṅgacañcalatara⟩ ‘more mobile than waves’; — ⟨dvijottama⟩ (= ⟨dvijānām uttamaḥ⟩) ‘best of Brāhmans’; — ⟨sthālīpakva⟩ ‘cooked in a pot’.
+¶ **361.** Compounds of this sort having as final member the bare root — sometimes modified in form, and, if it end originally in a short vowel, generally with an added ⟨t⟩ — are very numerous: thus, ⟨vedavid⟩ above (§ 360); ⟨rathastha⟩ ‘standing in the wagon’ (or simply ‘in the wagon’); ⟨mūrdhaga⟩ ‘on the head’; ⟨ekaja⟩ ‘only-born’; ⟨vanacara⟩ (§ 352, 6) ‘forest-dwelling’; ⟨yudhiṣṭhira⟩ ‘firm in battle’; ⟨manasija⟩ ‘born in the heart’ (i. e. ‘love’).
+¶ **362. B. Descriptive compounds.** In this division of the determinatives, the prior member stands to the other in no distinct case-relation, but qualifies it adjectively or adverbially, according as the final member is noun or adjective. Thus, ⟨priyasakha⟩ (§ 353, 2); ⟨sukṛta⟩ ‘well-done’; ⟨duṣkṛt⟩ ‘evil-doing’ (adj.).
+¶ The compounds of noun-value cannot well be separated in treatment from those of adjective-value.
+¶ **363.** The simplest case is that in which a noun as final member is preceded by a qualifying adjective as prior member. Thus, ⟨kṛṣṇāśva⟩ (= ⟨kṛṣṇo 'śvaḥ⟩) ‘black horse’; ⟨mahāpuruṣa⟩ ‘great man’. Instead of an adjective, the prior member is in a few cases a noun used appositionally or with a *quasi*-adjective value; thus, ⟨brahmarṣi⟩ ‘priest-sage’; ⟨rājarṣi⟩ ‘king-sage’.
+¶ **364.** Sometimes compounds of this sort express a comparison; thus, ⟨ghanaśyāma⟩ ‘black as a thunder-cloud’ (cf. ‘coal-black’, etc.). Reversed, ⟨puruṣavyāghra⟩ ‘man-tiger’, i. e., ‘a man fierce as a tiger’;∗
+@158
+¶ ⟨narasiṃha⟩ ‘man-lion’; ⟨pādapadma⟩ ‘foot-lotus’, i. e. ‘a foot lovely as a lotus’.
+¶ ∗ Literally, a tiger which is not a tiger after all, but a man. Or, perhaps better, ‘tiger of (or among) men’ (so Whitney).
+¶ **365.** The adverbial words most commonly used as prior members of descriptive compounds, qualifying the other member, are the verbal prefixes (“prepositions”), and the words of direction related to them; likewise the inseparable prefixes ⟨an⟩ or ⟨a⟩ privative, ⟨su⟩ ‘well’, ⟨dus⟩ ‘ill’, etc. These are combined with nouns (in *quasi*-adjectival value) as well as with adjectives. Thus, ⟨akṛta⟩ ‘not done’; ⟨apaṇḍita⟩ ‘not a scholar’; ⟨anartha⟩ ‘misfortune’; ⟨atideva⟩ ‘more than a god’; ⟨atidūra⟩ ‘exceedingly far’; ⟨atibhaya⟩ ‘excessive fear’; ⟨pratipakṣa⟩ ‘opposing side.’
+## Vocabulary XXXIII
+¶ Verbs:
+V āp | + ⟨sam⟩ complete. | పూర్తిచేయు
+V yuj | + ⟨ni⟩ station, place, appoint. | నియమించు
+V rañj | + ⟨anu⟩ (⟨anurajyati⟩, ⟨-te⟩) be devoted to, inclined to (*loc.*). | అనురక్తుడగు (సప్తమితో)
+V vas | + ⟨pra⟩ go away (on a journey). | ప్రయాణమై వెళ్ళు
+V vṛt | + ⟨ni⟩ return home. | ఇంటికి తిరిగి వచ్చు
+¶ Subst.:
+V ākāśa | m., air, sky. | ఆకాశం
+V āśrama | m., hermitage. | ఆశ్రమం
+V kaṇva | m., *n. pr.* | కణ్వుడు
+V kumāra | m., boy, prince. | బాలుడు, రాజకుమారుడు
+V krīḍā | f., game, sport. | ఆట, క్రీడ
+V tilaka | m., ornament (*often fig.*). | తిలకం, అలంకారం
+V tīrtha | n., bathing-place; place of pilgrimage. | స్నానఘట్టం; పుణ్యక్షేత్రం
+V triloka | n., ⟨-ī⟩ f., the threefold world. | త్రిలోకం
+V duṣṣanta | m., *n. pr.* | దుష్షంతుడు
+V dīpin | m., panther. | చిరుతపులి
+V pada | n., step; place. | అడుగు; స్థలం
+V pūru | m., *n. pr.* | పూరుడు
+V mahiṣī | f., queen. | మహారాణి
+V mṛgayā | f., chase. | వేట
+V yātrā | f., march, journey; support. | ప్రయాణం, యాత్ర; ఆధారం
+V vaṃśa | m., race, family. | వంశం
+V vṛttānta | m., state of affairs; news. | వృత్తాంతం, వార్త
+V sakhī | f., female friend. | చెలికత్తె, స్నేహితురాలు
+V satkāra | m., hospitality. | సత్కారం, ఆతిథ్యం
+¶ Adj.:
+V anurūpa | f. ā, suitable. | తగిన
+V kṛtrima | f. ā, adopted. | దత్త, కృత్రిమ
+V gāndharva | f. ī, in the manner of, or suitable for, the Gandharvas. | గాంధర్వ పద్ధతిలో
+V divya | f. ā, heavenly, divine. | దివ్యమైన
+V mānuṣa | f. ī, human. | మానవ సంబంధమైన
+V samīpa | f. ā, near; *as neut. subst.*, vicinity, nearness, presence. | సమీపమైన; సమీపం, సన్నిధి
+¶ Adv.:
+V purā | earlier, formerly. | పూర్వం, ఇంతకు ముందు
+@159
+## Exercise XXXIII
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu; Perry’s footnote ∗ to sentence 2: “To engage in the sport of hunting”; cf. below, § 375, 3):
+S 1 | duṣṣanto nāma rājarṣiḥ pūruvaṃśatilakas trilokyāṃ viśrutaḥ kṛtsnāṃ pṛthivīm apālayat | A royal sage named Duṣṣanta, the ornament of the race of Pūru, famed in the three worlds, ruled the whole earth. | పూరు వంశానికి తిలకమై, ముల్లోకాలలో ప్రసిద్ధుడైన దుష్షంతుడు అనే రాజర్షి భూమి అంతటినీ పాలించాడు.
+S 2 | sa caikadā mantrisūtasainikānvito mṛgayākrīḍārthaṃ∗ mahāvanaṃ praviṣṭaḥ | And once, accompanied by his ministers, charioteer and soldiers, he entered a great forest for the sport of hunting. | ఒకసారి అతడు మంత్రులు, సారథి, సైనికులతో కలిసి వేట క్రీడ కోసం మహారణ్యంలో ప్రవేశించాడు.
+S 3 | tasmin vane duṣṣanto 'nekān vyāghrasiṃharkṣadvīpino 'nyāṃś ca vanacarān prāṇinaḥ svaśarair vyāpādayat | In that forest Duṣṣanta killed with his own arrows many tigers, lions, bears and panthers, and other creatures that live in the forest. | ఆ అడవిలో దుష్షంతుడు తన బాణాలతో అనేక పులులను, సింహాలను, ఎలుగుబంట్లను, చిరుతపులులను, ఇతర అడవి జంతువులను చంపాడు.
+S 4 | ekaṃ tu hariṇaṃ palāyamānaṃ rathastho 'nusaran nadītīre divyāśramapadaṃ dṛṣṭavān | But as he followed from his chariot a fleeing gazelle, he saw on a river bank a heavenly place of hermitage. | కానీ పారిపోతున్న ఒక జింకను రథంలో నుండి అనుసరిస్తూ నది ఒడ్డున దివ్యమైన ఆశ్రమ స్థలాన్ని చూశాడు.
+S 5 | kaṇvasya brahmarṣer ayam āśrama iti sūtamukhāc chrutvā sainikān vane saṃsthāpyarṣiṃ nantuṃ rājā tatra praviṣṭaḥ | Hearing from the charioteer’s mouth, “This is the hermitage of the priest-sage Kaṇva,” the king left the soldiers in the forest and entered it to bow to the seer. | “ఇది బ్రహ్మర్షి కణ్వుని ఆశ్రమం” అని సారథి నోటి నుండి విని రాజు సైనికులను అడవిలో ఉంచి ఋషికి నమస్కరించడానికి అక్కడ ప్రవేశించాడు.
+S 6 | tadā kaṇve tīrthayātrārthaṃ proṣite sati tasya kṛtrimā duhitā śakuntalā nāma sakhīsametā mahārājam atithisatkāreṇa pūjayitum āśramān nirgatā | Then, Kaṇva having gone away on a pilgrimage, his adopted daughter Śakuntalā, with her friends, came out of the hermitage to honour the great king with a guest’s welcome. | అప్పుడు కణ్వుడు తీర్థయాత్రకు వెళ్ళి ఉండగా అతని దత్త పుత్రిక శకుంతల చెలికత్తెలతో కలిసి మహారాజును అతిథి సత్కారంతో గౌరవించడానికి ఆశ్రమం నుండి బయటకు వచ్చింది.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Perry: “Form compounds of words joined by hyphens.” Words in italics are not to be translated.
+E 7 | When he had seen her, brilliant (⟨rāj⟩, *pres. part.*) with divine-beauty, as though (⟨iva⟩) more-than-human, the heart of the king-sage was inclined (*pass. part.*) toward her. | tāṃ divyarūpeṇa rājantīm atimānuṣīm iva dṛṣṭvā rājarṣer hṛdayaṃ tasyām anuraktam | దివ్య సౌందర్యంతో ప్రకాశిస్తున్న, మానవాతీతురాలివలె కనిపిస్తున్న ఆమెను చూచి రాజర్షి హృదయం ఆమెపై అనురక్తమైంది.
+E 8 | Thereupon, having learned *that* she (*acc.*) *was the* daughter-of-an-Apsaras (*acc.*), he married her by the gāndharva-ceremony (⟨vivāha⟩) suitable-for-Kṣatriyas. | tām apsaroduhitaram iti jñātvā kṣatriyānurūpeṇa gāndharveṇa vivāhena tāṃ pariṇītavān | ఆమె అప్సరస కూతురు అని తెలుసుకొని క్షత్రియులకు తగిన గాంధర్వ వివాహంతో ఆమెను వివాహమాడాడు.
+E 9 | Duṣṣanta, after dwelling very-many days-and-nights in the hermitage, abandoned Çakuntalā and returned to his-own-city. | duṣṣanta āśrame bahūny ahorātrāṇi uṣitvā śakuntalāṃ hitvā svanagaraṃ nyavartata | దుష్షంతుడు ఆశ్రమంలో అనేక రాత్రింబవళ్ళు గడిపి శకుంతలను విడిచి తన నగరానికి తిరిగి వెళ్ళాడు.
+E 10 | Afterwards, when Kaṇva had finished his pilgrimage, and returned to the hermitage, learning (⟨vid⟩) the news⁴-of-his¹-daughter’s²-marriage³, he sent her into-the-presence-of-Duṣṣanta. | paścāt kaṇvas tīrthayātrāṃ samāpyāśramaṃ nivṛtya svaduhitṛvivāhavṛttāntaṃ viditvā tāṃ duṣṣantasamīpaṃ prāhiṇot | తరువాత కణ్వుడు తీర్థయాత్రను ముగించి ఆశ్రమానికి తిరిగి వచ్చి తన కూతురి వివాహ వృత్తాంతం తెలుసుకొని ఆమెను దుష్షంతుని వద్దకు పంపాడు.
+E 11 | The royal-sage at first disowned (⟨pratyā-khyā⟩, *ger.*) Çakuntalā *when she was* come²-to-the-city¹; *but at last he put* (⟨ni-yuj⟩, *part. in* ⟨-vant⟩) her in-the-place³-of-the-first¹-queen². | rājarṣiḥ prathamaṃ nagaram āgatāṃ śakuntalāṃ pratyākhyāyānte tu tāṃ prathamamahiṣīsthāne niyuktavān | రాజర్షి మొదట నగరానికి వచ్చిన శకుంతలను తిరస్కరించి చివరికి ఆమెను మొదటి మహారాణి స్థానంలో నియమించాడు.
+E 12 | In the course of time (⟨kālena gacchatā⟩) a beautiful-prince, named Bharata, was born to her (*loc.*). | kālena gacchatā tasyāṃ bharatanāmā sundarakumāro 'jāyata | కాలం గడిచేసరికి ఆమెకు భరతుడు అనే అందమైన కుమారుడు పుట్టాడు.
