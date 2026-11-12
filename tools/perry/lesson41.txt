@@ -1,0 +1,116 @@
+# Perry, A Sanskrit Primer. Lesson XLI = p. 171 (from the heading) to p. 175 (to the end of the exercise) = leaves n190–n194 of the Cornell scan.
+% Verbs: the reduplicating class (bibharti, dadāti, dadhāti, juhoti, jahāti, bibheti) and the rules of reduplication
+! Perry’s āi and āu are written ai and au; the accent marks that he prints under the vocabulary forms (dádāti, dádhāti, jáhāti, jihréti) are not carried. The paradigms of bhṛ and dhā are given cell by cell as printed; in the imperfect middle of bhṛ Perry prints a circle (°) for the part that repeats the form above (°bhṛmahi, °bhṛdhvam, °bhrata); they are written out in full (abibhṛmahi, abibhṛdhvam, abibhrata). Perry’s dā “give” is inflected the same way as dhā, with d for dh except where dh belongs to the ending (§ 436), so no table is given for it. His footnotes are kept: § 430 (only a small proportion of the roots of this class retain the accent on the root-syllable in the strong forms; in the great majority the accent is on the reduplication, both in the strong forms and in those weak forms whose endings begin with vowels), § 435 (in combination with t or th of an ending, the dh of dadh does not give ddh, but follows the general rule of aspirate and of surd and sonant combination; and the lost aspiration is thrown back upon the initial of the root), and the footnote to verse 31 (with the suffix maya, f. -mayī, are formed adjectives signifying “made or composed or consisting of”; in the second line, “bear the name” merely, i. e. are not in reality such).
+! § 431: the reduplicated forms are dadhā (from dhā), cikhid (khid), jihrī (hrī), tasthā (sthā), bibhī (bhī) and bibhṛ (bhṛ); § 432: bibhī, strong bibhe, and bibhṛ, strong bibhar. § 439: for hu “pour, sacrifice” (Perry’s print of the root is hu), the 2nd imperative is juhudhi and the 3rd persons of the imperfect are ajuhot, ajuhutām, ajuhavus, as printed.
+! Exercise XLI opens with two verses numbered ॥ 30 ॥ and ॥ 31 ॥ (yad dadāsi viśiṣṭebhyo yac cāśnāsi dine dine | tat te vittam ahaṃ manye śeṣaṃ kasyāpi rakṣasi, “What you give to the excellent and what you eat day by day — that I take to be your wealth; the rest you guard for someone else”; yaś ca kāṣṭhamayo hastī yaś ca carmamayo mṛgaḥ | yaś ca vipro ’nadhīyānas trayas te nāma bibhrati, “The wooden elephant, the leather deer, and the Brāhman who has not studied — these three only bear the name”), then ten numbered Sanskrit sentences and the English ones 11–20. Sentence 1 reads yaḥ sarvabhūtebhyo ’bhayaṃ dattvā pravrajati tasmād api bhūtāni na bibhyati sa ca tebhyo na bibheti; sentence 3, ye dve kālaṃ vidhattas te mahatī jyotiṣī stavīmi; sentence 4, naikaṃ putram anyasmai dadyād anyasmāt pratigṛhṇīyād vā; sentence 6, bhikṣāṃ bhavati dehīti kṣatriyo bhikṣāṃ caran brūyāt (the glossed “bhavati”, voc. sing. f., “madam”); sentence 9, śatrūn āyāto (part., acc. pl.) dṛṣṭvā kṣatriyāv iṣū dhanuṣoḥ samadhattām (so, with the glossed participle). The English sentence 20 refers to the scholars as “who-have-not-learned-their-lessons” (hyphenated by Perry).
+@190
+## Lesson XLI
+¶ **430. Verbs. Reduplicating Class.** This class forms the present-stem by prefixing a reduplication to the root.∗
+¶ **431.** The rules governing the reduplication are as follows:
+¶ 1. The consonant of the reduplicating syllable is in general the first consonant of the root; thus, ⟨dā⟩, ⟨dadā⟩. But, (*a*) a non-aspirate is substituted for an aspirate; and (*b*) a palatal for a guttural
+@191
+¶ or ⟨h⟩; thus, ⟨dhā⟩, ⟨dadhā⟩; ⟨khid⟩, ⟨cikhid⟩; ⟨hrī⟩, ⟨jihrī⟩; (*c*) if the root begin with a sibilant followed by a non-nasal mute, the latter is repeated (with observance of *a*), not the sibilant; thus, ⟨sthā⟩, ⟨tasthā⟩.
+¶ 2. A long vowel is shortened in the reduplicating syllable; and ⟨ṛ⟩ is replaced by ⟨i⟩; thus, ⟨dadā⟩ and ⟨dadhā⟩ above; ⟨bhī⟩, ⟨bibhī⟩; ⟨bhṛ⟩, ⟨bibhṛ⟩.
+¶ **432.** The present-stem gunates the root-vowel in the strong forms; thus, ⟨bibhī⟩, strong ⟨bibhe⟩; ⟨bibhṛ⟩, strong ⟨bibhar⟩.
+¶ **433.** The verbs of this class lose the ⟨n⟩ from the endings of the 3rd pl. in the active as well as in the middle; and in the 3d pl. impf. act. always take ⟨us⟩, before which a final radical vowel has *guṇa*; thus, ⟨abibharus⟩.
+¶ **434.** Root ⟨bhṛ⟩, ‘bear, carry’. For 2nd and 3rd sing. impf. act., cf. §§ 122, 414.
+¶ Indicative.
+T  | Active sing. | du. | pl. | Middle sing. | du. | pl.
+R 1. | ⟨bibharmi⟩ | ⟨bibhṛvas⟩ | ⟨bibhṛmas⟩ | ⟨bibhre⟩ | ⟨bibhṛvahe⟩ | ⟨bibhṛmahe⟩
+R 2. | ⟨bibharṣi⟩ | ⟨bibhṛthas⟩ | ⟨bibhṛtha⟩ | ⟨bibhṛṣe⟩ | ⟨bibhrāthe⟩ | ⟨bibhṛdhve⟩
+R 3. | ⟨bibharti⟩ | ⟨bibhṛtas⟩ | ⟨bibhrati⟩ | ⟨bibhṛte⟩ | ⟨bibhrāte⟩ | ⟨bibhrate⟩
+¶ Imperfect.
+T  | Active sing. | du. | pl. | Middle sing. | du. | pl.
+R 1. | ⟨abibharam⟩ | ⟨abibhṛva⟩ | ⟨abibhṛma⟩ | ⟨abibhri⟩ | ⟨abibhṛvahi⟩ | ⟨abibhṛmahi⟩
+R 2. | ⟨abibhar⟩ | ⟨abibhṛtam⟩ | ⟨abibhṛta⟩ | ⟨abibhṛthās⟩ | ⟨abibhrāthām⟩ | ⟨abibhṛdhvam⟩
+R 3. | ⟨abibhar⟩ | ⟨abibhṛtām⟩ | ⟨abibharus⟩ | ⟨abibhṛta⟩ | ⟨abibhrātām⟩ | ⟨abibhrata⟩
+¶ Imperative.
+T  | Active sing. | du. | pl. | Middle sing. | du. | pl.
+R 1. | ⟨bibharāṇi⟩ | ⟨bibharāva⟩ | ⟨bibharāma⟩ | ⟨bibharai⟩ | ⟨bibharāvahai⟩ | ⟨bibharāmahai⟩
+R 2. | ⟨bibhṛhi⟩ | ⟨bibhṛtam⟩ | ⟨bibhṛta⟩ | ⟨bibhṛṣva⟩ | ⟨bibhrāthām⟩ | ⟨bibhṛdhvam⟩
+R 3. | ⟨bibhartu⟩ | ⟨bibhṛtām⟩ | ⟨bibhratu⟩ | ⟨bibhṛtām⟩ | ⟨bibhrātām⟩ | ⟨bibhratām⟩
+¶ Opt. act.: ⟨bibhṛyām⟩ etc.; mid.: ⟨bibhrīya⟩ etc.
+¶ Part. act.: ⟨bibhrat⟩ (§ 259), f. ⟨bibhratī⟩; mid.: ⟨bibhrāṇa⟩.
+¶ **435.** The roots 1⟨dā⟩, ‘give’, and 1⟨dhā⟩, ‘put’, lose their radical vowel in the weak forms, leaving the weak stems ⟨dad⟩ and ⟨dadh⟩.
+@192
+¶ In the 2nd sing. imv. act. they form ⟨dehi⟩ and ⟨dhehi⟩. The inflection of ⟨dhā⟩ is as follows:∗
+¶ Indicative.
+T  | Active sing. | du. | pl. | Middle sing. | du. | pl.
+R 1. | ⟨dadhāmi⟩ | ⟨dadhvas⟩ | ⟨dadhmas⟩ | ⟨dadhe⟩ | ⟨dadhvahe⟩ | ⟨dadhmahe⟩
+R 2. | ⟨dadhāsi⟩ | ⟨dhatthas⟩ | ⟨dhattha⟩ | ⟨dhatse⟩ | ⟨dadhāthe⟩ | ⟨dhaddhve⟩
+R 3. | ⟨dadhāti⟩ | ⟨dhattas⟩ | ⟨dadhati⟩ | ⟨dhatte⟩ | ⟨dadhāte⟩ | ⟨dadhate⟩
+¶ Imperfect.
+T  | Active sing. | du. | pl. | Middle sing. | du. | pl.
+R 1. | ⟨adadhām⟩ | ⟨adadhva⟩ | ⟨adadhma⟩ | ⟨adadhi⟩ | ⟨adadhvahi⟩ | ⟨adadhmahi⟩
+R 2. | ⟨adadhās⟩ | ⟨adhattam⟩ | ⟨adhatta⟩ | ⟨adhatthās⟩ | ⟨adadhāthām⟩ | ⟨adhaddhvam⟩
+R 3. | ⟨adadhāt⟩ | ⟨adhattām⟩ | ⟨adadhus⟩ | ⟨adhatta⟩ | ⟨adadhātām⟩ | ⟨adadhata⟩
+¶ Imperative.
+T  | Active sing. | du. | pl. | Middle sing. | du. | pl.
+R 1. | ⟨dadhāni⟩ | ⟨dadhāva⟩ | ⟨dadhāma⟩ | ⟨dadhai⟩ | ⟨dadhāvahai⟩ | ⟨dadhāmahai⟩
+R 2. | ⟨dhehi⟩ | ⟨dhattam⟩ | ⟨dhatta⟩ | ⟨dhatsva⟩ | ⟨dadhāthām⟩ | ⟨dhaddhvam⟩
+R 3. | ⟨dadhātu⟩ | ⟨dhattām⟩ | ⟨dadhatu⟩ | ⟨dhattām⟩ | ⟨dadhātām⟩ | ⟨dadhatām⟩
+¶ Opt. act.: ⟨dadhyām⟩ etc.; mid.: ⟨dadhīya⟩ etc.
+¶ Part. act.: ⟨dadhat⟩, f. ⟨dadhatī⟩; mid.: ⟨dadhāna⟩.
+¶ **436.** The root 1⟨dā⟩ is inflected in precisely the same way, but with change everywhere of ⟨dh⟩ to ⟨d⟩, except where ⟨dh⟩ belongs to the ending.
+¶ **437.** The root 1⟨hā⟩, ‘quit, abandon’ (act.), drops the ⟨ā⟩ in weak forms where the ending begins with a vowel, and in the opt.; thus, indic. 3rd sing. ⟨jahāti⟩, pl. ⟨jahati⟩; impf. 3rd. sing. ⟨ajahāt⟩, pl. ⟨ajahus⟩; opt. ⟨jahyāt⟩. The 2nd sing. imv. is ⟨jahīhi⟩ or ⟨jahihi⟩. In the other weak forms before consonant-endings the stem is either ⟨jahī⟩ or ⟨jahi⟩; thus, ⟨jahīmas⟩ or ⟨jahimas⟩.
+¶ **438.** 1⟨mā⟩, ‘measure’ (mid.), and 2⟨hā⟩, ‘move, go’ (mid.), form
+@193
+¶ ⟨mimī⟩ and ⟨jihī⟩ before consonant-endings, ⟨mim⟩ and ⟨jih⟩ before vowel-endings; thus, 3rd persons indic. ⟨mimīte⟩, ⟨mimāte⟩, ⟨mimate⟩.
+¶ **439.** ⟨hu⟩ ‘pour, sacrifice’ (act. and mid.), makes the 2nd sing. imv. ⟨juhudhi⟩; 3rd persons impf. ⟨ajuhot⟩, ⟨ajuhutām⟩, ⟨ajuhavus⟩.
+¶ **440.** 1. ⟨bhī⟩, ‘fear’ (act.), may shorten its vowel in weak forms; thus, ⟨bibhīmas⟩ or ⟨bibhimas⟩, ⟨bibhīyāt⟩ or ⟨bibhiyāt⟩. — 2. ⟨hrī⟩, ‘be ashamed’ (act.), changes its weak stem ⟨jihrī⟩ to ⟨jihriy⟩ before vowel-endings; thus, indic. 3rd persons ⟨jihreti⟩, ⟨jihrītas⟩, ⟨jihriyati⟩.
+¶ ∗ Only a small proportion of the roots of this class retain the accent on the root-syllable in the strong forms. In the great majority, the accent is on the reduplication, both in the strong forms and in those weak forms whose endings begin with vowels.
+¶ ∗ In combination with ⟨t⟩ or ⟨th⟩ of an ending, the ⟨dh⟩ of ⟨dadh⟩ does not give ⟨ddh⟩, but follows the general rule of aspirate and of surd and sonant combination; and the lost aspiration is thrown back upon the initial of the root.
+## Vocabulary XLI
+¶ Verbs:
+V dā | 1 (⟨dadāti⟩, ⟨datte⟩) give. | ఇచ్చు
+V dā | + ⟨pra⟩ entrust. | అప్పగించు
+V dhā | 1 (⟨dadhāti⟩, ⟨dhatte⟩) put, place. | ఉంచు
+V dhā | + ⟨api⟩ close, shut. | మూయు
+V dhā | + ⟨ā⟩ put on; (*mid.*) take, receive. | ధరించు; (ఆత్మనేపదం) స్వీకరించు
+V dhā | + ⟨vi⟩ arrange, ordain. | ఏర్పరచు, విధించు
+V dhā | + ⟨sam⟩ unite, put together; lay on. | కలుపు; పెట్టు
+V hā | 1 (⟨jahāti⟩) quit, abandon, neglect. | విడుచు, విస్మరించు
+V hrī | (⟨jihreti⟩) be ashamed. | సిగ్గుపడు
+¶ Subst.:
+V abhaya | n., safety; feeling of safety. | అభయం, భద్రత
+V asura | m., demon. | అసురుడు
+V āhuti | f., oblation. | ఆహుతి
+V mahiṣa | m., *n. pr.* | మహిషుడు
+V mṛga | m., gazelle. | జింక
+V vitta | n., possessions, wealth. | సంపద, ధనం
+V śeṣa | m., n., rest, remainder. | మిగిలినది
+V snātaka | m., one who has performed the ablution customary at the end of religious pupilage. | స్నాతకుడు
+¶ Adj.:
+V daiva | f. ī, divine. | దైవ సంబంధమైన
+V viśiṣṭa | f. ā, excellent, remarkable. | శ్రేష్ఠమైన, విశేషమైన
+¶ Adv.:
+V sāyam | at evening. | సాయంకాలంలో
+## Exercise XLI
+¶ The exercise opens with two verses (the translations are the editor’s; Perry’s footnote ∗ to kāṣṭhamayo: with the suffix maya, f. -mayī, are formed adjectives signifying “made or composed or consisting of”; in the second line, “bear the name” merely, i. e. are not in reality such):
+S 30a | yad dadāsi viśiṣṭebhyo yac cāśnāsi dine dine | What you give to the excellent, and what you eat day by day, | నువ్వు శ్రేష్ఠులకు ఇచ్చేదీ, ప్రతిరోజూ తినేదీ,
+S 30b | tat te vittam ahaṃ manye śeṣaṃ kasyāpi rakṣasi | that I consider your wealth; the rest you guard for someone else. | అదే నీ ధనం అని నేను భావిస్తాను; మిగిలినది నువ్వు ఎవరికోసమో కాపాడుతున్నావు.
+S 31a | yaś ca kāṣṭhamayo∗ hastī yaś ca carmamayo mṛgaḥ | The wooden elephant, the leather deer, | చెక్కతో చేసిన ఏనుగు, తోలుతో చేసిన జింక,
+S 31b | yaś ca vipro 'nadhīyānas trayas te nāma bibhrati | and the Brāhman who has not studied: these three only bear the name. | చదువుకోని బ్రాహ్మణుడు — ఈ ముగ్గురూ పేరును మాత్రమే మోస్తారు.
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | yaḥ sarvabhūtebhyo 'bhayaṃ dattvā pravrajati tasmād api bhūtāni na bibhyati sa ca tebhyo na bibheti | He who, having given safety to all beings, goes forth as an ascetic: beings do not fear him, and he does not fear them. | సకల ప్రాణులకు అభయం ఇచ్చి సన్యసించినవాని నుండి ప్రాణులు భయపడవు, అతడు వాటి నుండి భయపడడు.
+S 2 | sāyaṃ prātar brahmacārī pratyahaṃ samidham agnāv ādadhyāt | Evening and morning, every day, the student should lay fuel on the fire. | సాయంకాలం, ఉదయం ప్రతిరోజూ బ్రహ్మచారి అగ్నిలో సమిధను ఉంచాలి.
+S 3 | ye dve kālaṃ vidhattas te mahatī jyotiṣī stavīmi | I praise the two great lights which ordain time. | కాలాన్ని నిర్ణయించే ఆ రెండు గొప్ప జ్యోతులను నేను స్తుతిస్తున్నాను.
+S 4 | naikaṃ putram anyasmai dadyād anyasmāt pratigṛhṇīyād vā | One should not give a single son to another, nor receive one from another. | ఒక్క కొడుకును ఇతరునికి ఇవ్వకూడదు, ఇతరుని నుండి స్వీకరించకూడదు.
+S 5 | yasmān mahiṣāsurāt sarve 'pi devā abibhayus taṃ śivasya patnī pārvatī nyahan | The demon Mahiṣa, of whom all the gods were afraid, Śiva’s wife Pārvatī slew. | దేవతలందరూ భయపడిన మహిషాసురుని శివుని భార్య పార్వతి సంహరించింది.
+S 6 | bhikṣāṃ bhavati dehīti kṣatriyo bhikṣāṃ caran brūyāt | A Kṣatriya going about for alms should say, “Madam, give me alms.” [Perry glosses bhavati: voc. sing. f.] | భిక్షాటన చేసే క్షత్రియుడు “అమ్మా, భిక్ష ఇవ్వండి” అని అనాలి. [పెర్రీ bhavati ను సంబోధన స్త్రీలింగ ఏకవచనంగా సూచిస్తాడు.]
+S 7 | rujā jarasā vākrāntaṃ patiṃ patnī kadāpi na jahyāt | A wife should never abandon her husband, even when overcome by sickness or age. | రోగం వలన లేదా వృద్ధాప్యం వలన కుంగిపోయినా భార్య భర్తను ఎన్నడూ విడువకూడదు.
+S 8 | yatra bhūṣaṇālaṅkṛtāṃ kanyāṃ pitā yajñabhūmyām ṛtvije dadāti sa daivo vivāha ucyate | The marriage in which the father gives his daughter, adorned with jewels, to the priest on the sacrificial ground is called the divine marriage. | తండ్రి ఆభరణాలతో అలంకరించిన కూతురిని యజ్ఞభూమిలో ఋత్విజునికి ఇచ్చే వివాహాన్ని దైవ వివాహం అంటారు.
+S 9 | śatrūn āyāto dṛṣṭvā kṣatriyāv iṣū dhanuṣoḥ samadhattām | The two warriors, seeing the enemies coming, laid arrows on their bows. [Perry glosses āyāto: part., acc. pl.] | వస్తున్న శత్రువులను చూచి ఇద్దరు యోధులు తమ విల్లులపై బాణాలు సంధించారు. [పెర్రీ āyāto ను కృదంతం, ద్వితీయా బహువచనంగా సూచిస్తాడు.]
+S 10 | prāyaścittārtham aṣṭaśataṃ ghṛtāhutīnāṃ juhudhi | For the sake of expiation, offer a hundred and eight oblations of ghee. | ప్రాయశ్చిత్తం కోసం నూట ఎనిమిది నెయ్యి ఆహుతులను హోమం చెయ్యి.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Perry’s hints in brackets are kept in the English.
+@194
+E 11 | Let the Adhvaryus pour the sacrificial offerings into the fire. | adhvaryavo havīṃṣy agnau juhvatu | అధ్వర్యులు హవిస్సులను అగ్నిలో హోమం చేయుదురు గాక.
+E 12 | The seers ordain forty sacraments in the law-books (⟨smṛti⟩). | ṛṣayaḥ smṛtiṣu catvāriṃśatsaṃskārān vidadhati | ఋషులు స్మృతులలో నలభై సంస్కారాలను విధిస్తారు.
+E 13 | Daçaratha entrusted his sons to Vasiṣṭha as scholars. | daśarathaḥ putrān vasiṣṭhāya śiṣyān pradadau | దశరథుడు తన కొడుకులను శిష్యులుగా వసిష్ఠునికి అప్పగించాడు.
+E 14 | Meeting a woman in the forest, one should say to her: “Sister, be not afraid”. | vane striyaṃ samāsādya brūyāt svasar mā bhaiṣīr iti | అడవిలో ఒక స్త్రీని కలిసి “సోదరీ, భయపడకు” అని అనాలి.
+E 15 | Let a Snātaka carry (wear) a garland, and an umbrella-and-shoes. | snātakaḥ srajaṃ bibhṛyāc chattropānahaṃ ca | స్నాతకుడు మాలను, గొడుగును, పాదరక్షలను ధరించాలి.
+E 16 | One who takes (*part.*) roots-fruits-*or*-grain from a strange-field, is to be punished. | parakṣetrān mūlaphaladhānyāni ādadāno daṇḍyaḥ | పరుల పొలం నుండి వేర్లు, పండ్లు లేదా ధాన్యం తీసుకునేవాడు శిక్షార్హుడు.
+E 17 | Let the two doorkeepers close the door. | dvāḥsthau dvāram apidhattām | ఇద్దరు ద్వారపాలకులు తలుపును మూయుదురు గాక.
+E 18 | Do not neglect the teacher’s command. | guror ājñāṃ mā jahīhi | గురువు ఆజ్ఞను విస్మరించకు.
+E 19 | The royal-sage, who wore much jewelry, shone (⟨vi-bhā⟩) with great-brilliancy, like the sun. | prabhūtabhūṣaṇo rājarṣir mahādyutinā sūrya iva vyabhāt | అనేక ఆభరణాలు ధరించిన రాజర్షి సూర్యుని వలె గొప్ప కాంతితో ప్రకాశించాడు.
+E 20 | The scholars who-have-not-learned-*their*-lessons are ashamed before their teacher (*acc. or gen.*). | anadhītapāṭhāḥ śiṣyā gurūn jihrīyanti | పాఠాలు నేర్చుకోని శిష్యులు గురువు ముందు సిగ్గుపడతారు.
