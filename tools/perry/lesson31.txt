@@ -1,0 +1,86 @@
+# Perry, A Sanskrit Primer. Lesson XXXI = p. 126 (from the heading) to p. 130 (to the end of the exercise) = leaves n145–n149 of the Cornell scan.
+% The numerals: cardinals, ordinals, numeral adverbs
+! Perry’s āi and āu are written ai and au. His circle for a part of a word (°) is written as a hyphen (dvāca- for dvāca°, and so on); the hyphen shows in IAST and not in Devanāgarī and Telugu. The footnote of § 334 (eka forms no ordinal) and that of Exercise XXXI sentence 1 (“i. e., in the seven stars of the Great Bear”) are given whole.
+! Exercise XXXI opens with a verse Perry numbers ॥ 17 ॥ (sakṛj jalpanti rājānaḥ …, “Kings speak once, the good speak once; maidens are given once: these three, for the good, once”), then his sentences numbered 1–10 (the first two lines are the verse and not numbered separately), followed by the English sentences 11–21. Sentence 3 is caturṇāṃ vedānāṃ tu bahavaḥ śākhā vartante; sentence 4 is tadyathā: ṛgvedasya pañca śākhā yajurvedasya ṣaḍaśītiḥ sāmavedasya saptātharvavedasya naveti (so the print, with the gender of śākhā left in the singular); sentence 6 sāmprataṃ catvāri sahasrāṇi nava śatāni tryaśītiś ca kaliyugasya varṣāṇy atikrāntāni; sentence 7 śrīvikramādityād anantaraṃ pañcapañcāśādhike śatatame saṃvatsare śakānāṃ rājābhiṣiktaḥ; sentence 9 trīṇi lakṣāṇi gavāṃ ṣoḍaśa grāmāś carṣabhadattena brāhmaṇebhyo dattāni; sentence 10 sa eva varṣe varṣe śatasahasraṃ brāhmaṇānām abhojayat (so the print: the genitive, not the accusative).
+! The numbers in the exercise are those of the Indian historical tradition (the Śaka era began 78 A.D.; the Kali Yuga 3102 B.C., so that 4983 years of it fell in 1882); they are given as printed and not checked.
+@145
+## Lesson XXXI
+¶ **328. Numerals. Cardinals:** ⟨eka⟩ 1, ⟨dva⟩ 2, ⟨tri⟩ 3, ⟨catur⟩ 4, ⟨pañca⟩ 5, ⟨ṣaṣ⟩ 6, ⟨sapta⟩ 7, ⟨aṣṭa⟩ 8, ⟨nava⟩ 9, ⟨daśa⟩ 10. — ⟨ekādaśa⟩ 11, ⟨dvādaśa⟩ 12, ⟨trayodaśa⟩ 13, ⟨caturdaśa⟩ 14, ⟨pañcadaśa⟩ 15, ⟨ṣoḍaśa⟩ 16, ⟨saptadaśa⟩ 17, ⟨aṣṭādaśa⟩ 18, ⟨navadaśa⟩ 19, ⟨viṃśati⟩ 20. — ⟨ekaviṃśati⟩ 21, ⟨dvāviṃśati⟩ 22, etc. — ⟨triṃśat⟩ 30, ⟨catvāriṃśat⟩ 40, ⟨pañcāśat⟩ 50, ⟨ṣaṣṭi⟩ 60, ⟨saptati⟩ 70, ⟨aśīti⟩ 80, ⟨navati⟩ 90, ⟨śata⟩ 100. — ⟨dviśata⟩ or ⟨dve śate⟩ 200. — ⟨sahasra⟩ 1000, ⟨dvisahasra⟩ or ⟨dve sahasre⟩ 2000, ⟨śatasahasra⟩ or ⟨lakṣa⟩ 100 000.
+¶ **329.** The numbers between the even tens are made by prefixing the unit-number to the ten; thus, ⟨pañcaviṃśati⟩ 25. But note: ⟨ekādaśa⟩, not ⟨ekadaśa⟩, 11. 42, 52, 62, 72 and 92, either ⟨dvicatvāriṃśat⟩ or ⟨dvāca-⟩, etc.; 43–73, and 93, either ⟨tri-⟩ or ⟨trayaś catvā-⟩ etc.; 48–78, and 98, either ⟨aṣṭa-⟩ or ⟨aṣṭā catvā-⟩ etc. 96 is ⟨ṣaṇṇavati⟩.
+¶ **330.** There are other ways of expressing the numbers between the tens. Thus: 1. By the use of the adj. ⟨ūna⟩ ‘deficient’, in composition; e. g. ⟨ekonaviṃśati⟩ ‘20 less 1’, i. e. 19. This usage is not common except for the nines. Sometimes ⟨eka⟩ is left off, and ⟨ūnaviṃśati⟩, etc., have the same value. 2. By the adj. ⟨adhika⟩ or ⟨uttara⟩ ‘more’, also in composition; e. g., ⟨aṣṭādhikanavati⟩ (also ⟨aṣṭādhikā navati⟩) 98.
+@146
+¶ **331.** The same methods are used to form the odd numbers above 100. Thus, ⟨ekaśatam⟩ 101, ⟨aṣṭaśatam⟩ 108, ⟨pañcādhikaṃ śatam⟩ 105, ⟨saptottaraṃ śatam⟩ 107.
+¶ **332. Inflection of cardinals.** 1. ⟨eka⟩ is declined like ⟨sarva⟩, at § 231 (pl.: ‘some’, ‘certain ones’). The dual does not occur. ⟨eka⟩ sometimes means ‘a certain’; or even ‘an, a’, as an indefinite article.
+¶ 2. ⟨dva⟩ (dual only) is quite regular; thus, nom.-acc.-voc. m., ⟨dvau⟩, f. n. ⟨dve⟩; ⟨dvābhyām⟩, ⟨dvayos⟩.
+¶ 3. ⟨tri⟩ is in masc. and neut. nearly regular; the fem. has the stem ⟨tisṛ⟩. Thus, nom. m. ⟨trayas⟩, acc. m. ⟨trīn⟩, nom.-acc. n. ⟨trīṇi⟩; instr. ⟨tribhis⟩, dat.-abl. ⟨tribhyas⟩, gen. ⟨trayāṇām⟩, loc. ⟨triṣu⟩. Fem.: nom.-acc. ⟨tisras⟩, instr. ⟨tisṛbhis⟩, dat.-abl. ⟨tisṛbhyas⟩, gen. ⟨tisṛṇām⟩, loc. ⟨tisṛṣu⟩.
+¶ 4. ⟨catur⟩ has ⟨catvār⟩ in strong cases; the fem. stem is ⟨catasṛ⟩. Thus, nom. m. ⟨catvāras⟩, acc. m. ⟨caturas⟩; nom.-acc. n. ⟨catvāri⟩; instr. ⟨caturbhis⟩ etc. Fem.: nom.-acc. ⟨catasras⟩, instr., etc., ⟨catasṛbhis⟩, ⟨catasṛbhyas⟩, ⟨catasṛṇām⟩, ⟨catasṛṣu⟩.
+¶ (5–19.) These numbers have no distinction of gender. They are inflected with some irregularity as plurals. Thus:
+¶ 5, 7, 9, 10. ⟨pañca⟩, ⟨pañcabhis⟩, ⟨-bhyas⟩, ⟨pañcānām⟩, ⟨pañcasu⟩. ⟨sapta⟩, ⟨nava⟩, ⟨daśa⟩, and compounds of ⟨daśa⟩, are similarly declined.
+¶ 6. ⟨ṣaṣ⟩ as follows: ⟨ṣaṭ⟩, ⟨ṣaḍbhis⟩, ⟨ṣaḍbhyas⟩, ⟨ṣaṇṇām⟩, ⟨ṣaṭsu⟩.
+¶ 8. ⟨aṣṭa⟩ may follow ⟨pañca⟩, or be declined thus: ⟨aṣṭau⟩, ⟨aṣṭābhis⟩, ⟨-bhyas⟩, ⟨aṣṭānām⟩, ⟨aṣṭāsu⟩.
+¶ 20, 30, etc. ⟨viṃśati⟩, ⟨triṃśat⟩, etc., are declined regularly as fem. stems, in all numbers.
+¶ 100, 1000. ⟨śata⟩ and ⟨sahasra⟩ are declined regularly as neut. stems, in all numbers.
+¶ **333. Construction of numerals.** 1. The words from 1 to 19 are used as adjectives, agreeing in case (and in gender, if possible)
+@147
+¶ with the nouns. 2. The numerals above 19 are usually treated as nouns, either taking the numbered noun as a dependent genitive, or standing in the sing. in apposition with it; thus, ⟨śataṃ dāsīnām⟩ or ⟨śataṃ dāsyaḥ⟩ “a hundred female slaves”; ⟨ṣaṣṭyāṃ śaratsu⟩ “in sixty autumns”.
+¶ **334. Ordinals.** ⟨prathama⟩∗ ‘first’, ⟨dvitīya⟩, ⟨tṛtīya⟩, ⟨caturtha⟩, ⟨pañcama⟩, ⟨ṣaṣṭha⟩, ⟨saptama⟩, ⟨aṣṭama⟩, ⟨navama⟩, ⟨daśama⟩, ⟨ekādaśa⟩ (to 19th, the same as the cardinals, but declined like ⟨deva⟩, etc.); ⟨viṃśa⟩ or ⟨viṃśatitama⟩ 20th; ⟨triṃśa⟩ or ⟨triṃśattama⟩ 30th, etc. Note also ⟨ekonaviṃśa⟩ or ⟨ūnaviṃśa⟩, ⟨ekonaviṃśatitama⟩ or ⟨ūnaviṃśatitama⟩, 19th. The shorter forms (⟨viṃśa⟩ etc.) are by far the commoner.
+¶ **335.** ⟨prathama⟩, ⟨dvitīya⟩ and ⟨tṛtīya⟩ make their fem. in ⟨ā⟩; the rest, in ⟨ī⟩. Occasional forms of the pronominal declension are met with from the first three; but the usual declension of nouns is the normal one for ordinals also.
+¶ **336. Numeral adverbs.** 1. ⟨sakṛt⟩ ‘once’; ⟨dvis⟩ ‘twice’; ⟨tris⟩ ‘thrice’; ⟨catus⟩ ‘four times’; ⟨pañcakṛtvas⟩ or ⟨pañcavāram⟩ ‘five times’; and so on, with ⟨-kṛtvas⟩ or ⟨-vāram⟩. — 2. ⟨ekadhā⟩ ‘in one way’; ⟨dvidhā⟩ or ⟨dvedhā⟩ ‘in two ways’; ⟨tridhā⟩ or ⟨tredhā⟩, ⟨caturdhā⟩, ⟨pañcadhā⟩, ⟨ṣoḍhā⟩ or ⟨ṣaḍdhā⟩, etc. — 3. ⟨ekaśas⟩ ‘one by one’; ⟨śataśas⟩ ‘by hundreds’, etc.
+¶ ∗ ⟨eka⟩ forms no ordinal.
+## Vocabulary XXXI
+¶ Verbs:
+V kal | + ⟨sam⟩ (⟨saṃkalayati⟩) put together, add. | కూర్చు, కలుపు
+V kram | + ⟨ati⟩ pass (of time). | గడచిపోవు (కాలం)
+V jalp | (⟨jalpati⟩) speak, chat. | మాట్లాడు, కబుర్లు చెప్పు
+V bhuj | in caus. (⟨bhojayati⟩) feed. | భోజనం పెట్టు
+V sic | + ⟨abhi⟩ (⟨abhiṣiñcati⟩) anoint as king. | రాజుగా అభిషేకించు
+V hṛ | + ⟨ud-ā⟩ cite, mention. | ఉదహరించు, ప్రస్తావించు
+¶ Subst.:
+V atharvaveda | m., the fourth Veda. | అథర్వవేదం
+V anahilapāṭaka | n., *n. pr.*, a city. | అనహిలపాటకం (ఒక నగరం)
+V kaliyuga | n., the “Iron Age” of the world. | కలియుగం
+V cakra | n., wheel. | చక్రం
+V jyotiṣa | n., astronomy; astronomical text-book. | జ్యోతిషం
+V darśana | n., philosophical system. | దర్శనం
+V nakṣatra | n., lunar mansion. | నక్షత్రం
+V pāṇḍava | m., *n. pr.*, descendant of Pāṇḍu. | పాండవుడు
+V purāṇa | n., one of a class of works on the creation of the world. | పురాణం
+V vikramāditya | m., *n. pr.*, a famous king. | విక్రమాదిత్యుడు
+V śaka | m., Scythian. | శకుడు
+V śarīra | n., body. | శరీరం
+V śākhā | f., branch, edition, redaction. | శాఖ
+V saṃvatsara | m., year. | సంవత్సరం
+¶ Adv.:
+V anantaram | (*w. abl. — often postpos.*) after, immediately after. | తరువాత, వెంటనే
+V kvacit | sometimes (*in altern.*). | కొన్నిసార్లు
+V tadyathā | namely, to wit. | అవి ఏవంటే
+V sāmpratam | at present. | ఇప్పుడు, ప్రస్తుతం
+## Exercise XXXI
+¶ The exercise opens with a verse, in two halves (the translations are the editor’s):
+S a | sakṛj jalpanti rājānaḥ sakṛj jalpanti sādhavaḥ | Kings speak once; the good speak once; | రాజులు ఒకసారే పలుకుతారు; సాధువులు ఒకసారే పలుకుతారు;
+S b | sakṛt kanyāḥ pradīyante trīṇy etāni satāṃ sakṛt | maidens are given once: these three, for the good, once. | కన్యలు ఒకసారే ఇవ్వబడతారు: సత్పురుషులకు ఈ మూడూ ఒకసారే.
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | saptānām ṛṣīṇāṃ śarīrāṇi divi rājamānāni dṛśyante∗ | The bodies of the seven seers are seen shining in the sky. [Perry’s note: i. e., in the seven stars of the Great Bear.] | ఏడుగురు ఋషుల శరీరాలు ఆకాశంలో ప్రకాశిస్తూ కనిపిస్తున్నాయి. [పెర్రీ గమనిక: అంటే సప్తర్షి మండలంలోని ఏడు నక్షత్రాలు.]
+S 2 | catvāro vedā vidyante 'ṣṭādaśa purāṇāni ṣaṭtriṃśat smṛtayaḥ ṣaḍ darśanānīti viduṣāṃ matam | “There are four Vedas, eighteen Purāṇas, thirty-six law-books, six philosophical systems”: such is the opinion of the learned. | “నాలుగు వేదాలు, పద్దెనిమిది పురాణాలు, ముప్పై ఆరు స్మృతులు, ఆరు దర్శనాలు ఉన్నాయి” అనేది పండితుల అభిప్రాయం.
+S 3 | caturṇāṃ vedānāṃ tu bahavaḥ śākhā vartante | Of the four Vedas, however, there are many branches. | అయితే నాలుగు వేదాలకు అనేక శాఖలు ఉన్నాయి.
+S 4 | tadyathā: ṛgvedasya pañca śākhā yajurvedasya ṣaḍaśītiḥ sāmavedasya saptātharvavedasya naveti | Namely: the Ṛgveda has five branches, the Yajurveda eighty-six, the Sāmaveda seven, and the Atharvaveda nine. | అవి ఏవంటే: ఋగ్వేదానికి ఐదు శాఖలు, యజుర్వేదానికి ఎనభై ఆరు, సామవేదానికి ఏడు, అథర్వవేదానికి తొమ్మిది.
+S 5 | sarvāḥ saṃkalayya saptottaraṃ śataṃ śākhānāṃ śrūyate | Adding all together, a hundred and seven branches are reported. | అన్నింటినీ కలిపితే నూట ఏడు శాఖలు అని వినబడుతుంది.
+S 6 | sāmprataṃ catvāri sahasrāṇi nava śatāni tryaśītiś ca kaliyugasya varṣāṇy atikrāntāni | At present four thousand nine hundred and eighty-three years of the Kali Yuga have passed. | ప్రస్తుతం కలియుగంలో నాలుగు వేల తొమ్మిది వందల ఎనభై మూడు సంవత్సరాలు గడిచాయి.
+S 7 | śrīvikramādityād anantaraṃ pañcapañcāśādhike śatatame saṃvatsare śakānāṃ rājābhiṣiktaḥ | Immediately after Śrī Vikramāditya, in the hundred and fifty-fifth year, a king of the Śakas was consecrated. | శ్రీ విక్రమాదిత్యుని తరువాత నూట ఏభై ఐదవ సంవత్సరంలో శకుల రాజు అభిషిక్తుడయ్యాడు.
+S 8 | adhunā tv aṣṭādaśa śatāni catvāri ca śakānāṃ rājño varṣāṇi gatāni | Now, eighteen hundred and four years of the Śaka king’s era have gone. | ఇప్పుడు శక రాజు కాలంలో పద్దెనిమిది వందల నాలుగు సంవత్సరాలు గడిచాయి.
+S 9 | trīṇi lakṣāṇi gavāṃ ṣoḍaśa grāmāś carṣabhadattena brāhmaṇebhyo dattāni | Three hundred thousand cows and sixteen villages were given to the Brāhmans by Ṛṣabhadatta. | ఋషభదత్తుడు బ్రాహ్మణులకు మూడు లక్షల ఆవులను, పదహారు గ్రామాలను ఇచ్చాడు.
+S 10 | sa eva varṣe varṣe śatasahasraṃ brāhmaṇānām abhojayat | He himself, every year, fed a hundred thousand of the Brāhmans. | అతడే ప్రతి సంవత్సరం లక్ష మంది బ్రాహ్మణులకు భోజనం పెట్టాడు.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Words in italics are not to be translated, and “(*model after 2nd sentence in Sanskrit above*)” asks for a sentence built like sentence 2.
+@148
+E 11 | The wagon of the Aśvins is fitted (⟨yuj⟩, *part. pass.*) with three wheels. | aśvinor rathas tribhiś cakrair yuktaḥ | అశ్వినుల రథం మూడు చక్రాలతో కూడినది.
+E 12 | The Aśvins are praised by the seer with four Rik-verses. | ṛṣiṇāśvinau caturbhir ṛgbhiḥ stūyete | ఋషి నాలుగు ఋక్కులతో అశ్వినులను స్తుతిస్తాడు.
+E 13 | Kṛṣṇa is the eldest of six brothers. | ṣaṇṇāṃ bhrātṝṇāṃ kṛṣṇo jyeṣṭhaḥ | ఆరుగురు సోదరులలో కృష్ణుడు పెద్దవాడు.
+E 14 | Arjuna is the third among the five Pāṇḍavas. | pañcasu pāṇḍaveṣv arjunas tṛtīyaḥ | ఐదుగురు పాండవులలో అర్జునుడు మూడవవాడు.
+E 15 | Some think there are eight *sorts of* marriage (*pl.*); others, six (*model after 2nd sentence in Sanskrit above*). | aṣṭau vivāhā iti kecin manyante ṣaḍ ity apare | కొందరు వివాహాలు ఎనిమిది రకాలు అని భావిస్తారు; మరికొందరు ఆరు అని.
+E 16 | Twenty-seven or twenty-eight lunar mansions are mentioned in astronomy. | jyotiṣe saptaviṃśatir aṣṭāviṃśatir vā nakṣatrāṇy udāhriyante | జ్యోతిషంలో ఇరవై ఏడు లేదా ఇరవై ఎనిమిది నక్షత్రాలు ప్రస్తావించబడతాయి.
+E 17 | One should consecrate a Brāhman in *his* eighth year, a Kṣatriya in *his* eleventh, a Vaiśya in *his* twelfth. | brāhmaṇam aṣṭame varṣa upanayet kṣatriyam ekādaśe vaiśyaṃ dvādaśe | బ్రాహ్మణునికి ఎనిమిదవ సంవత్సరంలో, క్షత్రియునికి పదకొండవ దానిలో, వైశ్యునికి పన్నెండవ దానిలో ఉపనయనం చేయాలి.
+@149
+E 18 | Two great lights shine in the sky. | divi dve mahatī jyotiṣī rājete | ఆకాశంలో రెండు గొప్ప జ్యోతులు ప్రకాశిస్తాయి.
+E 19 | The teacher, having taught the fifth Rik-verse, recited the sixth. | ācāryaḥ pañcamīm ṛcam adhyāpya ṣaṣṭhīm aśrāvayat | ఆచార్యుడు ఐదవ ఋక్కును బోధించి ఆరవదాన్ని వినిపించాడు.
+E 20 | Çākyamuni Buddha died in the eightieth year of his age (*life*). | buddhaḥ śākyamuniḥ svasyāśītitame varṣe pretaḥ | శాక్యముని బుద్ధుడు తన ఎనభైయవ సంవత్సరంలో మరణించాడు.
+E 21 | Sometimes 33 gods are reckoned in the Veda, sometimes 3333. | vede kvacit trayastriṃśad devā gaṇyante kvacit trīṇi sahasrāṇi trīṇi śatāni trayastriṃśac ca | వేదంలో కొన్నిసార్లు ముప్పై మూడు దేవతలు లెక్కించబడతారు, కొన్నిసార్లు మూడువేల మూడువందల ముప్పై మూడు.
