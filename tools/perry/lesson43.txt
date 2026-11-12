@@ -1,0 +1,91 @@
+# Perry, A Sanskrit Primer. Lesson XLIII = p. 179 (from the heading) to p. 186 (to §474) = leaves n198–n205 of the Cornell scan. The lesson has no vocabulary or exercise.
+% Verbs: the perfect system (reduplication, strong and weak stems, endings, the participle, the periphrastic perfect)
+! Perry’s āi and āu are written ai and au; the accent marks printed over the endings in §452 and under some roots are not carried. Roots are given in IAST without the √ sign.
+! The perfect paradigms are given cell by cell as printed; the readings of the Devanāgarī were checked against the forms Perry spells out in roman letters (iyeṣ, uvoc, īṣ, ūc, ni-ny-i-va and the like).
+! §449.4: Perry’s forms for nī are read nine or ninai (1st), nine (2nd), ninai (3rd); the printing of the vowel signs is small, and the reading follows his own rule (guṇa or vṛddhi in the 1st, guṇa in the 2nd, vṛddhi in the 3rd).
+! §460, end: the “simpler root-forms” are read pī and hu, and the root hvā “makes its strong forms also from hu”, as in juhava or juhāva; the hu is printed with a small hook under the ha. Given as read.
+! §473: the last example is read īḍ, īḍāṃcakre (the printed letter is blurred; īḍ is the root ‘praise’). Given as read.
+! §456: the last form, from lū, is printed luluviva and is given so.
+! Perry’s footnotes — to §448.5 (the grammarians prescribe, doubtless falsely, the ān-reduplication for all verbs beginning with a or ṛ followed by more than one consonant), to §465 (several roots not of the form defined are said to undergo the same contraction, most of them optionally) and to §471 (mechanically, the weakest participle-stem is the same as the 3rd pl. active, with ṣ instead of s) — are given in the text where they fall.
+@198
+## Lesson XLIII
+¶ **447. Verbs. Perfect-System.** In the later language the perfect-system comprises only an indicative mode and a participle, each both active and middle. Its formation is essentially alike in all verbs; its characteristics are: 1. reduplication; 2. distinction of strong and weak forms; 3. endings in some respects peculiar; 4. the frequent use of the union-vowel *i*.
+¶ **448. Reduplication.** 1. Initial consonants are reduplicated according to the rules given in Less. XLI for the reduplicated present-stem.
+¶ 2. Medial and final vowels, short and long, are represented by the corresponding short vowel, diphthongs by their second element; but ⟨ṛ⟩ (or ⟨ar⟩) is represented always by ⟨a⟩, never by ⟨i⟩ as in the reduplicated present-stem. Thus, ⟨kram⟩, ⟨cakram⟩; ⟨sthā⟩, ⟨tasthā⟩; ⟨sic⟩, ⟨siṣic⟩; ⟨sev⟩, ⟨siṣev⟩; ⟨gā⟩, ⟨jagā⟩; ⟨kṛ⟩, ⟨cakṛ⟩.
+¶ 3. Initial ⟨a⟩, followed by a single consonant, becomes ⟨ā⟩ (through ⟨a-a⟩); thus, ⟨ad⟩, ⟨ād⟩.
+¶ 4. Initial ⟨i⟩ and ⟨u⟩ follow the same analogy; but in the strong forms, where the root-vowel is gunated, the reduplicating vowel is protected from combination by the insertion of ⟨y⟩ or ⟨v⟩; thus, ⟨iṣ⟩, strong perfect-stem ⟨iyeṣ⟩ (*i-y-eṣ*) weak ⟨īṣ⟩ (i. e. *i-iṣ*); ⟨uc⟩, strong ⟨uvoc⟩ (*u-v-oc*), weak ⟨ūc⟩ (*u-uc*).
+¶ 5. Roots beginning with vowels long by nature or position do not in general make the ordinary perfect-system, but use instead a periphrastic formation (see below). But ⟨āp⟩ is an exception, making the constant perfect-stem ⟨āp⟩; and a few roots with initial ⟨a⟩ or ⟨ṛ⟩ show the anomalous reduplication ⟨ān⟩ in the perfect.∗
+¶ ∗ The grammarians prescribe (doubtless falsely) this reduplication for all verbs beginning with ⟨a⟩ or ⟨ṛ⟩ followed by more than one consonant.
+¶ **449. Strong and weak forms.** In the three persons sing. act. the root-syllable is accented, and exhibits usually a stronger form. As regards the strengthening:
+¶ 1. In roots with medial vowels long by nature or position, and in those with initial ⟨a⟩, the difference of strong and weak forms does not appear, except in accented texts.
+¶ 2. Medial and initial vowels are gunated, if possible, in the strong forms; thus, ⟨bhid⟩, w. ⟨bibhid⟩, s. ⟨bibhed⟩; ⟨iṣ⟩, w. ⟨īṣ⟩, s. ⟨iyeṣ⟩; ⟨uc⟩, w. ⟨ūc⟩, s. ⟨uvoc⟩ (§ 448, 4).
+¶ 3. Medial ⟨a⟩ before a single final consonant is vriddhied in the 3rd pers., and optionally in the 1st; thus, from ⟨pac⟩, in 1st sing. either ⟨papac⟩ or ⟨papāc⟩, in 2nd ⟨papac⟩, in 3rd ⟨papāc⟩.
+¶ 4. A final vowel takes either *guṇa* or *vṛddhi* in the 1st person, *guṇa* in the 2nd, *vṛddhi* in the 3rd; thus, from ⟨nī⟩, in 1st ⟨nine⟩ or ⟨ninai⟩, 2nd ⟨nine⟩, 3rd ⟨ninai⟩.
+¶ **450.** The root ⟨bhū⟩ makes, irregularly, the perfect-stem ⟨babhū⟩, and adds ⟨v⟩ before a vowel-ending.
+¶ **451.** Some roots, instead of strengthening the vowel in the strong forms, weaken it in the weak forms; some few even do both. See below.
+¶ **452. Personal Endings.** The perfect-endings are these:
+T  | Active sing. | du. | pl. | Middle sing. | du. | pl.
+R 1. | ⟨a⟩ | ⟨va⟩ | ⟨ma⟩ | ⟨e⟩ | ⟨vahe⟩ | ⟨mahe⟩
+R 2. | ⟨tha⟩ | ⟨athus⟩ | ⟨a⟩ | ⟨se⟩ | ⟨āthe⟩ | ⟨dhve⟩
+R 3. | ⟨a⟩ | ⟨atus⟩ | ⟨us⟩ | ⟨e⟩ | ⟨āte⟩ | ⟨re⟩
+¶ But roots ending in ⟨ā⟩ take ⟨au⟩ in 1st and 3rd sing. act.; thus, ⟨sthā⟩, ⟨tasthau⟩.
+¶ **453. Union-vowel.** The endings beginning with consonants are in classical Sanskrit usually joined to the base by the union-vowel ⟨i⟩. The most important rules for the use of ⟨i⟩ are as follows:
+¶ 1. The ⟨re⟩ of 3rd pl. mid. always has ⟨i⟩ before it.
+¶ 2. The other endings beginning with consonants, except ⟨ya⟩, take it in nearly all verbs. But it is rejected throughout (except from ⟨re⟩) by eight verbs: viz. 1 ⟨kṛ⟩ ‘make’, ⟨bhṛ⟩ ‘bear’, ⟨sṛ⟩ ‘go’, 2 ⟨vṛ⟩ ‘choose’, ⟨dru⟩ ‘run’, ⟨śru⟩ ‘hear’, ⟨stu⟩ ‘praise’, ⟨sru⟩ ‘flow’.
+¶ 3. For its use or omission in 2nd sing. act. the rules are too complicated to be given here.
+¶ **454.** With the union-vowel ⟨i⟩ a final radical ⟨i⟩ or ⟨ī⟩ is not combined into ⟨ī⟩, but becomes ⟨y⟩ or (if more than one consonant precede) ⟨iy⟩; thus, from ⟨nī⟩, ⟨ninyiva⟩ *ni-ny-i-va*.
+## Examples of inflection. A. Roots in final vowels.
+¶ **455.** I. Roots in ⟨i⟩ or ⟨ī⟩. The ⟨e⟩ and ⟨ai⟩ of gunated and vriddhied vowels become ⟨ay⟩ and ⟨āy⟩ before the vowel beginning an ending. See also § 454.
+¶ Thus, 1. ⟨nī⟩: Act.: Sing. 1. ⟨ninaya⟩ or ⟨ninīya⟩, 2. ⟨ninayitha⟩ or ⟨ninetha⟩, 3. ⟨ninīya⟩; du. 1. ⟨ninyiva⟩, 2. ⟨ninyathus⟩, 3. ⟨ninyatus⟩; pl. 1. ⟨ninyima⟩, 2. ⟨ninya⟩, 3. ⟨ninyus⟩. — Mid.: Sing. 1. ⟨ninye⟩, 2. ⟨ninyiṣe⟩, 3. ⟨ninye⟩; du. 1. ⟨ninyivahe⟩, 2. ⟨ninyāthe⟩, 3. ⟨ninyāte⟩; pl. 1. ⟨ninyimahe⟩, 2. ⟨ninyidhve⟩, 3. ⟨ninyire⟩.
+¶ 2. ⟨krī⟩: Act.: Sing. 1. ⟨cikraya⟩ or ⟨cikrāya⟩, 2. ⟨cikrayitha⟩ or ⟨cikretha⟩, 3. ⟨cikrāya⟩; du. 1. ⟨cikriyiva⟩, 2. ⟨cikriyathus⟩, 3. ⟨cikriyatus⟩; pl. 1. ⟨cikriyima⟩, 2. ⟨cikriya⟩, 3. ⟨cikriyus⟩.
+¶ **456.** II. Roots in ⟨u⟩ or ⟨ū⟩ follow the model of the last-mentioned. Thus, ⟨stu⟩: Act.: Sing. 1. ⟨tuṣṭava⟩ or ⟨tuṣṭāva⟩, 2. ⟨tuṣṭotha⟩ (not ⟨tuṣṭavitha⟩ — see § 453, 2), 3. ⟨tuṣṭāva⟩; du. 1. ⟨tuṣṭuva⟩, 2. ⟨tuṣṭuvathus⟩, 3. ⟨tuṣṭuvatus⟩. — ⟨lū⟩: Act.: du. ⟨luluviva⟩ etc.
+¶ **457.** ⟨bhū⟩ is irregular in the perfect. (Cf. § 450):
+T  | Active sing. | du. | pl. | Middle sing. | du. | pl.
+R 1. | ⟨babhūva⟩ | ⟨babhūviva⟩ | ⟨babhūvima⟩ | ⟨babhūve⟩ | ⟨babhūvivahe⟩ | ⟨babhūvimahe⟩
+R 2. | ⟨babhūvitha⟩ | ⟨babhūvathus⟩ | ⟨babhūva⟩ | ⟨babhūviṣe⟩ | ⟨babhūvāthe⟩ | ⟨babhūvidhve⟩
+R 3. | ⟨babhūva⟩ | ⟨babhūvatus⟩ | ⟨babhūvus⟩ | ⟨babhūve⟩ | ⟨babhūvāte⟩ | ⟨babhūvire⟩
+¶ **458.** III. Roots in ⟨ṛ⟩. 1. 1 ⟨kṛ⟩ (see § 453, 2):
+T  | Active sing. | du. | pl. | Middle sing. | du. | pl.
+R 1. | ⟨cakara⟩, ⟨cakāra⟩ | ⟨cakṛva⟩ | ⟨cakṛma⟩ | ⟨cakre⟩ | ⟨cakṛvahe⟩ | ⟨cakṛmahe⟩
+R 2. | ⟨cakartha⟩ | ⟨cakrathus⟩ | ⟨cakra⟩ | ⟨cakṛṣe⟩ | ⟨cakrāthe⟩ | ⟨cakṛdhve⟩
+R 3. | ⟨cakāra⟩ | ⟨cakratus⟩ | ⟨cakrus⟩ | ⟨cakre⟩ | ⟨cakrāte⟩ | ⟨cakrire⟩
+¶ So also ⟨bhṛ⟩, ⟨sṛ⟩, 2 ⟨vṛ⟩ ‘choose’. 2. The other roots in ⟨ṛ⟩ make the first persons thus: from ⟨dhṛ⟩, ⟨dadhara⟩ or ⟨dadhāra⟩, ⟨dadhriva⟩, ⟨dadhrima⟩; ⟨dadhre⟩, ⟨dadhrivahe⟩, ⟨dadhrimahe⟩.
+¶ **459.** If the final ⟨ṛ⟩ be preceded by more than one consonant, the formation is as follows: ⟨smṛ⟩, 1. ⟨sasmara⟩ or ⟨sasmāra⟩, 2. ⟨sasmartha⟩, 3. ⟨sasmāra⟩; du. ⟨sasmariva⟩, ⟨sasmarathus⟩, etc. — the ⟨ṛ⟩ being gunated.
+¶ **460.** IV. Roots in ⟨ā⟩ (including those written by the natives with ⟨e⟩ or ⟨ai⟩ or ⟨o⟩). These take ⟨au⟩ in 1st and 3rd sing. act.; and the ⟨ā⟩ is lost before vowel-endings and ⟨i⟩. 1. 1 ⟨dhā⟩:
+T  | Active sing. | du. | pl. | Middle sing. | du. | pl.
+R 1. | ⟨dadhau⟩ | ⟨dadhiva⟩ | ⟨dadhima⟩ | ⟨dadhe⟩ | ⟨dadhivahe⟩ | ⟨dadhimahe⟩
+R 2. | ⟨dadhātha⟩, ⟨dadhitha⟩ | ⟨dadhathus⟩ | ⟨dadha⟩ | ⟨dadhiṣe⟩ | ⟨dadhāthe⟩ | ⟨dadhidhve⟩
+R 3. | ⟨dadhau⟩ | ⟨dadhatus⟩ | ⟨dadhus⟩ | ⟨dadhe⟩ | ⟨dadhāte⟩ | ⟨dadhire⟩
+¶ 2. ⟨pyā⟩, ⟨hvā⟩, and similar roots, make their weak forms from the simpler root-forms ⟨pī⟩, ⟨hu⟩ etc.; and ⟨hvā⟩ makes its strong forms also from ⟨hu⟩; thus, ⟨juhava⟩ or ⟨juhāva⟩ etc.
+## B. Roots in final consonants.
+¶ **461.** I. With medial vowel capable of *guṇa*.
+¶ 1. ⟨bhid⟩: Act: Sing. 1. ⟨bibheda⟩, 2. ⟨bibheditha⟩, 3. ⟨bibheda⟩; du. ⟨bibhidiva⟩ etc.; pl. ⟨bibhidima⟩ etc. Mid.: ⟨bibhide⟩ etc. 2. So from ⟨tud⟩: ⟨tutoda⟩ etc.; 3. from ⟨dṛś⟩: 1. ⟨dadarśa⟩, 2. ⟨dadarśitha⟩ or ⟨dadraṣṭha⟩, 3. ⟨dadarśa⟩; du. ⟨dadṛśiva⟩ etc.
+¶ **462.** II. With initial vowel capable of *guṇa*.
+¶ 1. ⟨iṣ⟩: Sing. 1. ⟨iyeṣa⟩, 2. ⟨iyeṣitha⟩, 3. ⟨iyeṣa⟩; du. 1. ⟨īṣiva⟩, 2. ⟨īṣathus⟩, 3. ⟨īṣatus⟩; pl. 1. ⟨īṣima⟩, 2. ⟨īṣa⟩, 3. ⟨īṣus⟩. 2. ⟨uc⟩: ⟨uvoca⟩ etc. 3. The root ⟨i⟩, ‘go’, also follows this rule, forming ⟨iyāya⟩ etc., 3rd pl. ⟨īyus⟩. 4. ⟨ṛc⟩ makes (see § 448, 5) ⟨ānarca⟩, ⟨ānarcitha⟩ etc.
+¶ **463.** III. With initial ⟨a⟩.
+¶ ⟨as⟩, ⟨āsa⟩ etc.; ⟨ad⟩, ⟨āda⟩ etc. But ⟨aś⟩ (originally ⟨aṃś⟩) makes ⟨ānaṃśa⟩ etc. (§ 448, 5).
+¶ **464.** IV. With medial ⟨a⟩.
+¶ 1. ⟨kram⟩: Act.: sing. 1. ⟨cakrama⟩ or ⟨cakrāma⟩, 2. ⟨cakramitha⟩, 3. ⟨cakrāma⟩; du. ⟨cakramiva⟩ etc. Mid.: ⟨cakrame⟩ etc.
+¶ Thus all such roots beginning with more than one consonant, or with an aspirate, a guttural mute, or ⟨h⟩.
+¶ **465.** 2. Roots in general having medial ⟨a⟩ before a single final consonant, and beginning also with a single consonant which is repeated unchanged in the reduplication — i. e. not an aspirate, a guttural, or ⟨h⟩ — contract with the reduplication into one syllable, with ⟨e⟩ as its vowel, in the weak forms; and this is allowed also in 2nd sing. act. when the union-vowel ⟨i⟩ is taken.∗ Thus, ⟨pac⟩, s. ⟨papac⟩ and ⟨papāc⟩, w. ⟨pec⟩:
+¶ ∗ Several roots not having the form here defined are said to undergo the same contraction, most of them optionally.
+@203
+T  | Active sing. | du. | pl. | Middle sing. | du. | pl.
+R 1. | ⟨papaca⟩, ⟨papāca⟩ | ⟨peciva⟩ | ⟨pecima⟩ | ⟨pece⟩ | ⟨pecivahe⟩ | ⟨pecimahe⟩
+R 2. | ⟨papaktha⟩, ⟨pecitha⟩ | ⟨pecathus⟩ | ⟨peca⟩ | ⟨pecise⟩ | ⟨pecāthe⟩ | ⟨pecidhve⟩
+R 3. | ⟨papāca⟩ | ⟨pecatus⟩ | ⟨pecus⟩ | ⟨pece⟩ | ⟨pecāte⟩ | ⟨pecire⟩
+¶ **466.** 3. Certain roots beginning with ⟨va⟩ (also one with ⟨ya⟩) and ending in one consonant, reduplicate with the syllable ⟨u⟩ (the one root just mentioned, with ⟨i⟩), and abbreviate the ⟨va⟩ (⟨ya⟩) of the root to ⟨u⟩ (⟨i⟩) in weak forms. They are treated like roots with initial ⟨u⟩ (⟨i⟩: § 463) but retain the full root form in the strong persons. These roots are ⟨vac⟩, ⟨vad⟩, ⟨vap⟩, ⟨vam⟩, ⟨vas⟩ ‘dwell’, and ⟨vah⟩; also ⟨yaj⟩. Thus, ⟨vac⟩: Act. sing. 1. ⟨uvaca⟩ or ⟨uvāca⟩, 2. ⟨uvaktha⟩ or ⟨uvacitha⟩, 3. ⟨uvāca⟩; du. ⟨ūciva⟩ (*u-uc-i-va*) etc. Mid. ⟨ūce⟩ etc. — ⟨yaj⟩: Act. sing. 1. ⟨iyaja⟩ or ⟨iyāja⟩, 2. ⟨iyaṣṭha⟩ or ⟨iyajitha⟩, 3. ⟨iyāja⟩; du. ⟨ījiva⟩ etc. Mid. ⟨īje⟩ etc.
+¶ **467.** 4. Several roots which have medial ⟨a⟩ between single consonants, but cannot follow the rule of § 465, drop out the ⟨a⟩ from the weak forms. These roots are, in the classical language, ⟨khan⟩, ⟨gam⟩, ⟨ghas⟩, ⟨han⟩; and also ⟨jan⟩, which might be expected to follow § 465. They form the weak stems ⟨cakhn⟩, ⟨jagm⟩, ⟨jaghs⟩, ⟨jaghn⟩; and ⟨jajñ⟩. Thus, ⟨cakhana⟩ or ⟨cakhāna⟩ etc., ⟨cakhniva⟩ etc. ⟨han⟩ makes its strong stem ⟨jaghan⟩ and ⟨jaghān⟩.
+¶ **468.** 5. The roots ⟨vyadh⟩, ⟨svap⟩, and one or two others, reduplicate from the semivowel, and contract ⟨ya⟩ and ⟨va⟩ to ⟨i⟩ and ⟨u⟩ in weak forms. Thus, strong ⟨susvap⟩ or ⟨susvāp⟩, weak ⟨suṣup⟩.
+¶ **469.** 1. The root ⟨ah⟩, ‘speak’, is found only in this tense, and only in the following forms: sing. 2. ⟨āttha⟩, 3. ⟨āha⟩; du. 2. ⟨āhathus⟩, 3. ⟨āhatus⟩; pl. 3. ⟨āhus⟩. These forms have only the value of the present. — 2. The root 1 ⟨vid⟩, ‘know’, makes a perfect without reduplication, but otherwise regular, which has only present-value; see § 417. 2 ⟨vid⟩, ‘find’, forms the regular ⟨viveda⟩.
+¶ **470.** The roots ⟨ci⟩, ⟨cit⟩, ⟨ji⟩, and ⟨hi⟩, form as perfect-stems ⟨ciki⟩, ⟨cikit⟩, ⟨jigi⟩, and ⟨jighi⟩.
+@204
+¶ **471. Perfect participle.** 1. *Active.* The ending of the pf. part. active is ⟨vāṃs⟩ (mid. ⟨vat⟩, w. ⟨uṣ⟩), which is added to the weak perfect-stem.∗ When this is monosyllabic the union-vowel ⟨i⟩ is inserted (but not in the weakest cases, before ⟨uṣ⟩). Thus, *a.* from ⟨iṣ⟩, strong stem of part. ⟨īṣivāṃs⟩, mid. ⟨īṣivat⟩, w. ⟨īṣuṣ⟩; from ⟨pac⟩, ⟨pecivāṃs⟩, ⟨pecivat⟩, ⟨pecuṣ⟩; from ⟨vac⟩, ⟨ūcivāṃs⟩, ⟨ūcivat⟩, ⟨ūcuṣ⟩; from ⟨dā⟩, ⟨dadivāṃs⟩, ⟨dadivat⟩, ⟨daduṣ⟩. But, from ⟨nī⟩, ⟨ninīvāṃs⟩, ⟨ninīvat⟩, ⟨ninyuṣ⟩; from ⟨stu⟩, ⟨tuṣṭuvāṃs⟩, ⟨tuṣṭuvat⟩, ⟨tuṣṭuvuṣ⟩; from ⟨bhid⟩, ⟨bibhidvāṃs⟩, ⟨bibhidvat⟩, ⟨bibhiduṣ⟩. — *b.* The root ⟨gam⟩ makes as its strong stem of pf. part. ⟨jagmivāṃs⟩ or ⟨jaganvāṃs⟩, mid. ⟨jagmivat⟩ or ⟨jaganvat⟩, weakest only ⟨jagmuṣ⟩. Similarly, from ⟨han⟩, ⟨jaghnivāṃs⟩ or ⟨jaghanvāṃs⟩, ⟨jaghnivat⟩ or ⟨jaghanvat⟩, ⟨jaghnuṣ⟩. — *c.* 1 ⟨vid⟩, ‘know’, makes ⟨vidvāṃs⟩ etc.; 2 ⟨vid⟩, ‘find’, ⟨vividvāṃs⟩ etc.
+¶ ∗ Mechanically, the weakest participle-stem is identical with the 3rd pl. act. (of course, ⟨ṣ⟩ instead of ⟨s⟩).
+¶ 2. *Middle.* The pf. part. middle is made with the suffix ⟨āna⟩, which is added to the weak stem as this appears in the middle voice; thus, ⟨budh⟩, ⟨bubudhāna⟩; ⟨dhā⟩, ⟨dadhāna⟩; ⟨kṛ⟩, ⟨cakrāṇa⟩; ⟨nī⟩, ⟨ninyāna⟩; ⟨tan⟩, ⟨tenāna⟩.
+## Periphrastic Perfect.
+¶ **472.** Most roots beginning with a vowel long by nature or position adopt a periphrastic formation in the perfect tense; the same is also taken by the secondary conjugations, and optionally by a few primary roots not falling in the above category. It is made as follows:
+¶ **473.** To the accusative of a derivative noun-stem in ⟨ā⟩, made from the present-stem which is the general basis of each conjugation, are added, for the active, the perfect active forms of ⟨kṛ⟩ or ⟨as⟩ (or, very rarely, of ⟨bhū⟩); for the middle, only the perfect middle forms of ⟨kṛ⟩. Thus, from ⟨corayati⟩, pf. ⟨corayāmāsa⟩ or ⟨corayāṃcakāra⟩; from ⟨īḍ⟩, ⟨īḍāṃcakre⟩.
+@205
+## Force of the Perfect.
+¶ **474.** In classical Sanskrit the perfect coincides in meaning with the imperfect, as a tense of narration, but is less often met with.
