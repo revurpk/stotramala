@@ -12,6 +12,7 @@ STOTRA = {
     "note": "The Nighaṇṭu, the Vedic word-lists on which Yāska wrote the Nirukta: lists of synonyms (adhyāyas 1–3), obscure words (4) and deities (5). The text is Lakshman Sarup's critical edition (1927). Words in square brackets are found in only part of the manuscripts. Sarup prints svaras, which are not carried here. The glosses are a plain English key to each list.",
     "footer": "Source: Lakshman Sarup, The Nighaṇṭu and the Nirukta: Sanskrit text (University of the Panjab, 1927; public domain), read off the scan on archive.org and converted to IAST; editorial notes in SOURCES §5.30; glosses original",
     "toc": True,
+    "nav": [["Nirukta · contents", "nirukta-iast.html"], ["Nirukta 1 ›", "nirukta-1-iast.html"]],
     "sections": [
     {'heading': 'Adhyāya 1 · the physical world: earth, sky, light, night, dawn, cloud, speech, water, rivers, horses, fire'},
     {'padas': ['gauḥ | gmā | jmā | kṣmā | kṣā | kṣamā | kṣoṇī | kṣitiḥ | avaniḥ | urvī | pṛthvī | mahī | ripaḥ | aditiḥ | iḷā | nirṛtiḥ | bhūḥ | bhūmiḥ | pūṣā | gātuḥ | gotreti pṛthivyāḥ [ gotretyekaviṃśatiḥ pṛthivīnāmadheyāni ]'], 'num': '|| 1 ||', 'gloss': 'Names of the earth — twenty-one.'},

@@ -121,7 +121,8 @@ def main():
         sys.exit(f"khaṇḍas not in the transcription: {sorted(missing)}")
     st = {"deity": "veda", "doc_title": "Nighaṇṭu", "app_title": "Nighaṇṭu", "h1": "Nighaṇṭu",
           "subtitle": "The Vedic word-lists commented on by Yāska · five adhyāyas, 78 khaṇḍas", "note": NOTE,
-          "footer": FOOTER, "toc": True, "sections": secs}
+          "footer": FOOTER, "toc": True, "sections": secs,
+          "nav": [("Nirukta · contents", "nirukta-iast.html"), ("Nirukta 1 ›", "nirukta-1-iast.html")]}
     q = lambda v: repr(v) if isinstance(v, bool) else json.dumps(v, ensure_ascii=False)
     out = ["# -*- coding: utf-8 -*-", "# Copyright 2026 Pradyumna Revur — CC BY 4.0 (see LICENSE)",
            "# Nighaṇṭu, from Sarup's 1927 edition (tools/nirukta/nighantu.txt) → IAST; written by",

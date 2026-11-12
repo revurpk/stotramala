@@ -9,7 +9,7 @@ Each page comes from `tools/stotras/<slug>.py`, a module with one dict named
 | Key | Meaning |
 |---|---|
 | `deity` | folder under `stotra/` (ganesha, vishnu, rama, hanuman, devi, shiva, subrahmanya, venkateshwara, advaita, veda, gita). Required. |
-| `nav` | optional list of `(label, href)` links between the pages of a multi-page work, shown above "all stotras" — e.g. the Gītā's `("‹ chapter 1", "gita-bhashya-01-iast.html")`, `("all chapters", "../../index.html#gita")`. |
+| `nav` | optional list of `(label, href)` links between the pages of a multi-page work — e.g. the Gītā's `("‹ chapter 1", "gita-bhashya-01-iast.html")`, `("all chapters", "../../index.html#gita")`. Shown under the title and again at the foot of the page. For a work registered in `tools/series.py` it is computed, not written (see *Pages of one work* below). |
 | `script` | `"dev"` opens the page in Devanāgarī (use for **accented Vedic** texts; svaras show in Devanāgarī and — drawn with CSS — in Telugu, not in IAST). Omit for the default (IAST). |
 | `src` | `"tel"` marks a **Telugu-source** page (Telugu is the truth, IAST is an aid, no Devanāgarī). Omit for Sanskrit pages. |
 | `doc_title` / `app_title` / `h1` | page `<title>`, PWA name, and heading. Usually identical. |
@@ -177,3 +177,22 @@ STOTRA = {
 
 Use two ornaments to bracket a two-hymn set (e.g. Manyu Sūkta = RV 10.83 + 10.84,
 numbered 1–14 with one ornament between).
+
+## Pages of one work (series navigation)
+
+A work that spans several pages (the Learn lessons, the Nirukta, the Gītā …) is registered
+once in `tools/series.py`; `tools/build_stotra.py` then gives every page of it:
+
+- **‹ previous · contents · next ›** under the title *and* at the foot of the page, so the
+  reader need not scroll back up;
+- a collapsed **jump list** ("all lessons", "all chapters" …) with every page of a short
+  series, the current one in bold.
+
+To add a work: append an entry to `SERIES` (a regex on the slug whose first group is the page's
+number, or an explicit `order` list; the `contents` slug; the words to show; `auto=True` to
+have the prev/contents/next computed, `jump=True` for the jump list). The contents page is an
+ordinary page of its own (`links` sections — see `tools/perry/gen_contents.py` and
+`tools/nirukta/gen_contents.py`); it is not a member of the series. Pages that already carry a
+hand-written `nav` (Bhāgavatam, Rāmāyaṇa, Devī Bhāgavatam, Amarakośa, Gītā, Saptaśatī) keep it
+and gain the foot copy; `auto=False` series only add the jump list. A page without a series
+and without `nav` is built exactly as before.

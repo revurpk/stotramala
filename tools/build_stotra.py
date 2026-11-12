@@ -23,6 +23,9 @@ import importlib.util
 import pathlib
 import sys
 
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+import series                      # navigation between the pages of a work (tools/series.py)
+
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 SHELL = ROOT / "stotra" / "devi" / "durga-saptashloki-iast.html"   # canonical shell source
 DATA_DIR = pathlib.Path(__file__).resolve().parent / "stotras"
@@ -190,6 +193,35 @@ def load_corrections(slug):
     return data
 
 
+def render_nav_line(st, style):
+    """prev · contents · next as one line of links (the nav of a multi-page work)."""
+    return (f'    <p class="guidelink"{style}>' + " · ".join(
+        f'<a href="{esc(h)}">{esc(t)}</a>' for t, h in st["nav"]) + '</p>\n')
+
+
+def render_jump(st, indent="    "):
+    """A collapsed list of every page of the series (st["jump"]), the current one not linked."""
+    j = st.get("jump")
+    if not j:
+        return ""
+    items = " · ".join(f"<b>{esc(t)}</b>" if cur else f'<a href="{esc(h)}">{esc(t)}</a>'
+                       for t, h, cur in j["links"])
+    return (f'{indent}<details class="jump" style="max-width:26rem;margin:.5rem auto 0;text-align:center;">\n'
+            f'{indent}  <summary style="cursor:pointer;font-size:.8rem;opacity:.8;">{esc(j["title"])}</summary>\n'
+            f'{indent}  <p style="font-size:.9rem;line-height:2;margin:.3rem 0 0;">{items}</p>\n'
+            f'{indent}</details>\n')
+
+
+def render_pager(st):
+    """The foot-of-page copy of the nav and jump list (only for pages that have them)."""
+    if not (st.get("nav") or st.get("jump")):
+        return ""
+    return ('\n  <div class="pager" style="margin:2.4rem auto 0;max-width:30rem;text-align:center;">\n'
+            + (render_nav_line(st, ' style="margin:.3rem 0;"') if st.get("nav") else "")
+            + render_jump(st, "    ") + '  </div>\n')
+
+
+
 def render_body(st, slug, asset):
     parts = [
         '\n\n  <header>\n'
@@ -205,8 +237,8 @@ def render_body(st, slug, asset):
         + (f'    <p class="guidelink">▸ <a href="{esc(st["audio"])}" target="_blank" rel="noopener noreferrer">listen: {esc(st.get("audio_label", "recitation"))}</a> <span style="opacity:.7">(YouTube)</span></p>\n' if st.get("audio") else "")
         # Optional links between the parts of a multi-page work (the Gītā's
         # chapters): STOTRA["nav"] = [(label, href-relative-to-this-page), …]
-        + ('    <p class="guidelink">' + " · ".join(
-            f'<a href="{esc(h)}">{esc(t)}</a>' for t, h in st["nav"]) + '</p>\n' if st.get("nav") else "")
+        + (render_nav_line(st, "") if st.get("nav") else "")
+        + render_jump(st)
         + f'    <p class="guidelink"><a href="{asset}index.html">all stotras</a> · <a href="{asset}pronunciation.html">pronunciation guide</a></p>\n'
         '  </header>\n'
     ]
@@ -267,6 +299,8 @@ def render_body(st, slug, asset):
             parts.append(render_learn(sec))
         else:
             parts.append(render_verse(sec, asset))
+    if render_pager(st):
+        parts.append(render_pager(st))
     parts.append(
         '\n  <footer>\n'
         f'    {esc(st["footer"])}\n'
@@ -320,6 +354,7 @@ def load_data(slug):
     spec = importlib.util.spec_from_file_location(slug.replace("-", "_"), path)
     mod = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(mod)
+    series.apply(slug, mod.STOTRA)
     load_words(slug, mod.STOTRA)
     return mod.STOTRA
 
