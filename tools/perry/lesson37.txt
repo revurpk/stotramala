@@ -1,0 +1,148 @@
+# Perry, A Sanskrit Primer. Lesson XXXVII = p. 156 (from the heading) to p. 160 (to the end of the exercise) = leaves n175–n179 of the Cornell scan.
+% Verbs: the nā-class (krīṇāti, gṛhṇāti, jānāti) and the beginning of the root-class (yāti); verses on poets, jewels and gold
+! Perry’s āi and āu are written ai and au; the accent marks that he prints under the vocabulary forms (aśnāti, krīṇāti …) are not carried. The paradigm of krī is given cell by cell with the cerebral ṇ his Devanāgarī shows after r (krīṇā-, krīṇī-); in the imperfect middle he prints a circle (°) for the part that repeats the form above (°ṇi, °ṇīvahi …); it is written out in full here. In § 400 he gives the weak stem as krīṇī and the form before a vowel as krīṇ.
+! § 401: the examples of the 2nd singular imperative in āna are badhāna, aśāna, stabhāna, gṛhāṇa; the first and the third differ from the usual badhnīhi, stabhnīhi, as Perry says. § 402: pū makes punāti, punīte, and grah is weakened to gṛh (gṛhṇāti). § 405 footnote: the ending us in the 3rd pl. impf. is also allowed in a few roots in consonants: 1vid “know”, cakṣ, dviṣ, duh, mṛj. The paradigm of yā puts the indicative and imperfect side by side, and the imperative and optative side by side; they are given as four tables here.
+! Footnotes to the vocabulary (añjali: the two hands hollowed and opened, and raised to the forehead; adyatana: with the suffix tana, sometimes tya, are made adjectives from adverbs, especially of time; thus pratna “ancient”, prātastana “early”, śvastana “of the morrow”) are given whole. In Vocabulary XXXVII Perry marks the numbering of homophones before the root: 2aś (eat), 2pā (protect), 2luṭh, 2vṛ (choose), 1vara (suitor) and 2vara (choice).
+! Exercise XXXVII opens with two verses numbered ॥ 24 ॥ and ॥ 25 ॥ (parakāvyena kavayaḥ … “Poets by another’s verse, and the powerful by another’s wealth, nourish their own work — by stealing — at the present moment”; vivekinam anuprāpya … “Qualities, on reaching a shrewd man, rise to eminence; a jewel set in gold shines the more”), then eight numbered Sanskrit sentences and the English ones 9–21. His English sentence 14 is printed “34.”, a misprint for 14. Sentence 3 is read devānāṃ kopāgniṃ śāntiṃ netuṃ tān stutibhir nalarājo ’prīṇāt (nalarājaḥ, “King Nala”); sentence 4, … tair ukto rājā dhārmikatvam avṛṇīta; sentence 5, somaṃ dṛṣadbhyāṃ sutvādhvaryavas taṃ punantu; sentence 8, lubdham arthena gṛhṇīyāt kruddham añjalikarmaṇā, the first half of the well-known maxim “the greedy by wealth, the angry by folded hands”.
+@175
+## Lesson XXXVII
+¶ **399. Verbs. ⟨nā⟩-class.** The class-sign is in the strong forms the syllable ⟨nā⟩ [⟨ṇā⟩], accented, which is added to the root; in the weak forms it is ⟨nī⟩ [⟨ṇī⟩]; but before an initial vowel of an ending the ⟨ī⟩ of ⟨nī⟩ [⟨ṇī⟩] disappears altogether.
+¶ **400.** Thus, ⟨krī⟩ ‘buy’: strong stem ⟨krīṇā⟩, weak ⟨krīṇī⟩ (before a vowel, ⟨krīṇ⟩).
+¶ Indicative.
+T  | Active sing. | du. | pl. | Middle sing. | du. | pl.
+R 1. | ⟨krīṇāmi⟩ | ⟨krīṇīvas⟩ | ⟨krīṇīmas⟩ | ⟨krīṇe⟩ | ⟨krīṇīvahe⟩ | ⟨krīṇīmahe⟩
+R 2. | ⟨krīṇāsi⟩ | ⟨krīṇīthas⟩ | ⟨krīṇītha⟩ | ⟨krīṇīṣe⟩ | ⟨krīṇāthe⟩ | ⟨krīṇīdhve⟩
+R 3. | ⟨krīṇāti⟩ | ⟨krīṇītas⟩ | ⟨krīṇanti⟩ | ⟨krīṇīte⟩ | ⟨krīṇāte⟩ | ⟨krīṇate⟩
+¶ Imperfect.
+T  | Active sing. | du. | pl. | Middle sing. | du. | pl.
+R 1. | ⟨akrīṇām⟩ | ⟨akrīṇīva⟩ | ⟨akrīṇīma⟩ | ⟨akrīṇi⟩ | ⟨akrīṇīvahi⟩ | ⟨akrīṇīmahi⟩
+R 2. | ⟨akrīṇās⟩ | ⟨akrīṇītam⟩ | ⟨akrīṇīta⟩ | ⟨akrīṇīthās⟩ | ⟨akrīṇāthām⟩ | ⟨akrīṇīdhvam⟩
+R 3. | ⟨akrīṇāt⟩ | ⟨akrīṇītām⟩ | ⟨akrīṇan⟩ | ⟨akrīṇīta⟩ | ⟨akrīṇātām⟩ | ⟨akrīṇata⟩
+¶ Imperative.
+T  | Active sing. | du. | pl. | Middle sing. | du. | pl.
+R 1. | ⟨krīṇāni⟩ | ⟨krīṇāva⟩ | ⟨krīṇāma⟩ | ⟨krīṇai⟩ | ⟨krīṇāvahai⟩ | ⟨krīṇāmahai⟩
+R 2. | ⟨krīṇīhi⟩ | ⟨krīṇītam⟩ | ⟨krīṇīta⟩ | ⟨krīṇīṣva⟩ | ⟨krīṇāthām⟩ | ⟨krīṇīdhvam⟩
+R 3. | ⟨krīṇātu⟩ | ⟨krīṇītām⟩ | ⟨krīṇantu⟩ | ⟨krīṇītām⟩ | ⟨krīṇātām⟩ | ⟨krīṇatām⟩
+¶ Optative.
+T  | Active sing. | du. | pl. | Middle sing. | du. | pl.
+R 1. | ⟨krīṇīyām⟩ | ⟨krīṇīyāva⟩ | ⟨krīṇīyāma⟩ | ⟨krīṇīya⟩ | ⟨krīṇīvahi⟩ | ⟨krīṇīmahi⟩
+R  | etc. | etc. | etc. | etc. | etc. | etc.
+¶ Participle. ⟨krīṇant⟩, f. ⟨krīṇatī⟩; ⟨krīṇāna⟩, f. ⟨-ā⟩.
+¶ **401.** The ending of the 2nd sing. imv. act. is ⟨hi⟩, never ⟨dhi⟩; and there are no examples of its omission. But roots of this class
+@176
+¶ ending in a consonant substitute for both class-sign and ending in this person the peculiar ending ⟨āna⟩; thus, ⟨badhāna⟩, ⟨aśāna⟩, ⟨stabhāna⟩, ⟨gṛhāṇa⟩ (see §§ 402, 403).
+¶ **402.** The roots ending in ⟨ū⟩ shorten that vowel before the class-sign; thus, ⟨pū⟩, ⟨punāti⟩, ⟨punīte⟩. The root ⟨grah⟩ is weakened to ⟨gṛh⟩; thus, ⟨gṛhṇāti⟩.
+¶ **403.** A few roots which have a nasal in some forms outside the present-system, lose it in the present; thus, ⟨grath⟩ or ⟨granth⟩, ⟨grathnāti⟩; ⟨bandh⟩, ⟨badhnāti⟩; ⟨stabh⟩ or ⟨stambh⟩, ⟨stabhnāti⟩. Similarly, ⟨jñā⟩ makes ⟨jānāti⟩.
+¶ **404. Root-class.** In this class there is no class-sign; the root itself is also present-stem, and to it are added directly the personal-endings; in the opt. (and subj.: § 60, end) of course combined with the mode-sign. The root-vowel takes *guṇa*, if capable of it, in the strong forms.
+¶ **405. Roots ending in vowels.** Roots in ⟨ā⟩ of this class are inflected only in the active. In the 3rd pl. impf. act. they may optionally take as ending ⟨us⟩ instead of ⟨an⟩, the ⟨ā⟩ being lost before it.∗
+¶ **406.** Thus, ⟨yā⟩ ‘go’:
+¶ Indicative.
+T  | sing. | du. | pl.
+R 1. | ⟨yāmi⟩ | ⟨yāvas⟩ | ⟨yāmas⟩
+R 2. | ⟨yāsi⟩ | ⟨yāthas⟩ | ⟨yātha⟩
+R 3. | ⟨yāti⟩ | ⟨yātas⟩ | ⟨yānti⟩
+¶ Imperfect.
+T  | sing. | du. | pl.
+R 1. | ⟨ayām⟩ | ⟨ayāva⟩ | ⟨ayāma⟩
+R 2. | ⟨ayās⟩ | ⟨ayātam⟩ | ⟨ayāta⟩
+R 3. | ⟨ayāt⟩ | ⟨ayātām⟩ | ⟨ayān⟩ or ⟨ayus⟩
+¶ ∗ The same ending is also allowed and met with in a few roots ending in consonants; viz. 1⟨vid⟩ ‘know’, ⟨cakṣ⟩, ⟨dviṣ⟩, ⟨duh⟩, ⟨mṛj⟩.
+@177
+¶ Imperative.
+T  | sing. | du. | pl.
+R 1. | ⟨yāni⟩ | ⟨yāva⟩ | ⟨yāma⟩
+R 2. | ⟨yāhi⟩ | ⟨yātam⟩ | ⟨yāta⟩
+R 3. | ⟨yātu⟩ | ⟨yātām⟩ | ⟨yāntu⟩
+¶ Optative.
+T  | sing. | du. | pl.
+R 1. | ⟨yāyām⟩ | ⟨yāyāva⟩ | ⟨yāyāma⟩
+R 2. | ⟨yāyās⟩ | ⟨yāyātam⟩ | ⟨yāyāta⟩
+R 3. | ⟨yāyāt⟩ | ⟨yāyātām⟩ | ⟨yāyus⟩
+¶ Participle. ⟨yānt⟩, f. ⟨yāntī⟩ or ⟨yātī⟩ (260).
+## Vocabulary XXXVII
+¶ Verbs:
+V aś | 2 (⟨aśnāti⟩) eat. | తిను
+V krī | (⟨krīṇāti⟩, ⟨krīṇīte⟩) buy. | కొను
+V granth | (⟨grathnāti⟩) string together; compose. | గుచ్చు; రచించు
+V grah | (⟨gṛhṇāti⟩, ⟨gṛhṇīte⟩) take, seize. | తీసుకొను, పట్టుకొను
+V grah | + ⟨ni⟩ hold, restrain, check. | అదుపు చేయు, నిగ్రహించు
+V grah | + ⟨prati⟩ take, receive. | స్వీకరించు
+V jñā | (⟨jānāti⟩, ⟨jānīte⟩) know. | తెలుసుకొను
+V jñā | + ⟨anu⟩ allow, permit. | అనుమతించు
+V pā | 2 (⟨pāti⟩) protect. | కాపాడు
+V puṣ | (⟨puṣṇāti⟩) make increase or grow. | పోషించు, పెంచు
+V pū | (⟨punāti⟩, ⟨punīte⟩) clean. | శుద్ధి చేయు
+V prī | (⟨prīṇāti⟩, ⟨prīṇīte⟩), act., delight; mid., rejoice. | సంతోషపెట్టు; (ఆత్మనేపదంలో) సంతోషించు
+V plu | + ⟨ā⟩ (⟨āplavate⟩) drench. | తడుపు
+V bandh | (⟨badhnāti⟩, ⟨badhnīte⟩) bind; catch; join; compose. | కట్టు; పట్టుకొను; కలుపు; కూర్చు
+V bhā | (⟨bhāti⟩) gleam, glance. | ప్రకాశించు, మెరుయు
+V mā | (⟨māti⟩) measure. | కొలుచు
+V mā | + ⟨nis⟩ work, create. | నిర్మించు
+V muṣ | (⟨muṣṇāti⟩) steal, rob. | దొంగిలించు, దోచుకొను
+V luṭh | 2 (⟨luṇṭh⟩) + ⟨nis⟩ steal. | దొంగిలించు
+V vṛ | 2 (⟨vṛṇīte⟩: also ⟨varayati⟩, ⟨-te⟩) choose. | ఎంచుకొను
+V śiṣ | + ⟨ud⟩ remain over. | మిగులు
+V stṛ | (⟨stṛṇāti⟩, ⟨stṛṇīte⟩; see also in Vocab. XXXV) strew. | చల్లు, పరచు
+V snā | (⟨snāti⟩) bathe. | స్నానం చేయు
+V han | + ⟨apa⟩ remove. | తొలగించు
+¶ Subst.:
+V añjali | m., a gesture of respectful greeting.∗ | అంజలి (గౌరవ నమస్కారం)
+V icchā | f., wish. | కోరిక
+V udaya | m., rise. | ఉదయం, ఉదయించుట
+V kalā | f., crescent. | కళ (చంద్రకళ)
+V kṛti | f., work (literary). | కృతి, రచన
+V kośa | m., treasure; treasury. | నిధి; ఖజానా
+V kṣaṇa | m., n., moment; time. | క్షణం; సమయం
+V cāmīkara | n., gold. | బంగారం
+V dānava | m., demon. | దానవుడు
+V nāga | m., snake. | పాము
+V netra | n., leading-rope, cord. | తాడు, ప్రేరక రజ్జువు
+V manthan | (§ 278) m., stirring-stick. | కవ్వం
+V mandara | m., *n. pr.*, a mountain. | మందర పర్వతం
+V yūpa | m., sacrificial post. | యూపస్తంభం
+V lalāṭa | n., forehead. | నుదురు
+V vara | 1 (⟨vara⟩) m., suitor, bridegroom. | వరుడు
+V vara | 2 (⟨vāra⟩) m., choice, privilege, favor. | వరం, ఎంపిక
+V śeṣa | m., *n. pr.*, a snake-demon who supports the earth. | శేషుడు
+V samunnati | f., height, elevation; high position. | ఉన్నతి, ఔన్నత్యం
+¶ Adj.:
+V adyatana | of to-day.∗ | నేటి
+V dhārmika | right, just. | ధార్మికుడు, న్యాయమైన
+V prasanna | (part. of ⟨pra-sad⟩) kindly disposed. | ప్రసన్నుడు
+V vid | knowing. | తెలిసినవాడు
+V vivekin | shrewd. | వివేకి
+¶ Adv.:
+V samakṣam | before, in the presence of (*w. gen.*). | ఎదుట (షష్ఠితో)
+¶ ∗ añjali: the two hands hollowed and opened, and raised to the forehead.
+¶ ∗ adyatana: with the suffix ⟨tana⟩ (sometimes ⟨tya⟩) are made adjectives from adverbs, especially of time; thus, ⟨pratna⟩ ‘ancient’, ⟨prātastana⟩ ‘early’, ⟨śvastana⟩ ‘of the morrow’.
+## Exercise XXXVII
+¶ The exercise opens with two verses (the translations are the editor’s):
+S 24a | parakāvyena kavayaḥ paradravyeṇa ceśvarāḥ | Poets by another’s verse, and the powerful by another’s wealth, | కవులు ఇతరుల కావ్యంతో, సంపన్నులు ఇతరుల ధనంతో,
+S 24b | nirluṇṭhitena svakṛtiṃ puṣṇanty adyatane kṣaṇe | nourish their own work by what is stolen, at the present time. | దొంగిలించిన దానితో తమ సొంత కృతిని ఈ కాలంలో పోషించుకుంటారు.
+S 25a | vivekinam anuprāpya guṇā yānti samunnatim | Qualities, on reaching a shrewd man, rise to eminence; | వివేకిని చేరి గుణాలు ఔన్నత్యాన్ని పొందుతాయి;
+S 25b | sutarāṃ ratnam ābhāti cāmīkaraniyojitam | a jewel set in gold shines all the more. | బంగారంలో పొదిగిన రత్నం మరింత ప్రకాశిస్తుంది.
+¶ Into English (the translations under each sentence are the editor’s, in English and Telugu):
+S 1 | yajñaṃ vidhātum icchan yajamānaḥ prathamaṃ vedavid ṛtvijo vṛṇītām | Let the sacrificer, wishing to perform a sacrifice, first choose Veda-knowing priests. | యజ్ఞం చేయదలచిన యజమాని మొదట వేదం తెలిసిన ఋత్విజులను ఎంచుకొనుగాక.
+S 2 | yajñeṣu paśūn svalaṅkṛteṣu yūpeṣu rajjubhir badhnanti | At sacrifices they bind the animals with ropes to the well-adorned sacrificial posts. | యజ్ఞాలలో చక్కగా అలంకరించిన యూపస్తంభాలకు పశువులను తాళ్ళతో కడతారు.
+S 3 | devānāṃ kopāgniṃ śāntiṃ netuṃ tān stutibhir nalarājo 'prīṇāt | To bring the fire of the gods’ anger to rest, King Nala pleased them with praises. | దేవతల కోపాగ్నిని శాంతింపజేయడానికి నల రాజు స్తుతులతో వారిని సంతోషపెట్టాడు.
+S 4 | prasannā vayaṃ varaṃ vṛṇīdhveti tair ukto rājā dhārmikatvam avṛṇīta | Told by them, “We are pleased; choose a boon,” the king chose righteousness. | “మేము ప్రసన్నులమయ్యాము; వరం ఎంచుకోండి” అని వారు చెప్పగా రాజు ధార్మికత్వాన్ని ఎంచుకున్నాడు.
+S 5 | somaṃ dṛṣadbhyāṃ sutvādhvaryavas taṃ punantu | Having pressed the soma with the two stones, let the adhvaryus purify it. | సోమాన్ని రెండు రాళ్ళతో పిండి అధ్వర్యులు దానిని శుద్ధి చేయుదురు గాక.
+S 6 | mandaraparvataṃ manthānaṃ śeṣanāgaṃ ca netraṃ kṛtvā devadānavā amṛtārthaṃ kṣīrodadhim amathnan | Making Mount Mandara the churning-stick and the serpent Śeṣa the rope, the gods and demons churned the ocean of milk for nectar. | మందర పర్వతాన్ని కవ్వంగా, శేషనాగును తాడుగా చేసుకొని దేవదానవులు అమృతం కోసం పాలసముద్రాన్ని మథించారు.
+S 7 | yathā sūrya udaye bhāti tathā pāpāny apahatya gaṅgājalāplutā narā vibhānti | As the sun shines at its rising, so men who have removed their sins and are bathed in the water of the Ganges shine. | సూర్యుడు ఉదయంలో ప్రకాశించినట్లు పాపాలను తొలగించుకొని గంగాజలంలో స్నానం చేసిన మనుషులు ప్రకాశిస్తారు.
+S 8 | lubdham arthena gṛhṇīyāt kruddham añjalikarmaṇā | One should win the greedy with wealth, the angry with folded hands. | లోభిని ధనంతో, కోపిష్టిని అంజలితో వశపరచుకోవాలి.
+¶ Into Sanskrit (an answer under each, the editor’s, with its Telugu). Perry’s hints in brackets are kept in the English; his sentence 14 is misprinted “34”.
+@179
+E 9 | Allow me to go now. | adhunā gantuṃ mām anujānīhi | ఇప్పుడు వెళ్ళడానికి నాకు అనుమతి ఇవ్వు.
+E 10 | Take these jewels which I have given you (*pass. constr.*). | yāni ratnāni mayā tubhyaṃ dattāni tāni gṛhāṇa | నేను నీకు ఇచ్చిన ఈ రత్నాలను తీసుకో.
+@180
+E 11 | Let the great poet weave (⟨granth⟩, ⟨bandh⟩) a verse-wreath of word-pearls (*instr.*). | mahākaviḥ śabdamuktābhiḥ padyamālāṃ grathnātu | మహాకవి పదముత్యాలతో పద్యమాలను గుచ్చుగాక.
+E 12 | Every-day two thieves robbed the king’s treasury. | pratidinaṃ stenau rājñaḥ kośam amuṣṇītām | ప్రతిరోజూ ఇద్దరు దొంగలు రాజు ఖజానాను దోచుకున్నారు.
+E 13 | He who receives (*part.*) gifts from every one is polluted (⟨duṣ⟩). | yaḥ sarvasmāt pratigṛhṇan dānāni sa duṣyati | ప్రతి ఒక్కరి నుండి దానాలు స్వీకరించేవాడు కలుషితమవుతాడు.
+E 14 | The Creator formed the world by his will (⟨svecchayā⟩) alone. | dhātā svecchayaiva jagad niramāt | సృష్టికర్త తన సంకల్పం చేతనే లోకాన్ని నిర్మించాడు.
+E 15 | Betake thyself (⟨yā⟩) for salvation to the gods’ protection. | mokṣāya devānāṃ śaraṇaṃ yāhi | ముక్తి కోసం దేవతల శరణు పొందు.
+E 16 | Let kings restrain the wicked by punishments. | nṛpā daṇḍaiḥ pāpān nigṛhṇantu | రాజులు శిక్షలతో దుష్టులను అదుపు చేయుదురు గాక.
+E 17 | We saw Rāma’s daughter coming out (*pres. part.*) of the house. | vayaṃ rāmasya duhitaraṃ gṛhān niryāntīm apaśyāma | మేము రాముని కూతురు ఇంటి నుండి బయటికి వస్తుండగా చూశాము.
+E 18 | Let the bridegroom grasp the maiden’s hand before the fire. | varo 'gneḥ samakṣaṃ kanyāyāḥ pāṇiṃ gṛhṇātu | వరుడు అగ్ని సాక్షిగా కన్య చేతిని పట్టుకొనుగాక.
+E 19 | An Aryan must not eat another’s leavings (⟨ud-śiṣ⟩, *pass. part.*, *neut. sing.*). | dvijo 'nyasyocchiṣṭaṃ nāśnīyāt | ద్విజుడు ఇతరుల ఎంగిలిని తినకూడదు.
+E 20 | One must bathe daily in unconfined (*part. from* ⟨ni-rudh⟩) water. | pratidinam aniruddhe jale snāyāt | ప్రతిరోజూ అడ్డులేని నీటిలో స్నానం చేయాలి.
+E 21 | May the three-eyed *god*, the great-lord (⟨īśvara⟩) whose-forehead-is-adorned-with-the-crescent, protect you. | trinetro devo maheśvaraḥ kalālaṅkṛtalalāṭas tvāṃ pātu | మూడు కన్నుల దేవుడు, చంద్రకళతో అలంకరించిన నుదురు గల మహేశ్వరుడు నిన్ను కాపాడుగాక.
