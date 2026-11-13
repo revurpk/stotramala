@@ -2432,7 +2432,7 @@ Editorial notes (the text is Wikisource’s, kept as it stands except for the po
 
 Editorial notes:
 - Numbers are the source’s (2.1 … 2.102), shown without the leading “2.”; verses marked with an asterisk are set apart as additions in the source’s numbering.
-- In the source ॐ stands for the syllable *om* (the source’s typing of *komala*, *romāvali* and the like); these are read *komalaṃ* and *romāvaliḥ*, *kaumudī* is read for the source’s *kॐudī*, and in 2.13 and 2.7 *kuñcita*, *vakṣoja* replace the source’s *kuṣcita*, *bakṣoja*. The avagraha is written as an inverted comma; interjection marks are dropped.
+- In the source ॐ stands for the syllable *om* (the source’s typing of *komala*, *romāvali* and the like); these are read *komalaṃ* and *romāvaliḥ*, *kaumudī* is read for the source’s *kॐudī*, and in 2.3 and 2.5 *kuñcita*, *vakṣoja* replace the source’s *kuṣcita*, *bakṣoja*. The avagraha is written as an inverted comma; interjection marks are dropped.
 - The Sanskrit of the source is garbled in several verses (2.27–2.29, 2.33, 2.34, 2.37, 2.101 and a few others: broken sandhi, lost words). It is given as it stands, and the English and Telugu of those verses say that the text is corrupt and give the general sense only.
 - The pāda divisions follow the source’s line breaks, which in a few verses (for example 2.8) do not match the metre.
 - The English and Telugu translations are original.
