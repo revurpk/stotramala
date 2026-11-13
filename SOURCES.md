@@ -2416,7 +2416,7 @@ The pages give each root with its number, the root in IAST, its meaning in Sansk
 Editorial notes (the text is Wikisource’s, kept as it stands except for the points below):
 - The first two verses carry no number in the source: a benediction (*dikkālādyanavacchinna…*) and the poet’s well-known verse on his disappointed love (*yāṃ cintayāmi satatam…*). They are given without a badge.
 - The source’s numbering jumps from 6 to 8, with no verse 7; the numbers are kept as printed and no verse is supplied.
-- The avagraha (ऽ) is written as an inverted comma. Printing slips of the source were corrected: *gṛdyṇāti* to *gṛhṇāti* (49), *nāḍkitaḥ* to *nāṅkitaḥ* (54), *kṛcchgato* to *kṛcchragato* (30), *prīrtigurau* to *prītirgurau* (62). Interjection marks (“!”) and the connective *api ca -* at the head of verses 41 and 95 are dropped.
-- Verses are kept in the source’s word-joining: long runs of sandhi are not divided, and a few lines of the source (verse 18, 34, 36) have a short prose lead-in that is dropped.
+- The avagraha (ऽ) is written as an inverted comma. Printing slips of the source were corrected: *gṛdyṇāti* to *gṛhṇāti* (49), *nāḍkitaḥ* to *nāṅkitaḥ* (54), *kṛcchgato* to *kṛcchragato* (30), *prīrtigurau* to *prītirgurau* (62). Interjection marks (“!”) and the connective *api ca -* at the head of verses 18, 41 and 95 are dropped.
+- Verses are kept in the source’s word-joining: long runs of sandhi are not divided.
 - The English and Telugu translations are original; the Telugu follows the English closely.
 - The Śṛṅgāra- and Vairāgya-śatakas have been transcribed in `tools/subhashita/` but are not yet translated, so they are not published.
