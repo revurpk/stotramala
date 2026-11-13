@@ -50,8 +50,8 @@ SERIES = [
          jump_label=lambda n: _PERRY_JUMP.get(n) or roman(n), auto=True, jump=True),
     dict(id="dhatu", pat=r"dhatu-(\d+)$", contents="dhatu", contents_label="all parts",
          label=lambda n: f"part {n}", jump_title="all parts", jump_label=lambda n: str(n), auto=True, jump=True),
-    dict(id="subhashita", pat=None, jump_title="the three śatakas", auto=False, jump=True,
-         order=["subhashita-niti", "subhashita-shringara", "subhashita-vairagya"],
+    dict(id="subhashita", pat=None, jump_title="the śatakas", auto=False, jump=True,
+         order=["subhashita-niti", "subhashita-shringara", "subhashita-vairagya", "subhashita-sumati", "subhashita-vemana"],
          jump_label=lambda n: n),
     dict(id="nirukta", pat=r"nirukta-(\d+)$", contents="nirukta", contents_label="Nirukta · contents",
          label=lambda n: "pariśiṣṭa" if n == 13 else f"adhyāya {n}", jump_title="all adhyāyas",
@@ -64,7 +64,7 @@ SERIES = [
          jump_label=lambda n: n),
 ]
 
-_JUMP_NAMES = {"subhashita-niti": "nīti", "subhashita-shringara": "śṛṅgāra", "subhashita-vairagya": "vairāgya", "saptashati-purva": "pūrva", "saptashati-sukta": "sūkta", "saptashati-uttara": "uttara"}
+_JUMP_NAMES = {"subhashita-niti": "nīti", "subhashita-shringara": "śṛṅgāra", "subhashita-vairagya": "vairāgya", "subhashita-sumati": "sumati", "subhashita-vemana": "vemana", "saptashati-purva": "pūrva", "saptashati-sukta": "sūkta", "saptashati-uttara": "uttara"}
 
 
 def _members(s):

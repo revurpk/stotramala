@@ -2450,3 +2450,31 @@ Editorial notes:
 - In the source ॐ stands for the syllable *om*; it is read *vyoma* (100) and *komalaiḥ* (100*1). In 71*1 the source’s *niḥsॐaśarma* is read *niḥsomaśarma*, which is almost certainly not what the poet wrote (probably *niḥsīma*, “boundless”), but it is given as the source has it. *néṇām* in the source is read *nṛṇām* (31, 49). The avagraha is written as an inverted comma; interjection marks are dropped.
 - The Sanskrit of the source is garbled in several verses (3.4, 3.8*1, 3.39*1, 3.59, 3.61*1, 3.62, 3.71*1, 3.81 and the three unnumbered verses). It is given as it stands; the English and Telugu of those verses say that the text is corrupt and give the general sense only.
 - The English and Telugu translations are original.
+
+### 9.4 Sumati Śatakamu — `stotra/subhashita/subhashita-sumati-iast.html`
+
+| Field | Value |
+|---|---|
+| Work | *Sumati Śatakamu*, attributed to Baddena (Bhadrabhūpāla): 110 verses as the source numbers them |
+| Source | Telugu Wikisource, pages *సుమతీ శతకము* and *సుమతీ శతకము - రెండవభాగం*, fetched 2026-11-12 as raw wikitext |
+| Recorded | 2026-11-12 |
+| Text status | public domain |
+
+Editorial notes:
+- A Telugu-source page (`src: "tel"`): the Telugu is kept as the source has it, with the IAST as a reading aid; the source’s “భావం” (meaning) notes are not used.
+- The source numbers 110 verses; 109 and 110 are variant readings of verses 4 and 27 and are kept, marked as variants in the English. The stray “[85]”, “[105]” markers of the source are removed.
+- The English translations are original. The Telugu is in archaic orthography with many obscure words, and several verses (for example 14, 33, 77, 95) are translated loosely; they should be read as a guide to the sense, not a literal rendering.
+
+### 9.5 Vemana Śatakamu (a selection) — `stotra/subhashita/subhashita-vemana-iast.html`
+
+| Field | Value |
+|---|---|
+| Work | A hundred verses of the Telugu poet Vemana, selected by the editor from the Wikisource collection (*వేమన పద్యాలు*, about 1,360 poems arranged by initial letter); there is no traditional “Vemana Śatakamu” of exactly this content |
+| Source | Telugu Wikisource, *వేమన పద్యాలు* (the pages by initial letter), fetched 2026-11-12 as raw wikitext |
+| Recorded | 2026-11-12 |
+| Text status | public domain |
+
+Editorial notes:
+- The selection favours the best-known and most characteristic verses; it is the editor’s, and the order is that of the Wikisource text (alphabetical by first word).
+- The Telugu is kept as the source has it; the collection contains many variant versions of the same poem, and the one printed there is used. Verse 37 of the page ends with “వేమా!”, which differs from the usual refrain. Verse 311 of the Wikisource list runs into the next poem and only its four lines are taken.
+- The English translations are original and, because the Telugu is archaic and often obscure (a number of verses, especially 53–55, 72, 77 and 84, are translated loosely), should be read as a guide to the sense.
