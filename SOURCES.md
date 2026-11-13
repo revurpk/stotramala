@@ -2476,5 +2476,5 @@ Editorial notes:
 
 Editorial notes:
 - The selection favours the best-known and most characteristic verses; it is the editor’s, and the order is that of the Wikisource text (alphabetical by first word).
-- The Telugu is kept as the source has it; the collection contains many variant versions of the same poem, and the one printed there is used. Verse 37 of the page ends with “వేమా!”, which differs from the usual refrain. Verse 311 of the Wikisource list runs into the next poem and only its four lines are taken.
+- The Telugu is kept as the source has it; the collection contains many variant versions of the same poem, and the one printed there is used. One poem (the Wikisource entry for *కాదు కాదు గురులు*) runs into the next on the source page; only its own four lines are taken. Verse 37 of the page (*కర్మము జ్ఞానికి*) closes with “వేమా!” rather than the usual refrain.
 - The English translations are original and, because the Telugu is archaic and often obscure (a number of verses, especially 53–55, 72, 77 and 84, are translated loosely), should be read as a guide to the sense.
