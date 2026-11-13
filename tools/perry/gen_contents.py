@@ -14,6 +14,9 @@ from gen_perry import ROMAN, TITLES  # noqa: E402
 
 def main():
     links, last = [], 0
+    if (HERE / "intro.txt").exists():
+        m = re.search(r"^%\s*(.+)$", (HERE / "intro.txt").read_text(encoding="utf-8"), re.M)
+        links.append(("Introduction (§§ 1–91)", "perry-intro-iast.html", m.group(1).strip() if m else ""))
     for f in sorted(HERE.glob("lesson[0-9][0-9].txt")):
         nn = int(f.stem[6:])
         m = re.search(r"^%\s*(.+)$", f.read_text(encoding="utf-8"), re.M)

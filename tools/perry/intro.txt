@@ -1,0 +1,217 @@
+# Perry, A Sanskrit Primer. Introduction §§ 1–91 = pp. 1–23 = leaves n20–n42 of the Cornell scan. The introduction has no vocabulary or exercise.
+% The alphabet and writing; the sounds; guṇa and vṛddhi; roots, accent, the verb and its classes; the noun and its cases (§§ 1–91)
+! Perry’s Devanāgarī letters and examples are given in IAST inside the Sanskrit marks, so that they follow the script switch. Where Perry shows the shape of a sign (the hooks of i and u, the virāma, the conjunct signs, the avagraha, the numerals, the stroke order) the sign itself cannot be drawn in this setting, and the syllable or group it makes is given instead. Perry’s ç is written ś, his ai and au (āi, āu in his print) are written ai and au, and the vowel he writes with a dot below is written ḷ.
+! §1: the alphabet is given as two tables, the vowels and the consonants, with Perry’s column heads (“surd”, “surd asp.”, “sonant”, “sonant asp.”, “nasal”) kept. §5: the two Devanāgarī writings of the sentence (syllable by syllable, and run together) are given as the syllables and as one run of letters.
+! §§9–14: the conjuncts are read off the printed signs and given as the syllables they make; the OCR text of the scan is badly damaged there, so each was read from the page image. §19: the numerals 1–9 and 0 and the examples 24, 485, 7620 are given in ordinary figures. §20: the stroke-order figures are not drawn.
+! §16: the avagraha is shown as the inverted comma (’). §78: the examples are read as printed (dviṣ ‘hate’, juhu from hu, dadā from dā, ruṇadh with rundh, sunu, tanu, krīṇā and krīṇī, bhava, tuda, divya, adya, rudhya); the accent marks of these stems are not carried. “See note, p. 32” is Perry’s reference to a note in Lesson XXXI.
+@20
+## Introduction.
+## Alphabet.
+¶ **1.** Sanskrit is commonly written in what is called the *Devanāgarī* alphabet. The characters of this, and the European characters which will be used in transliterating them, are as follows:
+## Vowels.
+T  | short | long
+R simple: a-vowel | ⟨a⟩ | ⟨ā⟩
+R simple: palatal | ⟨i⟩ | ⟨ī⟩
+R simple: labial | ⟨u⟩ | ⟨ū⟩
+R simple: lingual | ⟨ṛ⟩ | ⟨ṝ⟩
+R simple: dental | ⟨ḷ⟩ |
+R diphthongs: palatal | | ⟨e⟩ ⟨ai⟩
+R diphthongs: labial | | ⟨o⟩ ⟨au⟩
+¶ *Visarga*: ⟨aḥ⟩ (ḥ). *Anusvāra*: ⟨aṃ⟩ (ṅ or ṃ).
+## Consonants.
+T  | surd | surd asp. | sonant | sonant asp. | nasal
+R Mutes: guttural | ⟨ka⟩ | ⟨kha⟩ | ⟨ga⟩ | ⟨gha⟩ | ⟨ṅa⟩
+R Mutes: palatal | ⟨ca⟩ | ⟨cha⟩ | ⟨ja⟩ | ⟨jha⟩ | ⟨ña⟩
+R Mutes: lingual | ⟨ṭa⟩ | ⟨ṭha⟩ | ⟨ḍa⟩ | ⟨ḍha⟩ | ⟨ṇa⟩
+R Mutes: dental | ⟨ta⟩ | ⟨tha⟩ | ⟨da⟩ | ⟨dha⟩ | ⟨na⟩
+R Mutes: labial | ⟨pa⟩ | ⟨pha⟩ | ⟨ba⟩ | ⟨bha⟩ | ⟨ma⟩
+@21
+¶ Semivowels: palatal ⟨ya⟩, lingual ⟨ra⟩, dental ⟨la⟩, labial ⟨va⟩. Sibilants: palatal ⟨śa⟩, lingual ⟨ṣa⟩, dental ⟨sa⟩. Aspiration ⟨ha⟩.
+¶ **2.** The above order is that in which the sounds are catalogued by native grammarians; and European scholars have adopted it as the alphabetic order, for dictionaries, etc. The writing runs from left to right.
+¶ **3.** The theory of the *devanāgarī* mode of writing is syllabic and consonantal. That is, it regards as the written unit, not the simple sound, but the syllable; and further, it regards as the substantial part of the syllable the consonant (or the consonants) preceding the vowel — this latter being merely implied, as is the case with short ⟨a⟩, except when initial, or, if written, being written by a subordinate sign attached to the consonant.
+¶ **4.** Hence follow these two principles:
+¶ *A.* The forms of the vowel-characters given above are used only when the vowel forms a syllable by itself, or is not combined with a preceding consonant: that is, when it is initial, or preceded by another vowel. In combination with a consonant, other modes of representation are used.
+¶ *B.* If more than one consonant precede a vowel, forming with it a single syllable, their characters must be combined into a single character.
+¶ **5.** According to the Hindu mode of dividing syllables, each syllable must end in a vowel, or *visarga*, or *anusvāra*, except at the end of the word; and as ordinary Hindu usage does not divide the words of a sentence in writing, a final consonant is combined into one syllable with the initial vowel or consonant of the following word, so that a syllable ends in a consonant only at the end of the sentence.
+@22
+¶ Thus the sentence *kṣetreṣu siktābhir meghānām adbhir dhānyam prarūḍham* — ‘by the water which drops from the clouds upon the fields the grain grows tall’ — would be considered as consisting of the syllables ⟨kṣe⟩ ⟨tre⟩ ⟨ṣu⟩ ⟨si⟩ ⟨ktā⟩ ⟨bhi⟩ ⟨rme⟩ ⟨ghā⟩ ⟨nā⟩ ⟨ma⟩ ⟨dbhi⟩ ⟨rdhā⟩ ⟨nyam⟩ ⟨pra⟩ ⟨rū⟩ ⟨ḍham⟩. Each of these syllables would be indicated by a single group of signs, without any reference whatever to the division of the words composing the sentence; and the syllables are always written independently, with more or less closeness of approach; either like this: ⟨kṣe tre ṣu si ktā bhi rme ghā nā ma dbhi rdhā nyam pra rū ḍham⟩ — or thus: ⟨kṣetreṣusiktābhirmeghānāmadbhirdhānyamprarūḍham⟩.
+¶ **6.** In Sanskrit works printed in Europe, the common practice is to separate the words so far as this can be done without any alteration of the written form. Thus, ⟨indrāya namaḥ⟩ *indrāya namaḥ*; but ⟨tatsavitur vareṇyam⟩ *tat savitur vareṇyam*, because the final ⟨t⟩ and ⟨r⟩ are not written with their full forms. But some few works have been printed, in which, by a free use of a sign called *virāma* (see below, § 8), the individual words are separated. In transliterated texts there is no good reason for printing otherwise than with all the words separated.
+¶ **7.** *Under A.* Vowels combined with preceding consonants are written as follows:
+¶ 1. *a:* Short *a* has no written sign at all; the consonant-sign itself implies a following *a*, unless some other vowel-sign is attached to it (or else the *virāma* — see below, § 8). Thus the consonant-signs given above are really the signs for ⟨ka⟩, ⟨kha⟩, ⟨ca⟩, ⟨cha⟩, etc. (as far as ⟨ha⟩).
+¶ 2. *ā:* ⟨kā⟩, ⟨cā⟩, ⟨dhā⟩ etc.
+¶ 3. *i* and *ī:* ⟨ki⟩, ⟨pi⟩, ⟨dhi⟩. — ⟨kī⟩, ⟨pī⟩, ⟨dhī⟩. The hook above, turning to the left or to the right, is historically the essential part of the character, having been originally
+@23
+¶ the whole of it: the hooks were only later prolonged, so as to reach all the way down beside the consonant. Observe that the *i*-hooks and the *u*-hooks, respectively above and below the line, are analogous in turning to the left for the short vowel and to the right for the long.
+¶ 4. *u* and *ū:* ⟨ku⟩, ⟨cu⟩, ⟨bu⟩. — ⟨kū⟩, ⟨cū⟩, ⟨bhū⟩. Owing to the necessities of combination, consonant and vowel-sign are sometimes disguised; thus, ⟨du⟩, ⟨dū⟩; ⟨ru⟩, ⟨rū⟩; ⟨hu⟩, ⟨hū⟩.
+¶ 5. *ṛ* and *ṝ:* ⟨kṛ⟩, ⟨pṛ⟩. — ⟨kṝ⟩, ⟨tṝ⟩. With the *h*-sign, the vowel-hook is usually attached to the middle; thus, ⟨hṛ⟩. 6. *ḷ:* ⟨kḷ⟩.
+¶ 7. Diphthongs. *e:* ⟨ke⟩, ⟨pe⟩, ⟨ye⟩. *ai:* ⟨kai⟩, ⟨dhai⟩. *o:* ⟨ko⟩, ⟨bho⟩. *au:* ⟨kau⟩, ⟨rau⟩.
+¶ In some printed texts the signs for *o* and *au* are separated, the stroke being placed over the consonant-sign, and not over the perpendicular stroke; thus, ⟨ko⟩, ⟨kau⟩.
+¶ **8.** A consonant-sign may be made to signify the sound of that consonant alone, without an added vowel, by writing beneath it a stroke called the *virāma* (‘rest’, ‘stop’); thus, ⟨k⟩, ⟨h⟩, ⟨d⟩. Strictly, the *virāma* should be used only at the end of a sentence; but it is often used by scribes, or in print, in the middle of a word or sentence, to avoid awkward or difficult combinations; thus, ⟨liḍbhiḥ⟩, ⟨liṭsu⟩.
+¶ **9.** *Under B.* The combinations of consonants are in general not difficult. The perpendicular and horizontal lines are common to almost all; and if two or more are to be combined, the following method is pursued. The characteristic part of a consonant-sign that is to be added to another is taken (to the exclusion of the perpendicular or of the horizontal framing-line, or of both), and they are put together according to convenience, either side by side,
+@24
+¶ or one above the other: in some combinations either arrangement is allowed. The consonant to be pronounced first is set first in the one arrangement, and above in the other arrangement. Only the consonant at the right of a horizontal group, and that at the top of a perpendicular group, are written in full.
+¶ Examples of the horizontal arrangement are: ⟨gga⟩, ⟨jja⟩, ⟨pya⟩, ⟨nma⟩, ⟨ttha⟩, ⟨bhya⟩, ⟨ska⟩, ⟨ṣṇa⟩.
+¶ Examples of the perpendicular arrangement are: ⟨kka⟩, ⟨cca⟩, ⟨kva⟩, ⟨ñja⟩, ⟨pta⟩, ⟨tna⟩.
+¶ **10.** In some combinations there is more or less abbreviation or disguise of the independent form of a consonant-sign.
+¶ Thus, of ⟨k⟩ in ⟨kta⟩; and in ⟨kṇa⟩, ⟨kya⟩ etc.; of ⟨t⟩ in ⟨tta⟩; of ⟨d⟩ in ⟨dga⟩, ⟨dda⟩, ⟨ddha⟩, ⟨dbha⟩ etc.; of ⟨m⟩ and ⟨y⟩, when following other consonants; thus, ⟨kya⟩, ⟨kma⟩, ⟨ñma⟩, ⟨dma⟩, ⟨dya⟩, ⟨hma⟩, ⟨hya⟩, ⟨ṭhya⟩, ⟨ḍhya⟩; of ⟨ś⟩, which generally becomes a shorter form when followed by a consonant; thus, ⟨śca⟩, ⟨śna⟩, ⟨śla⟩, ⟨śya⟩. The same change is usual when a vowel-sign is added below; thus, ⟨śu⟩, ⟨śṛ⟩.
+¶ **11.** Other combinations, of not quite obvious value, are ⟨nna⟩, ⟨ṣṭa⟩, ⟨ṣṭha⟩; and the compounds of ⟨h⟩, as ⟨hṇa⟩, ⟨hna⟩.
+¶ **12.** In a case or two, no trace of the constituent letters is recognizable; thus, ⟨kṣa⟩, ⟨jña⟩.
+¶ **13.** The semivowel ⟨r⟩, in making combinations with other consonants, is treated in a wholly peculiar manner, analogous with that of the vowels. 1. As the first of a group of consonants it is written with a hook above, opening to the right (like the subjoined sign of ṛ); thus, ⟨rka⟩, ⟨rpta⟩. When a compound consonant
+@25
+¶ thus containing *r* as its first member is followed by one of the vowels *i*, *ī*, *e*, *o*, *ai*, *au*, with or without a nasal symbol, the *r*-sign must stand at the extreme right; thus, ⟨rke⟩, ⟨rko⟩, ⟨rkau⟩, ⟨rki⟩, ⟨rkī⟩, ⟨rkaṃ⟩, ⟨rkāṃsi⟩, ⟨rbhīṃ⟩.
+¶ 2. If pronounced after another consonant or consonants, *r* is indicated by a slanting stroke below, to the left; thus, ⟨gra⟩, ⟨pra⟩, ⟨sra⟩, ⟨dra⟩. And, with modifications of the preceding consonant-sign like those noted above, ⟨tra⟩, ⟨śra⟩. In the middle of a group, *r* has the same sign as at the end; thus, ⟨grya⟩, ⟨srva⟩.
+¶ 3. When ⟨r⟩ is to be combined with a following ⟨ṛ⟩, it is the vowel which is written in full, with its initial character, and the consonant in subordination to it; thus, ⟨rṛ⟩, ⟨nirṛti⟩.
+¶ **14.** Combinations of three, four, or even five consonants (this latter excessively rare) are made according to the same rules; thus, ⟨ttva⟩, ⟨ddhya⟩, ⟨dvya⟩, ⟨drya⟩, ⟨psva⟩, ⟨tsya⟩, ⟨ścya⟩, ⟨ṣṭhya⟩; ⟨ṅkṣva⟩, ⟨ṣṭrya⟩, ⟨tsmya⟩; ⟨rtsnya⟩.
+¶ **15.** Both MSS. and type-fonts differ considerably in their management of consonant-combinations, but a little practice will enable one who is thoroughly familiar with the simple signs and with the principles of combination to decipher, as well as to make for himself, all such groups.
+¶ **16.** A sign (’) called the *avagraha*, or ‘separator’, is used in printed texts to mark the elision of initial *a* after final *e* or *o* (see below, § 119, 158): thus *te ’bruvan*. But some texts, especially those printed in India, dispense with this sign.
+¶ In our transliteration this sign will be represented by the inverted comma, as in the example just given. In the MSS. the sign is also used as a hyphen, and sometimes as a mark of hiatus.
+¶ **17.** The sign ° is used to mark an omission of something easily understood (whether from the context, or from previous knowledge),
+@26
+¶ and thus becomes a mark of abbreviation; thus, *gatas -tam -tena*, i. e. *gatam gatena* etc.
+¶ **18.** The only signs of punctuation are | and ||.
+¶ **19.** The numeral figures are 1, 2, 3, 4, 5, 6, 7, 8, 9, 0. In combination, to express larger numbers, they are used precisely as are European digits; thus, 24, 485, 7620. This system of notation originated in India, and was brought to Europe by the Arabs, who call it the Indian system, as we style it the Arabic.
+¶ **20.** In writing Sanskrit the Hindus generally begin at the left of the letter, and make the horizontal top-stroke last. But often the horizontal stroke is made first, and the perpendicular stroke added without raising the pen from the paper.
+## System of Sounds: Pronunciation.
+¶ **21.** The Sanskrit is used in India to this day very much as Latin was used in Europe in the previous century: it is a common medium of communication between the learned, be their native tongues what they may, and it is not the vernacular of any district whatever. Hence it is not strange that the pronunciation of Sanskrit words varies greatly among scholars from different parts of India; and probably no one system represents the true ancient mode of utterance with much exactness.
+## I. Vowels.
+¶ **22.** *A. The a, i, and u-vowels.* These three occur both short and long, and are to be pronounced in the ‘Italian’ manner — as in (or-)gan and father, pin and pique, pull and rule, respectively. The
+@27
+¶ *a*-vowel stands in no relation of kindred with any of the classes of consonantal sounds. But the *i*-vowel is distinctly palatal, and the *u*-vowel as distinctly labial.
+¶ **23.** *B. The ṛ and ḷ-vowels.* Both of these are plainly the result of abbreviating syllables containing a ⟨r⟩ or ⟨l⟩ along with another vowel: ⟨ṛ⟩ is to be sounded like the *re* in the English *fire*, ⟨ḷ⟩ like *le* in *able*.
+¶ **24.** *C. The diphthongs.* 1. The ⟨e⟩ and ⟨o⟩, which are always long, should receive the long *e* and *o*-sounds of the English *they* and *bone*, without true diphthongal character. In their origin, both were doubtless in the main pure diphthongs (⟨e⟩ = ⟨a⟩ + ⟨i⟩, ⟨o⟩ = ⟨a⟩ + ⟨u⟩); but they lost this character at a very early period.
+¶ 2. The ⟨ai⟩ and ⟨au⟩ are spoken like the *ai* in English *aisle* and *au* in German *Baum* (*ou* in English *house*); that is, as pure diphthongs with long prior element. They were originally, doubtless, distinguished from ⟨e⟩ and ⟨o⟩ only by the length of the first element.
+## II. Consonants.
+¶ **25.** *A. Mutes.* In each series of mutes there are two surd members, two sonants, and one nasal (also sonant); e. g., in the labial series, the surds ⟨p⟩ and ⟨ph⟩, the sonants ⟨b⟩ and ⟨bh⟩, and the sonant ⟨m⟩.
+¶ **26.** The first and third members of each series are the ordinary corresponding surd and sonant mutes of European languages; thus, ⟨k⟩ and ⟨g⟩, ⟨ṭ⟩ and ⟨ḍ⟩, ⟨p⟩ and ⟨b⟩.
+¶ **27.** Nor is the character of the nasal any more doubtful. What ⟨m⟩ is to ⟨p⟩ and ⟨b⟩, or ⟨n⟩ is to ⟨t⟩ and ⟨d⟩, that is also each other nasal to its own series of mutes: a sonant expulsion of breath into and through the nose, while the mouth-organs are in the mute-contact.
+¶ **28.** The second and fourth of each series are aspirates; thus,
+@28
+¶ beside the surd mute ⟨k⟩ we have the corresponding surd aspirate ⟨kh⟩, and beside the sonant ⟨g⟩, the corresponding aspirate ⟨gh⟩. It is usual among European scholars to pronounce both classes of aspirates as the corresponding non-aspirates with a very closely following *h*; e. g., ⟨kh⟩ nearly as in *boathouse*, ⟨ph⟩ as in *haphazard*, ⟨dh⟩ as in *madhouse*. This is inaccurate so far as the sonants are concerned; but the question of their original sound is one of great difficulty, and still unsettled.
+¶ **29.** The aspirates are not double letters.
+¶ The several mute-series will now be taken up in detail.
+¶ **30.** 1. *Gutturals:* ⟨k⟩, ⟨kh⟩, ⟨g⟩, ⟨gh⟩; ⟨ṅ⟩. These are the ordinary English *k* and *g* (“hard”)-sounds, with their corresponding aspirates and nasal; the last, like *ng* in *singing*.
+¶ **31.** 2. *Palatals:* ⟨c⟩, ⟨ch⟩, ⟨j⟩, ⟨jh⟩; ⟨ñ⟩. This whole series is derivative, being generated by the corruption of original gutturals. (The palatal mute ⟨c⟩ and the sibilant ⟨ś⟩ often represent two successive stages of corruption of ⟨k⟩; the corresponding degrees of corruption of ⟨g⟩ are both represented by ⟨j⟩.) For this reason the euphonic treatment of the palatals is in many respects peculiar. The palatal mutes ⟨c⟩ and ⟨j⟩ are pronounced with the compound sounds of English *ch* and *j*, as in *church* and *judge*. See also § 28.
+¶ **32.** 3. *Linguals:* ⟨ṭ⟩, ⟨ṭh⟩, ⟨ḍ⟩, ⟨ḍh⟩; ⟨ṇ⟩. The lingual mutes are said to be uttered with the tip of the tongue turned up and drawn back into the dome of the palate, somewhat as the English (or rather American) smooth *r*, e. g. in *very* is pronounced. In practice European Sanskritists make no attempt to distinguish them from the dentals: ⟨ṭ⟩ is pronounced like *t*, ⟨ḍ⟩ like *d*, and so on.
+¶ **33.** 4. *Dentals:* ⟨t⟩, ⟨th⟩, ⟨d⟩, ⟨dh⟩; ⟨n⟩. These are practically the equivalents of our so-called dentals *t*, *d*, *n*. [Perry’s footnote:] But the Hindus generally use linguals to represent the English dentals; thus, ⟨laṇḍana⟩ = ‘London.’
+@29
+¶ **34.** 5. *Labials:* ⟨p⟩, ⟨ph⟩, ⟨b⟩, ⟨bh⟩; ⟨m⟩. These are exactly the equivalents of the English *p*, *b*, *m*.
+¶ **35.** *B. Semivowels:* ⟨y⟩, ⟨r⟩, ⟨l⟩, ⟨v⟩. 1. The palatal semivowel ⟨y⟩ stands in the closest relationship with the vowel ⟨i⟩ (short or long): the two exchange with one another in cases innumerable. Very probably the Sanskrit ⟨y⟩ had everywhere more of an *i*-character than our *y*.
+¶ **36.** 2. The ⟨r⟩ is clearly a lingual sound. It thus resembles the English smooth *r*, and like this seems to have been untrilled.
+¶ **37.** 3. The ⟨l⟩ is a sound of dental position, quite as in English.
+¶ **38.** 4. The labial ⟨v⟩ is pronounced as English or French *v* by the modern Hindus — except when preceded by a consonant (except ⟨r⟩) in the same syllable, when it sounds like English *w*; and European scholars follow the same practice (with or without the same exception). But strictly the ⟨v⟩ stands related to an *u*-vowel precisely as ⟨y⟩ to an *i*-vowel: that is, it is a *w*-sound in the English sense, or perhaps more like the *ou* in French *oui*. The rules of Sanskrit euphony affecting this sound, and the name “semivowel”, have no application except to such a *w*-sound: a *v*-sound (German *w*) is no semivowel, but a spirant, like the English *th*-sounds and *f*.
+¶ **39.** *C. Sibilants:* ⟨ś⟩, ⟨ṣ⟩, ⟨s⟩. 1. The ⟨s⟩ is of plain character: a dental, and exactly like the English *s* (as in *lesson* — never as in *ease*).
+¶ **40.** 2. The ⟨ṣ⟩ is the sibilant pronounced in the lingual position. It is, therefore, a kind of *sh*-sound, and by Europeans is pronounced as ordinary English *sh*, no attempt being made to give it its proper lingual quality.
+¶ **41.** 3. The ⟨ś⟩ is by all native authorities described as palatal. It is the usual *sh*-sound of English, though the Hindus are said
+@30
+¶ to speak it somewhat differently nowadays. By Europeans it is variously pronounced — perhaps oftener as *s* than as *sh*.
+¶ **42.** All three sibilants are always surd.
+¶ **43.** *D. Aspiration:* ⟨h⟩. This is usually pronounced like the ordinary European surd aspiration *h*. But its true value in the euphony of the language is that of a sonant. It is not an original sound of the language, but comes in most cases from an older ⟨gh⟩, in some few cases from ⟨dh⟩ or ⟨bh⟩. It appears to include in itself two stages of corruption of ⟨gh⟩: one corresponding with that of ⟨k⟩ to ⟨c⟩, the other with that of ⟨k⟩ to ⟨ś⟩.
+¶ **44.** *E. Visarga:* ⟨ḥ⟩. The ⟨ḥ⟩ appears to be merely a surd breathing, a final *h*-sound (in the European sense of *h*), uttered in the articulating position of the preceding vowel. The *visarga* is not original, but always a mere substitute for final ⟨s⟩ or ⟨r⟩.
+¶ **45.** *F. Anusvāra.* The *anusvāra*, ⟨ṃ⟩ (Perry’s ṅ or ṁ), is a nasal sound lacking that closure of the organs which is required to make a nasal mute; in its utterance there is nasal resonance along with some degree of openness of the mouth. European scholars give the *anusvāra* the value of the nasal in the French *-an*, *-on*, *-en*, *-in*, etc., which is a mere nasal coloring of the preceding vowel.
+¶ **46.** Two different signs are used in the MSS. to indicate the *anusvāra*. Most commonly the dot above is employed; the other (a dot above a small crescent) will not often be met with in printed texts, except to mark the change of a nasal mute to *anusvāra* before a following semivowel, particularly ⟨l⟩; thus, ⟨tāṃl labdhān⟩. Cf. § 139.
+¶ **47.** It is convenient in transliteration to distinguish the assimilated *m* (in all cases) by a special sign (ṁ), from the *anusvāra* of more independent origin, represented by (ṅ).
+@31
+## Light and Heavy Syllables.
+¶ **48.** For metrical purposes syllables (not vowels) are distinguished as ‘heavy’ and ‘light’. A syllable is heavy if its vowel is long, or short and followed by more than one consonant (“long by position”). *Visarga* and *anusvāra* are here counted as full consonants. The aspirated mutes, of course, do not count as double letters.
+## Changes of Sounds. Guṇa and Vṛddhi.
+¶ **49.** The changes to which both the vowels and the consonants of Sanskrit are subject are very numerous. Among the vowel-changes, the most regular and frequent are the so-called *guṇa* and *vṛddhi*, which are of frequent occurrence in derivation and inflection.
+¶ **50.** The following table exhibits these changes:
+
+R *Simple vowels* | ⟨a⟩ ⟨ā⟩ | ⟨i⟩ ⟨ī⟩ | ⟨u⟩ ⟨ū⟩ | ⟨ṛ⟩
+R *Guṇa* | ⟨a⟩ ⟨ā⟩ | ⟨e⟩ | ⟨o⟩ | ⟨ar⟩
+R *Vṛddhi* | ⟨ā⟩ | ⟨ai⟩ | ⟨au⟩ | ⟨ār⟩
+¶ **51.** Theoretically the changes of ⟨ṝ⟩ would coincide with those of ⟨ṛ⟩, and the *vṛddhi* of ⟨ḷ⟩ would be ⟨āl⟩; but actual cases of these are quite unknown. The *guṇa* of ⟨ḷ⟩ is ⟨al⟩ (just as that of ⟨ṛ⟩ is ⟨ar⟩), but it occurs only in one root, ⟨kḷp⟩. As will be seen in the sequel, the *guṇa*-sound coincides with the result of the combination of an ⟨a⟩ with the simple vowel corresponding to that *guṇa*; thus, ⟨a⟩ combines with a following ⟨i⟩ or ⟨ī⟩ into ⟨e⟩, which is also the *guṇa* of ⟨i⟩ and ⟨ī⟩. The *vṛddhi*, in like manner, is identical with the result of combining an ⟨a⟩ with the corresponding *guṇa*; thus, ⟨a⟩ combines with a following ⟨e⟩ into ⟨ai⟩, the *vṛddhi* of ⟨i⟩ and ⟨ī⟩. For the present the table is to be learned outright.
+¶ **52.** In all gunating processes ⟨a⟩ remains unchanged — or,
+@32
+¶ as it is sometimes expressed, ⟨a⟩ is its own *guṇa*; ⟨ā⟩ remains unchanged for both *guṇa* and *vṛddhi*.
+¶ **53.** The *guṇa*-increment does not, except in exceedingly rare instances, take place in a heavy syllable (see § 48) ending in a consonant: e. g., ⟨cit⟩ may become ⟨cet⟩, and ⟨mud⟩ may become ⟨mod⟩; but ⟨cint⟩ or ⟨nind⟩ or ⟨jīv⟩ may not become ⟨cent⟩ or ⟨nend⟩ or ⟨jev⟩.
+¶ **54.** Other changes of vowels and consonants occur very frequently, in the making-up of single words from roots, by means of suffixes and endings, and in the formation of compound words by the union of two or more stems — a process of the very greatest frequency in Sanskrit. Furthermore, in the form in which the language is handed down to us by the literature, the words composing a sentence or paragraph are adapted to and combined with each other by nearly the same rules as those which govern the making of compounds, so that it is impossible to take apart and understand the simplest sentence in Sanskrit without understanding those rules. The most important of the rules for such combination will be given piecemeal in the lessons.
+## Roots and Stems.
+¶ **55.** A knowledge on the student’s part of the meaning and application of the terms root, stem, personal ending, etc., is presupposed. The formative processes by which both inflectional forms and derivative stems are made, by the addition of endings to bases and roots, are more regular and transparent in Sanskrit than in any other Indo-European language. [Perry’s footnote:] In the present work, which aims preeminently to give the student considerable practical acquaintance with the language within a brief compass of lessons, not every given form will be explained by analysis. But wherever any explanation of forms is given, it will of course be according to this method.
+@33
+## Accent.
+¶ **56.** The phenomena of accent are, by the Hindu grammarians of all ages alike, described and treated as depending on a variation of tone or pitch; of any difference of stress involved, they make no account. These accents are marked only in certain Vedic texts, and employed only in their recitation, whereas the accents used nowadays by Hindus in the pronunciation of Sanskrit (and left undenoted in writing) are mainly ictus-accents, i. e. variations of stress. The principles of the latter system will be given in an appendix. The older system of accents has great etymological importance; the latter none whatever; and only the older system will be referred to in the following. Here it will be enough to state that the primary tones or accent-pitches of the older system are two: a higher, or acute; and a lower, or grave. A third, called *svarita*, is always of secondary origin, being ordinarily the result of actual combination of an acute vowel and a grave vowel into one syllable. It is uniformly defined as compound in pitch, a union of higher and lower tone within the limits of a single syllable. It is thus identical in physical character with the Greek and Latin circumflex, and fully entitled to be called by the same name. Whenever, in the sequel, accent is mentioned, without further definition, the acute accent is to be understood; and it will be designated by the ordinary acute sign.
+## Conjugation of Verbs.
+¶ **57.** The Sanskrit verb exhibits the closest analogy with that of Greek, being developed in tense-systems, as outgrowths of certain tense-stems. In the older stage of the language, i. e. in the so-called Vedic period, the modal ramifications of each tense-stem are as numerous as in Greek; but in the later stage, the Sanskrit proper (also called the classical language), these outgrowths have
+@34
+¶ been lopped off to so very great an extent, that with one insignificant exception, the precative or aorist optative, only the present-system still retains any modal variety whatever.
+¶ **58.** There is a simple or ordinary conjugation of verbal roots, which we call *primary*; and there are certain more or less fully developed *secondary* or *derivative* conjugations (§ 69).
+¶ **59.** *Voices.* There are two voices, active and middle, which extend throughout the whole system of conjugation. For the present-system alone there is a special passive inflection; the middle forms outside that system, and sometimes even within it, are liable to be used likewise in a passive sense. An active form is called by the Hindu grammarians ⟨parasmaipadam⟩ ‘word for another’; a middle form, ⟨ātmanepadam⟩ ‘word for one’s self.’ Some verbs are conjugated in both voices, others in one only; sometimes some of the tenses are inflected only in one voice, others only in the other voice, or in both; of a verb usually inflected in one voice sporadic forms of the other occur; and sometimes the voice differs as the verb is compounded with certain prepositions.
+¶ **60.** *Persons and Numbers.* There are three persons: first, second, and third; and, as with substantives, adjectives, and pronouns, three numbers: singular, dual, and plural. All these persons and numbers are made from every tense and mode — except that the first persons of the imperative are really subjunctive forms.
+¶ **61.** The native grammarians denote as the first person what we call the third; and as we are wont to speak of the verb λύω, the verb τύπτω, the verb *amo*, etc., so the Hindus use for instance ⟨bhavati⟩ (3rd sing. pres. indic. of ⟨bhū⟩) to signify the whole system of verbal forms from that root, since ⟨bhavati⟩ heads the list of forms in the native grammar, as λύω, or τύπτω, or *amo*, does in Greek or Latin. The Hindus even make substantives out of
+@35
+¶ such catchword forms, and inflect them according to the needs of expression.
+¶ **62.** In the following, the conjugation-class of verbs will be indicated by the 3rd sing. pres. ind., placed in parenthesis after the root; thus, ⟨bhū⟩ (⟨bhavati⟩).
+## Tenses and Modes.
+¶ **63.** *Tenses and modes.* The scheme of tenses and modes put forth by the Hindus holds good only for the later language, and even there utterly confounds the ideas of mode and tense.
+¶ **64.** The only logical arrangement of the modes and tenses in Sanskrit is shown in the following table (which includes only the classical speech):
+¶ I. Present-System: *a.* Indicative, *b.* Imperfect, *c.* Imperative, *d.* Optative, *e.* Participle.
+¶ II. Perfect-System, *a.* Indicative, *b.* Participle.
+¶ III. Aorist Systems (of triple formation), *a.* Indicative, *b.* Optative (sometimes = “Precative”).
+¶ IV. Future Systems.
+¶ A. Sibilant Future, *a.* Indicative, *b.* Preterit (= “Conditional”), *c.* Participle.
+¶ B. Periphrastic Future, *a.* Indicative.
+¶ **65.** The tenses here distinguished as imperfect, perfect, and aorist receive those names from their correspondence in mode of formation with tenses so called in other languages of the family, especially in Greek, and not at all from any differences of time designated by them. In no period of the Sanskrit language is there any expression of imperfect or pluperfect time — nor of perfect time, except in the older language, where the “aorist” has this value; in the later speech, imperfect, perfect, and aorist (of rare use) are so many undiscriminated past tenses or preterits.
+@36
+## Verbal Adjectives and Substantives.
+¶ **66.** *Participles.* The participles belonging to the tense-systems have been already indicated in the table at § 64. There is, besides, a participle formed directly from the root of the verb, which is prevailingly of past and passive (sometimes neuter) meaning. Moreover, future passive participles, or gerundives, of several different formations, are made, but without connection with the future-stems.
+¶ **67.** *Infinitive.* The classical Sanskrit has a single infinitive. It is really an accusative case of a verbal noun, having nothing whatever to do with the tense-systems.
+¶ **68.** *Gerund.* A so-called gerund, or absolutive, is especially frequent, and is, like the infinitive, a stereotyped case-form (instrumental) of a derivative verbal noun. Its value is that of an indeclinable active participle, with indeterminate, but oftenest past, temporal force.
+## Secondary Conjugations.
+¶ **69.** The secondary conjugations are as follows: 1. Passive; 2. Intensive; 3. Desiderative; 4. Causative. In these, not the simple root, but a conjugation-stem, underlies the whole system of inflections. Yet in them all is plainly visible the character of a present-system, expanded into a more or less complete conjugation; the passive is palpably a present-system. Compare § 58–59.
+¶ **70.** Under the same general head belong: 5. Denominative conjugation, which results from the conversion of noun-stems, both substantive and adjective, into conjugation-stems; 6. Compound conjugation, resulting from the prefixion of prepositions to roots, or from the addition of auxiliary verbs to noun-stems; and 7. Periphrastic conjugation, from the looser combination of auxiliaries with verbal nouns and adjectives.
+@37
+¶ **71.** The characteristic of a proper (i. e. finite or personal) verb-form is its personal ending. By this alone is determined its character as regards person and number, and in part also as regards mode and tense. But the distinctions of mode and tense are mainly made by the formation of mode and tense-stems, to which, instead of to the bare root, the personal endings are appended.
+## Conjugation-Classes.
+¶ **72.** Of the whole conjugation, the present-system is the important and prominent part. Its forms are very much more frequent than those of all the other systems together. As there is also great variety in the manner in which different roots form their present-stems, this, as being their most conspicuous difference, is made the basis of their principal classification; and a verb is said to be of this or that conjugation, or class, according to the way in which its present-stem is made.
+¶ **73.** Of these conjugation-classes there are nine, including the passive, which is really a present-system only. The first five exhibit coincidences enough to justify their inclusion into one conjugation, and the remaining four will compose likewise a second conjugation. The chief distinctions between the two groups are as follows:
+¶ **74.** In the first, the classes have in common, as their fundamental characteristic, a shift of accent: the tone is now upon the personal ending, now upon the root or the class-sign. Along with this goes a variation in the stem itself, which has a stronger, or fuller, form when the accent rests upon it, and a weaker, or briefer, form when the accent is on the ending. We distinguish these forms as the *strong* and the *weak* stem-forms respectively.
+¶ **75.** In the second conjugation, on the contrary, the accent has a fixed place, remaining always upon the same syllable of the
+@38
+¶ stem, and never being shifted to the endings; and the distinction of strong and weak forms is unknown. Moreover, the present-stem of every verb in the four classes of this conjugation ends in ⟨a⟩. There are also other points of difference.
+¶ **76.** The classification current among the Hindu, and hitherto among the European, grammarians comprises ten conjugation-classes, arranged according to no intelligible principle whatever. The native “tenth class” is really no present-class at all, but a causative, i. e. a derivative conjugation, which extends beyond the limits of the present-system. Probably the fact that by no means all conjugation-stems formed by the causative sign had really a causative value induced the natives to adopt such a present-class. The Hindu scheme also quite omits the passive.
+¶ **77.** The Hindu first, sixth, fourth, and tenth classes form the so-called first conjugation of their scheme, which corresponds, except as regards the tenth class, with our second conjugation. The remainder of the classes form the natives’ second conjugation, which agrees in the main with our first.
+¶ **78.** The classes are then as follows:
+## First Conjugation.
+¶ I. The **root-class** (second or *ad*-class, of the Hindus); its present-stem is coincident with the root itself; thus, ⟨ad⟩, ‘eat’; ⟨i⟩, ‘go’; ⟨dviṣ⟩, ‘hate’.
+¶ II. The **reduplicating class** (third or *hu*-class); the root is reduplicated to form the present-stem; thus, ⟨juhu⟩ from ⟨hu⟩, ‘sacrifice’; ⟨dadā⟩ from ⟨dā⟩, ‘give’.
+¶ III. The **nasal class** (seventh or *rudh*-class); a nasal, extended to the syllable ⟨ṇa⟩ [*ṇa*] in strong forms, is inserted before the final consonant of the root; thus, ⟨rundh⟩ (or ⟨ruṇadh⟩) from ⟨rudh⟩, ‘hinder’.
+@39
+¶ IV. *a.* The **nu-class** (fifth or *su*-class); the syllable ⟨nu⟩ is added to the root; thus, ⟨sunu⟩ from ⟨su⟩, ‘press.’
+¶ *b.* A very small number of roots (only half-a-dozen) ending already in ⟨n⟩, and also one very common and irregularly inflected root not so ending (⟨kṛ⟩, ‘make’), add ⟨u⟩ alone to form the present-stem. This is the eighth or *tan*-class of the Hindu grammarians; it is best ranked as a sub-class, the *u*-class; thus, ⟨tanu⟩ from ⟨tan⟩, ‘stretch.’
+¶ V. The **nā-class** (ninth or *krī*-class); the syllable ⟨nā⟩ (or, in weak forms, ⟨nī⟩) is added to the root; thus, ⟨krīṇā⟩ (or ⟨krīṇī⟩) from ⟨krī⟩, ‘buy’. See note, p. 32.
+## Second Conjugation.
+¶ VI. The ***a*-class**, or unaccented *a*-class (first or *bhū*-class); the added class-sign is *a* simply; and the root, which bears the accent, is strengthened by *guṇa* throughout, if it be capable of taking *guṇa* (see §§ 52–53); thus, ⟨bhava⟩ (through the intermediate stage ⟨bho-a⟩) from ⟨bhū⟩, ‘be.’
+¶ VII. The ***á*-class**, or accented *a*-class (sixth or *tud*-class); the added class-sign is *a*, as in the preceding class; but it has the accent, and the unaccented root is not strengthened by *guṇa*; thus, ⟨tuda⟩ from ⟨tud⟩, ‘thrust.’
+¶ VIII. The ***ya*-class** (fourth or *div*-class); *ya* is added to the root, which has the accent; thus, ⟨dīvya⟩ from ⟨dīv⟩ (by the Hindus given as ⟨div⟩), ‘play.’
+¶ IX. The **passive conjugation** is also properly a present-system only, having a class-sign which is not extended into the other systems; though it differs markedly from the remaining classes in having a specific meaning, and in being formable from all transitive verbs, but with endings of the middle voice only. It forms
+@40
+¶ its stem by adding an accented *ya* to the root; thus, from ⟨ad⟩, ⟨adya⟩; from ⟨rudh⟩, ⟨rudhya⟩.
+¶ **79.** Roots are not wholly limited, even in the later language, to one mode of formation of their present-stem, but are sometimes reckoned as belonging to two or more different conjugation-classes.
+¶ **80.** The verbs of our second conjugation show much greater simplicity of formation and inflection and are far more frequent and numerous than those of our first; their paradigms will therefore be given before those of our first.
+## Prepositions and Prepositional Prefixes.
+¶ **81.** Prepositions, or, more strictly speaking, adverbial prefixes, are used with verbs quite as frequently in Sanskrit as in Greek; and more than one may be prefixed. Thus when ⟨budh⟩ + ⟨anu⟩ is given in the vocabulary, this signifies that the preposition ⟨anu⟩ is prefixed to the proper verbal form; and the 3rd sing. pres. ind. act. of the verb would then be ⟨anubodhati⟩; so ⟨dhā⟩ + ⟨sam-ā⟩ (or ⟨samā⟩), 3rd sing. ⟨samādadhāti⟩. The rules prevailing in Greek for the prefixion of prepositions, etc., to verbal forms will be found to hold good in Sanskrit.
+¶ **82.** There is in Sanskrit no proper class of prepositions (in the modern sense of the term); no body of words having as their exclusive office the “government” of nouns. But many adverbial words are used with nouns in a way which approximates them to the more fully developed prepositions of other languages. Words are used prepositionally along with all the noun-cases, except the dative (and of course the nominative and vocative). But in general their office is directive only, determining more definitely, or strengthening, the proper case-use of the noun.
+@41
+## Declension.
+¶ **83.** The declension of substantives and that of adjectives correspond so closely that the two classes of words must be treated together. The pronouns and numerals, on the other hand, exhibit here as in the kindred languages many striking peculiarities.
+¶ **84.** *Numbers and Genders.* There are three numbers, singular, dual, and plural; and the usual three genders, masculine, feminine, and neuter. The dual is used much more extensively than in Greek, where it appears in a moribund state.
+¶ **85.** *Cases.* The cases are eight in number, given generally in the following order: nominative, accusative, instrumental, dative, ablative, genitive, locative, and vocative. The object sought in the arrangement is simply to set next to one another those cases which are to a greater or less extent, in one number or another, identical in form; and, putting the nominative first, as leading case, there is no other order by which that object could be attained.
+¶ For the uses of the cases in detail see Wh. §§ 267–305.
+¶ **86.** The stems of substantives and adjectives may for convenience be classified as follows: I. Stems in ⟨a⟩. II. Stems in ⟨ā⟩ and ⟨ī⟩. III. Stems in ⟨ī⟩, ⟨i⟩, and ⟨u⟩: namely, A. radical-stems, and a few others inflected like them; B. derivative stems. IV. Stems in ⟨ṛ⟩ (or ⟨ar⟩). V. Stems in consonants.
+¶ **87.** *Strong and Weak cases.* In stems ending in consonants, and those in ⟨ṛ⟩ (or ⟨ar⟩), there is seen a distinction of stem-form in different cases. Sometimes the stem-forms are two, when they are called strong and weak respectively; sometimes three: strong, middle, and weakest. As is the case with verbs, this variation of stem-form often goes hand-in-hand with a shift of accent.
+¶ **88.** In the masculine and feminine, the strong cases are the nom. and acc., both sing. and dual, and the nom. pl. The rest
+@42
+¶ are weak; or, if there be the distinction of three stem-forms, then the instr., dat., abl., gen., and loc. sing., the gen. and loc. du., and the gen. pl. (all of which take endings beginning with a vowel), are weakest; and the instr., dat., and abl. du., the instr., dat., abl., and loc. pl. (whose endings begin with consonants), are middle.
+¶ **89.** In the neuter, the only strong cases are the nom. and acc. pl.; if there be the triple distinction, then the nom. and acc. sing. are middle, and the same cases in the dual are weakest. Otherwise the cases are classified as in the masculine.
+¶ **90.** *Case-endings.* The normal scheme of case-endings, as recognized by the native grammarians (and conveniently to be assumed as the basis of special descriptions), is this:
+T  | Singular m. f. | Singular n. | Dual m. f. | Dual n. | Plural m. f. | Plural n.
+R N. | ⟨s⟩ | ⟨m⟩ | ⟨au⟩ | ⟨ī⟩ | ⟨as⟩ | ⟨i⟩
+R A. | ⟨am⟩ | ⟨m⟩ | ⟨au⟩ | ⟨ī⟩ | ⟨as⟩ | ⟨i⟩
+R I. | ⟨ā⟩ | ⟨ā⟩ | ⟨bhyām⟩ | ⟨bhyām⟩ | ⟨bhis⟩ | ⟨bhis⟩
+R D. | ⟨e⟩ | ⟨e⟩ | ⟨bhyām⟩ | ⟨bhyām⟩ | ⟨bhyas⟩ | ⟨bhyas⟩
+R Ab. | ⟨as⟩ | ⟨as⟩ | ⟨bhyām⟩ | ⟨bhyām⟩ | ⟨bhyas⟩ | ⟨bhyas⟩
+R G. | ⟨as⟩ | ⟨as⟩ | ⟨os⟩ | ⟨os⟩ | ⟨ām⟩ | ⟨ām⟩
+R L. | ⟨i⟩ | ⟨i⟩ | ⟨os⟩ | ⟨os⟩ | ⟨su⟩ | ⟨su⟩
+¶ It applies entire to consonant-stems, and to the radical division of ⟨ī⟩ and ⟨ū⟩-stems; and to other vowel-stems, with considerable variations and modifications. The endings which have almost or quite unbroken range, through stems of all classes, are ⟨bhyām⟩ and ⟨os⟩ of the dual, and ⟨bhis⟩, ⟨bhyas⟩, ⟨ām⟩, and ⟨su⟩ of the plural.
+¶ **91.** *Pada-endings.* The case-endings ⟨bhyām⟩, ⟨bhis⟩, ⟨bhyas⟩, ⟨su⟩ — i. e. those of the middle cases — are called *pada* (“word”)-endings. The treatment of stem-finals before them is generally the same as in the combinations of words with one another.

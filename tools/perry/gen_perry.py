@@ -45,7 +45,8 @@ def fields(l, n):
 
 
 def main(nn):
-    src = (HERE / f"lesson{nn:02d}.txt").read_text(encoding="utf-8").splitlines()
+    name = "intro" if nn == 0 else f"lesson{nn:02d}"
+    src = (HERE / f"{name}.txt").read_text(encoding="utf-8").splitlines()
     secs, table, vocab = [], None, None
     sub = next((x.strip()[1:].strip() for x in src if x.strip().startswith("%")), None)
     for raw in src:
@@ -84,17 +85,18 @@ def main(nn):
     if vocab is not None:
         secs.append({"vocab": vocab})
     r = ROMAN[nn]
-    st = {"deity": "learn", "doc_title": f"Perry · Lesson {r}", "app_title": f"Perry {r}",
-          "h1": f"Sanskrit Primer · Lesson {r}", "subtitle": sub or TITLES[nn], "note": NOTE,
+    ttl = "Introduction" if nn == 0 else f"Lesson {r}"
+    st = {"deity": "learn", "doc_title": f"Perry · {ttl}", "app_title": "Perry intro" if nn == 0 else f"Perry {r}",
+          "h1": f"Sanskrit Primer · {ttl}", "subtitle": sub or TITLES[nn], "note": NOTE,
           "footer": FOOTER, "toc": True, "sections": secs}
     q = lambda v: repr(v) if isinstance(v, bool) else json.dumps(v, ensure_ascii=False)
     out = ["# -*- coding: utf-8 -*-", "# Copyright 2026 Pradyumna Revur — CC BY 4.0 (see LICENSE)",
-           f"# Perry, A Sanskrit Primer, lesson {r} (tools/perry/lesson{nn:02d}.txt); written by",
+           f"# Perry, A Sanskrit Primer, {ttl.lower()} (tools/perry/{name}.txt); written by",
            "# tools/perry/gen_perry.py. See SOURCES §8.1.", "", "STOTRA = {"]
     out += [f"    {q(k)}: {q(v)}," for k, v in st.items() if k != "sections"]
     out += ['    "sections": ['] + [f"    {s!r}," for s in secs] + ["    ],", "}", ""]
-    (TOOLS / "stotras" / f"perry-{nn:02d}.py").write_text("\n".join(out), encoding="utf-8", newline="\n")
-    print(f"perry-{nn:02d}: {len(secs)} sections")
+    (TOOLS / "stotras" / ("perry-intro.py" if nn == 0 else f"perry-{nn:02d}.py")).write_text("\n".join(out), encoding="utf-8", newline="\n")
+    print(f"{name}: {len(secs)} sections")
 
 
 TITLES = {1: "Verbs: the present indicative of the a-class (vadati); visarga at the end of a word",

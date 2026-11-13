@@ -40,9 +40,9 @@ def roman(n):
 
 
 SERIES = [
-    dict(id="perry", pat=r"perry-(\d+)$", contents="perry", contents_label="all lessons",
-         label=lambda n: f"lesson {roman(n)}", jump_title="all lessons",
-         jump_label=lambda n: roman(n), auto=True, jump=True),
+    dict(id="perry", pat=r"perry-(\d+|intro)$", contents="perry", contents_label="all lessons",
+         label=lambda n: "introduction" if n == "intro" else f"lesson {roman(n)}", jump_title="all lessons",
+         jump_label=lambda n: "intro" if n == "intro" else roman(n), auto=True, jump=True),
     dict(id="nirukta", pat=r"nirukta-(\d+)$", contents="nirukta", contents_label="Nirukta · contents",
          label=lambda n: "pariśiṣṭa" if n == 13 else f"adhyāya {n}", jump_title="all adhyāyas",
          jump_label=lambda n: "pariśiṣṭa" if n == 13 else str(n), auto=True, jump=True),
@@ -67,8 +67,9 @@ def _members(s):
     for p in DATA.glob("*.py"):
         m = rx.match(p.stem)
         if m:
-            found.append((int(m.group(1)), p.stem))
-    return [(sl, n) for n, sl in sorted(found)]
+            g = m.group(1)
+            found.append((0 if g == "intro" else int(g), p.stem, g))
+    return [(sl, "intro" if g == "intro" else n) for n, sl, g in sorted(found)]
 
 
 def _href(slug):
