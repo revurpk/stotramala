@@ -2419,7 +2419,6 @@ Editorial notes (the text is Wikisource’s, kept as it stands except for the po
 - The avagraha (ऽ) is written as an inverted comma. Printing slips of the source were corrected: *gṛdyṇāti* to *gṛhṇāti* (49), *nāḍkitaḥ* to *nāṅkitaḥ* (54), *kṛcchgato* to *kṛcchragato* (30), *prīrtigurau* to *prītirgurau* (62). Interjection marks (“!”) and the connective *api ca -* at the head of verses 18, 41 and 95 are dropped.
 - Verses are kept in the source’s word-joining: long runs of sandhi are not divided.
 - The English and Telugu translations are original; the Telugu follows the English closely.
-- The Vairāgya-śataka has been transcribed in `tools/subhashita/` but is not yet translated, so it is not published.
 
 ### 9.2 Bhartṛhari’s Śṛṅgāraśatakam — `stotra/subhashita/subhashita-shringara-iast.html`
 
@@ -2435,4 +2434,19 @@ Editorial notes:
 - In the source ॐ stands for the syllable *om* (the source’s typing of *komala*, *romāvali* and the like); these are read *komalaṃ* and *romāvaliḥ*, *kaumudī* is read for the source’s *kॐudī*, and in 2.3 and 2.5 *kuñcita*, *vakṣoja* replace the source’s *kuṣcita*, *bakṣoja*. The avagraha is written as an inverted comma; interjection marks are dropped.
 - The Sanskrit of the source is garbled in several verses (2.27–2.29, 2.33, 2.34, 2.37, 2.101 and a few others: broken sandhi, lost words). It is given as it stands, and the English and Telugu of those verses say that the text is corrupt and give the general sense only.
 - The pāda divisions follow the source’s line breaks, which in a few verses (for example 2.8) do not match the metre.
+- The English and Telugu translations are original.
+
+### 9.3 Bhartṛhari’s Vairāgyaśatakam — `stotra/subhashita/subhashita-vairagya-iast.html`
+
+| Field | Value |
+|---|---|
+| Work | Bhartṛhari, *Vairāgyaśatakam* (the third śataka): 100 numbered verses, with asterisked additions (8*1, 39*1, 61*1, 71*1, 99*1, 100*1–3) and three verses the source leaves without a number |
+| Source | Sanskrit Wikisource, page *वैराग्यशतकम् (भर्तृहरिविरचितम्)*, fetched 2026-11-12 as raw wikitext and converted to IAST with `dev2iast.py` |
+| Recorded | 2026-11-12 |
+| Text status | public domain (the verses); the Wikisource transcription is freely licensed |
+
+Editorial notes:
+- Numbers are the source’s (3.1 … 3.100), shown without the leading “3.”; asterisked verses are set apart as additions. Three verses carry only “3.” in the source and are given without a badge, in the order they stand.
+- In the source ॐ stands for the syllable *om*; it is read *vyoma* (100) and *komalaiḥ* (100*1). In 71*1 the source’s *niḥsॐaśarma* is read *niḥsomaśarma*, which is almost certainly not what the poet wrote (probably *niḥsīma*, “boundless”), but it is given as the source has it. *néṇām* in the source is read *nṛṇām* (31, 49). The avagraha is written as an inverted comma; interjection marks are dropped.
+- The Sanskrit of the source is garbled in several verses (3.4, 3.8*1, 3.39*1, 3.59, 3.61*1, 3.62, 3.71*1, 3.81 and the three unnumbered verses). It is given as it stands; the English and Telugu of those verses say that the text is corrupt and give the general sense only.
 - The English and Telugu translations are original.
