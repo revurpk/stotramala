@@ -1,0 +1,105 @@
+# shringara: IAST from Sanskrit Wikisource (converted with dev2iast; see SOURCES §9). key | shown number | pādas separated by ' / '
+1 | 1 | śambhusvayambhuharayo hariṇekṣaṇānāṃ / yenākriyanta satataṃ gṛhakumbhadāsāḥ / vācāṃ agocaracaritravicitritāya / tasmai namo bhagavate makaradhvajāya
+2 | 2 | smitena bhāvena ca lajjayā bhiyā / parāṇmukhairardhakaṭākṣavīkṣaṇaiḥ / vacobhirīrṣyākalahena līlayā / samastabhāvaiḥ khalu bandhanaṃ striyaḥ
+3 | 3 | bhrūcāturyātkuṣcitākṣāḥ kaṭākṣāḥ / snigdhā vāco lajjitāntāśca hāsāḥ / līlāmandaṃ prasthitaṃ ca sthitaṃ ca / strīṇāṃ etadbhūṣaṇaṃ cāyudhaṃ ca
+4 | 4 | kvacitsabhrūbhaṅgaiḥ kvacidapi ca lajjāparigataiḥ / kvacidbhūritrastaiḥ kvacidapi ca līlāvilalitaiḥ / kumārīṇāṃ etairmadanasubhagairnetravalitaiḥ / sphurannīlābjānāṃ prakaraparikīrṇā iva diśaḥ
+5 | 5 | vaktraṃ candravikāsi paṅkajaparīhāsakṣame locane / varṇaḥ svarṇaṃ apākariṣṇuralinījiṣṇuḥ kacānāṃ cayaḥ / bakṣojāvibhakumbhavibhramaharau gurvī nitambasthalī / vācāṃ hāri ca mārdavaṃ yuvatīṣu svābhāvikaṃ maṇḍanaṃ
+6 | 6 | smitakiñcinmugdhaṃ saralataralo dṛṣṭivibhavaḥ / parispando vācāṃ abhinavavilāsoktisarasaḥ / gatānāṃ ārambhaḥ kisalayitalīlāparikaraḥ / spṛśantyāstāruṇyaṃ kiṃ iva na hi ramyaṃ mṛgadṛśaḥ
+7 | 7 | draṣṭavyeṣu kiṃ uttamaṃ mṛgadṛśaḥ premaprasannaṃ mukhaṃ / ghrātaveṣvapi kiṃ tadāsyapavanaḥ śravyeṣu kiṃ tadvacaḥ / kiṃ svādyeṣu tadoṣṭhapallavarasaḥ spṛśyeṣu kiṃ tadvapurdhyeyaṃ / kiṃ navayauvane sahṛdayaiḥ sarvatra tadvibhramāḥ
+8 | 8 | etāścaladvalayasaṃhatimekhalotthajhaṅkāra / nūpuraparājitarājahaṃsyaḥ / kurvanti kasya na mano vivaśaṃ taruṇyo / vitrastamugdhahariṇīsadṛśaiḥ kaṭākṣaiḥ
+9 | 9 | kuṅkumapaṅkakalaṅkitadehā / gaurapayodharakampitahārā / nūpurahaṃsaraṇatpadmā / kaṃ na vaśīkurute bhuvi rāmā
+10 | 10 | nūnaṃ hi te kavivarā viparītavāco / ye nityaṃ āhurabalā iti kāminīstāḥ / yābhirvilolitaratārakadṛṣṭipātaiḥ / śakrādayo'pi vijitāstvabalāḥ kathaṃ tāḥ
+11 | 11 | nūnaṃ ājñākarastasyāḥ subhruvo makaradhvajaḥ / yatastannetrasañcārasūciteṣu pravartate
+12 | 12 | keśāḥ saṃyaminaḥ śruterapi paraṃ pāraṃ gate locane / antarvaktraṃ api svabhāvaśucibhīḥ kīrṇaṃ dvijānāṃ gaṇaiḥ / muktānāṃ satatādhivāsarucirau vakṣojakumbhāvimāvitthaṃ / tanvi vapuḥ praśāntaṃ api terāgaṃ karotyeva naḥ
+13 | 13 | mugdhe dhānuṣkatā keyaṃ apūrvā tvayi dṛśyate / yayā vidhyasi cetāṃsi guṇaireva na sāyakaiḥ
+14 | 14 | sati pradīpe satyagnau satsu tārāravīnduṣu / vinā me mṛgaśāvākṣyā tamobhūtaṃ idaṃ jagath
+15 | 15 | udvṛttaḥ stanabhāra eṣa tarale netre cale bhrūlate / rāgādhiṣṭhitaṃ oṣṭhapallavaṃ idaṃ kurvantu nāma vyathāṃ / saubhāgyākṣaramālikeva likhitā puṣpāyudhena svayaṃ / madhyasthāpi karoti tāpaṃ adhikaṃ romāvaliḥ kena sā
+16 | 16 | mukhena candrakāntena mahānīlaiḥ śiroruhaiḥ / karābhyāṃ padmarāgābhyāṃ reje ratnamayīva sā
+17 | 17 | guruṇā stanabhāreṇa mukhacandreṇa bhāsvatā / śanaiścarābhyāṃ pādābhyāṃ reje grahamayīva sā
+18 | 18 | tasyāḥ stanau yadi ghanau jaghanaṃ ca hāri / vaktraṃ ca cāru tava citta kiṃ ākulatvaṃ / puṇyaṃ kuruṣva yadi teṣu tavāsti vāñchā / puṇyairvinā na hi bhavanti samīhitārthāḥ
+19 | 19 | ime tāruṇyaśrīnavaparimalāḥ prauḍhasuratapratāpa / prārambhāḥ smaravijayadānapratibhuvaḥ / ciraṃ cetaścorā abhinavavikāraikaguravo / vilāsavyāpārāḥ kiṃ api vijayante mṛgadṛśāṃ
+20 | 20 | praṇayamadhurāḥ premodgārā rasāśrayatāṃ gatāḥ / phaṇitimadhurā mugdhaprāyāḥ prakāśitasammadāḥ / prakṛtisubhagā visrambhārdrāḥ smarodayadāyinī / rahasi kiṃ api svairālāpā haranti mṛgīdṛśāṃ
+21 | 21 | viśramya viśramya vanadrumāṇāṃ / chāyāsu tanvī vicacāra kācit / stanottarīyeṇa karoddhṛtena / nivārayantī śaśino mayūkhān
+22 | 22 | adarśane darśanamātrakāmā / dṛṣṭvā pariṣvaṅgasukhaikalolā / āliṅgitāyāṃ punarāyatākṣyāmāśāsmahe / vigrahayorabhedaṃ
+23 | 23 | mālatī śirasi jṛmbhaṇaṃ mukhe / candanaṃ vapuṣi kuṅkumāvilaṃ / vakṣasi priyatamā madālasā / svarga eṣa pariśiṣṭa āgamaḥ
+24 | 24 | prāṅmāṃ eti manāganāgatarasaṃ jātābhilāṣāṃ tataḥ / savrīḍaṃ tadanu ślathodyamaṃ atha pradhvastadhairyaṃ punaḥ / premārdraṃ spṛhaṇīyanirbhararahaḥ krīḍāpragalbhaṃ tato / niḥsaṅgāṅgavikarṣaṇādhikasukharamyaṃ kulastrīrataṃ
+25 | 25 | urasi nipatitānāṃ srastadhammillakānāṃ / mukulitanayanānāṃ kiñcidunmīlitānāṃ / upari suratakhedasvinnagaṇḍasthalānāmadhara / madhu vadhūnāṃ bhāgyavantaḥ pibanti
+26 | 26 | āmīlitanayanānāṃ yaḥ / surataraso'nu saṃvidaṃ bhāti / mithurairmitho'vadhāritamavitatham / idaṃ eva kāmanirbarhaṇaṃ
+27 | 27 | idaṃ anucitaṃ akramaśca puṃsāṃ / yadiha jarāsvapi manmathā vikārāḥ / tadapi ca na kṛtaṃ nitambinīnāṃ / stanapatanāvadhi jīvitaṃ rataṃ vā
+28 | 28 | rājastṛṣṇāmburāśerna hi jagati gataḥ kaścidevāvasānaṃ / ko vārtho'rthaiḥ prabhūtaiḥ svavapuṣi galite yauvane sānurāge / gacchāmaḥ sadma yāvadvikasitanayanendīvarālokinīnāmākramyākramya / rūpaṃ jhaṭiti na jarayā lupyate preyasīnāṃ
+29 | 29 | rāgasyāgāraṃ ekaṃ narakaśatamahāduḥkhasamprāptiheturmohasyotpatti / bījaṃ jaladharapaṭalaṃ jñānatārādhipasya / kandarpasyaikamitraṃ prakaṭitavividhaspaṣṭadoṣaprabandhaṃ / loke'sminna hyarthavrajakulabhavanayauvanādanyadasti
+30 | 30 | śṛṅgāradrumanīrade prasṛmarakrīḍārasasrotasi / pradyumnapriyabāndhave caturavāṅmuktāphalodanvati / tanvīnetracakorapāvanavidhau saubhāgyalakṣmīnidhau / dhanyaḥ ko'pi na vikriyāṃ kalayati prāpte nave yauvane
+31 | 31 | saṃsāre'sminnasāre kunṛpatibhavanadvārasevākalaṅkavyāsaṅga / vyastadhairyaṃ kathaṃ amaladhiyo mānasaṃ saṃvidadhyuḥ / yadyetāḥ prodyadindudyutinicayabhṛto na syurambhojanetrāḥ / preṅkhatkāñcīkalāpāḥ stanabharavinamanmadhyabhājastaruṇyaḥ
+32 | 32 | siddhādhyāsitakandare haravṛṣaskandhāvarugṇadrume / gaṅgādhautaśilātale himavataḥ sthāne sthite śreyasi / kaḥ kurvīta śiraḥ praṇāmamalinaṃ mlānaṃ manasvī jano / yadvitrastakuraṅgaśāvanayanā na syuḥ smarāstraṃ striyaḥ
+33 | 33 | saṃsāra tava paryantapadavī na davīyasī / antarā dustarā na syuryadi te madirekṣaṇāṃ
+34 | 34 | diśa vanahariṇībhyo vaṃśakāṇḍacchavīnāṃ / kavalaṃ upalakoṭicchinnamūlaṃ kuśānāṃ / śakayuvatikapolāpāṇḍutāmbūlavallīdalam / aruṇanakhāgraiḥ pāṭitaṃ vā vadhūbhyaḥ
+35 | 35 | asārāḥ sarve te virativirasāḥ pāpaviṣayā / jugupsyantāṃ yadvā nanu sakaladoṣāspadaṃ iti / tathāpyetadbhūmau nahi parahitātpuṇyaṃ adhikaṃ / na cāsminsaṃsāre kuvalayadṛśo ramyaṃ aparaṃ
+35*1 | 35*1 | etatkāmaphalo loke yaddvayorekacittatā / anyacittakṛte kāme śavayoriva saṅgamaḥ
+36 | 36 | mātsaryaṃ utsārya vicārya kāryamāryāḥ / samaryādaṃ idaṃ vadantu / sevyā nitambāḥ kiṃ u bhūdharāṇāmata / smarasmeravilāsinīnāṃ
+37 | 37 | saṃsāre svapnasāre pariṇatitarale dve gatī paṇḍitānāṃ / tattvajñānāmṛtāmbhaḥplavalalitadhiyāṃ yātu kālaḥ kathañcit / no cenmugdhāṅganānāṃ stanajaghanaghanābhogasambhoginīnāṃ / sthūlopasthasthalīṣu sthagitakaratalasparśalīlodyamānāṃ
+38 | 38 | āvāsaḥ kriyatāṃ gaṅge pāpahāriṇi vāriṇi / stanadvaye taruṇyā vā manohāriṇi hāriṇi
+39 | 39 | kiṃ iha bahubhiruktairyuktiśūnyaiḥ pralāpairdvayam / iha puruṣāṇāṃ sarvadā sevanīyaṃ / abhinavamadalīlālālasaṃ sundarīṇāṃ / stanabharaparikhinnaṃ yauvanaṃ vā vanaṃ vā
+40 | 40 | satyaṃ janā vacmi na pakṣapātāl / lokeṣu saptasvapi tathyaṃ etat / nānyanmanohāri nitambinībhyo / duḥkhaikaheturna ca kaścidanyaḥ
+41 | 41 | kāntetyutpalalocaneti vipulaśroṇībharetyunnamatpīnottuṅga / payodhareti samukhāmbhojeti subhrūriti / dṛṣṭvā mādyati modate'bhiramate prastauti vidvānapi / pratyakṣāśucibhastrikāṃ striyaṃ aho mohasya duśceṣṭitaṃ
+42 | 42 | smṛtā bhavati tāpāya dṛṣṭā conmādakāriṇī / spṛṣṭā bhavati mohāya sā nāma dayitā kathaṃ
+43 | 43 | tāvadevāmṛtamayī yāvallocanagocarā / cakṣuṣpathādatītā tu viṣādapyatiricyate
+44 | 44 | nāmṛtaṃ na viṣaṃ kiñcidetāṃ muktvā nitambinīṃ / saivāmṛtalatā raktā viraktā viṣavallarī
+45 | 45 | āvartaḥ saṃśayānāṃ avinayabhuvanaṃ paṭṭaṇaṃ sāhasānāṃ / doṣāṇāṃ sannidhānaṃ kapaṭaśatamayaṃ kṣetraṃ apratyayānāṃ / svargadvārasya vighno narakapuramukha sarvamāyākaraṇḍaṃ / strīyantraṃ kena sṛṣṭaṃ viṣaṃ amṛtamayaṃ prāṇilokasya pāśaḥ
+46 | 46 | no satyena mṛgāṅka eṣa vadanībhūto na cendīvaradvandvaṃ / locanatāṃ gata na kanakairapyaṅgayaṣṭiḥ kṛtā / kintvevaṃ kavibhiḥ pratāritamanāstattvaṃ vijānannapi / tvaṅmāṃsāsthimayaṃ vapurmṛgadṛśāṃ mando janaḥ sevate
+47 | 47 | līlāvatīnāṃ sahajā vilāsāsta / eva mūḍhasya hṛdi sphuranti / rāgo nalinyā hi nisargasiddhastatra / bhramtyeva vṛthā ṣaḍaṅghriḥ
+47*1 | 47*1 | saṃmohayanti madayanti viḍambayanti / nirbhartsyanti ramayanti viṣādayanti / etāḥ praviśya sadayaṃ hṛdayaṃ narāṇāṃ / kiṃ nāma vāmanayanā na samācaranti
+48 | 48 | yadetatpūrṇendudyutiharaṃ udārākṛti paraṃ / mukhābjaṃ tanvaṅgyāḥ kila vasati yatrādharamadhu / idaṃ tatkiṃ pākadrumaphalaṃ idānīṃ atirasavyatīte'smin / kāle viṣaṃ iva bhaviṣytyasukhadaṃ
+49 | 49 | unmīlattrivalītaraṅganilayā prottuṅgapīnastanadvandvenodgata / cakravākayugalā vaktrāmbujodbhāsinī / kāntākāradharā nadīyaṃ abhitaḥ krūrātra nāpekṣate / saṃsārārṇavamajjanaṃ yadi tadā dūreṇa santyajyatāṃ
+50 | 50 | jalpanti sārdhaṃ anyena paśyantyanyaṃ savibhramāḥ / hṛdgataṃ cintayantyanyaṃ priyaḥ ko nāma yoṣitāṃ
+51 | 51 | madhu tiṣṭhati vāci yoṣitāṃ hṛdi hālāhalaṃ eva kevalaṃ / ataeva nipīyate'dharo hṛdayaṃ muṣṭibhireva tāḍyate
+52 | 52 | apasara sakhe dūrādasmātkaṭākṣaviṣānalāt / prakṛtiviṣamādyoṣitsarpādvilāsaphaṇābhṛtaḥ / itaraphaṇinā daṣṭaḥ śakyaścikitsituṃ auṣadhaiścatur / vanitābhogigrastaṃ hi mantriṇaḥ
+53 | 53 | vistāritaṃ makaraketanadhīvareṇa / strīsaṃjñitaṃ baḍiśaṃ atra bhavāmburāśau / yenācirāttadadharāmiṣalolamartya / matsyānvikṛṣya vipacatyanurāgavahnau
+54 | 54 | kāminīkāyakāntāre kucaparvatadurgame / mā saṃcara manaḥ pāntha tatrāste smarataskaraḥ
+55 | 55 | vyādīrgheṇa calena vaktragatinā tejasvinā bhoginā / nīlābjadyutināhinā paraṃ ahaṃ dṛṣṭo na taccakṣuṣā / dṛṣṭe santi cikitsakā diśi diśi prāyeṇa darmārthino / mugdhākṣkṣaṇavīkṣitasya na hi me vaidyo na cāpyauṣadhaṃ
+56 | 56 | iha hi madhuragītaṃ nṛtyaṃ etadraso'yaṃ / sphurati parimalo'sau sparśa eṣa stanānāṃ / iti hataparamārthairindriyairbhrāmyamāṇaḥ / svahitakaraṇadhūrtaiḥ pañcabhirvañcito'smi
+57 | 57 | na gamyo mantrāṇāṃ na ca bhavati bhaiṣajyaviṣayo / na cāpi pradhvaṃsaṃ vrajati vividhaiḥ śāntikaśataiḥ / bhramāveśādaṅge kaṃ api vidadhadbhaṅgaṃ asakṛt / smarāpasmāro'yaṃ bhramayati dṛśaṃ ghūrṇayati ca
+58 | 58 | jātyandhāya ca durmukhāya ca jarājīrṇā khilāṅgāya ca / grāmīṇāya ca duṣkulāya ca galatkuṣṭhābhibhūtāya ca / yacchantīṣu manoharaṃ nijavapulakṣmīlavaśraddhayā / paṇyastrīṣu vivekakalpalatikāśastrīṣu rājyeta kaḥ
+59 | 59 | veśyāsau madanajvālā / rūpe'ndhanavivardhitā / kāmibhiryatra hūyante / yauvanāni dhanāni ca
+60 | 60 | kaścumbati kulapuruṣo veśyādharapallavaṃ manojñaṃ api / cārabhaṭacoraceṭakanaṭaviṭaniṣṭhīvanaśarāvaṃ
+61 | 61 | dhanyāsta eva dhavalāyatalocanānāṃ / tāruṇyadarpaghanapīnapayodharāṇāṃ / kṣāmodaropari lasattrivalīlatānāṃ / dṛṣṭvākṛtiṃ vikṛtiṃ eti mano na yeṣāṃ
+62 | 62 | bāle līlāmukulitaṃ amī mantharā dṛṣṭipātāḥ / kiṃ kṣipyante viramavirama vyartha eṣa śramaste / sampratyanye vayaṃ uparataṃ bālyaṃ āsthā vanānte / kṣīṇo mohastṛṇaṃ iva jagajjālaṃ ālokayāmaḥ
+63 | 63 | iyaṃ bālā māṃ pratyanavarataṃ indīvaradalaprabhā / cīraṃ cakṣuḥ kṣipati kiṃ abhipretaṃ anayā / gato moho'smākaṃ smaraśabarabāṇavyatikarajvara / jvālā śāntā tadapi na varākī viramati
+64 | 64 | kiṃ kandarpa karaṃ kadarthayasi re kodaṇḍaṭaṅkāritaṃ / re re kokila komalaṃ kalaravaṃ kiṃ vā vṛthā jalpasi / mugdhe snigdhavidagdhacārumadhurairlolaiḥ kaṭākṣairalaṃ / cetaścumbitacandracūḍacaraṇadhyānāmṛtaṃ vartate
+65 | 65 | virahe'pi saṅgamaḥ khalu / parasparaṃ saṅgataṃ mano yeṣāṃ / hṛdayaṃ api vighaṭṭitaṃ cet / saṅgī virahaṃ viśeṣayati
+66 | 66 | kiṃ gatena yadi sā na jīvati / prāṇiti priyatamā tathāpi kiṃ / ityudīkṣya navameghamālikāṃ / na prayāti pathikaḥ svamandiraṃ
+67 | 67 | viramata budhā yoṣitsaṅgātsukhātkṣaṇabhaṅgurāt / kuruta karuṇāmaitrīprajñāvadhūjanasaṅgamaṃ / na khalu narake hārākrāntaṃ ghanastanamaṇḍalaṃ / śaraṇaṃ athavā śroṇībimbaṃ raṇanmaṇimekhalaṃ
+68 | 68 | yadā yogābhyāsavyasanakṛśayorātmamanasoravicchinnā / maitrī sphurati kṛtinastasya kiṃ u taiḥ / priyāṇāṃ ālāpairadharamadhubhirvaktravidhubhiḥ / saniśvāsāmodaiḥ sakucakalaśāśleṣasurataiḥ
+69 | 69 | yadāsīdajñānaṃ smaratimirasañcārajanitaṃ / tadā dṛṣṭanārīmayaṃ idaṃ aśeṣaṃ jagaditi / idānīṃ asmākaṃ paṭutaravivekāñjanajuṣāṃ / samībhūtā dṛṣṭistribhuvanaṃ api brahma manute
+70 | 70 | tāvadeva kṛtināṃ api sphuratyeṣa / nirmalavivekadīpakaḥ / yāvadeva na kuraṅgacakṣuṣāṃ / tāḍyate caṭulalocanāñcalaiḥ
+71 | 71 | vacasi bhavati saṅgatyāgaṃ uddiśya vārtā / śrutimukharamukhānāṃ kevalaṃ paṇḍitānāṃ / jaghanaṃ aruṇaratnagranthikāñcīkalāpaṃ / kuvalayanayanānāṃ ko vihātuṃ samarthaḥ
+72 | 72 | svaparapratārako'sau / nindati yo'līkapaṇḍito yuvatīḥ / yasmāttapaso'pi phalaṃ / svargaḥ svarge'pi cāpsarasaḥ
+73 | 73 | mattebhakumbhadalane bhuvi santi dhīrāḥ / kecitpracaṇḍamṛgarājavadhe'pi dakṣāḥ / kintu bravīmi balināṃ purataḥ prasahya / kandarpadarpadalane viralā manuṣyāḥ
+74 | 74 | sanmārge tāvadāste prabhavati ca narastāvadevendriyāṇāṃ / lajjāṃ tāvadvidhatte vinayaṃ api samālambate tāvadeva / bhrūcāpākṛṣṭamuktāḥ śravaṇapathagatā nīlapakṣmāṇa ete / yāvallīlāvatīnāṃ hṛdi na dhṛtimuṣo dṛṣṭibāṇāḥ patanti
+75 | 75 | unmattapremasaṃrambhād / ārabhante yadaṅganāḥ / tatra pratyūhaṃ ādhātuṃ / brahmāpi khalu kātaraḥ
+76 | 76 | tāvanmahattvaṃ pāṇḍityaṃ / kulīnatvaṃ vivekitā / yāvajjvalati nāṅgeṣu / hataḥ pañceṣupāvakaḥ
+77 | 77 | śāstrajño'pi praguṇitanayo'tyāntabādhāpi bāḍhaṃ / saṃsāre'sminbhavati viralo bhājanaṃ sadgatīnāṃ / yenaitasminnirayanagaradvāraṃ udghāṭayantī / vāmākṣīṇāṃ bhavati kuṭilā bhrūlatā kuñcikeva
+78 | 78 | kṛśaḥ kāṇaḥ khañjaḥ śravaṇarahitaḥ pucchavikalo / vraṇī pūyaklinnaḥ kṛmikulaśatairāvṛtatanuḥ / kṣudhā kṣāmo jīrṇaḥ piṭharakakapālārpitagalaḥ / śunīṃ anveti śvā hataṃ api ca hantyeva madanaḥ
+79 | 79 | strīmudrāṃ kusumāyudhasya jayinīṃ sarvārthasampatkarīṃ / ye mūḍhāḥ pravihāya yānti kudhiyo mithyāphalānveṣiṇaḥ / te tenaiva nihatya nirdayataraṃ nagnīkṛtā muṇḍitāḥ / kecitpañcaśikhīkṛtāśca jaṭilāḥ kāpālikāścāpare
+80 | 80 | viśvāmitraparāśaraprabhṛtayo vātāmbuparṇāśanāste'pi / strīmukhapaṅkajaṃ sulalitaṃ dṛṣṭvaiva mohaṃ gatāḥ / śālyannaṃ saghṛtaṃ payodadhiyutaṃ ye bhuñjate mānavāsteṣām / indriyanigraho yadi bhavedvindhyaḥ plavetsāgare
+81 | 81 | parimalabhṛto vātāḥ śākhā navāṅkurakoṭayo / madhuravidhurotkaṇṭhābhājaḥ priyā pikapakṣiṇāṃ / viralavirasasvedodgārā vadhūvadanendavaḥ / prasarati madhau dhātryāṃ jāto na kasya guṇodayaḥ
+82 | 82 | madhurayaṃ madhurairapi kokilā / kalaravairmalayasya ca vāyubhiḥ / virahiṇaḥ prahiṇasti śarīriṇo / vipadi hanta sudhāpi viṣāyate
+83 | 83 | āvāsaḥ kilakiñcitasya dayitāpārśve vilāsālasāḥ / karṇe kokilakāminīkalaravaḥ smero latāmaṇḍapaḥ / goṣṭhī satkavibhiḥ samaṃ katipayairmugdhāḥ sudhāṃśoḥ karāḥ / keṣāṃcitsukhayanti cātra hṛdayaṃ caitre vicitrāḥ kṣapāḥ
+84 | 84 | pāntha strīvirahānalāhutikalāṃ ātanvatī mañjarīmākandeṣu / pikāṅganābhiradhunā sotkaṇṭhaṃ ālokyate / apyete navapāṭalāparimalaprāgbhārapāṭaccarā / vāntiklāntivitānatānavakṛtaḥ śrīkhaṇḍaśailānilāḥ
+85 | 85 | prathitaḥ praṇayavatīnāṃ / tāvatpadaṃ ātanotu hṛdi mānaḥ / bhavati na yāvaccandanataru / surabhirmalayapavamānaḥ
+86 | 86 | sahakārakusumakesaranikara / bharāmodamūrcchitadigante / madhuramadhuravidhuramadhupe / madhau bhavetkasya notkaṇṭhā
+87 | 87 | acchācchacandanarasārdratarā mṛgākṣyo / dhārāgṛhāṇi kusumāni ca kaumudī ca / mando marutsumanasaḥ śuci harmyapṛṣṭhaṃ / grīṣme madaṃ ca madanaṃ ca vivardhayanti
+88 | 88 | srajo hṛdyāmodā vyajanapavanaścandrakiraṇāḥ / parāgaḥ kāsāro malayajarajaḥ śīdhu viśadaṃ / śuciḥ saudhotsaṅgaḥ pratanu vasanaṃ paṅkajadṛśo / nidāghartāvetadvilasati labhante sukṛtinaḥ
+89 | 89 | sudhāśubhraṃ dhāma sphuradamalaraśmiḥ śaśadharaḥ / priyāvaktrāmbhojaṃ malayajarajaścātisurabhiḥ / srajo hṛdyāmodāstadidaṃ akhilaṃ rāgiṇi jane / karotyantaḥ kṣobhaṃ na tu viṣayasaṃsargavimukhe
+90 | 90 | taruṇīveṣoddīpitakāmā / vikasajjātīpuṣpasugandhiḥ / unnatapīnapayodharabhārā / prāvṛṭtanute kasya na harṣaṃ
+91 | 91 | viyadupacitameghaṃ bhūmayaḥ kandalinyo / navakuṭajakadambāmodino gandhavāhāḥ / śikhikulakalakekārāvaramyā vanāntāḥ / sukhinaṃ asukhinaṃ vā sarvaṃ utkaṇṭhayanti
+92 | 92 | upari ghanaṃ ghanapaṭalaṃ / tiryaggirayo'pi nartitamayūrāḥ / kṣitirapi kandaladhavalā / dṛṣṭiṃ pathikaḥ kva pātayati
+93 | 93 | ito vidyudvallīvilasitaṃ itaḥ ketakitaroḥ / sphurangandhaḥ prodyajjaladaninadasphūrjitaṃ itaḥ / itaḥ kekikrīḍākalakalaravaḥ pakṣmaladṛśāṃ / kathaṃ yāsyantyete virahadivasāḥ sambhṛtarasāḥ
+94 | 94 | asūcisañcāre tamasi nabhasi prauḍhajaladadhvani / prājñaṃmanye patati pṛṣatānāṃ ca nicaye / idaṃ saudāminyāḥ kanakakamanīyaṃ vilasitaṃ / mudaṃ ca mlāniṃ ca prathayati pathi svairasudṛśāṃ
+95 | 95 | āsāreṇa na harmyataḥ priyatamairyātuṃ bahiḥ śakyate / śītotkampanimittaṃ āyatadṛśā gāḍhaṃ samāliṅgyate / jātāḥ śīkaraśītalāśca marutoratyantakhedacchido / dhanyānāṃ bata durdinaṃ sudinatāṃ yāti priyāsaṅgame
+96 | 96 | ardhaṃ suptvā niśāyāḥ sarabhasasuratāyāsasannaślathāṅgaprodbhūtāsahya / tṛṣṇo madhumadanirato harmyapṛṣṭhe vivikte / sambhogaklāntakāntāśithilabhujalatāvarjitaṃ karkarīto / jyotsnābhinnācchadhāraṃ pibati na salilaṃ śāradaṃ mandapuṇyaḥ
+97 | 97 | hemante dadhidugdhasarpiraśanā māñjiṣṭhavāsobhṛtaḥ / kāśmīradravasāndradigdhavapuṣaśchinnā vicitrai rataiḥ / vṛttorustanakāminojanakṛtāśleṣā gṛhābhyantare / tāmbūlīdalapūgapūritamukhā dhanyāḥ sukhaṃ śerate
+98 | 98 | praduyatprauḍhapriyaṅgudyutibhṛti vikasatkundamādyaddvirephe / kāle prāleyavātapracalavilasitodāramandāradhāmni / yeṣāṃ no kaṇṭhalagnā kṣaṇaṃ api tuhinakṣodadakṣā mṛgākṣī / tesāṃ āyāmayāmā yamasadanasamā yāminī yāti yūnāṃ
+99 | 99 | cumbanto gaṇḍabhittīralakavati mukhe sītkṛtānyādadhānā / vakṣaḥsūtkañcukeṣu stanabharapulakodbhedaṃ āpādayantaḥ / ūrūnākampayantaḥ pṛthujaghanataṭātsraṃsayanto'ṃśukāni / vyaktaṃ kāntājanānāṃ viṭacaritabhṛtaḥ śaiśirā vānti vātāḥ
+100 | 100 | keśānākulayandṛśo mukulayanvāso balādākṣipannātanvan / pulakodgamaṃ prakaṭayannāvegakampaṃ śanaiḥ / bāraṃ bāraṃ udārasītkṛtakṛto dantacchadānpīḍayan / prāyaḥ śaiśira eṣa samprati marutkāntāsu kāntāyate
+101 | 101 | yadyasya nāsti ruciraṃ tasmiṃstasya spṛhā manojñe'pi / ramaṇīye'pi sudhāṃśau na manaḥkāmaḥ sarojinyāḥ
+102 | 102 | vairāgye saṃcaratyeko nītau bhramati cāparaḥ / śṛṅgāre ramate kaścidbhuvi bhedāḥ parasparaṃ

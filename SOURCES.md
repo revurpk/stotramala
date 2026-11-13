@@ -2401,3 +2401,22 @@ inside the prose, tables and vocabularies included.
 | Text status | public domain |
 
 The pages give each root with its number, the root in IAST, its meaning in Sanskrit as the Dhātupāṭha states it, and the editor’s English and Telugu (original). Böhtlingk’s accent marks, the bracketed variant readings and his remarks on single roots are not carried; roots that share one meaning (printed once, after the last) are given as one entry. The alphabetical index of the roots that follows the list in the book (pp. 84*–93*) is not transcribed. The list is read from the page images: many roots are small and some lettering is blurred, so a few readings, above all of the rarer roots, may be wrong. The English and Telugu are the editor’s glosses of the Sanskrit meanings and are not Böhtlingk’s.
+
+## 9. Subhāṣita
+
+### 9.1 Bhartṛhari’s Nītiśatakam — `stotra/subhashita/subhashita-niti-iast.html`
+
+| Field | Value |
+|---|---|
+| Work | Bhartṛhari, *Nītiśatakam* (the hundred verses on wise conduct), 110 numbered verses and two unnumbered opening verses |
+| Source | Sanskrit Wikisource, page *नीतिशतकम्* (`sa.wikisource.org`), fetched 2026-11-12 as raw wikitext and converted to IAST with the project’s `dev2iast.py` |
+| Recorded | 2026-11-12 |
+| Text status | public domain (the verses); the Wikisource transcription is freely licensed |
+
+Editorial notes (the text is Wikisource’s, kept as it stands except for the points below):
+- The first two verses carry no number in the source: a benediction (*dikkālādyanavacchinna…*) and the poet’s well-known verse on his disappointed love (*yāṃ cintayāmi satatam…*). They are given without a badge.
+- The source’s numbering jumps from 6 to 8, with no verse 7; the numbers are kept as printed and no verse is supplied.
+- The avagraha (ऽ) is written as an inverted comma. Printing slips of the source were corrected: *gṛdyṇāti* to *gṛhṇāti* (49), *nāḍkitaḥ* to *nāṅkitaḥ* (54), *kṛcchgato* to *kṛcchragato* (30), *prīrtigurau* to *prītirgurau* (62). Interjection marks (“!”) and the connective *api ca -* at the head of verses 41 and 95 are dropped.
+- Verses are kept in the source’s word-joining: long runs of sandhi are not divided, and a few lines of the source (verse 18, 34, 36) have a short prose lead-in that is dropped.
+- The English and Telugu translations are original; the Telugu follows the English closely.
+- The Śṛṅgāra- and Vairāgya-śatakas have been transcribed in `tools/subhashita/` but are not yet translated, so they are not published.
