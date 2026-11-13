@@ -55,6 +55,15 @@ IAST, Devanāgarī, or Telugu (script bar at the top).
 | Subrahmaṇya | Śrī Subrahmaṇya Bhujaṅgam | [read](stotra/subrahmanya/subrahmanya-bhujangam-iast.html) |
 | Subrahmaṇya | Aṣṭottaraśatanāmastotram — 108 names | [read](stotra/subrahmanya/subrahmanya-ashtottara-shatanama-stotram-iast.html) |
 | Subrahmaṇya | Ṣoḍaśanāmastotram — 16 names | [read](stotra/subrahmanya/subrahmanya-shodashanama-stotram-iast.html) |
+| Gaṇeśa | Aṣṭottaraśatanāmāvaliḥ — 108 names | [read](stotra/ganesha/ganesha-ashtottara-shatanamavali-iast.html) |
+| Gaṇeśa | Ṣoḍaśanāmastotram — 16 names | [read](stotra/ganesha/ganesha-shodashanama-stotram-iast.html) |
+| Viṣṇu | Kṛṣṇa Aṣṭottaraśatanāmāvaliḥ | [read](stotra/vishnu/krishna-ashtottara-shatanamavali-iast.html) |
+| Hanumān | Āñjaneya Aṣṭottaraśatanāmāvaliḥ | [read](stotra/hanuman/anjaneya-ashtottara-shatanamavali-iast.html) |
+| Devī | Lakṣmī Aṣṭottaraśatanāmāvaliḥ | [read](stotra/devi/lakshmi-ashtottara-shatanamavali-iast.html) |
+| Devī | Lalitā Aṣṭottaraśatanāmāvaliḥ | [read](stotra/devi/lalita-ashtottara-shatanamavali-iast.html) |
+| Śiva | Aṣṭottaraśatanāmāvaliḥ — 108 names | [read](stotra/shiva/shiva-ashtottara-shatanamavali-iast.html) |
+| Subrahmaṇya | Aṣṭottaraśatanāmāvaliḥ — names as a nāmāvali | [read](stotra/subrahmanya/subrahmanya-ashtottara-shatanamavali-iast.html) |
+| Veṅkaṭeśvara | Aṣṭottaraśatanāmāvaliḥ — 108 names | [read](stotra/venkateshwara/venkateshwara-ashtottara-shatanamavali-iast.html) |
 | Advaita | Nirvāṇa Ṣaṭkam | [read](stotra/advaita/nirvana-shatkam-iast.html) |
 | Advaita | Vedānta Ḍiṇḍima (94 verses) | [read](stotra/advaita/vedanta-dindima-iast.html) |
 | Viṣṇu | Bhaja Govindam (33 verses) — Ādi Śaṅkara | [read](stotra/vishnu/bhaja-govindam-iast.html) |
