@@ -22,15 +22,20 @@ def main():
         m = re.search(r"^%\s*(.+)$", f.read_text(encoding="utf-8"), re.M)
         links.append((f"Lesson {ROMAN[nn]}", f"perry-{nn:02d}-iast.html", m.group(1).strip() if m else TITLES.get(nn, "")))
         last = nn
+    for name, label, href in (("gloss1", "Glossary I", "perry-gloss-1-iast.html"), ("gloss2", "Glossary II", "perry-gloss-2-iast.html"),
+                              ("appendix", "Appendix and Corrections", "perry-appendix-iast.html")):
+        if (HERE / f"{name}.txt").exists():
+            m = re.search(r"^%\s*(.+)$", (HERE / f"{name}.txt").read_text(encoding="utf-8"), re.M)
+            links.append((label, href, m.group(1).strip() if m else ""))
     st = {"deity": "learn", "doc_title": "A Sanskrit Primer", "app_title": "Sanskrit Primer",
-          "h1": "A Sanskrit Primer", "subtitle": f"E. D. Perry, after Bühler · lessons I–{ROMAN[last]} so far",
+          "h1": "A Sanskrit Primer", "subtitle": f"E. D. Perry, after Bühler · the whole book: introduction, lessons I–{ROMAN[last]}, glossaries, appendix",
           "note": ("Edward Delavan Perry’s graded course (1885): each lesson has its rules, a vocabulary and "
                    "exercises, with Telugu meanings and English and Telugu translations and answers folded "
                    "under each sentence. Open any lesson to read it in Devanāgarī, Telugu or IAST."),
           "footer": ("Source: Edward Delavan Perry, A Sanskrit Primer, based on the Leitfaden für den "
                      "Elementarcursus des Sanskrit of Georg Bühler (Ginn & Co., 1885; public domain); "
                      "editorial notes in SOURCES §8.1"),
-          "sections": [{"rubric": "The lessons, in order. The introduction (§§ 1–91) and the glossaries are to follow."},
+          "sections": [{"rubric": "The book in order: the introduction (§§ 1–91), the 45 lessons, the two glossaries to the exercises, and the appendix with Perry’s corrections."},
                        {"links": links}]}
     q = lambda v: repr(v) if isinstance(v, bool) else json.dumps(v, ensure_ascii=False)
     out = ["# -*- coding: utf-8 -*-", "# Copyright 2026 Pradyumna Revur — CC BY 4.0 (see LICENSE)",

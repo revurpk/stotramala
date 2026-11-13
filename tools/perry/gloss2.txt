@@ -1,0 +1,812 @@
+# Perry, A Sanskrit Primer. Glossary to the Exercises, II. English-Sanskrit = pp. 217–228 = leaves n236–n247 of the Cornell scan.
+% Glossary to the Exercises: English–Sanskrit (pp. 217–228)
+@236
+## II. English-Sanskrit.
+R abandon, to | ⟨tyaj⟩; 1⟨hā⟩.
+R able | ⟨samartha⟩; ⟨śakya⟩.
+R able, to be | ⟨śak⟩.
+R according to | ⟨anu⟩, postpos.
+R acquire, to | ⟨labh⟩; ⟨āp⟩.
+R Aśvins | ⟨aśvinau⟩, du.
+R address, to | ⟨brū⟩.
+R adore, to | ⟨nam⟩ + ⟨pra⟩.
+R adorn, to | 1⟨kṛ⟩ + ⟨alam⟩.
+R advantage | ⟨hita⟩ n.; ⟨kalyāṇa⟩ n.
+R adversity | ⟨duḥkha⟩ n.
+R afraid, to be | ⟨bhī⟩.
+R afterward | ⟨tatas⟩.
+R again | ⟨punar⟩.
+R against | ⟨prati⟩.
+R age | ⟨vayas⟩ n.
+R all | ⟨sarva⟩; (entire) ⟨viśva⟩.
+R all protecting | ⟨viśvapā⟩.
+R allow, to | ⟨jñā⟩ + ⟨anu⟩.
+R alms | ⟨bhikṣā⟩ f.
+R alone (adv.) | ⟨eva⟩.
+R also | ⟨api⟩.
+R altar | ⟨vedi⟩ f.
+R although | ⟨api⟩.
+R always | ⟨sadā⟩, ⟨nityam⟩.
+R amuse oneself, to | ⟨ram⟩.
+R ancient | ⟨purāṇa⟩.
+R and | ⟨ca⟩, postpos.; ⟨tathā⟩.
+R anger | ⟨kopa⟩ m.; ⟨krodha⟩ m.
+R animal | ⟨tiryañc⟩ m.
+R announce, to | 1⟨vid⟩ + ⟨ni⟩, caus.
+R answer, to | ⟨bhāṣ⟩ + ⟨prati⟩.
+R appoint, to | ⟨kḷp⟩, caus.; ⟨yuj⟩ + ⟨ni⟩.
+R approach, to | ⟨gam⟩ + ⟨ā⟩; ⟨yā⟩ + ⟨ā⟩.
+R argument (reason) | ⟨vāc⟩ f.
+R arise, to | ⟨bhū⟩; (get up) ⟨sthā⟩ + ⟨ud⟩.
+R arm | ⟨bāhu⟩ m.
+R army | ⟨senā⟩ f.
+R arrive, to | ⟨gam⟩ + ⟨ā⟩.
+R arrow | ⟨śara⟩ m.; ⟨iṣu⟩ m.
+R Aryan | ⟨dvija⟩ m.; ⟨dvijāti⟩ m.
+R ascetic | ⟨muni⟩ m.; ⟨yati⟩ m.; ⟨parivrāj⟩ m.; ⟨tapasvin⟩ m.; — to become an a. | ⟨vraj⟩ + ⟨pra⟩.
+R ashamed, to be | ⟨hrī⟩.
+R ashes | ⟨bhasman⟩ n.
+R ask, to (inquire) | ⟨prach⟩.
+R ask for, to | ⟨arthaya⟩.
+R assembly | ⟨sabhā⟩ f.; ⟨pariṣad⟩ f.
+R astronomy | ⟨jyotiṣa⟩ n.
+R attain, to | ⟨labh⟩; 2⟨vid⟩; 1⟨aś⟩; ⟨āp⟩; ⟨āp⟩ + ⟨ava⟩ or ⟨pra⟩.
+R attainment | ⟨lābha⟩ m.
+R author | ⟨kartṛ⟩ m.; (of Vedic hymns, etc.) ⟨draṣṭṛ⟩ m.
+R axe | ⟨paraśu⟩ m.
+R bad | ⟨pāpa⟩.
+R bank | ⟨tīra⟩ n.
+R banner | ⟨ketu⟩ m.
+R barbarian | ⟨yavana⟩ m.
+R bathe, to | ⟨snā⟩.
+@237
+R battle | ⟨raṇa⟩ m. n.; ⟨yuddha⟩ n.
+R be, to | ⟨bhū⟩; ⟨vṛt⟩; (be situated) ⟨sthā⟩.
+R bear, to | ⟨bhṛ⟩; (bring forth) ⟨sū⟩; ⟨sū⟩ + ⟨pra⟩.
+R bear | ⟨ṛkṣa⟩ m.
+R beat, to | ⟨taḍ⟩.
+R beautiful | ⟨sundara⟩; ⟨rūpavant⟩.
+R beauty | ⟨rūpa⟩ n.
+R become, to | ⟨bhū⟩; ⟨vṛt⟩.
+R bee | ⟨ali⟩ m.; ⟨madhulih⟩ m.
+R beg, to | ⟨bhikṣ⟩.
+R begin, to | ⟨rabh⟩ + ⟨ā⟩.
+R behind | ⟨paścāt⟩ (w. gen.).
+R behold, to | ⟨īkṣ⟩.
+R Benares | ⟨kāśī⟩ f.
+R bend, to | ⟨nam⟩.
+R benefit, to | 1⟨kṛ⟩ + ⟨upa⟩.
+R beseech, to | ⟨pad⟩ + ⟨pra⟩.
+R besiege, to | ⟨rudh⟩; ⟨rudh⟩ + ⟨upa⟩.
+R best | ⟨śreṣṭha⟩; ⟨jyeṣṭha⟩.
+R betake oneself, to | ⟨yā⟩; ⟨śri⟩ + ⟨ā⟩.
+R better | ⟨śreyas⟩; ⟨jyāyas⟩.
+R bind, to | ⟨bandh⟩.
+R biped | ⟨dvipad⟩.
+R bird | ⟨vihaga⟩ m.; ⟨pakṣin⟩ m.
+R birth | ⟨jāti⟩ f.; ⟨janman⟩ n.
+R black | ⟨kṛṣṇa⟩.
+R blame, to | ⟨nind⟩; 1⟨kṛ⟩ + ⟨tiras⟩.
+R blessed | ⟨bhagavant⟩; (as prefix) ⟨śrī⟩.
+R blood | ⟨rudhira⟩ n.
+R blow, to (intr.) | ⟨vah⟩.
+R boat | ⟨nau⟩ f.
+R body | ⟨śarīra⟩ n.; ⟨vapus⟩ n.; ⟨kāya⟩ m.; (heavenly: sun, etc.) ⟨jyotis⟩ n.
+R bone | ⟨asthan⟩ n.
+R book | (manuscript) ⟨pustaka⟩ n.; (work) ⟨grantha⟩ m.
+R born, to be | ⟨jan⟩; ⟨jan⟩ + ⟨ud⟩.
+R both | ⟨ubha⟩ du.
+R bow, to | ⟨nam⟩.
+R boy | ⟨bāla⟩ m.; ⟨kumāra⟩ m.
+R Brāhman | ⟨brāhmaṇa⟩ m.; ⟨dvija⟩ m.; ⟨dvijāti⟩ m.; ⟨vipra⟩ m.
+R branch | ⟨śākhā⟩ f.
+R brave | ⟨dhīra⟩.
+R breast | ⟨uras⟩ n.; ⟨vakṣas⟩ n.
+R bridegroom | ⟨vara⟩ m.
+R bring, to | ⟨nī⟩ + ⟨ā⟩; ⟨hṛ⟩ + ⟨ā⟩.
+R broad | ⟨pṛthu⟩; ⟨uru⟩.
+R brother | ⟨bhrātṛ⟩ m.
+R burn, to | ⟨dah⟩.
+R business | ⟨kārya⟩ n.
+R but | ⟨tu⟩; ⟨kiṃtu⟩; ⟨punar⟩.
+R call, to | ⟨hvā⟩; (name) ⟨vac⟩; ⟨vad⟩.
+R capable | ⟨samartha⟩.
+R caste | ⟨jāti⟩ f.
+R cattle | ⟨go⟩ m. pl.
+R cease, to | ⟨śam⟩; ⟨ram⟩ + ⟨vi⟩.
+R celebrated | ⟨viśruta⟩; ⟨śrīmant⟩.
+R chain | ⟨hāra⟩ m.
+R charioteer | ⟨sūta⟩ m.
+R charm | ⟨kānti⟩ f.
+R check, to | ⟨dam⟩, caus.; ⟨rudh⟩.
+R chest | ⟨vakṣas⟩ n.; ⟨uras⟩ n.
+R child | ⟨bāla⟩ m.; ⟨śiśu⟩ m.
+R choose, to | 2⟨vṛ⟩.
+R cistern | ⟨vāpī⟩ f.
+R citizen | ⟨paura⟩ m.
+R city | ⟨nagara⟩ n.; -⟨ī⟩ f.; ⟨pur⟩ f.
+R cleverness | ⟨buddhi⟩ f.
+R climb, to | ⟨ruh⟩ + ⟨ā⟩.
+R close, to | 1⟨vṛ⟩ + ⟨sam⟩; 1⟨dhā⟩ + ⟨api⟩.
+R cloud | ⟨megha⟩ m.
+R coachman | ⟨sūta⟩ m.
+R come, to | ⟨gam⟩ + ⟨ā⟩; ⟨yā⟩ + ⟨ā⟩; ⟨i⟩ + ⟨abhi⟩ or ⟨ā⟩; come out: ⟨gam⟩ + ⟨nis⟩; ⟨yā⟩ + ⟨nis⟩.
+@238
+R command, to | ⟨diś⟩ + ⟨ā⟩; ⟨jñā⟩ + ⟨ā⟩ caus.
+R command | ⟨ājñā⟩ f.; ⟨nideśa⟩ m.
+R commit, to | ⟨car⟩ + ⟨ā⟩; 1⟨kṛ⟩.
+R companion | ⟨sahāya⟩ m.; ⟨sahacara⟩ m.
+R company | ⟨samāja⟩ m.
+R compose, to | ⟨rac⟩.
+R conduct | ⟨vṛtta⟩ n.
+R confine, to | ⟨rudh⟩ + ⟨ni⟩.
+R conquer, to | ⟨ji⟩.
+R consecrate, to | ⟨nī⟩ + ⟨upa⟩.
+R consider, to | ⟨cint⟩; 1⟨vid⟩.
+R consort | ⟨patnī⟩ f.
+R cook, to | ⟨pac⟩.
+R copying | ⟨lekhana⟩ n.
+R cord, sacred | ⟨upavīta⟩ n.
+R count, to | ⟨gaṇaya⟩.
+R courageous | ⟨tejasvin⟩.
+R course | ⟨gati⟩ f.
+R cover, to | 1⟨vṛ⟩ (mid.); 1⟨vṛ⟩ + ⟨sam⟩ (mid.).
+R cow | ⟨dhenu⟩ f.; ⟨go⟩ f.
+R cowherd | ⟨gopa⟩ m.
+R create, to | ⟨sṛj⟩.
+R creator | ⟨dhātṛ⟩ m.; ⟨sraṣṭṛ⟩ m.
+R creature | ⟨prāṇin⟩ m.; ⟨jagat⟩ n.
+R crescent | ⟨kalā⟩ f.
+R cross, to | ⟨tṛ⟩.
+R crow | ⟨vāyasa⟩ m.
+R curds | ⟨dadhan⟩ n.
+R cut, to | ⟨kṛt⟩; ⟨chid⟩.
+R cut off, to | ⟨kṛt⟩ + ⟨ava⟩; ⟨chid⟩ + ⟨ava⟩.
+R daily | ⟨nitya⟩; (adv.) ⟨nityam⟩; ⟨pratyaham⟩.
+R dancing | ⟨nṛtta⟩ n.
+R daughter | ⟨kanyā⟩ f.; ⟨putrī⟩ f.; ⟨duhitṛ⟩ f.
+R day | ⟨divasa⟩ m.; ⟨dina⟩ n.; ⟨ahan⟩ n.; d. by d. | ⟨dine dine⟩; ⟨pratyaham⟩; a day and a night | ⟨ahorātra⟩ n.
+R dead | ⟨mṛta⟩; ⟨vipanna⟩.
+R decide, to (settle) | ⟨nī⟩ + ⟨nis⟩.
+R deed | ⟨karman⟩ n.
+R deity | ⟨devatā⟩ f.
+R delicate | ⟨taruṇa⟩.
+R delight, to (tr.) | ⟨tuṣ⟩, caus.
+R deliverance | ⟨mukti⟩ f.
+R demon | ⟨rākṣasa⟩ m.
+R depart, to | ⟨i⟩ + ⟨apa⟩.
+R describe, to | ⟨varṇaya⟩.
+R desire, to | ⟨lubh⟩.
+R destroy, to | ⟨bhañj⟩.
+R despise, to | ⟨man⟩ + ⟨ava⟩; ⟨bhū⟩ + ⟨pari⟩.
+R determine, to | ⟨ci⟩ + ⟨nis⟩ or ⟨vi-nis⟩.
+R devoted | ⟨bhakta⟩; ⟨snigdha⟩.
+R devotion | ⟨bhakti⟩ f.
+R die | ⟨akṣa⟩ m.
+R die, to | ⟨mṛ⟩; ⟨i⟩ + ⟨pra⟩; ⟨pad⟩ + ⟨vi⟩.
+R difficult | ⟨durlabha⟩; ⟨duṣkara⟩.
+R dig, to | ⟨khan⟩.
+R diligence | ⟨udyoga⟩ m.
+R diligently | ⟨bhṛśam⟩.
+R disappear, to | ⟨naś⟩ + ⟨vi⟩.
+R disease | ⟨ruj⟩ f.; ⟨vyādhi⟩ m.
+R dismount, to | ⟨ruh⟩ + ⟨ava⟩.
+R disown, to | ⟨khyā⟩ + ⟨prati-ā⟩.
+R dispute, to | ⟨vad⟩ + ⟨vi⟩.
+R distress, to | ⟨du⟩.
+R distribute, to | ⟨bhaj⟩ + ⟨vi⟩.
+R divine | ⟨divya⟩.
+R do, to | 1⟨kṛ⟩; ⟨car⟩ + ⟨sam-ā⟩.
+R domestic | ⟨gṛhya⟩.
+R dog | ⟨śvan⟩ m.; ⟨śunī⟩ f.
+R door | ⟨dvār⟩ f.
+@239
+R doorkeeper | ⟨dvāḥstha⟩ m.
+R dove | ⟨kapota⟩ m.
+R draw, to | ⟨vah⟩.
+R drink, to | 1⟨pā⟩.
+R driver | ⟨sūta⟩ m.
+R drop, to | ⟨sic⟩.
+R drop | ⟨bindu⟩ m.
+R dwell, to | 3⟨vas⟩; ⟨vas⟩ + ⟨ni⟩; dwell on (fig.) | ⟨sañj⟩.
+R ear | ⟨karṇa⟩ m.
+R earth | ⟨pṛthivī⟩ f.; ⟨bhū⟩ f.; ⟨bhūmi⟩ f.
+R east, eastern | ⟨prāñc⟩; the E. | ⟨prācī⟩ f., sc. ⟨diś⟩.
+R eat, to | ⟨ad⟩; 2⟨aś⟩; ⟨bhakṣ⟩; ⟨bhuj⟩.
+R eating | ⟨bhakṣaṇa⟩ n.
+R eclipse, to | 1⟨kṛ⟩ + ⟨tiras⟩.
+R eight | ⟨aṣṭa⟩.
+R eighth | ⟨aṣṭama⟩.
+R eighty | ⟨aśīti⟩ f.
+R eightieth | ⟨aśītitama⟩.
+R eldest | ⟨jyeṣṭha⟩.
+R elephant | ⟨gaja⟩ m.; ⟨hastin⟩ m.
+R eleventh | ⟨ekādaśa⟩.
+R emerge, to | ⟨tṛ⟩ + ⟨ud⟩.
+R eminent, to be | ⟨śubh⟩.
+R emperor | ⟨samrāj⟩ m.
+R encompass, to | 1⟨vṛ⟩; ⟨chid⟩ + ⟨ava⟩.
+R end | ⟨anta⟩ m.
+R endure, to | ⟨sah⟩.
+R enemy | ⟨ari⟩ m.; ⟨śatru⟩ m.; ⟨dviṣ⟩ m.
+R enjoy, to | ⟨bhuj⟩.
+R enjoyment | ⟨bhoga⟩ m.
+R enter, to | ⟨viś⟩ + ⟨pra⟩.
+R entrancing | ⟨manohara⟩.
+R envoy | ⟨dūta⟩ m.
+R entrust, to | 1⟨dā⟩ + ⟨pra⟩.
+R equip, to | ⟨nah⟩ + ⟨sam⟩.
+R eulogy | ⟨stotra⟩ n.
+R even (adv.) | ⟨api⟩.
+R every | ⟨sarva⟩.
+R evil (adj.) | ⟨pāpa⟩; (subst.) ⟨pāpa⟩ n.
+R exceedingly | ⟨ati⟩.
+R explain, to | ⟨brū⟩ + ⟨vi⟩; 1⟨vṛ⟩ + ⟨vi⟩; ⟨cakṣ⟩ + ⟨vi-ā⟩.
+R exterminate, to | ⟨chid⟩ + ⟨ud⟩.
+R eye | ⟨netra⟩ n.; ⟨cakṣus⟩ n.; ⟨akṣan⟩ n.; ⟨locana⟩ n.
+R face | ⟨mukha⟩ n.
+R fagot | ⟨samidh⟩ f.
+R fair | ⟨sundara⟩.
+R fall, to | ⟨pat⟩; ⟨pat⟩ + ⟨ni⟩; fall to one’s lot | ⟨ṛ⟩; fallen (killed) | ⟨patita⟩; ⟨mṛta⟩.
+R fame | ⟨kīrti⟩ f.; ⟨yaśas⟩ n.
+R family | ⟨vaṃśa⟩ m.
+R famous | ⟨viśruta⟩.
+R fast (firm) | ⟨dṛḍha⟩.
+R fasten, to | ⟨bandh⟩.
+R fat | ⟨pīna⟩; ⟨puṣṭa⟩.
+R father | ⟨janaka⟩ m.; ⟨pitṛ⟩ m.
+R fault, to find | 1⟨kṛ⟩ + ⟨tiras⟩.
+R faultless | ⟨anavadya⟩.
+R fear | ⟨bhaya⟩ n.
+R field | ⟨kṣetra⟩ n.
+R fifth | ⟨pañcama⟩.
+R fight, to | ⟨yudh⟩.
+R filled | ⟨pūrṇa⟩; ⟨sampūrṇa⟩.
+R finally | ⟨ante⟩.
+R find, to | 2⟨vid⟩.
+R finish, to | ⟨āp⟩ + ⟨sam⟩.
+R fire | ⟨agni⟩ m.; ⟨hutabhuj⟩ m.
+R firewood | ⟨samidh⟩ f.
+R first | ⟨prathama⟩; at first | ⟨prathamam⟩.
+R fish | ⟨matsya⟩ m.; ⟨mīna⟩ m.
+R fit, to | ⟨yuj⟩.
+@240
+R five | ⟨pañca⟩.
+R flee, to | ⟨palāy⟩.
+R flit, to | ⟨bhram⟩.
+R flock | ⟨paśu⟩ m. pl.
+R flower | ⟨puṣpa⟩ n.; ⟨sumanas⟩ f.
+R fly, to | ⟨pat⟩; fly up | ⟨pat⟩ + ⟨ud⟩.
+R fodder | ⟨ghāsa⟩ m.
+R foe | ⟨ari⟩ m.; ⟨śatru⟩ m.
+R follow, to | ⟨gam⟩ + ⟨anu⟩; ⟨i⟩ + ⟨anu⟩.
+R fond, to be | ⟨tuṣ⟩.
+R food | ⟨anna⟩ n.
+R foot | ⟨pāda⟩ m.; ⟨pad⟩ m.
+R force | ⟨bala⟩ n.
+R foreign | ⟨para⟩.
+R forehead | ⟨lalāṭa⟩ n.
+R forest | ⟨vana⟩ n.
+R forest-dwelling | ⟨vanavāsin⟩.
+R form, to | 1⟨mā⟩ + ⟨nis⟩.
+R formula (sacrificial) | ⟨yajus⟩ n.
+R fortune | ⟨śrī⟩ f., often pl.; goddess of f. | ⟨śrī⟩ f.
+R forty | ⟨catvāriṃśat⟩ f.
+R four | ⟨catur⟩.
+R free, to | ⟨muc⟩.
+R friend | ⟨mitra⟩ n.; ⟨sakhi⟩ m.; ⟨suhṛd⟩ m.
+R friend-betrayer | ⟨mitradruh⟩.
+R front | ⟨agra⟩ n.; in f. of | ⟨agre⟩, ⟨samakṣam⟩ (gen.).
+R fruit | ⟨phala⟩ n.
+R fruitful | ⟨phalavant⟩.
+R full | ⟨pūrṇa⟩; ⟨sampūrṇa⟩.
+R gain, to | ⟨labh⟩.
+R garden | ⟨udyāna⟩ n.
+R garland | ⟨mālā⟩ f.; ⟨sraj⟩ f.
+R gate | ⟨dvār⟩ f.
+R gather, to | ⟨ci⟩ + ⟨sam⟩.
+R gazelle | ⟨hariṇa⟩ m.; ⟨mṛga⟩ m.
+R generous | ⟨dātṛ⟩.
+R get, to | ⟨labh⟩; 1⟨aś⟩; ⟨āp⟩.
+R gift | ⟨dāna⟩ n.
+R gird, to | ⟨nah⟩ + ⟨sam⟩.
+R girdle | ⟨mekhalā⟩ f.
+R girl | ⟨kanyā⟩ f.; ⟨bālā⟩ f.
+R give, to | ⟨yam⟩; 1⟨dā⟩.
+R giver | ⟨dātṛ⟩ m.
+R glance | ⟨dṛś⟩ f.
+R glory | ⟨kīrti⟩ f.; ⟨yaśas⟩ n.
+R go, to | ⟨car⟩; ⟨yā⟩; ⟨gam⟩; ⟨i⟩; go on (continue) | ⟨vṛt⟩ + ⟨pra⟩.
+R god | ⟨deva⟩ m.; goddess | ⟨devī⟩ f.
+R gold | ⟨suvarṇa⟩ n.
+R govern, to | ⟨śās⟩; ⟨rājyaṃ kṛ⟩.
+R good | ⟨sādhu⟩; ⟨sant⟩.
+R gracious | ⟨śiva⟩.
+R graciousness | ⟨kṛpā⟩ f.
+R grain | ⟨dhānya⟩ n.
+R grammar | ⟨vyākaraṇa⟩ n.
+R grasp, to | ⟨grah⟩.
+R graze, to | ⟨car⟩.
+R great | ⟨mahant⟩.
+R great king | ⟨mahārāja⟩ m.
+R greater | ⟨mahīyas⟩; ⟨adhika⟩.
+R greatly | ⟨bahu⟩; ⟨bhṛśam⟩.
+R greedy | ⟨lubdha⟩.
+R Greek | ⟨yavana⟩ m.
+R greet, to | ⟨vand⟩; ⟨vad⟩ + ⟨abhi⟩, caus.
+R grieve, to | ⟨du⟩.
+R ground | ⟨bhūmi⟩ f.; on the g. | ⟨adhas⟩.
+R grind, to | ⟨piṣ⟩.
+R guard, to | ⟨rakṣ⟩; ⟨gopāya⟩.
+R guest | ⟨atithi⟩ m.
+R guilt | ⟨pāpa⟩ n.; ⟨enas⟩ n.
+R hand | ⟨kara⟩ m.; ⟨pāṇi⟩ m.; ⟨hasta⟩ m.
+R hang, to | ⟨sañj⟩; ⟨lag⟩.
+R happiness | ⟨sukha⟩ n.
+@241
+R happy, to be | ⟨mud⟩.
+R hard to find | ⟨durlabha⟩.
+R harm, to | 1⟨kṛ⟩ + ⟨apa⟩.
+R hate, to | ⟨dviṣ⟩; ⟨dviṣ⟩ + ⟨pra⟩.
+R hear, to | ⟨śru⟩.
+R heart | ⟨hṛdaya⟩ n.; ⟨hṛd⟩ n.
+R heaven | ⟨svarga⟩ m.
+R heavy | ⟨guru⟩.
+R hell | ⟨naraka⟩ m.
+R here | ⟨atra⟩; ⟨iha⟩.
+R hero | ⟨śūra⟩ m.; ⟨vīra⟩ m.
+R hesitation | ⟨śaṅkā⟩ f.
+R high | ⟨ucchrita⟩.
+R high water | ⟨pūra⟩ m.
+R hold shut, to | 1⟨dhā⟩ + ⟨api⟩.
+R holy | ⟨sādhu⟩.
+R holy writ | ⟨śruti⟩ f.
+R home (adv.) | ⟨gṛham⟩.
+R honey | ⟨madhu⟩ n.
+R honor, to | ⟨pūj⟩; ⟨nam⟩; ⟨sev⟩.
+R hope | ⟨āśā⟩ f.
+R horse | ⟨aśva⟩ m.
+R house | ⟨gṛha⟩ n.; master of the h. | ⟨gṛhastha⟩ m.
+R householder | ⟨gṛhastha⟩ m.
+R house-priest | ⟨purohita⟩ m.
+R how? | ⟨katham⟩.
+R human | ⟨mānuṣa⟩.
+R hunter | ⟨vyādha⟩ m.
+R hurl, to | 2⟨as⟩; ⟨kṣip⟩.
+R husband | ⟨pati⟩ m.; ⟨bhartṛ⟩ m.
+R hymn | ⟨sūkta⟩ n.
+R I | ⟨aham⟩.
+R impart, to | 1⟨vid⟩ + ⟨ni⟩, caus.
+R inclined, to be | ⟨snih⟩.
+R increase, to | ⟨vṛdh⟩.
+R India | ⟨bharatakhaṇḍa⟩ m.
+R initiate, to | ⟨nī⟩ + ⟨upa⟩.
+R injustice | ⟨adharma⟩ m.
+R intelligence | ⟨buddhi⟩ f.
+R iron | ⟨loha⟩ n.
+R jaw | ⟨hanu⟩ f.
+R jewel | ⟨maṇi⟩ m.; ⟨ratna⟩ n.; ⟨bhūṣaṇa⟩ n.
+R kill, to | ⟨mṛ⟩, caus.; ⟨han⟩; ⟨han⟩, caus.
+R kindle, to | ⟨idh⟩.
+R king | ⟨nṛpa⟩ m.; ⟨nṛpati⟩ m.; ⟨pārthiva⟩ m.; ⟨rājan⟩ m.; ⟨bhūbhuj⟩ m.; ⟨bhūbhṛt⟩ m.
+R kingdom | ⟨rājya⟩ n.
+R know, to | 1⟨vid⟩; ⟨jñā⟩.
+R knowledge | ⟨vidyā⟩ f.; ⟨jñāna⟩ n.
+R lament, to | ⟨lap⟩ + ⟨vi⟩.
+R land | ⟨deśa⟩ m.
+R language | ⟨bhāṣā⟩ f.
+R last, at | ⟨ante⟩.
+R law | ⟨dharma⟩ m.; ⟨vidhi⟩ m.
+R law-book | ⟨smṛti⟩ f.; ⟨dharmaśāstra⟩ n.
+R law-suit | ⟨vyavahāra⟩ m.
+R lead, to | ⟨nī⟩.
+R leader | ⟨netṛ⟩.
+R learn, to | ⟨gam⟩ + ⟨ava⟩; 1⟨vid⟩; ⟨i⟩ + ⟨adhi⟩.
+R learned | ⟨vidvāṃs⟩; ⟨paṇḍita⟩; ⟨kuśala⟩.
+R learning | ⟨vidyā⟩ f.
+R leather | ⟨carman⟩ n.
+R leavings | ⟨ucchiṣṭa⟩ n.
+R lesson | ⟨adhyāya⟩ m.
+R lick, to | ⟨lih⟩; ⟨lih⟩ + ⟨ava⟩.
+R life | ⟨jīvita⟩ n.; ⟨āyus⟩ n.; ⟨carita⟩ n.
+R light | ⟨jyotis⟩ n.
+R light (not heavy) | ⟨laghu⟩.
+R like | ⟨iva⟩.
+@242
+R limb | ⟨aṅga⟩ n.
+R lion | ⟨siṃha⟩ m.
+R lip | ⟨oṣṭha⟩ m.
+R listen, to | ⟨śru⟩.
+R live, to | ⟨jīv⟩; ⟨vṛt⟩; ⟨an⟩ + ⟨pra⟩.
+R long | ⟨dīrgha⟩; (adv.) ⟨ciram⟩.
+R look at, to | ⟨īkṣ⟩ + ⟨pra⟩.
+R lord | ⟨īśvara⟩ m.; ⟨pati⟩ m.
+R lotus | ⟨padma⟩ m. n.
+R love, to | ⟨snih⟩.
+R love, god of l. | ⟨kāma⟩ m.
+R lunar mansion | ⟨nakṣatra⟩ n.
+R maiden | ⟨kanyā⟩ f.; ⟨bālā⟩ f.
+R maidservant | ⟨dāsī⟩ f.
+R make, to | 1⟨kṛ⟩.
+R man (*vir*) | ⟨nara⟩ m.; ⟨pumāṃs⟩ m.; ⟨puruṣa⟩ m.; (*homo*) | ⟨jana⟩ m.; ⟨mānava⟩ m.; ⟨manuṣya⟩ m.; ⟨nara⟩ m.
+R mankind | ⟨jana⟩ m. pl.
+R many | ⟨bahu⟩; ⟨prabhūta⟩.
+R march, to | ⟨cal⟩ + ⟨pra⟩.
+R marriage | ⟨vivāha⟩ m.
+R marry, to | ⟨nī⟩ + ⟨pari⟩.
+R master | ⟨bhartṛ⟩ m.; ⟨pati⟩ m.
+R mat | ⟨kaṭa⟩ m.
+R means | ⟨sādhana⟩ n.
+R medicine | ⟨auṣadha⟩ n.
+R meet, to (intr.) | ⟨gam⟩ + ⟨sam⟩ (mid.).
+R meeting | ⟨samāgama⟩ m.
+R melted butter | ⟨ghṛta⟩ n.
+R mention, to | ⟨hṛ⟩ + ⟨ud-ā⟩.
+R merchant | ⟨vaṇij⟩ m.
+R merit | ⟨puṇya⟩ n.
+R mighty | ⟨balin⟩; ⟨balavant⟩; ⟨vibhu⟩.
+R milk, to | ⟨duh⟩.
+R milk | ⟨kṣīra⟩ n.; ⟨payas⟩ n.
+R mind | ⟨manas⟩ n.; ⟨mati⟩ f.
+R minister | ⟨mantrin⟩ m.
+R misfortune | ⟨duḥkha⟩ n.; ⟨āpad⟩ f.
+R modesty | ⟨hrī⟩ f.
+R moisten, to | ⟨sic⟩.
+R monarch | ⟨samrāj⟩ m.
+R money | ⟨dhana⟩ n.; ⟨vasu⟩ n.
+R month | ⟨māsa⟩ m.
+R moon | ⟨candramas⟩ m.; ⟨candra⟩ m.; ⟨indu⟩ m.
+R mostly | ⟨bhūyas⟩.
+R morning, in the | ⟨prātar⟩.
+R mother | ⟨mātṛ⟩ f.; ⟨ambā⟩ f.
+R mother-in-law | ⟨śvaśrū⟩ f.
+R mountain | ⟨giri⟩ m.; ⟨parvata⟩ m.
+R mouth | ⟨mukha⟩ n.
+R much | ⟨prabhūta⟩; ⟨bahu⟩.
+R mouthful | ⟨grāsa⟩ m.
+R murder, to | ⟨mṛ⟩, caus.; ⟨han⟩; ⟨han⟩, caus.
+R must | ⟨arh⟩; cf. § 320 and Exercise 30.
+R name | ⟨nāman⟩ n.; by n. | ⟨nāma⟩.
+R name, to | ⟨vac⟩; ⟨vad⟩; (reckon) ⟨gaṇaya⟩.
+R neck | ⟨kaṇṭha⟩ m.
+R neglect, to | 1⟨hā⟩.
+R net | ⟨jāla⟩ n.
+R never | ⟨na kadā⟩ + ⟨api⟩, ⟨cid⟩, or ⟨cana⟩.
+R news | ⟨vṛttānta⟩ m.
+R night | ⟨rātri⟩ f.
+R no one | ⟨na ka⟩ + ⟨api⟩, ⟨cid⟩, or ⟨cana⟩.
+R north, northern | ⟨udañc⟩; the N. | ⟨udīcī⟩ f., sc. ⟨diś⟩.
+R not | ⟨na⟩; ⟨mā⟩.
+R nothing | ⟨na kim⟩ + ⟨api⟩, ⟨cid⟩, or ⟨cana⟩.
+R now | ⟨adhunā⟩; ⟨sāmpratam⟩.
+@243
+R O | ⟨he⟩.
+R obedient | ⟨vidheya⟩.
+R oblation | ⟨havis⟩ n.
+R occur, to | ⟨dṛś⟩, pass.; 2⟨vid⟩, pass.
+R ocean | ⟨udadhi⟩ m.; ⟨samudra⟩ m.
+R offend, to | ⟨han⟩ + ⟨prati⟩; 1⟨hā⟩.
+R offering (sacrificial) | ⟨havis⟩ n.
+R old | ⟨vṛddha⟩; older | ⟨jyāyas⟩.
+R omnipresent | ⟨vibhu⟩.
+R once | ⟨sakṛt⟩.
+R one | ⟨eka⟩.
+R only | ⟨eva⟩.
+R opinion | ⟨mati⟩ f.; ⟨mata⟩ n.
+R or | ⟨vā⟩, postpos.; ⟨athavā⟩.
+R ordain, to | ⟨kḷp⟩, caus.; 1⟨dhā⟩ + ⟨vi⟩; ordained | ⟨vihita⟩.
+R order, to | ⟨jñā⟩ + ⟨ā⟩, caus.
+R other | ⟨anya⟩; ⟨itara⟩, ⟨apara⟩.
+R outskirts | ⟨sīman⟩ f.
+R overcome, to | 2⟨pṛ⟩.
+R overwhelm, to | ⟨vṛṣ⟩.
+R own, one’s own | ⟨sva⟩.
+R ox | ⟨anaḍuh⟩ m.
+R pair | ⟨yugma⟩ n.
+R palace | ⟨prāsāda⟩ m.
+R parents | ⟨pitṛ⟩, m. du.
+R part | ⟨bhāga⟩ m.
+R path | ⟨mārga⟩ m.; ⟨panthan⟩ m.
+R pearl | ⟨muktā⟩ f.
+R peasant | ⟨kṛṣīvala⟩ m.
+R penance | ⟨tapas⟩ n.; ⟨prāyaścitta⟩ n.
+R people | ⟨jana⟩, pl.; ⟨loka⟩, s. and pl.
+R perform, to | ⟨sidh⟩, caus.; ⟨car⟩; ⟨car⟩ + ⟨sam-ā⟩; (a sacrifice) ⟨tan⟩.
+R perfume | ⟨gandha⟩ m.
+R perish, to | ⟨naś⟩ + ⟨vi⟩.
+R pestle | ⟨musala⟩ m. n.
+R pierce, to | ⟨vyadh⟩.
+R pilgrimage | ⟨tīrthayātrā⟩ f.
+R pious | ⟨sādhu⟩.
+R place, to | 1⟨dhā⟩; ⟨dhā⟩ + ⟨sam-ā⟩.
+R place | ⟨pada⟩ n.; ⟨deśa⟩ m.
+R plan | ⟨abhiprāya⟩ m.
+R plant, to | ⟨ruh⟩, caus.
+R play, to | ⟨dīv⟩.
+R please, to | ⟨ruc⟩.
+R pleasure | ⟨sukha⟩ n.; with p., pleasantly | ⟨sukhena⟩; (wish, choice) ⟨icchā⟩ f.; ⟨kāma⟩ m.; at p. | ⟨svecchayā⟩.
+R plough | ⟨lāṅgala⟩ n.; ⟨hala⟩ m. n.
+R plough, to | ⟨kṛṣ⟩.
+R plunder, to | ⟨luṇṭh⟩; ⟨hṛ⟩; ⟨lup⟩.
+R poem | ⟨kāvya⟩ n.
+R poet | ⟨kavi⟩ m.
+R point out, to | ⟨diś⟩.
+R polluted, to be | ⟨duṣ⟩.
+R poor | ⟨daridra⟩.
+R possessions | ⟨dhana⟩ n.
+R post, sacrificial | ⟨yūpa⟩ m.
+R pot | ⟨ghaṭa⟩ m.
+R pound, to | ⟨piṣ⟩.
+R pour, to | ⟨hu⟩.
+R power | ⟨bala⟩ n.
+R powerful | ⟨balin⟩; ⟨balavant⟩.
+R praise, song of p. | ⟨stuti⟩ f.; ⟨stotra⟩ n.
+R praise, to | ⟨śaṃs⟩; ⟨stu⟩.
+R pray for, to | ⟨arth⟩.
+R prescription | ⟨ādeśa⟩ m.
+R presence | ⟨samīpa⟩ n.
+R previous | ⟨pūrva⟩.
+R priest | ⟨ṛtvij⟩ m.
+R prince | ⟨kumāra⟩ m.
+R property | ⟨vasu⟩ n.; ⟨dhana⟩ n.
+R prosperity | ⟨bhūti⟩ f.
+R protect, to | ⟨rakṣ⟩; 2⟨pā⟩; ⟨pā⟩, caus.
+R protection | ⟨śaraṇa⟩ n.
+@244
+R protector | ⟨rakṣitṛ⟩ m.
+R punish, to | ⟨daṇḍaya⟩; ⟨śās⟩.
+R punishment | ⟨daṇḍa⟩ m.
+R put, to | ⟨sthā⟩, caus.; 1⟨dhā⟩; ⟨yuj⟩ + ⟨ni⟩.
+R quadruped | ⟨catuṣpad⟩.
+R quarter | ⟨pāda⟩ m.; (of the sky) ⟨diś⟩ f.
+R queen | ⟨devī⟩ f.; ⟨rājñī⟩ f.; ⟨mahiṣī⟩ f.
+R rain | ⟨vṛṣṭi⟩ f.
+R rain, to (give rain) | ⟨vṛṣ⟩.
+R raise, to (the voice) | ⟨sṛj⟩ + ⟨ud⟩.
+R ray | ⟨pāda⟩ m.; ⟨raśmi⟩ m.
+R reach, to | ⟨labh⟩; ⟨āp⟩ + ⟨pra⟩.
+R read, to | ⟨i⟩ + ⟨adhi⟩; (aloud) ⟨paṭh⟩; ⟨vac⟩, caus.
+R realm | ⟨rājya⟩ n.
+R receive, to | ⟨labh⟩; ⟨grah⟩; ⟨grah⟩ + ⟨prati⟩; 1⟨dā⟩ + ⟨ā⟩.
+R recitation (private) | ⟨svādhyāya⟩ m.
+R recite, to | ⟨paṭh⟩; (tell) ⟨kath⟩.
+R reckon, to | ⟨gaṇaya⟩.
+R recompense, to | 1⟨kṛ⟩ + ⟨prati⟩.
+R reduced (in fortune) | ⟨kṣīṇa⟩.
+R region | ⟨diś⟩ f.; ⟨deśa⟩ m.
+R rein | ⟨raśmi⟩ m.
+R rejoice, to | ⟨tuṣ⟩; ⟨mud⟩.
+R remember, to | ⟨smṛ⟩.
+R restrain, to | ⟨grah⟩ + ⟨ni⟩.
+R return, to | ⟨vṛt⟩ + ⟨ni⟩.
+R rice | ⟨taṇḍula⟩ m.
+R reverence, to | ⟨nam⟩; ⟨pūj⟩; ⟨ās⟩ + ⟨upa⟩.
+R reward | ⟨phala⟩ n.
+R rich | ⟨dhanin⟩; ⟨śrīmant⟩; ⟨vasumant⟩ (comp. and sup. sometimes ⟨vasīyas⟩, ⟨vasiṣṭha⟩).
+R riches | ⟨dhana⟩ n.; ⟨vasu⟩ n.; ⟨śrī⟩ f.; ⟨rāi⟩ m.
+R righteousness | ⟨satya⟩ n.
+R right (subst.) | ⟨dharma⟩ m.
+R Rigveda | ⟨ṛgveda⟩ m.; ⟨ṛcas⟩ f. pl.
+R rise, to (of sun, etc.) | ⟨gam⟩ + ⟨ud⟩; ⟨i⟩ + ⟨ud⟩.
+R river | ⟨nadī⟩ f.; ⟨sarit⟩ f.
+R road | ⟨mārga⟩ m.; ⟨panthan⟩ m.
+R rob, to | ⟨muṣ⟩, ⟨luṇṭh⟩.
+R root | ⟨mūla⟩ n.
+R rub, to | ⟨mṛj⟩; ⟨mṛj⟩, caus.
+R royal | ⟨rāja⟩-, in cpd.
+R rule, to | ⟨sthā⟩ + ⟨adhi⟩; ⟨īś⟩.
+R run, to | ⟨dhāv⟩; ⟨dru⟩.
+R running | ⟨dhāvana⟩ n.
+R sacrament | ⟨saṃskāra⟩ m.
+R sacrifice, to | ⟨yaj⟩; (for some one) ⟨yaj⟩, caus.
+R sacrifice | ⟨yajña⟩ m.
+R sacrificial formula | ⟨yajus⟩ n.
+R sage | ⟨ṛṣi⟩ m.
+R sake of, for the | ⟨artha⟩ in cpd (cf. 375, 3).
+R salt | ⟨lavaṇa⟩ n.
+R salvation | ⟨mukti⟩ f.; ⟨bhūti⟩ f.; ⟨hita⟩ n.
+R satiated | ⟨tṛpta⟩.
+R satisfy, to | ⟨tṛp⟩, caus.; (oneself) ⟨tṛp⟩.
+R save, to | ⟨hṛ⟩ + ⟨ud⟩.
+R Savitar | ⟨savitṛ⟩ m.
+R say | ⟨vad⟩; ⟨vac⟩; ⟨brū⟩.
+R scatter, to | 2⟨kṛ⟩.
+R scholar | ⟨śiṣya⟩; (learned man) ⟨paṇḍita⟩ m.
+R science | ⟨śāstra⟩ n.
+R sea | ⟨udadhi⟩ m.; ⟨samudra⟩ m.
+R seat oneself, to | ⟨sad⟩ + ⟨ni⟩.
+@245
+R second | ⟨dvitīya⟩.
+R see, to | ⟨paś⟩; ⟨dṛś⟩; ⟨īkṣ⟩; ⟨īkṣ⟩ + ⟨pra⟩.
+R seer | ⟨ṛṣi⟩ m.
+R send, to | ⟨sthā⟩ + ⟨pra⟩, caus.
+R servant | ⟨bhṛtya⟩ m.; ⟨bhṛtaka⟩ m.
+R serve | ⟨sev⟩.
+R set, to | (place) 1⟨dhā⟩; (intr., of sun, etc.) ⟨i⟩ + ⟨astam⟩; ⟨gam⟩ + ⟨astam⟩.
+R shade | ⟨chāyā⟩ f.
+R she, etc. | ⟨sā⟩, f. of ⟨ta⟩.
+R shine, to | ⟨śubh⟩; ⟨rāj⟩; ⟨bhā⟩ + ⟨vi⟩.
+R ship | ⟨nau⟩ f.
+R shoe | ⟨upānah⟩ f.
+R show, to | ⟨dṛś⟩, caus.
+R shrewd | ⟨paṭu⟩.
+R shut, to | 1⟨dhā⟩ + ⟨api⟩; 1⟨vṛ⟩ + ⟨sam⟩.
+R sick | ⟨vyādhita⟩; ⟨rugṇa⟩.
+R side | ⟨pakṣa⟩ m.
+R sin | ⟨pāpa⟩ n.; ⟨enas⟩ n.
+R sing, to | 2⟨gā⟩.
+R singing | ⟨gīta⟩ n.
+R sip, to | ⟨cam⟩ + ⟨ā⟩.
+R sister | ⟨svasṛ⟩ f.
+R sit, to | ⟨sad⟩; ⟨sad⟩ + ⟨ni⟩.
+R situated, to be | ⟨vṛt⟩.
+R six | ⟨ṣaṣ⟩.
+R sixth | ⟨ṣaṣṭha⟩.
+R skilled | ⟨paṭu⟩.
+R sky | ⟨div⟩ f.; ⟨diś⟩ f. pl.; ⟨ākāśa⟩ n.
+R slave | ⟨dāsa⟩ m.; ⟨dāsī⟩ f.
+R slay, to | ⟨mṛ⟩, caus.; ⟨han⟩.
+R sleep, to | ⟨svap⟩; ⟨śī⟩.
+R smell, to | ⟨ghrā⟩.
+R smite, to | ⟨hṛ⟩ + ⟨pra⟩; ⟨han⟩ + ⟨abhi⟩.
+R so | ⟨iti⟩; ⟨evam⟩; ⟨tathā⟩.
+R soldier | ⟨sainika⟩ m.
+R some (pl.) | ⟨eka⟩ pl.; some ·· others | ⟨ke cit⟩ ·· ⟨ke cit⟩.
+R sometimes | ⟨kva cit⟩.
+R son | ⟨putra⟩ m.; ⟨sūta⟩ m.
+R son-in-law | ⟨jāmātṛ⟩ m.
+R song | ⟨gir⟩ f.; ⟨gīta⟩ n.; (of praise) ⟨stotra⟩ n.; ⟨stuti⟩ f.
+R soul | ⟨ātman⟩ m.
+R sow, to | ⟨vap⟩.
+R speak, to | ⟨vad⟩; ⟨vac⟩; ⟨bhāṣ⟩.
+R spear | ⟨kunta⟩ m.
+R speech | ⟨vāc⟩ f.; ⟨bhāṣā⟩ f.
+R spoon | ⟨juhū⟩ f.
+R stand, to (intr.) | ⟨sthā⟩.
+R state, to | ⟨brū⟩.
+R steal, to | ⟨cur⟩; ⟨muṣ⟩; ⟨luṇṭh⟩.
+R steer | ⟨go⟩ m.
+R stick | ⟨daṇḍa⟩ m.
+R stone | ⟨dṛṣad⟩ f.; (precious) ⟨maṇi⟩ m.
+R stop, to (tr.) | ⟨rudh⟩.
+R strange (another’s) | ⟨para⟩.
+R street | ⟨rathyā⟩ f.; ⟨mārga⟩ m.
+R strike, to | ⟨taḍ⟩.
+R strive, to | ⟨yat⟩.
+R strongest | ⟨baliṣṭha⟩.
+R study, to | ⟨i⟩ + ⟨adhi⟩ (mid.); 2⟨as⟩ + ⟨abhi⟩.
+R subject | ⟨prajā⟩ f.
+R such | ⟨īdṛś⟩.
+R suffering | ⟨duḥkha⟩ n.
+R suffused | ⟨ruddha⟩.
+R suitable | ⟨anurūpa⟩.
+R summit | ⟨śikhara⟩ m.
+R sun | ⟨bhānu⟩ m.; ⟨āditya⟩ m.
+R survive, to | ⟨śiṣ⟩ + ⟨ud⟩.
+R sweet | ⟨svādu⟩.
+R swift | ⟨āśu⟩.
+R sword | ⟨asi⟩ m.
+R take, to | ⟨dā⟩ + ⟨ā⟩; ⟨grah⟩; ⟨grah⟩ + ⟨prati⟩.
+R take place, to | ⟨jan⟩; ⟨bhū⟩
+@246
+R take refuge, to | ⟨pad⟩ + ⟨pra⟩.
+R tasteful | ⟨rasavant⟩.
+R tax | ⟨kara⟩ m.
+R teach, to | ⟨i⟩ + ⟨adhi⟩, caus.; ⟨diś⟩ + ⟨upa⟩.
+R teacher | ⟨guru⟩ m.; ⟨ācārya⟩ m.
+R tear | ⟨aśru⟩ n.; ⟨bāṣpa⟩ m.
+R tell, to | ⟨kathaya⟩; ⟨vad⟩.
+R temple | ⟨devakula⟩ n.
+R ten | ⟨daśa⟩.
+R tend to, to | ⟨kḷp⟩.
+R terrify, to | ⟨bhī⟩, caus.; ⟨vij⟩ + ⟨ud⟩, caus.
+R text-book | ⟨śāstra⟩ n.
+R that | ⟨ta⟩; ⟨ayam⟩; ⟨asau⟩.
+R then | ⟨tadā⟩.
+R there | ⟨tatra⟩.
+R thereupon | ⟨tatas⟩.
+R thief | ⟨stena⟩ m.; ⟨caura⟩ m.
+R think, to | ⟨cint⟩; ⟨man⟩; think on | ⟨smṛ⟩; ⟨dhyā⟩.
+R third | ⟨tṛtīya⟩.
+R thirty | ⟨triṃśat⟩.
+R thirty-three | ⟨trayastriṃśat⟩.
+R this | ⟨ta⟩; ⟨ayam⟩.
+R thou | ⟨tvam⟩.
+R three | ⟨tri⟩.
+R threefold | ⟨trivṛt⟩.
+R thrice | ⟨tris⟩.
+R thus | ⟨iti⟩; ⟨evam⟩; ⟨tathā⟩.
+R time | ⟨kāla⟩ m.
+R to-day | ⟨adya⟩.
+R to-morrow | ⟨śvas⟩.
+R tongue | ⟨jihvā⟩ f.
+R torment, to | ⟨pīḍ⟩; ⟨vyath⟩, caus.
+R touch, to | ⟨spṛś⟩.
+R trade | ⟨vyavahāra⟩ m.; ⟨vāṇijya⟩.
+R travel, to | ⟨vas⟩ + ⟨pra⟩; ⟨sthā⟩ + ⟨pra⟩ (mid.).
+R treasury | ⟨kośa⟩ m.
+R tree | ⟨vṛkṣa⟩ m.; ⟨taru⟩ m.
+R tremble, to | ⟨kamp⟩.
+R true | ⟨satya⟩; (faithful) ⟨bhakta⟩.
+R truth | ⟨satya⟩ n.
+R twelfth | ⟨dvādaśa⟩.
+R twelve | ⟨dvādaśa⟩.
+R twenty-eight | ⟨aṣṭāviṃśati⟩.
+R twenty-seven | ⟨saptaviṃśati⟩.
+R twice | ⟨dvis⟩.
+R twilight | ⟨saṃdhyā⟩ f.
+R twine | ⟨bandh⟩.
+R two | ⟨dva⟩.
+R umbrella | ⟨chattra⟩ n.
+R understand, to | ⟨gam⟩ + ⟨ava⟩.
+R unite, to (intr.) | ⟨gam⟩ + ⟨sam⟩ (mid.).
+R untruth | ⟨anṛta⟩ n.; ⟨asatya⟩ n.
+R upaniṣad | ⟨upaniṣad⟩ f.
+R useful, to be | ⟨sev⟩.
+R vassal | ⟨sāmanta⟩ m.
+R Veda | ⟨veda⟩ m.
+R verse | ⟨śloka⟩ m.; (of Rigveda) ⟨ṛc⟩ f.
+R vessel | ⟨pātra⟩ n.
+R victorious, to be | ⟨ji⟩.
+R victory | ⟨jaya⟩ m.
+R view (opinion) | ⟨mati⟩ f.; ⟨mata⟩ n.
+R village | ⟨grāma⟩ m.
+R virtue | ⟨dharma⟩ m.; ⟨puṇya⟩ n.
+R visit, to | ⟨gam⟩ + ⟨abhi⟩.
+R voice | ⟨vāc⟩ f.; ⟨gir⟩ f.
+R wagon | ⟨ratha⟩ m.
+R warrior | ⟨kṣatriya⟩ m.
+R wash, to | ⟨kṣal⟩; ⟨spṛś⟩.
+R water | ⟨jala⟩ n.; ⟨vāri⟩ n.; ⟨ap⟩ f. pl.
+R wave | ⟨vīci⟩ m.
+R we | ⟨vayam⟩.
+@247
+R wear, to | ⟨dhṛ⟩, caus.; ⟨bhṛ⟩.
+R weary, to become | ⟨śram⟩.
+R weave, to | ⟨granth⟩; ⟨bandh⟩.
+R wedding | ⟨vivāha⟩ m.
+R weep, to | ⟨rud⟩.
+R west, western | ⟨pratyañc⟩; the West | ⟨pratīcī⟩ f., sc. ⟨diś⟩.
+R what (rel.) | ⟨ya⟩.
+R wheel | ⟨cakra⟩ n.
+R when (rel.) | ⟨yadā⟩.
+R when? | ⟨kadā⟩.
+R whence? | ⟨kutas⟩.
+R where (rel.) | ⟨yatra⟩.
+R where? | ⟨kva⟩; ⟨kutra⟩.
+R which (rel.) | ⟨ya⟩.
+R which (of two)? | ⟨katara⟩.
+R white | ⟨śveta⟩.
+R whither? | ⟨kva⟩; ⟨kutra⟩.
+R who (rel.) | ⟨ya⟩.
+R who? | ⟨ka⟩.
+R whoever | ⟨ya ka⟩ + ⟨api⟩, ⟨cid⟩ or ⟨cana⟩; often by rel. alone.
+R whole | ⟨kṛtsna⟩.
+R why? | ⟨kutas⟩; ⟨kasmāt⟩.
+R wicked | ⟨pāpa⟩.
+R wife | ⟨bhāryā⟩ f.; ⟨nārī⟩ f.; ⟨patnī⟩ f.
+R win, to | ⟨ji⟩.
+R wind | ⟨vāyu⟩ m.; ⟨vāta⟩ m.
+R winter | ⟨hemanta⟩ m.
+R wipe, to | ⟨mṛj⟩; ⟨mṛj⟩ + ⟨apa⟩ or ⟨pari⟩.
+R wish, to | ⟨iṣ⟩.
+R with | ⟨saha⟩, w. inst.; or by instr. alone.
+R withered | ⟨mlāna⟩.
+R without | ⟨vinā⟩ (instr., acc.).
+R witness | ⟨sākṣin⟩ m.
+R wolf | ⟨vṛka⟩ m.
+R woman | ⟨nārī⟩ f.; ⟨vadhū⟩ f.; ⟨strī⟩ f.; ⟨jāyā⟩ f.
+R woman-servant | ⟨dāsī⟩ f.
+R wood | ⟨kāṣṭha⟩ n.; (forest) ⟨vana⟩ n.
+R word | ⟨vāc⟩ f.; ⟨śabda⟩ m.
+R work | ⟨karman⟩ n.; (literary) ⟨grantha⟩ m.
+R world | ⟨loka⟩ m.; ⟨jagat⟩ n.; ⟨bhuvana⟩ n.
+R world-spirit | ⟨brahman⟩ n.
+R worship, to | ⟨pūj⟩.
+R worthy | ⟨sadṛśa⟩.
+R wound, to | ⟨kṣan⟩.
+R wreath | ⟨mālā⟩ f.; ⟨sraj⟩ f.
+R year | ⟨saṃvatsara⟩ m.; ⟨varṣa⟩ m. n.
+R yoke, to | ⟨yuj⟩, caus.
+R yonder | ⟨tatra⟩.
+R young | ⟨yuvan⟩.

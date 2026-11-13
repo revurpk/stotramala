@@ -39,10 +39,15 @@ def roman(n):
     return out
 
 
+_PERRY_NAMES = {"intro": "introduction", "gloss-1": "glossary I", "gloss-2": "glossary II", "appendix": "appendix"}
+_PERRY_JUMP = {"intro": "intro", "gloss-1": "gloss I", "gloss-2": "gloss II", "appendix": "appx"}
+_PERRY_ORDER = {"intro": 0, "gloss-1": 1001, "gloss-2": 1002, "appendix": 1003}
+
+
 SERIES = [
-    dict(id="perry", pat=r"perry-(\d+|intro)$", contents="perry", contents_label="all lessons",
-         label=lambda n: "introduction" if n == "intro" else f"lesson {roman(n)}", jump_title="all lessons",
-         jump_label=lambda n: "intro" if n == "intro" else roman(n), auto=True, jump=True),
+    dict(id="perry", pat=r"perry-(\d+|intro|gloss-1|gloss-2|appendix)$", contents="perry", contents_label="all lessons",
+         label=lambda n: _PERRY_NAMES.get(n) or f"lesson {roman(n)}", jump_title="all lessons",
+         jump_label=lambda n: _PERRY_JUMP.get(n) or roman(n), auto=True, jump=True),
     dict(id="nirukta", pat=r"nirukta-(\d+)$", contents="nirukta", contents_label="Nirukta · contents",
          label=lambda n: "pariśiṣṭa" if n == 13 else f"adhyāya {n}", jump_title="all adhyāyas",
          jump_label=lambda n: "pariśiṣṭa" if n == 13 else str(n), auto=True, jump=True),
@@ -68,8 +73,8 @@ def _members(s):
         m = rx.match(p.stem)
         if m:
             g = m.group(1)
-            found.append((0 if g == "intro" else int(g), p.stem, g))
-    return [(sl, "intro" if g == "intro" else n) for n, sl, g in sorted(found)]
+            found.append((_PERRY_ORDER[g] if g in _PERRY_ORDER else int(g), p.stem, g))
+    return [(sl, g if g in _PERRY_ORDER else n) for n, sl, g in sorted(found)]
 
 
 def _href(slug):

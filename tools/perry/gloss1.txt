@@ -1,0 +1,1283 @@
+# Perry, A Sanskrit Primer. Glossary to the Exercises, I. Sanskrit-English = pp. 194–216 = leaves n213–n235 of the Cornell scan.
+% Glossary to the Exercises: Sanskrit–English (pp. 194–216)
+@213
+## Glossary to the Exercises.
+¶ For the alphabetic order of Sanskrit words see p. xii.
+## I. Sanskrit-English.
+¶ Adjectives in -⟨a⟩ form their feminine in -⟨ā⟩, unless otherwise stated.
+V akṣa | m., die, dice. |
+V akṣan | (⟨akṣi⟩: 275) n., eye. |
+V agni | m., fire; as *n. pr.*, Agni, the god of fire. |
+V agnihotrin | m., a kind of priest. |
+V agra | n., front; tip, end. |
+V aṅga | n., limb; body. |
+V aṅgiras | (253) m., certain mythical characters. |
+V añjali | m., a gesture (Voc. 37). |
+V aṇu | a., small; as n., atom. |
+V atas | adv., hence. |
+V ati | adv., across, past; in cpds, to excess. |
+V atithi | m., guest. |
+V atra | adv., here, hither. |
+V atha | adv., then; thereupon. |
+V atharvaveda | m., the fourth Veda. |
+V adas | (⟨asau⟩: 287) pron., that one; so-and-so. |
+V adya | adv., to-day. |
+V adyatana | adj., of to-day. |
+V adroha | m., faithfulness. |
+V adharma | m., injustice, wrong. |
+V adhas | adv., below, down. |
+V adhastāt | adv., below; prep., w. gen., underneath. |
+V adhi | adv., over, above, on. |
+V adhika | a., additional; superior. |
+V adhīta | part. of ⟨adhi-i⟩. |
+V adhunā | adv., now. |
+V adhvaryu | m., priest who recites the Yajurveda. |
+V an | root (⟨aniti⟩: 429) breathe; — + ⟨pra⟩ breathe; live. |
+V an | before cons. ⟨a⟩, negative prefix. |
+V anaḍuh | (278) m., ox. |
+V anantaram | adv., after, immediately afterward; as prep., w. abl., right after. |
+V anartha | m., misfortune. |
+V anavadya | a., faultless. |
+V anahilapāṭaka | n., *n. pr.*, a city. |
+V anu | adv., after, along, toward. |
+V anukūla | a., favorable; as n., favor. |
+V anujñā | f., permission. |
+V anurūpa | a., suitable. |
+V aneka | a., several. |
+@214
+V anṛta | n., untruth. |
+V anta | m., end; in loc., at last. |
+V antara | a., inner; as n., interior, middle; interval, difference; occasion, juncture. Cf. 376, 4. |
+V andha | a., blind. |
+V andhra | m., *n. pr.*, a people. |
+V anna | n., food, fodder. |
+V anya | (231) pron. adj., other. |
+V anyatra | adv., elsewhere. |
+V anvañc | (272) a., following. |
+V anvaya | m., descendant, progeny. |
+V ap | (277) f. pl., water. |
+V apara | (233) pron. adj., hinder; other. |
+V api | (190) adv., unto; further; as conj., also, even. |
+V apsaras | f., heavenly nymph. |
+V abhaya | n., feeling of safety; safety. |
+V abhi | adv., to, unto. |
+V abhiprāya | m., plan, design; view. |
+V abhyāsa | m., study, recitation. |
+V amṛta | a., immortal; as n., nectar. |
+V ambā | (273) f., mother. |
+V ayam | same as ⟨idam⟩. |
+V ari | m., enemy. |
+V artha | m., purpose; meaning; wealth. |
+V arthaya | root (den.: ⟨arthayate⟩) ask for (w. two acc.); + ⟨pra⟩ idem. |
+V aryaman | (284) m., *n. pr.* |
+V arh | root (⟨arhati⟩) deserve; have a right to; w. inf. (320), be able. |
+V alam | adv., enough; very; w. instr., enough of, away with; w. dat., suitable for. |
+V ali | m., bee. |
+V ava | adv., down, off. |
+V avaśya | a., necessary. |
+V avasthā | f., condition, state. |
+V avāñc | (272) a., downward. |
+V aś | root 1 (⟨aśnute⟩) acquire, obtain; — + ⟨sam-upa⟩ idem. |
+V aś | root 2 (⟨aśnāti⟩) eat; caus. (⟨āśayati⟩) make eat, give to eat. |
+V aśīti | (332) num., eighty. |
+V aśru | n., tear. |
+V aśva | m., horse. |
+V aśvin | m. du., *n. pr.*, the Aśvins (the Indian Διὸς κοῦροι). |
+V aṣṭa | (332) num., eight. |
+V aṣṭādaśa | (332) num., eighteen. |
+V aṣṭāviṃśati | (329, 332) num., twenty-eight. |
+V as | root 1 (⟨asti⟩: 426) be, exist. |
+V as | root 2 (⟨asyati⟩) throw, hurl; — + ⟨abhi⟩ repeat, study, learn; — + ⟨ni⟩ entrust; — + ⟨pra⟩ throw forward or into. |
+V asi | m., sword. |
+V asura | m., demon. |
+V asau | same as ⟨adas⟩. |
+V asthan | (⟨asthi⟩: 275) n., bone. |
+V asmad | same as ⟨vayam⟩; as stem in cpds, cf. 352, 4. |
+V ahan | (⟨ahar⟩, ⟨ahas⟩: 271) n., day. |
+V aham | (223) pron., I. |
+V ahita | a., disagreeable. |
+V aho | excl., oh! ah! |
+V ahorātra | n., a day and a night. |
+V ā | (130) adv., hither, unto; as prep., w. abl., hither from; until. |
+V ākāra | m., form, figure. |
+V ākāśa | m., air, sky. |
+V ākṛṣṭa | part. of ⟨ā-kṛṣ⟩. |
+V ākrānta | part. of ⟨ā-kram⟩. |
+@215
+V āgamana | n., arrival. |
+V ācāra | m., “walk and conversation”; conduct; observance. |
+V ācārya | m., teacher. |
+V ājñā | f., command. |
+V ātman | m., soul, self; often simple reflexive pronoun. |
+V ādi | m., beginning; in cpds, cf. 375, 1. |
+V āditya | m., sun. |
+V ādeśa | m., command, prescription. |
+V āp | root (⟨āpnoti⟩, ⟨āpnute⟩) acquire, reach; — + ⟨ava⟩, ⟨pra⟩, or ⟨anu-pra⟩, idem; + ⟨sam⟩ idem; finish. |
+V āpad | f., calamity. |
+V āpta | part. of ⟨āp⟩, trustworthy; fit. |
+V āyuṣmant | (263) a., long-lived. |
+V āviṣṭa | part. of ⟨viś⟩ + ⟨ā⟩, entered (by), i. e. filled (with). |
+V āśā | f., hope. |
+V āśu | a., swift. |
+V āśrama | m., hermitage. |
+V ās | root (⟨āste⟩: 424) sit; caus. (⟨āsayati⟩) place; — + ⟨upa⟩ sit by; wait upon; reverence. |
+V āsana | n., seat, chair. |
+V āharaṇa | n., bringing. |
+V āhāra | m., food. |
+V āhuti | f., oblation, offering. |
+V i | root (⟨eti⟩ [⟨ite⟩: 408]) go; — + ⟨adhi⟩ mid., go over, repeat, read; caus. (⟨adhyāpayati⟩) teach; — + ⟨anu⟩ follow; — + ⟨apa⟩ go away; — + ⟨abhi⟩ approach; — + ⟨astam⟩ (lit’ly go home) set (of the sun, etc.); — + ⟨ud⟩ rise; + ⟨upa⟩ approach; — + ⟨pra⟩ go forth; die. |
+V icchā | f., wish. |
+V itara | (231) pron. adj., other. |
+V itas | adv., hence. |
+V iti | adv., thus, so. |
+V ittham | adv., in this way, so. |
+V idam | (285–286) pron., this, this here. |
+V idh | root, ⟨indh⟩ (⟨inddhe⟩: 444) kindle, light. |
+V indu | m., moon. |
+V indra | m., *n. pr.*, the god Indra. |
+V indraprastha | n., *n. pr.*, Delhi. |
+V indrāṇī | f., *n. pr.*, a goddess. |
+V iyant | (263) a., so great; so much. |
+V iyam | fem. of ⟨idam⟩. |
+V iva | adv., postpos., as; like. |
+V iṣ | root 1 (⟨icchati⟩: 109) wish, desire. |
+V iṣu | m., arrow. |
+V iha | adv., here, hither. |
+V īkṣ | root (⟨īkṣate⟩) see, behold; — + ⟨upa⟩ neglect; — + ⟨prati⟩ expect. |
+V īdṛś | f. -⟨ī⟩, a., such. |
+V īś | root (⟨īṣṭe⟩: 422) rule, own (gen.). |
+V īśvara | m., master; lord; rich man. |
+V ucchrita | part. of ⟨ud-śri⟩, high. |
+V ud | adv., up, up forth or out. |
+V udañc | (272) a., northward. |
+V udadhi | m., ocean. |
+V udaya | m., rise. |
+V udara | n., belly. |
+V udyata | part. of ⟨ud-yam⟩, ready. |
+V udyāna | n., garden. |
+V udyoga | m., diligence. |
+V udyogin | a., diligent, energetic. |
+V upa | adv., to, toward. |
+V upanayana | n., initiation. |
+V upaniṣad | f., certain Vedic works. |
+V upabhoga | m., enjoyment. |
+@216
+V upavīta | n., sacred cord of the three higher castes. |
+V upānah | (249) f., sandal, shoe. |
+V ubha | a., du., both. |
+V uras | n., breast. |
+V uru | f. ⟨urvī⟩, a., wide. |
+V urvaśī | f., *n. pr.*, an Apsaras. |
+V uṣas | f., dawn; as *n. pr.*, Uṣas, goddess of the dawn. |
+V ṛ | root (⟨ṛcchati⟩: 109) move; go to; fall to one’s lot, fall upon; caus. (⟨arpayati⟩) send; put; give. |
+V ṛkṣa | m., bear. |
+V ṛgveda | m., the Rigveda. |
+V ṛc | f., verse of the Rigveda; in pl., the Rigveda. |
+V ṛṇa | n., debt. |
+V ṛtvij | m., priest. |
+V ṛṣi | m., seer. |
+V eka | (231, 232) num., one; pl., some; ⟨eke⟩ ·· ⟨eke⟩, some ·· others. |
+V ekadā | adv., once upon a time. |
+V ekādaśa | (332) num., eleven. |
+V ekādaśa | (334) a. eleventh. |
+V etad | (231) pron., this, this here. |
+V eva | adv., just, exactly. |
+V evam | adv., so, thus. |
+V eṣa | same as ⟨etad⟩. |
+V oṣṭha | m., lip. |
+V auṣadha | n., medicine. |
+V ka | (232) pron. 1. interrogative, who, what; ⟨kim⟩ w. instr., cf. note on p. 89. — 2. indefinite, adj. and subst., chiefly w. particles ⟨ca⟩, ⟨cana⟩, ⟨cid⟩, ⟨api⟩, some one or other; so also w. relatives; oftenest in neg. clauses: no one whatever (236). |
+V kaṭa | m., mat. |
+V kaṇṭaka | m., thorn, enemy. |
+V kaṇṭha | m., neck. |
+V kaṇva | m., *n. pr.* |
+V katham | adv., how? |
+V kathaya | root (den.: ⟨kathayati⟩) relate, tell. |
+V kadā | adv., when? — + ⟨cana⟩, ⟨cid⟩, ⟨api⟩, at some time, ever; often w. neg. |
+V kaniṣṭha | a., youngest. |
+V kanīyas | a., younger. |
+V kanyā | f., daughter, maiden. |
+V kapi | m., monkey. |
+V kapota | m., dove. |
+V kamp | root (⟨kampate⟩) tremble. |
+V kara | m., hand; trunk (of elephant); ray; toll, tax. |
+V karin | m., elephant. |
+V karuṇa | a., lamentable. |
+V karṇa | m., ear. |
+V kartṛ | m., doer, maker (204); author. |
+V karman | n., deed; ceremony; fate. |
+V kal | root + ⟨sam⟩ (⟨saṃkalayati⟩) put together, add. |
+V kalaha | m., quarrel. |
+V kalā | f., crescent. |
+V kaliṅga | m., *n. pr.*, a people. |
+V kaliyuga | n., the “Iron Age” of the world. |
+V kalyāṇa | n., advantage; salvation. |
+V kavi | m., poet. |
+V kāṇa | a., one-eyed. |
+V kānti | f., charm; grace. |
+@217
+V kāma | m., desire, love; as *n. pr.*, the god of love. |
+V kāmadugha | a., granting wishes; as f. subst., sc. ⟨dhenu⟩, the fabulous Wonder-cow. |
+V kāmaduh | a., idem. |
+V kāya | m., body. |
+V kāraṇa | n., reason, cause. |
+V kārin | -⟨kārin⟩ a., causing, making. |
+V kārya | n., business, concern. |
+V kāla | m., time. |
+V kālidāsa | m., *n. pr.*, a poet. |
+V kāvya | n., poem. |
+V kāśī | f., *n. pr.*, a city, Benares. |
+V kāṣṭha | n., fagot; wood. |
+V kāṣṭhamaya | a., made of wood. |
+V kim | neut. of ⟨ka⟩; w. ⟨tu⟩, however. |
+V kiyant | (263) pron. adj., how great? |
+V kīrti | f., glory. |
+V kutas | adv., whence? why? |
+V kutra | adv., where? whither? |
+V kunta | m., spear. |
+V kup | root (⟨kupyati⟩) be angry (gen. or dat.). |
+V kumāra | m., boy, prince. |
+V kuśala | a., able; clever; learnèd. |
+V kṛ | root 1 (⟨karoti⟩, ⟨kurute⟩: § 394–5) make, do, perform; — + ⟨adhi⟩ put at the head, make ruler over (loc.); — + ⟨apa⟩ do evil to, harm (gen., loc., acc.); — + ⟨apa-ā⟩ pay; — + ⟨alam⟩ prepare, adorn; — + ⟨āvis⟩ (⟨āviṣkaroti⟩) make known, exhibit; — + ⟨upa⟩ do good to, benefit (gen., loc.); — + ⟨tiras⟩ (⟨tiraskṛ⟩) hide; blame; — + ⟨puras⟩ put at the head; — + ⟨prati⟩ pay, recompense, punish (acc. *rei*, gen., dat., or loc. pers.); — + ⟨prādus⟩ make known or visible; — + ⟨sam⟩ (395) prepare, adorn. |
+V kṛ | root 2 (⟨kirati⟩) strew, scatter; — + ⟨vi⟩, idem. |
+V kṛt | root (⟨kṛntati⟩: 110) cut, cut off; — + ⟨ava⟩ idem. |
+V kṛti | f., work (literary). |
+V kṛtrima | a., adopted. |
+V kṛtsna | a., whole, entire. |
+V kṛpaṇa | a., poor; niggardly. |
+V kṛpā | f., graciousness, pity. |
+V kṛṣ | root (⟨karṣati⟩) draw; — + ⟨ā⟩ draw on or up; — (⟨kṛṣati⟩) plough. |
+V kṛṣi | f., agriculture. |
+V kṛṣīvala | m., husbandman, peasant. |
+V kṛṣṇa | a., black; as m., *n. pr.*, the god Kṛṣṇa. |
+V kḷp | root (⟨kalpate⟩) be in order; tend or conduce to (dat.); caus. (⟨kalpayati⟩, -⟨te⟩) ordain, appoint. |
+V ketu | m., banner. |
+V keśa | m., hair. |
+V kailāsa | m., *n. pr.*, a mountain. |
+V koṭi | f., peak; point, tip. |
+V kopa | m., anger. |
+V kośa | m., treasure; treasury. |
+V kaunteya | m., *n. pr.* |
+V kausalyā | f., *n. pr.* |
+V kram | root (⟨kramati⟩, ⟨kramate⟩: 134) step; — + ⟨ati⟩ pass beyond; transgress; pass (of time); — + ⟨ā⟩ stride up to, attack; — + ⟨nis⟩ go out. |
+V krī | root (⟨krīṇāti⟩, ⟨krīṇīte⟩) buy. |
+V krīḍā | f., game, sport. |
+V krudh | root (⟨krudhyati⟩) be angry (gen. or dat.). |
+V krodha | m., anger. |
+@218
+V kva | adv., where? whither? + ⟨cit⟩ sometimes, ever. |
+V kṣaṇa | m. n., moment; time. |
+V kṣatriya | m., warrior, man of the second caste. |
+V kṣaya | m., decay, destruction. |
+V kṣan | root (⟨kṣaṇoti⟩, ⟨kṣaṇute⟩) hurt, wound. |
+V kṣal | root (⟨kṣālayati⟩) wash; — + ⟨pra⟩ idem. |
+V kṣātra | a., suitable for Kṣatriyas. |
+V kṣi | root 2 (⟨kṣiṇoti⟩) destroy. |
+V kṣitipa | m., king. |
+V kṣip | root (⟨kṣipati⟩) hurl, throw. |
+V kṣīṇa | part. of ⟨kṣi⟩ 2, reduced, decayed, ruined. |
+V kṣīra | n., milk. |
+V kṣudra | a., little, small. |
+V kṣudh | f., hunger. |
+V kṣetra | n., field. |
+V khan | root (⟨khanati⟩) dig. |
+V khara | m., ass. |
+V gaṅgā | f., *n. pr.*, the Ganges. |
+V gaja | m., elephant. |
+V gaṇaya | root (den.: ⟨gaṇayati⟩) number, count; — + ⟨ava⟩ despise. |
+V gati | f., gait; course. |
+V gandha | m., odor, perfume. |
+V gandharva | m., a Gandharva, one of a band of celestial singers. |
+V gam | root (⟨gacchati⟩: 100) go; — + ⟨anu⟩ follow; — + ⟨abhi⟩ visit, attend; — + ⟨ava⟩ understand; — + ⟨astam⟩ go down, set (cf. ⟨i⟩ + ⟨astam⟩); — + ⟨ā⟩ come; — + ⟨ud⟩ rise; — + ⟨nis⟩ come forth; proceed from; — + ⟨sam⟩ (mid.) come together, meet (instr.). |
+V garīyas | comp., very honorable. |
+V gā | root 2 (⟨gāyati⟩) sing. |
+V gāndharva | f. -⟨ī⟩, a., in the manner of Gandharvas. |
+V gāh | root (⟨gāhate⟩) plunge; — + ⟨ava⟩ dive or plunge under (acc.). |
+V gir | f., voice, song. |
+V giri | m., mountain. |
+V gīta | n., song; singing. |
+V guṇa | m., quality, excellence. |
+V guru | m., teacher. |
+V guh | root (⟨gūhati⟩: 101) hide, conceal; caus. (⟨gūhayati⟩) idem. |
+V guhā | f., cave. |
+V gṛha | n., house. |
+V gṛhastha | m., householder, head of family. |
+V gṛhya | a., domestic. |
+V go | (209) m., f., bull, steer, cow; as f., fig., speech. |
+V gotva | n., ox-nature, stupidity. |
+V gopa | m., cowherd, shepherd; guardian. |
+V gopāya | root (den.: ⟨gopāyati⟩) be keeper; guard. |
+V gaurava | n., weight; dignity. |
+V granth | root (⟨grathnāti⟩) string together; compose. |
+V grantha | m., literary work, book. |
+V grah | root (⟨gṛhṇāti⟩, ⟨gṛhṇīte⟩) receive, seize; — + ⟨ni⟩ hold, restrain, check; — + ⟨prati⟩ take. |
+V grāma | m., village. |
+V grāsa | m., bite, mouthful. |
+V ghaṭa | m., pot, vessel. |
+@219
+V ghāsa | m., fodder, hay. |
+V ghṛta | n., clarified butter; *ghee*. |
+V ghrā | root (⟨jighrati⟩: 102) smell. |
+V ca | encl. conj., and, also, τε, -*que*; sometimes = if. |
+V cakra | n., wheel. |
+V cakṣ | root (⟨cakṣṭe⟩: 421) see, behold; — + ⟨ā⟩ relate; call, name; — + ⟨vi-ā⟩ explain. |
+V cakṣus | n., eye. |
+V catur | (332) num., four. |
+V caturtha | f. -⟨ī⟩, a., fourth. |
+V caturdaśa | (332) num., fourteen. |
+V catuṣpad | (282) a., quadruped. |
+V catvāriṃśat | (332) num., forty. |
+V candra | m., moon. |
+V candramas | m., moon. |
+V cam | root, used only with ⟨ā⟩ (⟨ācamati⟩), sip; rinse the mouth. |
+V camatkāra | m., astonishment. |
+V car | root (⟨carati⟩) go, wander; graze (of cattle); tr., perform, commit; — + ⟨ā⟩ perform, complete, do; — + ⟨sam-ā⟩ idem; — + ⟨ud⟩ caus. (⟨uccārayati⟩) pronounce, say. |
+V cara | -⟨cara⟩ a., moving, going. |
+V caraṇa | m., n., foot, leg. |
+V carita | n., behavior, life. |
+V carman | n., hide, skin; leather. |
+V carmamaya | a., leathern. |
+V cal | root (⟨calati⟩) stir; — + ⟨pra⟩ move on, march; — + ⟨pra-vi⟩, tr., move, stir. |
+V cāturmāsya | n., a certain sacrifice. |
+V cāmīkara | n., gold. |
+V cāra | m., spy. |
+V cāru | a., beautiful. |
+V ci | root (⟨cinoti⟩, ⟨cinute⟩) gather; — + ⟨nis⟩ or ⟨vi-nis⟩ decide, conclude; — + ⟨pra⟩ gather; — + ⟨vi⟩ idem; — + ⟨sam⟩ collect. |
+V citta | n., notice; thought; mind. |
+V cint | root (⟨cintayati⟩) consider. |
+V ciram | adv., long, a long time. |
+V cud | root + ⟨pra⟩ in caus. (⟨pracodayati⟩), impel. |
+V cur | root (⟨corayati⟩) steal. |
+V cūḍā | f., top-knot, scalp. |
+V ced | adv., postpos., if. |
+V ceṣṭ | root (⟨ceṣṭati⟩, -⟨te⟩) stir, be alive. |
+V caulukya | m., *n. pr.*, a people. |
+V cyu | root (⟨cyavate⟩) totter, fall; — + ⟨vi⟩ fall away. |
+V chattra | n., umbrella. |
+V chāyā | f., shade. |
+V chid | root (⟨chinatti⟩, ⟨chintte⟩) cut, cut off; — + ⟨ava⟩ idem; — + ⟨ā⟩ take away, remove; — + ⟨ud⟩ exterminate. |
+V jagat | n., that which moves; men and beasts; the world. |
+V jan | root (⟨jāyate⟩: 155; ⟨janayati⟩) trans. (⟨janayati⟩ and active forms) beget, produce; intrans. (⟨jāyate⟩ and middle forms) be born (mother in loc.), arise, spring up; — + ⟨ud⟩ (⟨ujjāyate⟩) be born, arise (abl.); — + ⟨pra⟩ or ⟨sam⟩ idem. |
+V jana | m., man; pl., and coll. in sing., people, folks. |
+V janaka | m., father. |
+V jananī | f., mother. |
+V janman | n., birth, existence. |
+V jaya | m., victory. |
+V jaras | (280) f., old age. |
+@220
+V jarā | (280) f., old age. |
+V jala | n., water. |
+V jalp | root (⟨jalpati⟩) speak; chat. |
+V jāgaraya | root (caus.) awaken. |
+V jāti | f., birth; caste; kind. |
+V jāmātṛ | m., son-in-law. |
+V jāyā | f., woman, wife. |
+V jāla | n., net. |
+V ji | root (⟨jayati⟩) trans. and intrans., conquer, win; — + ⟨parā⟩, mid., be conquered (cf. in Voc. 9). |
+V jina | m., *n. pr.*, a name of Buddha. |
+V jihvā | f., tongue. |
+V jīv | root (⟨jīvati⟩) live. |
+V jīvita | n., life. |
+V juhū | f., spoon, esp. sacrificial spoon. |
+V jetṛ | m., conqueror, victor. |
+V jña | -⟨jña⟩ a., knowing. |
+V jñā | root (⟨jānāti⟩, ⟨jānīte⟩: 403) know; — + ⟨anu⟩ permit; — + ⟨ā⟩ caus. (⟨ājñāpayati⟩) command; — + ⟨vi⟩ recognize. |
+V jñāna | n., knowledge; insight. |
+V jyā | f., bowstring. |
+V jyeṣṭha | (340) a., best; oldest. |
+V jyotiṣa | n., astronomy; astronomical text-book. |
+V jyotis | n., light; star; heavenly body. |
+V ta | (228–230) pron., he, etc.; that, both subst. and adj.; also as def. article. |
+V takṣaśilā | f., *n. pr.*, Taxila, a city. |
+V taḍ | root (⟨tāḍayati⟩) strike, beat. |
+V taḍāga | m., pond. |
+V taḍit | f., lightning. |
+V taṇḍula | m., rice. |
+V tatas | adv., thence, therefore; thereupon. |
+V tatra | adv., there, thither. |
+V tathā | adv., in that way, so. |
+V tad | nom. and acc. s. n. to ⟨ta⟩; as adv., therefore. |
+V tadā | adv., then. |
+V tadyathā | adv., namely, to wit. |
+V tan | root (⟨tanoti⟩, ⟨tanute⟩), tr., stretch, extend; perform (a sacrifice); — + ⟨ā⟩ cause, bring about; — + ⟨pra⟩ extend. |
+V tap | root (⟨tapati⟩, -⟨te⟩), tr. and intr., burn; pain; in pass., suffer, do penance. |
+V tapas | n., heat; self-torture. |
+V tapasvin | a., practising ascetism; as m., ascetic. |
+V tam | root (⟨tāmyati⟩: 131) be sad. |
+V taru | m., tree. |
+V taruṇa | f. -⟨ī⟩, a., young, delicate. |
+V tasthivāṃs | pf. part. of ⟨sthā⟩; as n., the immovable. |
+V tādṛś | a., such. |
+V tālu | n., palate. |
+V tāvant | adj., so great, so much; ⟨tāvat⟩ as adv., so long, so much; often concessive, like *donec*, *doch*. |
+V tiraskariṇī | f., veil. |
+V tiryañc | (272) a., going horizontally; as subst., animal. |
+V tilaka | m., ornament (often fig.). |
+V tīra | n., bank, shore. |
+V tīrtha | n., bathing-place; place of pilgrimage. |
+V tīvra | a., great, strong, violent. |
+V tu | conj., but, however. |
+V tud | root (⟨tudati⟩) push; strike. |
+V tul | root (⟨tolayati⟩) weigh. |
+@221
+V tuṣ | root (⟨tuṣyati⟩) rejoice, take pleasure in (w. instr.). |
+V tṛ | root (⟨tarati⟩) cross over; — + ⟨ava⟩ descend; + ⟨ud⟩ emerge; — + ⟨pra⟩ in caus. (⟨pratārayati⟩), deceive. |
+V tṛtīya | f. -⟨ā⟩ (335), a., third. |
+V tṛp | root (⟨tṛpyati⟩) satisfy oneself. |
+V tṛṣṇā | f., thirst, desire. |
+V tejasvin | a., courageous. |
+V tyaj | root (⟨tyajati⟩) leave, abandon; + ⟨pari⟩ leave off, give up. |
+V trayodaśa | (332) num., thirteen. |
+V tri | (332) num., three. |
+V triṃśat | (332) num., thirty. |
+V triloka | n., -⟨kī⟩ f., the threefold world. |
+V trivṛt | a., triple, threefold. |
+V triśīrṣan | a., three-headed. |
+V triṣṭubh | f., name of a metre. |
+V tryaśīti | num., eighty-three. |
+V tva | stem of pron. of 2d pers. (226; cf. 352, 4). |
+V tvad | so-called stem of pron. ⟨tva⟩. |
+V tvaṣṭṛ | m., *n. pr.*, a god, Tvaṣṭar. |
+V daṃś | root (⟨daśati⟩) bite. |
+V daṃṣṭrā | f., tooth. |
+V dakṣa | m., *n. pr.* |
+V dakṣiṇa | a., right-hand; southern. |
+V daṇḍa | m., stick; punishment. |
+V daṇḍaya | root (den.: ⟨daṇḍayati⟩) punish. |
+V dadhan | (⟨dadhi⟩: 275) n., curds. |
+V dadhyañc | (weakest -⟨dhīc⟩) m., *n. pr.* |
+V dam | root (⟨dāmyati⟩: 131) control; caus. (⟨damayati⟩) tame; compel. |
+V dayā | f., compassion, pity. |
+V daridra | a., poor. |
+V darśana | n., philosophical system. |
+V daśa | (332) num., ten. |
+V daśaratha | m., *n. pr.* |
+V daṣṭa | part. of ⟨daṃś⟩. |
+V dah | root (⟨dahati⟩) burn. |
+V dā | root 1 (⟨dadāti⟩, ⟨datte⟩: 436) give; in caus. (⟨dāpayati⟩) make give or pay; — + ⟨ā⟩ take (312); — + ⟨pra⟩ entrust; give in marriage. |
+V dā | root 2 (⟨dyati⟩: 132) cut. |
+V dātṛ | m., giver; as adj. (204), generous. |
+V dāna | n., gift, present; generosity. |
+V dānava | m., demon. |
+V dāsa | m., slave, groom. |
+V dāsī | f., female slave, servant. |
+V dina | n., day. |
+V div | (277) f. (rarely m.), sky. |
+V divasa | m., day. |
+V divya | a., heavenly, divine. |
+V diś | root (⟨diśati⟩) show, point out; — + ⟨ā⟩ command; — + ⟨upa⟩ teach, instruct. |
+V diś | f., point, cardinal point; quarter, region; direction. |
+V dih | root (⟨degdhi⟩: 428) smear. |
+V dīrgha | a., long; — ⟨am⟩ adv., afar. |
+V dīrghāyus | a., long-lived. |
+V dīv | root (⟨dīvyati⟩) play. |
+V du | root (⟨dunoti⟩), intr., burn, feel distressed; tr., distress (acc.). |
+V duḥkha | n., misery; misfortune. |
+V dugdha | n., milk. |
+V durjana | m., scamp, rogue. |
+V durdaśā | f., misfortune. |
+V durlabha | a., hard to find or reach; difficult. |
+V duṣ | root (⟨duṣyati⟩) be defiled. |
+V duṣprayukta | a., badly arranged. |
+V duṣṣanta | m., *n. pr.* |
+@222
+V dus | insep. prefix, bad; hard. |
+V duh | root (⟨dogdhi⟩, ⟨dugdhe⟩: 428) milk. |
+V duhitṛ | f., daughter. |
+V dūta | m., messenger, envoy. |
+V dṛ | root in caus. (⟨dārayati⟩) + ⟨vi⟩ tear open. |
+V dṛś | root (127) see; caus. (⟨darśayati⟩) show; pass. (⟨dṛśyate⟩) seem, look. |
+V dṛś | f., look, glance; eye. |
+V deva | m., god; f. -⟨ī⟩, goddess; queen. |
+V devakī | f., *n. pr.* |
+V devakula | n., temple. |
+V devatā | f., divinity, deity. |
+V deśa | m., region, land. |
+V daiva | f. -⟨ī⟩, divine. |
+V doṣa | m., fault. |
+V dyuti | f., brilliancy. |
+V dravya | n., property; object. |
+V draṣṭṛ | m., seer; author (of Vedic hymns, etc.). |
+V dru | root (⟨dravati⟩) run. |
+V druh | root (⟨druhyati⟩) be hostile, offend. |
+V dva | (332) num., two. |
+V dvāḥstha | m., doorkeeper. |
+V dvār | f., door, gate. |
+V dvija | m., Aryan. |
+V dvijāti | m., Aryan. |
+V dvitīya | (335) a., second. |
+V dvipad | (282) a., biped. |
+V dviṣ | root (⟨dveṣṭi⟩, ⟨dviṣṭe⟩) hate; — + ⟨pra⟩ hate extremely. |
+V dviṣ | m., enemy. |
+V dvis | adv., twice. |
+V dvīpin | m., panther. |
+V dhana | n., money, riches. |
+V dhanin | a., wealthy. |
+V dhanus | n., bow. |
+V dharma | m., right; law; virtue. |
+V dhā | root 1 (⟨dadhāti⟩, ⟨dhatte⟩: 435) put, place; — + ⟨api⟩ close, cover, keep shut; — + ⟨ā⟩ put on; mid., receive; — + ⟨sam-ā⟩ lay or place on; — + ⟨ni⟩ lay down; — + ⟨pari⟩ in caus. (-⟨dhāpayati⟩), make put on, clothe in (two acc.); — + ⟨vi⟩ arrange, ordain; — + ⟨sam⟩ put together, unite; lay on. |
+V dhā | root 2 (⟨dhayati⟩: 126) suck. |
+V dhātṛ | m., creator. |
+V dhānya | n., grain. |
+V dhārmika | a., right, just. |
+V dhāv | root (⟨dhāvati⟩) run; — + ⟨anu⟩ run after. |
+V dhāvana | n., running; course. |
+V dhī | f., understanding, insight. |
+V dhīmant | a., wise, prudent. |
+V dhīra | a., steadfast, firm, brave. |
+V dhū | root (⟨dhunoti⟩, ⟨dhunute⟩: 391), shake. |
+V dhṛ | root in caus. (⟨dhārayati⟩) bear. |
+V dhṛti | f., firmness; courage. |
+V dhenu | f., cow. |
+V dhairya | n., steadfastness. |
+V dhyā | root (⟨dhyāyati⟩) think, ponder. |
+V na | adv., not; with opt., cf. 207. |
+V nakṣatra | n., lunar mansion. |
+V nagara | n., -⟨ī⟩ f., city. |
+V nadī | f., river. |
+V nand | root (⟨nandati⟩, -⟨te⟩) + ⟨abhi⟩ rejoice in, greet joyfully (acc.). |
+V nam | root (⟨namati⟩), intr., bow, bend; tr., honor, reverence (acc.). |
+V namas | n., honor, glory. |
+V nara | m., man (*vir* and *homo*). |
+@223
+V naraka | m., hell. |
+V narmadā | f., *n. pr.*, a river in India. |
+V nala | m., *n. pr.* |
+V nava | a., new. |
+V nava | (332) num., nine. |
+V navati | (332) num., ninety. |
+V navadaśa | (332) num., nineteen. |
+V navīna | a., new. |
+V naś | root (⟨naśyati⟩) perish; — + ⟨vi⟩ perish; disappear. |
+V nah | root (⟨nahyati⟩) bind; — + ⟨sam⟩ gird, equip oneself. |
+V nāga | m., snake. |
+V nāṭaka | n., drama, play. |
+V nāman | n., name; ⟨nāma⟩ adv., by name. |
+V nārī | f., woman, wife. |
+V nālī | f., pipe, conduit. |
+V nāśa | m., destruction. |
+V ni | adv., down; in, into. |
+V nitya | a., constant; daily; -⟨am⟩ as adv., always, daily. |
+V nideśa | m., command. |
+V nind | root (⟨nindati⟩) blame. |
+V nipuṇa | a., shrewd, skilled. |
+V niyata | part. of ⟨ni-yam⟩, ordained, fixed, permanent. |
+V nirdaya | a., pitiless. |
+V nirvṛti | f., contentment, happiness. |
+V nis | adv., out, forth. |
+V niścaya | m., decision, certainty. |
+V nī | root (⟨nayati⟩; caus. ⟨nāyayati⟩) lead, guide; — + ⟨apa⟩ lead away; — + ⟨ā⟩ bring; — + ⟨upa⟩ introduce, consecrate, initiate; — + ⟨nis⟩ bring to an end, determine, settle; — + ⟨pari⟩ lead about; marry. |
+V nīca | a., low. |
+V nīti | f., conduct of life; ethics, politics. |
+V nīruj | a., healthy, well. |
+V nīlakaṇṭha | m., *n. pr.* |
+V nṛt | root (⟨nṛtyati⟩) dance. |
+V nṛtta | n., dance, dancing. |
+V nṛpa | m., king. |
+V nṛpati | m., king. |
+V netṛ | m., leader. |
+V netra | n., leading-rope, cord; eye. |
+V nau | f., ship. |
+V nyañc | (272) a., low. |
+V nyāya | m., logic. |
+V nyāyya | a., right, proper. |
+V pakṣa | m., wing, side; party. |
+V pakṣin | m., bird. |
+V paṅka | n., mud, bog. |
+V pac | root (⟨pacati⟩) cook. |
+V pañca | (332) num., five. |
+V pañcadaśa | (332) num., fifteen. |
+V pañcapañcāśa | (334) a., fifty-fifth. |
+V pañcāśat | (332) num., fifty. |
+V paṭ | root (⟨pāṭayati⟩) split open. |
+V paṭu | a., skilled. |
+V paṭh | root (⟨paṭhati⟩) recite, read. |
+V paṇi | m. pl., *n. pr.*, certain demons. |
+V paṇḍita | m., learned man; pandit. |
+V pat | root (⟨patati⟩) fall, fly; — + ⟨ud⟩ fly up. |
+V pati | (274) m., lord, master; husband. |
+V pattra | n., leaf, letter. |
+V patnī | f., wife, consort. |
+V pathi | same as ⟨panthan⟩. |
+V pathya | a., wholesome. |
+V pad | (282) m., foot. |
+V pad | root (⟨padyate⟩) go; — + ⟨vi-ā⟩ in caus. (⟨vyāpādayati⟩) kill; — + ⟨nis⟩ (⟨niṣpadyate⟩) grow, arise from (abl.); — + ⟨pra⟩ flee for refuge to (acc.). |
+@224
+V pada | n., step; place. |
+V padma | m. n., lotus. |
+V panthan | (278) m., road, path. |
+V payas | n., milk. |
+V para | (233) a., chief, highest; other. |
+V paramātman | m., the world-spirit. |
+V paraśu | m., axe. |
+V parā | adv., to a distance, away. |
+V pari | adv., round about, around. |
+V parivrāj | (247, 2) m., wandering ascetic. |
+V pariṣad | f., assembly. |
+V parvata | m., mountain. |
+V palāy | root (⟨palāyate⟩: cf. p. 116, note) flee. |
+V paś | root (⟨paśyati⟩: 127) see. |
+V paśu | m., beast. |
+V paścāt | adv., behind (w. gen.). |
+V pā | root 1 (⟨pibati⟩: 102) drink; caus. (⟨pāyayati⟩) give to drink, water. |
+V pā | root 2 (⟨pāti⟩) protect; caus. ⟨pālayati⟩ idem. |
+V pāṭaliputra | n., *n. pr.*, the city Patnā. |
+V pāṭha | m., lecture, lesson. |
+V pāṇi | m., hand. |
+V pāṇini | m., *n. pr.* |
+V pāṇḍava | m., descendant of Pāṇḍu. |
+V pātaka | n., crime, sin. |
+V pātra | n., pot, vessel. |
+V pāda | m., foot; quarter; ray, beam. |
+V pāpa | a., bad; as n. subst., sin. |
+V pārthiva | m., prince. |
+V pārvatī | f., *n. pr.* |
+V pālana | n., protection. |
+V pāśa | m., noose, cord, snare. |
+V pāśupālya | n., cattle-raising. |
+V pitṛ | m., father; du., parents; pl., Manes. |
+V piṣ | root (⟨pinaṣṭi⟩) grind, crush. |
+V pī | same as ⟨pyā⟩. |
+V pīna | part. of ⟨pī⟩, fat. |
+V pīḍ | root (⟨pīḍayati⟩) torment, vex. |
+V puṃs | same as ⟨pumāṃs⟩. |
+V puṇya | a., meritorious, holy, auspicious; as n., merit. |
+V putra | m., son; -⟨trī⟩ f., daughter. |
+V punar | adv., again, but. |
+V pumāṃs | (279) m., man, male. |
+V pur | f., city. |
+V purā | adv., earlier, formerly. |
+V purāṇa | f. -⟨ā⟩ and -⟨ī⟩, a., former, ancient; as n., one of a class of works on the creation, etc. |
+V puruṣa | m., man (*homo*). |
+V purūravas | m., *n. pr.*, Purūravas. |
+V purohita | m., domestic priest. |
+V pulinda | m., *n. pr.*, a tribe in India. |
+V puṣ | root (⟨puṣṇāti⟩) make increase or grow. |
+V puṣṭa | part. of ⟨puṣ⟩, stout, fat. |
+V puṣpa | n., flower. |
+V pustaka | n., book (manuscript). |
+V pū | root (⟨punāti⟩, ⟨punīte⟩) clean. |
+V pūj | root (⟨pūjayati⟩) honor. |
+V pūra | m., flood, high-water. |
+V pūru | m., *n. pr.* |
+V pūṣan | (284) m., *n. pr.*, Pūṣan, the Sun-god. |
+V pṛthivī | f., earth, ground. |
+V pṛthu | a., broad, wide. |
+V pṛthvī | f., earth. |
+V pṛthvīrāja | m., *n. pr.* |
+V pṛ | root 1 (⟨piparti⟩) fill. |
+V poṣaka | m., supporter, maintainer. |
+@225
+V pautra | m., grandson. |
+V paura | m., citizen. |
+V pyā | root (⟨pyāyate⟩) swell, get stout. |
+V pra | adv., forward, forth. |
+V prakāśin | a., bright, glistening; act., illuminating. |
+V prach | root (⟨pṛcchati⟩) ask, ask about. |
+V prajā | f., creature, subject. |
+V prati | adv. and prep., back, back, again; towards (postpos., w. acc.). |
+V pratikūla | a., unfavorable. |
+V pratyañc | (272) a., backward, westward. |
+V pratyaham | adv., daily. |
+V prath | root in caus. (⟨prathayati⟩), spread; proclaim. |
+V prathama | (335) a., first. |
+V prabhāva | m., might, power. |
+V prabhūta | a., much; many. |
+V pramatta | a., careless. |
+V prayāga | m., *n. pr.*, Allahābād. |
+V prayukta | part. of ⟨pra-yuj⟩. |
+V prayoktṛ | m., arranger, user. |
+V pralaya | m., destruction. |
+V praśna | m., question. |
+V prasanna | part. of ⟨pra-sad⟩, well-disposed. |
+V prahāra | m., stroke, shot; wound. |
+V prāñc | (272) forward, eastward. |
+V prāṇa | m., often pl., breath, life. |
+V prāṇin | m., living creature. |
+V prātar | adv., early, in the morning. |
+V prāyaścitta | n., penance, expiation. |
+V prāyeṇa | adv., commonly. |
+V prāsāda | m., palace. |
+V priya | a., dear. |
+V priyakarman | a., kind. |
+V priyavāc | a., saying pleasant things, sociable. |
+V priyavādin | a., idem. |
+V prī | root (⟨prīṇāti⟩, ⟨prīṇīte⟩), act., delight; mid., rejoice; caus. (⟨prīṇayati⟩), make glad, please. |
+V plu | root (⟨plavate⟩) + ⟨ā⟩ drench. |
+V phala | n., fruit, reward. |
+V phalavant | a., fruitful. |
+V bandh | root (⟨badhnāti⟩, ⟨badhnīte⟩) bind; entangle, catch; join; compose. |
+V bandhu | m., relative. |
+V bala | n., strength, might. |
+V balavant | a., strong, mighty. |
+V baliṣṭha | a., strongest. |
+V bahu | a., much, many. |
+V bāla | a., young; as m., child, boy; f. -⟨ā⟩, girl. |
+V bāṣpa | m., tear, tears. |
+V bāhu | m., arm. |
+V bindu | m., drop. |
+V buddha | part. of ⟨budh⟩, awakened; enlightened. |
+V buddhi | f., prudence, intelligence. |
+V buddhimant | a., prudent. |
+V budh | root (⟨bodhati⟩, -⟨te⟩; ⟨budhyati⟩, -⟨te⟩), wake; know. |
+V budha | m., wise man, sage. |
+V brahmacarya | n., life of holiness, esp. religious studentship. |
+V brahmacārin | a., studying sacred knowledge; as m., Brāhman student. |
+V brahman | n., devotion; sacred word (of God); sacred knowledge; world-spirit. |
+@226
+V brahman | (a personification of ⟨brahman⟩) m., the supreme All-Soul; Brahma, the Creator. |
+V brahmahan | (283) m., killing a Brāhman. |
+V brāhmaṇa | m., priest, Brāhman. |
+V brū | root (⟨bravīti⟩, ⟨brūte⟩), speak, say; — + ⟨pra⟩ explain, teach, announce; — + ⟨vi⟩ explain, announce. |
+V bhakta | a., devoted, true. |
+V bhakti | f., devotion; honor. |
+V bhakṣ | root (⟨bhakṣayati⟩) eat. |
+V bhakṣaṇa | n., eating. |
+V bhagavant | a., honorable, blessed. |
+V bhaj | root (⟨bhajati⟩, -⟨te⟩) divide; — + ⟨vi⟩ distribute. |
+V bhañj | root (⟨bhanakti⟩) break, destroy. |
+V bhadra | a., good, pleasant; as n., fortune. |
+V bhaya | n., fear. |
+V bharatakhaṇḍa | m., *n. pr.*, India. |
+V bhartṛ | m., supporter; preserver; lord, master; husband. |
+V bhava | m., *n. pr.*, a name of Śiva. |
+V bhavant | f. ⟨bhavatī⟩; in voc. ⟨bhos⟩, f. ⟨bhavati⟩; used in respectful address instead of pronoun of 2nd person. Cf. § 264. |
+V bhasman | n., ashes. |
+V bhā | root (⟨bhāti⟩) gleam, glance; — + ⟨ā⟩ or ⟨vi⟩ idem. |
+V bhāga | m., part, piece, share. |
+V bhāj | -⟨bhāj⟩ a., sharing. |
+V bhānu | m., sun. |
+V bhāra | m., burden. |
+V bhāryā | f., wife, woman. |
+V bhāṣ | root (⟨bhāṣate⟩) speak; — + ⟨prati⟩ answer (acc. of pers.); — + ⟨sam⟩ converse. |
+V bhāṣā | f., speech, language. |
+V bhāsvant | a., shining, brilliant. |
+V bhikṣ | root (⟨bhikṣate⟩) beg, get by begging. |
+V bhikṣā | f., alms. |
+V bhikṣu | m., beggar; ascetic. |
+V bhid | root (⟨bhinatti⟩, ⟨bhintte⟩) split. |
+V bhī | root (⟨bibheti⟩) fear; in caus. (⟨bhīṣayate⟩, ⟨bhāyayate⟩) terrify. |
+V bhuj | root 2 (⟨bhunakti⟩, ⟨bhuṅkte⟩) eat, enjoy; caus. (⟨bhojayati⟩) feed; — + ⟨upa⟩ enjoy. |
+V bhuj | -⟨bhuj⟩ a., enjoying. |
+V bhujyu | m., *n. pr.*, a Vedic person. |
+V bhuvana | n., world. |
+V bhū | root (⟨bhavati⟩, -⟨te⟩) become; be, exist; — + ⟨abhi⟩ overpower; — + ⟨pari⟩ despise; — + ⟨pra⟩ arise; be mighty, rule; *valere*. |
+V bhū | f., earth, ground. |
+V bhūta | part. of ⟨bhū⟩; as n. subst., being, creature. |
+V bhūti | f., prosperity, blessing. |
+V bhūbhuj | m., king. |
+V bhūbhṛt | m., king; mountain. |
+V bhūmi | f., earth, ground, land. |
+V bhūyas | (340) comp. adj., more; -⟨yas⟩ adv., mostly. |
+V bhūṣaṇa | n., ornament. |
+V bhṛ | root (⟨bharati⟩, -⟨te⟩) support (lit. and fig.). |
+V bhṛgukaccha | n., *n. pr.*, Baroch, a holy place in India. |
+V bhṛtaka | m., servant. |
+V bhṛtya | m., servant. |
+V bhṛśam | adv., greatly, much. |
+V bheka | m., frog. |
+V bhoga | m., enjoyment. |
+V bhojana | n., meal. |
+@227
+V bhos | see ⟨bhavant⟩. |
+V bhram | root (⟨bhramyati⟩: 131) wander about, flit; — + ⟨pari⟩ idem. |
+V bhrātṛ | m., brother. |
+V bhrū | f., eyebrow. |
+V makṣikā | f., fly, gnat. |
+V maghavan | (270) m., Indra. |
+V majj | root (⟨majjati⟩) sink; — + ⟨ni⟩ idem. |
+V maṇi | m., jewel. |
+V mati | f., mind. |
+V matimant | a., shrewd, prudent. |
+V matsya | m., fish. |
+V mathi | same as ⟨manthan⟩. |
+V mad | called stem of ⟨aham⟩; cf. 352, 4. |
+V mad | root (⟨madyati⟩) get drunk; — + ⟨pra⟩ be careless. |
+V madhu | n., honey. |
+V madhuparka | m., sweet drink. |
+V madhulih | m., bee. |
+V madhya | a., middle; as n., middle; waist. |
+V man | root (⟨manyate⟩; ⟨manute⟩) think, suppose; — + ⟨sam⟩ honor. |
+V manas | n., mind. |
+V manuṣya | m., man (*homo*). |
+V manoratha | m., wish. |
+V manohara | a., agreeable; entrancing. |
+V mantra | m., sacred text; spell, charm. |
+V mantrin | m., minister; councillor. |
+V manth | root (⟨mathnāti⟩) stir. |
+V manthan | (278) m., stirring-stick. |
+V mandara | m., *n. pr.*, a mountain. |
+V maraṇa | n., death. |
+V marut | m., wind; pl., *n. pr.*, the Storm-gods. |
+V mastaka | n., head. |
+V mahant | (261) a., great. |
+V mahānasa | n., kitchen. |
+V mahārāja | m., great king. |
+V mahiṣa | m., *n. pr.* |
+V mahiṣī | f., queen. |
+V mā | root 1 (⟨māti⟩; ⟨mimīte⟩: 438) measure; — + ⟨nis⟩ work, create. |
+V mā | adv. and conj., not; used in prohibitions, etc., like Lat. *ne*, greek μή; cf. 195. |
+V māṃsa | n., flesh. |
+V mātṛ | f., mother. |
+V mādhurya | n., sweetness. |
+V mānava | m., man (*homo*). |
+V mānasa | n., sense; understanding. |
+V mānuṣa | f. -⟨ī⟩, human. |
+V mārga | m., road, way, street. |
+V mālā | f., garland. |
+V māsa | m., month. |
+V mitra | n., friend. |
+V mitradruh | (249) a., friend-betraying. |
+V mīna | m., fish. |
+V mīl | root (⟨mīlati⟩) wink; — + ⟨ni⟩ close the eyes. |
+V muktā | f., pearl. |
+V mukti | f., salvation, deliverance. |
+V mukha | n., mouth, face. |
+V mukhya | a., principal, first. |
+V muc | root (⟨muñcati⟩: 110) free, release; ⟨muktvā⟩, without (312). |
+V mud | root (⟨modate⟩) rejoice; — + ⟨anu⟩ allow. |
+V muni | m., sage; ascetic. |
+V muṣ | root (⟨muṣṇāti⟩) steal, rob. |
+V musala | m. n., club, pestle. |
+V muh | root (⟨muhyati⟩) be confused or dazed or stupid. |
+@228
+V mūrdhaga | a., on the head. |
+V mūrdhan | m., head. |
+V mūla | n., root. |
+V mṛ | root (⟨mriyate⟩: 155) die; caus. (⟨mārayati⟩) kill. |
+V mṛga | m., wild animal; gazelle. |
+V mṛgaya | root (den.: ⟨mṛgayate⟩) hunt for, seek. |
+V mṛgayā | f., chase, hunting. |
+V mṛj | root (⟨mārṣṭi⟩: 423) rub, wipe; caus. (⟨mārjayati⟩) rub off, polish; — + ⟨apa⟩, ⟨pari⟩ or ⟨pra⟩, wipe off. |
+V mṛta | part. of ⟨mṛ⟩, dead, fallen. |
+V mṛtyu | m., death. |
+V mṛd | f., earth, dirt. |
+V mekhalā | f., girdle. |
+V megha | m., cloud. |
+V mokṣa | m., deliverance; salvation. |
+V moha | m., infatuation. |
+V ya | (231) rel. pron., used as subst. and adj., who, which, what; cf. 234 ff. |
+V yaj | root (⟨yajati⟩, -⟨te⟩) sacrifice (acc. pers., instr. *rei*); caus. (⟨yājayati⟩) make to sacrifice, offer sacrifice for (acc.). |
+V yajus | n., sacrificial formula, text. |
+V yajña | m., sacrifice. |
+V yajñiya | a., suitable for sacrificing. |
+V yat | root (⟨yatate⟩) strive after (dat.). |
+V yatas | adv., whence; wherefore. |
+V yati | m., ascetic. |
+V yatna | m., exertion. |
+V yatra | adv., where, whither. |
+V yathā | adv., in which way; as. |
+V yadā | adv., when, if. |
+V yadi | adv., if. |
+V yam | root (⟨yacchati⟩: 100) furnish, give; — + ⟨ud⟩ undertake; — + ⟨ni⟩ ordain, fix, appoint. |
+V yamunā | f., *n. pr.*, the river Jumna. |
+V yavana | m., Greek, barbarian. |
+V yaśas | n., glory, fame. |
+V yaṣṭi | f., stick, staff. |
+V yā | root (⟨yāti⟩) go; with abstracts, come into such and such a state; — + ⟨ā⟩ approach. |
+V yātrā | f., march, journey; support. |
+V yāma | m., watch of the night. |
+V yāvant | a., how much or many; ⟨yāvat⟩ as adv., as long as, while; as soon as. |
+V yuga | n., age of the world. |
+V yugma | n., pair. |
+V yuj | root (⟨yunakti⟩, ⟨yuṅkte⟩) join, yoke, harness; caus. (⟨yojayati⟩) idem; — + ⟨ni⟩ place, appoint, establish; — + ⟨pra⟩ arrange; use. |
+V yuddha | n., battle. |
+V yudh | root (⟨yudhyate⟩) fight (instr.). |
+V yuvati | f. to ⟨yuvan⟩. |
+V yuvan | (269) a., young; f. ⟨yuvati⟩. |
+V yuṣmad | called stem of ⟨yūyam⟩; as stem in cpds (352, 4.), you. |
+V yūpa | m., sacrificial post. |
+V yūyam | (226) pron., you. |
+V rakṣ | root (⟨rakṣati⟩) protect. |
+V rakṣaṇa | n., protection. |
+V rakṣitṛ | m., protector. |
+V rac | root (⟨racayati⟩) arrange, compose (a literary work). |
+V rajju | f., cord. |
+V rañj | root + ⟨anu⟩ (⟨anurajyati⟩, -⟨te⟩) be inclined or devoted to (loc.). |
+V raṇa | m. n., battle. |
+V ratna | n., jewel. |
+@229
+V ratha | m., wagon. |
+V rathyā | f., street. |
+V rabh | root (⟨rabhate⟩) grasp; — + ⟨ā⟩ take hold on, begin. |
+V ram | root (⟨ramate⟩) amuse oneself; — + ⟨vi⟩ (⟨viramati⟩) cease (abl.). |
+V raśmi | m., ray; rein. |
+V rasa | m., taste, feeling. |
+V rasavant | a., tasteful. |
+V rākṣasa | m., demon. |
+V rāj | root (⟨rājati⟩, -⟨te⟩) direct, rule; shine; be illustrious. |
+V rājan | m., king. |
+V rājya | n., kingdom. |
+V rātri | f., night. |
+V rādh | root (⟨rādhnoti⟩) succeed; — + ⟨apa⟩ do wrong. |
+V rāma | m., *n. pr.*, a hero. |
+V rāmāyaṇa | n., a noted poem. |
+V rāvaṇa | m., *n. pr.*, a demon. |
+V rāśi | m., heap. |
+V ru | root (⟨rauti⟩: 410) cry, scream; — + ⟨vi⟩ idem. |
+V ruc | root (⟨rocate⟩) please (dat., gen.). |
+V ruj | f., sickness, disease. |
+V rud | root (⟨roditi⟩: 429) weep. |
+V ruddha | part. of ⟨rudh⟩, besieged, surrounded; suffused. |
+V rudh | root (⟨ruṇaddhi⟩, ⟨runddhe⟩) obstruct, check, besiege; — + ⟨upa⟩ besiege. |
+V rudhira | n., blood. |
+V ruh | root (⟨rohati⟩) rise, spring up, grow; caus. (⟨rohayati⟩, ⟨ropayati⟩) make rise or grow, plant; — + ⟨ava⟩ descend; — + ⟨ā⟩ climb, mount, ascend; — + ⟨pra⟩ grow up. |
+V rūkṣa | a., harsh, rough. |
+V rūpa | n., form, beauty. |
+V rūpaka | n., gold-piece. |
+V rai | (277) m., rarely f., possessions, wealth. |
+V rohiṇī | f., *n. pr.* |
+V lakṣa | n., a hundred thousand. |
+V lakṣmī | (276) f., goddess of fortune. |
+V lag | root (⟨lagati⟩) attach, hang, cling. |
+V laghu | f. -⟨ghu⟩ or -⟨ghvī⟩, a., light; small, little. |
+V laṅkā | f., *n. pr.*, Ceylon. |
+V lap | root (⟨lapati⟩) prate; — + ⟨vi⟩ complain. |
+V labh | root (⟨labhate⟩) receive, take; caus. (⟨lambhayati⟩) make receive, give. |
+V lalāṭa | n., forehead. |
+V lavaṇa | n., salt. |
+V lāṅgala | n., plough. |
+V lābha | m., acquisition, gain. |
+V likh | root (⟨likhati⟩) scratch, write. |
+V lip | root (⟨limpati⟩) smear. |
+V lih | root (⟨leḍhi⟩, ⟨līḍhe⟩: 427) lick; — + ⟨ava⟩ idem. |
+V lunṭh | root (⟨luṇṭhayati⟩) + ⟨nis⟩ rob. |
+V lup | root (⟨lumpati⟩) break to pieces; devastate; plunder. |
+V lubh | root (⟨lubhyati⟩) covet (dat., loc.). |
+V lekhana | n., writing, copying. |
+V loka | m., world; sing. and pl., people. |
+V lobha | m., desire, avarice. |
+V loman | n., hair. |
+V loha | n., metal; iron. |
+V vaṃśa | m., race, family. |
+V vakra | a., crooked, bent. |
+@230
+V vakṣas | n., chest, breast. |
+V vac | root (⟨vakti⟩: 415) speak, say; name; caus. (⟨vācayati⟩) make (a written leaf) speak, *i. e.* read. |
+V vaṇij | m., merchant. |
+V vatsa | m., calf. |
+V vad | root (⟨vadati⟩) speak, say; — + ⟨abhi⟩ in caus. (⟨abhivādayati⟩) greet; — + ⟨vi⟩ (mid.) dispute, argue. |
+V vadha | m., killing, murder. |
+V vadhū | f., woman; wife. |
+V vana | n., woods, forest. |
+V vanavāsin | a., forest-dwelling. |
+V vand | root (⟨vandate⟩) greet, honor. |
+V vap | root (⟨vapati⟩) scatter; sow. |
+V vapus | n., body; figure. |
+V vayam | (223) pron., we. |
+V vayas | n., age. |
+V vara | 1 m., suitor, bridegroom. |
+V vara | 2 m., choice, privilege; favor. |
+V vara | 3 a., best; better (w. abl.: than). |
+V varāha | m., boar. |
+V varuṇa | m., *n. pr.*, a god. |
+V varṇa | m., color; caste. |
+V varṇaya | root (⟨varṇayati⟩) describe, portray. |
+V vartin | a., abiding, being. |
+V varṣa | n., year. |
+V vallabha | a., dear. |
+V vaś | root (⟨vaṣṭi⟩) wish. |
+V vas | root (⟨vasati⟩) dwell; — + ⟨ni⟩ inhabit, dwell; — + ⟨pra⟩ go away on a journey; — + ⟨prati⟩ inhabit. |
+V vasati | f., dwelling. |
+V vasu | n., wealth, money. |
+V vasudeva | m., *n. pr.* |
+V vastra | n., garment. |
+V vah | root (⟨vahati⟩) tr., carry, bear; intr., proceed; flow; blow. |
+V vā | encl., or. |
+V vāc | f., voice; word. |
+V vācya | a., blameworthy, culpable. |
+V vāṇijya | n., trade. |
+V vāta | m., wind. |
+V vānaprastha | m., a Brāhman in the third stage of his life. |
+V vāpī | f., cistern. |
+V vāyasa | m., crow. |
+V vāyu | m., wind. |
+V vāri | n., water. |
+V vi | adv., apart, away, out. |
+V viṃśa | (334) a., twentieth. |
+V viṃśati | (332) num., twenty. |
+V viṃśatitama | (334) a., twentieth. |
+V vikramāditya | a., *n. pr.*, a king. |
+V vij | root (⟨vijati⟩) tremble; — + ⟨ud⟩ in caus. (⟨udvejayati⟩) terrify. |
+V vitta | n., possessions; wealth. |
+V vid | root (⟨vetti⟩; ⟨veda⟩: 416–417) know, consider; caus. (⟨vedayati⟩) inform (dat.); — + ⟨ni⟩ caus., idem. |
+V vid | root 2 (⟨vindati⟩, -⟨te⟩) find, acquire. |
+V vid | -⟨vid⟩ a., knowing. |
+V vidyā | f., knowledge, learning. |
+V vidvāṃs | a., knowing, wise. |
+V vidviṣṭa | pass. part. of ⟨vi-dviṣ⟩, detested. |
+V vidhi | m., rule, fate; Brahma. |
+V vidheya | a., obedient. |
+V vinaya | m., obedience. |
+V vinā | prep., without (with instr. or acc., often postpos). |
+V vipāka | m., ripening; recompense. |
+V vipra | m., Brāhman. |
+@231
+V vibhu | f. -⟨bhvī⟩, a. pervading, far-reaching; omnipresent, mighty. |
+V vivāha | m., wedding, marriage. |
+V vivekin | a., shrewd. |
+V viś | root (⟨viśati⟩) enter; — + ⟨sam-ā⟩ approach; — + ⟨upa⟩ seat oneself; — + ⟨pra⟩ enter, penetrate. |
+V viś | m. pl., people; the Vaiśya-caste. |
+V viśiṣṭa | part. of ⟨vi-śiṣ⟩, excellent, remarkable. |
+V viśruta | part. of ⟨vi-śru⟩, famous. |
+V viśva | (231) a., all (Vedic). |
+V viśvāsa | m., trust, confidence. |
+V viṣa | n., poison. |
+V viṣṇu | m., *n. pr.*, a god. |
+V vihaga | m., bird. |
+V vihita | part. of ⟨vi-dhā⟩, ordained. |
+V vṛ | root 1 (⟨vṛṇoti⟩, ⟨vṛṇute⟩) cover, surround; — + ⟨ā⟩ cover; — + ⟨apa-ā⟩ open; — + ⟨vi⟩ explain; manifest; — + ⟨sam⟩ shut. |
+V vṛ | root 2 (⟨vṛṇīte⟩; ⟨varayati⟩, -⟨te⟩) choose, select. |
+V vṛka | m., wolf. |
+V vṛkṣa | m., tree. |
+V vṛt | root (⟨vartate⟩) turn; exist, subsist, be, become; — + ⟨ni⟩ return home; — + ⟨pra⟩ get a-going, break out, arise; continue; caus. (act.) continue (trans.). |
+V vṛtta | n., conduct. |
+V vṛttānta | m., state of affairs; news. |
+V vṛtra | m., *n. pr.*, a demon. |
+V vṛddha | part. of ⟨vṛdh⟩, old. |
+V vṛdh | root (⟨vardhate⟩) grow; caus. (⟨vardhayati⟩, -⟨te⟩) make grow; bring up. |
+V vṛṣ | root (⟨varṣati⟩) rain, give rain; fig., shower down; overwhelm. |
+V veda | m., science, knowledge; esp. sacred knowledge, holy writ. |
+V vedanā | f., pain. |
+V vedānta | m., a system of philosophy. |
+V vedi | f., altar. |
+V vai | assev. particle, to be sure, in sooth; often untranslated. |
+V vaiśya | m., man of the third caste. |
+V vyañjana | n., spice. |
+V vyath | root in caus. (⟨vyathayati⟩) torment. |
+V vyadh | root (⟨vidhyati⟩) hit, pierce. |
+V vyalīka | a., false, wrong. |
+V vyavahāra | m., trial, law-suit; trade. |
+V vyākaraṇa | n., grammar. |
+V vyāghra | m., tiger. |
+V vyādha | m., hunter. |
+V vyādhi | m., disease, illness. |
+V vyādhita | a., sick, ill. |
+V vyāsa | m., *n. pr.* |
+V vraj | root (⟨vrajati⟩, -⟨te⟩) proceed; — + wander forth; become an ascetic. |
+V vraṇa | m., wound. |
+V vrata | n., vow, obligation; duty. |
+V śaṃs | root (⟨śaṃsati⟩) praise; proclaim; — + ⟨pra⟩ proclaim. |
+V śak | root (⟨śaknoti⟩) be able; sometimes pass., cf. 322. |
+V śaka | m., Scythian. |
+V śakaṭa | m., car. |
+V śakuntalā | f., *n. pr.* |
+V śaṅkā | f., hesitation. |
+V śata | (332–333) n., a hundred. |
+V śatatama | a., hundredth. |
+@232
+V śatru | m., enemy. |
+V śabda | m., sound, noise, word. |
+V śam | root (⟨śāmyati⟩) become quiet, be extinguished, go out. |
+V śayyā | f., bed, couch. |
+V śara | m., arrow. |
+V śaraṇa | n., protection. |
+V śarad | f., autumn; year. |
+V śarīra | n., body. |
+V śarva | m., *n. pr.*, a name of Śiva. |
+V śākhā | f., branch; edition, redaction. |
+V śānti | f., repose. |
+V śās | root (⟨śāste⟩) command; rule; punish. |
+V śāstṛ | m., governor, punisher. |
+V śāstra | n., science; text-book. |
+V śikṣ | root (⟨śikṣate⟩) learn. |
+V śikhara | m., summit. |
+V śiras | n., head. |
+V śiva | a., beneficent, gracious; blessed; as m., *n. pr.*, a god. |
+V śiśu | m., child. |
+V śiṣ | root (⟨śinaṣṭi⟩) leave, leave remaining; — + ⟨ava⟩ remain over, survive; — + ⟨ud⟩ idem; — + ⟨vi⟩ set apart, distinguish. |
+V śiṣya | m., pupil, scholar. |
+V śī | root (⟨śete⟩: 409) lie; sleep; — + ⟨adhi⟩ lie asleep on (acc.). |
+V śīta | a., cold. |
+V śuc | root (⟨śocati⟩) grieve, sorrow. |
+V śuci | a., pure, clean. |
+V śunaḥśepa | m., *n. pr.* |
+V śubh | root (⟨śobhate⟩) be brilliant, shine. |
+V śubha | a., good; splendid. |
+V śuṣ | root (⟨śuṣyati⟩) dry up. |
+V śūdra | m., man of the fourth caste. |
+V śūdratva | n., condition of a Śūdra. |
+V śūra | m., hero. |
+V śṛgāla | m., jackal. |
+V śeṣa | m. n., rest, remainder. |
+V śeṣa | m., a fabulous snake supporting the earth. |
+V śram | root (⟨śrāmyati⟩: 131) become weary. |
+V śrama | m., pains, trouble. |
+V śrāddha | n., oblation to the Manes (cf. in Voc. 16). |
+V śri | root + ⟨ā⟩ (⟨āśrayate⟩) go for protection, take refuge with (acc.). |
+V śrī | f., luck, fortune, riches; as *n. pr.*, goddess of fortune; as prefix to proper names, famous, honorable, etc. |
+V śrīmant | a., rich; famous. |
+V śru | root (⟨śṛṇoti⟩, ⟨śṛṇute⟩: 391) hear; in caus. (⟨śrāvayati⟩) make hear, i. e. recite, proclaim (acc. pers.). |
+V śruta | part. of ⟨śru⟩; as n, learning. |
+V śruti | f., hearing; holy writ. |
+V śreyas | a., better; best; ⟨śreyas⟩ as n., salvation. |
+V śvan | (269) m., dog. |
+V śvaśura | m., father-in-law. |
+V śvaśrū | f., mother-in-law. |
+V śvas | adv., to-morrow. |
+V śvas | root (⟨śvasiti⟩: 429) breathe; — + ⟨sam-ā⟩ breathe gently: revive; — + ⟨vi⟩ be confident; trust (gen. or loc.). |
+V śveta | a., white. |
+V ṣaṭtriṃśat | (329) num., thirty-six. |
+V ṣaḍaśīti | (329) num., eighty-six. |
+V ṣaṣ | (332) num., six. |
+V ṣaṣṭi | (332) num., sixty. |
+V ṣaṣṭha | f. -⟨ī⟩ (335), a., sixth. |
+@233
+V ṣoḍaśa | (332) num., sixteen. |
+V saṃyukta | part. of ⟨sam-yuj⟩, provided with. |
+V saṃvatsara | m., year. |
+V saṃśaya | m., doubt. |
+V sakṛt | adv., once. |
+V sakthan | (⟨sakthi⟩: 275) n., thigh. |
+V sakhi | (274) m., friend. |
+V sakhī | f., female companion, friend. |
+V sajja | a., ready. |
+V sañj | root (⟨sajati⟩; ⟨sajjate⟩: cf. in Voc. 22) hang on, be fastened on (loc.). |
+V satkāra | m., hospitality. |
+V sattra | n., sacrifice. |
+V satya | n., truth, righteousness. |
+V sad | root (⟨sīdati⟩) sit; settle down; be overcome or exhausted; — + ⟨ā⟩ approach; — + ⟨sam-ā⟩ seat oneself; caus. (-⟨sādayati⟩) meet, encounter; — + ⟨ni⟩ sit down; — + ⟨pra⟩ be favorable. |
+V sadā | adv., always. |
+V sadṛśa | f. -⟨ī⟩, a., similar; worthy. |
+V saṃdigdha | a., doubtful; unsteady. |
+V saṃdhyā | f., twilight. |
+V sant | part. of ⟨as⟩ 1, being, existing; good; as m., good man; as f. ⟨satī⟩, good woman, especially a widow who immolates herself. |
+V sapta | (332) num., seven. |
+V saptati | (332) num., seventy. |
+V saptadaśa | (332) num., seventeen. |
+V sabhā | f., council, meeting, court. |
+V sam | adv., along with; completely. |
+V samakṣam | adv., before, in the presence of (gen.). |
+V samartha | a., capable, able. |
+V samāgama | m., meeting, encounter. |
+V samāja | m., convention, company. |
+V samidh | f., fagot. |
+V samīpa | a., near; as n., vicinity, nearness, presence. |
+V samudra | m., ocean. |
+V samunnati | f., height, elevation; high position. |
+V sameta | a., provided with. |
+V sampūrṇa | part. of ⟨pṛ⟩ 1 + ⟨sam⟩, full. |
+V samyak | adv., well, properly. |
+V samrāj | m., great king; emperor. |
+V sarit | f., river. |
+V sarga | m., creation. |
+V sarpa | m., snake. |
+V sarva | (231) a., all. |
+V sarvatra | a., everywhere. |
+V savitṛ | m., *n. pr.*, the Sun-god Savitar; sun. |
+V sah | root (⟨sahate⟩) endure. |
+V saha | adv., together; prep., often postpos., with, along with, (instr.). |
+V sahacara | m., companion; -⟨ī⟩ f., wife. |
+V sahasā | adv., suddenly, quickly. |
+V sahasra | n., a., thousand. |
+V sahāya | m., companion, helper. |
+V sākṣin | m., witness. |
+V sādhana | n., means, device. |
+V sādhu | m., holy man, saint. |
+V sāman | n., Vedic melody, song; pl., the Sāmaveda. |
+V sāmanta | m., vassal. |
+V sāmpratam | adv., at present. |
+V sāyam | adv., at evening. |
+V sārasa | m., crane. |
+V siṃha | m., lion. |
+@234
+V sic | root (⟨siñcati⟩) drip, drop, moisten; — + ⟨abhi⟩ anoint as king. |
+V sidh | root 1 (⟨sedhati⟩) repel; — + ⟨prati⟩ hold back; forbid. |
+V sidh | root 2 (⟨sidhyati⟩) succeed; in caus. (⟨sādhayati⟩) perform; acquire. |
+V sindhu | m., *n. pr.*, the Indus. |
+V sīman | f., border, boundary; outskirts. |
+V su | adv., well; easy; very. |
+V su | root (⟨sunoti⟩, ⟨sunute⟩) press. |
+V sukha | n., fortune, luck, happiness. |
+V sundara | f. -⟨ī⟩, a., beautiful. |
+V sumanas | a., favorably-minded; as f., flower. |
+V surāpa | m., drunkard. |
+V suvarṇa | n., gold. |
+V suhṛd | m., friend. |
+V sū | root (⟨sūte⟩) generate, bring forth; — + ⟨pra⟩ generate. |
+V sūkta | n., Vedic hymn. |
+V sūta | m., driver, charioteer. |
+V sūda | m., cook. |
+V sūrya | m., sun. |
+V sṛ | root (⟨sarati⟩) flow; — + ⟨anu⟩ follow up; — + ⟨apa⟩ go away; in caus. (-⟨sārayati⟩) drive away. |
+V sṛj | root (⟨sṛjati⟩) let go, create; — + ⟨ud⟩ let loose or out; raise (the voice). |
+V sṛp | root (⟨sarpati⟩) move; — + ⟨pra⟩ idem. |
+V sṛṣṭi | f., creation. |
+V setu | m., bridge, dike. |
+V senā | f., army. |
+V sev | root (⟨sevate⟩) serve, honor; — + ⟨ni⟩ dwell; devote oneself to; attend. |
+V sainika | m., soldier. |
+V sainya | n., army. |
+V soma | m., the intoxicating fermented juice of the Soma-plant. |
+V skandha | m., shoulder. |
+V stu | root (⟨stauti⟩: 411) praise. |
+V stuti | f., song of praise; praise. |
+V stṛ | root (⟨stṛṇoti⟩, ⟨stṛṇute⟩; ⟨stṛṇāti⟩, ⟨stṛṇīte⟩) scatter, strew; — + ⟨upa⟩ scatter, bestrew. |
+V stena | m., thief. |
+V stotra | n., song of praise. |
+V strī | (276) f., woman. |
+V sthā | root (⟨tiṣṭhati⟩) stand, intr.; be in or on, etc., be situated; caus. (⟨sthāpayati⟩) put, place; appoint; stop; — + ⟨adhi⟩ mount, stand over; rule, govern; — + ⟨anu⟩ follow out, accomplish; (cf. also p. 96, last note); — + ⟨ud⟩ arise, rise (cf. Voc. 40); — + ⟨upa⟩ approach, reach; — + ⟨pra⟩ mid., start off; in caus. (act.), send; — + ⟨sam⟩ in caus., cause to remain |
+V sthāna | n., place, locality; stead. |
+V sthita | part. of ⟨sthā⟩; cf. 290, end. |
+V sthiti | f., condition. |
+V snā | root (⟨snāti⟩) bathe. |
+V snātaka | m., one who has performed the ablutions customary at the end of religious pupilage. |
+V snāna | n., bathing, bath. |
+V snāyu | m., tendon, bowstring. |
+V snigdha | part. of ⟨snih⟩, affectionate. |
+V snih | root (⟨snihyati⟩) feel inclined to, love (gen., loc.). |
+V snuṣā | f., daughter-in-law. |
+V spṛś | root (⟨spṛśati⟩) touch. |
+V spṛh | root (⟨spṛhayati⟩) desire (dat.). |
+@235
+V sma | encl., slightly assev.; often accompanies a present tense, giving it the force of an historical tense. |
+V smṛ | root (⟨smarati⟩) remember; think on; call to mind; teach; esp. in pass. ⟨smaryate⟩ ‘it is taught, i. e. traditional’. |
+V smṛti | f., tradition; law-book. |
+V sraj | f., garland. |
+V sraṣṭṛ | m., creator. |
+V sva | a., own; one’s own. |
+V svañj | root (⟨svajate⟩) embrace; — + ⟨pari⟩ (Cf. Voc. 21) idem. |
+V svadṛś | a., similar. |
+V svap | root (⟨svapiti⟩: 429) sleep. |
+V svapna | m., sleep, dream. |
+V svayam | pron., own self, self. |
+V svayambhū | a., self-existent; as m., epithet of Brahma. |
+V svarga | m., heaven. |
+V svasṛ | f., sister. |
+V svādu | a., sweet. |
+V svādhyāya | m., private recitation of sacred texts. |
+V svāmin | m., possessor, lord. |
+V svairam | adv., at pleasure. |
+V hata | part. of ⟨han⟩. |
+V han | root (⟨hanti⟩: 419) kill; caus. (⟨ghātayati⟩), have killed; — + ⟨apa⟩ remove; — + ⟨abhi⟩ smite; — + ⟨sam-ā⟩ wound; — + ⟨ni⟩ kill; — + ⟨prati⟩ hinder; injure, offend; — + ⟨sam⟩ write. |
+V han | -⟨han⟩ (283) a., killing. |
+V hanu | f., jaw. |
+V hanumant | m., *n. pr.*, a monkey-king. |
+V hantṛ | m., killer, slayer. |
+V hari | m., *n. pr.*, a god. |
+V hariṇa | m., gazelle. |
+V hala | m. n., plough. |
+V havis | n., oblation. |
+V hasta | m., hand. |
+V hastin | m., elephant. |
+V hā | root 1 (⟨jahāti⟩) abandon, give up; neglect. |
+V hā | root 2 (⟨jihīte⟩: 438) move. |
+V hi | root (⟨hinoti⟩) send; — + ⟨pra⟩ idem. |
+V hi | assev. particle, surely; causal, for, because. |
+V hiṃs | root (⟨hinasti⟩) injure, destroy. |
+V hita | part. of ⟨dhā⟩ 1; as adj., advantageous; as n., advantage. |
+V himavant | a., snowy; as m., the Himālaya Mts. |
+V hīna | part. of ⟨hā⟩ 1, abandoned; wanting in; w. instr., without. |
+V hu | root (⟨juhoti⟩, ⟨juhute⟩) sacrifice. |
+V hutabhuj | (nom. -⟨bhuk⟩) m., fire. |
+V hū | see ⟨hvā⟩. |
+V hṛ | root (⟨harati⟩) take away; steal; plunder; — + ⟨apa⟩ idem; — + ⟨ā⟩ act. and mid., fetch, bring; — + ⟨ud-ā⟩ cite, mention; — + ⟨praty-ā⟩ bring back; — + ⟨ud⟩ save, rescue. |
+V hṛd | (281) n., heart. |
+V hṛdaya | n., heart. |
+V hṛṣ | root (⟨harṣati⟩, ⟨hṛṣyati⟩) rejoice, be delighted; — + ⟨pra⟩ idem. |
+V he | interj., O, ho. |
+V hemanta | m., winter. |
+V hrasvam | adv., near by. |
+V hrī | root (⟨jihreti⟩) be ashamed. |
+V hrī | f., modesty, bashfulness. |
+V hvā | root (⟨hvayati⟩) call; in caus. (⟨hvāyayati⟩) have called; — + ⟨ā⟩ call, summon. |

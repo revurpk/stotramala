@@ -1,0 +1,57 @@
+# Perry, A Sanskrit Primer. Appendix (pp. 229–230) and Corrections and Additions (pp. 231–232) = leaves n248–n251 of the Cornell scan.
+% Appendix: Hindu names of letters, modern accentuation; and Perry’s Corrections and Additions
+@248
+## Appendix.
+## Hindu Names of Letters.
+¶ The Hindus call the different sounds, and the characters representing them, by the word ⟨kāra⟩ (‘maker’) added to the sound of the letter, if a vowel, or to the letter followed by ⟨a⟩, if a consonant. Thus, ⟨a⟩ (both sound and character) is called ⟨akāra⟩; ⟨ū⟩, ⟨ūkāra⟩; ⟨k⟩, ⟨kakāra⟩; and so on. But sometimes ⟨kāra⟩ is omitted, and ⟨a⟩, ⟨ū⟩, ⟨ka⟩, etc., are used alone. The ⟨r⟩, however, is never called ⟨rakāra⟩, but only ⟨ra⟩ or ⟨repha⟩ (‘snarl’). The ⟨anusvāra⟩ and ⟨visarga⟩ are called by these names alone.
+## Modern Hindu Accentuation of Sanskrit.
+¶ In the pronunciation of Sanskrit almost all Brāhmans employ, with insignificant variations, an ictus-accent, which is quite different from the older musical accent (*svara*) described in Indian and European grammars, and employed nowadays exclusively in the recitation of the Veda. The older system, moreover, as marked in the Vedic texts, has been subjected to very considerable modifications by the Hindus in the traditional recitations of the Vedic schools.
+¶ The modern ictus-accent is weaker than that of English. The more important rules governing its use are as follows:
+¶ 1. *a.* In primitive verbs and derivatives from them the root-syllable is usually accented. *b.* But the accent never goes further back than the fourth place, and seldom back of the third. It may rest on the third syllable only if the penult be short; on the fourth, only if both antepenult and penult be short; thus, *kā́raṇam*, *kā́raṇāt*, but *karaṇéna*; *bódhati*, *kṣípasi*, *náśyatha*, but *bodhā́vaḥ*, *kṣipā́maḥ*, *naśyánti*; *dúhitā*, *dúhitaram*, but *duhitṝ́ṇām*.
+¶ 2. Derivatives from nouns generally retain the accent of the
+@249
+¶ primitive, with the limitations given in 1. *b.*; thus, *rā́ṅku*, *rā́ṅkava*; *gā́rga*, *gā́rgyaḥ*, but *gārgyā́yaṇī*. A naturally short vowel in the penult, if followed by a group of consonants containing ⟨y⟩ or ⟨v⟩, does not generally become long by position; thus, *prā́bala*, *prā́balyam*; *úkta*, *úktatvāt*.
+¶ 3. In verbs and verbal derivatives joined with prepositions, in augmented and reduplicated forms, and sometimes in declensional forms, the accent is recessive, if the root or stem-syllable be short; thus, *ā́gamat*, *ā́natam*, *anúṣṭhitam*, but *utkṛ́ṣṭam*, *nirúktam*; *ágamat*, *ákṣipat*, but *bibhā́rti*, *tuṣṭā́va*, *jagā́u*. Polysyllabic prepositions, when prefixed to other words, retain their own accent as secondary accent; thus, *úpagàcchati*, *úpagàmatām*.
+¶ 4. In compounds, unless the first member be a monosyllabic word, each part generally retains its own accent, but that of the principal member is the strongest; thus, *rā́japurúṣam*, *pā́rvataśikharākā́ram*; but *únmukham*, *díggajam*, *praśíṣyam*.
+¶ The division of syllables is much more apparent in Sanskrit than in English. In reading Sanskrit prose the Hindus generally drop into a sort of sing-song *recitativo*. Verses are always chanted.
+@250
+## Corrections and Additions.
+¶ **P. 10.** *At end of* § 38 *add:* The four semivowels are always sonant.
+¶ **P. 27.** *Add to* § 102: The final ⟨ā⟩ of the root is shortened in the reduplicated stem, except in the first persons. — *Add to* § 103: In the dual and plural of all declensions the vocative is like the nominative.
+¶ **P. 31.** *Add to* § 112.5: It is also used as *terminus ad quem*.
+¶ **P. 39, l. 7.** *For:* makes some forms with short ⟨a⟩ *read:* makes also forms according to the unaccented *a*-class: thus, ⟨bhramati⟩ *bhrámati* etc.
+¶ **P. 40, l. 7.** *At beginning of line insert:* the.
+¶ **P. 43,** Vocab., s. v. ⟨pṛ⟩ *pṛ.* *After:* overcome *insert:* (evils).
+¶ **P. 49,** Vocab., s. v. ⟨gam⟩ + ⟨sam⟩. *After:* meet *insert:* (w. instr.).
+¶ **P. 53, l. 9 from below.** *After* ⟨śrūyate⟩ *insert:* the danda sign (|) and the figure 1.
+¶ **P. 56, l. 10.** *For:* besought *read:* beseech. — L. 11. *For:* were *read:* are.
+¶ **P. 59.** *At end of* § 188 *add:* The impf. pass. is similarly inflected.
+¶ **P. 60, l. 19.** *For:* *pratiṣedati* *read:* *pratiṣédhati.*
+¶ **P. 65.** *Dele the first word* (the) *of the page.*
+¶ **P. 70, l. 10 from below.** *Read:* accompanied.
+¶ **P. 72, l. 12.** *After:* are *insert:* so.
+¶ **P. 73, l. 9 from below.** *For:* ⟨naraḥ⟩ *read:* ⟨narāḥ⟩.
+¶ **P. 74, l. 7.** *After:* saved *insert:* (⟨ud-hṛ⟩: cf. § 267).
+¶ **P. 87, l. 12.** *Read:* Final ⟨m⟩ and ⟨ṣ⟩ of a stem regularly become.
+¶ **P. 90, last line.** *Read:* possessive.
+¶ **P. 117, l. 6.** *For:* ⟨patyā⟩ *read:* ⟨patinā⟩.
+¶ **P. 119,** Vocab. *Insert in last line:* + ⟨sam-ā⟩ come together, join.
+¶ **P. 126.** *Add to* § 329 *the following:* Note also: ⟨dvādaśa⟩ 12, etc., but for 82 only ⟨dvyaśīti⟩; ⟨trayoviṃśati⟩ 23, ⟨trayastriṃśat⟩ 33, for 83 only ⟨tryaśīti⟩; ⟨ṣoḍaśa⟩ 16, ⟨ṣaḍviṃśati⟩ 26, etc.; ⟨aṣṭāviṃśati⟩ 28, ⟨aṣṭātriṃśat⟩ 38, ⟨aṣṭāśīti⟩ 88.
+@251
+¶ **P. 135, l. 5.** *For:* ⟨varasena⟩ *read:* ⟨vīrasena⟩.
+¶ **P. 137, l. 2.** *Read:* ⟨dyāvāpṛthivī⟩.
+¶ **P. 138, l. 12.** *Dele* ⟨yudhiṣṭhira⟩ ‘firm in battle’.
+¶ **P. 180, l. 17.** *For:* ⟨bibhard⟩ *read:* ⟨bibhṛd⟩.
+¶ **P. 182, l. 1.** *For:* ⟨ninyiheh⟩ *read:* ⟨ninyivahe⟩.
+¶ **P. 186, l. 1.** *Read:* ⟨corayati⟩.
+¶ **P. 190, l. 6.** *For:* suffix *read:* suffice.
+¶ **P. 192, l. 13 from below.** *For:* ⟨aipsiṣat⟩ *read:* ⟨aipsīt⟩.
+¶ **P. 196, col. 1.** S. v. ⟨i⟩, *insert:* + ⟨sam-ā⟩ come together, join.
+¶ **P. 197, col. 1.** *Insert:* ⟨ṛṣabhadatta⟩ m., *n. pr.*
+¶ **P. 199, col. 1.** S. v. ⟨gam⟩, *insert:* + ⟨upa-ā⟩ come near.
+¶ **P. 205, col. 2, l. 2 from below.** *Read:* ⟨pṛ⟩ 1 (⟨piparti⟩; caus. ⟨pūrayati⟩) fill. *Also insert in Vocab.:* ⟨pṛ⟩ 2 (⟨pārayati⟩) overcome (evils); prevail.
+¶ **P. 207, col. 2, l. 5.** *Read:* ⟨bhikṣā⟩ f., begging, alms.
+¶ **P. 208, col. 1, l. 2.** *Read:* ⟨bhram⟩ (⟨bhramati⟩, -⟨te⟩; ⟨bhramyati⟩: 131). — Col. 2, l. 11. *Read:* Greek μή; cf. 195, 486. — L. 9 from below. *After:* release *insert:* let fly, shoot.
+¶ **P. 209, col. 2, l. 2.** *Insert:* + ⟨pra⟩ give, give in marriage. — S. v. ⟨yuj⟩ + ⟨ni⟩, *add:* caus. set (as jewels).
+¶ **P. 212, col. 1, l. 5.** *Insert:* + ⟨pra⟩ idem. — Col. 2, l. 15 from below. *Read:* + ⟨pra⟩ wander forth. — L. 9 from below. *Read:* + ⟨pra⟩ idem.
+¶ **P. 214, col. 2, l. 9.** *Read:* ⟨sameta⟩ (⟨i⟩ + ⟨sam-ā⟩) a., followed by, provided with.
