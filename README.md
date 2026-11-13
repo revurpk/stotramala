@@ -29,8 +29,8 @@ IAST, Devanāgarī, or Telugu (script bar at the top).
 | Kāvya | Meghadūta — Pūrvamegha | [read](stotra/kavya/meghaduta-purva-iast.html) |
 | Kāvya | Meghadūta — Uttaramegha | [read](stotra/kavya/meghaduta-uttara-iast.html) |
 | Kāvya | Ghaṭakarparam — twenty-two yamaka verses | [read](stotra/kavya/ghatakarpara-iast.html) |
-| Kathā | Pañcatantra — six selected tales (Sanskrit, English) | [read](stotra/katha/pancatantra-tales-iast.html) |
-| Kathā | Jātakamālā — three selected tales (Sanskrit, English) | [read](stotra/katha/jatakamala-tales-iast.html) |
+| Kathā | Pañcatantra — nine selected tales (Sanskrit, English) | [read](stotra/katha/pancatantra-tales-iast.html) |
+| Kathā | Jātakamālā — four selected tales (Sanskrit, English) | [read](stotra/katha/jatakamala-tales-iast.html) |
 | Devī | Śrī Kanakadhārā Stotram | [read](stotra/devi/kanakadhara-stotram-iast.html) |
 | Devī | Śrī Mahālakṣmī Aṣṭakam | [read](stotra/devi/mahalakshmi-ashtakam-iast.html) |
 | Devī | Mahiṣāsura Mardinī Stotram | [read](stotra/devi/mahishasura-mardini-iast.html) |

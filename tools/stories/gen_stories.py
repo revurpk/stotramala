@@ -12,12 +12,12 @@ sys.path.insert(0, str(TOOLS.parent / ".claude" / "skills" / "add-stotra" / "scr
 import dev2iast as D  # noqa: E402
 META = {
  "pancatantra": dict(slug="pancatantra-tales", deity="katha", t="Pañcatantra · Selected Tales", app="Pañcatantra",
-     sub="Six tales of Viṣṇuśarman’s book of worldly wisdom · Sanskrit with English",
-     note="The Pañcatantra (‘five books’) is the great Sanskrit book of animal fables, told to teach statecraft and prudence to three dull princes. Here are six of its tales, in the Sanskrit of the Wikisource text, each with its verses and an English rendering. Some tales are told inside the frame story, and the closing line of each (‘so I say…’) points back to the saying that the tale illustrates; the wording follows the text as transcribed (see SOURCES §11).",
+     sub="Nine tales of Viṣṇuśarman’s book of worldly wisdom · Sanskrit with English",
+     note="The Pañcatantra (‘five books’) is the great Sanskrit book of animal fables, told to teach statecraft and prudence to three dull princes. Here are nine of its tales, in the Sanskrit of the Wikisource text, each with its verses and an English rendering. Some tales are told inside the frame story, and the closing line of each (‘so I say…’) points back to the saying that the tale illustrates; the wording follows the text as transcribed (see SOURCES §11).",
      foot="Sanskrit Wikisource — पञ्चतन्त्रम् (Viṣṇuśarman)"),
  "jatakamala": dict(slug="jatakamala-tales", deity="katha", t="Jātakamālā · Selected Tales", app="Jātakamālā",
-     sub="Three birth-stories of the Bodhisattva by Āryaśūra · Sanskrit with English",
-     note="Āryaśūra’s Jātakamālā (‘garland of birth-stories’, 4th century or so) retells in ornate Sanskrit, in mixed prose and verse, tales of the Buddha’s earlier lives as the Bodhisattva. Three are given here: the hare who offered himself, the fish who prayed for rain, and the quail chick who stopped a forest fire by an act of truth.",
+     sub="Four birth-stories of the Bodhisattva by Āryaśūra · Sanskrit with English",
+     note="Āryaśūra’s Jātakamālā (‘garland of birth-stories’, 4th century or so) retells in ornate Sanskrit, in mixed prose and verse, tales of the Buddha’s earlier lives as the Bodhisattva. Four are given here: the hare who offered himself, the fish who prayed for rain, the quail chick who stopped a forest fire by an act of truth, and the buffalo who bore a monkey’s insults.",
      foot="Sanskrit Wikisource — जातकमाला (आर्यशूरः)"),
 }
 def iast(line): return re.sub(r"\s+", " ", D.dev2iast(line.replace("ऽ", "'")).replace("॥", "||").replace("।", "|")).strip()

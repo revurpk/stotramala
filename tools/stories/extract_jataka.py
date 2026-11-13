@@ -31,6 +31,7 @@ def story(title, a, b):
         i += 1
     return "# " + title + "\n\n" + "\n\n".join("\n".join(u) for u in out) + "\n"
 SPECS = [("The Hare | शशजातकम्", 656, 810), ("The Fish and the Rain | मत्स्यजातकम्", 2291, 2362),
-         ("The Quail Chick and the Fire | वर्तकापीतकजातकम्", 2366, 2414)]
+         ("The Quail Chick and the Fire | वर्तकापीतकजातकम्", 2366, 2414),
+         ("The Antelope | शरभजातकम्", 3872, 3977), ("The Buffalo | महिषजातकम्", 5413, 5493)]
 if __name__ == "__main__":
     sys.stdout.write("\n".join(story(*s) for s in SPECS))

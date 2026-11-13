@@ -43,6 +43,9 @@ SPECS = {
  "crab": ("The Crane and the Crab | बककुलीरककथा", [("pt_05.txt", 246, 283, None)]),
  "crow": ("The Crows and the Black Snake | वायसकृष्णसर्पकथा", [("pt_05.txt", 287, 295, None)]),
  "hare": ("The Lion and the Hare | भासुरकसिंहशशककथा", [("pt_05.txt", 308, 308, None), ("pt_05.txt", 335, 357, None), ("pt_06.txt", 2, 28, None)]),
+ "croc": ("The Monkey and the Crocodile | वानरमकरकथा", [("pt_21.txt", 21, 122, None)]),
+ "mongoose": ("The Brahmin’s Wife and the Mongoose | ब्राह्मणीनकुलकथा", [("pt_23.txt", 110, 130, None)]),
+ "lions": ("The Lion-Makers | सिंहकारकमूर्खब्राह्मणकथा", [("pt_23.txt", 259, 287, None)]),
  "jackal": ("The Blue Jackal | चण्डरवशृगालकथा", [("pt_06.txt", 148, 165, None)]),
 }
 if __name__ == "__main__":
