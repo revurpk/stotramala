@@ -2503,3 +2503,20 @@ Sections 10.1–10.4 are taken from Sanskrit Wikisource transcriptions of public
 ### 10.5 Ghaṭakarparam — `stotra/kavya/ghatakarpara-iast.html`
 - Source: the 22 verses read by me from the scanned pages of the *Kāvyasaṅgraha*, vol. 1 (Calcutta, 1888), on archive.org (public domain); no Wikisource transcription was used. Where the print is faint or looks corrupt the reading is my best one, and the Sanskrit should be treated as provisional.
 - The poem is ascribed to a poet Ghaṭakarpara, one of the traditional nine gems of Vikramāditya’s court; some manuscripts name Kālidāsa, which is unproven. It is a yamaka poem, so the translations (especially verses 4, 6 and 22) give the sense only and are looser than the rest of the site.
+
+## 11. Stories: Pañcatantra and Jātakamālā
+
+Both are selections of tales (not the whole works), taken from Sanskrit Wikisource transcriptions of public-domain texts, fetched 2026-11-13, converted to IAST with `dev2iast.py` (`tools/stories/`). The English translations are original, made paragraph by paragraph and verse by verse from the Sanskrit.
+
+### 11.1 Pañcatantra — `stotra/katha/pancatantra-tales-iast.html`
+- Source: Sanskrit Wikisource, *पञ्चतन्त्रम्*, the pages for the first book (Mitrabheda) — the tales are in the pages *०१* to *०२छ* and carry its tale-headings. The tales are the monkey and the wedge, the jackal and the drum, the crane and the crab, the crows and the black snake, the lion and the hare, and the blue jackal.
+- **The text is a patchwork.** The transcription mixes sources: some pages are sandhi-split and hyphenated in the manner of one edition, others are continuous. I removed the editorial hyphens in compounds (and turned the hyphen after a speech-verb into a space) and left the rest as transcribed, so the Sanskrit is not uniform in its spelling or its sandhi. A stray replacement character in the lion-and-hare passage was deleted.
+- **Cutting.** The tales are told inside the frame story, and the Wikisource pages interleave them with frame dialogue and long runs of maxims. I took each tale’s own paragraphs and its verses, and left out the frame and the maxims around it. In the lion-and-hare tale this leaves out the verses on kingly duty between the covenant and the hare’s turn; the verses on forts and on enemies are kept. The monkey-and-wedge tale breaks off at the point of the accident with a back-reference (“what befell him has been told already”), as the text has it; my translation adds “(that is, he was crushed to death)”. The jackal-and-drum tale refers to a verse it does not give.
+- Each tale ends with “so I say…” and the first words of the maxim it illustrates; the maxim itself is in the frame, not here.
+- Verse 1.236 (crane and crab) is corrupt in the text; its translation is tentative and says so. The verse of the blue jackal (1.283) is also given tentatively. Verse numbers (1.118 and so on) are those of the Wikisource text, which has some verses under two numberings.
+
+### 11.2 Jātakamālā — `stotra/katha/jatakamala-tales-iast.html`
+- Source: Sanskrit Wikisource, *जातकमाला (आर्यशूरः)*, a transcription of Āryaśūra’s Jātakamālā (the page markers in it follow P. L. Vaidya’s edition); the three tales are Śaśajātaka (no. 6), Matsyajātaka (no. 15) and Vartakāpotakajātaka (no. 16; the title is printed *वर्तकापीतक* in the heading and *वर्तकापोतक* in the colophon, and the page uses the heading’s). I did not collate against Vaidya’s print.
+- Removed: the Wikisource page markers “(वैद्य N)”, the square brackets, the colophon line closing each tale, and the line-division of ज्म् verse tags. The verse numbers (6.1, 15.1 …) are the Wikisource ones.
+- The Sanskrit is ornate and difficult, and I translated it closely rather than freely; a few compound adjectives (the otter, jackal and monkey’s virtues in 1.6; “dharma” meaning heat in 1.33) are my best reading. In 1.5 the sense of the phrase on the beasts’ former wickedness is not certain.
+
