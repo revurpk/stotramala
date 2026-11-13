@@ -2419,4 +2419,20 @@ Editorial notes (the text is Wikisource’s, kept as it stands except for the po
 - The avagraha (ऽ) is written as an inverted comma. Printing slips of the source were corrected: *gṛdyṇāti* to *gṛhṇāti* (49), *nāḍkitaḥ* to *nāṅkitaḥ* (54), *kṛcchgato* to *kṛcchragato* (30), *prīrtigurau* to *prītirgurau* (62). Interjection marks (“!”) and the connective *api ca -* at the head of verses 18, 41 and 95 are dropped.
 - Verses are kept in the source’s word-joining: long runs of sandhi are not divided.
 - The English and Telugu translations are original; the Telugu follows the English closely.
-- The Śṛṅgāra- and Vairāgya-śatakas have been transcribed in `tools/subhashita/` but are not yet translated, so they are not published.
+- The Vairāgya-śataka has been transcribed in `tools/subhashita/` but is not yet translated, so it is not published.
+
+### 9.2 Bhartṛhari’s Śṛṅgāraśatakam — `stotra/subhashita/subhashita-shringara-iast.html`
+
+| Field | Value |
+|---|---|
+| Work | Bhartṛhari, *Śṛṅgāraśatakam* (the second śataka): 102 numbered verses, with two asterisked additions (35*1, 47*1) |
+| Source | Sanskrit Wikisource, page *शृङ्गारशतकम्* (author Bhartṛhari), fetched 2026-11-12 as raw wikitext and converted to IAST with `dev2iast.py` |
+| Recorded | 2026-11-12 |
+| Text status | public domain (the verses); the Wikisource transcription is freely licensed |
+
+Editorial notes:
+- Numbers are the source’s (2.1 … 2.102), shown without the leading “2.”; verses marked with an asterisk are set apart as additions in the source’s numbering.
+- In the source ॐ stands for the syllable *om* (the source’s typing of *komala*, *romāvali* and the like); these are read *komalaṃ* and *romāvaliḥ*, *kaumudī* is read for the source’s *kॐudī*, and in 2.13 and 2.7 *kuñcita*, *vakṣoja* replace the source’s *kuṣcita*, *bakṣoja*. The avagraha is written as an inverted comma; interjection marks are dropped.
+- The Sanskrit of the source is garbled in several verses (2.27–2.29, 2.33, 2.34, 2.37, 2.101 and a few others: broken sandhi, lost words). It is given as it stands, and the English and Telugu of those verses say that the text is corrupt and give the general sense only.
+- The pāda divisions follow the source’s line breaks, which in a few verses (for example 2.8) do not match the metre.
+- The English and Telugu translations are original.
