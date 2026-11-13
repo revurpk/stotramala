@@ -2479,9 +2479,9 @@ Editorial notes:
 - The Telugu is kept as the source has it; the collection contains many variant versions of the same poem, and the one printed there is used. One poem (the Wikisource entry for *కాదు కాదు గురులు*) runs into the next on the source page; only its own four lines are taken. Verse 37 of the page (*కర్మము జ్ఞానికి*) closes with “వేమా!” rather than the usual refrain.
 - The English translations are original and, because the Telugu is archaic and often obscure (a number of verses, especially 53–55, 72, 77 and 84, are translated loosely), should be read as a guide to the sense.
 
-## 10. Works attributed to Kālidāsa
+## 10. Kālidāsa and works attributed to him
 
-All three are taken from Sanskrit Wikisource transcriptions of public-domain printed texts, converted to IAST with `dev2iast.py` (`tools/kalidasa/`); the English translations are original. None is certainly by Kālidāsa the poet and playwright; the attributions are the traditional ones.
+Sections 10.1–10.4 are taken from Sanskrit Wikisource transcriptions of public-domain printed texts, 10.5 from a scan; all are converted to IAST with `dev2iast.py` (`tools/kalidasa/`), and the English translations are original. Apart from the Meghadūta, none is certainly by Kālidāsa the poet and playwright; the attributions are the traditional ones.
 
 ### 10.1 Śyāmalā Daṇḍakam — `stotra/devi/syamala-dandakam-iast.html`
 - Source: Sanskrit Wikisource, *श्यामलादण्डकम् (कालिदासविरचितम्)*, pages 15–18 of the 1929 Kāvyamālā, part 1 (Nirṇaya Sāgara, Mumbai), fetched 2026-11-13. Public domain.
@@ -2495,3 +2495,11 @@ All three are taken from Sanskrit Wikisource transcriptions of public-domain pri
 ### 10.3 Śṛṅgāratilakam — `stotra/kavya/shringaratilakam-iast.html`
 - Source: Sanskrit Wikisource, *शृङ्गारतिलकम् (मूलमात्रम्)*, pp. 86–91 of the 1910 edition of the *Ṛtusaṃhāra* with Candrikā commentary (proofreading level 4). Public domain.
 - Thirty-one verses, numbered here by order. The print’s text is in places corrupt (verses 2, 8, 20 and 31 especially), and the translations of those say so. I corrected evident printing slips: *pīḍāṃ* (31), *dantadaśanaṃ* and *tat* for *dantadanalaṃ* and *te* (29), *prāpnoti* (21), word division in several verses. A few verses are close in wording to verses of other collections.
+
+### 10.4 Meghadūta — `stotra/kavya/meghaduta-purva-iast.html`, `meghaduta-uttara-iast.html`
+- Source: Sanskrit Wikisource, *मेघदूतम् - पूर्वमेघः* and *मेघदूतम् - उत्तरमेघः*, fetched 2026-11-13. Public domain. Verse numbers are those of the Wikisource text (Pūrvamegha 1–66, Uttaramegha 1–55); the two extra verses it carries, numbered here 19a (Pūrvamegha) and 45a (Uttaramegha), are verses not found in every recension, and 45a is textually uncertain (its translation says so).
+- I did not collate the text against a printed edition, so readings are Wikisource’s; a stray misprint at Pūrvamegha 23 (*parvete te* for *parvate te*) is left as transcribed. The translations are my own, made verse by verse from the Sanskrit, and are literal in aim; the commentarial readings of a few place-names and epithets (Nirvindhyā, Śārṅgin, śarabha) are the usual ones.
+
+### 10.5 Ghaṭakarparam — `stotra/kavya/ghatakarpara-iast.html`
+- Source: the 22 verses read by me from the scanned pages of the *Kāvyasaṅgraha*, vol. 1 (Calcutta, 1888), on archive.org (public domain); no Wikisource transcription was used. Where the print is faint or looks corrupt the reading is my best one, and the Sanskrit should be treated as provisional.
+- The poem is ascribed to a poet Ghaṭakarpara, one of the traditional nine gems of Vikramāditya’s court; some manuscripts name Kālidāsa, which is unproven. It is a yamaka poem, so the translations (especially verses 4, 6 and 22) give the sense only and are looser than the rest of the site.

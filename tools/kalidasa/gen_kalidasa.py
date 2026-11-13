@@ -16,6 +16,15 @@ META = {
  "ambashtaka": dict(slug="ambashtakam", deity="devi", t="Ambāṣṭakam", app="Ambāṣṭakam",
      sub="Eight Verses to the Mother · in the Aśvadhāṭī metre",
      note="Eight verses to Pārvatī, Kālī and the Mother of the worlds in the swift, galloping Aśvadhāṭī metre (the name means ‘a horse’s gallop’), famous for its rhymes. The Kāvyamālā print, from which the text is taken, gives it to Śaṅkarācārya; the tradition that calls it Kālidāsa’s Aśvadhāṭī stotra is also current."),
+ "ghatakarpara": dict(slug="ghatakarpara", deity="kavya", t="Ghaṭakarparam", app="Ghaṭakarpara",
+     sub="Twenty-two Verses of Rain and Longing · a yamaka poem",
+     note="A short poem of twenty-two verses in the rainy season, every verse built on yamaka (rhyme by repeating the same sounds with different senses); a wife parted from her husband speaks to the clouds, the flowers and a passing traveller. It is traditionally ascribed to a poet Ghaṭakarpara (‘potsherd’), said to be one of the nine gems of Vikramāditya’s court, and the last verse challenges any poet who can surpass him in yamaka to be paid in water carried in a potsherd; some manuscripts name Kālidāsa. The Sanskrit is read from the scan of the 1888 Kāvyasaṅgraha; yamaka cannot be carried into English, so the translations give the sense only."),
+ "meghaduta_purva": dict(bynum=True, slug="meghaduta-purva", deity="kavya", t="Meghadūta · Pūrvamegha", app="Meghadūta I",
+     sub="The Cloud Messenger · Part 1: the Journey (verses 1–66)",
+     note="Kālidāsa’s lyric of a yakṣa banished for a year from his home and his wife, who asks a rain-cloud to carry his message to her in the far north. This first part is the cloud’s route from Rāmagiri to the Himalaya, in the mandākrāntā metre."),
+ "meghaduta_uttara": dict(bynum=True, slug="meghaduta-uttara", deity="kavya", t="Meghadūta · Uttaramegha", app="Meghadūta II",
+     sub="The Cloud Messenger · Part 2: Alakā and the Message (verses 1–55)",
+     note="The second part of Kālidāsa’s Meghadūta: the city of Alakā, the yakṣa’s house, the wife as the poet imagines her, and the message he sends."),
  "shringaratilaka": dict(slug="shringaratilakam", deity="kavya", t="Śṛṅgāratilakam", app="Śṛṅgāratilaka",
      sub="The Ornament of Love · attributed to Kālidāsa",
      note="A short collection of love-verses, in the voices of lovers, friends and a woman left alone, attributed to Kālidāsa; the text of this printing is in places corrupt. The verse numbers are those of the print (the numbering here is by order, 1–31)."),
@@ -34,19 +43,20 @@ def main(name):
     m = META[name]
     us = units(name)
     gl = {}
-    gp = HERE / f"{name}.gloss.txt"
-    if gp.exists():
+    for gp in sorted(HERE.glob(f"{name}.gloss*.txt")):
         for l in gp.read_text(encoding="utf-8").splitlines():
             if l.strip() and l[0] != "#":
                 k, e = [x.strip() for x in l.split("|", 1)]; gl[k] = e
     secs, missing = [], 0
     for i, lines in enumerate(us, 1):
         last = lines[-1]
-        mm = re.search(r"[।॥]+\s*([०-९0-9]*)\s*[।॥]*\s*$", last)
+        mm = re.search(r"[।॥]+\s*([०-९0-9]+[a-z]?|)\s*[।॥]*\s*$", last)
         num = ""
         if mm and mm.group(1):
-            num = "|| " + str(int("".join(str("०१२३४५६७८९".index(c)) if c in "०१२३४५६७८९" else c for c in mm.group(1)))) + " ||"
-        body = [re.sub(r"\s*[।॥]+\s*[०-९0-9]*\s*[।॥]*\s*$", "", l) for l in lines[:-1]] + [re.sub(r"\s*[।॥]+\s*[०-९0-9]*\s*[।॥]*\s*$", "", last)]
+            g = mm.group(1); suf = g[-1] if g[-1].isalpha() and g[-1].isascii() else ""
+            digits = g[:-1] if suf else g
+            num = "|| " + str(int("".join(str("०१२३४५६७८९".index(c)) if c in "०१२३४५६७८९" else c for c in digits))) + suf + " ||"
+        body = [re.sub(r"\s*[।॥]+\s*[०-९0-9a-z]*\s*[।॥]*\s*$", "", l) for l in lines[:-1]] + [re.sub(r"\s*[।॥]+\s*[०-९0-9a-z]*\s*[।॥]*\s*$", "", last)]
         if m.get("prose") and len(lines) == 1 and len(last) > 200:
             pad = [iast(body[0])]
             d = {"padas": pad, "num": num, "gloss": gl.get(str(i), "(translation to follow)"), "prose": True}
@@ -57,13 +67,15 @@ def main(name):
             else:
                 pad = [ip[0], ip[1] + " |", ip[2], ip[3]] if len(ip) == 4 else ([ip[0] + " |", ip[1]] if len(ip) == 2 else ip)
             d = {"padas": pad, "num": "" if m.get("prose") and not num else num, "gloss": gl.get(str(i), "(translation to follow)")}
-        if str(i) not in gl: missing += 1
+        key = (num.replace("|", "").strip() if m.get("bynum") and num else str(i))
+        d["gloss"] = gl.get(key, "(translation to follow)")
+        if key not in gl: missing += 1
         secs.append(d)
     if not m.get("prose"):
         for i, d in enumerate(secs, 1):
             if not d["num"]: d["num"] = f"|| {i} ||"
     st = {"deity": m["deity"], "doc_title": m["t"], "app_title": m["app"], "h1": m["t"], "subtitle": m["sub"], "note": m["note"],
-          "footer": "Source: Sanskrit Wikisource — " + {"syamala": "श्यामलादण्डकम् (Kāvyamālā, part 1, 1929)", "ambashtaka": "अम्बाष्टकम् (Kāvyamālā, part 2)", "shringaratilaka": "शृङ्गारतिलकम् (Ṛtusaṃhāra edition, 1910)"}[name] + " (public domain); English translation original; editorial notes in SOURCES §10",
+          "footer": "Source: Sanskrit Wikisource — " + {"syamala": "श्यामलादण्डकम् (Kāvyamālā, part 1, 1929)", "ambashtaka": "अम्बाष्टकम् (Kāvyamālā, part 2)", "shringaratilaka": "शृङ्गारतिलकम् (Ṛtusaṃhāra edition, 1910)", "meghaduta_purva": "मेघदूतम् - पूर्वमेघः", "meghaduta_uttara": "मेघदूतम् - उत्तरमेघः", "ghatakarpara": "घटकर्परः (Kāvyasaṅgraha, vol. 1, 1888, scan on archive.org)"}[name] + " (public domain); English translation original; editorial notes in SOURCES §10",
           "sections": secs}
     q = lambda v: json.dumps(v, ensure_ascii=False)
     out = ["# -*- coding: utf-8 -*-", "# Copyright 2026 Pradyumna Revur — CC BY 4.0 (see LICENSE)",
@@ -73,4 +85,4 @@ def main(name):
     (TOOLS / "stotras" / f"{m['slug']}.py").write_text("\n".join(out), encoding="utf-8", newline="\n")
     print(f"{m['slug']}: {len(secs)} units, {missing} without a translation")
 if __name__ == "__main__":
-    for n in (META if sys.argv[1] == "all" else [sys.argv[1]]): main(n)
+    for n in (list(META) if sys.argv[1] == "all" else sys.argv[1:]): main(n)
