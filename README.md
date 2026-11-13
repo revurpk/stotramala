@@ -53,6 +53,8 @@ IAST, Devanāgarī, or Telugu (script bar at the top).
 | Śiva | Ardhanārīśvara Stotram (Śaṅkara) | [read](stotra/shiva/ardhanarishvara-stotram-iast.html) |
 | Śiva | Bilvāṣṭakam | [read](stotra/shiva/bilvashtakam-iast.html) |
 | Subrahmaṇya | Śrī Subrahmaṇya Bhujaṅgam | [read](stotra/subrahmanya/subrahmanya-bhujangam-iast.html) |
+| Subrahmaṇya | Aṣṭottaraśatanāmastotram — 108 names | [read](stotra/subrahmanya/subrahmanya-ashtottara-shatanama-stotram-iast.html) |
+| Subrahmaṇya | Ṣoḍaśanāmastotram — 16 names | [read](stotra/subrahmanya/subrahmanya-shodashanama-stotram-iast.html) |
 | Advaita | Nirvāṇa Ṣaṭkam | [read](stotra/advaita/nirvana-shatkam-iast.html) |
 | Advaita | Vedānta Ḍiṇḍima (94 verses) | [read](stotra/advaita/vedanta-dindima-iast.html) |
 | Viṣṇu | Bhaja Govindam (33 verses) — Ādi Śaṅkara | [read](stotra/vishnu/bhaja-govindam-iast.html) |
