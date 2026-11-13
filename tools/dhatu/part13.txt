@@ -1,0 +1,12 @@
+# Böhtlingk, Pāṇini's Grammatik (1887), Dhātupāṭha p. 84* = leaf n589. Class 10, roots 388 (end) to 395.
+% Class 10, curādi, to its end: roots 388–395 (p. 84*)
+! See part 1 for the conventions. The alphabetical index of the roots which follows on pp. 84*–93* (Böhtlingk’s “Alphabetisches Verzeichniss der Wurzeln”, a concordance giving only the class and number of each root) is not transcribed. The last roots of the list are the sūtra-like additions to class 10 (nos. 392–395); their glosses are given in outline.
+@589
+V 388 cheda | ⟨dvidhākaraṇe⟩ — cut in two (⟨chad⟩ ⟨apavāraṇe⟩ ‘cover’ is added). | ఛేదించు
+V 389 lābha | ⟨preraṇe⟩ — impel. | ప్రేరేపించు
+V 390 varṇa | ⟨gātravicūrṇane⟩ — grind, powder the limbs. | పొడిచేయు
+V 391 varṇa | ⟨varṇakriyāvistāraguṇavacaneṣu⟩ — colour; spread; praise qualities. | రంగువేయు, వర్ణించు
+V 392 bahulam etannidarśanam | — (this is a general rule: roots of the class may be formed as in the class, with many examples, as ⟨parṇ⟩ ‘be green’, ⟨veda⟩ ‘see’, ⟨kap⟩ ‘send’, ⟨agh⟩ ‘do evil’, ⟨vas⟩ ‘dwell’, ⟨tulya⟩ ‘weigh’, etc.). | (ఇది సాధారణ సూత్రం)
+V 393 ṇiṅ | ⟨aṅkavācinaḥ prātipadikāc cirasane ṇyarthe ṇiṅ syāt⟩ — (from a noun-stem meaning ‘mark’, a derived verb in the causal sense). | (అంక వాచక నామం నుండి ధాతువు)
+V 394 śvetāśvāśvataragāloḍitāhvarakāṇām | — (rules for forming verbs from nouns like ⟨śvetāśva⟩ ‘white horse’, ⟨aśvatara⟩ ‘mule’, ⟨gāloḍita⟩, ⟨āhvaraka⟩; e.g. ⟨śvetayate⟩, ⟨aśvayate⟩, ⟨gāloḍayate⟩, ⟨āhvarayate⟩). | (నామశబ్దాల నుండి ధాతువులు)
+V 395 pucchādiṣu | — (with ⟨puccha⟩ ‘tail’ and the rest, the sense is simply that of the root). | (ధాత్వర్థమే సిద్ధం)

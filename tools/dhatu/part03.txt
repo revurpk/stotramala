@@ -1,0 +1,84 @@
+# Böhtlingk, Pāṇini's Grammatik (1887), Dhātupāṭha p. 65* = leaf n570. Class 1, roots 461–592.
+% Class 1, bhvādi: roots 461–592 (p. 65*)
+! See part 1 for the conventions. Root 593 begins at the foot of p. 65* and is given with p. 66* (part 4).
+@570
+¶ *m)* ⟨anunāsikāntā anudāttetaḥ⟩
+V 461 ghiṇi, 462 ghuṇi, 463 ghṛṇi | ⟨grahaṇe⟩ — take, seize. | పట్టుకొను
+V 464 ghuṇa, 465 ghūrṇa | ⟨bhramaṇe⟩ — whirl, roll. | తిరుగు
+V 466 paṇa | ⟨vyavahāre stutau ca⟩ — trade, bargain; praise. | వ్యాపారం చేయు, స్తుతించు
+V 467 pana | ⟨ca⟩ — also: trade, praise. | వ్యాపారం చేయు, స్తుతించు
+V 468 bhāma | ⟨krodhe⟩ — be angry. | కోపించు
+V 469 kṣamūṣ | ⟨sahane⟩ — endure, forgive. | సహించు, క్షమించు
+V 470 kamu | ⟨kāntau⟩ — desire, love. | కోరు, ప్రేమించు
+¶ *n)* ⟨anunāsikāntā udāttetaḥ⟩
+V 471 aṇ, 472 raṇ, 473 vaṇ, 474 bhaṇ, 475 maṇ, 476 kaṇ, 477 kvaṇ, 478 vraṇ, 479 bhraṇ, 480 dhvaṇ, 481 dhvan | ⟨śabdārthāḥ⟩ — sound. | ధ్వనించు
+V 482 oṇ | ⟨apanayane⟩ — remove. | తొలగించు
+V 483 śoṇ | ⟨varṇagatyoḥ⟩ — be red; go. | ఎర్రబడు, వెళ్ళు
+V 484 śroṇ | ⟨saṃghāte⟩ — gather. | పోగుచేయు
+V 485 śloṇ | ⟨ca⟩ — also: gather. | పోగుచేయు
+V 486 paiṇ | ⟨gatipreraṇaśleṣaṇeṣu⟩ — go; impel; embrace. | వెళ్ళు, ప్రేరేపించు, కౌగిలించు
+V 487 dhvan | ⟨śabde⟩ — sound. | ధ్వనించు
+V 488 kanī | ⟨dīptikāntigatiṣu⟩ — shine; love; go. | ప్రకాశించు, ప్రేమించు, వెళ్ళు
+V 489 ṣṭan, 490 van | ⟨śabde⟩ — sound. | ధ్వనించు
+V 491 van, 492 ṣan | ⟨saṃbhaktau⟩ — share, love; worship. | పంచుకొను, భజించు
+V 493 am | ⟨gatyādiṣu⟩ — go, sound, share. | వెళ్ళు, ధ్వనించు, పంచుకొను
+V 494 dram, 495 hamm, 496 mīm | ⟨gatau⟩ — go. | వెళ్ళు
+V 497 camu, 498 chamu, 499 jamu, 500 jimu, 501 jhamu | ⟨adane⟩ — eat. | తిను
+V 502 kramu | ⟨pādavikṣepe⟩ — step, stride. | అడుగు వేయు
+¶ *o)* ⟨yaralavāntā anudāttetaḥ⟩
+V 503 ay, 504 vay, 505 pay, 506 may, 507 cay, 508 tay | ⟨gatau⟩ — go (these and the next also: protect). | వెళ్ళు
+V 509 ṇay | ⟨gatau⟩ — go. | వెళ్ళు
+V 510 day | ⟨dānagatirakṣaṇahiṃsādāneṣu⟩ — give; go; protect; hurt; take. | ఇచ్చు, వెళ్ళు, కాపాడు, హింసించు
+V 511 ray | ⟨gatau⟩ — go. | వెళ్ళు
+V 512 ūyī | ⟨tantusaṃtāne⟩ — weave. | నేయు
+V 513 pūyī | ⟨viśaraṇe durgandhe ca⟩ — rot; stink. | కుళ్ళు, కంపుకొట్టు
+V 514 knūyī | ⟨śabde unde ca⟩ — sound; be wet. | ధ్వనించు, తడియగు
+V 515 kṣmāyī | ⟨vidhūnane⟩ — shake. | ఊపు
+V 516 sphāyī, 517 opyāyī | ⟨vṛddhau⟩ — swell, grow. | పెరుగు
+V 518 tāy | ⟨saṃtānapālanayoḥ⟩ — extend; protect. | విస్తరించు, కాపాడు
+V 519 śal | ⟨calanasaṃvaraṇayoḥ⟩ — move; cover. | కదలు, కప్పు
+V 520 val, 521 valla | ⟨saṃvaraṇe⟩ — cover; (also) move about. | కప్పు
+V 522 mal, 523 malla | ⟨dhāraṇe⟩ — hold. | ధరించు
+V 524 bhal, 525 bhalla | ⟨paribhāṣaṇahiṃsādāneṣu⟩ — speak; hurt; give. | మాట్లాడు, హింసించు, ఇచ్చు
+V 526 kal | ⟨śabdasaṃkhyānayoḥ⟩ — sound; count. | ధ్వనించు, లెక్కించు
+V 527 kalla | ⟨avyakte śabde⟩ — make an indistinct sound. | అస్పష్టంగా ధ్వనించు
+V 528 tev, 529 dev | ⟨devane⟩ — play, sport. | ఆడు
+V 530 ṣev, 531 gev, 532 glev, 533 pev, 534 mev, 535 mlev, 536 śev, 537 khev, 538 plev, 539 kev | ⟨sevane⟩ — serve. | సేవించు
+V 540 rev | ⟨plavagatau⟩ — leap, jump. | దూకు
+¶ *p)* ⟨yaralavāntā udāttetaḥ⟩
+V 541 mavya | ⟨bandhane⟩ — bind. | కట్టు
+V 542 sūrkṣya, 543 īrkṣya, 544 īrṣya | ⟨īrṣyārthāḥ⟩ — be jealous. | అసూయపడు
+V 545 hay | ⟨gatau⟩ — go. | వెళ్ళు
+V 546 śucya | ⟨abhiṣave⟩ — press (the soma). | సోమరసం పిండు
+V 547 hrya | ⟨gatikāntyoḥ⟩ — go; be pleasing. | వెళ్ళు, ఇష్టమగు
+V 548 al | ⟨bhūṣaṇaparyāptivāraṇeṣu⟩ — adorn; suffice; ward off. | అలంకరించు, సరిపోవు, నివారించు
+V 549 jiphalā | ⟨viśaraṇe⟩ — spread, scatter. | వ్యాపించు
+V 550 mīl, 551 śmīl, 552 smīl, 553 kṣmīl | ⟨nimeṣaṇe⟩ — wink, close the eyes. | కన్ను మూయు
+V 554 pīl | ⟨pratiṣṭambhe⟩ — prop up. | ఆపు
+V 555 nīl | ⟨varṇe⟩ — be dark blue. | నీలమగు
+V 556 śīl | ⟨samādhau⟩ — practise; be composed. | అభ్యసించు
+V 557 kīl | ⟨bandhane⟩ — bind. | కట్టు
+V 558 kūl | ⟨āvaraṇe⟩ — cover. | కప్పు
+V 559 śūl | ⟨rujāyām⟩ — pain. | బాధపడు
+V 560 tūl | ⟨niṣkarṣe⟩ — draw out. | బయటకు తీయు
+V 561 pūl | ⟨saṃghāte⟩ — gather. | పోగుచేయు
+V 562 mūl | ⟨pratiṣṭhāyām⟩ — be rooted, set firm. | వేళ్ళూనుకొను
+V 563 phal | ⟨niṣpattau⟩ — bear fruit, come to pass. | ఫలించు
+V 564 cull | ⟨hāvakaraṇe⟩ — make gestures of love. | హావభావాలు చూపు
+V 565 phull | ⟨vikasane⟩ — blossom. | వికసించు
+V 566 chill | ⟨śaithilye bhāvakaraṇe ca⟩ — be loose; make signs. | సడలు
+V 567 til | ⟨gatau⟩ — go. | వెళ్ళు
+V 568 vell, 569 cell, 570 kell, 571 khell, 572 kṣvell, 573 vell | ⟨calane⟩ — move, shake. | కదలు
+V 574 pel, 575 phel, 576 śel | ⟨gatau⟩ — go. | వెళ్ళు
+V 577 skhal | ⟨saṃcalane⟩ — stumble, stagger. | తడబడు
+V 578 khal | ⟨saṃcaye⟩ — collect. | చేర్చు
+V 579 gal | ⟨adane⟩ — eat, swallow. | మింగు
+V 580 ṣal | ⟨gatau⟩ — go. | వెళ్ళు
+V 581 dal | ⟨viśaraṇe⟩ — split, burst. | పగులు
+V 582 śval, 583 śvall | ⟨āśugamane⟩ — go quickly. | వేగంగా వెళ్ళు
+V 584 khol | ⟨gatipratighāte⟩ — limp; be obstructed. | కుంటు
+V 585 dhor | ⟨gaticāturye⟩ — go nimbly. | చురుకుగా కదులు
+V 586 tsar | ⟨chadmagatau⟩ — creep stealthily. | మెల్లగా పాకు
+V 587 kmar | ⟨hūrchane⟩ — be crooked. | వంకరగా ఉండు
+V 588 abhr, 589 vabhr, 590 mabhr, 591 car | ⟨gatyarthāḥ⟩ — go. | వెళ్ళు
+V 592 ṣṭhiv | ⟨niṣṭhīvane⟩ — spit. | ఉమ్ము వేయు

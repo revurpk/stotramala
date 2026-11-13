@@ -1,0 +1,42 @@
+# -*- coding: utf-8 -*-
+# Copyright 2026 Pradyumna Revur — CC BY 4.0 (see LICENSE)
+# Dhātupāṭha, part 7 (tools/dhatu/part07.txt); written by tools/dhatu/gen_dhatu.py. See SOURCES §8.2.
+
+STOTRA = {
+    "deity": "learn",
+    "doc_title": "Dhātupāṭha · Class 2 to its end (69–72), Class 3, juhotyādi (1–25) and Class 4, divādi (1–72) (p. 72*–73*)",
+    "app_title": "Dhātupāṭha 7",
+    "h1": "Dhātupāṭha",
+    "subtitle": "Class 2 to its end (69–72), Class 3, juhotyādi (1–25) and Class 4, divādi (1–72) (p. 72*–73*)",
+    "note": "The Dhātupāṭha, the list of verbal roots that goes under Pāṇini’s name, in the form Westergaard edited it and Böhtlingk reprinted it (1887). Sanskrit follows the script switch above, so the list reads in Devanāgarī, Telugu or IAST. Each entry gives the root’s number, the root, and its meaning as the Dhātupāṭha states it; the English and Telugu after the dash are the editor’s.",
+    "footer": "Source: Otto Böhtlingk, Pāṇini’s Grammatik (Leipzig, 1887; public domain), “Der Dhātupāṭha nach N. L. Westergaard”, read off the scan on archive.org; editorial notes in SOURCES §8.2; English and Telugu glosses original",
+    "toc": False,
+    "sections": [
+    {'para': '**⟨chāndasau⟩** (Vedic) — class 2 continued'},
+    {'vocab': [['69 ṣas', '⟨svapne⟩ — sleep.', 'నిద్రించు'], ['70 vaś', '⟨kāntau⟩ — wish, desire.', 'కోరు'], ['71 carkarīta', '⟨ca⟩ — (the intensive, parasmaipada, is also treated here).', '(యఙ్లుక్ రూపం)'], ['72 hnuṅ', '⟨apanayane⟩ — conceal, deny.', 'దాచు, అపలపించు']]},
+    {'heading': 'Class 3, juhotyādi'},
+    {'para': '**3. ⟨juhotyādayaḥ⟩** — **A. ⟨anudāttāḥ⟩**'},
+    {'vocab': [['1 hu', '⟨dāne⟩ — give, offer, sacrifice.', 'ఇచ్చు, హోమం చేయు'], ['2 ñibhī', '⟨bhaye⟩ — fear.', 'భయపడు'], ['3 hrī', '⟨lajjāyām⟩ — be ashamed.', 'సిగ్గుపడు'], ['4 pṛ', '⟨pālanapūraṇayoḥ⟩ — protect; fill.', 'కాపాడు, నింపు'], ['5 ḍubhṛñ', '⟨dhāraṇapoṣaṇayoḥ⟩ — bear; nourish.', 'ధరించు, పోషించు'], ['6 māṅ', '⟨māne śabde ca⟩ — measure; sound.', 'కొలుచు, ధ్వనించు'], ['7 ohāṅ', '⟨gatau⟩ — go.', 'వెళ్ళు'], ['8 ohāk', '⟨tyāge⟩ — abandon.', 'విడుచు'], ['9 ḍudāñ', '⟨dāne⟩ — give.', 'ఇచ్చు'], ['10 ḍudhāñ', '⟨dhāraṇapoṣaṇayoḥ⟩ — put, hold; nourish; give.', 'ఉంచు, పోషించు, ఇచ్చు'], ['11 ṇijir', '⟨śaucapoṣaṇayoḥ⟩ — wash; nourish.', 'కడుగు, పోషించు'], ['12 vijir', '⟨pṛthagbhāve⟩ — separate.', 'వేరుచేయు'], ['13 viṣḷ', '⟨vyāptau⟩ — pervade.', 'వ్యాపించు']]},
+    {'para': '**B. ⟨chāndasāḥ parasmaipadinaḥ⟩** (Vedic roots)'},
+    {'vocab': [['14 ghṛ', '⟨kṣaraṇadīptyoḥ⟩ — flow; shine.', 'కారు, ప్రకాశించు'], ['15 hṛ', '⟨prasahyakaraṇe⟩ — do by force.', 'బలవంతంగా చేయు'], ['16 ṛ, 17 sṛ', '⟨gatau⟩ — go.', 'వెళ్ళు'], ['18 bhas', '⟨bhartsanadīptyoḥ⟩ — threaten; shine.', 'బెదిరించు, ప్రకాశించు'], ['19 ki, 20 kit', '⟨jñāne⟩ — know.', 'తెలుసుకొను'], ['21 tur', '⟨tvaraṇe⟩ — hasten.', 'త్వరపడు'], ['22 dhiṣ', '⟨śabde⟩ — sound.', 'ధ్వనించు'], ['23 dhan', '⟨dhānye⟩ — (be) grain, bear grain.', 'ధాన్యమిచ్చు'], ['24 jan', '⟨janane⟩ — beget.', 'కను'], ['25 gā', '⟨stutau⟩ — praise, sing.', 'స్తుతించు, పాడు']]},
+    {'heading': 'Class 4, divādi'},
+    {'para': '**4. ⟨divādayaḥ⟩** — **A. ⟨udāttā udāttetaḥ⟩**'},
+    {'vocab': [['1 divu', '⟨krīḍāvijigīṣāvyavahāradyutistutimodamadasvapnakāntigatiṣu⟩ — play; wish to conquer; trade; shine; praise; rejoice; be drunk; sleep; love; go.', 'ఆడు, గెలవాలనుకొను, వ్యాపారం చేయు, ప్రకాశించు, స్తుతించు, ఆనందించు, మత్తెక్కు, నిద్రించు, ప్రేమించు, వెళ్ళు'], ['2 ṣivu', '⟨tantusaṃtāne⟩ — sew.', 'కుట్టు'], ['3 srivu', '⟨gatiśoṣaṇayoḥ⟩ — go; dry up.', 'వెళ్ళు, ఎండిపోవు'], ['4 ṣṭhivu', '⟨niraśane⟩ — spit.', 'ఉమ్ము వేయు'], ['5 ṣṇusu', '⟨adane⟩ — eat.', 'తిను'], ['6 klasu', '⟨jvaradīptyoḥ⟩ — be feverish; shine.', 'జ్వరపడు, ప్రకాశించు'], ['7 vyuṣ', '⟨dāhe⟩ — burn.', 'కాల్చు'], ['8 pluṣ', '⟨ca⟩ — burn.', 'కాల్చు'], ['9 nṛtī', '⟨gātravikṣepe⟩ — dance.', 'నృత్యం చేయు'], ['10 trasī', '⟨udvege⟩ — be afraid.', 'భయపడు'], ['11 kuth', '⟨pūtībhāve⟩ — stink, rot.', 'కుళ్ళు'], ['12 puth', '⟨hiṃsāyām⟩ — hurt.', 'హింసించు'], ['13 gudh', '⟨pariveṣṭane⟩ — wrap.', 'చుట్టు'], ['14 kṣip', '⟨preraṇe⟩ — throw, send.', 'విసరు'], ['15 puṣpa', '⟨vikasane⟩ — blossom.', 'పూయు'], ['16 tima, 17 ṣṭima, ṣṭīma', '⟨ārdrībhāve⟩ — be wet.', 'తడియగు'], ['18 vrīḍ', '⟨codane⟩ — impel; be ashamed.', 'ప్రేరేపించు, సిగ్గుపడు'], ['19 iṣ', '⟨gatau⟩ — go.', 'వెళ్ళు'], ['20 ṣah, 21 ṣuh', '⟨cakyarthe⟩ — be able, bear.', 'సహించు, సమర్థుడగు'], ['22 jaṣ, 23 jhaṣ', '⟨vayohānau⟩ — grow old.', 'ముసలివాడగు']]},
+    {'para': '**B. ⟨svādayaḥ⟩** (marked with *o*) ⟨ātmanepadinaḥ⟩ — *a)* ⟨udāttau⟩'},
+    {'vocab': [['24 ṣūṅ', '⟨prāṇiprasave⟩ — bring forth.', 'ప్రసవించు'], ['25 dūṅ', '⟨paritāpe⟩ — be distressed.', 'బాధపడు']]},
+    {'para': '*b)* ⟨anudāttāḥ⟩'},
+    {'vocab': [['26 dīṅ', '⟨kṣaye⟩ — perish.', 'నశించు'], ['27 ḍīṅ', '⟨vihāyasā gatau⟩ — fly.', 'ఎగురు'], ['28 dhīṅ', '⟨ādhāre⟩ — support.', 'ఆధారమగు'], ['29 mīṅ', '⟨hiṃsāyām⟩ — hurt.', 'హింసించు'], ['30 rīṅ', '⟨sravaṇe⟩ — flow.', 'కారు'], ['31 līṅ', '⟨śleṣaṇe⟩ — cling, melt.', 'అంటుకొను, కరుగు'], ['32 vrīṅ', '⟨vṛṇotyarthe⟩ — choose.', 'ఎంచుకొను'], ['33 pīṅ', '⟨pāne⟩ — drink.', 'త్రాగు'], ['34 māṅ', '⟨māne⟩ — measure.', 'కొలుచు'], ['35 īṅ', '⟨gatau⟩ — go.', 'వెళ్ళు'], ['36 prīṅ', '⟨prītau⟩ — be pleased.', 'ప్రీతి చెందు']]},
+    {'para': '**C. ⟨anudāttāḥ parasmaipadinaḥ⟩**'},
+    {'vocab': [['37 śo', '⟨tanūkaraṇe⟩ — sharpen.', 'పదునుపెట్టు'], ['38 cho', '⟨chedane⟩ — cut.', 'ఛేదించు'], ['39 ṣo', '⟨antakarmaṇi⟩ — finish, destroy.', 'అంతం చేయు'], ['40 do', '⟨avakhaṇḍane⟩ — cut off.', 'ఖండించు']]},
+    {'para': '**D. ⟨udāttāḥ⟩** — *a)* ⟨anudāttetaḥ⟩'},
+    {'vocab': [['41 janī', '⟨prādurbhāve⟩ — be born, arise.', 'పుట్టు'], ['42 dīpī', '⟨dīptau⟩ — shine.', 'ప్రకాశించు'], ['43 pūrī', '⟨āpyāyane⟩ — fill, swell.', 'నిండు'], ['44 tūrī', '⟨gatitvaraṇahiṃsayoḥ⟩ — go; hasten; hurt.', 'వెళ్ళు, త్వరపడు, హింసించు'], ['45 ghūrī, 46 gūrī', '⟨hiṃsāgatyoḥ⟩ — hurt; go.', 'హింసించు, వెళ్ళు'], ['47 ghūrī, 48 jūrī', '⟨hiṃsāvayohānyoḥ⟩ — hurt; grow old.', 'హింసించు, ముసలివాడగు'], ['49 śūrī', '⟨hiṃsāstambhayoḥ⟩ — hurt; be stiff.', 'హింసించు, బిగుసుకొను'], ['50 cūrī', '⟨dāhe⟩ — burn.', 'కాల్చు'], ['51 tap', '⟨aiśvarye⟩ — be powerful (also: burn).', 'ప్రభావం చూపు'], ['52 vāvṛt', '⟨varaṇe⟩ — choose.', 'ఎంచుకొను'], ['52a kliś', '⟨upatāpe⟩ — be tormented.', 'బాధపడు'], ['53 kāś', '⟨dīptau⟩ — shine.', 'ప్రకాశించు'], ['54 vāś', '⟨śabde⟩ — cry, sound.', 'అరచు']]},
+    {'para': '*b)* ⟨svaritetau⟩'},
+    {'vocab': [['55 mṛṣ', '⟨titikṣāyām⟩ — bear, forgive.', 'సహించు, క్షమించు'], ['56 īśucir', '⟨pūtībhāve⟩ — be purified, be foul.', 'శుద్ధమగు']]},
+    {'para': '**E. ⟨anudāttāḥ⟩** — *a)* ⟨svaritetaḥ⟩'},
+    {'vocab': [['57 ṇah', '⟨bandhane⟩ — bind.', 'కట్టు'], ['58 ranj', '⟨rāge⟩ — be coloured, be fond.', 'రంగుపడు, అనురక్తుడగు'], ['59 śap', '⟨ākrośe⟩ — curse.', 'శపించు']]},
+    {'para': '*b)* ⟨anudāttetaḥ⟩'},
+    {'vocab': [['60 pad', '⟨gatau⟩ — go, fall.', 'వెళ్ళు, పడు'], ['61 khid', '⟨dainye⟩ — be depressed.', 'కుంగిపోవు'], ['62 vid', '⟨sattāyām⟩ — be, exist.', 'ఉండు'], ['63 budh', '⟨avagamane⟩ — understand.', 'అర్థం చేసుకొను'], ['64 yudh', '⟨saṃprahāre⟩ — fight.', 'యుద్ధం చేయు'], ['65 anor rudh', '⟨kāme⟩ — love (with anu).', 'కోరు'], ['66 aṇ', '⟨prāṇane⟩ — breathe.', 'ఊపిరి పీల్చు'], ['67 man', '⟨jñāne⟩ — think.', 'తలచు'], ['68 yuj', '⟨samādhau⟩ — be absorbed, concentrate.', 'ఏకాగ్రమగు'], ['69 sṛj', '⟨visarge⟩ — let go, create.', 'విడుచు, సృష్టించు'], ['70 liś', '⟨alpībhāve⟩ — become small.', 'చిన్నదగు']]},
+    {'para': '*c)* ⟨udāttetau⟩'},
+    {'vocab': [['71 rādh', '⟨akarmakād vṛddhāv eva⟩ — succeed, prosper (intransitive).', 'సిద్ధించు, వర్ధిల్లు'], ['72 vyadh', '⟨tāḍane⟩ — strike, pierce.', 'కొట్టు, గుచ్చు']]},
+    ],
+}

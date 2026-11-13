@@ -1,0 +1,100 @@
+# Böhtlingk, Pāṇini's Grammatik (1887), Dhātupāṭha pp. 78*–79* = leaves n583–n584. Class 7, roots 14–25 (end); class 8, roots 1–10 (all); class 9, roots 1–61.
+% Class 7 to its end (14–25), Class 8, tanādi (1–10) and Class 9, kryādi (1–61) (p. 78*–79*)
+! See part 1 for the conventions. Böhtlingk’s remarks on single roots are not given. Class 9 continues on p. 80* (part 11).
+@583
+¶ **7. ⟨rudhādayaḥ⟩ (continued)** — *b)* ⟨udāttetaḥ⟩
+V 14 śiṣḷ | ⟨viśeṣaṇe⟩ — distinguish, leave over. | వేరుచేయు, మిగులు
+V 15 piṣḷ | ⟨saṃcūrṇane⟩ — grind, pound. | నలుపు
+V 16 bhañjo | ⟨āmardane⟩ — break. | విరుచు
+V 17 bhuj | ⟨pālanābhyavahārayoḥ⟩ — protect; eat, enjoy. | కాపాడు, తిను
+¶ **D. ⟨udāttā udāttetaḥ⟩**
+V 18 tṛh, tṛhi | ⟨hiṃsāyām⟩ — hurt. | హింసించు
+V 19 hisi | ⟨hiṃsāyām⟩ — hurt. | హింసించు
+V 20 undī | ⟨kledane⟩ — wet. | తడుపు
+V 21 añjū | ⟨vyaktimrakṣaṇakāntigatiṣu⟩ — make clear; anoint; shine; go. | స్పష్టపరచు, పూయు, ప్రకాశించు, వెళ్ళు
+V 22 tancū, tañjū | ⟨saṅkocane⟩ — contract. | ముడుచుకొను
+V 23 ovijī | ⟨bhayacalanayoḥ⟩ — fear; tremble. | భయపడు, వణకు
+V 24 vṛjī, vṛcī | ⟨varjane⟩ — avoid. | విడుచు
+V 25 pṛcī | ⟨saṃparke⟩ — mix, touch. | కలుపు
+## Class 8, tanādi
+¶ **8. ⟨tanādayaḥ⟩** — **A. ⟨udāttāḥ⟩** — *a)* ⟨svaritetaḥ⟩
+V 1 tanu | ⟨vistāre⟩ — stretch, extend. | సాగదీయు, విస్తరించు
+V 2 ṣaṇu | ⟨dāne⟩ — give. | ఇచ్చు
+V 3 kṣaṇu | ⟨hiṃsāyām⟩ — hurt. | హింసించు
+V 4 kṣiṇu | ⟨ca⟩ — hurt. | హింసించు
+V 5 ṛṇu | ⟨gatau⟩ — go. | వెళ్ళు
+V 6 tṛṇu | ⟨adane⟩ — eat. | తిను
+V 7 ghṛṇu, ghṛṇa | ⟨dīptau⟩ — shine. | ప్రకాశించు
+¶ *b)* ⟨anudāttetau⟩
+V 8 vanu | ⟨yācane⟩ — beg. | యాచించు
+V 9 manu | ⟨avabodhane⟩ — understand. | అర్థం చేసుకొను
+¶ **B. ⟨anudātta ubhayatobhāṣaḥ⟩**
+V 10 ḍukṛñ | ⟨karaṇe⟩ — do, make. | చేయు
+## Class 9, kryādi
+¶ **9. ⟨kryādayaḥ⟩** — **A. ⟨anudāttāḥ svaritetaḥ⟩**
+V 1 ḍukrīñ | ⟨dravyavinimaye⟩ — buy. | కొను
+V 2 prīñ | ⟨tarpaṇe kāntau ca⟩ — please; love. | సంతోషపరచు, ప్రేమించు
+V 3 śrīñ | ⟨pāke⟩ — cook. | వండు
+V 4 mīñ | ⟨hiṃsāyām⟩ — hurt. | హింసించు
+V 5 ṣiñ | ⟨bandhane⟩ — bind. | కట్టు
+V 6 skuñ | ⟨āvaraṇe⟩ — cover. | కప్పు
+V 7 stambhu, stumbhu, 8 skambhu, skumbhu | ⟨rodhane⟩ — stop, prop. | ఆపు
+V 9 yuj | ⟨bandhane⟩ — bind. | కట్టు
+@584
+¶ **B. ⟨udāttāḥ⟩** — *a)* ⟨svaritetau⟩
+V 10 kruñ, kuñ, kūñ | ⟨śabde⟩ — sound. | ధ్వనించు
+V 11 dṝṅ | ⟨hiṃsāyām⟩ — hurt. | హింసించు
+¶ *b)* ⟨pvādayaḥ⟩ (nos. 12–32) and ⟨lvādayaḥ⟩ (nos. 13–32) — *α.* ⟨svaritetaḥ⟩
+V 12 pūñ | ⟨pavane⟩ — purify. | శుద్ధిచేయు
+V 13 lūñ | ⟨chedane⟩ — cut. | కోయు
+V 14 stṛñ | ⟨ācchādane⟩ — cover, strew. | కప్పు, పరచు
+V 15 kṛñ | ⟨hiṃsāyām⟩ — hurt. | హింసించు
+V 16 vṛñ | ⟨varaṇe⟩ — choose, cover. | ఎంచుకొను
+V 17 dhūñ | ⟨kampane⟩ — shake. | ఊపు
+¶ *β.* ⟨udāttetaḥ⟩
+V 18 śṝ, sṝ | ⟨hiṃsāyām⟩ — hurt, break. | హింసించు, విరుచు
+V 19 pṝ | ⟨pālanapūraṇayoḥ⟩ — protect; fill. | కాపాడు, నింపు
+V 20 vṝ | ⟨varaṇe⟩ — choose. | ఎంచుకొను
+V 21 bhṝ | ⟨bhartsane⟩ — reproach; support. | నిందించు, భరించు
+V 22 mṝ, svṝ, sṝ | ⟨hiṃsāyām⟩ — hurt. | హింసించు
+V 23 dṝ | ⟨vidāraṇe⟩ — split. | చీల్చు
+V 24 jṝ, jhṝ, dhṝ | ⟨vayohānau⟩ — grow old. | ముసలివాడగు
+V 25 nī | ⟨naye⟩ — lead. | నడిపించు
+V 26 kṝ, ma | ⟨hiṃsāyām⟩ — hurt. | హింసించు
+V 27 ṛ | ⟨gatau⟩ — go. | వెళ్ళు
+V 28 gṝ | ⟨śabde⟩ — sound; call. | ధ్వనించు
+¶ *γ and C.* ⟨anudāttā udāttetaḥ⟩
+V 29 jyā | ⟨vayohānau⟩ — grow old. | ముసలివాడగు
+V 30 rī | ⟨gatireṣaṇayoḥ⟩ — go; seek. | వెళ్ళు, వెదకు
+V 31 lī, lyī, lvī | ⟨śleṣaṇe⟩ — cling, melt. | అంటుకొను, కరుగు
+V 32 vlī, blī, plī | ⟨gatau⟩ — go (also: cover, hold). | వెళ్ళు
+V 33 vrī | ⟨varaṇe⟩ — choose. | ఎంచుకొను
+V 34 bhrī | ⟨bhaye⟩ — fear; (also) bear. | భయపడు
+V 35 kṣiṣ, śoṣ | ⟨hiṃsāyām⟩ — hurt. | హింసించు
+V 36 jñā | ⟨avabodhane⟩ — know. | తెలుసుకొను
+V 37 bandh | ⟨bandhane⟩ — bind. | కట్టు
+¶ **D. ⟨udāttāḥ⟩** — *a)* ⟨ātmanepadau⟩
+V 38 vṛṅ | ⟨saṃbhaktau⟩ — choose; serve. | ఎంచుకొను, సేవించు
+¶ *b)* ⟨udāttetaḥ⟩
+V 39 granth | ⟨vimocanapratiharṣayoḥ⟩ — loose; rejoice. | విప్పు, సంతోషించు
+V 40 manth | ⟨viloḍane⟩ — churn. | చిలుకు
+V 41 granth | ⟨saṃdarbhe⟩ — string together, compose. | కూర్చు, రచించు
+V 42 kunth, kuthi | ⟨saṃśleṣaṇe⟩ — clasp; (also) torment. | కౌగిలించు
+V 43 mṛd | ⟨codane⟩ — crush. | నలుపు
+V 44 maḍ | ⟨sukhe⟩ — (be happy). | సుఖపడు
+V 45 gudh | ⟨roṣe⟩ — be angry. | కోపించు
+V 46 kuṣ | ⟨niṣkarṣe⟩ — draw out. | బయటకు తీయు
+V 47 kṣubh | ⟨saṃcalane⟩ — be agitated. | కలత చెందు
+V 48 nabh, 49 tubh | ⟨hiṃsāyām⟩ — hurt. | హింసించు
+V 50 kliś | ⟨vibādhane⟩ — torment. | బాధించు
+V 51 aś | ⟨bhojane⟩ — eat. | తిను
+V 52 udhras | ⟨uñche⟩ — glean. | ఏరుకొను
+V 53 iṣ | ⟨ābhīkṣṇye⟩ — repeat; (also) wish. | మాటిమాటికి చేయు
+V 54 viṣ | ⟨viprayoge⟩ — separate. | వేరుపడు
+V 55 pruṣ, 56 pluṣ | ⟨snehanasecanapūraṇeṣu⟩ — be moist; sprinkle; fill. | తడుపు, చిలుకరించు, నింపు
+V 57 puṣ | ⟨puṣṭau⟩ — thrive. | పుష్టి కలుగు
+V 58 muṣ | ⟨steye⟩ — steal. | దొంగిలించు
+V 59 khac, khav | ⟨bhūtaprādurbhāve⟩ — come into being. | పుట్టు
+V 60 heṭh | ⟨ca⟩ — harass. | వేధించు
+¶ *c)* ⟨svaritet⟩
+V 61 grah | ⟨upādāne⟩ — take, seize. | గ్రహించు

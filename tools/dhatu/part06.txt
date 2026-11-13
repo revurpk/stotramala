@@ -1,0 +1,129 @@
+# Böhtlingk, Pāṇini's Grammatik (1887), Dhātupāṭha pp. 70*–71* = leaves n575–n576. Class 1, roots 1018–1059 (end); class 2, roots 1–68.
+% Class 1 to its end (1018–1059), and Class 2, ādi: roots 1–68 (p. 70*–71*)
+! See part 1 for the conventions. Böhtlingk’s remarks on single roots (misprints in Westergaard, doubtful readings, and which accent a root has) are not given. In class 2 the numbering begins again at 1.
+@575
+V 1018 tṝ | ⟨plavanataraṇayoḥ⟩ — float; cross. | తేలు, దాటు
+¶ *b)* ⟨halantāḥ⟩ — *α.* ⟨anudāttetaḥ⟩
+V 1019 gup | ⟨gopane⟩ — guard; (also) blame. | కాపాడు
+V 1020 tij | ⟨niśāne⟩ — sharpen; (also) forbear. | పదునుపెట్టు, ఓర్చు
+V 1021 mān | ⟨pūjāyām⟩ — honour. | గౌరవించు
+V 1022 bandh | ⟨bandhane⟩ — bind. | కట్టు
+V 1023 rabh | ⟨rābhasye⟩ — be hasty. | తొందరపడు
+V 1024 ḍulabhaṣ | ⟨prāptau⟩ — obtain. | పొందు
+V 1025 ṣvañj | ⟨pariṣvaṅge⟩ — embrace. | కౌగిలించు
+V 1026 had | ⟨purīṣotsarge⟩ — void excrement. | మలవిసర్జన చేయు
+¶ *β.* ⟨udāttetaḥ⟩
+V 1027 ñiṣviḍā | ⟨avyakte śabde⟩ — make an indistinct sound. | అస్పష్టంగా ధ్వనించు
+V 1028 skandir | ⟨gatiśoṣaṇayoḥ⟩ — go, leap; dry up. | దూకు, ఎండిపోవు
+V 1029 yabh | ⟨maithune⟩ — copulate. | సంభోగించు
+V 1030 ṇam | ⟨prahvatve śabde ca⟩ — bow; sound. | వంగు, నమస్కరించు
+V 1031 gamḷ, 1032 sṛp | ⟨gatau⟩ — go. | వెళ్ళు
+V 1033 yam | ⟨uparame⟩ — stop, restrain. | ఆపు
+V 1034 tap | ⟨saṃtāpe⟩ — heat, burn. | తపించు, కాల్చు
+V 1035 tyaj | ⟨hānau⟩ — abandon. | విడుచు
+V 1036 ṣañj | ⟨saṅge⟩ — cling. | అంటుకొను
+V 1037 dṛśir | ⟨prekṣaṇe⟩ — see. | చూచు
+V 1038 daṃś | ⟨daśane⟩ — bite. | కరచు
+V 1039 kṛṣ | ⟨vilekhane⟩ — plough, draw. | దున్ను, లాగు
+V 1040 dah | ⟨bhasmīkaraṇe⟩ — burn to ashes. | కాల్చు
+V 1041 mih | ⟨secane⟩ — sprinkle, pass water. | చిలుకరించు
+V 1042 kit | ⟨nivāse rogāpanayane ca⟩ — dwell; cure disease. | నివసించు, రోగం తొలగించు
+¶ *γ.* ⟨svaritetaḥ⟩
+V 1043 dān | ⟨khaṇḍane⟩ — cut. | ఖండించు
+V 1044 śān | ⟨tejane⟩ — sharpen. | పదునుపెట్టు
+V 1045 ḍupacaṣ | ⟨pāke⟩ — cook. | వండు
+V 1046 pac | ⟨samavāye⟩ — spread; unite. | వ్యాపించు, కలుపు
+V 1047 bhaj | ⟨sevāyām⟩ — serve, share, worship. | సేవించు, భజించు
+V 1048 ranj | ⟨rāge⟩ — be coloured, be fond. | రంగుపడు, అనురక్తుడగు
+V 1049 śap | ⟨ākrośe⟩ — curse. | శపించు
+V 1050 tviṣ | ⟨dīptau⟩ — shine. | ప్రకాశించు
+¶ *δ.* ⟨yajādayaḥ⟩ — *1.* ⟨svaritetaḥ⟩
+V 1051 yaj | ⟨devapūjāsaṅgatikaraṇadāneṣu⟩ — sacrifice; unite; give. | యజ్ఞం చేయు, కలుపు, ఇచ్చు
+V 1052 ṭuvap | ⟨bījasaṃtāne⟩ — sow. | విత్తు
+V 1053 vah | ⟨prāpaṇe⟩ — carry, bear. | మోయు
+V 1054 vas | ⟨nivāse⟩ — dwell. | నివసించు
+V 1055 veñ | ⟨tantusaṃtāne⟩ — weave. | నేయు
+V 1056 vyeñ | ⟨saṃvaraṇe⟩ — cover. | కప్పు
+V 1057 hveñ | ⟨spardhāyāṃ śabde ca⟩ — compete; call. | పోటీపడు, పిలుచు
+¶ *2.* ⟨udāttau parasmaipadinau⟩
+V 1058 vad | ⟨vyaktāyāṃ vāci⟩ — speak. | మాట్లాడు
+V 1059 ṭuośvi | ⟨gativṛddhyoḥ⟩ — go; grow. | వెళ్ళు, పెరుగు
+## Class 2, adādi
+¶ **2. ⟨adādayaḥ⟩** — **A. ⟨anudāttāḥ⟩** — *a)* ⟨udāttetau⟩
+V 1 ad | ⟨bhakṣaṇe⟩ — eat. | తిను
+V 2 han | ⟨hiṃsāgatyoḥ⟩ — kill; go. | చంపు, వెళ్ళు
+¶ *b)* ⟨svaritetaḥ⟩
+V 3 dviṣ | ⟨aprītau⟩ — hate. | ద్వేషించు
+V 4 duh | ⟨prapūraṇe⟩ — milk. | పితుకు
+V 5 dih | ⟨upacaye⟩ — smear, increase. | పూయు
+V 6 lih | ⟨āsvādane⟩ — lick. | నాకు
+@576
+¶ *c)* ⟨anudāttet⟩
+V 7 cakṣiṅ | ⟨vyaktāyāṃ vāci⟩ — speak, tell. | చెప్పు
+¶ **B. ⟨udāttāḥ⟩** — *a)* ⟨anudāttetaḥ⟩
+V 8 īr | ⟨gatau kampane ca⟩ — go; tremble. | వెళ్ళు, వణకు
+V 9 īḍ | ⟨stutau⟩ — praise. | స్తుతించు
+V 10 īś | ⟨aiśvarye⟩ — rule. | ఏలు
+V 11 ās | ⟨upaveśane⟩ — sit. | కూర్చుండు
+V 12 śās | ⟨icchāyām⟩ — wish (with ā-ṅ). | కోరు
+V 13 vas | ⟨ācchādane⟩ — wear, put on. | ధరించు
+V 14 kasi | ⟨gatiśāsanayoḥ⟩ — go; command. | వెళ్ళు, ఆజ్ఞాపించు
+V 15 ṇisi | ⟨cumbane⟩ — kiss. | ముద్దుపెట్టు
+V 16 ṇiji | ⟨śuddhau⟩ — wash, be pure. | కడుగు
+V 17 śiji | ⟨avyakte śabde⟩ — make an indistinct sound. | అస్పష్టంగా ధ్వనించు
+V 18 piji | ⟨varṇe⟩ — colour; (also) join. | రంగు వేయు
+V 19 vṛji | ⟨varjane⟩ — avoid. | విడుచు
+V 20 pṛci | ⟨saṃparcane⟩ — mix. | కలుపు
+V 21 ṣūṅ | ⟨prāṇigarbhavimocane⟩ — bear young. | ప్రసవించు
+V 22 śīṅ | ⟨svapne⟩ — sleep. | నిద్రించు
+¶ *b)* ⟨parasmaipadinaḥ⟩
+V 23 yu | ⟨miśraṇe⟩ — mix. | కలుపు
+V 24 ru | ⟨śabde⟩ — cry, sound. | అరచు
+V 25 ṇu | ⟨stutau⟩ — praise. | స్తుతించు
+V 26 ṣṭu | ⟨stutau⟩ — praise. | స్తుతించు
+V 27 ṭukṣu | ⟨śabde⟩ — sneeze, sound. | తుమ్ము
+V 28 kṣṇu | ⟨tejane⟩ — sharpen. | పదునుపెట్టు
+V 29 ṣṇu | ⟨prasravaṇe⟩ — flow. | ప్రవహించు
+¶ *c)* ⟨ubhayapadī⟩
+V 30 ūrṇuñ | ⟨ācchādane⟩ — cover. | కప్పు
+¶ **C. ⟨anudāttāḥ parasmaipadinaḥ⟩**
+V 31 dyu | ⟨abhigamane⟩ — approach, attack. | సమీపించు
+V 32 ṣu | ⟨prasavaiśvaryayoḥ⟩ — beget; rule. | ప్రసవించు, ఏలు
+V 33 ku | ⟨śabde⟩ — sound. | ధ్వనించు
+V 34 ṣṭuñ | ⟨stutau⟩ — praise. | స్తుతించు
+V 35 brūñ | ⟨vyaktāyāṃ vāci⟩ — speak. | పలుకు
+V 36 iṇ | ⟨gatau⟩ — go. | వెళ్ళు
+V 37 iṅ | ⟨adhyayane⟩ — study, recite. | అధ్యయనం చేయు
+V 38 ik | ⟨smaraṇe⟩ — remember. | స్మరించు
+V 39 vī | ⟨gatiprajananakāntyasanakhādaneṣu⟩ — go; beget; shine; throw; eat. | వెళ్ళు, కను, ప్రకాశించు, విసరు, తిను
+V 40 yā | ⟨prāpaṇe⟩ — go, reach. | వెళ్ళు, చేరు
+V 41 vā | ⟨gatigandhanayoḥ⟩ — blow; go. | వీచు, వెళ్ళు
+V 42 bhā | ⟨dīptau⟩ — shine. | ప్రకాశించు
+V 43 ṣṇā | ⟨śauce⟩ — bathe, be clean. | స్నానం చేయు
+V 44 śrā | ⟨pāke⟩ — cook. | వండు
+V 45 drā | ⟨kutsāyāṃ gatau⟩ — run, go badly. | పరుగెత్తు
+V 46 psā | ⟨bhakṣaṇe⟩ — eat. | తిను
+V 47 pā | ⟨rakṣaṇe⟩ — protect. | రక్షించు
+V 48 rā | ⟨dāne⟩ — give. | ఇచ్చు
+V 49 lā | ⟨ādāne⟩ — take. | తీసుకొను
+V 50 dāp | ⟨lavane⟩ — cut. | కోయు
+V 51 khyā | ⟨prakathane⟩ — tell, make known. | చెప్పు
+V 52 prā | ⟨pūraṇe⟩ — fill. | నింపు
+V 53 mā | ⟨māne⟩ — measure. | కొలుచు
+V 54 vac | ⟨paribhāṣaṇe⟩ — speak, say. | పలుకు
+V 55 vid | ⟨jñāne⟩ — know. | తెలుసుకొను
+V 56 as | ⟨bhuvi⟩ — be, exist. | ఉండు
+V 57 mṛjū | ⟨śuddhau⟩ — wipe, clean. | తుడుచు
+¶ **⟨rudādayaḥ⟩**
+V 58 rudir | ⟨aśruvimocane⟩ — weep. | ఏడ్చు
+V 59 ñiṣvap | ⟨śaye⟩ — sleep. | నిద్రించు
+V 60 śvas | ⟨prāṇane⟩ — breathe. | శ్వాసించు
+V 61 an | ⟨ca⟩ — breathe. | ఊపిరి పీల్చు
+V 62 jakṣ | ⟨bhakṣahasanayoḥ⟩ — eat; laugh. | తిను, నవ్వు
+¶ **⟨jakṣādayaḥ⟩**
+V 63 jāgṛ | ⟨nidrākṣaye⟩ — be awake. | మేల్కొని ఉండు
+V 64 daridrā | ⟨durgatau⟩ — be poor. | పేదవాడగు
+V 65 cakās | ⟨dīptau⟩ — shine. | ప్రకాశించు
+V 66 śās | ⟨anuśiṣṭau⟩ — command, teach. | ఆజ్ఞాపించు, బోధించు
+V 67 dīdhīṅ | ⟨dīptidevanayoḥ⟩ — shine; play. | ప్రకాశించు, ఆడు
+V 68 vevīṅ | ⟨vetinā tulye⟩ — go, like ⟨vī⟩ (same as ⟨veti⟩). | వెళ్ళు

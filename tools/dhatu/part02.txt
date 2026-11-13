@@ -1,0 +1,199 @@
+# Böhtlingk, Pāṇini's Grammatik (1887), Dhātupāṭha pp. 63*–64* = leaves n568–n569. Class 1, roots 184–460.
+% Class 1, bhvādi: roots 184–460 (p. 63*–64*)
+! See part 1 for the conventions. In this part the roots of the small print are read from the page image; where the print is blurred the reading is the editor’s best.
+@568
+¶ **A. ⟨udāttāḥ⟩ (continued)** — *f)* ⟨cavargīyāntā anudāttetaḥ⟩ (continued)
+V 184 mac, 185 muci | ⟨kalkane⟩ — deceive; (be crooked). | మోసగించు
+V 186 maci | ⟨dhāraṇocchrāyapūjaneṣu⟩ — hold; raise; honour. | ధరించు, ఎత్తు, పూజించు
+V 187 paci | ⟨vyaktīkaraṇe⟩ — make clear. | స్పష్టపరచు
+V 188 ṣtuc | ⟨prasāde⟩ — be pleased, clear. | ప్రసన్నమగు
+V 189 ṛj | ⟨gatisthānārjanopārjaneṣu⟩ — go; stand; earn, acquire. | వెళ్ళు, నిలుచు, సంపాదించు
+V 190 ṛji, 191 bhṛjī | ⟨bharjane⟩ — fry, roast. | వేయించు
+V 192 ej, 193 bhej, 194 bhrāj, 195 rej | ⟨dīptau⟩ — shine. | ప్రకాశించు
+V 196 īj | ⟨gatikutsanayoḥ⟩ — go; blame. | వెళ్ళు, నిందించు
+V 197 vīj | ⟨gatau⟩ — go. | వెళ్ళు
+¶ *g)* ⟨cavargīyāntā udāttetaḥ⟩
+V 198 śuc | ⟨śoke⟩ — grieve. | దుఃఖించు
+V 199 kuc | ⟨śabde tāre⟩ — sound shrilly. | తీవ్రంగా ధ్వనించు
+V 200 kuñc, 201 kruñc | ⟨kauṭilyālpībhāvayoḥ⟩ — be crooked; become small. | వంకరగా ఉండు, చిన్నదగు
+V 202 luñc | ⟨apanayane⟩ — remove, pluck. | తొలగించు, పీకు
+V 203 añcu | ⟨gatipūjanayoḥ⟩ — go; honour. | వెళ్ళు, పూజించు
+V 204 vañcu, 205 caṅcu, 206 tañcu, 207 tvañcu, 208 muñcu, 209 mluñcu, 210 mucu, 211 mlucu | ⟨gatyarthāḥ⟩ — go. | వెళ్ళు
+V 212 gucu, 213 glucu | ⟨gatāvapi⟩ — go (also). | వెళ్ళు
+V 214 kujju, 215 khuju | ⟨steyakaraṇe⟩ — steal. | దొంగిలించు
+V 216 gluñc | ⟨gatau⟩ — go. | వెళ్ళు
+V 217 ṣasj | ⟨gatau⟩ — go. | వెళ్ళు
+V 218 guji | ⟨avyakte śabde⟩ — hum, make an indistinct sound. | అస్పష్టంగా ధ్వనించు
+V 219 arc | ⟨pūjāyām⟩ — worship. | పూజించు
+V 220 mlecch | ⟨avyakte śabde⟩ — speak indistinctly (as a foreigner). | అస్పష్టంగా మాట్లాడు
+V 221 lacch, 222 lācchi | ⟨lakṣaṇe⟩ — mark. | గుర్తుపెట్టు
+V 223 vāñchi | ⟨icchāyām⟩ — wish. | కోరు
+V 224 āchi | ⟨āyāme⟩ — stretch. | సాగదీయు
+V 225 hrīcchā | ⟨lajjāyām⟩ — be ashamed. | సిగ్గుపడు
+V 226 hurcchā | ⟨kauṭilye⟩ — be crooked. | వంకరగా ఉండు
+V 227 murchā | ⟨mohasamucchrāyayoḥ⟩ — faint; swell, grow solid. | మూర్ఛపోవు, ఘనీభవించు
+V 228 sphurcchā | ⟨vismṛtau⟩ — forget. | మరచిపోవు
+V 229 yucch | ⟨pramāde⟩ — be careless. | నిర్లక్ష్యం చేయు
+V 230 ucchi | ⟨uñche⟩ — glean. | ఏరుకొను
+V 231 ucchī | ⟨vivāse⟩ — dwell apart. | దూరంగా నివసించు
+V 232 dhraj, 233 dhraji, 234 vraj, 235 vraji, 236 dhraj, 237 dhraji, 238 dhvaj, 239 dhvaji | ⟨gatau⟩ — go. | వెళ్ళు
+V 240 kūj, 241 kuji | ⟨avyakte śabde⟩ — coo, make an indistinct sound. | కూయు
+V 242 arj, 243 sarj | ⟨arjane⟩ — acquire. | సంపాదించు
+V 244 garj | ⟨śabde⟩ — roar. | గర్జించు
+V 245 tarj | ⟨bhartsane⟩ — threaten. | బెదిరించు
+V 246 karj | ⟨vyathane⟩ — pain. | బాధపడు
+V 247 kharj | ⟨pūjane⟩ — honour; (also) rub. | పూజించు
+V 248 aj | ⟨gatikṣepaṇayoḥ⟩ — go; throw. | వెళ్ళు, విసరు
+V 249 tej | ⟨pālane⟩ — protect. | కాపాడు
+V 250 khaj | ⟨manthe⟩ — churn, stir. | చిలుకు
+V 251 khaj | ⟨made⟩ — be intoxicated. | మత్తెక్కు
+V 252 khaji | ⟨gativaikalye⟩ — limp. | కుంటు
+V 253 ej | ⟨kampane⟩ — tremble. | వణకు
+V 254 ṭvosphūrjā | ⟨vajranirghoṣe⟩ — thunder. | ఉరుము
+V 255 kṣi | ⟨kṣaye⟩ — decay (not properly here). | క్షీణించు
+V 256 kṣīja | ⟨avyakte śabde⟩ — make an indistinct sound. | అస్పష్టంగా ధ్వనించు
+V 257 laj, 258 laji | ⟨bhartsane⟩ — threaten. | బెదిరించు
+V 259 lāj, 260 lāji | ⟨bhartsane ca⟩ — threaten. | బెదిరించు
+V 261 jaj, 262 jaji | ⟨yuddhe⟩ — fight. | పోరాడు
+V 263 tuj | ⟨hiṃsāyām⟩ — hurt. | హింసించు
+V 264 tuji | ⟨pālane⟩ — protect. | కాపాడు
+V 265 gaj | ⟨madane ca⟩ — be drunk, rut. | మదించు
+V 266 gaji, 267 gṛj, 268 gṛji, 269 muj, 270 muji | ⟨śabdārthāḥ⟩ — sound. | ధ్వనించు
+V 271 vaj, 272 vraj | ⟨gatau⟩ — go. | వెళ్ళు
+¶ *h)* ⟨ṭavargīyāntā anudāttetaḥ⟩
+V 273 aṭṭ | ⟨atikramahiṃsayoḥ⟩ — transgress; hurt. | అతిక్రమించు, హింసించు
+V 274 veṣṭ | ⟨veṣṭane⟩ — wrap, surround. | చుట్టు
+V 275 ceṣṭ | ⟨ceṣṭāyām⟩ — move, exert. | ప్రయత్నించు, కదులు
+V 276 goṣṭ, 277 loṣṭ | ⟨saṃghāte⟩ — gather, heap. | పోగుచేయు
+V 278 ghaṭṭ | ⟨calane⟩ — stir, move. | కదలు
+V 279 sphuṭ | ⟨vikasane⟩ — burst open, blossom. | వికసించు
+V 280 aṭhi | ⟨gatau⟩ — go. | వెళ్ళు
+V 281 vaṭhi | ⟨ekacaryāyām⟩ — live alone. | ఒంటరిగా తిరుగు
+V 282 maṭhi, 283 kaṭhi | ⟨śoke⟩ — grieve. | దుఃఖించు
+V 284 muṭhi | ⟨palāyane⟩ — flee. | పారిపోవు
+V 285 heṭh | ⟨vibādhāyām⟩ — harass. | వేధించు
+V 286 eṭh | ⟨ca⟩ — also: harass. | వేధించు
+V 287 hiḍi | ⟨gatyanādarayoḥ⟩ — go; disrespect. | వెళ్ళు, అనాదరించు
+V 288 huḍi | ⟨saṃghāte⟩ — gather. | పోగుచేయు
+V 289 kuḍi | ⟨dāhe⟩ — burn. | కాల్చు
+V 290 vaḍi | ⟨vibhājane⟩ — divide. | విభజించు
+V 291 maḍi | ⟨ca⟩ — also: divide. | విభజించు
+V 292 bhaḍi | ⟨paribhāṣaṇe⟩ — censure, speak. | నిందించు
+V 293 piḍi | ⟨saṃghāte⟩ — gather. | పోగుచేయు
+V 294 muḍi | ⟨mārjane⟩ — wipe, cleanse. | తుడుచు
+V 295 tuḍi | ⟨toḍane⟩ — pierce, strike. | పొడుచు
+V 296 bhuḍi | ⟨bharaṇe⟩ — bear, support. | భరించు
+V 297 sphuḍi | ⟨vikasane⟩ — blossom. | వికసించు
+V 298 caḍi | ⟨kope⟩ — be angry. | కోపించు
+V 299 śaḍi | ⟨rujāyāṃ saṃghāte ca⟩ — be ill; gather. | రోగపడు, పోగుచేయు
+V 300 taḍi | ⟨tāḍane⟩ — beat. | కొట్టు
+V 301 paḍi | ⟨gatau⟩ — go. | వెళ్ళు
+V 302 kaḍi | ⟨made⟩ — be intoxicated. | మత్తెక్కు
+V 303 khaḍi | ⟨manthe⟩ — churn, stir. | చిలుకు
+V 304 heḍ, 305 hoḍ | ⟨anādare⟩ — disregard. | అనాదరించు
+V 306 bāḍ | ⟨āplāvye⟩ — bathe, plunge. | మునుగు
+V 307 drāḍ, 308 dhrāḍ | ⟨visaraṇe⟩ — spread. | వ్యాపించు
+V 309 śāḍ | ⟨ślāghāyām⟩ — praise. | పొగడు
+¶ *i)* ⟨ṭavargīyāntā udāttetaḥ⟩
+V 310 śoṭ | ⟨gatau⟩ — go. | వెళ్ళు
+V 311 yoṭ | ⟨saṃbandhe⟩ — join. | కలుపు
+V 312 mleṭ, 313 meṭ | ⟨unmāde⟩ — be mad. | పిచ్చిపట్టు
+V 314 meṭ | ⟨unmāde⟩ — be mad. | పిచ్చిపట్టు
+V 315 kaṭe, 316 caṭe | ⟨varṣāvaraṇayoḥ⟩ — rain; cover. | వర్షించు, కప్పు
+V 317 aṭ, 318 paṭ | ⟨gatau⟩ — go. | వెళ్ళు
+V 319 raṭ | ⟨paribhāṣaṇe⟩ — speak, cry out. | మాట్లాడు, కేకవేయు
+V 320 laṭ | ⟨bālye⟩ — be childish. | పసివాడిలా ఉండు
+@569
+V 321 ṣaṭ | ⟨rujāviśaraṇagatyavasādaneṣu⟩ — sicken; perish; go; sink. | రోగపడు, నశించు, వెళ్ళు, కుంగు
+V 322 vaṭ | ⟨veṣṭane⟩ — surround. | చుట్టు
+V 323 kiṭ, 324 khiṭ | ⟨trāse⟩ — fear. | భయపడు
+V 325 ṣiṭ, 326 ṣiṭ | ⟨anādare⟩ — disregard. | అనాదరించు
+V 327 jaṭ, 328 jhaṭ | ⟨saṃghāte⟩ — tangle, gather. | చిక్కుపడు
+V 329 bhaṭ | ⟨bhṛtau⟩ — hire, serve for pay. | కూలికి చేయు
+V 330 taṭ | ⟨ucchrāye⟩ — rise. | పైకి లేచు
+V 331 khaṭ | ⟨kāṅkṣāyām⟩ — desire. | కోరు
+V 332 ṇaṭ | ⟨nṛttau⟩ — dance. | నృత్యం చేయు
+V 333 piṭ | ⟨śabdasaṃghātayoḥ⟩ — sound; gather. | ధ్వనించు, పోగుచేయు
+V 334 haṭ | ⟨dīptau⟩ — shine. | ప్రకాశించు
+V 335 ṣaṭ | ⟨avayave⟩ — (be a) part. | అవయవమగు
+V 336 luṭ | ⟨viloḍane⟩ — stir, churn. | కలియబెట్టు
+V 337 ciṭ | ⟨parapreṣye⟩ — be a servant. | సేవకుడగు
+V 338 viṭ | ⟨śabde⟩ — sound. | ధ్వనించు
+V 339 biṭ | ⟨ākrośe⟩ — shout, revile. | అరచు, తిట్టు
+V 340 iṭ, 341 kiṭ, 342 kaṭī | ⟨gatau⟩ — go. | వెళ్ళు
+V 343 heṭh | ⟨vibādhāyām⟩ — harass. | వేధించు
+V 344 maḍi | ⟨bhūṣāyām⟩ — adorn. | అలంకరించు
+V 345 kuṭi | ⟨vaikalye⟩ — be defective, crooked. | లోపం కలిగి ఉండు
+V 346 muṭ | ⟨pramardane⟩ — crush. | నలుపు
+V 347 cuṭi | ⟨alpībhāve⟩ — become small. | చిన్నదగు
+V 348 muṭi | ⟨khaṇḍane⟩ — break. | విరుచు
+V 349 ruṭi, 350 luṭi | ⟨steye⟩ — steal. | దొంగిలించు
+V 351 vaṭi | ⟨vibhājane⟩ — divide. | విభజించు
+V 352 sphuṭir | ⟨visaraṇe⟩ — burst, spread. | పగులు, వ్యాపించు
+V 353 paṭh | ⟨vyaktāyāṃ vāci⟩ — read aloud, recite. | చదువు
+V 354 vaṭh | ⟨sthaulye⟩ — be stout. | లావెక్కు
+V 355 maṭh | ⟨madanivāsayoḥ⟩ — be drunk; dwell. | మత్తెక్కు, నివసించు
+V 356 kaṭh | ⟨kṛcchrajīvane⟩ — live in hardship. | కష్టంగా బ్రతుకు
+V 357 raṭh | ⟨paribhāṣaṇe⟩ — speak. | మాట్లాడు
+V 358 haṭh | ⟨plutiśaṭhatvayoḥ⟩ — leap; be wicked. | దూకు, శఠుడగు
+V 359 ruṭh, 360 luṭh, 361 uṭh | ⟨upaghāte⟩ — injure. | గాయపరచు
+V 362 piṭh | ⟨hiṃsāsaṃkleśayoḥ⟩ — hurt; torment. | హింసించు, బాధపెట్టు
+V 363 śaṭh | ⟨kaitave ca⟩ — deceive. | మోసగించు
+V 364 śuṭh | ⟨gatipratighāte⟩ — obstruct motion. | అడ్డగించు
+V 365 kuṭhi | ⟨ca⟩ — also: obstruct. | అడ్డగించు
+V 366 luṭhi | ⟨ālasye pratighāte ca⟩ — be lazy; obstruct. | సోమరిగా ఉండు, అడ్డగించు
+V 367 śaṭhi | ⟨śoṣaṇe⟩ — dry up. | ఎండిపోవు
+V 368 ruṭhi, 369 luṭhi | ⟨gatau⟩ — go. | వెళ్ళు
+V 370 cuḍ | ⟨hāvakaraṇe⟩ — make gestures of love. | హావభావాలు చూపు
+V 371 aḍ | ⟨abhiyoge⟩ — apply oneself, attack. | పూనుకొను
+V 372 kaḍ | ⟨kārkaśye⟩ — be hard. | కఠినంగా ఉండు
+V 373 krīḍ | ⟨vihāre⟩ — play. | ఆడు
+V 374 tuḍ | ⟨toḍane⟩ — pierce, strike. | పొడుచు
+V 375 huḍ, 376 hoḍ | ⟨gatau⟩ — go. | వెళ్ళు
+V 377 roḍ | ⟨anādare⟩ — disregard. | అనాదరించు
+V 378 roḍ, 379 loḍ | ⟨unmāde⟩ — be mad. | పిచ్చిపట్టు
+V 380 aḍ | ⟨udyame⟩ — exert oneself. | ప్రయత్నించు
+V 381 laḍ | ⟨vilāse⟩ — sport, dally. | విలాసంగా ఉండు
+V 382 lal | ⟨īpsāyām⟩ — desire. | కోరు
+V 383 kaḍ | ⟨made⟩ — be intoxicated. | మత్తెక్కు
+V 384 gaḍi | ⟨vadanaikadeśe⟩ — (of) a part of the face. | ముఖంలో భాగము
+¶ *k)* ⟨pavargīyāntā anudāttetaḥ⟩
+V 385 tip, 386 tep, 387 ṣṭip, 388 ṣṭep | ⟨kṣaraṇārthāḥ⟩ — drip, flow. | కారు
+V 389 tep | ⟨kampe ca⟩ — tremble. | వణకు
+V 390 glep | ⟨dainye⟩ — be wretched. | దీనుడగు
+V 391 ṭuvep | ⟨kampane⟩ — tremble. | వణకు
+V 392 kep, 393 gep, 394 glep | ⟨ca⟩ — tremble. | వణకు
+V 395 mep, 396 rep, 397 lep, 398 dhep | ⟨gatau⟩ — go. | వెళ్ళు
+V 399 trapūṣ | ⟨lajjāyām⟩ — be ashamed. | సిగ్గుపడు
+V 400 kapi | ⟨calane⟩ — shake. | కదలు
+V 401 rabi, 402 labi, 403 abi | ⟨śabde⟩ — sound. | ధ్వనించు
+V 404 labi | ⟨avasraṃsane ca⟩ — hang down, sink. | వేలాడు, కుంగు
+V 405 kab | ⟨varṇe⟩ — colour, describe. | వర్ణించు
+V 406 klība | ⟨adhāṣṭarye⟩ — be timid. | పిరికిగా ఉండు
+V 407 kṣība | ⟨made⟩ — be drunk. | మత్తెక్కు
+V 408 śobh | ⟨katthane⟩ — praise. | పొగడు
+V 409 bobh | ⟨ca⟩ — also: praise. | పొగడు
+V 410 rebh, 411 abh, 412 rabh | ⟨śabde⟩ — sound. | ధ్వనించు
+V 413 ṣṭabhi, 414 skabhi | ⟨pratibandhe⟩ — prop up, stop. | ఆపు, ఆధారమిచ్చు
+V 415 jabh, 416 jṛmbhi | ⟨gātravināme⟩ — yawn, stretch the body. | ఆవలించు, ఒళ్ళు విరుచు
+V 417 śalbh | ⟨katthane⟩ — praise. | పొగడు
+V 418 valbh | ⟨bhojane⟩ — eat. | తిను
+V 419 galbh | ⟨dhārṣṭarye⟩ — be bold. | ధైర్యం చూపు
+V 420 srambhu | ⟨pramāde⟩ — be careless. | నిర్లక్ష్యం చేయు
+V 421 ṣṭubhu | ⟨stambhe⟩ — stop, make stiff. | ఆపు, బిగుసుకొను
+¶ *l)* ⟨pavargīyāntā udāttetaḥ⟩
+V 422 gupū | ⟨rakṣaṇe⟩ — guard. | కాపాడు
+V 423 dhūp | ⟨saṃtāpe⟩ — heat, fumigate. | వేడిచేయు, ధూపం వేయు
+V 424 jap, 425 jalp | ⟨vyaktāyāṃ vāci⟩ — mutter; prate. | జపించు, వాగు
+V 426 caps | ⟨sāntvane⟩ — comfort. | ఓదార్చు
+V 427 ṣap | ⟨samavāye⟩ — unite. | కలుపు
+V 428 rap, 429 lap | ⟨vyaktāyāṃ vāci⟩ — speak, prate. | మాట్లాడు
+V 430 cup | ⟨mandāyāṃ gatau⟩ — move slowly. | మెల్లగా కదులు
+V 431 tup, 432 tump, 433 trup, 434 trump, 435 tuph, 436 tumph, 437 truph, 438 trumph | ⟨hiṃsārthāḥ⟩ — hurt. | హింసించు
+V 439 parp, 440 rapha, 441 raphi | ⟨gatau⟩ — go. | వెళ్ళు
+V 442 arb, 443 parb, 444 larb, 445 barb, 446 marb, 447 karb, 448 kharb, 449 garb, 450 śarb, 451 ṣarb, 452 carb | ⟨gatau⟩ — go. | వెళ్ళు
+V 453 kubi | ⟨ācchādane⟩ — cover. | కప్పు
+V 454 lubi, 455 tubi | ⟨ardane⟩ — hurt. | హింసించు
+V 456 cubi | ⟨vaktrasaṃyoge⟩ — kiss, touch with the mouth. | ముద్దుపెట్టు
+V 457 sṛbhu, 458 sṛmbhu | ⟨hiṃsārthau⟩ — hurt. | హింసించు
+V 459 śubh, 460 śumbh | ⟨bhāsane ca⟩ — shine; speak. | ప్రకాశించు, పలుకు

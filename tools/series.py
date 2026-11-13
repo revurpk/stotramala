@@ -48,6 +48,8 @@ SERIES = [
     dict(id="perry", pat=r"perry-(\d+|intro|gloss-1|gloss-2|appendix)$", contents="perry", contents_label="all lessons",
          label=lambda n: _PERRY_NAMES.get(n) or f"lesson {roman(n)}", jump_title="all lessons",
          jump_label=lambda n: _PERRY_JUMP.get(n) or roman(n), auto=True, jump=True),
+    dict(id="dhatu", pat=r"dhatu-(\d+)$", contents="dhatu", contents_label="all parts",
+         label=lambda n: f"part {n}", jump_title="all parts", jump_label=lambda n: str(n), auto=True, jump=True),
     dict(id="nirukta", pat=r"nirukta-(\d+)$", contents="nirukta", contents_label="Nirukta · contents",
          label=lambda n: "pariśiṣṭa" if n == 13 else f"adhyāya {n}", jump_title="all adhyāyas",
          jump_label=lambda n: "pariśiṣṭa" if n == 13 else str(n), auto=True, jump=True),

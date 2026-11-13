@@ -1,0 +1,118 @@
+# Böhtlingk, Pāṇini's Grammatik (1887), "Der Dhātupāṭha nach N. L. Westergaard", pp. 61*–62* = leaves n566–n567 of archive.org grammatikhrsgb00paniuoft. Class 1, roots 1–183.
+% Class 1, bhvādi: roots 1–183 (p. 61*–62*)
+! Roots are given in IAST as printed, without the accent marks and without the bracketed variants and Böhtlingk’s remarks (“auch”, “fehlt auch”, “gehört nicht hierher”); the numbering is his. Where several roots share one meaning the meaning is printed after the last, and they are given here as one entry.
+@566
+## Dhātupāṭha: Class 1, bhvādi
+¶ The ten classes of roots, in the order of the Dhātupāṭha that goes under Pāṇini’s name, as Westergaard edited it and Böhtlingk reprinted it. Each entry gives the root’s number, the root, its meaning in Sanskrit as the Dhātupāṭha states it, and the editor’s English and Telugu.
+¶ **1. ⟨bhvādayaḥ⟩**
+¶ **A. ⟨udāttāḥ⟩** — *a)* ⟨parasmaibhāṣāḥ⟩
+V 1 bhū | ⟨sattāyām⟩ — be, exist, become. | ఉండు, అగు
+¶ *b)* ⟨tavargīyāntā anudāttetaḥ⟩
+V 2 edh | ⟨vṛddhau⟩ — prosper, grow. | వర్ధిల్లు, పెరుగు
+V 3 spardh | ⟨saṃgharṣe⟩ — vie, compete. | పోటీపడు, స్పర్ధించు
+V 4 gādh | ⟨pratiṣṭhālipsayoḥ⟩ — stand firm; long for. | నిలకడగా ఉండు, ఆశించు
+V 5 bādh | ⟨loḍane⟩ — press, vex, oppress. | బాధించు, పీడించు
+V 6 nāth | ⟨nāth⟩ — (meaning given with the next root). | (తరువాతి ధాతువుతో కలిపి చూడండి)
+V 7 nādh | ⟨yācñopatāpaiśvaryāśīḥṣu⟩ — beg; trouble; rule; bless. | యాచించు, తపించు, ఏలు, ఆశీర్వదించు
+V 8 dadh | ⟨dhāraṇe⟩ — hold, bear. | ధరించు
+V 9 skudi | ⟨āpravaṇe⟩ — leap up, jump about. | ఎగురు, దూకు
+V 10 svidi | ⟨śvaitye⟩ — be white. | తెల్లబడు
+V 11 vadi | ⟨abhivādanastutyoḥ⟩ — salute; praise. | నమస్కరించు, స్తుతించు
+V 12 bhadi | ⟨kalyāṇe sukhe ca⟩ — be auspicious, be happy. | శుభమగు, సుఖపడు
+V 13 madi | ⟨stutimodamadasvapnagatiṣu⟩ — praise, rejoice, be drunk, sleep, go. | స్తుతించు, ఆనందించు, మత్తెక్కు, నిద్రించు, వెళ్ళు
+V 14 spadi | ⟨kiñcic calane⟩ — stir a little, throb. | కొద్దిగా కదులు, స్పందించు
+V 15 klidi | ⟨paridevane⟩ — lament. | విలపించు
+V 16 mud | ⟨harṣe⟩ — rejoice. | సంతోషించు
+V 17 dad | ⟨dāne⟩ — give. | ఇచ్చు
+V 18 svad, 19 svard | ⟨āsvādane⟩ — taste, relish. | రుచి చూచు
+V 20 urd | ⟨māne krīḍāyāṃ ca⟩ — measure; play. | కొలుచు, ఆడు
+V 21 kurd, 22 khurd, 23 gurd, 24 gud | ⟨krīḍāyām eva⟩ — play. | ఆడు
+V 25 sūd | ⟨kṣaraṇe⟩ — flow, trickle. | స్రవించు, కారు
+V 26 hrād | ⟨avyakte śabde⟩ — make an indistinct sound. | అస్పష్టంగా ధ్వనించు
+V 27 hrādī | ⟨sukhe ca⟩ — be glad; (also) sound. | సుఖపడు
+V 28 svād | ⟨āsvādane⟩ — taste, relish. | రుచి చూచు
+V 29 pard | ⟨kutsite śabde⟩ — make a foul sound, break wind. | అసహ్యమైన శబ్దం చేయు
+V 30 yatī | ⟨prayatne⟩ — strive, try. | ప్రయత్నించు
+V 31 yut, 32 jut | ⟨bhāsane⟩ — shine. | ప్రకాశించు
+V 33 viṭh, 34 veth | ⟨yācane⟩ — beg. | యాచించు
+V 35 śrath | ⟨śaithilye⟩ — be loose, slack. | సడలు
+V 36 grath | ⟨kauṭilye⟩ — be crooked. | వంకరగా ఉండు
+V 37 katth | ⟨ślāghāyām⟩ — boast, praise. | పొగడు, గొప్పలు చెప్పు
+¶ *c)* ⟨tavargīyāntā udāttetaḥ⟩
+@567
+V 38 at | ⟨sātatyagamane⟩ — go constantly, wander. | ఎడతెగకుండా వెళ్ళు, తిరుగు
+V 39 cita | ⟨saṃjñāne⟩ — perceive, know. | గుర్తించు, తెలుసుకొను
+V 40 cyutir | ⟨āsecane⟩ — sprinkle, drip. | చిలుకరించు, కారు
+V 41 ścyutir | ⟨kṣaraṇe⟩ — ooze, flow. | స్రవించు
+V 42 jyutir | ⟨bhāsane⟩ — shine. | ప్రకాశించు
+V 43 manth | ⟨viloḍane⟩ — churn, stir. | చిలుకు, కలియబెట్టు
+V 44 kuthi, 45 puthi, 46 luthi, 47 mathi | ⟨hiṃsāsaṃkleśanayoḥ⟩ — hurt; torment. | హింసించు, బాధపెట్టు
+V 48 vidh | ⟨gatyām⟩ — go. | వెళ్ళు
+V 49 vidhū | ⟨śāstre māṅgalye ca⟩ — command, rule; be auspicious. | శాసించు, శుభమగు
+V 50 khād | ⟨bhakṣaṇe⟩ — eat. | తిను
+V 51 khad | ⟨sthairye hiṃsāyāṃ ca⟩ — be firm; hurt. | స్థిరంగా ఉండు, హింసించు
+V 52 bad | ⟨sthairye⟩ — be firm. | స్థిరంగా ఉండు
+V 53 gad | ⟨vyaktāyāṃ vāci⟩ — speak distinctly. | స్పష్టంగా మాట్లాడు
+V 54 rad | ⟨vilekhane⟩ — scratch, split. | గీయు, చీల్చు
+V 55 ṇad | ⟨avyakte śabde⟩ — make an indistinct sound. | అస్పష్టంగా ధ్వనించు
+V 56 ard | ⟨gatau yācane ca⟩ — go; beg. | వెళ్ళు, యాచించు
+V 57 nard, 58 gard | ⟨śabde⟩ — roar, sound. | గర్జించు, ధ్వనించు
+V 59 tard | ⟨hiṃsāyām⟩ — hurt. | హింసించు
+V 60 kard | ⟨kutsite śabde⟩ — make a foul sound. | అసహ్యమైన శబ్దం చేయు
+V 61 khard | ⟨dandaśūke⟩ — bite (as a snake). | కాటువేయు
+V 62 ati, 63 adi | ⟨bandhane⟩ — bind. | కట్టు
+V 64 idi | ⟨paramaiśvarye⟩ — be supremely powerful. | పరమైశ్వర్యంతో ఉండు
+V 65 bidi | ⟨avayave⟩ — (be a) part. | అవయవమగు
+V 66 ṇidi | ⟨kutsāyām⟩ — blame. | నిందించు
+V 67 ṭunadi | ⟨samṛddhau⟩ — prosper. | సమృద్ధిగా ఉండు
+V 68 cadi | ⟨āhlādane dīptau ca⟩ — gladden; shine. | ఆనందపరచు, ప్రకాశించు
+V 69 tradi | ⟨ceṣṭāyām⟩ — exert oneself. | ప్రయత్నించు
+V 70 kadi, 71 kradi, 72 kladi | ⟨āhvāne rodane ca⟩ — call; weep. | పిలుచు, ఏడ్చు
+V 73 klidi | ⟨paridevane⟩ — lament. | విలపించు
+V 74 śundh | ⟨śuddhau⟩ — be pure. | శుద్ధమగు
+¶ *d)* ⟨kavargīyāntā anudāttetaḥ⟩
+V 75 śīk | ⟨secane⟩ — sprinkle. | చిలుకరించు
+V 76 lok | ⟨darśane⟩ — see. | చూచు
+V 77 ślok | ⟨saṃghāte⟩ — compose, string together. | కూర్చు
+V 78 drek, 79 dhrek | ⟨śabdotsāhayoḥ⟩ — sound; be eager. | ధ్వనించు, ఉత్సహించు
+V 80 rek | ⟨śaṅkāyām⟩ — doubt, fear. | శంకించు
+V 81 sek, 82 srek, 83 saki, 84 aki, 85 ślaki | ⟨gatyarthāḥ⟩ — go. | వెళ్ళు
+V 86 śaki | ⟨śaṅkāyām⟩ — doubt, fear. | శంకించు
+V 87 aki | ⟨lakṣaṇe⟩ — mark, characterize. | గుర్తుపెట్టు
+V 88 vaki | ⟨kauṭilye⟩ — be crooked. | వంకరగా ఉండు
+V 89 maki | ⟨maṇḍane⟩ — adorn. | అలంకరించు
+V 90 kak | ⟨laulye⟩ — be fickle, covet. | చంచలంగా ఉండు, ఆశపడు
+V 91 kuk, 92 vṛk | ⟨ādāne⟩ — take, seize. | తీసుకొను
+V 93 cak | ⟨tṛptau⟩ — be satisfied; resist. | తృప్తిపడు
+V 94 kakki, 95 vakki, 96 śvaki, 97 traki, 98 ḍhauk, 99 trauk, 100 ṣvaṣk, 101 vask, 102 mask, 103 ṭik, 104 ṭīk, 105 tik, 106 tīk, 107 raghi, 108 laghi | ⟨gatyarthāḥ⟩ — go. | వెళ్ళు
+V 109 aghi, 110 vaghi, 111 maghi | ⟨gatyākṣepe⟩ — go; start; cast. | వెళ్ళు, ప్రారంభించు, విసరు
+V 112 maghi | ⟨kaitave⟩ — deceive. | మోసగించు
+V 113 rāgh, 114 lāgh, 115 drāgh, 116 dhrāgh | ⟨sāmarthye⟩ — be able. | సమర్థుడగు
+V 117 drāgh | ⟨āyāme ca⟩ — stretch, lengthen. | సాగదీయు
+V 118 ślāgh | ⟨katthane⟩ — boast, praise. | పొగడు
+¶ *e)* ⟨kavargīyāntā udāttetaḥ⟩
+V 119 phakk | ⟨nīcair gatau⟩ — go slowly, creep. | మెల్లగా వెళ్ళు
+V 120 tak | ⟨hasane⟩ — laugh. | నవ్వు
+V 121 taki | ⟨kṛcchrajīvane⟩ — live in hardship. | కష్టంగా బ్రతుకు
+V 122 bukk | ⟨bhaṣaṇe⟩ — bark. | మొరుగు
+V 123 śuk | ⟨gatau⟩ — go. | వెళ్ళు
+V 124 kakh | ⟨hasane⟩ — laugh. | నవ్వు
+V 125 okh, 126 rākh, 127 lākh, 128 drākh, 129 dhrākh | ⟨śoṣaṇālamarthayoḥ⟩ — dry up; be able, be enough. | ఎండిపోవు, సరిపోవు
+V 130 śākh, 131 ślākh | ⟨vyāptau⟩ — pervade. | వ్యాపించు
+V 132 ukh, 133 ukhi, 134 vakh, 135 vakhi, 136 makh, 137 makhi, 138 ṇakh, 139 ṇakhi, 140 rakh, 141 rakhi, 142 lakh, 143 lakhi, 144 ikh, 145 ikhi, 146 īkhi, 147 mukhi, 148 trakh, 149 trakhi, 150 śikhi, 151 rikh, 152 valg, 153 ragi, 154 lagi, 155 agi, 156 vagi, 157 magi, 158 tagi, 159 tvagi, 160 śragi, 161 ślagi, 162 igi, 163 rigi, 164 ligi | ⟨gatyarthāḥ⟩ — go. | వెళ్ళు
+V 165 ligi | ⟨gatyarthāḥ⟩ — go (closing the series). | వెళ్ళు
+V 166 tvagi | ⟨kampane ca⟩ — tremble. | వణకు
+V 167 yugi, 168 jugi, 169 vugi | ⟨varjane⟩ — avoid, leave. | విడుచు
+V 170 ghagh | ⟨hasane⟩ — laugh. | నవ్వు
+V 171 dadhi | ⟨pālane⟩ — protect. | కాపాడు
+V 172 laghi | ⟨śoṣaṇe⟩ — dry up. | ఎండిపోవు
+V 173 maghi | ⟨maṇḍane⟩ — adorn. | అలంకరించు
+V 174 śighi | ⟨āghrāṇe⟩ — smell. | వాసన చూచు
+¶ *f)* ⟨cavargīyāntā anudāttetaḥ⟩
+V 175 varc | ⟨dīptau⟩ — shine. | ప్రకాశించు
+V 176 sac | ⟨sevane⟩ — serve, attend. | సేవించు
+V 177 loc | ⟨darśane⟩ — see. | చూచు
+V 178 śac | ⟨vyaktāyāṃ vāci⟩ — speak distinctly. | స్పష్టంగా మాట్లాడు
+V 179 śvac, 180 śvaci | ⟨gatau⟩ — go. | వెళ్ళు
+V 181 kac | ⟨bandhane⟩ — bind. | కట్టు
+V 182 kaci, 183 kāci | ⟨dīptibandhanayoḥ⟩ — shine; bind. | ప్రకాశించు, కట్టు

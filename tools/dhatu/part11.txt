@@ -1,0 +1,189 @@
+# Böhtlingk, Pāṇini's Grammatik (1887), Dhātupāṭha pp. 80*–81* = leaves n585–n586. Class 10, roots 1–192.
+% Class 10, curādi: roots 1–192 (p. 80*–81*)
+! See part 1 for the conventions. Böhtlingk’s remarks on single roots and the variant readings in brackets are not given. Root 193 begins at the foot of p. 81* and is given with part 12. The long glosses of roots 12, 81 and 184 are shortened in the English and Telugu to the principal senses.
+@585
+## Class 10, curādi
+¶ **10. ⟨curādayaḥ⟩** — **A. ⟨parasmaipadinaḥ⟩**
+V 1 cur | ⟨steye⟩ — steal. | దొంగిలించు
+V 2 citi | ⟨smṛtyām⟩ — remember. | స్మరించు
+V 3 yatri | ⟨saṅkocane⟩ — contract. | ముడుచుకొను
+V 4 sphuḍi | ⟨parihāse⟩ — jest. | పరిహసించు
+V 5 lac, 5 lakṣ | ⟨darśanāṅkayoḥ⟩ — see; mark. | చూచు, గుర్తుపెట్టు
+V 6 kudri | ⟨anṛtabhāṣaṇe⟩ — speak untruth. | అబద్ధమాడు
+V 7 laḍ | ⟨upasevāyām⟩ — serve; (also) caress. | సేవించు
+V 8 midi | ⟨snehane⟩ — be fond. | స్నేహించు
+V 9 olaḍi | ⟨utkṣepaṇe⟩ — throw up. | పైకి విసరు
+V 10 jal | ⟨apavāraṇe⟩ — cover. | కప్పు
+V 11 pīḍ | ⟨avagāhane⟩ — plunge, press. | నొక్కు
+V 12 naṭ | ⟨avaspandane⟩ — fall; leap; (be an actor). | కదలు, నటించు
+V 13 śrath | ⟨prayatne⟩ — strive. | ప్రయత్నించు
+V 14 badh | ⟨saṃyamane⟩ — restrain. | నిగ్రహించు
+V 15 pṛ | ⟨pūraṇe⟩ — fill. | నింపు
+V 16 ūrj | ⟨balaprāṇanayoḥ⟩ — be strong; live. | బలంగా ఉండు, జీవించు
+V 17 pac | ⟨parigrahe⟩ — take. | తీసుకొను
+V 18 cūrṇ | ⟨preṣaṇe⟩ — pound; send. | పొడిచేయు, పంపు
+V 19 prath | ⟨prakhyāne⟩ — make known. | ప్రసిద్ధి చేయు
+V 20 pṛth | ⟨prakṣepe⟩ — throw. | విసరు
+V 21 stamb | ⟨saṃbandhane⟩ — bind. | కట్టు
+V 22 bhaj | ⟨adane⟩ — eat. | తిను
+V 23 kuṭṭ | ⟨chedanabhartsanayoḥ⟩ — cut; threaten. | ఛేదించు, బెదిరించు
+V 24 puṭṭ, cuṭṭ | ⟨alpībhāve⟩ — become small. | చిన్నదగు
+V 25 aṭṭ | ⟨anādare⟩ — disregard. | అనాదరించు
+V 26 suṭṭ | ⟨anādare⟩ — disregard. | అనాదరించు
+V 27 luṇṭ | ⟨steye⟩ — steal. | దొంగిలించు
+V 28 śaṭh, 29 śvaṭh | ⟨saṃskāragatyoḥ⟩ — prepare; go. | సంస్కరించు, వెళ్ళు
+V 30 tuji, 31 piji | ⟨hiṃsābalādānaniketaneṣu⟩ — hurt; give strength; take; dwell. | హింసించు, బలమిచ్చు, తీసుకొను, నివసించు
+V 32 pis | ⟨gatau⟩ — go. | వెళ్ళు
+V 33 sāntv | ⟨sāmaprayoge⟩ — conciliate, console. | ఓదార్చు
+V 34 śvalk, 35 valk | ⟨paribhāṣaṇe⟩ — speak. | మాట్లాడు
+V 36 snih | ⟨snehane⟩ — be fond. | స్నేహించు
+V 37 smiṭ | ⟨anādare⟩ — disregard. | అనాదరించు
+V 38 śliṣ | ⟨śleṣaṇe⟩ — embrace. | కౌగిలించు
+V 39 pathi | ⟨gatau⟩ — go. | వెళ్ళు
+V 40 piccha | ⟨kuṭṭane⟩ — pound. | దంచు
+V 41 chadi | ⟨saṃvaraṇe⟩ — cover. | కప్పు
+V 42 śraṇ | ⟨dāne⟩ — give. | ఇచ్చు
+V 43 taḍ | ⟨āghāte⟩ — strike. | కొట్టు
+V 44 khaḍ, khaḍi, kaḍi | ⟨bhedane⟩ — split. | చీల్చు
+V 45 kuḍi | ⟨rakṣaṇe⟩ — protect. | కాపాడు
+V 46 guḍi | ⟨veṣṭane⟩ — wrap. | చుట్టు
+V 47 khuḍi | ⟨khaṇḍane⟩ — break. | విరుచు
+V 48 vaṭi | ⟨vibhājane⟩ — divide. | విభజించు
+V 49 maḍi | ⟨bhūṣāyāṃ harṣe ca⟩ — adorn; rejoice. | అలంకరించు, సంతోషించు
+V 50 bhaḍi | ⟨kalyāṇe⟩ — be auspicious. | శుభమగు
+V 51 chard | ⟨vamane⟩ — vomit. | వాంతి చేయు
+V 52 pust, bust | ⟨ādarānādarayoḥ⟩ — respect; disrespect. | గౌరవించు, అనాదరించు
+V 53 cud | ⟨saṃcodane⟩ — impel. | ప్రేరేపించు
+V 54 nakk, 55 dhakk | ⟨nāśane⟩ — destroy. | నాశనం చేయు
+V 56 cakk, cukk | ⟨vyathane⟩ — pain. | బాధపెట్టు
+V 57 cal | ⟨śaucakarmaṇi⟩ — purify. | శుద్ధి చేయు
+V 58 tal | ⟨pratiṣṭhāyām⟩ — establish. | నిలుపు
+V 59 tul | ⟨unmāne⟩ — weigh. | తూచు
+V 60 dul | ⟨utkṣepe⟩ — throw up. | పైకి విసరు
+V 61 pul | ⟨mahattve⟩ — be great. | గొప్పగా ఉండు
+V 62 cul | ⟨samucchrāye⟩ — raise. | ఎత్తు
+V 63 mūl | ⟨rohaṇe⟩ — grow, mount. | ఎక్కు
+V 64 kal, 65 pil | ⟨kṣepe⟩ — throw. | విసరు
+V 66 bil | ⟨bhedane⟩ — split. | చీల్చు
+V 67 til | ⟨snehe⟩ — be fond. | స్నేహించు
+V 68 bal | ⟨bhṛtau⟩ — support. | భరించు
+V 69 pāl | ⟨rakṣaṇe⟩ — protect. | రక్షించు
+V 70 lūṣ | ⟨hiṃsāyām⟩ — hurt. | హింసించు
+V 71 śulb | ⟨māne⟩ — measure. | కొలుచు
+V 72 cuṭ | ⟨chedane⟩ — cut. | ఛేదించు
+V 73 muṭ | ⟨saṃcūrṇane⟩ — pound. | దంచు
+V 74 pasi | ⟨nāśane⟩ — destroy. | నాశనం చేయు
+V 75 vraj | ⟨mārgasaṃskāragatyoḥ⟩ — clear a road; go. | దారి శుభ్రపరచు, వెళ్ళు
+V 76 śulk | ⟨atisparśane⟩ — touch greatly. | తాకు
+V 77 chap | ⟨gatyām⟩ — go. | వెళ్ళు
+V 78 chap | ⟨kāntyām⟩ — shine. | ప్రకాశించు
+V 79 chaj | ⟨kṛcchrajīvane⟩ — live in hardship. | కష్టంగా బ్రతుకు
+V 80 vart | ⟨gatyām⟩ — go. | వెళ్ళు
+V 81 jñap | ⟨jñāne jñāpane⟩ — know; make known. | తెలుసుకొను, తెలియజేయు
+V 82 yam | ⟨pariveṣaṇe⟩ — serve (food). | వడ్డించు
+V 83 chap | ⟨parikalkane⟩ — deceive. | మోసగించు
+V 84 rah | ⟨tyāge⟩ — abandon. | విడుచు
+V 85 bal | ⟨prāṇane⟩ — breathe, live. | జీవించు
+V 86 ciñ | ⟨cayane⟩ — gather. | పోగుచేయు
+V 87 ghaṭṭ | ⟨saṃcalane⟩ — stir. | కదిలించు
+V 88 must | ⟨saṃghāte⟩ — gather. | పోగుచేయు
+V 89 khaṭṭ | ⟨saṃvaraṇe⟩ — cover. | కప్పు
+V 90 ṣaṭṭ, 91 sphiṭṭ | ⟨hiṃsāyām⟩ — hurt. | హింసించు
+V 92 cubi | ⟨hiṃsāyām⟩ — hurt. | హింసించు
+V 93 pus, vyuṣ | (read as in brackets; no meaning is stated here). | (అర్థం ఇక్కడ చెప్పబడలేదు)
+V 94 pūl | ⟨saṃghāte⟩ — gather. | పోగుచేయు
+V 95 puṃs | ⟨abhimardane⟩ — crush. | నలుపు
+V 96 vyay | ⟨kṣepe⟩ — spend, throw. | ఖర్చుచేయు
+V 97 ṭaki | ⟨bandhane⟩ — bind. | కట్టు
+V 98 dhūs | ⟨kāntīkaraṇe⟩ — make beautiful. | అందంగా చేయు
+V 99 koṭ | ⟨varṇe⟩ — colour. | రంగువేయు
+V 100 cūrṇ | ⟨saṅkocane⟩ — contract. | ముడుచుకొను
+V 101 pūj | ⟨pūjāyām⟩ — honour. | పూజించు
+V 102 arka | ⟨stavane⟩ — praise; heat. | స్తుతించు
+V 103 śaṭh | ⟨ālasye⟩ — be idle. | సోమరిగా ఉండు
+V 104 śuṭhi | ⟨śoṣaṇe⟩ — dry up. | ఎండిపోవు
+V 105 juḍ | ⟨preraṇe⟩ — impel. | ప్రేరేపించు
+V 106 gaj, 107 mārj | ⟨śabdārthau⟩ — sound. | ధ్వనించు
+@586
+V 108 ghṛ | ⟨prasravaṇe⟩ — flow. | ప్రవహించు
+V 109 pac | ⟨vistāravacane⟩ — speak at length. | విస్తారంగా చెప్పు
+V 110 tij | ⟨niśāne⟩ — sharpen. | పదునుపెట్టు
+V 111 kṛt | ⟨saṃśabdane⟩ — praise, name. | కీర్తించు
+V 112 vardh | ⟨chedanapūraṇayoḥ⟩ — cut; fill. | ఛేదించు, నింపు
+V 113 kubi | ⟨ācchādane⟩ — cover. | కప్పు
+V 114 lubi, 115 tubi | ⟨ardane⟩ — hurt. | హింసించు
+V 116 kṛp | ⟨vyaktāyāṃ vāci⟩ — speak clearly. | స్పష్టంగా పలుకు
+V 117 cuṭi | ⟨chedane⟩ — cut. | ఛేదించు
+V 118 maḍi, tuḍi | (in brackets: read by some, no meaning stated). | (కొందరు చదివేవి)
+V 119 iḍ | ⟨preraṇe⟩ — impel. | ప్రేరేపించు
+V 120 mac | ⟨bhakṣaṇe⟩ — eat. | తిను
+V 121 mleccha | ⟨avyaktāyāṃ vāci⟩ — speak indistinctly. | అస్పష్టంగా మాట్లాడు
+V 122 rus | ⟨hiṃsāyām⟩ — hurt. | హింసించు
+V 123 barh | ⟨hiṃsāyām⟩ — hurt. | హింసించు
+V 124 garj, gard | ⟨śabde⟩ — sound (in brackets). | ధ్వనించు
+V 125 gardh | ⟨abhikāṅkṣāyām⟩ — be greedy (in brackets). | ఆశపడు
+V 126 gurd | ⟨niketane⟩ — dwell. | నివసించు
+V 127 purv | ⟨niketane⟩ — dwell. | నివసించు
+V 128 jas | ⟨rakṣaṇe⟩ — protect. | రక్షించు
+V 129 īḍ | ⟨stutau⟩ — praise. | స్తుతించు
+V 130 jas | ⟨hiṃsāyām⟩ — hurt. | హింసించు
+V 131 piḍi | ⟨saṃghāte⟩ — gather. | పోగుచేయు
+V 132 ruṣ | ⟨roṣe⟩ — be angry. | కోపించు
+V 133 ḍip | ⟨kṣepe⟩ — throw. | విసరు
+V 134 stūp | ⟨samucchrāye⟩ — heap up. | పోగుచేయు
+¶ **B. ⟨ātmanepadinaḥ⟩**
+V 135 cit | ⟨saṃcetane⟩ — perceive. | గ్రహించు
+V 136 daś | ⟨daṃśane⟩ — bite. | కరచు
+V 137 dasi | ⟨darśanadaṃśanayoḥ⟩ — see; bite. | చూచు, కరచు
+V 138 ḍap, ḍip | ⟨saṃghāte⟩ — gather. | పోగుచేయు
+V 139 tantri | ⟨kuṭumbadhāraṇe⟩ — support a family. | కుటుంబాన్ని పోషించు
+V 140 mantri | ⟨guptabhāṣaṇe⟩ — speak secretly, counsel. | రహస్యంగా మాట్లాడు, మంత్రాలోచన చేయు
+V 141 spaś | ⟨grahaṇasaṃśleṣaṇayoḥ⟩ — take; clasp. | గ్రహించు, కౌగిలించు
+V 142 tarj, 143 bhartsa | ⟨tarjane⟩ — threaten. | బెదిరించు
+V 144 vast, 145 gandh | ⟨ardane⟩ — hurt; (also) ask. | హింసించు
+V 146 kṣipa | ⟨hiṃsāyām⟩ — hurt. | హింసించు
+V 147 niṣka | ⟨parimāṇe⟩ — measure. | కొలుచు
+V 148 lal | ⟨īpsāyām⟩ — desire. | కోరు
+V 149 kūṇ | ⟨saṅkoce⟩ — contract. | ముడుచుకొను
+V 150 tūṇ | ⟨pūraṇe⟩ — fill. | నింపు
+V 151 bhūṇ | ⟨āśāviśaṅkayoḥ⟩ — hope; doubt. | ఆశించు, శంకించు
+V 152 śaṭh | ⟨ślāghāyām⟩ — praise. | పొగడు
+V 153 yat | ⟨pūjāyām⟩ — honour. | పూజించు
+V 154 syam | ⟨vitarke⟩ — consider. | ఆలోచించు
+V 155 gūr | ⟨udyamane⟩ — exert; (also) eat. | ప్రయత్నించు
+V 156 śam, 157 lakṣ | ⟨ālocane⟩ — look at. | పరిశీలించు
+V 158 kutsa | ⟨avakṣepaṇe⟩ — blame. | నిందించు
+V 159 truṭ | ⟨chedane⟩ — cut. | ఛేదించు
+V 160 gal | ⟨sravaṇe⟩ — flow. | కారు
+V 161 bhal | ⟨ābhaṇḍane⟩ — (examine). | పరిశీలించు
+V 162 kūṭ | ⟨apradāne⟩ — burn; (also) not give. | కాల్చు
+V 163 vañcu | ⟨pralambhane⟩ — deceive. | మోసగించు
+V 164 vṛṣ | ⟨śaktibandhane⟩ — be strong; bind. | బలపడు
+V 165 mad | ⟨tṛptiyoge⟩ — be satisfied. | తృప్తిపడు
+V 166 divu | ⟨parikūjane⟩ — lament. | విలపించు
+V 167 gṝ | ⟨vijñāne⟩ — know. | తెలుసుకొను
+V 168 vid | ⟨cetanākhyānaniveśeṣu⟩ — perceive; tell; dwell. | గ్రహించు, చెప్పు, నివసించు
+V 169 man | ⟨stambhe⟩ — stop. | ఆపు
+V 170 yu | ⟨jugupsāyām⟩ — loathe. | అసహ్యించుకొను
+V 171 kusma | ⟨kutsitasmayane nāmno vā⟩ — smile contemptuously (also denominative). | ఎగతాళిగా నవ్వు
+¶ **C. ⟨parasmaipadinaḥ⟩**
+V 172 carc | ⟨adhyayane⟩ — study. | అధ్యయనం చేయు
+V 173 bukk | ⟨bhāṣaṇe⟩ — bark, speak. | మొరుగు
+V 174 śabda | ⟨upasargād āviṣkāre ca⟩ — sound; (with a preposition) make known. | ధ్వనించు, తెలియజేయు
+V 175 kaṇ | ⟨nimīlane⟩ — close the eyes. | కన్ను మూయు
+V 176 jabhi | ⟨nāśane⟩ — destroy. | నశింపజేయు
+V 177 sūd | ⟨caraṇe⟩ — go; flow. | కారు
+V 178 jasu | ⟨tāḍane⟩ — strike. | కొట్టు
+V 179 paś | ⟨bandhane⟩ — bind. | కట్టు
+V 180 am | ⟨roge⟩ — be ill. | రోగపడు
+V 181 caṭ, 182 sphuṭ | ⟨bhedane⟩ — split. | చీల్చు
+V 183 ghaṭ | ⟨saṃghāte⟩ — gather. | పోగుచేయు
+V 184 hanty-arthāś ca | ⟨hantyarthāḥ⟩ — (and all roots with the meaning of han ‘kill’). | (‘చంపు’ అర్థంగల ధాతువులన్నీ)
+V 185 divu | ⟨ardane⟩ — hurt. | హింసించు
+V 186 ṛj | ⟨pratiyatne⟩ — exert in return. | ప్రయత్నించు
+V 187 ghuṣir | ⟨viśabdane⟩ — proclaim. | ప్రకటించు
+V 188 krand (after ā) | ⟨sātatye⟩ — weep continuously. | ఎడతెగకుండా ఏడ్చు
+V 189 las | ⟨śilpayoge⟩ — practise an art. | కళలో నిమగ్నమగు
+V 190 taṃs, bhūṣ | ⟨alaṃkāre⟩ — adorn. | అలంకరించు
+V 191 moc | ⟨asane⟩ — throw. | విసరు
+V 192 arh | ⟨pūjāyām⟩ — honour. | పూజించు

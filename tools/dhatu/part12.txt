@@ -1,0 +1,149 @@
+# Böhtlingk, Pāṇini's Grammatik (1887), Dhātupāṭha pp. 82*–83* = leaves n587–n588. Class 10, roots 193–388.
+% Class 10, curādi: roots 193–388 (p. 82*–83*)
+! See part 1 for the conventions. Böhtlingk’s remarks (which of these roots belong to class 10 only when used with an accusative; which are unmarked by the accent; which are missing in some authorities) are not given. Roots 389–395 are on p. 84* (part 13).
+@587
+V 193 jñā | ⟨niyoge⟩ — enjoin, appoint. | నియమించు
+V 194 bhaj | ⟨viśrāṇane⟩ — give. | ఇచ్చు
+V 195 gṛdhu | ⟨prahasane⟩ — mock, laugh at. | ఎగతాళి చేయు
+V 196 yat | ⟨nikāropaskārayoḥ⟩ — repay an injury; assist. | ప్రతీకారం చేయు, సహాయం చేయు
+V 197 rak, lag | ⟨āsvādane⟩ — taste. | రుచి చూచు
+V 198 añcu | ⟨viśeṣaṇe⟩ — distinguish. | విశేషించు
+V 199 ligi | ⟨citrīkaraṇe⟩ — paint, variegate. | చిత్రించు
+V 200 mud | ⟨saṃsarge⟩ — mix. | కలుపు
+V 201 tras | ⟨dhāraṇe⟩ — hold. | ధరించు
+V 202 udhras | ⟨uñche⟩ — glean. | ఏరుకొను
+V 203 muc | ⟨pramocane modane ca⟩ — free; rejoice. | విడిపించు, సంతోషించు
+V 204 vas | ⟨snehacchedāpaharaṇeṣu⟩ — be fond; cut; take away. | స్నేహించు, ఛేదించు, హరించు
+V 205 car | ⟨saṃśaye⟩ — doubt. | సందేహించు
+V 206 cyu | ⟨hasane⟩ — laugh. | నవ్వు
+V 207 bhū | ⟨avakalkane⟩ — deceive. | మోసగించు
+V 208 rūpeś ca | — (and ⟨rūp⟩: shape). | రూపమిచ్చు
+V 209 gras | ⟨grahaṇe⟩ — seize. | పట్టుకొను
+V 210 puṣ | ⟨dhāraṇe⟩ — hold. | ధరించు
+V 211 dal | ⟨vidāraṇe⟩ — split. | చీల్చు
+V 212 paṭ, 213 puṭ, 214 luṭ, 215 tuji, 216 miji, 217 piji, 218 luji, 219 bhaji, 220 laghi, 221 trasi, 222 pisi, 223 kusi, 224 daśi, 225 kuśi, 226 ghaṭ, 227 ghaṭi, 228 bṛhi, 229 barh, 230 balh, 231 gup, 232 dhūp, 233 vich, 234 cīv, 235 puth, 236 lok, 237 loc, 238 gād, 239 kup, 240 tark, 241 vṛt, 242 vṛdhu | ⟨bhāṣārthāḥ⟩ — speak (these roots are of class 10 only when used with an accusative). | మాట్లాడు
+V 243 ruṭ, 244 laji, 245 aji, 246 dasi, 247 bhṛś, 248 ruś, 249 śok, 250 naṭ, 251 puṭi, 252 juci, 253 raghi, 254 laghi, 255 ahi, 256 rahi, 257 mahi | ⟨bhāṣārthāḥ⟩ — speak. | మాట్లాడు
+V 258 laḍi, 259 taḍ, 260 nal | ⟨bhāṣārthāḥ⟩ — speak. | మాట్లాడు
+V 261 pūrī | ⟨āpyāyane⟩ — fill, swell. | నింపు
+V 262 ruj | ⟨hiṃsāyām⟩ — hurt. | హింసించు
+V 263 svad | ⟨āsvādane⟩ — taste. | రుచి చూచు
+¶ **D.** roots which do not necessarily take the class-10 character
+V 264 yuj, 265 pṛc | ⟨saṃyamane⟩ — restrain. | నిగ్రహించు
+V 266 arc | ⟨pūjāyām⟩ — honour. | పూజించు
+V 267 ṣah | ⟨marṣaṇe⟩ — endure. | సహించు
+V 268 īr | ⟨kṣepe⟩ — throw. | విసరు
+V 269 lī | ⟨dravīkaraṇe⟩ — melt. | కరిగించు
+V 270 vṛjī | ⟨varjane⟩ — avoid. | విడుచు
+V 271 vṛñ | ⟨āvaraṇe⟩ — cover. | కప్పు
+V 272 jṝ | ⟨vayohānau⟩ — grow old. | ముసలివాడగు
+V 273 ric | ⟨viyojanasaṃpacanayoḥ⟩ — separate; mix. | వేరుచేయు, కలుపు
+V 274 śiṣ | ⟨asarvopayoge⟩ — leave over. | మిగిలించు
+V 275 tap | ⟨dāhe⟩ — burn. | కాల్చు
+V 276 tṛp | ⟨tṛptau⟩ — satisfy. | తృప్తిపరచు
+V 277 dṛmph | ⟨saṃdīpane⟩ — kindle. | మండించు
+V 278 dṛbhī | ⟨bhaye⟩ — fear. | భయపడు
+V 279 dṛbh | ⟨saṃdarbhe⟩ — string together. | కూర్చు
+V 280 granth | ⟨mocane⟩ — loosen. | విప్పు
+V 281 mṝ | ⟨gatau⟩ — go. | వెళ్ళు
+V 282 grath | ⟨bandhane⟩ — bind. | కట్టు
+V 283 śok | ⟨āmarṣaṇe⟩ — bear patiently. | సహించు
+V 284 cok | ⟨ca⟩ — also. | (అలాగే)
+V 285 ard | ⟨hiṃsāyām⟩ — hurt. | హింసించు
+V 286 hisi | ⟨hiṃsāyām⟩ — hurt. | హింసించు
+V 287 arh | ⟨pūjāyām⟩ — honour. | పూజించు
+V 288 pad (after ā-ṅ) | ⟨padārthe⟩ — go. | వెళ్ళు
+V 289 śundh | ⟨śaucakarmaṇi⟩ — purify. | శుద్ధి చేయు
+V 290 chad | ⟨apavāraṇe⟩ — cover. | కప్పు
+V 291 jus | ⟨paritarkaṇe⟩ — consider. | ఆలోచించు
+V 292 dhūñ | ⟨kampane⟩ — shake. | ఊపు
+V 293 prīñ | ⟨tarpaṇe⟩ — please. | సంతోషపరచు
+V 294 granth | ⟨saṃdarbhe⟩ — string together. | కూర్చు
+V 295 āp | ⟨lambhane⟩ — obtain. | పొందు
+V 296 tan | ⟨śraddhopakaraṇayoḥ⟩ — trust; help. | నమ్ము, సహాయం చేయు
+V 297 vad | ⟨saṃdeśavacane⟩ — send a message. | సందేశం చెప్పు
+V 298 vac | ⟨paribhāṣaṇe⟩ — speak. | పలుకు
+V 299 mān | ⟨pūjāyām⟩ — honour. | గౌరవించు
+V 300 bhū | ⟨prāptāv ātmanepadī⟩ — obtain. | పొందు
+V 301 garh | ⟨vinindane⟩ — blame. | నిందించు
+V 302 mārg | ⟨anveṣaṇe⟩ — seek. | వెదకు
+V 303 kaṭh | ⟨śoke⟩ — grieve. | దుఃఖించు
+V 304 mṛjū | ⟨śaucālaṃkārayoḥ⟩ — cleanse; adorn. | కడుగు, అలంకరించు
+V 305 mṛṣ | ⟨titikṣāyām⟩ — bear patiently. | సహించు
+V 306 dhṛṣ | ⟨prasahane⟩ — be bold, overpower. | ధైర్యం చూపు
+@588
+¶ **E.** roots ending in *a* (this *a* falls away before the class-10 character) — *a)* ⟨parasmaipadinaḥ⟩
+V 307 kath | ⟨vākyabandhe⟩ — tell, narrate. | చెప్పు
+V 308 var | ⟨īpsāyām⟩ — wish. | కోరు
+V 309 gaṇa | ⟨saṃkhyāne⟩ — count. | లెక్కించు
+V 310 śaṭh, śvaṭh | ⟨samyagavabhāṣaṇe⟩ — speak well. | చక్కగా మాట్లాడు
+V 311 paṭ, vaṭ | ⟨granthe⟩ — string, compose. | కూర్చు
+V 312 rah | ⟨tyāge⟩ — abandon. | విడుచు
+V 313 stana, 314 gada | ⟨devaśabde⟩ — thunder. | ఉరుము
+V 315 pata | ⟨gatau vā⟩ — go (or not). | వెళ్ళు
+V 316 paś | ⟨anupasargāt⟩ — go (without a preposition). | వెళ్ళు
+V 317 svar | ⟨ākṣepe⟩ — censure. | నిందించు
+V 318 raca | ⟨pratiyatne⟩ — prepare, arrange. | సిద్ధపరచు
+V 319 kal | ⟨gatau saṃkhyāne ca⟩ — go; count. | వెళ్ళు, లెక్కించు
+V 320 caha | ⟨parikalkane⟩ — deceive. | మోసగించు
+V 321 mah | ⟨pūjāyām⟩ — honour. | పూజించు
+V 322 sār, 323 kṛp, 324 śrath | ⟨daurbalye⟩ — be weak. | బలహీనమగు
+V 325 spṛh | ⟨īpsāyām⟩ — long for. | ఆశించు
+V 326 bhām | ⟨krodhe⟩ — be angry. | కోపించు
+V 327 sūc | ⟨paiśunye⟩ — inform, indicate. | సూచించు
+V 328 kheṭ | ⟨bhakṣaṇe⟩ — eat. | తిను
+V 329 coṭ | ⟨kṣepe⟩ — throw. | విసరు
+V 330 gom | ⟨upalepane⟩ — smear. | పూయు
+V 331 kumār | ⟨krīḍāyām⟩ — play. | ఆడు
+V 332 śīl | ⟨upadhāraṇe⟩ — practise, consider. | అభ్యసించు
+V 333 sām | ⟨sāntvaprayoge⟩ — console. | ఓదార్చు
+V 334 vel | ⟨kālopadeśe⟩ — mark time. | కాలం సూచించు
+V 335 pallūl | ⟨lavanapavanayoḥ⟩ — cut; purify. | కోయు, శుద్ధిచేయు
+V 336 vāt | ⟨sukhasevanayoḥ⟩ — be happy; serve. | సుఖపడు, సేవించు
+V 337 gaveṣ | ⟨mārgaṇe⟩ — seek. | వెదకు
+V 338 vās | ⟨upasevāyām⟩ — perfume; serve. | సేవించు
+V 339 nivās | ⟨ācchādane⟩ — cover. | కప్పు
+V 340 bhāj | ⟨pṛthakkarmaṇi⟩ — separate. | వేరుచేయు
+V 341 sabhāj | ⟨prītidarśanayoḥ⟩ — please; honour. | సంతోషపరచు, గౌరవించు
+V 342 ūn | ⟨parihāṇau⟩ — diminish. | తగ్గు
+V 343 dhvan | ⟨śabde⟩ — sound. | ధ్వనించు
+V 344 kūṭ | ⟨paritāpe⟩ — burn. | కాల్చు
+V 345 saṃket, 346 grām, 347 kuṇ, guṇ | ⟨āmantraṇe⟩ — invite, call. | ఆహ్వానించు
+V 348 kūṇ | ⟨saṅkocane⟩ — contract. | ముడుచుకొను
+V 349 stena | ⟨caurye⟩ — steal. | దొంగిలించు
+¶ *b)* ⟨ātmanepadinaḥ⟩
+V 350 pad | ⟨gatau⟩ — go. | వెళ్ళు
+V 351 gṛh | ⟨grahaṇe⟩ — take. | గ్రహించు
+V 352 mṛg | ⟨anveṣaṇe⟩ — seek. | వెదకు
+V 353 kuhi | ⟨vismāpane⟩ — astonish. | ఆశ్చర్యపరచు
+V 354 śūra, 355 vīra | ⟨vikrāntau⟩ — be valiant. | పరాక్రమించు
+V 356 sthūla | ⟨paribṛṃhaṇe⟩ — be stout, grow. | లావెక్కు
+V 357 artha | ⟨upayācñāyām⟩ — ask for. | అర్థించు
+V 358 satra | ⟨saṃtānakriyāyām⟩ — continue. | కొనసాగించు
+V 359 garva | ⟨māne⟩ — be proud. | గర్వించు
+¶ *c)* (denominatives and others)
+V 360 sūtra | ⟨veṣṭane⟩ — wind round. | చుట్టు
+V 361 mūtra | ⟨prasravaṇe⟩ — pass urine. | మూత్రం విడుచు
+V 362 rūkṣa | ⟨pāruṣye⟩ — be rough. | కరకుగా ఉండు
+V 363 pāra, 364 tīra | ⟨karmasamāptau⟩ — finish a work. | పని ముగించు
+V 365 puṭa | ⟨saṃsarge⟩ — touch; wrap. | కలుపు
+V 366 dheka | ⟨darśane⟩ — see. | చూచు
+V 367 katra | ⟨śaithilye⟩ — be loose. | సడలు
+V 368 prātipadikād dhātvarthe bahulam iṣṭhavac ca | — (from a noun-stem, in the sense of a root, variously). | నామశబ్దం నుండి ధాతువు
+V 369 vaska | ⟨darśane⟩ — see. | చూచు
+V 370 citra | ⟨citrīkaraṇe⟩ — paint, depict. | చిత్రించు
+V 371 aṃsa | ⟨samāghāte⟩ — divide, share. | పంచు
+V 372 vaṭa | ⟨vibhājane⟩ — divide. | విభజించు
+V 373 raṭa | ⟨paribhāṣaṇe⟩ — speak. | మాట్లాడు
+V 374 laja | ⟨prakāśane⟩ — display. | ప్రకాశపరచు
+V 375 miśra | ⟨saṃparke⟩ — mix. | కలుపు
+V 376 saṃgrāma | ⟨yuddhe⟩ — fight. | యుద్ధం చేయు
+V 377 stoma | ⟨ślāghāyām⟩ — praise. | పొగడు
+V 378 chidra, 379 karṇa | ⟨bhedane⟩ — pierce, bore. | రంధ్రం చేయు
+V 380 andha | ⟨dṛṣṭyupaghāte⟩ — blind. | గుడ్డివాడిని చేయు
+V 381 daṇḍa | ⟨daṇḍanipātane⟩ — punish. | దండించు
+V 382 aṅka | ⟨pade lakṣaṇe ca⟩ — mark, brand. | గుర్తుపెట్టు
+V 383 sukha, 384 duḥkha | ⟨tatkriyāyām⟩ — make happy; make unhappy. | సుఖపెట్టు, దుఃఖపెట్టు
+V 385 rasa | ⟨āsvādanasnehanayoḥ⟩ — taste; love. | రుచి చూచు, స్నేహించు
+V 386 vyaya | ⟨vittasamutsarge⟩ — spend money. | ధనం ఖర్చుచేయు
+V 387 rūpa | ⟨rūpakriyāyām⟩ — form, depict. | రూపుదిద్దు
+V 388 cheda | ⟨dvidhākaraṇe⟩ — cut in two (and ⟨chad⟩ ⟨apavāraṇe⟩ ‘cover’ is added). | ఛేదించు

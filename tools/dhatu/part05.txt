@@ -1,0 +1,152 @@
+# Böhtlingk, Pāṇini's Grammatik (1887), Dhātupāṭha pp. 68*–69* = leaves n573–n574. Class 1, roots 853–1017.
+% Class 1, bhvādi: roots 853–1017 (p. 68*–69*)
+! See part 1 for the conventions. Böhtlingk’s remarks on the lettering and on the inclusion of single roots in the sub-groups (for example that roots 869–871 are not marked mit although they end in m) are not given. The group headings are Pāṇini’s technical names and are given as printed.
+@573
+V 853 madī | ⟨harṣaglepanayoḥ⟩ — rejoice; be weary. | సంతోషించు, అలసిపోవు
+V 854 dhvan, 855 raṇ | ⟨śabde⟩ — sound. | ధ్వనించు
+V 856 dali, 857 vali, 858 skhali, 859 rapi | ⟨gatyarthāḥ⟩ — go (the group closes with the following remarks). | వెళ్ళు
+V 862 janī | ⟨prādurbhāve⟩ — be born, arise. | పుట్టు
+V 863 jṛṣ, 864 ṭhṛsu | ⟨vayohānau⟩ — grow old, decay. | ముసలివాడగు, క్షీణించు
+V 865 rañjo | ⟨rāge⟩ — be dyed, glow, love. | రంగు పట్టు, అనురక్తుడగు
+V 867 jval, hval, hmal, nam | ⟨(without a preposition)⟩ — (these are marked mit when no preposition is used). | (ఉపసర్గ లేనప్పుడు)
+V 870 śamo | ⟨darśane⟩ — see. | చూచు
+V 871 yamo | ⟨aparivesaṇe⟩ — (of serving food). | వడ్డించు
+V 872 skhadir | ⟨avaparābhyāṃ ca⟩ — (with ava or parā) cut. | నరుకు
+V 873 phaṇ | ⟨gatau⟩ — go. | వెళ్ళు
+¶ *u)* ⟨phaṇādayaḥ⟩
+V 874 rāj | ⟨dīptau⟩ — shine. | ప్రకాశించు
+V 875 ṭubhrāj, 876 ṭubhrāś, 877 ṭubhlāś | ⟨dīptau⟩ — shine. | ప్రకాశించు
+V 878 syamu, 879 svan | ⟨śabde⟩ — sound. | ధ్వనించు
+V 880 ṣṭan | ⟨śabde⟩ — sound. | ధ్వనించు
+V 881 dhvan | ⟨śabde⟩ — sound. | ధ్వనించు
+V 882 ṣam, 883 ṣṭam | ⟨avaiklavye⟩ — be steady. | నిలకడగా ఉండు
+¶ *v)* ⟨jvalādayaḥ⟩ — *α.* ⟨udāttā udāttetaḥ⟩
+V 884 jval | ⟨dīptau⟩ — blaze. | మండు
+V 885 cal | ⟨kampane⟩ — tremble, move. | కదలు
+V 886 jal | ⟨ghātane⟩ — strike (grain). | కొట్టు
+V 887 ṭal, 888 ṭval | ⟨vaiklavye⟩ — be bewildered. | కలత చెందు
+V 889 ṣṭhal | ⟨sthāne⟩ — stand. | నిలుచు
+V 890 hal | ⟨vilekhane⟩ — plough, scratch. | దున్ను, గీయు
+V 891 ṇal | ⟨gandhe⟩ — smell. | వాసన వచ్చు
+V 892 pal | ⟨gatau⟩ — go. | వెళ్ళు
+V 893 bal | ⟨prāṇane dhānyāvarodhe ca⟩ — live; store grain. | బ్రతుకు, ధాన్యం నిల్వచేయు
+V 894 pul | ⟨mahattve⟩ — be great. | గొప్పగా ఉండు
+V 895 kul | ⟨saṃstyāne bandhuṣu ca⟩ — heap up; (be among) kinsmen. | పోగుపడు
+V 896 śal, 897 hul | ⟨hiṃsāsaṃvaraṇayoś ca⟩ — hurt; cover. | హింసించు, కప్పు
+V 898 paṭ | ⟨gatau⟩ — go. | వెళ్ళు
+V 899 kvathe | ⟨niṣpāke⟩ — boil, cook through. | ఉడుకు
+V 900 pathe | ⟨gatau⟩ — go. | వెళ్ళు
+V 901 mathe | ⟨viloḍane⟩ — churn. | చిలుకు
+V 902 ṭuvam | ⟨udgiraṇe⟩ — vomit. | వాంతి చేయు
+V 903 bhramu | ⟨calane⟩ — wander, whirl. | తిరుగు
+V 904 cara | ⟨saṃcalane⟩ — move about. | సంచరించు
+¶ *β.* ⟨udātto 'nudāttet⟩
+V 905 ṣah | ⟨marṣaṇe⟩ — endure. | సహించు
+¶ *γ.* ⟨anudātto 'nudāttet⟩
+V 906 ramu | ⟨krīḍāyām⟩ — play, delight. | ఆడు, రమించు
+¶ *δ.* ⟨anudāttā udāttetaḥ⟩
+V 907 sad | ⟨viśaraṇagatyavasādaneṣu⟩ — sink; go; perish. | కుంగు, వెళ్ళు, నశించు
+V 908 śad | ⟨śātane⟩ — fall off, cut down. | రాలు, నరుకు
+V 909 kruś | ⟨āhvāne rodane ca⟩ — call; cry. | పిలుచు, ఏడ్చు
+¶ *ε.* ⟨udāttāv udāttetau⟩
+V 910 kuc | ⟨saṃparcanakauṭilyapratiṣṭambhavilekhaneṣu⟩ — mix; be crooked; prop; scratch. | కలుపు, వంకరగా ఉండు, ఆపు, గీయు
+V 911 budh | ⟨avagamane⟩ — understand. | అర్థం చేసుకొను
+¶ *ζ.* ⟨anudātta udāttet⟩
+V 912 ruh | ⟨bījajanmani prādurbhāve ca⟩ — sprout, grow. | మొలకెత్తు, పెరుగు
+¶ *η.* ⟨udātta udāttet⟩
+V 913 kas | ⟨gatau⟩ — go. | వెళ్ళు
+¶ *w)* ⟨svaritetaḥ⟩ — *α.* ⟨halantāḥ⟩
+V 914 hikk | ⟨avyakte śabde⟩ — hiccup, make an indistinct sound. | వెక్కిళ్ళు పెట్టు
+V 915 añcu | ⟨gatau yācane ca⟩ — go; beg. | వెళ్ళు, యాచించు
+V 916 ṭuyāc | ⟨yācñāyām⟩ — beg. | యాచించు
+V 917 reṭ | ⟨paribhāṣaṇe⟩ — speak. | మాట్లాడు
+V 918 cate | ⟨yācane⟩ — beg. | యాచించు
+V 919 proth | ⟨paryāptau⟩ — be enough. | సరిపోవు
+V 920 midhṛ, medhṛ | ⟨medhāhiṃsayoḥ⟩ — understand; hurt; (also) join. | గ్రహించు, హింసించు, కలుపు
+@574
+V 921 ṇidṛ | ⟨kutsāsaṃnikarṣayoḥ⟩ — blame; be near. | నిందించు, సమీపించు
+V 922 śṛdhu, 923 mṛdhu | ⟨undane⟩ — be wet. | తడియగు
+V 924 budhir | ⟨bodhane⟩ — wake, perceive. | మేల్కొను, తెలుసుకొను
+V 925 ubundir | ⟨niśāmane⟩ — look at. | చూచు
+V 926 veṇṛ | ⟨gatijñānacintānniśāmanavāditragrahaṇeṣu⟩ — go; know; think; see; play an instrument. | వెళ్ళు, తెలుసుకొను, ఆలోచించు, చూచు, వాయించు
+V 927 khanu | ⟨avadāraṇe⟩ — dig. | త్రవ్వు
+V 928 cīvṛ | ⟨ādānasaṃvaraṇayoḥ⟩ — take; cover. | తీసుకొను, కప్పు
+V 929 cāyṛ | ⟨pūjāniśāmanayoḥ⟩ — honour; observe. | పూజించు, గమనించు
+V 930 vyay | ⟨gatau⟩ — go. | వెళ్ళు
+V 931 dāśṛ | ⟨dāne⟩ — give. | ఇచ్చు
+V 932 bheṣṛ | ⟨bhaye⟩ — fear. | భయపడు
+V 933 bhreṣṛ | ⟨gatau⟩ — go. | వెళ్ళు
+V 934 asa | ⟨gatidīptyādāneṣu⟩ — go; shine; take. | వెళ్ళు, ప్రకాశించు, తీసుకొను
+V 935 aya | ⟨gatau⟩ — go. | వెళ్ళు
+V 936 spaś | ⟨bādhanasparśanayoḥ⟩ — hinder; touch. | అడ్డగించు, తాకు
+V 937 laṣ | ⟨kāntau⟩ — desire. | కోరు
+V 938 caṣ | ⟨bhakṣaṇe⟩ — eat. | తిను
+V 939 chaṣ | ⟨hiṃsāyām⟩ — hurt. | హింసించు
+V 940 jhaṣ | ⟨ādānasaṃvaraṇayoḥ⟩ — take; cover. | తీసుకొను, కప్పు
+V 941 bhakṣ | ⟨adane⟩ — eat. | తిను
+V 942 dās | ⟨dāne⟩ — give. | ఇచ్చు
+V 943 māhū | ⟨māne⟩ — measure. | కొలుచు
+V 944 guhū | ⟨saṃvaraṇe⟩ — hide. | దాచు
+¶ *β.* ⟨ajantāḥ⟩
+V 945 śriñ | ⟨sevāyām⟩ — serve; resort to. | సేవించు, ఆశ్రయించు
+¶ **B. ⟨anudāttāḥ⟩** — *a)* ⟨ajantāḥ⟩ — *α.* ⟨svaritetaḥ⟩
+V 946 bhṛñ | ⟨bharaṇe⟩ — bear, support. | భరించు
+V 947 hṛñ | ⟨haraṇe⟩ — take away. | హరించు
+V 948 dhṛñ | ⟨dhāraṇe⟩ — hold. | ధరించు
+V 949 kṛñ | ⟨karaṇe⟩ — do. | చేయు
+V 950 ṇīñ | ⟨prāpaṇe⟩ — lead, carry. | నడిపించు, చేర్చు
+¶ *β.* ⟨parasmaipadinaḥ⟩
+V 951 dhet | ⟨pāne⟩ — drink (a child). | త్రాగు
+V 952 glai | ⟨harṣakṣaye⟩ — be weary. | అలసిపోవు
+V 953 mlai | ⟨gātravināme⟩ — fade, droop. | వాడిపోవు
+V 954 dyai | ⟨nyakkaraṇe⟩ — despise. | తిరస్కరించు
+V 955 drai | ⟨svapne⟩ — sleep. | నిద్రించు
+V 956 dhrai | ⟨tṛptau⟩ — be satisfied. | తృప్తిపడు
+V 957 dhyai | ⟨cintāyām⟩ — think, meditate. | ధ్యానించు
+V 958 rai | ⟨śabde⟩ — sound. | ధ్వనించు
+V 959 styai, ṣṭyai | ⟨śabdasaṃghātayoḥ⟩ — sound; gather. | ధ్వనించు, పోగుచేయు
+V 960 khai | ⟨khadane⟩ — dig. | త్రవ్వు
+V 961 kṣai, 962 jai, 963 ṣai | ⟨kṣaye⟩ — decay, waste. | క్షీణించు
+V 964 kai, 965 gai | ⟨śabde⟩ — sound, sing. | ధ్వనించు, పాడు
+V 966 śrai, 967 śrai | ⟨pāke⟩ — cook. | వండు
+V 968 pai, 969 ovai | ⟨śoṣaṇe⟩ — dry up. | ఎండిపోవు
+V 970 ṣṇai | ⟨veṣṭane⟩ — wrap; (also) adorn. | చుట్టు
+V 971 dep | ⟨śodhane⟩ — cleanse. | శుద్ధిచేయు
+V 972 pā | ⟨pāne⟩ — drink. | త్రాగు
+V 973 ghrā | ⟨gandhopādāne⟩ — smell. | వాసన చూచు
+V 974 dhmā | ⟨śabdāgnisaṃyogayoḥ⟩ — blow; kindle. | ఊదు, మండించు
+V 975 ṣṭhā | ⟨gatinivṛttau⟩ — stand, stop. | నిలుచు
+V 976 mnā | ⟨abhyāse⟩ — repeat, study. | అభ్యసించు
+V 977 dāṇ | ⟨dāne⟩ — give. | ఇచ్చు
+V 978 hvṛ | ⟨kauṭilye⟩ — be crooked. | వంకరగా ఉండు
+V 979 svṛ | ⟨śabdopatāpayoḥ⟩ — sound; burn. | ధ్వనించు, తపించు
+V 980 smṛ | ⟨cintāyām⟩ — remember. | స్మరించు
+V 981 dṝ | ⟨varaṇe⟩ — choose. | ఎంచుకొను
+V 982 sṛ | ⟨gatau⟩ — go. | వెళ్ళు
+V 983 ṛ | ⟨gatiprāpaṇayoḥ⟩ — go; reach. | వెళ్ళు, చేరు
+V 984 gṝ, 985 ghṛ | ⟨secane⟩ — sprinkle. | చిలుకరించు
+V 986 dhvṝ | ⟨hūrchane⟩ — bend. | వంగు
+V 987 sru | ⟨gatau⟩ — flow, go. | ప్రవహించు
+V 988 ṣu | ⟨prasavaiśvaryayoḥ⟩ — beget; rule. | ప్రసవించు, ఏలు
+V 989 śru | ⟨śravaṇe⟩ — hear. | వినిపించు, వినుట
+V 990 dhru | ⟨sthairye⟩ — be firm. | స్థిరంగా ఉండు
+V 991 dru, 992 dru | ⟨gatau⟩ — run. | పరుగెత్తు
+V 993 ji, 994 jri | ⟨abhibhave⟩ — overcome. | అధిగమించు
+V 995 ju | ⟨(sautradhātuḥ; gatyarthaḥ)⟩ — go (a root of the sūtras; said to mean speed). | వెళ్ళు
+¶ *γ.* ⟨ātmanepadinaḥ⟩
+V 996 ṣmiṅ | ⟨īṣaddhasane⟩ — smile. | చిరునవ్వు నవ్వు
+V 997 guṅ | ⟨avyakte śabde⟩ — make an indistinct sound. | అస్పష్టంగా ధ్వనించు
+V 998 gāṅ | ⟨gatau⟩ — go. | వెళ్ళు
+V 999 kuṅ, 1000 ghuṅ, 1001 uṅ, 1002 ḍuṅ, 1003 khuṅ | ⟨śabde⟩ — sound. | ధ్వనించు
+V 1004 cyuṅ, 1005 jyuṅ, 1006 pruṅ, 1007 pluṅ | ⟨gatau⟩ — go. | వెళ్ళు
+V 1008 ruṅ | ⟨gatireṣaṇayoḥ⟩ — go; seek. | వెళ్ళు, వెదకు
+V 1009 dhuṅ | ⟨avadhvaṃsane⟩ — fall down. | క్రిందపడు
+V 1010 meṅ | ⟨praṇidāne⟩ — exchange. | మార్చుకొను
+V 1011 deṅ | ⟨rakṣaṇe⟩ — protect. | రక్షించు
+V 1012 śyeṅ | ⟨gatau⟩ — go. | వెళ్ళు
+V 1013 pyeṅ | ⟨vṛddhau⟩ — grow. | పెరుగు
+V 1014 traiṅ | ⟨pālane⟩ — protect. | రక్షించు
+¶ *δ.* ⟨udāttā ātmanepadinaḥ⟩
+V 1015 pūṅ | ⟨pavane⟩ — purify. | శుద్ధిచేయు
+V 1016 mūṅ | ⟨bandhane⟩ — bind. | కట్టు
+V 1017 ḍīṅ | ⟨vihāyasā gatau⟩ — fly. | ఎగురు

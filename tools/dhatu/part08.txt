@@ -1,0 +1,136 @@
+# Böhtlingk, Pāṇini's Grammatik (1887), Dhātupāṭha pp. 74*–75* = leaves n579–n580. Class 4, roots 73–137 (end); class 5, roots 1–34 (all); class 6, roots 1–30.
+% Class 4 to its end (73–137), Class 5, svādi (1–34) and Class 6, tudādi (1–30) (p. 74*–75*)
+! See part 1 for the conventions. Each class begins its numbering again at 1. Böhtlingk’s remarks on single roots are not given. Root 137 (mṛg) is printed in brackets as a later addition.
+@579
+¶ **F. ⟨puṣādayaḥ⟩** (class 4 continued) — *a)* ⟨anudāttāḥ⟩
+V 73 puṣ | ⟨puṣṭau⟩ — thrive. | పుష్టి కలుగు
+V 74 śuṣ | ⟨śoṣaṇe⟩ — dry up. | ఎండిపోవు
+V 75 tuṣ | ⟨prītau⟩ — be pleased. | సంతోషించు
+V 76 duṣ | ⟨vaikṛtye⟩ — be spoiled, corrupt. | చెడిపోవు
+V 77 śliṣ | ⟨āliṅgane⟩ — embrace. | కౌగిలించు
+V 78 śak | ⟨vibhāṣito marṣaṇe⟩ — be able (also treated in classes 4 and 5); endure. | సమర్థుడగు, సహించు
+V 79 ñiṣvidā | ⟨gātrapracaraṇe⟩ — sweat. | చెమటపట్టు
+V 80 krudh | ⟨kope⟩ — be angry. | కోపించు
+V 81 kṣudh | ⟨bubhukṣāyām⟩ — be hungry. | ఆకలిగొను
+V 82 śudh | ⟨śauce⟩ — be pure. | శుద్ధమగు
+V 83 siddh | ⟨saṃrāddhau⟩ — succeed, be accomplished. | సిద్ధించు
+¶ *b)* ⟨radhādayaḥ⟩
+V 84 radh | ⟨hiṃsāsaṃrāddhyoḥ⟩ — hurt; be accomplished. | హింసించు, సిద్ధించు
+V 85 naś | ⟨adarśane⟩ — perish, vanish. | నశించు, మాయమగు
+V 86 tṛp | ⟨prīṇane⟩ — be satisfied. | తృప్తిపడు
+V 87 dṛp | ⟨harṣamohanayoḥ⟩ — be proud, rejoice; be bewildered. | గర్వించు, మోహపడు
+V 88 druh | ⟨jighāṃsāyām⟩ — wish to hurt, be hostile. | ద్రోహం చేయు
+V 89 muh | ⟨vaicittye⟩ — be bewildered. | మోహపడు
+V 90 ṣṇuh | ⟨udgiraṇe⟩ — vomit. | వాంతి చేయు
+V 91 ṣṇih | ⟨prītau⟩ — be fond. | స్నేహించు
+¶ *c)* ⟨udāttāḥ⟩ — *α.* ⟨śamādayaḥ⟩
+V 92 śamu | ⟨upaśame⟩ — be calm. | శాంతించు
+V 93 tamu | ⟨kāṅkṣāyām⟩ — desire; be faint. | కోరు, సొమ్మసిల్లు
+V 94 damu | ⟨upaśame⟩ — be tame, subdue. | అణగు
+V 95 śramu | ⟨tapasi khede ca⟩ — toil, do penance; be weary. | శ్రమించు
+V 96 bhramu | ⟨anavasthāne⟩ — wander, be unsteady. | తిరుగు
+V 97 kṣamū | ⟨sahane⟩ — endure, forgive. | సహించు, క్షమించు
+V 98 klamu | ⟨glānau⟩ — be weary. | అలసిపోవు
+V 99 mad | ⟨harṣe⟩ — rejoice, be drunk. | సంతోషించు, మత్తెక్కు
+¶ *β.*
+V 100 asu | ⟨kṣepaṇe⟩ — throw. | విసరు
+V 101 yasu | ⟨prayatne⟩ — strive. | ప్రయత్నించు
+V 102 jasu | ⟨mokṣaṇe⟩ — release. | విడిపించు
+V 103 tasu | ⟨upakṣaye⟩ — decay; (also) throw. | క్షీణించు
+V 104 dasu | ⟨ca⟩ — also: decay. | క్షీణించు
+V 105 vasu | ⟨stambhe⟩ — stiffen. | బిగుసుకొను
+V 106 vyuṣ | ⟨vibhāge⟩ — divide. | విభజించు
+V 107 pluṣ | ⟨dāhe⟩ — burn. | కాల్చు
+V 108 bisa | ⟨preraṇe⟩ — send. | పంపు
+V 109 kusa | ⟨saṃśleṣaṇe⟩ — clasp. | కౌగిలించు
+V 110 busa | ⟨utsarge⟩ — emit. | విడుచు
+V 111 musa | ⟨khaṇḍane⟩ — break. | విరుచు
+V 112 masī | ⟨pariṇāme⟩ — change, be transformed. | మారు
+V 113 luṭ | ⟨viloḍane⟩ — stir. | కలియబెట్టు
+V 114 uc | ⟨samavāye⟩ — be accustomed; gather. | అలవాటుపడు
+V 115 bhraṃśu | ⟨adhaḥpatane⟩ — fall down. | క్రిందపడు
+V 116 vṛś | ⟨varaṇe⟩ — choose. | ఎంచుకొను
+V 117 kṛś | ⟨tanūkaraṇe⟩ — grow thin. | కృశించు
+V 118 jitṛṣā | ⟨pipāsāyām⟩ — be thirsty. | దాహపడు
+V 119 hṛṣ | ⟨tuṣṭau⟩ — be pleased. | సంతోషించు
+V 120 ruṣ | ⟨roṣe⟩ — be angry. | కోపించు
+V 121 ḍip | ⟨kṣepe⟩ — throw. | విసరు
+V 122 kup | ⟨krodhe⟩ — be angry. | కోపించు
+V 123 gup | ⟨vyākulatve⟩ — be perplexed. | కలత చెందు
+V 124 yup, 125 rup, 126 lup | ⟨vimohane⟩ — bewilder. | మోహపెట్టు
+V 127 ṣṭūp | ⟨samucchrāye⟩ — heap up. | పోగుచేయు
+V 128 lubh | ⟨gārdhye ca⟩ — covet. | ఆశపడు
+V 129 kṣubh | ⟨saṃcalane⟩ — be agitated. | కలత చెందు
+V 130 nabh, 131 tubh | ⟨hiṃsāyām⟩ — hurt. | హింసించు
+V 132 klidū | ⟨ārdrībhāve⟩ — be wet. | తడియగు
+V 133 ñimidā | ⟨snehane⟩ — be fond. | స్నేహించు
+V 134 ñiṣvidā | ⟨snehanamocanayoḥ⟩ — be fond; release. | స్నేహించు, విడిపించు
+V 135 ṛdhu | ⟨vṛddhau⟩ — grow. | పెరుగు
+V 136 gṛdhu | ⟨abhikāṅkṣāyām⟩ — be greedy. | ఆశపడు
+V 137 mṛg | ⟨anveṣaṇe⟩ — seek, hunt. | వెదకు
+## Class 5, svādi
+¶ **5. ⟨svādayaḥ⟩** — **A. ⟨anudāttāḥ⟩** — *a)* ⟨ubhayapadinaḥ⟩
+V 1 ṣuñ | ⟨abhiṣave⟩ — press out (soma). | పిండు
+V 2 ṣiñ | ⟨bandhane⟩ — bind. | కట్టు
+V 3 śiñ | ⟨niśāne⟩ — sharpen. | పదునుపెట్టు
+V 4 ḍumiñ | ⟨prakṣepaṇe⟩ — throw. | విసరు
+V 5 ciñ | ⟨cayane⟩ — gather. | ఏరు, పోగుచేయు
+V 6 stṛñ | ⟨ācchādane⟩ — cover, strew. | కప్పు, పరచు
+V 7 kṛñ | ⟨hiṃsāyām⟩ — hurt. | హింసించు
+V 8 vṛñ | ⟨varaṇe⟩ — choose, cover. | ఎంచుకొను
+V 9 dhūñ | ⟨kampane⟩ — shake. | ఊపు
+@580
+¶ *b)* ⟨parasmaipadinaḥ⟩
+V 10 dhuḍu | ⟨upatāpe⟩ — be afflicted. | బాధపడు
+V 11 hi | ⟨gatau vṛddhau ca⟩ — go; grow. | వెళ్ళు, పెరుగు
+V 12 pṛ | ⟨prītau⟩ — be pleased. | సంతోషించు
+V 13 spṛ | ⟨prītipālanayoḥ⟩ — please; protect. | సంతోషపరచు, కాపాడు
+V 14 āp | ⟨vyāptau⟩ — obtain, pervade. | పొందు, వ్యాపించు
+V 15 śakḷ | ⟨śaktau⟩ — be able. | సమర్థుడగు
+V 16 rādh, 17 sādh | ⟨saṃsiddhau⟩ — succeed, accomplish. | సాధించు
+¶ **B. ⟨udāttāḥ⟩** — *a)* ⟨anudāttetau⟩
+V 18 aśū | ⟨vyāptau saṃghāte ca⟩ — pervade; gather. | వ్యాపించు, చేర్చు
+V 19 ṣṭigha | ⟨āskandane⟩ — mount, attack. | ఎక్కు, దాడిచేయు
+¶ *b)* ⟨udāttetaḥ⟩
+V 20 tik, tig | ⟨gatau ca⟩ — go. | వెళ్ళు
+V 21 ghagh | ⟨hiṃsāyām⟩ — hurt. | హింసించు
+V 22 dhṛṣā | ⟨prāgalbhye⟩ — be bold. | ధైర్యం చూపు
+V 23 danbhu | ⟨dambhe⟩ — deceive, hurt. | మోసగించు
+V 24 ṛdhu | ⟨vṛddhau⟩ — grow. | పెరుగు
+V 25 tṛp | ⟨prīṇane⟩ — be satisfied. | తృప్తిపడు
+V 26 mah | ⟨vyāptau⟩ — pervade. | వ్యాపించు
+V 27 dagh | ⟨ghātane pālane ca⟩ — strike; protect. | కొట్టు, కాపాడు
+V 28 camu | ⟨bhakṣaṇe⟩ — eat. | తిను
+V 29 ṛ, 30 ri, 31 ciri, 32 jiri, 33 dāś | ⟨hiṃsāyām⟩ — hurt. | హింసించు
+V 34 dru | ⟨hiṃsāyām⟩ — hurt. | హింసించు
+## Class 6, tudādi
+¶ **6. ⟨tudādayaḥ⟩** — **A. ⟨anudāttāḥ svaritetaḥ⟩**
+V 1 tud | ⟨vyathane⟩ — strike, pain. | కొట్టు, బాధపెట్టు
+V 2 ṇud | ⟨preraṇe⟩ — push, impel. | త్రోయు
+V 3 diś | ⟨atisarjane⟩ — give, point out. | చూపు, ఇచ్చు
+V 4 bhrasj | ⟨pāke⟩ — fry, roast. | వేయించు
+V 5 kṣip | ⟨preraṇe⟩ — throw. | విసరు
+V 6 kṛṣ | ⟨vilekhane⟩ — draw, plough. | లాగు, దున్ను
+¶ **B. ⟨udāttāḥ⟩** — *a)* ⟨udāttet⟩
+V 7 ṛṣī | ⟨gatau⟩ — go. | వెళ్ళు
+¶ *b)* ⟨anudāttetaḥ⟩
+V 8 juṣī | ⟨prītisevanayoḥ⟩ — be pleased; serve. | సంతోషించు, సేవించు
+V 9 oviji | ⟨bhayacalanayoḥ⟩ — fear; tremble. | భయపడు, వణకు
+V 10 ovraścū | ⟨chedane⟩ — cut. | నరుకు
+¶ *c)* ⟨udāttetaḥ⟩ (a list that Böhtlingk prints as 11–30 and continues on the next page)
+V 11 vraścu, ovraścū | ⟨chedane⟩ — cut. | నరుకు
+V 12 vyac | ⟨vyājīkaraṇe⟩ — deceive. | మోసగించు
+V 13 ucchi | ⟨uñche⟩ — glean. | ఏరుకొను
+V 14 ucchī | ⟨vivāse⟩ — dwell apart. | దూరంగా నివసించు
+V 15 ṛcch | ⟨gatīndriyapralayamūrtibhāveṣu⟩ — go; (of the senses) fail; solidify. | వెళ్ళు, ఘనీభవించు
+V 16 micch | ⟨utkleśe⟩ — torment. | బాధపెట్టు
+V 17 jarj, carc, jharjh | ⟨paribhāṣaṇabhartsanayoḥ⟩ — speak; threaten. | మాట్లాడు, బెదిరించు
+V 18 tvac | ⟨saṃvaraṇe⟩ — cover. | కప్పు
+V 19 ṛc | ⟨stutau⟩ — praise. | స్తుతించు
+V 20 ubj | ⟨ārjave⟩ — be straight. | నిటారుగా ఉండు
+V 21 udbh | ⟨utsarge⟩ — emit. | విడుచు
+V 22 lubh | ⟨vimohane⟩ — bewilder, desire. | మోహపెట్టు
+V 23 riph | ⟨kathanayuddhanindāhiṃsādāneṣu⟩ — speak; fight; blame; hurt; give. | మాట్లాడు, పోరాడు, నిందించు, హింసించు, ఇచ్చు
+V 24 tṛp, 25 tṛmph | ⟨tṛptau⟩ — be satisfied. | తృప్తిపడు
+V 26 tup, 27 tuph | ⟨hiṃsāyām⟩ — hurt. | హింసించు
+V 28 dṛp, 29 dṛmph | ⟨utkleśe⟩ — torment; be proud. | బాధపెట్టు, గర్వించు

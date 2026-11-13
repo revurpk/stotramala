@@ -1,0 +1,180 @@
+# Böhtlingk, Pāṇini's Grammatik (1887), Dhātupāṭha pp. 66*–67* = leaves n571–n572. Class 1, roots 593–852.
+% Class 1, bhvādi: roots 593–852 (p. 66*–67*)
+! See part 1 for the conventions. Root 853 begins at the foot of p. 67* and is given with p. 68* (part 5). Böhtlingk’s remarks on the lettering of several roots in this part (that they are doubtful, or the reading of other grammarians) are not given.
+@571
+V 593 ji | ⟨jaye⟩ — conquer, win. | జయించు
+V 594 jīv | ⟨prāṇadhāraṇe⟩ — live. | జీవించు
+V 595 pīv, 596 mīv, 597 tīv, 598 nīv | ⟨sthaulye⟩ — be stout. | లావెక్కు
+V 599 kṣīv | ⟨nirasane⟩ — spit out. | ఉమ్ము వేయు
+V 600 urvī, 601 turvī, 602 thurvī, 603 durvī, 604 dhurvī | ⟨hiṃsārthāḥ⟩ — hurt. | హింసించు
+V 605 gurvī | ⟨udyamane⟩ — exert oneself. | ప్రయత్నించు
+V 606 murvī | ⟨bandhane⟩ — bind. | కట్టు
+V 607 purv, 608 parv, 609 marv | ⟨pūraṇe⟩ — fill. | నింపు
+V 610 carv | ⟨adane⟩ — chew. | నమలు
+V 611 bharv | ⟨hiṃsāyām⟩ — hurt. | హింసించు
+V 612 karv, 613 kharv, 614 garv | ⟨darpe⟩ — be proud. | గర్వించు
+V 615 arv, 616 śarv, 617 sarv | ⟨hiṃsāyām⟩ — hurt. | హింసించు
+V 618 ivi | ⟨vyāptau⟩ — pervade. | వ్యాపించు
+V 619 pivi, 620 mivi, 621 ṇivi | ⟨secane⟩ — sprinkle, wet. | చిలుకరించు
+V 622 hivi, 623 divi, 624 dhivi, 625 jivi | ⟨prīṇanārthāḥ⟩ — please, gladden. | సంతోషపరచు
+V 626 rivi, 627 ravi, 628 dhavi | ⟨gatyarthāḥ⟩ — go. | వెళ్ళు
+V 629 kṛvi | ⟨hiṃsākaraṇayoś ca⟩ — hurt; do. | హింసించు, చేయు
+V 630 mav | ⟨bandhane⟩ — bind. | కట్టు
+V 631 av | ⟨rakṣaṇagatikāntiprītitṛptyavagamapraveśaśravaṇasvāmyarthayācanakriyecchādīptyavāptyālingānahiṃsādānabhāgavṛddhiṣu⟩ — protect, go, love, please, satisfy, understand, enter, hear, own, beg, act, wish, shine, obtain, embrace, hurt, give, share, grow (the long list of the Dhātupāṭha). | కాపాడు; వెళ్ళు; ప్రేమించు; తృప్తిపరచు; తెలుసుకొను; ప్రవేశించు; వినిపించు; యాచించు; కోరు; ప్రకాశించు; పొందు; కౌగిలించు; హింసించు; ఇచ్చు; పెరుగు (ఈ ధాతువుకు చాలా అర్థాలు)
+V 632 dhāvu | ⟨gatiśuddhyoḥ⟩ — run; be clean. | పరుగెత్తు, శుద్ధమగు
+¶ *q)* ⟨ūṣmāntā anudāttetaḥ⟩
+V 633 dhukṣ, 634 dhikṣ | ⟨saṃdīpanakleśanajīvaneṣu⟩ — kindle; torment; live. | మండించు, బాధించు, బ్రతుకు
+V 635 vṛc | ⟨varaṇe⟩ — choose, cover. | ఎంచుకొను
+V 636 śikṣ | ⟨vidyopādāne⟩ — learn. | నేర్చుకొను
+V 637 bhikṣ | ⟨bhikṣāyām alābhe lābhe ca⟩ — beg; (whether) getting or not. | భిక్ష అడుగు
+V 638 kleś | ⟨vyaktāyāṃ vāci⟩ — speak clearly (also: torment). | స్పష్టంగా పలుకు, బాధపడు
+V 639 dakṣ | ⟨vṛddhau śīghrārthe ca⟩ — grow; be quick. | పెరుగు, వేగంగా ఉండు
+V 640 dīkṣ | ⟨mauṇḍyejyopanayananiyamavratādeśeṣu⟩ — shave the head; sacrifice; be initiated; keep a vow. | దీక్ష తీసుకొను
+V 641 īkṣ | ⟨darśane⟩ — see. | చూచు
+V 642 īṣ | ⟨gatihiṃsādarśaneṣu⟩ — go; hurt; see. | వెళ్ళు, హింసించు, చూచు
+V 643 bhāṣ | ⟨vyaktāyāṃ vāci⟩ — speak. | మాట్లాడు
+V 644 varṣ | ⟨snehane⟩ — rain; wet. | వర్షించు
+V 645 geṣ | ⟨anvicchāyām⟩ — seek. | వెదకు
+V 646 peṣ | ⟨prayatne⟩ — strive. | ప్రయత్నించు
+V 647 jeṣ, 648 ṇeṣ, 649 eṣ, 650 preṣ | ⟨gatau⟩ — go. | వెళ్ళు
+V 651 reṣ, 652 heṣ, 653 hreṣ | ⟨avyakte śabde⟩ — neigh, sound. | సకిలించు
+V 654 kās | ⟨śabdakutsāyām⟩ — cough. | దగ్గు
+V 655 bhās | ⟨dīptau⟩ — shine. | ప్రకాశించు
+V 656 ṇās, 657 rās | ⟨śabde⟩ — sound. | ధ్వనించు
+V 658 ṇās | ⟨kauṭilye⟩ — be crooked. | వంకరగా ఉండు
+V 659 bhyas | ⟨bhaye⟩ — fear. | భయపడు
+V 660 śas | ⟨icchāyām⟩ — wish (after ā-ṅ). | కోరు
+V 661 gras, 662 glas | ⟨adane⟩ — eat. | తిను
+V 663 īh | ⟨ceṣṭāyām⟩ — strive. | ప్రయత్నించు
+V 664 bahi, 665 mahi | ⟨vṛddhau⟩ — grow. | పెరుగు
+V 666 ahi | ⟨gatau⟩ — go. | వెళ్ళు
+V 667 garh, 668 galh | ⟨kutsāyām⟩ — blame. | నిందించు
+V 669 barh, 670 valh | ⟨prādhānye⟩ — be chief. | ప్రధానమగు
+V 671 barh, 672 balh | ⟨paribhāṣaṇahiṃsādāneṣu⟩ — speak; hurt; give. | మాట్లాడు, హింసించు, ఇచ్చు
+V 673 plih | ⟨gatau⟩ — go. | వెళ్ళు
+V 674 veh, 675 jeh | ⟨prayatne⟩ — strive. | ప్రయత్నించు
+V 676 bāh | ⟨prayatne⟩ — strive. | ప్రయత్నించు
+V 677 drāh | ⟨nidrākṣaye⟩ — wake. | మేల్కొను
+V 678 kāś | ⟨dīptau⟩ — shine. | ప్రకాశించు
+V 679 ūh | ⟨vitarke⟩ — consider, infer. | ఊహించు
+V 680 gāhū | ⟨viloḍane⟩ — plunge into, stir. | మునుగు
+V 681 gṛhū | ⟨grahaṇe⟩ — take. | పట్టుకొను
+V 682 ghuṣi | ⟨kāntikaraṇe⟩ — make beautiful. | అందంగా చేయు
+¶ *r)* ⟨ūṣmāntā udāttetaḥ⟩
+V 683 ghuṣir | ⟨aviśabdane⟩ — proclaim. | ప్రకటించు
+V 684 aśū | ⟨vyāptau⟩ — pervade. | వ్యాపించు
+V 685 takṣū, 686 tvakṣū | ⟨tanūkaraṇe⟩ — make thin, pare. | సన్నగా చేయు, చెక్కు
+V 687 ukṣ | ⟨secane⟩ — sprinkle. | చిలుకరించు
+V 688 rakṣ | ⟨pālane⟩ — protect. | రక్షించు
+V 689 ṇikṣ | ⟨cumbane⟩ — kiss. | ముద్దుపెట్టు
+V 690 tṛkṣ, 691 stṛkṣ, 692 ṇakṣ | ⟨gatau⟩ — go. | వెళ్ళు
+V 693 vakṣ | ⟨roṣe⟩ — be angry. | కోపించు
+V 694 mrakṣ | ⟨saṃghāte⟩ — gather, smear. | పోగుచేయు
+V 695 takṣ | ⟨tvacane⟩ — cut, pare. | చెక్కు
+V 696 pakṣ | ⟨parigrahe⟩ — take. | గ్రహించు
+V 697 sūrkṣ | ⟨ādare⟩ — respect. | గౌరవించు
+V 698 kāṅkṣ, 699 vāñch, 700 māṅkṣ | ⟨kāṅkṣāyām⟩ — desire. | కోరు
+V 701 drāṅkṣ, 702 dhrāṅkṣ, 703 dhvāṅkṣ | ⟨ghorvāśite ca⟩ — caw, cry harshly; desire. | కర్కశంగా అరచు
+V 704 cūṣ | ⟨pāne⟩ — drink, suck. | త్రాగు, పీల్చు
+V 705 tūṣ | ⟨tuṣṭau⟩ — be satisfied. | తృప్తిపడు
+V 706 pūṣ | ⟨puṣṭau⟩ — thrive. | పుష్టి కలుగు
+V 707 mūṣ | ⟨steye⟩ — steal. | దొంగిలించు
+V 708 lūṣ, 709 rūṣ | ⟨bhūṣāyām⟩ — adorn. | అలంకరించు
+V 710 śūṣ | ⟨prasave⟩ — beget, bring forth. | ప్రసవించు
+V 711 yūṣ | ⟨hiṃsāyām⟩ — hurt. | హింసించు
+V 712 bhūṣ | ⟨alaṃkāre⟩ — adorn. | అలంకరించు
+V 713 tarṣ | ⟨alaṃkāre⟩ — adorn (also). | అలంకరించు
+V 714 ūṣ | ⟨rujāyām⟩ — be ill. | రోగపడు
+V 715 īṣ | ⟨uñche⟩ — glean. | ఏరుకొను
+V 716 kaṣ, 717 khaṣ, 718 śiṣ, 719 jaṣ, 720 jhaṣ, 721 śaṣ, 722 vaṣ, 723 maṣ, 724 ruṣ, 725 riṣ | ⟨hiṃsārthāḥ⟩ — hurt. | హింసించు
+V 726 bhaṣ | ⟨bhartsane⟩ — threaten; bark. | బెదిరించు
+V 727 uṣ | ⟨dāhe⟩ — burn. | కాల్చు
+V 728 jiṣ, 729 viṣ, 730 miṣ, 731 ṇiṣ | ⟨secane⟩ — sprinkle. | చిలుకరించు
+V 732 puṣ | ⟨puṣṭau⟩ — thrive. | పుష్టి కలుగు
+V 733 śriṣ, 734 śliṣ, 735 pruṣ, 736 pluṣ | ⟨dāhe⟩ — burn. | కాల్చు
+V 737 pṛṣ | ⟨hiṃsāsaṃkleśanayoḥ⟩ — hurt; torment (also: give). | హింసించు, బాధపెట్టు
+@572
+V 738 vṛṣ, 739 mṛṣ | ⟨secane⟩ — sprinkle. | చిలుకరించు
+V 740 ghṛṣ | ⟨saṃgharṣe⟩ — rub. | రుద్దు
+V 741 hṛṣ | ⟨alīke⟩ — be false. | అబద్ధమాడు
+V 742 tus, 743 hras, 744 hrās, 745 ras | ⟨śabde⟩ — sound. | ధ్వనించు
+V 746 las | ⟨śleṣaṇakrīḍanayoḥ⟩ — cling; play. | అతుక్కొను, ఆడు
+V 747 ghas | ⟨adane⟩ — eat. | తిను
+V 748 jarj, 749 carc, 750 jharj | ⟨paribhāṣaṇatarjanayoḥ⟩ — speak; threaten. | మాట్లాడు, బెదిరించు
+V 751 pis, 752 pes | ⟨gatau⟩ — go. | వెళ్ళు
+V 753 vis, 754 ves, 755 biś, 756 beś | ⟨gatau⟩ — go. | వెళ్ళు
+V 757 hase | ⟨hasane⟩ — laugh. | నవ్వు
+V 758 ṇiś | ⟨samādhau⟩ — be composed. | ఏకాగ్రమగు
+V 759 miś, 760 maś | ⟨śabde roṣakṛte ca⟩ — sound; be angry. | ధ్వనించు, కోపించు
+V 761 śav | ⟨gatau⟩ — go. | వెళ్ళు
+V 762 śaś | ⟨plutagatau⟩ — leap. | దూకు
+V 763 śasu | ⟨hiṃsāyām⟩ — hurt. | హింసించు
+V 764 śaṃsu | ⟨stutau⟩ — praise. | స్తుతించు
+V 765 caha | ⟨parikalkane⟩ — deceive. | మోసగించు
+V 766 mah | ⟨pūjāyām⟩ — honour. | పూజించు
+V 767 raha | ⟨tyāge⟩ — abandon. | విడుచు
+V 768 rahi | ⟨gatau⟩ — go. | వెళ్ళు
+V 769 dṛh, 770 dṛhi, 771 bṛh, 772 bṛhi | ⟨vṛddhau⟩ — grow. | పెరుగు
+V 773 tuhir, 774 duhir, 775 uhir | ⟨ardane⟩ — hurt. | హింసించు
+V 776 arh | ⟨pūjāyām⟩ — honour; deserve. | పూజించు, అర్హమగు
+¶ *s)* ⟨dyutādayaḥ anudāttetaḥ⟩
+V 777 dyut | ⟨dīptau⟩ — shine. | ప్రకాశించు
+V 778 śvit | ⟨varṇe⟩ — be white. | తెల్లబడు
+V 779 miṅmidā | ⟨snehane⟩ — be sticky, fond. | జిగటగా ఉండు, స్నేహించు
+V 780 ñiṣvidā | ⟨snehanamocanayoḥ⟩ — be fond; release. | స్నేహించు, విడిపించు
+V 781 ruc | ⟨dīptāvabhiprītau ca⟩ — shine; please. | ప్రకాశించు, రుచించు
+V 782 ghuṭ | ⟨parivartane⟩ — turn, exchange. | తిరుగు
+V 783 ruṭ, 784 luṭ, 785 luṭh | ⟨pratighāte⟩ — resist, strike back. | ఎదిరించు
+V 786 śubh | ⟨dīptau⟩ — shine. | ప్రకాశించు
+V 787 kṣubh | ⟨saṃcalane⟩ — be agitated. | కలత చెందు
+V 788 nabh | ⟨abhāve⟩ — perish (also). | నశించు
+V 789 tubh | ⟨hiṃsāyām⟩ — hurt. | హింసించు
+V 790 sraṃsu, 791 dhvaṃsu, 792 bhraṃśu | ⟨avasraṃsane⟩ — fall down. | క్రిందపడు
+V 793 dhvaṃsu | ⟨gatau ca⟩ — go. | వెళ్ళు
+V 794 sambhu | ⟨viśvāse⟩ — trust. | నమ్ము
+V 795 vṛtu | ⟨vartane⟩ — be, turn, exist. | ఉండు, తిరుగు
+V 796 vṛdhu | ⟨vṛddhau⟩ — grow. | పెరుగు
+V 797 śṛdhu | ⟨śabdakutsāyām⟩ — break wind. | అపానవాయువు విడుచు
+V 798 syandū | ⟨prasravaṇe⟩ — flow. | ప్రవహించు
+V 799 kṛpū | ⟨sāmarthye⟩ — be able. | సమర్థుడగు
+¶ *t)* ⟨ghaṭādayo mitaḥ⟩ — *α.* ⟨anudāttetaḥ ṣitaḥ⟩
+V 800 ghaṭ | ⟨ceṣṭāyām⟩ — strive. | ప్రయత్నించు
+V 801 vyath | ⟨bhayasaṃcalanayoḥ⟩ — fear; tremble. | భయపడు, వణకు
+V 802 prath | ⟨prakhyāne⟩ — spread, become known. | ప్రసిద్ధమగు
+V 803 pras | ⟨vistāre⟩ — spread. | వ్యాపించు
+V 804 mrad | ⟨mardane⟩ — crush. | నలుపు
+V 805 skhad | ⟨skhadane⟩ — cut, split. | నరుకు
+V 806 caji | ⟨gatidānayoḥ⟩ — go; give. | వెళ్ళు, ఇచ్చు
+V 807 dakṣ | ⟨gatihiṃsayoḥ⟩ — go; hurt. | వెళ్ళు, హింసించు
+V 808 krap | ⟨kṛpāyāṃ gatau⟩ — pity; go. | కరుణించు, వెళ్ళు
+V 809 kadi, 810 kradi, 811 kladi | ⟨vaiklavye⟩ — be bewildered. | కలత చెందు
+V 812 jitvarā | ⟨saṃbhrame⟩ — hurry. | త్వరపడు
+¶ *β.* ⟨udāttetaḥ⟩
+V 813 jvar | ⟨roge⟩ — be feverish. | జ్వరపడు
+V 814 gaḍ | ⟨secane⟩ — sprinkle. | చిలుకరించు
+V 815 heḍ | ⟨veṣṭane⟩ — wrap. | చుట్టు
+V 816 vaṭ, 817 bhaṭ | ⟨paribhāṣaṇe⟩ — speak. | మాట్లాడు
+V 818 ṇaṭ | ⟨nṛttau⟩ — dance. | నృత్యం చేయు
+V 819 ṣṭak | ⟨pratīghāte⟩ — strike back. | ఎదిరించు
+V 820 cak | ⟨tṛptau ca⟩ — be satisfied. | తృప్తిపడు
+V 821 kakhe | ⟨hasane⟩ — laugh. | నవ్వు
+V 822 rage | ⟨śaṅkāyām⟩ — doubt. | శంకించు
+V 823 lage | ⟨saṅge ca⟩ — cling, touch. | అంటుకొను
+V 824 hrage, 825 hlage, 826 sage, 827 ṣṭage | ⟨saṃvaraṇe⟩ — cover. | కప్పు
+V 828 kage | ⟨nocyate⟩ — (said to have no stated meaning). | (అర్థం చెప్పబడలేదు)
+V 829 ak, 830 ag | ⟨kuṭilāyāṃ gatau⟩ — go crookedly. | వంకరగా వెళ్ళు
+V 831 kaṇ, 832 raṇ | ⟨gatau⟩ — go. | వెళ్ళు
+V 833 caṇ, 834 śaṇ, 835 śraṇ | ⟨dāne ca⟩ — give; go. | ఇచ్చు
+V 836 śnath, 837 krath, 838 klath, 839 kṣath | ⟨hiṃsārthāḥ⟩ — hurt. | హింసించు
+V 840 vana | ⟨ca⟩ — also: (as above). | (పై విధంగా)
+V 841 vanu | ⟨ca nocyate⟩ — (no meaning stated). | (అర్థం చెప్పబడలేదు)
+V 842 jval | ⟨dīptau⟩ — blaze. | మండు
+V 843 hval, 844 hmal | ⟨calane⟩ — move, shake. | కదలు
+V 845 smṛ | ⟨ādhyāne⟩ — remember, long for. | స్మరించు
+V 846 dṛ | ⟨bhaye⟩ — fear. | భయపడు
+V 847 nṛ | ⟨naye⟩ — lead. | నడిపించు
+V 848 śrā | ⟨pāke⟩ — cook. | వండు
+V 849 jñā | ⟨māraṇatoṣaṇaniśāmaneṣu⟩ — kill; please; perceive. | చంపు, తృప్తిపరచు, గమనించు
+V 850 cal | ⟨kampane⟩ — tremble, move. | కదలు, వణకు
+V 851 chadir | ⟨ūrjane⟩ — be strong, cover. | బలంగా ఉండు, కప్పు
+V 852 laḍi | ⟨jihvonmathane⟩ — loll the tongue. | నాలుక చాచు
