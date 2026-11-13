@@ -2478,3 +2478,20 @@ Editorial notes:
 - The selection favours the best-known and most characteristic verses; it is the editor’s, and the order is that of the Wikisource text (alphabetical by first word).
 - The Telugu is kept as the source has it; the collection contains many variant versions of the same poem, and the one printed there is used. One poem (the Wikisource entry for *కాదు కాదు గురులు*) runs into the next on the source page; only its own four lines are taken. Verse 37 of the page (*కర్మము జ్ఞానికి*) closes with “వేమా!” rather than the usual refrain.
 - The English translations are original and, because the Telugu is archaic and often obscure (a number of verses, especially 53–55, 72, 77 and 84, are translated loosely), should be read as a guide to the sense.
+
+## 10. Works attributed to Kālidāsa
+
+All three are taken from Sanskrit Wikisource transcriptions of public-domain printed texts, converted to IAST with `dev2iast.py` (`tools/kalidasa/`); the English translations are original. None is certainly by Kālidāsa the poet and playwright; the attributions are the traditional ones.
+
+### 10.1 Śyāmalā Daṇḍakam — `stotra/devi/syamala-dandakam-iast.html`
+- Source: Sanskrit Wikisource, *श्यामलादण्डकम् (कालिदासविरचितम्)*, pages 15–18 of the 1929 Kāvyamālā, part 1 (Nirṇaya Sāgara, Mumbai), fetched 2026-11-13. Public domain.
+- **The text is repaired.** The Wikisource transcription (proofreading level 3) has OCR slips, and in the fourth and fifth paragraphs it has gaps (“xx”) where the print itself is illegible. I restored it from the scan where legible and otherwise from the standard text of the daṇḍaka as I remember it, so the Sanskrit is not strictly the print’s. The main changes: *ख* for *स्व* (*tantrīsvare*, *svarṇa*, *svedabindu*), *ग्व* for *ग्ध* (*snigdha*), *बिब्यो* for *बिम्बो*, *रल* for *रत्न*, *भाखर* for *भास्वर*, *द्विव्य* for *दिव्य*, *विघ्नेश*, *शिञ्जिनीडम्बर*, *गृहीत*, the gap *शङ्खपद्मद्वयोपाश्रिते* (para 4), and the end of para 5 (*vaktrāntarād ullasadgadyapadyātmikā bhāratī niḥsaret*); *चन्दन* for *नन्दन* (para 5) was corrected the other way. The words *tārāpīṭha*-style points that remain doubtful are *siddhasaṅgānite* (para 3), *saṃyogariṅkhannakhendūjjvale* (para 4) and *pañcabāṇena ratyā na saṃbhāvite* (para 4, where *na* may be *ca*). **Please check these against a good edition.**
+- Layout: two opening verses, five long invocations (numbered 1–5 in the print) and a closing verse, as the print has them.
+
+### 10.2 Ambāṣṭakam — `stotra/devi/ambashtakam-iast.html`
+- Source: Sanskrit Wikisource, *अम्बाष्टकम्*, Kāvyamālā, part 2 (1932), pp. 160–163 (proofreading level 4). Public domain.
+- The Kāvyamālā colophon ascribes it to Śaṅkarācārya, and the page says so; tradition also calls it Kālidāsa’s Aśvadhāṭī stotra (the name is that of the metre). Slips corrected: *kuca* for *kuja* (1), *bhaya* spacing, *yālībhiḥ* for *yālīmiḥ* (5), *svapada* for *khapada* (5). Verses 3 and 4 run across page breaks in the source and are joined.
+
+### 10.3 Śṛṅgāratilakam — `stotra/kavya/shringaratilakam-iast.html`
+- Source: Sanskrit Wikisource, *शृङ्गारतिलकम् (मूलमात्रम्)*, pp. 86–91 of the 1910 edition of the *Ṛtusaṃhāra* with Candrikā commentary (proofreading level 4). Public domain.
+- Thirty-one verses, numbered here by order. The print’s text is in places corrupt (verses 2, 8, 20 and 31 especially), and the translations of those say so. I corrected evident printing slips: *pīḍāṃ* (31), *dantadaśanaṃ* and *tat* for *dantadanalaṃ* and *te* (29), *prāpnoti* (21), word division in several verses. A few verses are close in wording to verses of other collections.

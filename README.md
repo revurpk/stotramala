@@ -23,6 +23,9 @@ IAST, Devanāgarī, or Telugu (script bar at the top).
 | Gaṇeśa | Gaṇeśa Pañcaratnam | [read](stotra/ganesha/ganesha-pancharatnam-iast.html) |
 | Viṣṇu | Achyutāṣṭakam | [read](stotra/vishnu/achyutashtakam-iast.html) |
 | Devī | Śrī Durgā Saptaślokī | [IAST](stotra/devi/durga-saptashloki-iast.html) · [source orthography](stotra/devi/durga-saptashloki-original.html) |
+| Devī | Śyāmalā Daṇḍakam (attributed to Kālidāsa) | [read](stotra/devi/syamala-dandakam-iast.html) |
+| Devī | Ambāṣṭakam — eight verses in the Aśvadhāṭī metre | [read](stotra/devi/ambashtakam-iast.html) |
+| Kāvya | Śṛṅgāratilakam (attributed to Kālidāsa) | [read](stotra/kavya/shringaratilakam-iast.html) |
 | Devī | Śrī Kanakadhārā Stotram | [read](stotra/devi/kanakadhara-stotram-iast.html) |
 | Devī | Śrī Mahālakṣmī Aṣṭakam | [read](stotra/devi/mahalakshmi-ashtakam-iast.html) |
 | Devī | Mahiṣāsura Mardinī Stotram | [read](stotra/devi/mahishasura-mardini-iast.html) |
