@@ -1341,6 +1341,8 @@ support, each of which was looked at again on the image.
 
 The English glosses, one for each khaṇḍa, are original.
 
+- **Word by word (added 2026-11-14).** Each word of the synonym lists (chapters 1–3) is glossed with the sense under which the list files it, the heading’s sense, with a better-known meaning in brackets where the word has one (so *gauḥ* is “earth (also cow)”). The second part of chapter 4 and the lists of obscure words (the third chapter’s *dviśaḥ* list, and the fourth chapter) are different in kind: their words are the ones Yāska himself glosses in the Nirukta, and where I could not give a sense with confidence the word is marked “(obscure)” rather than guessed; only a few such words carry a sense. The fifth chapter’s words are the names of the deities and are glossed as names.
+
 ### 5.31 Nirukta — `stotra/veda/nirukta-N-iast.html`, one page an adhyāya
 
 | Field | Value |
