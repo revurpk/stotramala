@@ -1,0 +1,51 @@
+{
+ "series": "achyutashtakam",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-14",
+ "coverage": "full",
+ "scope": "All units read: text for sense and metre, translation and word glosses against the text. The text was not compared with the source page.",
+ "items": [
+  {
+   "unit": 6,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "pūtanākopakaḥ was rendered “who dealt death to Pūtanā”; the word speaks of anger, not killing.",
+   "change": "Now “who turned his wrath on Pūtanā”.",
+   "slug": "achyutashtakam"
+  },
+  {
+   "unit": 8,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "kiṃkiṇī (small bells) was rendered “anklets”.",
+   "change": "Now “tinkling bells”, as the word gloss already had.",
+   "slug": "achyutashtakam"
+  },
+  {
+   "unit": 3,
+   "area": "text",
+   "status": "open",
+   "issue": "The page prints rukmaṇīrāgiṇe; the name is Rukmiṇī, and the word gloss already reads rukmiṇī-rāgiṇe. The spelling rukmaṇī does occur in some prints of this hymn, so it may be the source’s own.",
+   "options": [
+    "A. Change the text to rukmiṇīrāgiṇe and log it in SOURCES.md as a correction.",
+    "B. Keep rukmaṇī as the source’s spelling and make the word gloss match it."
+   ],
+   "recommend": "A, if the Wikisource page reads rukmiṇī or you are content to normalise; the meaning is not affected either way.",
+   "decision": "",
+   "slug": "achyutashtakam"
+  },
+  {
+   "unit": 5,
+   "area": "text",
+   "status": "open",
+   "issue": "daṇḍakāraṇyabhūpuṇyatākāraṇam ends in -kāraṇam (neuter) among masculine nominatives describing Rāghava; many prints read -kāraṇaḥ. Grammatical as it stands (kāraṇa is a neuter noun in apposition).",
+   "options": [
+    "A. Keep the text as it is.",
+    "B. Change to -kāraṇaḥ."
+   ],
+   "recommend": "A: the page reading is defensible and is the source’s.",
+   "decision": "",
+   "slug": "achyutashtakam"
+  }
+ ]
+}

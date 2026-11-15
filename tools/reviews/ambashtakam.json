@@ -1,0 +1,160 @@
+{
+ "series": "ambashtakam",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-14",
+ "coverage": "full",
+ "scope": "All units read: text for sense and metre, translation and word glosses against the text. The text was not compared with the source page. This is a hard yamaka-laden poem and the print is defective in places; the translation was substantially corrected.",
+ "items": [
+  {
+   "unit": 0,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Every translation ended in a stray “|” that showed on the page.",
+   "change": "Removed (tools/kalidasa/ambashtaka.gloss.txt).",
+   "slug": "ambashtakam"
+  },
+  {
+   "unit": 1,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "“surpassing a herd of horses in speed” was attached to the betel-juice and the betel was mentioned twice; adhika-dhāṭīm describes the flow of poetry.",
+   "change": "Verse retranslated; word glosses adjusted.",
+   "slug": "ambashtakam"
+  },
+  {
+   "unit": 2,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "kīlā is a flame, not a spark.",
+   "change": "“a flame of fire to the cotton-heaps of fears”.",
+   "slug": "ambashtakam"
+  },
+  {
+   "unit": 3,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "satrāśana (eaters of the sacrifice, i.e. the gods) was rendered “sacrificers”; “consort of the Mothers” and “shines like the Kaustubha” had no basis in the text.",
+   "change": "Retranslated; the obscure third quarter is now marked as such; word glosses re-split.",
+   "slug": "ambashtakam"
+  },
+  {
+   "unit": 4,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "“the stair to heaven made by the dust of the curses of sages” misread the compound: the dust of her feet is the stair, and śāpāyudha (“whose weapon is the curse”) describes the sages.",
+   "change": "Retranslated; word glosses corrected.",
+   "slug": "ambashtakam"
+  },
+  {
+   "unit": 5,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "priyakapālīṣu was read as “the skulls of her beloved Śiva”; it is priyaka-pālīṣu, “among rows of priyaka (kadamba) trees”, the setting of every verse. Words were mis-split (bhaya-vyālī-nakulī, yā alīka-śobhi-tilakā, sā alī-karotu).",
+   "change": "Retranslated and re-split.",
+   "slug": "ambashtakam"
+  },
+  {
+   "unit": 6,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "kaṅkādi-rakta-puṣi was “nourished by the blood of kites”; the body feeds the birds with its blood. Mis-splits kāmanā-mayasi, paṅka-ari-mehi.",
+   "change": "Retranslated; now kāmanām ayasi, paṅka-arim ehi.",
+   "slug": "ambashtakam"
+  },
+  {
+   "unit": 7,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "“imitates a forest woman in her ornaments” and “whose voice … is like a gourd-lute” were invented; the text has her neck, and a lute beside her.",
+   "change": "Retranslated; the corrupt opening is flagged in the translation.",
+   "slug": "ambashtakam"
+  },
+  {
+   "unit": 8,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "maṇibandha is the wrist (“on whose wrist a parrot gleams”), not a necklace of gems; bhave is “in Bhava (Śiva)”, not “in the world”; the three things asked for (well-being, a splendour that eclipses the sun, union with her feet) had been merged into one.",
+   "change": "Retranslated; word glosses re-split.",
+   "slug": "ambashtakam"
+  },
+  {
+   "unit": 4,
+   "area": "text",
+   "status": "open",
+   "issue": "Quarter 2 is one syllable short of the metre (21 for 22): pāpāpahasvanujāpānulīna…. The usual text has sva-manu (“her own mantra”): pāpāpahasvamanujāpānulīna…. Our sense already follows that reading.",
+   "options": [
+    "A. Emend to svamanu and log it in SOURCES.md as a correction required by the metre.",
+    "B. Keep the print’s reading; the word gloss notes the gap (as now)."
+   ],
+   "recommend": "A. The metre proves a syllable is missing and the restored word is the common reading.",
+   "decision": "",
+   "slug": "ambashtakam"
+  },
+  {
+   "unit": 6,
+   "area": "text",
+   "status": "open",
+   "issue": "Quarter 4 is two syllables short (20 for 22): …jhaṃkāribhṛṅgatimānupetaśaśi…. The usual text is …jhaṃkāribhṛṅgatatimaṅkānupetaśaśi… (“a line of bees … a moon without its mark”), which also restores the ṅkā rhyme. The translation follows the usual text and says so.",
+   "options": [
+    "A. Emend to bhṛṅgatatimaṅkānupeta and log it in SOURCES.md.",
+    "B. Keep the defective print reading with the note (as now)."
+   ],
+   "recommend": "A, for the same reason: metre and rhyme both require it.",
+   "decision": "",
+   "slug": "ambashtakam"
+  },
+  {
+   "unit": 7,
+   "area": "text",
+   "status": "open",
+   "issue": "The verse opens kumbāvatīsamaviḍambā galena, which gives no clear sense. The usual text is kambāvatīva saviḍambā galena, “with her neck she mocks, as it were, the conch”. Metre does not decide (same length). The translation gives the usual sense in brackets.",
+   "options": [
+    "A. Emend to kambāvatīva saviḍambā and log it.",
+    "B. Keep the print and the bracketed note (as now).",
+    "C. I check the Kāvyamālā scan first (needs the page images, pp. 160–163)."
+   ],
+   "recommend": "C if you can open the scan; otherwise A.",
+   "decision": "",
+   "slug": "ambashtakam"
+  },
+  {
+   "unit": 3,
+   "area": "translation",
+   "status": "open",
+   "issue": "Quarter 3 (chatrānilātirayapatrābhirāmaguṇamitrāmarīsamavadhūḥ) and the first word of quarter 4 (kutrāsahan-) are obscure to me; the translation marks them “perhaps”. A commentary would settle them.",
+   "options": [
+    "A. Leave marked as obscure.",
+    "B. You supply the sense (from a commentary or your own reading)."
+   ],
+   "recommend": "A unless you have a commentary to hand.",
+   "decision": "",
+   "slug": "ambashtakam"
+  },
+  {
+   "unit": 5,
+   "area": "translation",
+   "status": "open",
+   "issue": "ātmatanutālī sakṛt in quarter 1 is obscure (some prints read ātmatanutālīnakṛt); the translation notes “two words here are obscure” and leaves them out.",
+   "options": [
+    "A. Leave as it is.",
+    "B. You supply the sense."
+   ],
+   "recommend": "A.",
+   "decision": "",
+   "slug": "ambashtakam"
+  },
+  {
+   "unit": 2,
+   "area": "translation",
+   "status": "open",
+   "issue": "śūlāyudha-praṇati-śīlā can be “who is wont to bow to the Trident-bearer” (as now) or “to whom the Trident-bearer is wont to bow”. The compound allows both; they differ in who honours whom.",
+   "options": [
+    "A. Keep “ever bowing to the one with the trident”.",
+    "B. Change to “to whom the Trident-bearer bows”."
+   ],
+   "recommend": "A: it is the plainer reading of praṇati-śīlā.",
+   "decision": "",
+   "slug": "ambashtakam"
+  }
+ ]
+}

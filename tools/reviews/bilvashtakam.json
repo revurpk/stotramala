@@ -1,0 +1,17 @@
+{
+ "series": "bilvashtakam",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-14",
+ "coverage": "full",
+ "scope": "All units read: text for sense and metre, translation and word glosses against the text. The text was not compared with the source page.",
+ "items": [
+  {
+   "unit": 5,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "koṭi-sahasra (10¹⁰) was “a thousand million” in verse 5 but “ten thousand million” in verse 4.",
+   "change": "Verse 5 now says “ten thousand million elephants”.",
+   "slug": "bilvashtakam"
+  }
+ ]
+}

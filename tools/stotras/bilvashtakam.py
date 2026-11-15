@@ -39,7 +39,7 @@ STOTRA = {
            "bilva leaf, offered to Śiva."),
         _v("dantikoṭisahasreṣu aśvamedhaśatāni ca",
            "koṭikanyāpradānena ekabilvaṃ śivārpitam", 5,
-           "Worth more than a thousand million elephants, than a hundred "
+           "Worth more than ten thousand million elephants, than a hundred "
            "horse-sacrifices, than the gift of ten million maidens — one bilva "
            "leaf, offered to Śiva."),
         _v("ekaṃ ca bilvapatraṃ ca koṭiyajñaphalaṃ labhet",

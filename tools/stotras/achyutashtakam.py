@@ -85,8 +85,7 @@ STOTRA = {
             ],
             "num": "|| 6 ||",
             "gloss": "Slayer of Dhenuka and Ariṣṭa, bane of the hostile; killer of "
-                     "Keśin, destroyer of Kaṃsa, player of the flute; who dealt "
-                     "death to Pūtanā, who sports beside the Sun's daughter "
+                     "Keśin, destroyer of Kaṃsa, player of the flute; who turned his wrath on Pūtanā, who sports beside the Sun's daughter "
                      "(the Yamunā) — may the boy Gopāla protect me always.",
         },
         {
@@ -112,7 +111,7 @@ STOTRA = {
             "num": "|| 8 ||",
             "gloss": "His face resplendent with curling locks, a jewel on his crown, "
                      "earrings glittering at his cheeks; bright with necklace, "
-                     "armlets, and blazing bracelets, lovely with tinkling anklets — "
+                     "armlets, and blazing bracelets, lovely with tinkling bells — "
                      "that dark-hued one I worship.",
         },
         "ornament",
