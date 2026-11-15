@@ -39,8 +39,7 @@ STOTRA = {
            "mahīdevadevaṃ mahāvedabhāvaṃ",
            "mahādevabālaṃ bhaje lokapālam", 3,
            "Mounted on the peacock, hidden within the great Vedic sayings; "
-           "enchanting of body, dwelling in the great heart; god of the gods of "
-           "earth, the very being of the great Vedas — the child of Mahādeva I "
+           "enchanting of body, whose home is the heart of the great; god of the brāhmaṇas, the gods on earth, the very being of the great Vedas — the child of Mahādeva I "
            "worship, protector of the worlds."),
         _v("yadā sannidhānaṃ gatā mānavā me",
            "bhavāmbhodhipāraṃ gatāste tadaiva",
@@ -76,7 +75,7 @@ STOTRA = {
            "sumastomasaṃchannamāṇikyamañce",
            "samudyatsahasrārkatulyaprakāśaṃ",
            "sadā bhāvaye kārtikeyaṃ sureśam", 8,
-           "In a gleaming golden mansion, the wish-granting cow of men, on a ruby "
+           "In a gleaming golden mansion that yields men their desires, on a ruby "
            "throne canopied with masses of flowers, blazing like a thousand "
            "rising suns — I ever meditate on Kārttikeya, lord of the gods."),
         _v("raṇaddhaṃsake mañjule'tyantaśoṇe",
@@ -85,7 +84,7 @@ STOTRA = {
            "sadā modatāṃ skanda te pādapadme", 9,
            "On your lotus feet — anklets softly ringing, lovely, deeply crimson, "
            "brimming with the nectar of heart-stealing grace — may the bee of my "
-           "mind, scorched by the pain (of separation), ever take its delight, O "
+           "mind, scorched by the afflictions of worldly existence, ever take its delight, O "
            "Skanda."),
         _v("suvarṇābhadivyāmbarairbhāsamānāṃ",
            "kvaṇatkiṅkiṇīmekhalāśobhamānām",
@@ -105,8 +104,7 @@ STOTRA = {
            "nirastebhaśuṇḍāndviṣatkāladaṇḍān",
            "hatendrāriṣaṇḍāñjagatrāṇaśauṇḍān",
            "sadā te pracaṇḍāñśraye bāhudaṇḍān", 12,
-           "I ever take refuge in your fierce staff-like arms — which set bounds "
-           "even for Brahmā, which bore the cosmic egg in play, which outdo the "
+           "I ever take refuge in your fierce staff-like arms — which punished even Brahmā, which bore the cosmic egg in play, which outdo the "
            "elephant's trunk, which are a rod of Death to foes, which slew the "
            "host of Indra's enemies, valiant in guarding the world."),
         _v("sadā śāradāḥ ṣaṇmṛgāṅkā yadi syuḥ",
@@ -158,7 +156,7 @@ STOTRA = {
            "pate śaktipāṇe mayūrādhirūḍha",
            "pulindātmajākānta bhaktārtihārin",
            "prabho tārakāre sadā rakṣa māṃ tvam", 19,
-           "O Guha, Skanda, ever-youthful lord, commander of the army, spear in "
+           "O Kumāra, son of the Lord, Guha, Skanda, commander of the army, spear in "
            "hand, mounted on the peacock; O beloved of the huntress's daughter, "
            "remover of devotees' distress; O Lord, foe of Tāraka — ever protect "
            "me."),
@@ -188,7 +186,7 @@ STOTRA = {
            "hatastārakaḥ siṃhavaktraśca daityaḥ",
            "mamāntarhṛdisthaṃ manaḥkleśamekaṃ",
            "na haṃsi prabho kiṃ karomi kva yāmi", 23,
-           "By you the demon named Śūra, devourer of a thousand worlds, was "
+           "By you the demon named Śūra, who ruled a thousand worlds, was "
            "slain, and Tāraka, and the lion-faced demon — yet the one grief "
            "lodged deep within my heart you do not slay, O Lord. What shall I "
            "do? Where shall I go?"),
@@ -213,7 +211,7 @@ STOTRA = {
            "guhe santu līnā mamāśeṣabhāvāḥ", 26,
            "Skanda's form in my sight, Skanda's glory in my ears, ever his holy "
            "story in my mouth; his service the work of my hands, my body his "
-           "servant — may all my faculties, O Guha, be dissolved into you."),
+           "servant — may all that I am be absorbed in Guha."),
         _v("munīnāmutāho nṛṇāṃ bhaktibhājāṃ",
            "abhīṣṭapradāḥ santi sarvatra devāḥ",
            "nṛṇāmantyajānāmapi svārthadāne",

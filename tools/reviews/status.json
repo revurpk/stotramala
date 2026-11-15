@@ -215,5 +215,33 @@
   "fixed": 0,
   "open": 0,
   "reviewer": "claude-fable-5-2"
+ },
+ "subrahmanya-ashtottara-shatanama-stotram": {
+  "coverage": "full",
+  "date": "2026-11-14",
+  "fixed": 1,
+  "open": 0,
+  "reviewer": "claude-fable-5-2"
+ },
+ "subrahmanya-bhujangam": {
+  "coverage": "full",
+  "date": "2026-11-14",
+  "fixed": 7,
+  "open": 3,
+  "reviewer": "claude-fable-5-2"
+ },
+ "subrahmanya-shodashanama-stotram": {
+  "coverage": "full",
+  "date": "2026-11-14",
+  "fixed": 0,
+  "open": 0,
+  "reviewer": "claude-fable-5-2"
+ },
+ "syamala-dandakam": {
+  "coverage": "full",
+  "date": "2026-11-14",
+  "fixed": 3,
+  "open": 3,
+  "reviewer": "claude-fable-5-2"
  }
 }

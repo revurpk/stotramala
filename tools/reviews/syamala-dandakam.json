@@ -1,0 +1,75 @@
+{
+ "series": "syamala-dandakam",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-14",
+ "coverage": "full",
+ "scope": "All eight units read against the text. The translation of the long prose units is a condensed rendering that leaves out part of many compounds; I corrected the phrases that were wrong but did not make it complete. There are no word-by-word glosses. The planned comparison with the Gita Press text is still waiting.",
+ "items": [
+  {
+   "unit": 3,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Four phrases misread their compounds: the eyes “like a bow of flowers”, a “mole of musk” (it is leaf-patterns drawn in musk), “one blue lotus-ear drawn by the sway of your eyes” (her eyes put the lotus at her ear to shame), “a rain of camphor and betel” (bits of areca, betel and camphor gleam in her mouth).",
+   "change": "Retranslated those phrases.",
+   "slug": "syamala-dandakam"
+  },
+  {
+   "unit": 5,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "vāṇīśa is Brahmā, not Sarasvatī; the list of gods was out of order; the dūrvā-and-deer image was garbled (the moon’s deer mistakes the dark sheen of hair for grass).",
+   "change": "Retranslated.",
+   "slug": "syamala-dandakam"
+  },
+  {
+   "unit": 6,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "prītibhājā vasantena is “Spring, who has Prīti with him”, not “Spring, who is full of joy”.",
+   "change": "Corrected.",
+   "slug": "syamala-dandakam"
+  },
+  {
+   "unit": 6,
+   "area": "text",
+   "status": "open",
+   "issue": "The page reads pañcabāṇena ratyā na saṃbhāvite (“not honoured by Love and Rati”), and the translation strains to make sense of it (“not (merely) esteemed”). The usual text is ratyā ca saṃbhāvite, “honoured by Love and by Rati”, parallel to the next phrase about Spring.",
+   "options": [
+    "A. Emend na to ca and translate “honoured by the five-arrowed Love and by Rati”.",
+    "B. Keep na with the present translation.",
+    "C. Decide when the Gita Press text is compared."
+   ],
+   "recommend": "A, or C if that comparison is near.",
+   "decision": "",
+   "slug": "syamala-dandakam"
+  },
+  {
+   "unit": 3,
+   "area": "text",
+   "status": "open",
+   "issue": "Unit 3 has siddhasaṃgānite; the usual text is siddhasaṃmānite (“honoured by the Siddhas”). The translation says “attended by the perfected ones”.",
+   "options": [
+    "A. Emend to siddhasaṃmānite.",
+    "B. Keep.",
+    "C. Decide when the Gita Press text is compared."
+   ],
+   "recommend": "C.",
+   "decision": "",
+   "slug": "syamala-dandakam"
+  },
+  {
+   "unit": 0,
+   "area": "translation",
+   "status": "open",
+   "issue": "The translation of units 3–7 is condensed: roughly a third of the members of the long compounds are not rendered. A complete translation, with word-by-word glosses, would be a rewrite of about 2,500 words.",
+   "options": [
+    "A. Leave it condensed for now.",
+    "B. I write a complete translation with word glosses.",
+    "C. Do it after the Gita Press comparison settles the text."
+   ],
+   "recommend": "C: translating in full before the text is settled would mean doing it twice.",
+   "decision": "",
+   "slug": "syamala-dandakam"
+  }
+ ]
+}

@@ -36,3 +36,7 @@ The packets list what needs a human decision; see `.claude/skills/review-works`.
 | [rama-raksha-stotram](packets/rama-raksha-stotram.md) | full | 2026-11-14 | 2 | 0 | 2 |
 | [shiva-manasa-puja](packets/shiva-manasa-puja.md) | full | 2026-11-14 | 0 | 0 | 2 |
 | [sriman-narayana](packets/sriman-narayana.md) | full | 2026-11-14 | 0 | 0 | 0 |
+| [subrahmanya-ashtottara-shatanama-stotram](packets/subrahmanya-ashtottara-shatanama-stotram.md) | full | 2026-11-14 | 0 | 0 | 1 |
+| [subrahmanya-bhujangam](packets/subrahmanya-bhujangam.md) | full | 2026-11-14 | 3 | 0 | 7 |
+| [subrahmanya-shodashanama-stotram](packets/subrahmanya-shodashanama-stotram.md) | full | 2026-11-14 | 0 | 0 | 0 |
+| [syamala-dandakam](packets/syamala-dandakam.md) | full | 2026-11-14 | 3 | 0 | 3 |

@@ -1,0 +1,17 @@
+{
+ "series": "subrahmanya-ashtottara-shatanama-stotram",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-14",
+ "coverage": "full",
+ "scope": "All units read: text for sense, translation and word glosses against the text. The text was not compared with the source page. The long last translation (flag T-RATIO) carries an editorial note about the 108th name.",
+ "items": [
+  {
+   "unit": 8,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "The name was written Ahaspati; the text has aharpatiḥ.",
+   "change": "Now Aharpati.",
+   "slug": "subrahmanya-ashtottara-shatanama-stotram"
+  }
+ ]
+}

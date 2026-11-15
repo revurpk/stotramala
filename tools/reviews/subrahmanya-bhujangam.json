@@ -1,0 +1,105 @@
+{
+ "series": "subrahmanya-bhujangam",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-14",
+ "coverage": "full",
+ "scope": "All units read: text for sense and metre, translation and word glosses against the text. The text was not compared with the source page.",
+ "items": [
+  {
+   "unit": 3,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "mahaccittageham and mahīdevadevam were “dwelling in the great heart” and “god of the gods of earth”; the word glosses had the right sense.",
+   "change": "Now “whose home is the heart of the great; god of the brāhmaṇas, the gods on earth”.",
+   "slug": "subrahmanya-bhujangam"
+  },
+  {
+   "unit": 8,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "kāmadohe describes the mansion; “the wish-granting cow of men” hung loose.",
+   "change": "Now “a gleaming golden mansion that yields men their desires”.",
+   "slug": "subrahmanya-bhujangam"
+  },
+  {
+   "unit": 9,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "“the pain (of separation)” had no basis; the gloss had “afflictions of existence”.",
+   "change": "Translation aligned with the gloss.",
+   "slug": "subrahmanya-bhujangam"
+  },
+  {
+   "unit": 12,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "vidhau kḷptadaṇḍān is “that punished Brahmā” (the well-known story), not “set bounds for”.",
+   "change": "Corrected.",
+   "slug": "subrahmanya-bhujangam"
+  },
+  {
+   "unit": 19,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "kumāra and īśasūno (“son of the Lord”) were merged into “ever-youthful lord”.",
+   "change": "Now “O Kumāra, son of the Lord, …”.",
+   "slug": "subrahmanya-bhujangam"
+  },
+  {
+   "unit": 23,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "sahasrāṇḍabhoktā was “devourer of a thousand worlds”; bhoktṛ here is the enjoyer, i.e. ruler.",
+   "change": "Now “who ruled a thousand worlds”.",
+   "slug": "subrahmanya-bhujangam"
+  },
+  {
+   "unit": 26,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "guhe is locative (“in Guha”), not an address.",
+   "change": "Now “may all that I am be absorbed in Guha”.",
+   "slug": "subrahmanya-bhujangam"
+  },
+  {
+   "unit": 31,
+   "area": "text",
+   "status": "open",
+   "issue": "Line 2, namaśca tubhyaṃ namaḥ kukkuṭāya, is one syllable short of the metre (11 for 12). The usual text is namaśchāga tubhyaṃ, “salutation to you, O ram” (the ram is Skanda’s other mount), which fits the verse’s list: peacock, spear, ram, cock.",
+   "options": [
+    "A. Emend to namaśchāga tubhyaṃ and translate “salutation to you, O ram”.",
+    "B. Keep as it is."
+   ],
+   "recommend": "A: the metre proves a syllable is lost and the list wants the ram.",
+   "decision": "",
+   "slug": "subrahmanya-bhujangam"
+  },
+  {
+   "unit": 0,
+   "area": "text",
+   "status": "open",
+   "issue": "Three small slips where the word glosses already have the right form: verse 16 cighrate for jighrate (“kisses, smells”); verse 20 guhaṃ for the vocative guha; verse 9 bhavatkleśa for bhavakleśa (“the afflictions of worldly existence”; bhavat- would mean “your”).",
+   "options": [
+    "A. Correct all three.",
+    "B. Correct only cighrate and guhaṃ.",
+    "C. Keep."
+   ],
+   "recommend": "A.",
+   "decision": "",
+   "slug": "subrahmanya-bhujangam"
+  },
+  {
+   "unit": 32,
+   "area": "text",
+   "status": "open",
+   "issue": "Last line: jaya tvaṃ pitā muktidāneśasūno. The usual text has sadā for pitā (“be ever victorious, O son of the Lord who gives liberation”); pitā, a nominative among vocatives, is awkward, and the translation has to supply “our father”.",
+   "options": [
+    "A. Change to sadā and translate “Be ever victorious”.",
+    "B. Keep pitā."
+   ],
+   "recommend": "A if you know the verse with sadā; otherwise B until the source is checked.",
+   "decision": "",
+   "slug": "subrahmanya-bhujangam"
+  }
+ ]
+}
