@@ -39,7 +39,7 @@ STOTRA = {
             "ma_nyuṃ viśa^ īḷate_ mānu^ṣī_ryāḥ pā_hi no^ manyo_ tapa^sā sa_joṣā^ḥ"], "|| 2 ||",
            "Manyu was Indra, Manyu was the god himself; Manyu was the invoker, "
            "Varuṇa, Jātavedas. The human tribes extol Manyu. Guard us, O Manyu, "
-           "at one with our ardour (tapas)."),
+           "in accord with Tapas (ardour)."),
         _v(["a_bhī^hi manyo ta_vasa_stavī^yā_ntapa^sā yu_jā vi ja^hi_ śatrū^n |",
             "a_mi_tra_hā vṛ^tra_hā da^syu_hā ca_ viśvā_ vasū_nyā bha^rā_ tvaṃ na^ḥ"], "|| 3 ||",
            "Come forth, O Manyu, mightier than the mighty; with ardour as your "
@@ -88,7 +88,7 @@ STOTRA = {
            "shout for victory."),
         _v(["vi_je_ṣa_kṛdindra^ ivānavabra_vo_3_^'smākaṃ^ manyo adhi_pā bha^ve_ha |",
             "pri_yaṃ te_ nāma^ sahure gṛṇīmasi vi_dmā tamutsaṃ_ yata^ āba_bhūtha^"], "|| 12 ||",
-           "A maker of victory, unyielding like Indra — be our overlord here, O "
+           "A maker of victory, not to be gainsaid, like Indra — be our overlord here, O "
            "Manyu. We sing your dear name, O conqueror; we know the wellspring "
            "from which you have come."),
         _v(["ābhū^tyā saha_jā va^jra sāyaka_ saho^ bibharṣyabhibhūta_ utta^ram |",

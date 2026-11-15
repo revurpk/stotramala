@@ -31,8 +31,8 @@ STOTRA = {
            "girivaravindhya-śirodhinivāsini viṣṇuvilāsini jiṣṇunute",
            "bhagavati he śitikaṇṭhakuṭumbini bhūrikuṭumbini bhūrikṛte", 1,
            "O delight of the Mountain, gladdener of the earth, joy of all the "
-           "world, praised by the blessed; dweller on the crest of great "
-           "Vindhya, in whom Viṣṇu takes delight, praised by the victorious; O "
+           "world, praised by Nanda; dweller on the crest of great "
+           "Vindhya, in whom Viṣṇu takes delight, praised by Jiṣṇu (Indra); O "
            "Bhagavatī, consort of the blue-throated Śiva, of a vast household, "
            "of manifold deeds."),
         _v("suravaravarṣiṇi durdharadharṣiṇi durmukhamarṣiṇī harṣarate",
@@ -71,10 +71,7 @@ STOTRA = {
            "tribhuvanamastakaśūlavirodhiśirodhikṛtāmalaśūlakare",
            "dumidumitāmaradundubhinādamaho mukharīkṛtatigmakare", 6,
            "O you whose hand grants fearlessness even to the brave lords and "
-           "husbands of the surrendered foe's women; whose hand bears the "
-           "spotless spear raised against the head-piercing spears (the "
-           "afflictions) of the three worlds; whose fierce hand is made "
-           "resonant with the ‘dumi-dumi’ beat of the gods' great war-drums."),
+           "husbands of the surrendered foe's women; whose hand plants the spotless trident on the heads of the foes who are a spike in the head of the three worlds; who make the very sun ring with the mighty ‘dumi-dumi’ of the gods' kettledrums."),
         _v("ayi nijahuṅkṛtimātranirākṛtadhūmravilocanadhūmraśate",
            "samaraviśoṣitaśoṇitabījasamudbhavaśoṇitabījalate",
            "śivaśivaśumbhaniśumbhamahāhavatarpitabhūtapiśācarate", 7,
@@ -101,9 +98,7 @@ STOTRA = {
            "jhaṇa-jhaṇa-jhiñjhimi jhiṅkṛta nūpurasiṃjitamohita bhūtapate",
            "naṭitanaṭārdha naṭī naṭa nāyaka nāṭitanāṭya sugānarate", 10,
            "O you praised by all the world intent on hymns of ‘jaya jaya, jaya’; "
-           "O lord of the ghost-hosts, enchanted by the ‘jhaṇa jhaṇa jhiñjhimi’ "
-           "jingling of anklets; delighting in the fine song and the acted "
-           "dance of dancing-girl, dancer, and dance-master."),
+           "who enchant the Lord of spirits (Śiva) with the ‘jhaṇa jhaṇa jhiñjhimi’ jingling of your anklets; delighting in the fine song and the drama danced by the Lord of dancers, half of whose body is the dancing lady."),
         _v("ayi sumanaḥ sumanaḥ sumanaḥ sumanaḥ sumanoharakāṃtiyute",
            "śritarajanī-rajanīrajanī-rajanīrajanīkara-vaktravṛte",
            "sunayanavibhramara-bhramarabhramara-bhramarabhramarādhipate", 11,
@@ -123,8 +118,7 @@ STOTRA = {
            "ayi sudatījana-lālasamānasa-mohanamanmatharājasute", 13,
            "O queen over the lordly rutting elephant, thick with the ceaseless "
            "flow of temple-ichor; O daughter arisen from the nectar-ocean, "
-           "moon-formed ornament of the three worlds; O royal daughter of "
-           "Manmatha, enchantress of the longing hearts of fair-toothed women."),
+           "moon-formed ornament of the three worlds; O king's daughter, a very god of love to bewitch the longing hearts of fair-toothed women."),
         _v("kamaladalāmala-komalakānti-kalā-kalitāmala-bhālalate",
            "sakalavilāsa-kalānilayakrama-kelicalatkala-haṃsakule",
            "alikulasaṅkula-kuvalayamaṇḍala-maulimiladbakulālikule", 14,
@@ -150,9 +144,7 @@ STOTRA = {
         _v("vijitasahasra-karaika-sahasra-karaika-sahasra-karaikanute",
            "kṛtasuratāraka-saṅgaratāraka-saṅgaratāraka-sunūsute",
            "surathasamādhi-samānasamādhi-samādhi-samādhi-sujātarate", 17,
-           "O you hymned by thousand upon thousand hands of the thousand-handed; "
-           "helper in the god-and-Tāraka war, mother of the one born for it "
-           "(Skanda); O you well pleased, arisen from the deep, matchless "
+           "O you praised by the thousand-rayed Sun, whom you outshine with your thousand hands; whose son (Skanda) saved the gods in the war with Tāraka; O you well pleased, arisen from the deep, matchless "
            "meditation of King Suratha and the merchant Samādhi."),
         _v("padakamalaṃ karuṇānilaye varivasyati yonudinam sa śive",
            "ayi kamale kamalānilaye kamalānilayaḥ sa kathaṃ na bhavet",
@@ -164,17 +156,13 @@ STOTRA = {
         _v("kanakalasatkalasindhu-jalairanu-siñcinute guṇaraṅgabhuvam",
            "bhajati sa kiṃ na śacīkucakumbhataṭīparirambha-sukhānubhavam",
            "tavacaraṇaṃ śaraṇaṅkaravāṇi natāmaravāṇinivāsiśivam", 19,
-           "For one who sprinkles the arena of your virtues with waters from a "
-           "gleaming golden pitcher-sea — does he not taste the bliss of "
+           "For one who bathes you, the stage of all virtues, with river-waters gleaming like gold — does he not taste the bliss of "
            "embracing the jar-like breasts of Śacī? O you in whom the bowed "
            "gods' Speech and Śiva dwell — let me make your foot my refuge."),
         _v("tava vimalendukulaṃ vadanendumalaṃ sakalaṃ nanukūlayate",
            "kimu puruhūtapurīndu-mukhī-sumukhībhirasau vimukhīkriyate",
            "mama tu mataṃ śivanāmadhane bhavatī kṛpayā kimuta kriyate", 20,
-           "Your face-moon, of spotless-moon lineage, makes all things wholly "
-           "favourable; is it thereby outshone by the moon-faces of the fair "
-           "women of Indra's city? But this is my conviction, O treasure of "
-           "Śiva's name: what is not accomplished by your grace?"),
+           "Whoever courts your face, that spotless moon — would the moon-faced beauties of Indra's city turn him away? And this is my belief, O you whose wealth is the name of Śiva: what can your grace not do? (The first line is obscure and the rendering tentative.)"),
         _v("ayi mayi dīna dayālutayā kṛpayaiva tvayā bhavitavyamume",
            "ayi jagato jananī kṛpayāsi yathāsi tathānumitāsirate",
            "yaducitamatra bhavatyurarī-kurutādurutāpamapākurute", 21,

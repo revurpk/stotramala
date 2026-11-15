@@ -138,5 +138,19 @@
   "fixed": 1,
   "open": 0,
   "reviewer": "claude-fable-5-2"
+ },
+ "mahishasura-mardini": {
+  "coverage": "full",
+  "date": "2026-11-14",
+  "fixed": 9,
+  "open": 4,
+  "reviewer": "claude-fable-5-2"
+ },
+ "manyu-suktam": {
+  "coverage": "full",
+  "date": "2026-11-14",
+  "fixed": 2,
+  "open": 0,
+  "reviewer": "claude-fable-5-2"
  }
 }

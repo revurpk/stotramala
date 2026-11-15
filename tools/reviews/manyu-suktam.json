@@ -1,0 +1,25 @@
+{
+ "series": "manyu-suktam",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-14",
+ "coverage": "full",
+ "scope": "All units read: text for sense, translation and word glosses against the text. The text was not compared with the source page.",
+ "items": [
+  {
+   "unit": 2,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "tapasā sajoṣāḥ was “at one with our ardour”; no “our” in the text.",
+   "change": "Now “in accord with Tapas (ardour)”.",
+   "slug": "manyu-suktam"
+  },
+  {
+   "unit": 12,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "anavabrava was “unyielding” in the translation and “beyond reproach” in the gloss.",
+   "change": "Both now “not to be gainsaid”.",
+   "slug": "manyu-suktam"
+  }
+ ]
+}

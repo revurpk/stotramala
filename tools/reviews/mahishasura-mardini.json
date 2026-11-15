@@ -1,0 +1,134 @@
+{
+ "series": "mahishasura-mardini",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-14",
+ "coverage": "full",
+ "scope": "All units read: text for sense, translation and word glosses against the text. The text was not compared with the source page. The hymn is full of sound-play and several lines are obscure; where translation and word gloss disagreed I followed the construction the grammar supports.",
+ "items": [
+  {
+   "unit": 1,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "nandanute and jiṣṇunute were “praised by the blessed” and “by the victorious”; the word glosses had Nanda and Indra.",
+   "change": "Translation now names Nanda and Jiṣṇu (Indra).",
+   "slug": "mahishasura-mardini"
+  },
+  {
+   "unit": 6,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Lines 2–3 were misconstrued: the trident is planted on the foes’ heads, and tigmakara is the sun, not “your fierce hand”.",
+   "change": "Retranslated to agree with the word glosses.",
+   "slug": "mahishasura-mardini"
+  },
+  {
+   "unit": 10,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "bhūtapate was taken as an address “O lord of the ghost-hosts”; the Goddess enchants Bhūtapati (Śiva). naṭārdha-naṭī-naṭa-nāyaka is Ardhanārīśvara as lord of dancers.",
+   "change": "Retranslated.",
+   "slug": "mahishasura-mardini"
+  },
+  {
+   "unit": 13,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "manmatharājasute was “royal daughter of Manmatha”.",
+   "change": "Now “O king's daughter, a very god of love to bewitch …”; word gloss of line 1 corrected (pate is “mistress”, not “gait”).",
+   "slug": "mahishasura-mardini"
+  },
+  {
+   "unit": 17,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "sahasrakara is the thousand-rayed Sun who praises her; the translation had “thousand hands of the thousand-handed”. Line 2 likewise loosened.",
+   "change": "Retranslated to agree with the word glosses.",
+   "slug": "mahishasura-mardini"
+  },
+  {
+   "unit": 19,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "“a gleaming golden pitcher-sea” was not English or Sanskrit.",
+   "change": "Now “river-waters gleaming like gold”.",
+   "slug": "mahishasura-mardini"
+  },
+  {
+   "unit": 20,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "The moon-faced women of Indra’s city do not “outshine” her face; the devotee who courts her face is not turned away by them.",
+   "change": "Retranslated, marked tentative.",
+   "slug": "mahishasura-mardini"
+  },
+  {
+   "unit": 5,
+   "area": "words",
+   "status": "fixed",
+   "issue": "Word gloss had vadha-udita for the text’s vadhodyata.",
+   "change": "Corrected to vadha-udyata, “poised to slay”.",
+   "slug": "mahishasura-mardini"
+  },
+  {
+   "unit": 4,
+   "area": "words",
+   "status": "fixed",
+   "issue": "The gloss named Caṇḍa and Muṇḍa though the page text reads khaṇḍa … muṇḍa.",
+   "change": "Gloss now follows the page text and notes the other reading.",
+   "slug": "mahishasura-mardini"
+  },
+  {
+   "unit": 13,
+   "area": "text",
+   "status": "open",
+   "issue": "Two misspellings in verse 13: tribhivanabhūṣaṇa (for tribhuvana) and mattamattaṃgaja (for mattamataṅgaja). The word glosses already have the right forms.",
+   "options": [
+    "A. Correct both.",
+    "B. Keep."
+   ],
+   "recommend": "A: neither is a word as printed.",
+   "decision": "",
+   "slug": "mahishasura-mardini"
+  },
+  {
+   "unit": 4,
+   "area": "text",
+   "status": "open",
+   "issue": "Line 3 reads nipātitakhaṇḍavipātitamuṇḍa; most texts read nipātitacaṇḍa…, naming the demons Caṇḍa and Muṇḍa.",
+   "options": [
+    "A. Keep khaṇḍa (as the source).",
+    "B. Change to caṇḍa and translate with the two demons’ names."
+   ],
+   "recommend": "A unless your recitation text has caṇḍa; both are transmitted.",
+   "decision": "",
+   "slug": "mahishasura-mardini"
+  },
+  {
+   "unit": 6,
+   "area": "text",
+   "status": "open",
+   "issue": "Line 3 ends mukharīkṛtatigmakare (“who makes the sun resound”); the common text is mukharīkṛtadiṅmakare (“who fills the quarters with sound”).",
+   "options": [
+    "A. Keep tigmakare.",
+    "B. Change to diṅmakare and retranslate."
+   ],
+   "recommend": "A unless your recitation text differs.",
+   "decision": "",
+   "slug": "mahishasura-mardini"
+  },
+  {
+   "unit": 11,
+   "area": "translation",
+   "status": "open",
+   "issue": "Verses 11, 12 and 19 (line 3) are sound-play whose sense is uncertain; translation and gloss give plausible but unverified renderings.",
+   "options": [
+    "A. Leave as they are.",
+    "B. Mark them as tentative on the page.",
+    "C. You supply the sense from a commentary."
+   ],
+   "recommend": "B.",
+   "decision": "",
+   "slug": "mahishasura-mardini"
+  }
+ ]
+}
