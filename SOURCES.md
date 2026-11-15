@@ -2496,7 +2496,7 @@ Sections 10.1–10.4 are taken from Sanskrit Wikisource transcriptions of public
 
 ### 10.3 Śṛṅgāratilakam — `stotra/kavya/shringaratilakam-iast.html`
 - Source: Sanskrit Wikisource, *शृङ्गारतिलकम् (मूलमात्रम्)*, pp. 86–91 of the 1910 edition of the *Ṛtusaṃhāra* with Candrikā commentary (proofreading level 4). Public domain.
-- Thirty-one verses, numbered here by order. The print’s text is in places corrupt (verses 2, 8, 20 and 31 especially), and the translations of those say so. I corrected evident printing slips: *pīḍāṃ* (31), *dantadaśanaṃ* and *tat* for *dantadanalaṃ* and *te* (29), *prāpnoti* (21), word division in several verses. A few verses are close in wording to verses of other collections.
+- Thirty-one verses, numbered here by order. The print’s text is in places corrupt (verses 2, 8, 20 and 31 especially). Verses 2, 8 and 20 are translated from the usual text where the print fails, and the translation or the word gloss says where; verse 31 is still marked obscure. The open readings are listed in `tools/reviews/packets/shringaratilakam.md`. I corrected evident printing slips: *pīḍāṃ* (31), *dantadaśanaṃ* and *tat* for *dantadanalaṃ* and *te* (29), *prāpnoti* (21), word division in several verses. A few verses are close in wording to verses of other collections.
 
 ### 10.4 Meghadūta — `stotra/kavya/meghaduta-purva-iast.html`, `meghaduta-uttara-iast.html`
 - Source: Sanskrit Wikisource, *मेघदूतम् - पूर्वमेघः* and *मेघदूतम् - उत्तरमेघः*, fetched 2026-11-13. Public domain. Verse numbers are those of the Wikisource text (Pūrvamegha 1–66, Uttaramegha 1–55); the two extra verses it carries, numbered here 19a (Pūrvamegha) and 45a (Uttaramegha), are verses not found in every recension, and 45a is textually uncertain (its translation says so).
