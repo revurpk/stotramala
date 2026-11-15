@@ -1,0 +1,57 @@
+{
+ "series": "sandhyavandanam",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-14",
+ "coverage": "full",
+ "scope": "All 33 units read: text for sense, translation and word glosses against the text. The Vedic text and its accents were not compared with the source. The three low-match flags (units 11, 25, 32) are sandhi and a repeated refrain glossed once.",
+ "items": [
+  {
+   "unit": 8,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "brahmaṇaspatiḥ is nominative: he purifies. The translation had the waters purifying “the Lord of the Veda”.",
+   "change": "Now “May the Lord of the sacred word purify; may she, purified by the sacred word, purify me.”",
+   "slug": "sandhyavandanam"
+  },
+  {
+   "unit": 12,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "idaṃ brahma juṣasva naḥ is “accept this prayer of ours”; it was “make this Brahman welcome to us”.",
+   "change": "Corrected, as in the gloss.",
+   "slug": "sandhyavandanam"
+  },
+  {
+   "unit": 7,
+   "area": "words",
+   "status": "fixed",
+   "issue": "The gloss left out jyotiṣi and put juhomi svāhā in brackets.",
+   "change": "All four words glossed.",
+   "slug": "sandhyavandanam"
+  },
+  {
+   "unit": 24,
+   "area": "words",
+   "status": "fixed",
+   "issue": "anīkam was glossed “host”; here it is the face (of the gods), as the translation has.",
+   "change": "Corrected.",
+   "slug": "sandhyavandanam"
+  },
+  {
+   "unit": 30,
+   "area": "words",
+   "status": "fixed",
+   "issue": "riripuḥ … na dīvi was glossed “what they cheat … in play”.",
+   "change": "Now “whatever they have laid to our charge … as at dice”, matching the translation.",
+   "slug": "sandhyavandanam"
+  },
+  {
+   "unit": 31,
+   "area": "words",
+   "status": "fixed",
+   "issue": "The gloss had etasmin for the text’s etasyām.",
+   "change": "Corrected.",
+   "slug": "sandhyavandanam"
+  }
+ ]
+}
