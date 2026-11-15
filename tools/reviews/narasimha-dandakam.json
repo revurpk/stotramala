@@ -1,0 +1,39 @@
+{
+ "series": "narasimha-dandakam",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-14",
+ "coverage": "full",
+ "scope": "All units read: translation and word glosses against the Telugu text. The text was not compared with the source. A folk text with several dialect or corrupt words.",
+ "items": [
+  {
+   "unit": 1,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "నరుడా was “O Man-lion”; the word is “O Man”.",
+   "change": "Now “O Man, O Teacher”.",
+   "slug": "narasimha-dandakam"
+  },
+  {
+   "unit": 2,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "ఓనంబితడు, కైనంబితడు was “the sacred syllable … our one recourse” in the translation and “the beginning … the end” in the gloss.",
+   "change": "Translation aligned with the gloss and marked uncertain.",
+   "slug": "narasimha-dandakam"
+  },
+  {
+   "unit": 2,
+   "area": "translation",
+   "status": "open",
+   "issue": "Three words are uncertain to me: ఓనంబు and కైనంబు (unit 2; glossed “the beginning”, “the end”) and గోళజంబు (unit 3; glossed “the one born of the pillar”, left out of the translation). Unit 7 has ఊర్హిన ఊర్హునకు and నారశింహోనకు, which look like spoken forms.",
+   "options": [
+    "A. Leave the renderings as they are, marked uncertain.",
+    "B. You supply the sense as you know it from recitation.",
+    "C. You have a printed copy to correct the text against."
+   ],
+   "recommend": "B or C: this is an orally transmitted text and you are the better witness.",
+   "decision": "",
+   "slug": "narasimha-dandakam"
+  }
+ ]
+}

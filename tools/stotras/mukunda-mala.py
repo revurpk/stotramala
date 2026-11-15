@@ -21,7 +21,7 @@ STOTRA = {
     "sections": [
         _v("ghuṣyate yasya nagare raṅgayātrā dine dine",
            "tam ahaṃ śirasā vande rājānaṃ kulaśekharam", "",
-           "In whose city the temple-procession is proclaimed day after day — "
+           "In whose city the journey to Śrīraṅgam is proclaimed day after day — "
            "that king, Kulaśekhara, I revere with my head."),
         "ornament",
         _v("śrīvallabheti varadeti dayāpareti bhaktapriyeti bhavaluṇṭhanakovideti",
@@ -41,8 +41,7 @@ STOTRA = {
            "grace, may I never forget Your lotus feet, birth after birth."),
         _v("nāhaṃ vande tava caraṇayordvandvam advandvahetoḥ kumbhīpākaṃ gurum api hare nārakaṃ nāpanetum",
            "ramyā rāmā mṛdutanulatā nandane nāpi rantuṃ bhāve bhāve hṛdayabhavane bhāvayeyaṃ bhavantam", 4,
-           "I bow to Your feet not to escape the dreadful Kumbhīpāka hell, nor to "
-           "sport with lovely, tender women in the pleasure-groves — but that in "
+           "I bow to the pair of Your feet not to be free of the pairs of opposites, nor to escape the heavy hell of Kumbhīpāka, O Hari, nor to sport with lovely, tender women in the pleasure-groves — but that in "
            "birth after birth, in the dwelling of my heart, I may ever meditate "
            "on You."),
         _v("nāsthā dharme na vasunicaye naiva kāmopabhoge yad bhāvyaṃ tad bhavatu bhagavan pūrvakarmānurūpam",
@@ -70,7 +69,7 @@ STOTRA = {
         _v("karacaraṇasaroje kāntimannetramīne śramamuṣi bhujavīcivyākule'gādhamārge",
            "harisarasi vigāhyāpīya tejojalaughaṃ bhavamaruparikhinnaḥ khedamadya tyajāmi", 9,
            "Plunging into the lake that is Hari — its lotuses his hands and feet, "
-           "its fish his lustrous eyes, its deep waters stirred by the waves of "
+           "its fish his lustrous eyes, a lake that takes away weariness, its deep waters stirred by the waves of "
            "his arms — and drinking my fill of the flood of his radiance, weary "
            "from the desert of existence, today I cast off my sorrow."),
         _v("sarasijanayane saśaṅkhacakre murabhidi mā viramasva citta rantum",
@@ -80,7 +79,7 @@ STOTRA = {
            "the nectar of remembering Hari's feet."),
         _v("mābhīr mandamano vicintya bahudhā yāmīś ciraṃ yātanā nāmī naḥ prabhavanti pāparipavaḥ svāmī nanu śrīdharaḥ",
            "ālasyaṃ vyapanīya bhaktisulabhaṃ dhyāyasva nārāyaṇaṃ lokasya vyasanāpanodanakaro dāsasya kiṃ na kṣamaḥ", 11,
-           "Fear not, O dull mind, brooding 'long shall I go to torments' — these "
+           "Fear not, O dull mind, brooding in many ways on Yama's long torments — these "
            "sinful foes cannot prevail over us, for our Lord is surely Śrīdhara. "
            "Casting off sloth, meditate on Nārāyaṇa, so easily won by devotion: "
            "is the remover of the world's distress unable to save his servant?"),
@@ -152,8 +151,7 @@ STOTRA = {
            "yaḥ kāntāmaṇirukmiṇīghanakucadvandvaikabhūṣāmaṇiḥ śreyo devaśikhāmaṇir diśatu no gopālacūḍāmaṇiḥ", 22,
            "The Garuḍa-gem against the serpent of devotees' peril, the "
            "crest-jewel guarding the three worlds, the rain-cloud gem to the "
-           "cātaka-birds that are the gopīs' eyes, the seal-gem of beauty, the "
-           "lover-gem, the sole ornament on Rukmiṇī's breast, the crown-jewel of "
+           "cātaka-birds that are the gopīs' eyes, the seal-gem of beauty, the one jewel adorning the full breasts of Rukmiṇī, that gem among women, the crown-jewel of "
            "gods — may that crest-gem of cowherds grant us blessing."),
         _v("śatrucchedaikamantraṃ sakalam upaniṣadvākyasampūjyamantraṃ saṃsārottāramantraṃ samupacitatamasaḥ saṅghaniryāṇamantram",
            "sarvaiśvaryaikamantraṃ vyasanabhujagasandaṣṭasantrāṇamantraṃ jihve śrīkṛṣṇamantraṃ japa japa satataṃ janmasāphalyamantram", 23,
@@ -203,19 +201,19 @@ STOTRA = {
            "you not recall the might of Murāri's discus?"),
         _v("tattvaṃ bruvāṇāni paraṃ parastān madhu kṣarantīva satāṃ phalāni",
            "prāvartaya prāñjalir asmi jihve nāmāni nārāyaṇagocarāṇi", 30,
-           "The names within reach of Nārāyaṇa — declaring the Truth beyond the "
+           "The names that speak of Nārāyaṇa — declaring the Truth beyond the "
            "beyond, dripping honey as it were, the very fruit of the good — set "
            "them going, O tongue; with joined palms I stand."),
         _v("idaṃ śarīraṃ pariṇāmapeśalaṃ pataty avaśyaṃ ślathasandhijarjaram",
            "kim auṣadhaiḥ kliśyasi mūḍha durmate nirāmayaṃ kṛṣṇarasāyanaṃ piba", 31,
-           "This body, tender to decay, decrepit with loosened joints, must "
+           "This body, fair only while it lasts, decrepit with loosened joints, must "
            "surely fall. Why torment yourself with medicines, O foolish, "
            "ill-minded one? Drink the disease-free elixir that is Kṛṣṇa."),
         _v("dārā vārākaravarasutā te tanūjo viriñcaḥ stotā vedas tava suragaṇo bhṛtyavargaḥ prasādaḥ",
            "muktir māyā jagad avikalaṃ tāvakī devakī te mātā mitraṃ balaripusutas tvayy ato 'nyan na jāne", 32,
            "Your wife is the ocean's daughter; Your son is Viriñca (Brahmā); Your "
            "praiser is the Veda; the host of gods, Your retinue; liberation, but "
-           "Your favour; Māyā, the whole undivided world, is Yours; Devakī is "
+           "Your favour; the whole world is Your māyā; Devakī is "
            "Your mother; Your friend is Arjuna — so, apart from You, I know "
            "nothing."),
         _v("kṛṣṇo rakṣatu no jagattrayaguruḥ kṛṣṇaṃ namasyāmy ahaṃ kṛṣṇenāmaraśatravo vinihatāḥ kṛṣṇāya tasmai namaḥ",
@@ -258,7 +256,6 @@ STOTRA = {
         _v("yasya priyau śrutidharau kavilokavīrau mitre dvijanmavarapadmaśarāv abhūtām",
            "tenāmbujākṣacaraṇāmbujaṣaṭpadena rājñā kṛtā kṛtir iyaṃ kulaśekhareṇa", 40,
            "By that king Kulaśekhara — a bee at the lotus feet of the lotus-eyed "
-           "Lord, whose two dear friends, bearers of the Veda and heroes among "
-           "poets, were as choice lotus-arrows — this work was made."),
+           "Lord, whose two dear friends were the excellent brāhmaṇas Padma and Śara, learned in the Veda and heroes among poets — this work was made."),
     ],
 }

@@ -1,0 +1,81 @@
+{
+ "series": "mukunda-mala",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-14",
+ "coverage": "full",
+ "scope": "All units read: text for sense, translation and word glosses against the text. The text was not compared with the source page.",
+ "items": [
+  {
+   "unit": 1,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "raṅgayātrā is the journey to Śrīraṅgam (so the word gloss); the translation had “temple-procession”.",
+   "change": "Now “the journey to Śrīraṅgam is proclaimed”.",
+   "slug": "mukunda-mala"
+  },
+  {
+   "unit": 5,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "advandvahetoḥ (“not for freedom from the pairs of opposites”), gurum and hare were left out.",
+   "change": "Restored.",
+   "slug": "mukunda-mala"
+  },
+  {
+   "unit": 10,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "śramamuṣi (“that takes away weariness”) was left out.",
+   "change": "Restored.",
+   "slug": "mukunda-mala"
+  },
+  {
+   "unit": 12,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "yāmīś ciraṃ yātanāḥ is “the long torments of Yama”, object of “brooding”; it had been turned into a quoted thought.",
+   "change": "Now “brooding in many ways on Yama's long torments”.",
+   "slug": "mukunda-mala"
+  },
+  {
+   "unit": 23,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "kāntāmaṇi describes Rukmiṇī (“gem among women”), not Kṛṣṇa as “the lover-gem”; ghana-kuca-dvandva was reduced to “breast”.",
+   "change": "Retranslated as in the word gloss.",
+   "slug": "mukunda-mala"
+  },
+  {
+   "unit": 31,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "nārāyaṇagocarāṇi was “within reach of Nārāyaṇa”.",
+   "change": "Now “that speak of Nārāyaṇa”.",
+   "slug": "mukunda-mala"
+  },
+  {
+   "unit": 32,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "pariṇāmapeśalam was “tender to decay”, against the gloss “fair only until it changes”.",
+   "change": "Now “fair only while it lasts”.",
+   "slug": "mukunda-mala"
+  },
+  {
+   "unit": 33,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "māyā jagad avikalaṃ tāvakī is “the whole world is your māyā”.",
+   "change": "Corrected.",
+   "slug": "mukunda-mala"
+  },
+  {
+   "unit": 41,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "The two friends were rendered “as choice lotus-arrows”; the tradition (and the word gloss) takes Padma and Śara as their names.",
+   "change": "Now “the excellent brāhmaṇas Padma and Śara”.",
+   "slug": "mukunda-mala"
+  }
+ ]
+}

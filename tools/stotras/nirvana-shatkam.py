@@ -84,8 +84,7 @@ STOTRA = {
             ],
             "num": "|| 6 ||",
             "gloss": "I am without division and without form, pervading all, present "
-                     "in every sense; ever the same — beyond attachment, beyond "
-                     "liberation, beyond all that can be measured. " + _REFRAIN,
+                     "in every sense; for me there is no detachment, no liberation, nothing to be known. " + _REFRAIN,
         },
     ],
 }

@@ -1,0 +1,30 @@
+{
+ "series": "nirvana-shatkam",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-14",
+ "coverage": "full",
+ "scope": "All units read: text for sense, translation and word glosses against the text. The text was not compared with the source page.",
+ "items": [
+  {
+   "unit": 6,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "“ever the same” has no word in the page text (it belongs to another reading of the line, sadā me samatvam); the three negations were softened to “beyond”.",
+   "change": "Now “for me there is no detachment, no liberation, nothing to be known”.",
+   "slug": "nirvana-shatkam"
+  },
+  {
+   "unit": 6,
+   "area": "text",
+   "status": "open",
+   "issue": "Line 3 reads na cāsaṅgataṃ naiva muktir na meyaḥ. A widely recited form is sadā me samatvaṃ na muktir na bandhaḥ (“I am ever the same; for me neither liberation nor bondage”).",
+   "options": [
+    "A. Keep the source’s reading.",
+    "B. Change to the recited form and retranslate."
+   ],
+   "recommend": "A unless your recitation text has the other.",
+   "decision": "",
+   "slug": "nirvana-shatkam"
+  }
+ ]
+}

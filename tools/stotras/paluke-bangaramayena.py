@@ -49,7 +49,6 @@ STOTRA = {
         _v(["శరణాగత త్రాణ బిరుదాంకితుడవుగావా",
             "కరుణించు భద్రాచల వర రామదాస పోష"],
            "Are you not adorned with the very title, ‘protector of those who "
-           "take refuge’? Then be gracious, O cherisher of Rāmadāsa of "
-           "Bhadrācala, O excellent Rāma."),
+           "take refuge’? Then be gracious, O Lord of Bhadrācala, sustainer of Rāmadāsa."),
     ],
 }

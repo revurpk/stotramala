@@ -27,7 +27,7 @@ STOTRA = {
             "నరుడా గురుడా - నివే నమ్మితి నరశింహా",
             "చీమల వరదా - చిత్తజీవుడా",
             "భావజ వరదా - భక్త వత్సలా!"],
-           "O Lord Śrī Hari, I beseech you, Narasiṃha! O Man-lion, O teacher — "
+           "O Lord Śrī Hari, I beseech you, Narasiṃha! O Man, O Teacher — "
            "in you alone I trust, Narasiṃha! O boon-giver even to the ants, O "
            "life of the heart; O boon-giver to Love (the mind-born), O tender "
            "to your devotees!"),
@@ -37,7 +37,7 @@ STOTRA = {
             "ఓనంబితడు, కైనంబితడు!"],
            "All the mighty axe-wielding kings — Yama's messengers cut them down "
            "in the end. Yet he is the wind, he is the dust (he is everywhere); "
-           "he is the sacred syllable, he is our one recourse."),
+           "he is the beginning, he is the end (the last two words are uncertain)."),
         _v(["అంది పొంది నేర్చిన ఆది నారాయణమూర్తి ఇతండు",
             "ఇతండు అనగా నెవ్వరు గోళజంబు నరశింహా భళా నరశింహా",
             "నరశింహా నామములు ఎవరు తలుతురో",

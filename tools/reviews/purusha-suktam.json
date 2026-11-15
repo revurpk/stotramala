@@ -1,0 +1,17 @@
+{
+ "series": "purusha-suktam",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-14",
+ "coverage": "full",
+ "scope": "All units read: text for sense, translation and word glosses against the text. The text was not compared with the source page.",
+ "items": [
+  {
+   "unit": 2,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "“the lord of immortality, which he surpasses by food” made immortality the thing surpassed.",
+   "change": "Now “the lord of immortality, in that he grows beyond (this world) by food”; gloss of yat adjusted. The line is a known crux.",
+   "slug": "purusha-suktam"
+  }
+ ]
+}

@@ -27,3 +27,9 @@ The packets list what needs a human decision; see `.claude/skills/review-works`.
 | [mahalakshmi-ashtakam](packets/mahalakshmi-ashtakam.md) | full | 2026-11-14 | 0 | 0 | 1 |
 | [mahishasura-mardini](packets/mahishasura-mardini.md) | full | 2026-11-14 | 4 | 0 | 9 |
 | [manyu-suktam](packets/manyu-suktam.md) | full | 2026-11-14 | 0 | 0 | 2 |
+| [mukunda-mala](packets/mukunda-mala.md) | full | 2026-11-14 | 0 | 0 | 9 |
+| [nanati-batuku](packets/nanati-batuku.md) | full | 2026-11-14 | 0 | 0 | 0 |
+| [narasimha-dandakam](packets/narasimha-dandakam.md) | full | 2026-11-14 | 1 | 0 | 2 |
+| [nirvana-shatkam](packets/nirvana-shatkam.md) | full | 2026-11-14 | 1 | 0 | 1 |
+| [paluke-bangaramayena](packets/paluke-bangaramayena.md) | full | 2026-11-14 | 0 | 0 | 1 |
+| [purusha-suktam](packets/purusha-suktam.md) | full | 2026-11-14 | 0 | 0 | 1 |

@@ -1,0 +1,17 @@
+{
+ "series": "paluke-bangaramayena",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-14",
+ "coverage": "full",
+ "scope": "All units read: translation and word glosses against the Telugu text. The text was not compared with the source.",
+ "items": [
+  {
+   "unit": 6,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "భద్రాచల వర is “Lord of Bhadrācala”; the translation had “Rāmadāsa of Bhadrācala” and an added “O excellent Rāma”.",
+   "change": "Now “O Lord of Bhadrācala, sustainer of Rāmadāsa”.",
+   "slug": "paluke-bangaramayena"
+  }
+ ]
+}

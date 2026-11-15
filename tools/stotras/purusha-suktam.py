@@ -37,8 +37,7 @@ STOTRA = {
         _v(["puru^ṣa e_vedaṃ sarvaṃ_ yadbhū_taṃ yacca_ bhavya^m |",
             "u_tāmṛ^ta_tvasyeśā^no_ yadanne^nāti_roha^ti"], "|| 2 ||",
            "The Puruṣa alone is all this — what has been and what is yet to be. "
-           "He is the lord of immortality, which he surpasses by (transcends "
-           "through) food."),
+           "And he is the lord of immortality, in that he grows beyond (this world) by food."),
         _v(["e_tāvā^nasya mahi_māto_ jyāyāṁ^śca_ pūru^ṣaḥ |",
             "pādo^'sya_ viśvā^ bhū_tāni^ tri_pāda^syā_mṛtaṃ^ di_vi"], "|| 3 ||",
            "Such is his greatness, and the Puruṣa is greater still. All beings "

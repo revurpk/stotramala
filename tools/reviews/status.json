@@ -152,5 +152,47 @@
   "fixed": 2,
   "open": 0,
   "reviewer": "claude-fable-5-2"
+ },
+ "mukunda-mala": {
+  "coverage": "full",
+  "date": "2026-11-14",
+  "fixed": 9,
+  "open": 0,
+  "reviewer": "claude-fable-5-2"
+ },
+ "nanati-batuku": {
+  "coverage": "full",
+  "date": "2026-11-14",
+  "fixed": 0,
+  "open": 0,
+  "reviewer": "claude-fable-5-2"
+ },
+ "narasimha-dandakam": {
+  "coverage": "full",
+  "date": "2026-11-14",
+  "fixed": 2,
+  "open": 1,
+  "reviewer": "claude-fable-5-2"
+ },
+ "nirvana-shatkam": {
+  "coverage": "full",
+  "date": "2026-11-14",
+  "fixed": 1,
+  "open": 1,
+  "reviewer": "claude-fable-5-2"
+ },
+ "paluke-bangaramayena": {
+  "coverage": "full",
+  "date": "2026-11-14",
+  "fixed": 1,
+  "open": 0,
+  "reviewer": "claude-fable-5-2"
+ },
+ "purusha-suktam": {
+  "coverage": "full",
+  "date": "2026-11-14",
+  "fixed": 1,
+  "open": 0,
+  "reviewer": "claude-fable-5-2"
  }
 }
