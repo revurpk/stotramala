@@ -534,7 +534,7 @@ STOTRA = {
            "exceedingly proud."),
         _v(["medoniṣṭhā madhuprītā bandhinyādisamanvitā |",
             "dadhyannāsaktahṛdayā kākinīrūpadhāriṇī"], "|| 105 ||",
-           "Abiding in the marrow-fat; delighting in honey; attended by Bandhinī "
+           "Abiding in the fat; delighting in honey; attended by Bandhinī "
            "and the rest; her heart drawn to the offering of curd-rice; bearing "
            "the form of Kākinī."),
         _v(["mūlādhārāmbujārūḍhā pañcavaktrā'sthisaṃsthitā |",
@@ -555,7 +555,7 @@ STOTRA = {
         _v(["sahasradalapadmasthā sarvavarṇopaśobhitā |",
             "sarvāyudhadharā śuklasaṃsthitā sarvatomukhī"], "|| 109 ||",
            "Abiding in the thousand-petalled lotus; adorned with every letter "
-           "and colour; bearing all weapons; established in the vital essence; "
+           "and colour; bearing all weapons; abiding in the seed; "
            "her faces turned every way."),
         _v(["sarvaudanaprītacittā yākinyambāsvarūpiṇī |",
             "svāhā svadhā'matirmedhā śrutiḥ smṛtiranuttamā"], "|| 110 ||",
@@ -616,8 +616,7 @@ STOTRA = {
         _v(["darāndolitadīrghākṣī darahāsojjvalanmukhī |",
             "gurumūrtirguṇanidhirgomātā guhajanmabhūḥ"], "|| 121 ||",
            "Her long eyes gently moving; her face bright with a faint smile; "
-           "whose form is the guru; a treasury of virtues; mother of the "
-           "cow-tongued speech; the birthplace of Guha."),
+           "whose form is the guru; a treasury of virtues; mother of cows, and of speech; the birthplace of Guha."),
         _v(["deveśī daṇḍanītisthā daharākāśarūpiṇī |",
             "pratipanmukhyarākāntatithimaṇḍalapūjitā"], "|| 122 ||",
            "Sovereign of the gods; established in the rule of justice; whose "
@@ -775,7 +774,7 @@ STOTRA = {
            "breaker of hostile spells."),
         _v(["mūrtā'mūrtā'nityatṛptā munimānasahaṃsikā |",
             "satyavratā satyarūpā sarvāntaryāminī satī"], "|| 154 ||",
-           "With form; and formless; ever content though never sated; the swan "
+           "With form; and formless; content even with perishable offerings; the swan "
            "in the lake of the sage's mind; whose vow is truth; whose form is "
            "truth; the inner ruler of all; Satī."),
         _v(["brahmāṇī brahmajananī bahurūpā budhārcitā |",
@@ -806,8 +805,7 @@ STOTRA = {
         _v(["gambhīrā gaganāntasthā garvitā gānalolupā |",
             "kalpanārahitā kāṣṭhā'kāntā kāntārdhavigrahā"], "|| 160 ||",
            "The profound; abiding at the end of the sky; the proud; eager for "
-           "song; free of all imagining; the ultimate limit; the beloved; who is "
-           "half the body of her beloved."),
+           "song; free of all imagining; the ultimate limit; who ends sin and sorrow; who is half the body of her beloved."),
         _v(["kāryakāraṇanirmuktā kāmakelitaraṅgitā |",
             "kanatkanakatāṭaṅkā līlāvigrahadhāriṇī"], "|| 161 ||",
            "Free of both effect and cause; rippling with the play of love; "

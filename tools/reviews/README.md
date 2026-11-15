@@ -22,6 +22,7 @@ The packets list what needs a human decision; see `.claude/skills/review-works`.
 | [jo-achyutananda](packets/jo-achyutananda.md) | full | 2026-11-14 | 0 | 0 | 3 |
 | [kanakadhara-stotram](packets/kanakadhara-stotram.md) | full | 2026-11-14 | 2 | 0 | 5 |
 | [kondalalo-nelakonna](packets/kondalalo-nelakonna.md) | full | 2026-11-14 | 0 | 0 | 1 |
+| [lalitha-sahasranamam](packets/lalitha-sahasranamam.md) | full | 2026-11-14 | 2 | 0 | 8 |
 | [lingashtakam](packets/lingashtakam.md) | full | 2026-11-14 | 0 | 0 | 0 |
 | [madhurashtakam](packets/madhurashtakam.md) | full | 2026-11-14 | 0 | 0 | 0 |
 | [mahalakshmi-ashtakam](packets/mahalakshmi-ashtakam.md) | full | 2026-11-14 | 0 | 0 | 1 |

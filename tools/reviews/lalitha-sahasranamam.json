@@ -1,0 +1,100 @@
+{
+ "series": "lalitha-sahasranamam",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-14",
+ "coverage": "full",
+ "scope": "All 184 units read (dhyāna, the 182½ verses of names): text for sense, translation and word glosses against the text. The text was not compared with the source page. The names are explained after Bhāskararāya’s commentary.",
+ "items": [
+  {
+   "unit": 106,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "medas is fat; “marrow-fat” blurred it with majjā (marrow) three verses later.",
+   "change": "Now “Abiding in the fat”.",
+   "slug": "lalitha-sahasranamam"
+  },
+  {
+   "unit": 110,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "śukla, the seventh bodily constituent in this series, was veiled as “the vital essence”.",
+   "change": "Now “abiding in the seed”, in line with the gloss.",
+   "slug": "lalitha-sahasranamam"
+  },
+  {
+   "unit": 122,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "gomātā was “mother of the cow-tongued speech”, which is not a possible meaning.",
+   "change": "Now “mother of cows, and of speech”.",
+   "slug": "lalitha-sahasranamam"
+  },
+  {
+   "unit": 155,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "anityatṛptā was “ever content though never sated”; the name means content even with perishable offerings, as the gloss says.",
+   "change": "Corrected.",
+   "slug": "lalitha-sahasranamam"
+  },
+  {
+   "unit": 161,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "The text has akāntā (with the a- marked), “who ends sin and sorrow”; the translation had kāntā, “the beloved”.",
+   "change": "Corrected to agree with text and gloss.",
+   "slug": "lalitha-sahasranamam"
+  },
+  {
+   "unit": 19,
+   "area": "words",
+   "status": "fixed",
+   "issue": "indragopa is the red velvet mite, not a firefly.",
+   "change": "Gloss now “red indragopa insects”.",
+   "slug": "lalitha-sahasranamam"
+  },
+  {
+   "unit": 95,
+   "area": "words",
+   "status": "fixed",
+   "issue": "svastimatī was glossed “the eternal truth”.",
+   "change": "Now “possessed of well-being”, as in the translation.",
+   "slug": "lalitha-sahasranamam"
+  },
+  {
+   "unit": 109,
+   "area": "words",
+   "status": "fixed",
+   "issue": "haridrā is turmeric, not saffron.",
+   "change": "Corrected.",
+   "slug": "lalitha-sahasranamam"
+  },
+  {
+   "unit": 9,
+   "area": "text",
+   "status": "open",
+   "issue": "kḷipta is printed twice where the word is kḷpta: kadambamañjarīkḷiptakarṇapūra (verse 8) and līlākḷiptabrahmāṇḍamaṇḍalā (verse 128). It is a transliteration slip for the vowel ḷ; the word glosses have kḷpta.",
+   "options": [
+    "A. Correct both to kḷpta.",
+    "B. Keep."
+   ],
+   "recommend": "A.",
+   "decision": "",
+   "slug": "lalitha-sahasranamam"
+  },
+  {
+   "unit": 0,
+   "area": "translation",
+   "status": "open",
+   "issue": "As in the Viṣṇu Sahasranāma, for some names the translation and the word gloss give different traditional explanations: kalātmikā “whose Self is the digits of the moon” / “the soul of the arts”; guhāmbā “mother of Guha” / “who dwells in the cave of the heart”; bhagārādhyā “worshipped in the bhaga” / “in the orb of the sun”; kapardinī “wearer of the matted lock” / “consort of the Lord of matted hair”.",
+   "options": [
+    "A. Leave as it is.",
+    "B. Make the word gloss repeat the translation.",
+    "C. Keep both and add one sentence to the page note saying that where they differ both are traditional."
+   ],
+   "recommend": "C, the same choice as for the Viṣṇu Sahasranāma.",
+   "decision": "",
+   "slug": "lalitha-sahasranamam"
+  }
+ ]
+}

@@ -118,6 +118,13 @@
   "open": 0,
   "reviewer": "claude-fable-5-2"
  },
+ "lalitha-sahasranamam": {
+  "coverage": "full",
+  "date": "2026-11-14",
+  "fixed": 8,
+  "open": 2,
+  "reviewer": "claude-fable-5-2"
+ },
  "lingashtakam": {
   "coverage": "full",
   "date": "2026-11-14",
