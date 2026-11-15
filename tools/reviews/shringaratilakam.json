@@ -1,0 +1,186 @@
+{
+ "series": "shringaratilakam",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-14",
+ "coverage": "full",
+ "scope": "All 31 verses read: text for sense and metre, translation and word glosses against the text. The print is corrupt in places (SOURCES §10.3); the text was not compared with the source page. Verse 31 remains obscure.",
+ "items": [
+  {
+   "unit": 2,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "The second half is a wish for the next birth — to be the hunter to the cuckoo, Rāhu to the moon, Śiva’s eye-fire to Love, and Love to her lord. It had been read as a list of enemies “against my beloved”.",
+   "change": "Retranslated; the “obscure” note removed; words re-glossed.",
+   "slug": "shringaratilakam"
+  },
+  {
+   "unit": 3,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "The verse addresses the beloved (kānte) but was translated in the third person (“her eye … her heart”).",
+   "change": "Now second person throughout.",
+   "slug": "shringaratilakam"
+  },
+  {
+   "unit": 5,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "kim ity adbhutam closes a paradox (one wagtail makes kings, two make wretches): “how strange!”, not “what wonder?”.",
+   "change": "Corrected.",
+   "slug": "shringaratilakam"
+  },
+  {
+   "unit": 8,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "The verse answers verse 7 and turns on a pun: daityaguru, the demons’ teacher, is Śukra, and śukra is seed. It had been translated as “her lover’s teacher released her” and marked obscure.",
+   "change": "Retranslated with the pun explained; words re-glossed.",
+   "slug": "shringaratilakam"
+  },
+  {
+   "unit": 9,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "“her lover” in a verse spoken in the first person.",
+   "change": "Now “my lover”.",
+   "slug": "shringaratilakam"
+  },
+  {
+   "unit": 10,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "The verse is addressed to a water-jar (kumbhavara), which after beating, drying, kneading and firing rides on a woman’s hip. It was “jar-bearer”, and the swing was “of a lover’s arms”.",
+   "change": "Retranslated; words re-glossed.",
+   "slug": "shringaratilakam"
+  },
+  {
+   "unit": 12,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "prasūtatanayā is “whose daughter has given birth” (hence the visit to the son-in-law), not “who had a baby”.",
+   "change": "Corrected in translation and words.",
+   "slug": "shringaratilakam"
+  },
+  {
+   "unit": 20,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Marked obscure, but the sense is plain once dastinaḥ is read as hastinaḥ: the antelopes, beaten by the women’s eyes, had the wit to leave; the elephants, beaten by their breasts, stay on in their pride.",
+   "change": "Retranslated; words re-glossed.",
+   "slug": "shringaratilakam"
+  },
+  {
+   "unit": 24,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "“moon-faced” was not in the text.",
+   "change": "Removed; the compound rendered more fully.",
+   "slug": "shringaratilakam"
+  },
+  {
+   "unit": 26,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "kim arājanyakam atra rājate is “does kinglessness prevail here?” (said to one who steals a heart and walks off), not “unroyal … as if royal”.",
+   "change": "Now “Is there no king in this land?”.",
+   "slug": "shringaratilakam"
+  },
+  {
+   "unit": 27,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "The speech belongs to the eyes (nau, “us two”), who have gone to the ears to disclaim blame; the translation had mixed the speakers.",
+   "change": "Retranslated; words re-glossed.",
+   "slug": "shringaratilakam"
+  },
+  {
+   "unit": 28,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "madarpita is “given by me”: he asks for his embrace and kisses back. It was “the embrace you gave me”.",
+   "change": "Corrected.",
+   "slug": "shringaratilakam"
+  },
+  {
+   "unit": 13,
+   "area": "words",
+   "status": "fixed",
+   "issue": "Typo caiḥ for cauraiḥ in the word gloss.",
+   "change": "Corrected.",
+   "slug": "shringaratilakam"
+  },
+  {
+   "unit": 15,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "mukhacchāyā is the radiance of the face, not its “shade”.",
+   "change": "Corrected.",
+   "slug": "shringaratilakam"
+  },
+  {
+   "unit": 8,
+   "area": "text",
+   "status": "open",
+   "issue": "Quarter 3 reads māṃ navayauvanāṃ śaśimukhīṃ…, two syllables short of the metre (17 for 19). The usual text is māṃ dṛṣṭvā navayauvanāṃ…, “seeing me”.",
+   "options": [
+    "A. Restore dṛṣṭvā and log it.",
+    "B. Keep the print’s reading with the note in the translation."
+   ],
+   "recommend": "A: the metre proves the loss and the sense needs the word.",
+   "decision": "",
+   "slug": "shringaratilakam"
+  },
+  {
+   "unit": 20,
+   "area": "text",
+   "status": "open",
+   "issue": "dastinaḥ in quarter 3 is not a word; hastinaḥ (“elephants”) is certainly meant.",
+   "options": [
+    "A. Correct to hastinaḥ.",
+    "B. Keep."
+   ],
+   "recommend": "A.",
+   "decision": "",
+   "slug": "shringaratilakam"
+  },
+  {
+   "unit": 2,
+   "area": "text",
+   "status": "open",
+   "issue": "Quarter 4 reads kaṃdarpa haranetradīdhitiriyaṃ; the usual text is kandarpe haranetradīdhitir ahaṃ (“may I be the fire of Śiva’s eye upon Love”). The translation follows the usual sense.",
+   "options": [
+    "A. Emend to kandarpe … ahaṃ.",
+    "B. Keep the print."
+   ],
+   "recommend": "A: the parallel locatives (bandhane, paridhvaṃse, prāṇeśvare) require kandarpe.",
+   "decision": "",
+   "slug": "shringaratilakam"
+  },
+  {
+   "unit": 25,
+   "area": "text",
+   "status": "open",
+   "issue": "svedaṃ vṛthā vahasi (“you bear sweat in vain”) is probably khedaṃ (“grief”), the usual reading; the translation has “shed sweat”.",
+   "options": [
+    "A. Emend to khedaṃ and translate “why do you grieve in vain”.",
+    "B. Keep svedaṃ."
+   ],
+   "recommend": "A.",
+   "decision": "",
+   "slug": "shringaratilakam"
+  },
+  {
+   "unit": 31,
+   "area": "translation",
+   "status": "open",
+   "issue": "Verse 31 is still obscure to me and is marked so on the page; quarter 2 of verse 28 (śocāmi yat tava kim atra virodham anyat) is also doubtful.",
+   "options": [
+    "A. Leave both marked.",
+    "B. You supply the sense or a better text."
+   ],
+   "recommend": "A.",
+   "decision": "",
+   "slug": "shringaratilakam"
+  }
+ ]
+}

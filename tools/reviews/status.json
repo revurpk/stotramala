@@ -209,6 +209,13 @@
   "open": 0,
   "reviewer": "claude-fable-5-2"
  },
+ "shringaratilakam": {
+  "coverage": "full",
+  "date": "2026-11-14",
+  "fixed": 14,
+  "open": 5,
+  "reviewer": "claude-fable-5-2"
+ },
  "sriman-narayana": {
   "coverage": "full",
   "date": "2026-11-14",
