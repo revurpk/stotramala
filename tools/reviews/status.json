@@ -257,5 +257,12 @@
   "fixed": 5,
   "open": 1,
   "reviewer": "claude-fable-5-2"
+ },
+ "vishnu-sahasranamam": {
+  "coverage": "full",
+  "date": "2026-11-14",
+  "fixed": 3,
+  "open": 1,
+  "reviewer": "claude-fable-5-2"
  }
 }

@@ -1,0 +1,47 @@
+{
+ "series": "vishnu-sahasranamam",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-14",
+ "coverage": "full",
+ "scope": "All 120 units read (dhyāna verses, the 108 verses of names, closing verses): text for sense, translation and word glosses against the text. The text was not compared with the source page. The names are explained after Śaṅkara’s commentary.",
+ "items": [
+  {
+   "unit": 68,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "khaṇḍaparaśu was “wielder of the broken axe”; the axe is so called because it cleaves (khaṇḍana) the foe, as the gloss has it.",
+   "change": "Now “wielder of the cleaving axe”.",
+   "slug": "vishnu-sahasranamam"
+  },
+  {
+   "unit": 4,
+   "area": "words",
+   "status": "fixed",
+   "issue": "puṇyopetam was glossed “attended by the virtuous” against the translation’s “endowed with all merit”.",
+   "change": "Gloss now “endowed with merit”.",
+   "slug": "vishnu-sahasranamam"
+  },
+  {
+   "unit": 96,
+   "area": "words",
+   "status": "fixed",
+   "issue": "saptaidhāḥ was glossed “of seven flames”; edhas is fuel, as the translation says.",
+   "change": "Gloss now “of seven kinds of fuel”.",
+   "slug": "vishnu-sahasranamam"
+  },
+  {
+   "unit": 0,
+   "area": "translation",
+   "status": "open",
+   "issue": "For some forty names the sentence translation and the word gloss give different explanations, both traditional (most are alternatives in Śaṅkara’s commentary). Examples: rudraḥ “remover of sorrow” / “who makes all weep at the end”; janārdanaḥ “the refuge sought by people” / “who afflicts the wicked”; pavanaḥ “the wind” / “the purifier”; dāśārhaḥ “worthy of offerings” / “born in the Daśārha line”; vīrahā (v. 99) “who ends the round of births”. A reader comparing the two layers will see them disagree.",
+   "options": [
+    "A. Leave as it is: the two layers together show both explanations.",
+    "B. Make the word gloss repeat the translation’s sense everywhere.",
+    "C. Keep both, but add to the page note one sentence saying that where the two differ, both are traditional explanations."
+   ],
+   "recommend": "C: it keeps the information and removes the appearance of error.",
+   "decision": "",
+   "slug": "vishnu-sahasranamam"
+  }
+ ]
+}

@@ -402,7 +402,7 @@ STOTRA = {
            "forbearing; the best of goals."),
         _v(["sudhanvā khaṇḍaparaśurdāruṇo draviṇapradaḥ |",
             "divaḥspṛk sarvadṛgvyāso vācaspatirayonijaḥ"], "|| 61 ||",
-           "Of the goodly bow; wielder of the broken axe; terrible to the "
+           "Of the goodly bow; wielder of the cleaving axe; terrible to the "
            "unrighteous; giver of wealth; he who touches heaven; the all-seeing "
            "arranger; lord of speech; born of no womb."),
         _v(["trisāmā sāmagaḥ sāma nirvāṇaṃ bheṣajaṃ bhiṣak |",

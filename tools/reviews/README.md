@@ -42,3 +42,4 @@ The packets list what needs a human decision; see `.claude/skills/review-works`.
 | [subrahmanya-shodashanama-stotram](packets/subrahmanya-shodashanama-stotram.md) | full | 2026-11-14 | 0 | 0 | 0 |
 | [syamala-dandakam](packets/syamala-dandakam.md) | full | 2026-11-14 | 3 | 0 | 3 |
 | [vedanta-dindima](packets/vedanta-dindima.md) | full | 2026-11-14 | 1 | 0 | 5 |
+| [vishnu-sahasranamam](packets/vishnu-sahasranamam.md) | full | 2026-11-14 | 1 | 0 | 3 |
