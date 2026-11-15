@@ -39,7 +39,7 @@ STOTRA = {
         _v("ātmā'nātmā padārthau dvau bhoktṛbhogyatvalakṣaṇau",
            "brahmaivātmā na dehādiriti vedāntaḍiṇḍimaḥ", 2,
            "Self and non-self are the two categories, marked as the enjoyer and "
-           "the enjoyed. The Self alone is Brahman, not the body and the rest"
+           "the enjoyed. Brahman alone is the Self, not the body and the rest"
            + _R),
         _v("jñānā'jñāne padārthau dvau ātmano muktibandhadau",
            "jñānānmuktirnibandho'nyāt iti vedāntaḍiṇḍimaḥ", 3,
@@ -242,7 +242,7 @@ STOTRA = {
            "Supreme’ — from this doubtless knowledge comes liberation" + _R),
         _v("nāhaṃ sarvamahaṃ sarvaṃ mama sarvamiti sphuṭam",
            "jñāte tattve kuto duḥkhamiti vedāntaḍiṇḍimaḥ", 50,
-           "‘I am nothing; I am all; all is mine’ — clearly so; when the "
+           "‘I am not all this; I am all; all is mine’ — clearly so; when the "
            "Reality is known, whence any sorrow?" + _R),
         _v("dehādipañcakośasthā yā sattā pratibhāsate",
            "sā sattā''tmā na sandeha iti vedāntaḍiṇḍimaḥ", 51,
@@ -319,8 +319,7 @@ STOTRA = {
            "consciousness; where then is difference, where is bondage?" + _R),
         _v("na tattvāt kathyate loko nāmādyairvyabhicārataḥ",
            "vaṭurjaraṭha ityādyairiti vedāntaḍiṇḍimaḥ", 69,
-           "The world is named not by its truth but by shifting appellations — "
-           "‘boy,’ ‘old man,’ and the like" + _R),
+           "A person is spoken of not as he truly is but by shifting names — ‘boy,’ ‘old man,’ and the like" + _R),
         _v("nāmarūpātmakaṃ viśvamindrajālaṃ vidurbudhāḥ",
            "anāmatvādayuktatvāditi vedāntaḍiṇḍimaḥ", 70,
            "The wise know this world of name and form to be a conjurer’s "
@@ -372,8 +371,7 @@ STOTRA = {
            "such is the attainment of the jīva on knowing itself" + _R),
         _v("navabhyo'sti paraṃ pratyak nava veda paraṃ param",
            "tadvijñānādbhavetturyā iti vedāntaḍiṇḍimaḥ", 82,
-           "Beyond the nine is the inmost Self; the nine know it as the supreme "
-           "beyond the supreme; by knowing it one gains the Fourth" + _R),
+           "Beyond the nine there is the inward Self; it knows the nine, each in its turn; from knowing it comes the Fourth" + _R),
         _v("navābhāsā navajñatvāt navopādhin navātmanā",
            "mithyā jñātvā'vaśiṣṭe tu maunaṃ vedāntaḍiṇḍimaḥ", 83,
            "The nine, being appearances through the nine and adjuncts of the "
@@ -419,8 +417,7 @@ STOTRA = {
         _v("aho'smākamalaṃ mohairātmā brahmeti nirbhayam",
            "śrutibheriravo'dyāpi śrūyate śrutirañjanaḥ", 93,
            "Ah, enough of delusions for us! ‘The Self is Brahman’ — "
-           "fearlessly the drumbeat of scripture resounds even today, delighting "
-           "the ear with revelation."),
+           "fearlessly the drumbeat of scripture resounds even today, delighting the ear."),
         _v("vedāntabherijhaṅkāraḥ prativādibhayaṅkaraḥ",
            "śrūyatāṃ brāhmaṇaiśśrīmaddakṣiṇāmūrtyanugrahāt", 94,
            "The thunder of the Vedānta-drum, terrible to opponents — may it be "

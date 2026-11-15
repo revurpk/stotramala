@@ -1,0 +1,63 @@
+{
+ "series": "vedanta-dindima",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-14",
+ "coverage": "full",
+ "scope": "All 94 verses read: text for sense, translation and word glosses against the text. The text was not compared with the printed edition again. Verses 80 and 82–83 (the ‘nine’) are terse and their rendering is the reviewer’s best reading.",
+ "items": [
+  {
+   "unit": 2,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "brahmaivātmā was turned round (“The Self alone is Brahman”).",
+   "change": "Now “Brahman alone is the Self”, as in the gloss.",
+   "slug": "vedanta-dindima"
+  },
+  {
+   "unit": 50,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "nāhaṃ sarvam was “I am nothing”.",
+   "change": "Now “I am not all this”.",
+   "slug": "vedanta-dindima"
+  },
+  {
+   "unit": 69,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "lokaḥ here is a person (“boy”, “old man”), as the gloss has it, not “the world”.",
+   "change": "Retranslated.",
+   "slug": "vedanta-dindima"
+  },
+  {
+   "unit": 82,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "veda is singular: the inward Self knows the nine. The translation had “the nine know it as the supreme beyond the supreme”.",
+   "change": "Retranslated to agree with the gloss.",
+   "slug": "vedanta-dindima"
+  },
+  {
+   "unit": 93,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "śrutirañjanaḥ is simply “delighting the ear”; “with revelation” was added.",
+   "change": "Removed.",
+   "slug": "vedanta-dindima"
+  },
+  {
+   "unit": 83,
+   "area": "text",
+   "status": "open",
+   "issue": "Three forms on the page differ from the word glosses, which have the grammatical forms: verse 83 navābhāsā and navopādhin (glosses: nava-ābhāsān, nava-upādhīn, accusative plurals governed by jñātvā), verse 91 karaṇā'karaṇo (gloss: karaṇa-akaraṇe). The data file says the text was transcribed by hand from a scan.",
+   "options": [
+    "A. Correct the page to navābhāsān, navopādhīn, karaṇākaraṇe.",
+    "B. Keep the page and change the glosses to match it.",
+    "C. I check the three places against the scan if you point me to it."
+   ],
+   "recommend": "C if the scan is to hand; otherwise A, since the sentences do not construe as printed.",
+   "decision": "",
+   "slug": "vedanta-dindima"
+  }
+ ]
+}
