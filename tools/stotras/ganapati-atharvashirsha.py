@@ -41,7 +41,7 @@ STOTRA = {
            "ears; may we see what is auspicious with our eyes, O worshipful "
            "ones. With steady limbs and bodies, praising you, may we enjoy the "
            "life the gods have ordained. May Indra of ancient fame bless us; may "
-           "all-knowing Pūṣan bless us; may Tārkṣya, averter of harm, bless us; "
+           "all-knowing Pūṣan bless us; may Tārkṣya of the unbroken felly bless us; "
            "may Bṛhaspati grant us well-being. Oṃ. May He protect me; may He "
            "protect the teacher; may He protect me; may He protect the teacher. "
            "Oṃ, peace, peace, peace."),
@@ -104,7 +104,7 @@ STOTRA = {
             "tvaṃ bhūmirāpo'nalo'nilo nabhaḥ ||",
             "tvaṃ catvāri vākpadāni",
         ], "|| 5 ||",
-           "All this world is born from you; all this world abides in you; all "
+           "All this world is born from you; all this world stands by you; all "
            "this world will dissolve into you; all this world returns to you. You "
            "are earth, water, fire, air, and space. You are the four levels of "
            "speech."),
@@ -143,7 +143,7 @@ STOTRA = {
             "oṃ gaṃ gaṇapataye namaḥ",
         ], "|| 7 ||",
            "The Gaṇeśa mantra. Uttering first the sound ‘ga’ (the head of "
-           "gaṇa), then the letter that follows (‘ṇa’), with the anusvāra set "
+           "gaṇa), then the first of the letters (‘a’), with the anusvāra set "
            "above, graced by the crescent, crowned with the praṇava (oṃ) — this "
            "is the form of your mantra. ‘Ga’ is the first part, ‘a’ the "
            "middle, the anusvāra the last, the dot beyond, the resonance the "
@@ -170,7 +170,7 @@ STOTRA = {
            "the mouse; red-hued, pot-bellied, with winnowing-fan ears, robed in "
            "red, his limbs anointed with red sandal, worshipped with red "
            "flowers; the God compassionate to devotees, cause of the world, the "
-           "imperishable, manifest before creation, beyond Prakṛti and Puruṣa — "
+           "imperishable, manifest at the beginning of creation, beyond Prakṛti and Puruṣa — "
            "whoever meditates on him thus always is a yogin, the best of "
            "yogins."),
         _v([
@@ -187,7 +187,7 @@ STOTRA = {
             "etadatharvaśīrṣaṃ yo'dhīte |",
             "sa brahmabhūyāya kalpate ||",
             "sa sarvataḥ sukhamedhate |",
-            "sa sarva vighnairnabādhyate ||",
+            "sa sarvavighnairna bādhyate ||",
             "sa pañcamahāpāpātpramucyate |",
             "sāyamadhīyāno divasakṛtaṃ pāpaṃ nāśayati ||",
             "prātaradhīyāno rātrikṛtaṃ pāpaṃ nāśayati |",

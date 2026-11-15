@@ -1,0 +1,25 @@
+{
+ "series": "ganesha-pancharatnam",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-14",
+ "coverage": "full",
+ "scope": "All units read: text for sense, translation and word glosses against the text. The text was not compared with the source page.",
+ "items": [
+  {
+   "unit": 3,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "namaskṛtām is “of those who bow” and goes with manaskaram; the translation had “saluted by all” and a separate “wellspring of understanding”.",
+   "change": "Now “… of joy and of glory, who gives heart to those who bow to him”; word gloss adjusted.",
+   "slug": "ganesha-pancharatnam"
+  },
+  {
+   "unit": 1,
+   "area": "words",
+   "status": "fixed",
+   "issue": "vilāsi-loka-rakṣakam was glossed “protector of those who delight in him”, against the translation’s “radiant in play, guardian of the worlds”.",
+   "change": "Word gloss split to match the translation.",
+   "slug": "ganesha-pancharatnam"
+  }
+ ]
+}

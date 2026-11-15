@@ -21,7 +21,7 @@ STOTRA = {
     "sections": [
         _v("namaste'stu mahāmāye śrīpīṭhe surapūjite",
            "śaṃkhacakragadāhaste mahālakṣmi namo'stu te", 1,
-           "Salutation to You, O Great Māyā, throned upon Śrī, worshipped by the "
+           "Salutation to You, O Great Māyā, seated on the Śrī-pīṭha, the holy seat, worshipped by the "
            "gods; O You who hold the conch, discus, and mace — O Mahālakṣmī, "
            "salutation to You."),
         _v("namaste garuḍārūḍhe kolāsurabhayaṃkari",

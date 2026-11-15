@@ -30,7 +30,7 @@ STOTRA = {
             "చంద్రవదనలు నీకు సేవ చేయంగ",
             "నందముగ వారిండ్ల నాడుచుండంగ",
             "మందలకు దొంగ మా ముద్దురంగ"],
-           "Come home to Nanda's house, tenderness overflowing, while the "
+           "You came to Nanda's house, tenderness overflowing, where the "
            "moon-faced women wait upon you and you play charmingly through "
            "their courtyards — O little thief of the cattle-folds, our darling "
            "Raṅga!"),
@@ -45,7 +45,7 @@ STOTRA = {
             "బంగారు గిన్నెలో పాలు పోసేరా",
             "దొంగ నీవని సతులు గొంకుచున్నారా",
             "ముంగిట నాడరా మోహనాకార"],
-           "O elder brother who fathered the Love-god, come here! They have "
+           "O our dear one, father of the Love-god, come here! They have "
            "poured milk in a golden bowl; the women hold back, calling you a "
            "thief — come play in the front yard, O one of enchanting form!"),
         _v(["హంగుగా తాళ్ళపా కన్నయ్య చాల",
@@ -54,6 +54,6 @@ STOTRA = {
             "మంగళము తిరుపట్ల మదనగోపాల"],
            "Tāḷḷapāka Annayya has aptly framed this lullaby with much grace; may "
            "all riches be with you at this hour — auspiciousness to you, "
-           "Madanagopāla of Tirupati!"),
+           "Madanagopāla of Tirupaṭla!"),
     ],
 }

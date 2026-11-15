@@ -1,0 +1,63 @@
+{
+ "series": "ganapati-atharvashirsha",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-14",
+ "coverage": "full",
+ "scope": "All units read: text for sense, translation and word glosses against the text. The text was not compared with the source page.",
+ "items": [
+  {
+   "unit": 1,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "ariṣṭanemi (“of unbroken felly”) was rendered “averter of harm”.",
+   "change": "Now “Tārkṣya of the unbroken felly”, as in the word gloss.",
+   "slug": "ganapati-atharvashirsha"
+  },
+  {
+   "unit": 6,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "tvattas tiṣṭhati (ablative) was rendered “abides in you”.",
+   "change": "Now “stands by you”.",
+   "slug": "ganapati-atharvashirsha"
+  },
+  {
+   "unit": 8,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "varṇādi, “the first of the letters”, is a; the translation said “the letter that follows (ṇa)”, which contradicted its own next sentence and the mantra gaṃ.",
+   "change": "Now “then the first of the letters (‘a’)”.",
+   "slug": "ganapati-atharvashirsha"
+  },
+  {
+   "unit": 10,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "sṛṣṭyādau was “before creation”.",
+   "change": "Now “at the beginning of creation”.",
+   "slug": "ganapati-atharvashirsha"
+  },
+  {
+   "unit": 12,
+   "area": "text",
+   "status": "fixed",
+   "issue": "Word spacing only: “sa sarva vighnairnabādhyate”.",
+   "change": "Respaced as “sa sarvavighnairna bādhyate”; no letter changed.",
+   "slug": "ganapati-atharvashirsha"
+  },
+  {
+   "unit": 13,
+   "area": "text",
+   "status": "open",
+   "issue": "The page reads brahmādyācaraṇaṃ vidyāt (“one should know the practice beginning with Brahmā”). Many recensions read brahmādyāvaraṇaṃ (“the covering, i.e. protection, of Brahmā and the rest”). Both are transmitted; the sense differs.",
+   "options": [
+    "A. Keep ācaraṇaṃ as the source has it.",
+    "B. Change to āvaraṇaṃ and retranslate.",
+    "C. Keep, and mention the other reading in the translation."
+   ],
+   "recommend": "A or C; this is a real variant, not a slip.",
+   "decision": "",
+   "slug": "ganapati-atharvashirsha"
+  }
+ ]
+}

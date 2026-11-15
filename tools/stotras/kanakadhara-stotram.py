@@ -39,10 +39,7 @@ STOTRA = {
            "ānandakandamanimeṣamanaṅgatantram",
            "ākekarasthitakanīnikapakṣmanetraṃ",
            "bhūtyai bhavenmama bhujaṅgaśayāṅganāyāḥ", 3,
-           "Reaching Mukunda with joy — the root of bliss, unwinking, ruled by "
-           "love — her eyes half-closed, pupils and lashes set in a sidelong "
-           "gaze: may that glance of the consort of the serpent-recliner be for "
-           "my prosperity."),
+           "Having joyfully found Mukunda, the root of bliss, his eyes half-closed — unwinking, ruled by love, pupil and lashes resting in a sidelong look: may that eye of the consort of him who lies on the serpent be for my prosperity."),
         _v("bāhvantare madhujitaḥ śritakaustubhe yā",
            "hārāvalīva harinīlamayī vibhāti",
            "kāmapradā bhagavato'pi kaṭākṣamālā",
@@ -55,8 +52,7 @@ STOTRA = {
            "dhārādhare sphurati yā taḍidaṅganeva",
            "mātuḥ samastajagatāṃ mahanīyamūrtir-",
            "bhadrāṇi me diśatu bhārgavanandanāyāḥ", 5,
-           "On the dark-cloud-lovely breast of Kaiṭabha's foe, the rain-bearer, "
-           "she flashes like a woman of lightning; the venerable form of the "
+           "On the breast of Kaiṭabha's foe, lovely as a bank of dark clouds, she flashes like lightning upon a rain-cloud; the venerable form of the "
            "Mother of all worlds — may she, daughter of Bhṛgu, grant me every "
            "blessing."),
         _v("prāptaṃ padaṃ prathamataḥ khalu yatprabhāvān-",
@@ -159,8 +155,7 @@ STOTRA = {
            "prātarnamāmi jagatāṃ jananīmaśeṣa-",
            "lokādhināthagṛhiṇīmamṛtābdhiputrīm", 19,
            "At dawn I bow to the Mother of the worlds — her body bathed by the "
-           "clear, lovely waters of the celestial river poured from golden "
-           "pitchers at the mouths of the elephants of the quarters — housewife of "
+           "clear, lovely waters of the celestial river poured by the elephants of the quarters from the mouths of golden pitchers — housewife of "
            "the Lord of all worlds, daughter of the ocean of nectar."),
         _v("kamale kamalākṣavallabhe tvaṃ",
            "karuṇāpūrataraṅgitairapāṅgaiḥ",

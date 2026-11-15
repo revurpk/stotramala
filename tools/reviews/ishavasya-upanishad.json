@@ -1,0 +1,25 @@
+{
+ "series": "ishavasya-upanishad",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-14",
+ "coverage": "full",
+ "scope": "All units read: text for sense, translation and word glosses against the text. The text was not compared with the source page. The repeated śānti verse (flag X-DUP) is intended.",
+ "items": [
+  {
+   "unit": 5,
+   "area": "words",
+   "status": "fixed",
+   "issue": "The word gloss followed Śaṅkara (devāḥ = the senses, apaḥ plain “waters”) while the translation had “the gods” and “all activity”; the two did not agree.",
+   "change": "Glosses now give the plain sense and note Śaṅkara’s reading.",
+   "slug": "ishavasya-upanishad"
+  },
+  {
+   "unit": 18,
+   "area": "words",
+   "status": "fixed",
+   "issue": "krato was “O mind” in the words and “O will” in the translation.",
+   "change": "Words now “O will”.",
+   "slug": "ishavasya-upanishad"
+  }
+ ]
+}

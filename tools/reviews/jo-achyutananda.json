@@ -1,0 +1,33 @@
+{
+ "series": "jo-achyutananda",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-14",
+ "coverage": "full",
+ "scope": "All units read: translation and word glosses against the Telugu text. The text was not compared with the source.",
+ "items": [
+  {
+   "unit": 2,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "చేరి (“having come to”) was rendered as a command, “Come home to Nanda's house”.",
+   "change": "Now “You came to Nanda's house …”.",
+   "slug": "jo-achyutananda"
+  },
+  {
+   "unit": 4,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "మా యన్న is an endearment here; “O elder brother who fathered the Love-god” was odd.",
+   "change": "Now “O our dear one, father of the Love-god”.",
+   "slug": "jo-achyutananda"
+  },
+  {
+   "unit": 5,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "తిరుపట్ల was rendered “Tirupati”; it is the village Tirupaṭla, as the word gloss has it.",
+   "change": "Now “Madanagopāla of Tirupaṭla”.",
+   "slug": "jo-achyutananda"
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "series": "kanakadhara-stotram",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-14",
+ "coverage": "full",
+ "scope": "All units read: text for sense, translation and word glosses against the text. The text was not compared with the source page.",
+ "items": [
+  {
+   "unit": 3,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "āmīlitākṣam describes Mukunda, whom the glance has reached; the translation gave the half-closed eyes to Lakṣmī and attached “unwinking, ruled by love” to Mukunda.",
+   "change": "Retranslated: his eyes half-closed; her eye unwinking, ruled by love.",
+   "slug": "kanakadhara-stotram"
+  },
+  {
+   "unit": 5,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "dhārādhare is the standard of comparison (lightning on a rain-cloud), not an epithet “the rain-bearer”.",
+   "change": "Now “… lovely as a bank of dark clouds, she flashes like lightning upon a rain-cloud”.",
+   "slug": "kanakadhara-stotram"
+  },
+  {
+   "unit": 19,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "“golden pitchers at the mouths of the elephants” misplaced mukha: the water pours from the mouths of the pitchers.",
+   "change": "Now “poured by the elephants of the quarters from the mouths of golden pitchers”.",
+   "slug": "kanakadhara-stotram"
+  },
+  {
+   "unit": 4,
+   "area": "words",
+   "status": "fixed",
+   "issue": "hārāvalī was glossed “a string of pearls” beside “made of sapphire”.",
+   "change": "Now “a row of necklaces”.",
+   "slug": "kanakadhara-stotram"
+  },
+  {
+   "unit": 8,
+   "area": "words",
+   "status": "fixed",
+   "issue": "The gloss of iṣṭāviśiṣṭamatayaḥ contradicted the translation (“even the undistinguished”).",
+   "change": "Gloss aligned, with a note that the compound is read in more than one way.",
+   "slug": "kanakadhara-stotram"
+  },
+  {
+   "unit": 9,
+   "area": "text",
+   "status": "open",
+   "issue": "The page reads duṣkarmadharmam apanīya. The usual text is duṣkarmagharmam, “the heat of ill deeds”, which is what a rain-cloud removes; dharmam looks like a misprint of gha as dha. The translation (“burden of ill deeds”) covers neither exactly.",
+   "options": [
+    "A. Emend to duṣkarmagharmam, translate “the scorching heat of ill deeds”, and log it.",
+    "B. Keep dharmam and the present translation."
+   ],
+   "recommend": "A: the image requires it and it is the common reading.",
+   "decision": "",
+   "slug": "kanakadhara-stotram"
+  },
+  {
+   "unit": 8,
+   "area": "translation",
+   "status": "open",
+   "issue": "iṣṭāviśiṣṭamatayo'pi: the translation takes it as “even the undistinguished”. Others divide iṣṭā viśiṣṭamatayaḥ (“the dear, the discerning”) or take iṣṭa as sacrifices (“those intent only on rites”).",
+   "options": [
+    "A. Keep “even the undistinguished”.",
+    "B. “even those whose minds go no further than their rites”.",
+    "C. Your wording."
+   ],
+   "recommend": "A: with api (“even”) it gives the best sense.",
+   "decision": "",
+   "slug": "kanakadhara-stotram"
+  }
+ ]
+}

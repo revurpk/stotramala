@@ -13,3 +13,13 @@ The packets list what needs a human decision; see `.claude/skills/review-works`.
 | [bilvashtakam](packets/bilvashtakam.md) | full | 2026-11-14 | 0 | 0 | 1 |
 | [brahma-kadigina-padamu](packets/brahma-kadigina-padamu.md) | full | 2026-11-14 | 0 | 0 | 1 |
 | [gajendra-moksham](packets/gajendra-moksham.md) | full | 2026-11-14 | 1 | 0 | 0 |
+| [ganapati-atharvashirsha](packets/ganapati-atharvashirsha.md) | full | 2026-11-14 | 1 | 0 | 5 |
+| [ganesha-pancharatnam](packets/ganesha-pancharatnam.md) | full | 2026-11-14 | 0 | 0 | 2 |
+| [ganesha-shodashanama-stotram](packets/ganesha-shodashanama-stotram.md) | full | 2026-11-14 | 0 | 0 | 0 |
+| [ishavasya-upanishad](packets/ishavasya-upanishad.md) | full | 2026-11-14 | 0 | 0 | 2 |
+| [jo-achyutananda](packets/jo-achyutananda.md) | full | 2026-11-14 | 0 | 0 | 3 |
+| [kanakadhara-stotram](packets/kanakadhara-stotram.md) | full | 2026-11-14 | 2 | 0 | 5 |
+| [kondalalo-nelakonna](packets/kondalalo-nelakonna.md) | full | 2026-11-14 | 0 | 0 | 1 |
+| [lingashtakam](packets/lingashtakam.md) | full | 2026-11-14 | 0 | 0 | 0 |
+| [madhurashtakam](packets/madhurashtakam.md) | full | 2026-11-14 | 0 | 0 | 0 |
+| [mahalakshmi-ashtakam](packets/mahalakshmi-ashtakam.md) | full | 2026-11-14 | 0 | 0 | 1 |

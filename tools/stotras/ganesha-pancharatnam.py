@@ -49,11 +49,10 @@ STOTRA = {
                 "manaskaraṃ namaskṛtāṃ namaskaromi bhāsvaram",
             ],
             "num": "|| 3 ||",
-            "gloss": "I salute the radiant one, saluted by all — doer of good to "
+            "gloss": "I salute the radiant one — doer of good to "
                      "every world, who cast away the demon-elephant, ample of belly, "
                      "boon-granting, elephant-faced, imperishable; a wellspring of "
-                     "compassion, of forbearance, of joy, of glory, and of "
-                     "understanding.",
+                     "compassion, of forbearance, of joy and of glory, who gives heart to those who bow to him.",
         },
         {
             "padas": [

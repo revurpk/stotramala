@@ -1,0 +1,17 @@
+{
+ "series": "kondalalo-nelakonna",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-14",
+ "coverage": "full",
+ "scope": "All units read: translation and word glosses against the Telugu text. The text was not compared with the source.",
+ "items": [
+  {
+   "unit": 3,
+   "area": "words",
+   "status": "fixed",
+   "issue": "నొచ్చినవాడు was glossed “he who was moved”; నొచ్చు is to be hurt, as the translation says.",
+   "change": "Gloss now “he who was pained”.",
+   "slug": "kondalalo-nelakonna"
+  }
+ ]
+}
