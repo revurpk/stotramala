@@ -34,13 +34,12 @@ STOTRA = {
            "In a golden vessel inlaid with the nine gems, ghee and sweet pāyasa; "
            "the fivefold food with milk and curds, plantains, and a sweet drink; a "
            "myriad of vegetables, delicious water bright with a piece of camphor, "
-           "and betel — all this I have made in my mind. Accept it with love, O "
-           "Lord."),
+           "and betel — all this I have made in my mind with devotion. Accept it, O Lord."),
         _v("chatraṃ cāmarayoryugaṃ vyajanakaṃ cādarśakaṃ nirmalaṃ",
            "vīṇābherimṛdaṅgakāhalakalā gītaṃ ca nṛtyaṃ tathā",
            "sāṣṭāṅgaṃ praṇatiḥ stutirbahuvidhā hyetatsamastaṃ mayā",
            "saṅkalpena samarpitaṃ tava vibho pūjāṃ gṛhāṇa prabho", 3,
-           "A parasol, a pair of yak-tail fans, a whisk, and a spotless mirror; "
+           "A parasol, a pair of yak-tail whisks, a fan, and a spotless mirror; "
            "the music of vīṇā, kettledrum, mṛdaṅga, and horn, with song and dance; "
            "prostration with the eight limbs, and praise of many kinds — all this "
            "I offer You by my resolve, O all-pervading Lord; accept my worship."),

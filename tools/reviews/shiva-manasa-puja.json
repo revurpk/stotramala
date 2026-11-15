@@ -1,0 +1,25 @@
+{
+ "series": "shiva-manasa-puja",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-14",
+ "coverage": "full",
+ "scope": "All units read: text for sense and metre, translation and word glosses against the text. The text was not compared with the source page.",
+ "items": [
+  {
+   "unit": 2,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "bhaktyā belongs with “made by me”, not with “accept”.",
+   "change": "Now “… made in my mind with devotion. Accept it, O Lord.”",
+   "slug": "shiva-manasa-puja"
+  },
+  {
+   "unit": 3,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "cāmara and vyajanaka were swapped (“yak-tail fans, a whisk”).",
+   "change": "Now “a pair of yak-tail whisks, a fan”.",
+   "slug": "shiva-manasa-puja"
+  }
+ ]
+}

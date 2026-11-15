@@ -1,0 +1,51 @@
+{
+ "series": "rama-raksha-stotram",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-14",
+ "coverage": "full",
+ "scope": "All units read: text for sense and metre, translation and word glosses against the text. The text was not compared with the source page.",
+ "items": [
+  {
+   "unit": 26,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "lakṣmaṇapūrvajam was rendered “elder brother's-junior to Lakṣmaṇa”.",
+   "change": "Now “elder brother of Lakṣmaṇa”.",
+   "slug": "rama-raksha-stotram"
+  },
+  {
+   "unit": 38,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "rame (“I delight”) had no verb in the translation, which read as a string of locatives.",
+   "change": "Now “Saying ‘the name of Rāma’, ‘Rāma’, I delight in Rāma, the delight of the mind”.",
+   "slug": "rama-raksha-stotram"
+  },
+  {
+   "unit": 0,
+   "area": "text",
+   "status": "open",
+   "issue": "Three letters look dropped in transcription; the word glosses already have the full forms. Verse 13: rāmanāmābhirakṣitam for rāmanāmnābhirakṣitam. Verse 25: naraḥ for narāḥ (plural, with te). Verse 26: daśarathanayaṃ for daśarathatanayaṃ (the line is a syllable short of the metre).",
+   "options": [
+    "A. Correct all three.",
+    "B. Keep as transcribed."
+   ],
+   "recommend": "A: grammar or metre requires each.",
+   "decision": "",
+   "slug": "rama-raksha-stotram"
+  },
+  {
+   "unit": 38,
+   "area": "text",
+   "status": "open",
+   "issue": "The last verse begins rāmanāmeti rāmeti; the form usually recited is śrī rāma rāma rāmeti.",
+   "options": [
+    "A. Keep the source’s wording.",
+    "B. Change to śrī rāma rāma rāmeti and adjust the translation."
+   ],
+   "recommend": "A unless your recitation text has B.",
+   "decision": "",
+   "slug": "rama-raksha-stotram"
+  }
+ ]
+}

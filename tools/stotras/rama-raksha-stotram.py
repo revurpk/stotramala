@@ -138,7 +138,7 @@ STOTRA = {
             "kākutsthaṃ karuṇārṇavaṃ guṇanidhiṃ viprapriyaṃ dhārmikam",
             "rājendraṃ satyasandhaṃ daśarathanayaṃ śyāmalaṃ śāntamūrtiṃ",
             "vande lokābhirāmaṃ raghukulatilakaṃ rāghavaṃ rāvaṇārim"], 26,
-           "I bow to Rāma — elder brother's-junior to Lakṣmaṇa, best of Raghus, "
+           "I bow to Rāma — elder brother of Lakṣmaṇa, best of Raghus, "
            "lord of Sītā, beautiful; Kākutstha, ocean of compassion, treasury of "
            "virtues, dear to brāhmaṇas, righteous; king of kings, true to his "
            "word, son of Daśaratha, dark, of serene form; the world's delight, "
@@ -207,7 +207,7 @@ STOTRA = {
            "servant; may my mind be ever absorbed in Rāma — O Rāma, lift me up!"),
         _v(["rāmanāmeti rāmeti rame rāme manorame",
             "sahasranāma tattulyaṃ rāmanāma varānane"], 38,
-           "Delighting in 'Rāma-nāma,' in 'Rāma,' in the delightful Rāma — the "
+           "Saying 'the name of Rāma,' 'Rāma,' I delight in Rāma, the delight of the mind; the "
            "name of Rāma is equal to the thousand names, O fair-faced one."),
     ],
 }

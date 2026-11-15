@@ -194,5 +194,26 @@
   "fixed": 1,
   "open": 0,
   "reviewer": "claude-fable-5-2"
+ },
+ "rama-raksha-stotram": {
+  "coverage": "full",
+  "date": "2026-11-14",
+  "fixed": 2,
+  "open": 2,
+  "reviewer": "claude-fable-5-2"
+ },
+ "shiva-manasa-puja": {
+  "coverage": "full",
+  "date": "2026-11-14",
+  "fixed": 2,
+  "open": 0,
+  "reviewer": "claude-fable-5-2"
+ },
+ "sriman-narayana": {
+  "coverage": "full",
+  "date": "2026-11-14",
+  "fixed": 0,
+  "open": 0,
+  "reviewer": "claude-fable-5-2"
  }
 }
