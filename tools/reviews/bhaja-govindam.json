@@ -1,0 +1,38 @@
+{
+ "series": "bhaja-govindam",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-14",
+ "coverage": "full",
+ "scope": "All units read: text for sense and metre, translation and word glosses against the text. The text was not compared with the source page.",
+ "items": [
+  {
+   "unit": 5,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "The text has saktaḥ (“engaged in”), but translation and gloss rendered śaktaḥ (“able to”).",
+   "change": "Now “As long as you are busy earning wealth”; gloss likewise.",
+   "slug": "bhaja-govindam"
+  },
+  {
+   "unit": 32,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "acirāt was “at once”.",
+   "change": "Now “soon”.",
+   "slug": "bhaja-govindam"
+  },
+  {
+   "unit": 33,
+   "area": "text",
+   "status": "open",
+   "issue": "Two small slips in the colophon verse: śrīmacchaṅkarabhagavacchiṣyai / bodhita lacks the r of the instrumental plural (śiṣyair bodhita), and dhuriṇaḥ should be dhurīṇaḥ.",
+   "options": [
+    "A. Correct both (śiṣyair, dhurīṇaḥ).",
+    "B. Keep as in the source."
+   ],
+   "recommend": "A: both are plain misspellings; the word gloss already reads śiṣyaiḥ.",
+   "decision": "",
+   "slug": "bhaja-govindam"
+  }
+ ]
+}

@@ -1,0 +1,150 @@
+{
+ "series": "ghatakarpara",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-14",
+ "coverage": "full",
+ "scope": "All units read: text for sense and metre, translation and word glosses against the text. The text was not compared with the source page. A yamaka poem read earlier from page scans; the sense of several verses had been missed and is corrected.",
+ "items": [
+  {
+   "unit": 0,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Every translation ended in a stray “|” that showed on the page. The same fault affected Meghadūta, Śṛṅgāratilaka and Śyāmalā Daṇḍakam.",
+   "change": "tools/kalidasa/gen_kalidasa.py now strips it; all six pages regenerated.",
+   "slug": "ghatakarpara"
+  },
+  {
+   "unit": 1,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "hṛdayāvanīradaiḥ (“tearing the soil of the heart”) describes the clouds; it had become “a gloom that burns the heart”.",
+   "change": "Retranslated; word gloss re-split.",
+   "slug": "ghatakarpara"
+  },
+  {
+   "unit": 2,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "kundasamānadanti is an address to a woman, “O you whose teeth are like jasmine”; it was “the jasmine shows its teeth”.",
+   "change": "Retranslated.",
+   "slug": "ghatakarpara"
+  },
+  {
+   "unit": 3,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "sukhasevitāram is “who takes his ease”, not “who is pleased to serve it”.",
+   "change": "Corrected.",
+   "slug": "ghatakarpara"
+  },
+  {
+   "unit": 6,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "proṣitapramadayā … udyate is “is spoken by a woman whose husband is away”; it was “said of women”.",
+   "change": "Retranslated as the introduction to her speech.",
+   "slug": "ghatakarpara"
+  },
+  {
+   "unit": 7,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "hatena … vinā (“without that wretch”) was rendered “and him as well, if I am without him”.",
+   "change": "Retranslated.",
+   "slug": "ghatakarpara"
+  },
+  {
+   "unit": 8,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "pāṃśula is a rake, not “dusty”. Typo śīgha in the words.",
+   "change": "“that rake of a traveller”; śīghra.",
+   "slug": "ghatakarpara"
+  },
+  {
+   "unit": 11,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "The verse was misconstrued (“the husbands who are away and the heart’s grief all sing out”). The peacocks heap grief on the women’s hearts; sā adya te … sādyate is “she, your wife, is today being brought to ruin”.",
+   "change": "Retranslated; words re-split.",
+   "slug": "ghatakarpara"
+  },
+  {
+   "unit": 14,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "tena vinā (“without him”) was dropped, and śiteṣu taken as a separate “with sharp arrows”.",
+   "change": "Retranslated.",
+   "slug": "ghatakarpara"
+  },
+  {
+   "unit": 16,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "sarja is the sāl tree, not the kadamba.",
+   "change": "“O sarja tree”.",
+   "slug": "ghatakarpara"
+  },
+  {
+   "unit": 19,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "ghana-mukta-ambu-lava is “drops of water let fall by the clouds”, not “thick pearls of water”.",
+   "change": "Retranslated.",
+   "slug": "ghatakarpara"
+  },
+  {
+   "unit": 3,
+   "area": "text",
+   "status": "open",
+   "issue": "Quarter 3 reads sendrāyudhaśca jalado dharasannibhānāṃ, which gives no sense. The usual text is jalado’dya rasann ibhānāṃ (“the cloud, roaring today, [rouses the fury] of elephants”), which also makes the yamaka with bhūdharasannibhānām. Same syllable count. The translation now follows the usual text and says so.",
+   "options": [
+    "A. Emend to jalado’dya rasannibhānāṃ and log it.",
+    "B. Keep the print’s reading with the note.",
+    "C. Re-read the scan first (Kāvyasaṅgraha vol. 1)."
+   ],
+   "recommend": "A: sense and yamaka both require it; dha for dya is an easy misreading of the scan.",
+   "decision": "",
+   "slug": "ghatakarpara"
+  },
+  {
+   "unit": 12,
+   "area": "text",
+   "status": "open",
+   "issue": "Quarter 1, kiṃ kvāpi tava nāsti kāntayā, is one syllable short (10 for 11). The usual text is kiṃ kṛpāpi tava nāsti kāntayā (“have you no pity at all for your beloved?”), and the translation already says “compassion”.",
+   "options": [
+    "A. Emend to kiṃ kṛpāpi and log it.",
+    "B. Keep as it is."
+   ],
+   "recommend": "A: the metre proves the loss and the translation already assumes kṛpā.",
+   "decision": "",
+   "slug": "ghatakarpara"
+  },
+  {
+   "unit": 22,
+   "area": "text",
+   "status": "open",
+   "issue": "Quarter 2 ends suratairapeyam; the usual text is surataiḥ śapeyam (“I swear by the love-making …”), the poet’s famous oath. The translation now follows that reading and says so.",
+   "options": [
+    "A. Emend to surataiḥ śapeyam and log it.",
+    "B. Keep the print’s reading with the note."
+   ],
+   "recommend": "A.",
+   "decision": "",
+   "slug": "ghatakarpara"
+  },
+  {
+   "unit": 21,
+   "area": "translation",
+   "status": "open",
+   "issue": "Verse 21 still has two words marked tentative (apīḍitāyāḥ and the repeated amoghaiḥ); I could not settle them.",
+   "options": [
+    "A. Leave marked tentative.",
+    "B. You supply the sense."
+   ],
+   "recommend": "A.",
+   "decision": "",
+   "slug": "ghatakarpara"
+  }
+ ]
+}

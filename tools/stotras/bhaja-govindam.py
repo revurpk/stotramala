@@ -47,7 +47,7 @@ STOTRA = {
            "and conceit, and stricken with grief."),
         _v("yāvadvittopārjanasaktaḥ", "tāvannija parivāro raktaḥ",
            "paścājjīvati jarjara dehe", "vārtāṃ ko'pi na pṛcchati gehe", 5,
-           "As long as you can earn wealth, so long is your family attached to "
+           "As long as you are busy earning wealth, so long is your family attached to "
            "you; afterwards, when you live on in a body worn with age, no one at "
            "home even asks after you."),
         _v("yāvatpavano nivasati dehe", "tāvatpṛcchati kuśalaṃ gehe",
@@ -183,7 +183,7 @@ STOTRA = {
            "recitation — perform these with care, with great care."),
         _v("gurucaraṇāmbuja nirbhara bhaktaḥ", "saṃsārādacirādbhava muktaḥ",
            "sendriyamānasaniyamādevaṃ", "drakṣyasi nijahṛdayasthaṃ devam", 31,
-           "O devotee leaning wholly on the guru's lotus-feet, be freed at once "
+           "O devotee leaning wholly on the guru's lotus-feet, be freed soon "
            "from the round of becoming; through this discipline of the senses "
            "and mind you will behold the God seated in your own heart."),
         _v("mūḍhaḥ kaścana vaiyākaraṇo", "ḍukṛñkaraṇādhyayanadhuriṇaḥ",

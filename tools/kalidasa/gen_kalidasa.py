@@ -46,7 +46,7 @@ def main(name):
     for gp in sorted(HERE.glob(f"{name}.gloss*.txt")):
         for l in gp.read_text(encoding="utf-8").splitlines():
             if l.strip() and l[0] != "#":
-                k, e = [x.strip() for x in l.split("|", 1)]; gl[k] = e
+                k, e = [x.strip() for x in l.split("|", 1)]; gl[k] = e.rstrip("|").strip()
     secs, missing = [], 0
     for i, lines in enumerate(us, 1):
         last = lines[-1]
