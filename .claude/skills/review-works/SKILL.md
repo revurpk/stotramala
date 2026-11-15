@@ -2,9 +2,11 @@
 name: review-works
 description: >-
   Critically review a work on the stotramālā site (text, translation, word-by-word
-  glosses, wiring) and fix the problems found. Use when the user asks to review,
-  audit, proofread, QA or fix existing pages of the stotramala repo, one work
-  or all of them. Meant to be run on the strongest available model.
+  glosses, wiring), fix the problems found, and write a review packet of the items
+  that need a human decision. Use when the user asks to review, audit, proofread,
+  QA or fix existing pages of the stotramala repo, one work or all of them, or to
+  apply the decisions they wrote in a review packet. Meant to be run on the
+  strongest available model.
 ---
 
 # Review and fix works on stotramālā
@@ -13,28 +15,96 @@ description: >-
 `claude-fable-5-2`, high effort; Opus 5.5 is an acceptable cheaper pass for the
 long epics). If you are not on it, tell the user and let them switch first.
 
-## Order of work
-1. `python .claude/skills/review-works/scripts/manifest.py --pending` lists the
-   series with verse counts and review status (`tools/reviews/status.json`).
-   Scale is large (Rāmāyaṇa ~22k verses, Devībhāgavatam ~19k): review the short
-   hand-built works fully first; for the epics review in samples (every page's
-   first, last and a few random verses, plus every verse the checks flag).
-2. Work one series at a time; one commit per series.
+Every review of a work ends in three things: fixes committed, a record
+(`tools/reviews/<series>.json`), and a **review packet**
+(`tools/reviews/packets/<series>.md`) listing what a human must decide.
 
-## Per work
-- **Text.** Compare `tools/stotras/<slug>.py` IAST against the source named in
-  `SOURCES.md`; look for typos, wrong sandhi, broken padas, missing or doubled
-  verses, wrong verse numbers. Never silently change the text: log each
-  emendation in `SOURCES.md`.
-- **Translation.** Check each `gloss` for fidelity (no invented content, names
-  and terms consistent, tentative where the Sanskrit is corrupt).
-- **Word-by-word** (`tools/words/<slug>.txt`). Run `python tools/words_check.py
-  <slug>`; examine every LOW flag, check meanings and compound splits.
-- **Build and verify.** `python tools/build_stotra.py <slug>`;
-  `.claude/skills/add-stotra/scripts/verify.py --data <slug>` (not for `src:"tel"`).
-- **Record.** Write findings and fixes to `tools/reviews/<slug>.md` and update
-  `tools/reviews/status.json` (`reviewer`, `date`, `fixed`, `open`).
+Scripts (run with the project's Python, `PYTHONIOENCODING=utf-8`), all under
+`.claude/skills/review-works/scripts/`:
 
-## Rules
-Fix what is clearly wrong; list uncertain points as open rather than guessing.
-Commit locally with the usual Co-Authored-By trailer; push only if asked.
+| Script | Use |
+|---|---|
+| `manifest.py [--pending] [--series S]` | series, page and verse counts, review status |
+| `audit.py <slug>…` / `--series S` / `--all --summary` | mechanical flags (codes in its docstring) |
+| `audit.py --show <slug> [FROM TO]` | text, translation and words together, unit by unit |
+| `audit.py --sample <slug> [N]` | fixed sample: first, last, flagged, seeded picks |
+| `packet.py build / collect / decided / check` | records → packets, and decisions back |
+
+## Before starting
+1. `git status` must be clean; if not, stop and ask.
+2. `manifest.py --pending` and `audit.py --all --summary` give the lay of the land.
+3. Choose the coverage for each series and say so in its record:
+   - **full**: every unit read. For anything under about 400 units, and for
+     all hand-written translations and word glosses.
+   - **sample**: `audit.py --sample` on every page, plus every flagged unit. For
+     long works that have translations.
+   - **mechanical**: audit flags only. For text-only epics (Rāmāyaṇa, Bhāgavatam,
+     Devībhāgavatam, Amarakośa have no translations): their text can only be
+     checked against the source, and the record must say that it was not read.
+   Never report a sample or mechanical pass as a review of the whole work.
+
+## Per series
+1. **Audit.** `audit.py --series <S>`. Every flag gets looked at: it becomes a
+   fix, an open item, or is dismissed as expected (refrains flagged X-DUP,
+   summary translations flagged T-RATIO, "x said" lines flagged W-LOW). Flags
+   are prompts, not findings: do not copy them into the record unexamined.
+2. **Read.** `audit.py --show` (or `--sample`). For each unit ask:
+   - *Text.* Is this good Sanskrit/Telugu? Typos, dropped or doubled syllables,
+     wrong sandhi, broken metre, a pada in the wrong verse, missing or doubled
+     verses, wrong numbers. Compare with the source named in `SOURCES.md` when
+     it is reachable; when it is not, a suspected misprint is an **open** item,
+     not a fix.
+   - *Translation.* Does it say what the text says? Omissions, additions,
+     wrong case or number or tense, wrong referent, a name or term rendered
+     differently from elsewhere in the work, a confident rendering of a
+     corrupt line.
+   - *Words.* Does each word's meaning fit its form in *this* verse, are the
+     compound splits right, do the words agree with the sentence translation,
+     is every word of the text present?
+   - *Wiring.* Title, subtitle, note, footer, nav, index/README/SOURCES entries
+     consistent with what the page now contains (e.g. a note still saying
+     "translations will follow").
+3. **Fix** what is clearly wrong, at its source:
+   - If the data file's header says it is *written by* a generator
+     (`audit.py` prints `[generated by …: fix upstream]`), edit the generator's
+     input (under `tools/<work>/`) and re-run the generator. An edit to a
+     generated `tools/stotras/<slug>.py` is lost on the next run.
+   - Word glosses: edit `tools/words/<slug>.txt` (separators exactly ` = ` and ` | `).
+   - Never change the *text* without a source for the reading; log every
+     emendation in `SOURCES.md` under the work.
+4. **Build and verify.** `python tools/build_stotra.py <slug>…`, then
+   `.claude/skills/add-stotra/scripts/verify.py --data <slug>` (not for
+   `src:"tel"` pages), `python tools/words_check.py <slug>…`, and `audit.py`
+   again. `git status --short` must show only files of this series (plus
+   `tools/reviews/`, `SOURCES.md`).
+5. **Record.** Write `tools/reviews/<series>.json` (schema in `packet.py`'s
+   docstring). Every fix is a `fixed` item with its `change`; everything below
+   goes in as `open`, with concrete `options` (lettered) and a `recommend`:
+   - a reading that looks wrong but cannot be checked against the source;
+   - a line that is corrupt, truncated or ambiguous, and how it was handled;
+   - a translation choice where two readings are defensible and they differ in sense;
+   - a doctrinal, sectarian or ritual point where the rendering takes a side;
+   - a change that would alter numbering, structure or scope of a page;
+   - anything missing that needs the user's material (scans, a better edition).
+   An open item must be answerable without re-reading the work: state the
+   problem, quote what matters, give the choices. Not for open: matters of
+   taste, things you could settle with more thought, flags you did not look at.
+6. **Packet.** `packet.py build <series>`: writes the packet, `status.json` and
+   `tools/reviews/README.md`. Open the packet once and read it as the user will.
+7. **Commit** locally, one commit per series (short single-page works may share a
+   batch commit), usual Co-Authored-By trailer.
+   Push only if asked.
+
+## Applying the user's decisions
+The user writes after **Decision:** in a packet. Then: `packet.py decided` lists
+them; apply each (step 3–4 rules); change the item's `status` to `fixed` with a
+`change` that names the decision; `packet.py build`; commit.
+
+## Long runs
+- Order: short hand-built works first, then series with translations, then the
+  text-only epics (mechanical).
+- After each series, the record and commit are the checkpoint; `manifest.py
+  --pending` is how a later session resumes. Do not keep findings only in
+  conversation.
+- Report honestly at the end: per series its coverage, counts of fixed and
+  open, and what was not looked at.
