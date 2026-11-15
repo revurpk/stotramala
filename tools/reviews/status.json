@@ -209,6 +209,13 @@
   "open": 2,
   "reviewer": "claude-fable-5-2"
  },
+ "rukmini-kalyanam": {
+  "coverage": "full",
+  "date": "2026-11-14",
+  "fixed": 3,
+  "open": 0,
+  "reviewer": "claude-fable-5-2"
+ },
  "sandhyavandanam": {
   "coverage": "full",
   "date": "2026-11-14",

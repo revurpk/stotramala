@@ -224,7 +224,7 @@ STOTRA = {
         "రమణీయవివిధతోరణములు గట్టిరి సకలగృహంబులఁ జక్క సేసి;",
         "కర్పూరకుంకుమాగరుధూపములు వెట్టి రతివలుఁ బురుషులు నన్నియెడల",
         "వివిధవస్త్రములను వివిధమాల్యాభర, ణానులేపనముల నమరియుండి",
-        "రఖిలవాద్యములు మహాప్రీతి మ్రోయించి, రుత్సవమున నగర మొప్పి యుండె."], "॥ 1719 ॥", "[Sīsam with āṭaveladi] the squares, lanes, royal roads and market places were made clean; they sprinkled water mixed with sandal; they hung garlands of lilies and lovely arches of many kinds; they set every house in order; men and women everywhere burned camphor, saffron and aloe incense; adorned with fine clothes, garlands, ornaments and unguents, they had every instrument sounded with great joy, and the city shone with festival."),
+        "రఖిలవాద్యములు మహాప్రీతి మ్రోయించి, రుత్సవమున నగర మొప్పి యుండె."], "॥ 1719 ॥", "[Sīsam with āṭaveladi] the squares, lanes, royal roads and market places were made clean; they sprinkled water mixed with sandal; they hung festoons and lovely arches of many kinds; they set every house in order; men and women everywhere burned camphor, saffron and aloe incense; adorned with fine clothes, garlands, ornaments and unguents, they had every instrument sounded with great joy, and the city shone with festival."),
     _v([
         "అంత నా భీష్మకుండు విహితప్రకారంబునం బితృదేవతల నర్చించి బ్రాహ్మణులకు భోజనంబులు వెట్టించి,",
         "మంగళాశీర్వచనంబులు సదివించి, రుక్మిణీదేవి నభిషిక్తం జేసి, వస్త్రయుగళభూషితం గావించి, రత్నభూషణంబు",
@@ -461,7 +461,7 @@ STOTRA = {
         "బల్లిదు నన్ను భీష్మజనపాలకుమారునిఁ జిన్నఁ జేసి నా",
         "చెల్లెలి రుక్మిణిం గొనుచుఁ జిక్కని నిక్కపు బంటువోలె నీ",
         "గొల్లఁడు వోయెడిన్; రథముఁ గూడఁగఁ దోలుము; తేజితోల్లస",
-        "ద్భల్లపరంపరన్ మదముఁ బాపెదఁ జూపెద నా ప్రతాపమున్."], "॥ 1764 ॥", "[Utpalam] \"Making light of me, the mighty son of King Bhīṣmaka, this cowherd goes off with my sister Rukmiṇī like a true soldier who cannot be caught. Drive the chariot close; with a stream of sharpened, gleaming arrows I shall take away his pride and show him my valour.\""),
+        "ద్భల్లపరంపరన్ మదముఁ బాపెదఁ జూపెద నా ప్రతాపమున్."], "॥ 1764 ॥", "[Utpalam] \"Making light of me, the mighty son of King Bhīṣmaka, this cowherd goes off with my sister Rukmiṇī like some stout, true warrior. Drive the chariot close; with a stream of sharpened, gleaming arrows I shall take away his pride and show him my valour.\""),
     _v([
         "అని యిట్లు రుక్మి హరికొలంది యెఱుంగక సారథి నదలించి రథముఁ గూడ దోలించి 'గోపాలకా!",
         "వెన్నమ్రుచ్చ! నిమిషమాత్రంబు నిలు నిలు, మని తిరస్కరించి, బలువింట నారి సారించి మూఁడు",
@@ -521,7 +521,7 @@ STOTRA = {
         "జంపిన దోషము సిద్ధము, చంపను మఱి యేల మున్న చచ్చినవానిన్."], "॥ 1776 ॥", "[Kandam] \"Even when there is a fault deserving death, one should not kill one's kin; one should let them go. To kill them is surely a sin; why then kill one who is as good as dead already?\""),
     _v([
         "బ్రహ్మచేత భూమిపతుల కీ ధర్మంబు, కల్పితంబు రాజ్యకాంక్షఁ జేసి",
-        "తోడిచూలు నైనఁ దోడఁబుట్టినవాఁడు, చంపుచుండుఁ గ్రూరచరితుఁ డగుచు."], "॥ 1777 ॥", "[Āṭaveladi] \"This is the dharma Brahmā fixed for kings; yet out of lust for a kingdom a man grows cruel and kills even his own brother, born of the same womb.\""),
+        "తోడిచూలు నైనఁ దోడఁబుట్టినవాఁడు, చంపుచుండుఁ గ్రూరచరితుఁ డగుచు."], "॥ 1777 ॥", "[Āṭaveladi] \"This is the dharma Brahmā laid down for kings: out of desire for a kingdom a brother, growing cruel, kills even the brother born of the same womb.\""),
     _v([
         "భూమికి ధనధాన్యములకు, భామలకును మానములకుఁ బ్రాభవమునకుం",
         "గామించి మీఁదు గానరు, శ్రీమదమున మానధనులు చెనకుదు రొరులన్."], "॥ 1778 ॥", "[Kandam] \"Greedy for land, wealth and grain, for women, honour and power, the proud, blinded by the intoxication of fortune, do not see what lies ahead and fall upon others.\""),

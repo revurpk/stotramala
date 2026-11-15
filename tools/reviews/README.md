@@ -35,6 +35,7 @@ The packets list what needs a human decision; see `.claude/skills/review-works`.
 | [paluke-bangaramayena](packets/paluke-bangaramayena.md) | full | 2026-11-14 | 0 | 0 | 1 |
 | [purusha-suktam](packets/purusha-suktam.md) | full | 2026-11-14 | 0 | 0 | 1 |
 | [rama-raksha-stotram](packets/rama-raksha-stotram.md) | full | 2026-11-14 | 2 | 0 | 2 |
+| [rukmini-kalyanam](packets/rukmini-kalyanam.md) | full | 2026-11-14 | 0 | 0 | 3 |
 | [sandhyavandanam](packets/sandhyavandanam.md) | full | 2026-11-14 | 0 | 0 | 6 |
 | [shiva-manasa-puja](packets/shiva-manasa-puja.md) | full | 2026-11-14 | 0 | 0 | 2 |
 | [shringaratilakam](packets/shringaratilakam.md) | full | 2026-11-14 | 5 | 0 | 14 |
