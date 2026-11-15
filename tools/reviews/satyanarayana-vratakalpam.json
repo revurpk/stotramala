@@ -1,0 +1,98 @@
+{
+ "series": "satyanarayana-vratakalpam",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-14",
+ "coverage": "full",
+ "scope": "All 289 units: the text and translation of every unit were read. The word glosses were read for units 1–60 (saṅkalpa, Gaṇapati pūjā, the first planets); for units 61–289 they were checked only mechanically (all present, no low-match flags), since the planetary invocations and the offerings repeat the same formulae. The translations of the repeated ritual formulae are summaries by design (hence the one length flag, unit 131). The repeated verse flagged at unit 284 is intended. The Sanskrit was not compared with the booklets.",
+ "items": [
+  {
+   "unit": 31,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "sahasraparamā was “of a thousand shoots”; the gloss had “supreme among a thousand”.",
+   "change": "Translation now “foremost among thousands”.",
+   "slug": "satyanarayana-vratakalpam"
+  },
+  {
+   "unit": 126,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Puruṣa Sūkta 2 was rendered “lord of immortality, which he transcends through food”, making immortality the thing surpassed; the Puruṣa Sūkta page was corrected the same way.",
+   "change": "Now “in that he grows beyond (this world) by food”.",
+   "slug": "satyanarayana-vratakalpam"
+  },
+  {
+   "unit": 152,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "krodhasambhavā was “born of the churning's wrath”; nothing in the name mentions the churning.",
+   "change": "Now “born of wrath”.",
+   "slug": "satyanarayana-vratakalpam"
+  },
+  {
+   "unit": 165,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "The verse on reciting the Śrī Sūkta was left as a sentence without a main clause.",
+   "change": "Now “Let one who desires fortune … offer ghee daily and constantly recite the fifteen verses of Śrī.”",
+   "slug": "satyanarayana-vratakalpam"
+  },
+  {
+   "unit": 208,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "vipraḥ was rendered “anyone”.",
+   "change": "Now “a brahmin”.",
+   "slug": "satyanarayana-vratakalpam"
+  },
+  {
+   "unit": 45,
+   "area": "words",
+   "status": "fixed",
+   "issue": "In the eighteen planetary invocations the translation says the attendant deity is placed “on his right / left”, while the glosses had “to the south / north” for dakṣiṇataḥ / uttarataḥ.",
+   "change": "Glosses now “to the right (south)” and “to the left (north)”.",
+   "slug": "satyanarayana-vratakalpam"
+  },
+  {
+   "unit": 56,
+   "area": "text",
+   "status": "open",
+   "issue": "Mars dhyāna: yāmyamukho'tiriktaḥ. atiriktaḥ (“surpassing, in excess”) fits poorly; the translation has “fierce”, the gloss “surpassing”. The word is probably atiraktaḥ, “deep red”, the colour the next line gives him.",
+   "options": [
+    "A. Emend to atiraktaḥ and translate “deep red”.",
+    "B. Keep the booklet's reading and make the translation “surpassing”.",
+    "C. Check your booklet."
+   ],
+   "recommend": "C, then A if the booklet allows it.",
+   "decision": "",
+   "slug": "satyanarayana-vratakalpam"
+  },
+  {
+   "unit": 192,
+   "area": "text",
+   "status": "open",
+   "issue": "Kathā 1: vighneśaḥ padmajā viṣṇur mahādevaś ca pārvatī lists the five attendant deities. The pūjā itself worships Gaṇapati, Brahmā, Viṣṇu, Rudra and Gaurī, so the second should be padmajaḥ (Brahmā, “the lotus-born”; before viṣṇuḥ the form would be padmajo). The page has the feminine padmajā, and the translation says “Lakṣmī”.",
+   "options": [
+    "A. Emend to padmajo and translate “Brahmā”.",
+    "B. Keep padmajā and “Lakṣmī”.",
+    "C. Check your booklet."
+   ],
+   "recommend": "A: the list must match the five deities the rite has just worshipped.",
+   "decision": "",
+   "slug": "satyanarayana-vratakalpam"
+  },
+  {
+   "unit": 152,
+   "area": "text",
+   "status": "open",
+   "issue": "Lakṣmī's name 29 is given as krodhasambhavā (“born of wrath”). Many texts of the Lakṣmī Aṣṭottara read kṣīrodasambhavā, “born of the ocean of milk”, at this place.",
+   "options": [
+    "A. Keep krodhasambhavā as the booklet has it.",
+    "B. Change to kṣīrodasambhavā."
+   ],
+   "recommend": "A unless your booklet reads otherwise; both are in circulation.",
+   "decision": "",
+   "slug": "satyanarayana-vratakalpam"
+  }
+ ]
+}

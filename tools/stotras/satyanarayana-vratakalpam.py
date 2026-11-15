@@ -312,7 +312,7 @@ S += [
     _v(["sahasraparamā devī śatamūlā śatāṅkurā |",
         "sarvagṃ haratu me pāpaṃ dūrvā duḥsvapnanāśanī ||",
         "gaṇapatiṃ yathāsthānamudvāsayāmi ||"],
-       "The goddess Dūrvā, of a thousand shoots, a hundred roots and a hundred "
+       "The goddess Dūrvā, foremost among thousands, of a hundred roots and a hundred "
        "sprouts, destroyer of evil dreams — may she take away all my sin. I "
        "bid Gaṇapati return to his place."),
     _v(["yajñena yajñamayajanta devāstāni dharmāṇi prathamānyāsan |",
@@ -1157,7 +1157,7 @@ S += _upa(
      "vicitravastrāvṛtamacyuta prabho gṛhāṇa lakṣmīdharaṇīsamanvita ||"],
     "ratnasiṃhāsanaṃ samarpayāmi",
     "Puruṣa Sūkta 2: “The Puruṣa alone is all this, what has been and what is "
-    "to be; he is lord of immortality, which he transcends through food.” Śrī "
+    "to be; and he is lord of immortality, in that he grows beyond (this world) by food.” Śrī "
     "Sūkta 2: “Bring me, Jātavedas, that Lakṣmī who does not depart, in whom I "
     "may find gold, cattle, horses and people.” At the foot of the wishing-tree, "
     "on a jewelled altar, a golden throne of many colours, spread with rich "
@@ -1470,8 +1470,7 @@ L_GLOSS = [
     "speech; dwelling in the lotus; the lotus; the pure.",
     "13–24: Svāhā; Svadhā; nectar; the blessed; golden; Lakṣmī; ever-"
     "nourishing; the radiant night; Aditi; Diti; the shining; the earth.",
-    "25–36: upholder of the earth; Kamalā; the beloved; lovely-eyed; born of "
-    "the churning's wrath; bestower of grace; wisdom; the sinless; dear to "
+    "25–36: upholder of the earth; Kamalā; the beloved; lovely-eyed; born of wrath; bestower of grace; wisdom; the sinless; dear to "
     "Hari; free of sorrow; immortal; the shining.",
     "37–48: destroyer of the world's sorrow; abode of dharma; compassion; "
     "mother of the world; fond of lotuses; lotus-handed; lotus-eyed; lovely as "
@@ -1604,9 +1603,7 @@ S += [
        "darkness; the wise one who, having fashioned all forms and given them "
        "names, dwells calling them.” He gives a golden vessel full of honey, "
        "thinking, may I be rich in sweetness; he offers it whole to the "
-       "brahmin, and wholly the sacrificer gains life and lustre. Whoever, "
-       "pure and restrained, offers ghee daily and, desiring fortune, "
-       "constantly recites the fifteen verses of Śrī. With four wicks filled "
+       "brahmin, and wholly the sacrificer gains life and lustre. Let one who desires fortune, pure and restrained, offer ghee daily and constantly recite the fifteen verses of Śrī. With four wicks filled "
        "with cow's ghee — may the lord of the world be pleased by this waving "
        "of lights."),
     _p(["narya prajāṃ me gopāya | amṛtatvāya jīvase | jātāṃ janiṣyamāṇāṃ ca | amṛte satye pratiṣṭhitām |",
@@ -2013,7 +2010,7 @@ S += [
        "attained liberation, which is hard to win."),
     _v(["vratametadyadā vipraḥ pṛthivyāṃ saṅkariṣyati |",
         "tathaiva sarvaduḥkhaṃ ca manujasya vinaśyati ||"],
-       "Whenever anyone on earth keeps this vow, just so every sorrow of that "
+       "Whenever a brahmin on earth keeps this vow, just so every sorrow of that "
        "person is destroyed."),
     _v(["sūta uvāca —",
         "evaṃ nārāyaṇenoktaṃ nāradāya mahātmane |",
