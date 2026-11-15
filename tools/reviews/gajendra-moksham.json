@@ -1,0 +1,22 @@
+{
+ "series": "gajendra-moksham",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-14",
+ "coverage": "full",
+ "scope": "All units read: translation and word glosses against the Telugu text. The text was not compared with the source. One low-match flag (unit 3) is Telugu sandhi only.",
+ "items": [
+  {
+   "unit": 7,
+   "area": "text",
+   "status": "open",
+   "issue": "మూర్ఛ వచ్ఛెఁ is printed with ఛ; Potana’s word is వచ్చెఁ (the word gloss already has వచ్చెన్).",
+   "options": [
+    "A. Correct to వచ్చెఁ.",
+    "B. Keep."
+   ],
+   "recommend": "A: a plain misspelling.",
+   "decision": "",
+   "slug": "gajendra-moksham"
+  }
+ ]
+}

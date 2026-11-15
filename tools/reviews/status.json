@@ -6,11 +6,25 @@
   "open": 2,
   "reviewer": "claude-fable-5-2"
  },
+ "adivo-alladivo": {
+  "coverage": "full",
+  "date": "2026-11-14",
+  "fixed": 1,
+  "open": 0,
+  "reviewer": "claude-fable-5-2"
+ },
  "ambashtakam": {
   "coverage": "full",
   "date": "2026-11-14",
   "fixed": 9,
   "open": 6,
+  "reviewer": "claude-fable-5-2"
+ },
+ "anjaneya-dandakam": {
+  "coverage": "full",
+  "date": "2026-11-14",
+  "fixed": 1,
+  "open": 3,
   "reviewer": "claude-fable-5-2"
  },
  "ardhanarishvara-stotram": {
@@ -25,6 +39,20 @@
   "date": "2026-11-14",
   "fixed": 1,
   "open": 0,
+  "reviewer": "claude-fable-5-2"
+ },
+ "brahma-kadigina-padamu": {
+  "coverage": "full",
+  "date": "2026-11-14",
+  "fixed": 1,
+  "open": 0,
+  "reviewer": "claude-fable-5-2"
+ },
+ "gajendra-moksham": {
+  "coverage": "full",
+  "date": "2026-11-14",
+  "fixed": 0,
+  "open": 1,
   "reviewer": "claude-fable-5-2"
  }
 }

@@ -44,8 +44,7 @@ STOTRA = {
            "looked on me, protected me as a giver, stood close by me… Long ago, "
            "becoming Sugrīva's minister and standing firm in the Lord's task: "
            "seeing Śrī Rāma and Saumitri (Lakṣmaṇa), taking counsel with them, "
-           "worshipping the Lord of all, making the Sun's son (Sugrīva) his "
-           "master, slaying that Vāli, and being looked upon by the tilaka of "
+           "worshipping the Lord of all, making the Sun's son (Sugrīva) Rāma's sworn man, slaying that Vāli, and being looked upon by the tilaka of "
            "the Kākutstha line (Rāma) with a glance of grace;"),
         _v(["కిష్కింధకేతెంచి, శ్రీరామ కార్యార్థివై, లంకకేతెంచియున్, లంకిణింజంపియున్, లంకనున్ గాల్చియున్, భూమిజన్ జూచి, యానందముప్పొంగ,",
             "యాయుంగరంబిచ్చి, యారత్నమున్ దెచ్చి, శ్రీరాముకున్నిచ్చి, సంతోషనున్ జేసి,",

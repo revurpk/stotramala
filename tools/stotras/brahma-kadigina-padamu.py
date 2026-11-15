@@ -40,7 +40,7 @@ STOTRA = {
             "పామిడి తురగపు పాదము"],
            "The foot that washed away the woman's sin (Ahalyā's); the foot set "
            "upon the serpent's head (Kāliya's); the foot that Śrī, the beloved "
-           "consort, lovingly presses; the foot swift as a coursing steed."),
+           "consort, lovingly presses; the foot that mounts the swift horse (as Kalki)."),
         _v(["పరమ యోగులకు పరి పరి విధముల",
             "వర మొసగెడి నీ పాదము",
             "తిరు వేంకటగిరి తిరమని చూపిన",

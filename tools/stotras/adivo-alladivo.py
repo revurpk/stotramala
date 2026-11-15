@@ -33,8 +33,7 @@ STOTRA = {
             "అదివో బ్రహ్మాదుల కపురూపము",
             "అదివో నిత్యనివాస మఖిలమునులకు",
             "అదె చూడుడదె మ్రొక్కుడానందమయము ॥"],
-           "There is Veṅkaṭācala, highest of all; there yonder, the very form "
-           "of Brahmā and the gods; there, the eternal dwelling for all sages; "
+           "There is Veṅkaṭācala, highest of all; there yonder, a rare sight even for Brahmā and the gods; there, the eternal dwelling for all sages; "
            "behold it, bow to it — it is full of bliss."),
         _v(["చెంగట నల్లదివో శేషాచలము",
             "నింగి నున్నదేవతల నిజవాసము",

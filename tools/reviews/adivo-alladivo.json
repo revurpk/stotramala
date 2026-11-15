@@ -1,0 +1,17 @@
+{
+ "series": "adivo-alladivo",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-14",
+ "coverage": "full",
+ "scope": "All units read: translation and word glosses against the Telugu text. The text was not compared with the source.",
+ "items": [
+  {
+   "unit": 2,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "అపురూపము (rare, precious) was rendered “the very form of Brahmā and the gods”, as if it were రూపము.",
+   "change": "Now “a rare sight even for Brahmā and the gods”, as the word gloss has it.",
+   "slug": "adivo-alladivo"
+  }
+ ]
+}

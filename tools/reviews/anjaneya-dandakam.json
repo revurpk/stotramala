@@ -1,0 +1,58 @@
+{
+ "series": "anjaneya-dandakam",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-14",
+ "coverage": "full",
+ "scope": "All units read: translation and word glosses against the Telugu text. The text was not compared with the source.",
+ "items": [
+  {
+   "unit": 2,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "బంటుగావించి (“making him a retainer”) was rendered “making the Sun's son (Sugrīva) his master”, the reverse of the sense.",
+   "change": "Now “making the Sun's son (Sugrīva) Rāma's sworn man”.",
+   "slug": "anjaneya-dandakam"
+  },
+  {
+   "unit": 8,
+   "area": "text",
+   "status": "open",
+   "issue": "The closing line reads శ్రీరామ జయ రామ జయ రా రమ జయ రామా రామా. “రా రమ” looks like a slip for “రామ” (or for “జయ జయ రామ”).",
+   "options": [
+    "A. Change “రా రమ” to “రామ”.",
+    "B. Replace the line with the familiar శ్రీరామ జయరామ జయ జయ రామ.",
+    "C. Keep as it is."
+   ],
+   "recommend": "A, unless your printed copy shows otherwise.",
+   "decision": "",
+   "slug": "anjaneya-dandakam"
+  },
+  {
+   "unit": 0,
+   "area": "text",
+   "status": "open",
+   "issue": "Four spellings look like slips: దృష్ఠి for దృష్టి (units 2 and 6), ప్రశస్థంబుగా for ప్రశస్తంబుగా (5), అయోద్యకున్ for అయోధ్యకున్ (4). They are common in popular prints of the daṇḍaka.",
+   "options": [
+    "A. Correct all four.",
+    "B. Keep the spellings of the source."
+   ],
+   "recommend": "A: none changes the sound of recitation much, and the corrected forms are the standard ones.",
+   "decision": "",
+   "slug": "anjaneya-dandakam"
+  },
+  {
+   "unit": 6,
+   "area": "translation",
+   "status": "open",
+   "issue": "“రారా నా ముద్దు నృసింహా యటంచున్” — who says “come, my darling man-lion”? The translation supplies “(the Lord calling)”; the word gloss has “as I call”. The Telugu does not say.",
+   "options": [
+    "A. The devotee calls Hanumān (change the translation to match the words).",
+    "B. Rāma calls Hanumān (change the word gloss to match the translation).",
+    "C. Leave both."
+   ],
+   "recommend": "A: the whole passage is the devotee’s address.",
+   "decision": "",
+   "slug": "anjaneya-dandakam"
+  }
+ ]
+}
