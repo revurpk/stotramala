@@ -1,0 +1,81 @@
+{
+ "series": "venkateshwara-ashtottara-shatanamavali",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-16",
+ "coverage": "full",
+ "scope": "All 108 names: the text was compared name by name with the page images of the TTD book (pp. 24–28), and every meaning was read against its name. There are no word-by-word glosses on this page (the meanings are per name). The range-number flags are the block labels. The text agrees with the print throughout. Many names allude to the Veṅkaṭācala legends; the meanings of 46, 50 and 67 remain my best reading.",
+ "items": [
+  {
+   "unit": 1,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Name 9, kumārākalpasevyāya, was “served by Kumāra and by Brahmā's kalpa”; ākalpa is “for a whole kalpa”.",
+   "change": "Now “worshipped by Kumāra (Skanda) for a whole kalpa”.",
+   "slug": "venkateshwara-ashtottara-shatanamavali"
+  },
+  {
+   "unit": 2,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Name 18, śaṅkharājanya-, was “the king of conch-bearers”; it is King Śaṅkha, who saw the Lord on the hill.",
+   "change": "Now “seen by the lotus eyes of King Śaṅkha”.",
+   "slug": "venkateshwara-ashtottara-shatanamavali"
+  },
+  {
+   "unit": 6,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Name 46, vākpatibrahmadātre, was “giver of the lord of speech and of Brahmā”.",
+   "change": "Now “who gave Bṛhaspati, lord of speech, the knowledge of Brahman”.",
+   "slug": "venkateshwara-ashtottara-shatanamavali"
+  },
+  {
+   "unit": 9,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Name 74 was “on whose account Lakṣmī did penance”; the compound makes him the ascetic, for Lakṣmī's sake, at the golden-lotus pool.",
+   "change": "Now “who did penance for Lakṣmī on the bank of the golden-lotus pool”.",
+   "slug": "venkateshwara-ashtottara-shatanamavali"
+  },
+  {
+   "unit": 10,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Names 83, 85: “giver of Añjanā's son” and “fond of priyaṅgu fruit” (priyaṅgu is a millet).",
+   "change": "Now “who gave Añjanā a son” and “whose favourite food is priyaṅgu millet”.",
+   "slug": "venkateshwara-ashtottara-shatanamavali"
+  },
+  {
+   "unit": 11,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Name 92, -vedāntadeśikatvapradāya, was “who gave the brahmin Kṛṣṇa the teaching of the Vedānta”; deśikatva is the office of teacher.",
+   "change": "Now “who made the brahmin named Kṛṣṇa a teacher of Vedānta”.",
+   "slug": "venkateshwara-ashtottara-shatanamavali"
+  },
+  {
+   "unit": 12,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Name 106 was “giver of the full fruit of the world's holy places, as Balarāma”; Balarāma (Halāyudha) is the one who receives it.",
+   "change": "Now “who gave Balarāma the whole fruit of the world's holy places”.",
+   "slug": "venkateshwara-ashtottara-shatanamavali"
+  },
+  {
+   "unit": 6,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Name 50: “bend in blessing” blurred vara and ānamra.",
+   "change": "Now “whose shining hands hold the conch and discus and are lowered to grant boons”.",
+   "slug": "venkateshwara-ashtottara-shatanamavali"
+  },
+  {
+   "unit": 1,
+   "area": "wiring",
+   "status": "fixed",
+   "issue": "In the print every name is followed by the refrain “śrī veṅkaṭeśāya namaḥ”; the page did not say so.",
+   "change": "Added to the page note.",
+   "slug": "venkateshwara-ashtottara-shatanamavali"
+  }
+ ]
+}

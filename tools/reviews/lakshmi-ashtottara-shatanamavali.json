@@ -1,0 +1,33 @@
+{
+ "series": "lakshmi-ashtottara-shatanamavali",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-16",
+ "coverage": "full",
+ "scope": "All 108 names: the text was compared name by name with the page images of the TTD book (pp. 36–38), and every meaning was read against its name. There are no word-by-word glosses on this page (the meanings are per name). The range-number flags are the block labels. Readings the print shares with no other list are kept and listed in SOURCES §12.2.",
+ "items": [
+  {
+   "unit": 2,
+   "area": "text",
+   "status": "fixed",
+   "issue": "Names 12, 30 and 85 were given as śucyai, buddhyai, siddhyai; the print has śucaye, buddhaye, siddhaye.",
+   "change": "Restored to the print.",
+   "slug": "lakshmi-ashtottara-shatanamavali"
+  },
+  {
+   "unit": 12,
+   "area": "text",
+   "status": "fixed",
+   "issue": "Name 103 read sarvopadravavāriṇyai; the print has sarvopadravanivāriṇyai (a syllable had dropped out). Name 105 is printed mahākāḷyai.",
+   "change": "Both restored.",
+   "slug": "lakshmi-ashtottara-shatanamavali"
+  },
+  {
+   "unit": 4,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Name 28, krodhasambhavāyai (“born of wrath”), is the print's reading, but most lists have kṣīrodasambhavāyai; the meaning gave no hint of that.",
+   "change": "The meaning now mentions the other reading.",
+   "slug": "lakshmi-ashtottara-shatanamavali"
+  }
+ ]
+}

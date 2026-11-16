@@ -1,0 +1,33 @@
+{
+ "series": "ganesha-ashtottara-shatanamavali",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-16",
+ "coverage": "full",
+ "scope": "All 108 names: the text was compared name by name with the page images of the TTD book (pp. 1–2), and every meaning was read against its name. There are no word-by-word glosses on this page (the meanings are per name). The range-number flags are the block labels. Names 11–15 are the five supplied for the print's repeated names, as SOURCES §12.2 explains.",
+ "items": [
+  {
+   "unit": 3,
+   "area": "text",
+   "status": "fixed",
+   "issue": "The print spells maṅgaḷa- (names 24, 85) and kaḷyāṇa- (100) with ḷ, as the other pages from this book do; this page had l.",
+   "change": "Restored to the print.",
+   "slug": "ganesha-ashtottara-shatanamavali"
+  },
+  {
+   "unit": 6,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Name 51, sarvopanyāsāya, is confirmed as the print's reading; other lists have sarvopāsyāya (“worshipped by all”).",
+   "change": "The meaning now mentions the other reading, and SOURCES lists it with the other readings kept.",
+   "slug": "ganesha-ashtottara-shatanamavali"
+  },
+  {
+   "unit": 4,
+   "area": "source",
+   "status": "fixed",
+   "issue": "Name 36 is printed ghrakāriṇe; the page rightly reads śīghrakāriṇe, but the correction was not recorded.",
+   "change": "Recorded in SOURCES §12.2.",
+   "slug": "ganesha-ashtottara-shatanamavali"
+  }
+ ]
+}

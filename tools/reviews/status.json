@@ -20,6 +20,13 @@
   "open": 6,
   "reviewer": "claude-fable-5-2"
  },
+ "anjaneya-ashtottara-shatanamavali": {
+  "coverage": "full",
+  "date": "2026-11-16",
+  "fixed": 4,
+  "open": 1,
+  "reviewer": "claude-fable-5-2"
+ },
  "anjaneya-dandakam": {
   "coverage": "full",
   "date": "2026-11-14",
@@ -69,6 +76,13 @@
   "open": 1,
   "reviewer": "claude-fable-5-2"
  },
+ "ganesha-ashtottara-shatanamavali": {
+  "coverage": "full",
+  "date": "2026-11-16",
+  "fixed": 3,
+  "open": 0,
+  "reviewer": "claude-fable-5-2"
+ },
  "ganesha-pancharatnam": {
   "coverage": "full",
   "date": "2026-11-14",
@@ -116,6 +130,27 @@
   "date": "2026-11-14",
   "fixed": 1,
   "open": 0,
+  "reviewer": "claude-fable-5-2"
+ },
+ "krishna-ashtottara-shatanamavali": {
+  "coverage": "full",
+  "date": "2026-11-16",
+  "fixed": 3,
+  "open": 0,
+  "reviewer": "claude-fable-5-2"
+ },
+ "lakshmi-ashtottara-shatanamavali": {
+  "coverage": "full",
+  "date": "2026-11-16",
+  "fixed": 3,
+  "open": 0,
+  "reviewer": "claude-fable-5-2"
+ },
+ "lalita-ashtottara-shatanamavali": {
+  "coverage": "full",
+  "date": "2026-11-16",
+  "fixed": 7,
+  "open": 1,
   "reviewer": "claude-fable-5-2"
  },
  "lalitha-sahasranamam": {
@@ -237,6 +272,13 @@
   "open": 3,
   "reviewer": "claude-fable-5-2"
  },
+ "shiva-ashtottara-shatanamavali": {
+  "coverage": "full",
+  "date": "2026-11-16",
+  "fixed": 1,
+  "open": 0,
+  "reviewer": "claude-fable-5-2"
+ },
  "shiva-manasa-puja": {
   "coverage": "full",
   "date": "2026-11-14",
@@ -261,7 +303,14 @@
  "subrahmanya-ashtottara-shatanama-stotram": {
   "coverage": "full",
   "date": "2026-11-14",
-  "fixed": 1,
+  "fixed": 2,
+  "open": 1,
+  "reviewer": "claude-fable-5-2"
+ },
+ "subrahmanya-ashtottara-shatanamavali": {
+  "coverage": "full",
+  "date": "2026-11-16",
+  "fixed": 2,
   "open": 0,
   "reviewer": "claude-fable-5-2"
  },
@@ -291,6 +340,13 @@
   "date": "2026-11-14",
   "fixed": 5,
   "open": 1,
+  "reviewer": "claude-fable-5-2"
+ },
+ "venkateshwara-ashtottara-shatanamavali": {
+  "coverage": "full",
+  "date": "2026-11-16",
+  "fixed": 9,
+  "open": 0,
   "reviewer": "claude-fable-5-2"
  },
  "vishnu-sahasranamam": {

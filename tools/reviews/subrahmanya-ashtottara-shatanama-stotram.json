@@ -12,6 +12,27 @@
    "issue": "The name was written Ahaspati; the text has aharpatiḥ.",
    "change": "Now Aharpati.",
    "slug": "subrahmanya-ashtottara-shatanama-stotram"
+  },
+  {
+   "unit": 9,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Agnigarbha was glossed “womb of fire” (translation and word gloss); Skanda is the child Agni carried. Found while reviewing the nāmāvali.",
+   "change": "Now “the child Fire carried” in both.",
+   "slug": "subrahmanya-ashtottara-shatanama-stotram"
+  },
+  {
+   "unit": 14,
+   "area": "text",
+   "status": "open",
+   "issue": "Verse 14 reads kāraṇotpattidehaḥ (the Wikisource text). The TTD nāmāvali, now checked against its page image, reads kāraṇopāttadeha (“who took on a body for a purpose”), which is also the usual reading. Two other TTD readings were already adopted in this verse.",
+   "options": [
+    "A. Adopt kāraṇopāttadehaś ca, with the meaning “who took on a body for a purpose”.",
+    "B. Keep the Wikisource reading."
+   ],
+   "recommend": "A.",
+   "decision": "",
+   "slug": "subrahmanya-ashtottara-shatanama-stotram"
   }
  ]
 }
