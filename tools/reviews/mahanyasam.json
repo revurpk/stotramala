@@ -1,0 +1,138 @@
+{
+ "series": "mahanyasam",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-14",
+ "coverage": "full",
+ "scope": "All 318 units: the text and translation of every unit were read (the Vedic mantras for sense; the accents were not checked). The word glosses were not read; they were consulted only where a translation was doubtful, and in each such case the gloss already had the right sense. The long Brāhmaṇa passages and hymn blocks are translated in summary by design (the length flags). The numbering flags come from two interleaved numberings; the repeated śānti (units 259–260) is intended and its low-match flags come from the abbreviated text. The Sanskrit was not compared with the Gita Press print.",
+ "items": [
+  {
+   "unit": 10,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "In apaitu mṛtyuḥ … abhi naḥ śīyatāṃ rayiḥ, wealth is what should fall on us like leaves; the translation had death falling away like a leaf, and “the lord of might” for Śacīpati.",
+   "change": "Now “like leaves from a tree may wealth fall upon us; may the lord of Śacī (Indra) be with us”.",
+   "slug": "mahanyasam"
+  },
+  {
+   "unit": 46,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "ayakṣmayā describes the weapon (“that brings no sickness”); “with them, free from sickness” left it hanging.",
+   "change": "Corrected.",
+   "slug": "mahanyasam"
+  },
+  {
+   "unit": 59,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "pinākaṃ bibhrat was “bearing only your bow”; “only” is not in the text.",
+   "change": "Now “bearing the Pināka”.",
+   "slug": "mahanyasam"
+  },
+  {
+   "unit": 62,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "sa śirā jātavedāḥ was “He is the king, Jātavedas”; the word is śiras (head), as the gloss has.",
+   "change": "Now “He, Jātavedas, is the head”.",
+   "slug": "mahanyasam"
+  },
+  {
+   "unit": 90,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "uruśaṃsa was “wide-ruling one” (twice, units 90 and 102); it is “widely praised”, as the gloss has.",
+   "change": "Now “far-famed one” in both places.",
+   "slug": "mahanyasam"
+  },
+  {
+   "unit": 132,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "The text reads uror varīyo varivas te astu (“may you have room wider than wide”); the translation brought in Varuṇa, from the Ṛgveda form of the verse.",
+   "change": "Corrected to the text printed.",
+   "slug": "mahanyasam"
+  },
+  {
+   "unit": 266,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "abhi no vīro arvati kṣameta was “may our hero prevail among horses”; the Hero is Rudra, asked to spare our horses.",
+   "change": "Now “may the Hero be forbearing toward our steeds”.",
+   "slug": "mahanyasam"
+  },
+  {
+   "unit": 278,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "pañcāstraśānta was “Lord of the five arrows' peace”; it is “who stilled the five-arrowed one (Kāma)”, as the gloss has.",
+   "change": "Corrected.",
+   "slug": "mahanyasam"
+  },
+  {
+   "unit": 238,
+   "area": "text",
+   "status": "open",
+   "issue": "Camaka, first anuvāka: the page prints …'mṛtaṃ ca me yakṣmaṃ ca me'nāmayacca me, which says “and disease be mine”. The Taittirīya text is ayakṣmaṃ ca me (“freedom from disease”): after me the a- is elided and should be shown, me'yakṣmaṃ. The translation already says “freedom from sickness”.",
+   "options": [
+    "A. Print me'yakṣmaṃ.",
+    "B. Keep the book's spelling as it is."
+   ],
+   "recommend": "A: without the mark the text says the opposite of what is meant.",
+   "decision": "",
+   "slug": "mahanyasam"
+  },
+  {
+   "unit": 317,
+   "area": "text",
+   "status": "open",
+   "issue": "Third Śivarātri arghya: māghamāse site pakṣe caturdaśyām. Śivarātri is the fourteenth of the dark fortnight, so this must be 'site (asite, “dark”) with the a- elided; as printed it reads “bright fortnight”. The translation avoids the point (“the fourteenth of the fortnight”).",
+   "options": [
+    "A. Print 'site and translate “the fourteenth of the dark fortnight”.",
+    "B. Keep both as they are."
+   ],
+   "recommend": "A.",
+   "decision": "",
+   "slug": "mahanyasam"
+  },
+  {
+   "unit": 263,
+   "area": "text",
+   "status": "open",
+   "issue": "Sāmrājya-abhiṣeka: aśvina rbhaiṣajyena is printed once where the form is aśvinor bhaiṣajyena (“with the Aśvins' healing”), as two lines later.",
+   "options": [
+    "A. Correct to aśvinorbhaiṣajyena.",
+    "B. Keep the book's reading."
+   ],
+   "recommend": "A if your copy of the book allows it; it looks like a slip of transcription.",
+   "decision": "",
+   "slug": "mahanyasam"
+  },
+  {
+   "unit": 62,
+   "area": "translation",
+   "status": "open",
+   "issue": "Unit 62 (sa śirā jātavedāḥ … jātavedase śirasi mātā brahma …) is obscure; the translation is a best reading.",
+   "options": [
+    "A. Leave it as it is.",
+    "B. Mark it as tentative on the page."
+   ],
+   "recommend": "B.",
+   "decision": "",
+   "slug": "mahanyasam"
+  },
+  {
+   "unit": 111,
+   "area": "translation",
+   "status": "open",
+   "issue": "raudreṇānīkena (16 units) is translated “with your host of Rudras”. anīka can also be the face or front, giving “with your Rudra-face (fierce aspect) protect me”. Both are defensible; translation and gloss agree with each other.",
+   "options": [
+    "A. Keep “host of Rudras”.",
+    "B. Change to “with your fierce, Rudra-like face”."
+   ],
+   "recommend": "A.",
+   "decision": "",
+   "slug": "mahanyasam"
+  }
+ ]
+}

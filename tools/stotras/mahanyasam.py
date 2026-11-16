@@ -75,7 +75,7 @@ S = [
     _v(["oṃ bhūrbhuva_ssuvaḥ^ | oṃ śiṃ | apai^ tu mṛ_tyura_mṛtaṃ^ na_ āga^nvaivasvatonno_ abha^yaṃ kṛṇotu |",
         "pa_rṇaṃ vana_spa^ teri^vā_bhi na^śśīyatāgṃ ra_yissaca^tāṃ na_śśacī_patiḥ^ ||",
         "oṃ ṭaṃ ṭhaṃ ḍaṃ ḍhaṃ ṇaṃ | oṃ namo bhagavate rudrāya | śiṃ oṃ | paścimāṅga rudrāya namaḥ ||"],
-       "Oṃ, the three worlds; the seed 'śiṃ'. Let death go, let deathlessness come to us; may Vaivasvata grant us safety; like a leaf from a tree may it fall away from us; may wealth attend us, and the lord of might. — Letters ṭa to ṇa; 'śiṃ' oṃ; salutation to Rudra of the western limb.", num="|| 3 ||"),
+       "Oṃ, the three worlds; the seed 'śiṃ'. Let death go, let deathlessness come to us; may Vaivasvata grant us safety; like leaves from a tree may wealth fall upon us; may the lord of Śacī (Indra) be with us. — Letters ṭa to ṇa; 'śiṃ' oṃ; salutation to Rudra of the western limb.", num="|| 3 ||"),
     # 11.0 (p. 623)
     _v(["vāhanaṃ vṛṣabho yasya vāsukiḥ kaṇṭhabhūṣaṇam | vāme śakti dharaṃ vande vakārāya namo namaḥ ||"],
        "Whose mount is the bull, whose neck-ornament is Vāsuki, who bears Śakti on his left — him I praise: to the syllable va, salutation.", num="|| 5 ||"),
@@ -223,7 +223,7 @@ S = [
     # 46.0 (p. 627)
     _v(["yāte^ he_tirmī^ḍhuṣṭama_ haste^ ba_bhūva^ te_ dhanuḥ^ | tayā_'smān vi_śvata_stvama^ya_kṣmayā_ pari^bbhuja ||",
         "upabāhubhyāṃ namaḥ ||"],
-       "The weapon in your hand, most bountiful one, and your bow — with them, free from sickness, guard us on every side. (To the upper arms.)"),
+       "The weapon in your hand, most bountiful one, and your bow — with that weapon, which brings no sickness, guard us on every side. (To the upper arms.)"),
     # 47.0 (p. 628)
     _v(["ye tī_rthāni^ pra_cara^nti sṛ_kāva^nto niṣa_ṅgiṇaḥ^ | teṣā^gṃ sahasrayoja_ne'va_ dhanvā^ni tanmasi ||",
         "hastābhyāṃ namaḥ ||"],
@@ -282,7 +282,7 @@ S = [
     _v(["mīḍhu^ṣṭama_ śiva^tama śi_vona^ssu_manā^bhava |",
         "pa_ra_mevṛ_kṣa āyu^dhaṃ ni_dhāya_kṛttiṃ_ vasā^na_ ā ca^ra_pi nā^kaṃ bibhra_dāga^hi ||",
         "kaṭyai namaḥ ||"],
-       "Most bountiful, most auspicious, be kind and gracious to us; laying your weapon on the farthest tree, come wearing your hide, bearing only your bow. (To the hips.)"),
+       "Most bountiful, most auspicious, be kind and gracious to us; laying your weapon on the farthest tree, come wearing your hide, bearing the Pināka. (To the hips.)"),
     # 60.0 (p. 629)
     _v(["ye bhū_tānā_ madhi^patayo viśi_khā^saḥ kapa_rdinaḥ^ | teṣā^gṃ sahasrayoja_ne'va_ dhanvā^ni tanmasi ||",
         "guhyāya namaḥ ||"],
@@ -295,7 +295,7 @@ S = [
     _v(["saśi^rājā_tave^dāḥ | a_kṣa^raṃ para_maṃpa_dam | ve_dānā_gṃ_ śira^utta_mam ||",
         "jā_tave^dase_ śira^simā_tā brahma_bhūrbhuva_ssuva_rom ||",
         "apānāya namaḥ ||"],
-       "He is the king, Jātavedas; the imperishable, the highest state; the best head of the Vedas. To Jātavedas, the mother on the head, Brahman: bhūr bhuvas suvar oṃ. (To the lower opening.)"),
+       "He, Jātavedas, is the head; the imperishable, the highest state; the best head of the Vedas. To Jātavedas, the mother on the head, Brahman: bhūr bhuvas suvar oṃ. (To the lower opening.)"),
     # 63.0 (p. 630)
     _v(["māno^ma_hānta^ mu_tamāno^ arbha_kaṃ māna_ ukṣa^ntamu_ta mā na^ ukṣi_tam |",
         "māno^vadhīḥ pi_ta_raṃ motamā_taraṃ^ pri_yā māna^sta_nuvo^ rudra rī_ri_ṣaḥ ||",
@@ -456,7 +456,7 @@ S = [
         "oṃ namo bhagavate rudrāya ||",
         "gaṃ oṃ ||",
         "paścima digbhāge varuṇāya namaḥ ||"],
-       "Oṃ, the three worlds; the seed 'gaṃ'. I come to you praising with prayer; the sacrificer asks it with offerings: without anger, Varuṇa, heed us here, wide-ruling one; take not our life away. Salutation to the Lord Rudra; 'gaṃ' oṃ. In the west, salutation to Varuṇa.", num="|| 5 ||"),
+       "Oṃ, the three worlds; the seed 'gaṃ'. I come to you praising with prayer; the sacrificer asks it with offerings: without anger, Varuṇa, heed us here, far-famed one; take not our life away. Salutation to the Lord Rudra; 'gaṃ' oṃ. In the west, salutation to Varuṇa.", num="|| 5 ||"),
     # 91.0 (p. 634)
     _v(["oṃ bhūrbhuva_ssuvaḥ^ ||",
         "oṃ vaṃ ||",
@@ -554,7 +554,7 @@ S = [
         "tattvā^yāmi_ brahma^ṇā_ vanda^māna_stadāśā^^ste yaja^māno ha_virbhiḥ^ ahe^ḍamāno varuṇe_ha bo_dhyuru^śagṃ sa_māna_ āyuḥ_ pramo^ṣīḥ ||",
         "nama^śśaṃbhave^ ca … śi_vata^rāya ca ||",
         "oṃ namo bhagavate rudrāya | gaṃ oṃ | bhūrbhuvassuvarom | paścimadigbhāge bāhusthāne rudrāya namaḥ ||"],
-       "The seed 'gaṃ'; 'salutation to the source of joy and of delight, to the maker of welfare and of happiness, to the auspicious and the most auspicious' enclosing the mantra of the west (Varuṇa): I come to you praising with prayer; the sacrificer asks it with offerings: without anger, Varuṇa, heed us here, wide-ruling one; take not our life away. — Rudra placed on the arms.", num="|| 5 ||"),
+       "The seed 'gaṃ'; 'salutation to the source of joy and of delight, to the maker of welfare and of happiness, to the auspicious and the most auspicious' enclosing the mantra of the west (Varuṇa): I come to you praising with prayer; the sacrificer asks it with offerings: without anger, Varuṇa, heed us here, far-famed one; take not our life away. — Rudra placed on the arms.", num="|| 5 ||"),
     # 103.0 (p. 638)
     _p(["oṃ bhūrbhuva_ssuvaḥ^ ||",
         "oṃ vaṃ ||",
@@ -771,7 +771,7 @@ S = [
     _v(["marmā^ṇi te_ varma^bhi śchādayāmi_ soma^ stvā rājā_'mṛte^nā_bhi va^stām |",
         "u_ro rvarī^yo_ vari^va ste astu_ jaya^ntaṃ_ tvā manu^madantu de_vāḥ ||",
         "mukhāya namaḥ ||"],
-       "Your vital points I cover with armour; may King Soma clothe you with immortality; may Varuṇa make you wider than wide; may the gods rejoice in your victory. (To the face.)", num="|| 5 ||"),
+       "Your vital points I cover with armour; may King Soma clothe you with immortality; may you have room wider than wide; may the gods rejoice in your victory. (To the face.)", num="|| 5 ||"),
     # 133.0 (p. 646)
     _v(["jā_tave^dā_ yadi^ vā pāva_ko^si | vai_śvā_na_ro yadi^ vā vaidyu_'to^'si |",
         "śaṃ pra_jābhyo_ yaja^mānāya lo_kam ||",
@@ -1652,7 +1652,7 @@ S = [
         "prajā^ye mahi rudra pra_jābhiḥ^ | e_vā ba^bhro vṛṣabha cekitāna | yathā^ deva_ na hṛ^ṇī_ṣe na hagṃsi^ |",
         "hā_va_na_ śrūrno^ rudre_ha bo^dhi | bṛ_hadva^dema vi_dathe^ su_vīrāḥ^^ |",
         "pari^ṇo ru_drasya^ he_tistu_hi śru_taṃ | mī_ḍhuṣṭa_mārha^n bibharṣi | tvama^gne ru_dra āvo_ rājā^nam ||"],
-       "These songs to Rudra of the firm bow, swift arrows and self-reliance, unconquered and conquering, bountiful, sharp-weaponed — bring them, listen. With your most healing remedies, Rudra, may I reach a hundred winters; drive far hatred, sin and every sickness. Harm us not in our children; may the favour of the Maruts' father come; keep us not from the sight of the sun; may our hero prevail among horses; may we have offspring, Rudra. Be not angry, bull, nor harm us; hear us here; may we speak loud in the assembly with brave sons. May Rudra's weapon pass us by. You, Agni, are Rudra, the king of the rite."),
+       "These songs to Rudra of the firm bow, swift arrows and self-reliance, unconquered and conquering, bountiful, sharp-weaponed — bring them, listen. With your most healing remedies, Rudra, may I reach a hundred winters; drive far hatred, sin and every sickness. Harm us not in our children; may the favour of the Maruts' father come; keep us not from the sight of the sun; may the Hero be forbearing toward our steeds; may we have offspring, Rudra. Be not angry, bull, nor harm us; hear us here; may we speak loud in the assembly with brave sons. May Rudra's weapon pass us by. You, Agni, are Rudra, the king of the rite."),
     # 258.0 (p. 681)
     _p(["tamu^ ṣṭu_hi yaḥ svi_ṣu ssu_dhanvā_ yo viśva^sya_ kṣaya^ti bhe_ṣaja^sya |",
         "yakṣvā^ma_he sau^^mana_sāya^ ru_draṃ namo^^bhirde_va masu^raṃ duvasya |",
@@ -1765,7 +1765,7 @@ S = [
         "iti ājyena snapayāmi ||",
         "oṃ namaḥ śaṃbhave ca … śivatarāya ca ||",
         "ājyasnānānaṃtaraṃ śuddhodaka snānaṃ samarpayāmi ||"],
-       "Lord of the five arrows' peace, five-faced, destroyer of the five great sins: Mṛtyuñjaya, take this bath of the five nectars. — Milk, with 'āpyāyasva'; then 'namaḥ śambhave ca …' and pure water; curd, with 'dadhikrāvṇaḥ'; ghee, with 'śukram asi' — each followed by pure water."),
+       "You who stilled the five-arrowed Love, five-faced, destroyer of the five great sins: Mṛtyuñjaya, take this bath of the five nectars. — Milk, with 'āpyāyasva'; then 'namaḥ śambhave ca …' and pure water; curd, with 'dadhikrāvṇaḥ'; ghee, with 'śukram asi' — each followed by pure water."),
     # 270.0 (p. 685)
     _p(["oṃ madhuvātā ṛtāyate madhukṣaraṃti siṃdhavaḥ | mādhvīrnassaṃtvoṣadhīḥ |",
         "madhu naktamutoṣasi madhumatpārthivagṃ rajaḥ | madhu dyau rastu naḥ pitā |",
