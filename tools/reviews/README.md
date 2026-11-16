@@ -48,6 +48,7 @@ The packets list what needs a human decision; see `.claude/skills/review-works`.
 | [shiva-manasa-puja](packets/shiva-manasa-puja.md) | full | 2026-11-14 | 0 | 0 | 2 |
 | [shringaratilakam](packets/shringaratilakam.md) | full | 2026-11-14 | 5 | 0 | 14 |
 | [sriman-narayana](packets/sriman-narayana.md) | full | 2026-11-14 | 0 | 0 | 0 |
+| [subhashita-niti](packets/subhashita-niti.md) | full | 2026-11-16 | 2 | 0 | 20 |
 | [subrahmanya-ashtottara-shatanama-stotram](packets/subrahmanya-ashtottara-shatanama-stotram.md) | full | 2026-11-14 | 1 | 0 | 2 |
 | [subrahmanya-ashtottara-shatanamavali](packets/subrahmanya-ashtottara-shatanamavali.md) | full | 2026-11-16 | 0 | 0 | 2 |
 | [subrahmanya-bhujangam](packets/subrahmanya-bhujangam.md) | full | 2026-11-14 | 3 | 0 | 7 |

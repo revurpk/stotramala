@@ -300,6 +300,13 @@
   "open": 0,
   "reviewer": "claude-fable-5-2"
  },
+ "subhashita-niti": {
+  "coverage": "full",
+  "date": "2026-11-16",
+  "fixed": 20,
+  "open": 2,
+  "reviewer": "claude-fable-5-2"
+ },
  "subrahmanya-ashtottara-shatanama-stotram": {
   "coverage": "full",
   "date": "2026-11-14",

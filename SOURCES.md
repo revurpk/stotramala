@@ -2420,6 +2420,7 @@ Editorial notes (the text is Wikisource’s, kept as it stands except for the po
 - The source’s numbering jumps from 6 to 8, with no verse 7; the numbers are kept as printed and no verse is supplied.
 - The avagraha (ऽ) is written as an inverted comma. Printing slips of the source were corrected: *gṛdyṇāti* to *gṛhṇāti* (49), *nāḍkitaḥ* to *nāṅkitaḥ* (54), *kṛcchgato* to *kṛcchragato* (30), *prīrtigurau* to *prītirgurau* (62). Interjection marks (“!”) and the connective *api ca -* at the head of verses 18, 41 and 95 are dropped.
 - Verses are kept in the source’s word-joining: long runs of sandhi are not divided.
+- Compared again with the Wikisource page letter by letter on 2026-11-16 (review): the page differs from it only in the corrections listed above. In that review three missing or misplaced spaces were set right without changing a letter (*darśanīyaḥ sarve* 41, *pātakaiḥ satyaṃ* 55, *bālalalanāstanimnā* 44) and four stray commas inside verses 22, 37 and 41 were dropped. Three further slips of the source are still printed as it has them, pending a decision: *viśrṛṅkhalasya* (59), *akroghas* (83), *viśakhā* (107). Readings of the source that differ from the usual text are kept: *vacanena* (21; usually *kavacena*), *bhāskarau* (34; usually *bhāsurau*), *-vistṛta-* (59; usually *-vismṛta-*).
 - The English and Telugu translations are original; the Telugu follows the English closely.
 
 ### 9.2 Bhartṛhari’s Śṛṅgāraśatakam — `stotra/subhashita/subhashita-shringara-iast.html`

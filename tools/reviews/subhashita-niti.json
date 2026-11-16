@@ -1,0 +1,196 @@
+{
+ "series": "subhashita-niti",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-16",
+ "coverage": "full",
+ "scope": "All 111 verses. The Sanskrit was compared letter by letter with the Wikisource page (by script, 2026-11-16): it agrees except for the corrections SOURCES §9.1 lists. The English translation and the word-by-word glosses were read in full against the text; the Telugu was read in full against the English, and corrected wherever the English was. The verse numbering (no verse 7) is the source's.",
+ "items": [
+  {
+   "unit": 7,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Verse 5 was turned inside out: the man who would guide fools with sweet words is the one attempting the three impossible things, not the reverse.",
+   "change": "English and Telugu rewritten.",
+   "slug": "subhashita-niti"
+  },
+  {
+   "unit": 17,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Verse 16 left out a clause (kimapi śaṃ puṣṇāti yat sarvadā).",
+   "change": "Added: “which always fosters a happiness beyond words” (English and Telugu).",
+   "slug": "subhashita-niti"
+  },
+  {
+   "unit": 23,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Verse 22: śāṭhya is guile, not “firmness”; kṣamā toward elders is forbearance, not “humility”.",
+   "change": "Corrected in English, Telugu and the word gloss.",
+   "slug": "subhashita-niti"
+  },
+  {
+   "unit": 26,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Verse 25: avañcaka belongs to the servants, not the friend; and the last line was “the god who takes away misery” for viṣṭapahāriṇi iṣṭada-harau. The word glosses of that line were wrong too (“the taker of the world”, “(these) are got”).",
+   "change": "Now “servants who do not cheat” and “Hari, who captivates the worlds and grants what is wished”; glosses corrected.",
+   "slug": "subhashita-niti"
+  },
+  {
+   "unit": 27,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Verse 26: the last line (sāmānyaḥ sarvaśāstreṣv anupahatavidhiḥ) describes the path; it was made one more item of the list (“the unbroken observance of all the scriptures”).",
+   "change": "Now “this is the path to the good, common to all the scriptures, a rule that never fails”.",
+   "slug": "subhashita-niti"
+  },
+  {
+   "unit": 29,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Verse 28 ran two clauses together and lost malinam: a just livelihood is dear, and a base act is not done even at the cost of life.",
+   "change": "Corrected in English and Telugu.",
+   "slug": "subhashita-niti"
+  },
+  {
+   "unit": 35,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Verse 34 dropped the point of the verse (viśeṣavikramaruciḥ: Rāhu cares only for uncommon valour) and “five or six”.",
+   "change": "Rewritten in English and Telugu; gloss corrected.",
+   "slug": "subhashita-niti"
+  },
+  {
+   "unit": 37,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Verse 36 was garbled (“that his father … should not have been the ocean's fitting refuge”). Maināka's plunge into the ocean while his father suffered was the unfitting thing.",
+   "change": "Rewritten in English and Telugu; gloss corrected.",
+   "slug": "subhashita-niti"
+  },
+  {
+   "unit": 40,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Verse 39: śaurye vairiṇi is “on valour, that enemy”, not “the heroism that faces the enemy”.",
+   "change": "Corrected in English, Telugu and gloss.",
+   "slug": "subhashita-niti"
+  },
+  {
+   "unit": 48,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Verse 47: pracura-nitya-dhanāgamā was read as pracura-anitya (“wealth that does not last”) in translation and gloss; the text has nitya.",
+   "change": "Now “always taking in wealth in plenty”.",
+   "slug": "subhashita-niti"
+  },
+  {
+   "unit": 49,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Verse 48: teṣām … pārthivopāśrayeṇa speaks of the courtiers to whom the six rewards have not come, not of a king who lacks six qualities.",
+   "change": "Rewritten in English and Telugu; glosses adjusted.",
+   "slug": "subhashita-niti"
+  },
+  {
+   "unit": 57,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Verse 56: mukham anakṣaraṃ svākṛteḥ is the unlettered mouth of a handsome man; svākṛteḥ was dropped (gloss: “for his own form”).",
+   "change": "Corrected in English, Telugu and gloss.",
+   "slug": "subhashita-niti"
+  },
+  {
+   "unit": 70,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Verse 69: sundarī vā darī vā is “a lovely wife or a cave”, not “beautiful or plain” (the word gloss had it right).",
+   "change": "Corrected in English and Telugu.",
+   "slug": "subhashita-niti"
+  },
+  {
+   "unit": 86,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Verse 85: the hopeless, hungry creature cramped in the basket is the snake (the genitives go with bhoginaḥ), not the rat.",
+   "change": "Rewritten in English and Telugu.",
+   "slug": "subhashita-niti"
+  },
+  {
+   "unit": 99,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Verse 98: Right Action makes the wicked good, fools wise and enemies friends; translation and glosses had it working both ways (“makes the good wicked”), and missed parokṣaṃ pratyakṣaṃ kurute.",
+   "change": "Rewritten in English and Telugu; six glosses corrected.",
+   "slug": "subhashita-niti"
+  },
+  {
+   "unit": 100,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Verse 99: ā-vipatteḥ is “until death”, as the gloss says; the translation had “until the downfall”.",
+   "change": "Corrected in English and Telugu.",
+   "slug": "subhashita-niti"
+  },
+  {
+   "unit": 111,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Verse 110 made two groups of people out of one (tejasvinaḥ … satyavratavyasaninaḥ), and took sukham as a noun in the gloss.",
+   "change": "Rewritten in English and Telugu; glosses corrected.",
+   "slug": "subhashita-niti"
+  },
+  {
+   "unit": 8,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Smaller points: verse 6 (viśeṣataḥ dropped), 46 (nānāphalaiḥ taken with the wrong verb, English only), 59 (udbhāsitākhilakhala as “notorious”; Telugu had “who roams for fame”), 74, 76, 102 (san-nidhi as “at hand”).",
+   "change": "All corrected.",
+   "slug": "subhashita-niti"
+  },
+  {
+   "unit": 11,
+   "area": "words",
+   "status": "fixed",
+   "issue": "Other gloss errors: gaṅgeyam taken as “the Ganges'” (it is gaṅgā iyam); kim ariṇiḥ for kim aribhiḥ; payasā in verse 76 as milk (it is the water); a stray “(of others)” in verse 78; a half-finished gloss in verse 90; the three members of verse 61 not matched in turn.",
+   "change": "Corrected.",
+   "slug": "subhashita-niti"
+  },
+  {
+   "unit": 45,
+   "area": "text",
+   "status": "fixed",
+   "issue": "Three missing or misplaced spaces (darśanīyaḥsarve 41, pātakaiḥsatyaṃ 55, bālalalanā stanimnā 44) and four stray commas inside verses.",
+   "change": "Spaces set right and commas dropped; no letter changed. Recorded in SOURCES §9.1.",
+   "slug": "subhashita-niti"
+  },
+  {
+   "unit": 84,
+   "area": "text",
+   "status": "open",
+   "issue": "Three plain slips of the Wikisource text are still printed: viśrṛṅkhalasya (verse 59, for viśṛṅkhalasya), akroghas (83, for akrodhas), viśakhā (107, for viśikhā). The word glosses already read the right forms. Four slips of the same kind were corrected when the page was made.",
+   "options": [
+    "A. Correct all three and list them in SOURCES.",
+    "B. Keep them as the source has them."
+   ],
+   "recommend": "A.",
+   "decision": "",
+   "slug": "subhashita-niti"
+  },
+  {
+   "unit": 22,
+   "area": "text",
+   "status": "open",
+   "issue": "Verse 21 begins kṣāntiś ced vacanena kim (“if there is patience, what use are words”), as Wikisource has it. The usual text is kavacena (“what need of armour”), which suits the verse better; the metre allows both.",
+   "options": [
+    "A. Keep the source's vacanena and add the other reading in brackets to the translation.",
+    "B. Adopt kavacena in the text and translate “what need of armour”.",
+    "C. Leave everything as it is."
+   ],
+   "recommend": "A.",
+   "decision": "",
+   "slug": "subhashita-niti"
+  }
+ ]
+}
