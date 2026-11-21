@@ -18,8 +18,8 @@ META = {
  "shiva108": dict(slug="shiva-ashtottara-shatanamavali", deity="shiva", t="Śiva Aṣṭottaraśatanāmāvaliḥ", app="Śiva 108 Names", who="Śiva", sub="The 108 Names of Śiva", pp="pp. 39–41"),
  "lakshmi108": dict(slug="lakshmi-ashtottara-shatanamavali", deity="devi", t="Lakṣmī Aṣṭottaraśatanāmāvaliḥ", app="Lakṣmī 108 Names", who="Lakṣmī", sub="The 108 Names of Lakṣmī", pp="pp. 36–38"),
  "krishna108": dict(slug="krishna-ashtottara-shatanamavali", deity="vishnu", t="Kṛṣṇa Aṣṭottaraśatanāmāvaliḥ", app="Kṛṣṇa 108 Names", who="Kṛṣṇa", sub="The 108 Names of Kṛṣṇa", pp="pp. 33–35"),
- "anjaneya108": dict(slug="anjaneya-ashtottara-shatanamavali", deity="hanuman", t="Āñjaneya Aṣṭottaraśatanāmāvaliḥ", app="Āñjaneya 108 Names", who="Āñjaneya (Hanumān)", sub="The 108 Names of Āñjaneya", pp="pp. 52–54"),
- "venkatesha108": dict(slug="venkateshwara-ashtottara-shatanamavali", deity="venkateshwara", t="Veṅkaṭeśa Aṣṭottaraśatanāmāvaliḥ", app="Veṅkaṭeśa 108 Names", who="Veṅkaṭeśa", sub="The 108 Names of Śrī Veṅkaṭeśvara", pp="pp. 24–28"),
+ "anjaneya108": dict(slug="anjaneya-ashtottara-shatanamavali", deity="hanuman", t="Āñjaneya Aṣṭottaraśatanāmāvaliḥ", app="Āñjaneya 108 Names", who="Āñjaneya (Hanumān)", sub="The 108 Names of Āñjaneya", pp="pp. 52–54", extra=" The print holds 107 names; vāgmine (88) is supplied from the usual list."),
+ "venkatesha108": dict(slug="venkateshwara-ashtottara-shatanamavali", deity="venkateshwara", t="Veṅkaṭeśa Aṣṭottaraśatanāmāvaliḥ", app="Veṅkaṭeśa 108 Names", who="Veṅkaṭeśa", sub="The 108 Names of Śrī Veṅkaṭeśvara", pp="pp. 24–28", extra=" In the print each name is followed by the refrain ‘śrī veṅkaṭeśāya namaḥ’."),
  "lalita108": dict(slug="lalita-ashtottara-shatanamavali", deity="devi", t="Lalitā Aṣṭottaraśatanāmāvaliḥ", app="Lalitā 108 Names", who="Lalitā", sub="The 108 Names of Lalitā", pp="pp. 42–46", fmt="lalita"),
  "subrahmanya108n": dict(slug="subrahmanya-ashtottara-shatanamavali", deity="subrahmanya", t="Subrahmaṇya Aṣṭottaraśatanāmāvaliḥ", app="Subrahmaṇya 108 Names (nāmāvali)", who="Subrahmaṇya", sub="The 108 Names of Subrahmaṇya, as a nāmāvali", pp="pp. 47–48"),
 }
@@ -34,7 +34,7 @@ def main(name):
         padas = [(f"{iast(n)} namo namaḥ" if m.get("fmt") == "lalita" else f"oṃ {iast(n)} namaḥ") for n, _ in ch]
         gloss = " ".join(f"{i + j + 1}. {mean[0].upper() + mean[1:]}." for j, (_, mean) in enumerate(ch))
         secs.append({"padas": padas, "num": f"|| {i + 1}–{i + len(ch)} ||", "gloss": gloss})
-    st = {"deity": m["deity"], "doc_title": m["t"], "app_title": m["app"], "h1": m["t"], "subtitle": m["sub"], "note": NOTE.format(n=len(rows), who=m["who"], pp=m["pp"], fmt=("… namo namaḥ" if m.get("fmt") == "lalita" else "oṃ … namaḥ")) + (" Each name is preceded in the print by ‘oṃ aiṃ hrīṃ śrīṃ’." if m.get("fmt") == "lalita" else ""),
+    st = {"deity": m["deity"], "doc_title": m["t"], "app_title": m["app"], "h1": m["t"], "subtitle": m["sub"], "note": NOTE.format(n=len(rows), who=m["who"], pp=m["pp"], fmt=("… namo namaḥ" if m.get("fmt") == "lalita" else "oṃ … namaḥ")) + (" Each name is preceded in the print by ‘oṃ aiṃ hrīṃ śrīṃ’." if m.get("fmt") == "lalita" else "") + m.get("extra", ""),
           "footer": TTD.format(pp=m["pp"]),
           "sections": secs}
     q = lambda v: json.dumps(v, ensure_ascii=False)

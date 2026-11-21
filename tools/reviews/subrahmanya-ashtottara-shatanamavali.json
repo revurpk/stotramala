@@ -1,0 +1,25 @@
+{
+ "series": "subrahmanya-ashtottara-shatanamavali",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-16",
+ "coverage": "full",
+ "scope": "All 108 names: the text was compared name by name with the page images of the TTD book (pp. 47–48), and every meaning was read against its name. There are no word-by-word glosses on this page (the meanings are per name). The range-number flags are the block labels. prāṇāya (95) and the corrections of plain misprints are as SOURCES §12.2 records.",
+ "items": [
+  {
+   "unit": 11,
+   "area": "text",
+   "status": "fixed",
+   "issue": "Name 91 read kāraṇotpattidehāya, taken over from the Wikisource stotra; the print has kāraṇopāttadehāya (“who took on a body for a purpose”), the reading other lists also have.",
+   "change": "Restored to the print, with its meaning.",
+   "slug": "subrahmanya-ashtottara-shatanamavali"
+  },
+  {
+   "unit": 6,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Name 54, agnigarbhāya, was “womb of fire”; Skanda is the child Agni carried, not the womb.",
+   "change": "Now “the child Fire carried” (the same gloss is corrected on the stotra page).",
+   "slug": "subrahmanya-ashtottara-shatanamavali"
+  }
+ ]
+}

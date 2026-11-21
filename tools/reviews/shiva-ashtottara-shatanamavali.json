@@ -1,0 +1,17 @@
+{
+ "series": "shiva-ashtottara-shatanamavali",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-16",
+ "coverage": "full",
+ "scope": "All 108 names: the text was compared name by name with the page images of the TTD book (pp. 39–41), and every meaning was read against its name. There are no word-by-word glosses on this page (the meanings are per name). The range-number flags are the block labels. The meanings were all sound.",
+ "items": [
+  {
+   "unit": 5,
+   "area": "text",
+   "status": "fixed",
+   "issue": "Names 42 and 43 stood as sāmapriyāya, sarvamayāya; the print has them in the order sarvamayāya, sāmapriyāya.",
+   "change": "Order restored to the print.",
+   "slug": "shiva-ashtottara-shatanamavali"
+  }
+ ]
+}

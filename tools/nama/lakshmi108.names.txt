@@ -9,7 +9,7 @@
 वाचे | speech
 पद्मालयायै | dweller in the lotus
 पद्मायै | the lotus
-शुच्यै | the pure
+शुचये | the pure
 स्वाहायै | the offering to the gods
 स्वधायै | the offering to the ancestors
 सुधायै | nectar
@@ -25,9 +25,9 @@
 कमलायै | the lotus-lady, Kamalā
 कान्तायै | the beloved
 कामाक्ष्यै | of desire-fulfilling eyes
-क्रोधसम्भवायै | born of wrath
+क्रोधसम्भवायै | born of wrath (other lists read kṣīrodasambhavā, “born of the milk ocean”)
 अनुग्रहपरायै | intent on grace
-बुद्ध्यै | understanding
+बुद्धये | understanding
 अनघायै | the sinless
 हरिवल्लभायै | beloved of Hari
 अशोकायै | free of sorrow
@@ -82,7 +82,7 @@
 हरिण्यै | the golden doe
 हेममालिन्यै | wearing a golden garland
 धनधान्यकर्यै | maker of wealth and grain
-सिद्ध्यै | accomplishment
+सिद्धये | accomplishment
 स्त्रैणसौम्यायै | gentle with womankind
 शुभप्रदायै | giver of good
 नृपवेश्मगतानन्दायै | the delight that enters the king’s house
@@ -100,9 +100,9 @@
 नारायणसमाश्रितायै | who clings to Nārāyaṇa
 दारिद्र्यध्वंसिन्यै | ruiner of poverty
 देव्यै | the goddess
-सर्वोपद्रववारिण्यै | warder-off of every calamity
+सर्वोपद्रवनिवारिण्यै | warder-off of every calamity
 नवदुर्गायै | the nine Durgās
-महाकाल्यै | Mahākālī
+महाकाळ्यै | Mahākālī
 ब्रह्मविष्णुशिवात्मिकायै | whose self is Brahmā, Viṣṇu and Śiva
 त्रिकालज्ञानसम्पन्नायै | endowed with knowledge of the three times
 भुवनेश्वर्यै | sovereign of the worlds

@@ -21,7 +21,7 @@ x2 |  | yāṃ cintayāmi satataṃ mayi sā viraktā sā'pyanyamicchati janaṃ
 19 | 19 | keyūrāṇi na bhūṣayanti puruṣaṃ hārā na candrojjvalā / na snānaṃ na vilepanaṃ na kusumaṃ nālaṅkṛtā mūrdhajāḥ / vāṇyekā samalaṅkaroti puruṣaṃ yā saṃskṛtā dhāryate / kṣīyante khalu bhūṣaṇāni satataṃ vāgbhūṣaṇaṃ bhūṣaṇam
 20 | 20 | vidyā nāma narasya rūpamadhikaṃ pracchannaguptaṃ dhanaṃ / vidyā bhogakarī yaśaḥsukhakarī vidyā gurūṇāṃ guruḥ / vidyā bandhujano videśagamane vidyā paraṃ daivataṃ / vidyā rājasu pūjitā na tu dhanaṃ vidyā vihīnaḥ paśuḥ
 21 | 21 | kṣāntiścedvacanena kiṃ kimaribhiḥ krodho'sti ceddehināṃ / jñātiścedanalena kiṃ yadi suhṛddivyauṣadhaiḥ kiṃ phalam / kiṃ sarpairyadi durjanāḥ kimu dhanairvidyā'navadyā yadi / vrīḍā cetkimu bhūṣaṇaiḥ sukavitā yadyasti rājyena kim
-22 | 22 | dākṣiṇyaṃ svajane dayā parajane śāṭhyaṃ sadā durjane / prītiḥ sādhujane nayo nṛpajane vidvajjaneṣvārjavam / śauryaṃ śatrujane kṣamā gurujane kāntājane dhṛṣṭatā, / ye caivaṃ puruṣāḥ kalāsu kuśalāsteṣveva lokasthitiḥ
+22 | 22 | dākṣiṇyaṃ svajane dayā parajane śāṭhyaṃ sadā durjane / prītiḥ sādhujane nayo nṛpajane vidvajjaneṣvārjavam / śauryaṃ śatrujane kṣamā gurujane kāntājane dhṛṣṭatā / ye caivaṃ puruṣāḥ kalāsu kuśalāsteṣveva lokasthitiḥ
 23 | 23 | jāḍyaṃ dhiyo harati siñcati vāci satyaṃ mānonnatiṃ diśati pāpamapākaroti / cetaḥ prasādayati dikṣu tanoti kīrtiṃ satsaṃgatiḥ kathaya kiṃ na karoti puṃsām
 24 | 24 | jayanti te sukṛtino rasasiddhāḥ kavīśvarāḥ / nāsti yeṣāṃ yaśaḥkāye jarāmaraṇajaṃ bhayam
 25 | 25 | sūnuḥ saccaritaḥ satī priyatamā svāmī prasādonmukhaḥ snigdhaṃ mitramavañcakaḥ parijano nikleśaleśaṃ manaḥ / ākāro ruciraḥ sthiraśca vibhavo vidyāvadātaṃ mukhaṃ tuṣṭe viṣṭapahāriṇīṣṭadaharau saṃprāpyate dehinā
@@ -36,14 +36,14 @@ x2 |  | yāṃ cintayāmi satataṃ mayi sā viraktā sā'pyanyamicchati janaṃ
 34 | 34 | santyanye'pi bṛhaspatiprabhṛtayaḥ sambhāvitāḥ pañcaṣā-stānpratyeṣaviśeṣavikramarucī rāhurna vairāyate / dvāveva grasate dineśvaraniśāprāṇeśvarau bhāskarau bhrātaḥ parvaṇi paśya dānavapatiḥ śīrṣāvaśeṣākṛtiḥ
 35 | 35 | vahati bhuvanaśreṇiṃ śeṣaḥ phaṇāphalakasthitāṃ kamaṭhapatinā madhye pṛṣṭhaṃ sadā sa vidhāryate / tamapi kurute kroḍādhīnaṃ payodhiranādarā-dahaha mahatāṃ niḥsīmānaścaritravibhūtayaḥ
 36 | 36 | varaṃ pakṣacchedaḥ samadamaghavanmuktakuliśa-prahārairudgacchadbahuladahanodgāragurubhiḥ / tuṣārādreḥ sūnorahaha pitari kleśavivaśe na cāsau sampātaḥ payasi payasāṃ patyurucitaḥ
-37 | 37 | yadacetano'pi pādaiḥ, spṛṣṭaḥ prajvalati saviturinakāntaḥ / tattejasvī puruṣaḥ, parakṛtanikṛtiṃ kathaṃ sahate
+37 | 37 | yadacetano'pi pādaiḥ spṛṣṭaḥ prajvalati saviturinakāntaḥ / tattejasvī puruṣaḥ parakṛtanikṛtiṃ kathaṃ sahate
 38 | 38 | siṃhaḥ śiśurapi nipatati madamalinakapolabhittiṣu gajeṣu / prakṛtiriyaṃ sattvavatāṃ na khalu vayastejaso hetuḥ
 39 | 39 | jātiryātu rasātalaṃ guṇagaṇastasyā'pyadho gacchatā-cchīlaṃ śailataṭātpatatvabhijanaḥ saṃdahyatāṃ vahninā / śaurye vairiṇi vajramāśu nipatatvartho'stu naḥ kevalaṃ yenaikena vinā guṇāstṛṇalavaprāyāḥ samastā ime
 40 | 40 | tānīndriyāṇi sakalāni tadeva karma sā buddhirapratihatā vacanaṃ tadeva / arthoṣmaṇā virahitaḥ puruṣaḥ sa eva tvanyaḥ kṣaṇena bhavatīti vicitrametat
-41 | 41 | yasyāsti vittaṃ sa naraḥ kulīnaḥ, sa paṇḍitaḥ sa śrutavān guṇajñaḥ / sa eva vaktā sa ca darśanīyaḥsarve guṇāḥ kāñcanamāśrayanti
+41 | 41 | yasyāsti vittaṃ sa naraḥ kulīnaḥ sa paṇḍitaḥ sa śrutavān guṇajñaḥ / sa eva vaktā sa ca darśanīyaḥ sarve guṇāḥ kāñcanamāśrayanti
 42 | 42 | daurmantryānnṛpatirvinaśyati yatiḥ saṅgātsuto lālanā- dvipro'nadhyayanātkulaṃ kutanayācchīlaṃ khalopāsanāt / hrīrmadyādanavekṣaṇādapi kṛṣiḥ snehaḥ pravāsāśrayā- nmaitrī cāpraṇayātsamṛddhiranayāttyāgātpramādāddhanam
 43 | 43 | dānaṃ bhogo nāśastisro gatayo bhavanti vittasya / yo na dadāti na bhuṅkte tasya tṛtīyā gatirbhavati
-44 | 44 | maṇiḥ śāṇollīḍhaḥ samaravijayī hetinihato madakṣīṇo nāgaḥ śaradi saritaḥ śyānapulināḥ / kalāśeṣaścandraḥ suratamṛditā bālalalanā stanimnā śobhante galitavibhavāścārthiṣu janāḥ
+44 | 44 | maṇiḥ śāṇollīḍhaḥ samaravijayī hetinihato madakṣīṇo nāgaḥ śaradi saritaḥ śyānapulināḥ / kalāśeṣaścandraḥ suratamṛditā bālalalanāstanimnā śobhante galitavibhavāścārthiṣu janāḥ
 45 | 45 | parikṣīṇaḥ kaścitspṛhayati yavānāṃ prasṛtaye sa paścātsampūrṇo gaṇayati dharitrīṃ tṛṇasamām / ataścānaikāntyādgurulaghutayā'rtheṣu dhaninā- mavasthā vastūni prathayati ca saṅkocayati ca
 46 | 46 | rājan dudhukṣasi yadi kṣitidhenumetāṃ tenādya vatsamiva lokamamuṃ puṣāṇa / tasmiṃśca samyaganiśaṃ paripoṣyamāṇe nānāphalaiḥ phalati kalpalateva bhūmiḥ
 47 | 47 | satyānṛtā ca paruṣā priyavādinī ca hiṃsrā dayālurapi cārthaparā vadānyā / nityavyayā pracuranityadhanāgamā ca vārāṅganeva nṛpanītiranekarūpā
@@ -54,7 +54,7 @@ x2 |  | yāṃ cintayāmi satataṃ mayi sā viraktā sā'pyanyamicchati janaṃ
 52 | 52 | akaruṇatvamakāraṇavigrahaḥ paradhane parayoṣiti ca spṛhā / svajanabandhujaneṣvasahiṣṇutā prakṛtisiddhamidaṃ hi durātmanām
 53 | 53 | durjanaḥ pariharttavyo vidyayā'laṅkṛto'pi san / maṇinā bhūṣitaḥ sarpaḥ kimasau na bhayaṅkaraḥ
 54 | 54 | jāḍyaṃ hrīmati gaṇyate vratarucau dambhaḥ śucau kaitavaṃ śūre nirghṛṇatā ṛjau vimatitā dainyaṃ priyālāpini / tejasvinyavaliptatā mukharitā vaktaryaśaktiḥ sthire- tatko nāma guṇo bhavetsa guṇināṃ yo durjanairnāṅkitaḥ
-55 | 55 | lobhaścedaguṇena kiṃ piśunatā yadyasti kiṃ pātakaiḥsatyaṃ cettapasā ca kiṃ śuci mano yadyasti tīrthena kim / saujanyaṃ yadi kiṃ nijaiḥ sumahimā yadyasti kiṃ maṇḍanaiḥ sadvidyā yadi kiṃ dhanairapayaśo yadyasti kiṃ mṛtyunā
+55 | 55 | lobhaścedaguṇena kiṃ piśunatā yadyasti kiṃ pātakaiḥ satyaṃ cettapasā ca kiṃ śuci mano yadyasti tīrthena kim / saujanyaṃ yadi kiṃ nijaiḥ sumahimā yadyasti kiṃ maṇḍanaiḥ sadvidyā yadi kiṃ dhanairapayaśo yadyasti kiṃ mṛtyunā
 56 | 56 | śaśī divasadhūsaro galitayauvanā kāminī saro vigatavārijaṃ mukhamanakṣaraṃ svākṛteḥ / prabhurdhanaparāyaṇaḥ satatadurgataḥ sajjano nṛpāṅganagataḥ khalo manasi sapta śalyāni me
 57 | 57 | na kaściccaṇḍakopānāmātmīyo nāma bhūbhujām / hotāramapi juhvānaṃ spṛṣṭo dahati pāvakaḥ
 58 | 58 | maunānmūkaḥ pravacanapaṭurvātulo jalpako vā dhṛṣṭaḥ pārśve vasati ca tadā dūrataścāpragalbhaḥ / kṣāntyā bhīruryadi na sahate prāyaśo nābhijātaḥ sevādharmaḥ paramagahano yogināmapyagamyaḥ

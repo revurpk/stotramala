@@ -8,6 +8,7 @@ The packets list what needs a human decision; see `.claude/skills/review-works`.
 | [achyutashtakam](packets/achyutashtakam.md) | full | 2026-11-14 | 2 | 0 | 2 |
 | [adivo-alladivo](packets/adivo-alladivo.md) | full | 2026-11-14 | 0 | 0 | 1 |
 | [ambashtakam](packets/ambashtakam.md) | full | 2026-11-14 | 6 | 0 | 9 |
+| [anjaneya-ashtottara-shatanamavali](packets/anjaneya-ashtottara-shatanamavali.md) | full | 2026-11-16 | 1 | 0 | 4 |
 | [anjaneya-dandakam](packets/anjaneya-dandakam.md) | full | 2026-11-14 | 3 | 0 | 1 |
 | [ardhanarishvara-stotram](packets/ardhanarishvara-stotram.md) | full | 2026-11-14 | 0 | 0 | 0 |
 | [bhaja-govindam](packets/bhaja-govindam.md) | full | 2026-11-14 | 1 | 0 | 2 |
@@ -15,6 +16,7 @@ The packets list what needs a human decision; see `.claude/skills/review-works`.
 | [brahma-kadigina-padamu](packets/brahma-kadigina-padamu.md) | full | 2026-11-14 | 0 | 0 | 1 |
 | [gajendra-moksham](packets/gajendra-moksham.md) | full | 2026-11-14 | 1 | 0 | 0 |
 | [ganapati-atharvashirsha](packets/ganapati-atharvashirsha.md) | full | 2026-11-14 | 1 | 0 | 5 |
+| [ganesha-ashtottara-shatanamavali](packets/ganesha-ashtottara-shatanamavali.md) | full | 2026-11-16 | 0 | 0 | 3 |
 | [ganesha-pancharatnam](packets/ganesha-pancharatnam.md) | full | 2026-11-14 | 0 | 0 | 2 |
 | [ganesha-shodashanama-stotram](packets/ganesha-shodashanama-stotram.md) | full | 2026-11-14 | 0 | 0 | 0 |
 | [ghatakarpara](packets/ghatakarpara.md) | full | 2026-11-14 | 4 | 0 | 11 |
@@ -22,6 +24,9 @@ The packets list what needs a human decision; see `.claude/skills/review-works`.
 | [jo-achyutananda](packets/jo-achyutananda.md) | full | 2026-11-14 | 0 | 0 | 3 |
 | [kanakadhara-stotram](packets/kanakadhara-stotram.md) | full | 2026-11-14 | 2 | 0 | 5 |
 | [kondalalo-nelakonna](packets/kondalalo-nelakonna.md) | full | 2026-11-14 | 0 | 0 | 1 |
+| [krishna-ashtottara-shatanamavali](packets/krishna-ashtottara-shatanamavali.md) | full | 2026-11-16 | 0 | 0 | 3 |
+| [lakshmi-ashtottara-shatanamavali](packets/lakshmi-ashtottara-shatanamavali.md) | full | 2026-11-16 | 0 | 0 | 3 |
+| [lalita-ashtottara-shatanamavali](packets/lalita-ashtottara-shatanamavali.md) | full | 2026-11-16 | 1 | 0 | 7 |
 | [lalitha-sahasranamam](packets/lalitha-sahasranamam.md) | full | 2026-11-14 | 2 | 0 | 8 |
 | [lingashtakam](packets/lingashtakam.md) | full | 2026-11-14 | 0 | 0 | 0 |
 | [madhurashtakam](packets/madhurashtakam.md) | full | 2026-11-14 | 0 | 0 | 0 |
@@ -40,12 +45,16 @@ The packets list what needs a human decision; see `.claude/skills/review-works`.
 | [sandhyavandanam](packets/sandhyavandanam.md) | full | 2026-11-14 | 0 | 0 | 6 |
 | [saptashati](packets/saptashati.md) | full | 2026-11-20 | 0 | 0 | 15 |
 | [satyanarayana-vratakalpam](packets/satyanarayana-vratakalpam.md) | full | 2026-11-14 | 3 | 0 | 6 |
+| [shiva-ashtottara-shatanamavali](packets/shiva-ashtottara-shatanamavali.md) | full | 2026-11-16 | 0 | 0 | 1 |
 | [shiva-manasa-puja](packets/shiva-manasa-puja.md) | full | 2026-11-14 | 0 | 0 | 2 |
 | [shringaratilakam](packets/shringaratilakam.md) | full | 2026-11-14 | 5 | 0 | 14 |
 | [sriman-narayana](packets/sriman-narayana.md) | full | 2026-11-14 | 0 | 0 | 0 |
-| [subrahmanya-ashtottara-shatanama-stotram](packets/subrahmanya-ashtottara-shatanama-stotram.md) | full | 2026-11-14 | 0 | 0 | 1 |
+| [subhashita-niti](packets/subhashita-niti.md) | full | 2026-11-16 | 2 | 0 | 20 |
+| [subrahmanya-ashtottara-shatanama-stotram](packets/subrahmanya-ashtottara-shatanama-stotram.md) | full | 2026-11-14 | 1 | 0 | 2 |
+| [subrahmanya-ashtottara-shatanamavali](packets/subrahmanya-ashtottara-shatanamavali.md) | full | 2026-11-16 | 0 | 0 | 2 |
 | [subrahmanya-bhujangam](packets/subrahmanya-bhujangam.md) | full | 2026-11-14 | 3 | 0 | 7 |
 | [subrahmanya-shodashanama-stotram](packets/subrahmanya-shodashanama-stotram.md) | full | 2026-11-14 | 0 | 0 | 0 |
 | [syamala-dandakam](packets/syamala-dandakam.md) | full | 2026-11-14 | 3 | 0 | 3 |
 | [vedanta-dindima](packets/vedanta-dindima.md) | full | 2026-11-14 | 1 | 0 | 5 |
+| [venkateshwara-ashtottara-shatanamavali](packets/venkateshwara-ashtottara-shatanamavali.md) | full | 2026-11-16 | 0 | 0 | 9 |
 | [vishnu-sahasranamam](packets/vishnu-sahasranamam.md) | full | 2026-11-14 | 1 | 0 | 3 |

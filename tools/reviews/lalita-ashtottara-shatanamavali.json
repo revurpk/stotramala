@@ -1,0 +1,78 @@
+{
+ "series": "lalita-ashtottara-shatanamavali",
+ "reviewer": "claude-fable-5-2",
+ "date": "2026-11-16",
+ "coverage": "full",
+ "scope": "All 108 names: the text was compared name by name with the page images of the TTD book (pp. 42–46), and every meaning was read against its name. There are no word-by-word glosses on this page (the meanings are per name). The range-number flags are the block labels. One ending (name 92, -tatparāyai or -tatpadāyai) could not be made out at the scan's resolution.",
+ "items": [
+  {
+   "unit": 1,
+   "area": "text",
+   "status": "fixed",
+   "issue": "Name 9 read -niṭilāyai; the print has -niṭalāyai.",
+   "change": "Restored to the print.",
+   "slug": "lalita-ashtottara-shatanamavali"
+  },
+  {
+   "unit": 10,
+   "area": "text",
+   "status": "fixed",
+   "issue": "Name 83 read -parimukhya-; the print has -parīmukhya-. Name 87 read dhātryacyuta-, which would mean “the earth and Acyuta”; the print has dhātracyuta- (dhātṛ + acyuta, Brahmā and Viṣṇu), which is what the meaning says.",
+   "change": "Both restored to the print.",
+   "slug": "lalita-ashtottara-shatanamavali"
+  },
+  {
+   "unit": 1,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Name 6, śaśāṅkaśekharaprāṇavallabhāyai, was “beloved of the moon-crested one's life”.",
+   "change": "Now “dear as life to the moon-crested Lord”.",
+   "slug": "lalita-ashtottara-shatanamavali"
+  },
+  {
+   "unit": 4,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Name 36, anaṅgajanakāpāṅgavīkṣaṇāyai, was “whose glance is that of the father of Anaṅga”; it is her sidelong glance that begets Love.",
+   "change": "Now “whose sidelong glance gives birth to Anaṅga (Love)”.",
+   "slug": "lalita-ashtottara-shatanamavali"
+  },
+  {
+   "unit": 5,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Name 43: devarṣi is “divine seer”, not “gods and seers”. Name 49: “a swan in rut” for mattahaṃsavadhū.",
+   "change": "Now “praised by the divine seers” and “whose slow gait is that of a swan drunk with love”.",
+   "slug": "lalita-ashtottara-shatanamavali"
+  },
+  {
+   "unit": 7,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Name 61, duṣṭabhītimahābhītibhañjanāyai, was “breaker of the great fear of the wicked”, dropping one member.",
+   "change": "Now “breaker of the fear of the wicked and of every great fear”.",
+   "slug": "lalita-ashtottara-shatanamavali"
+  },
+  {
+   "unit": 4,
+   "area": "translation",
+   "status": "fixed",
+   "issue": "Names 35 and 96: the print reads bhūtāliṅgana- (a syllable short; other lists bhūteśāliṅgana-) and vidheyamukta- (other lists videhamukti-). The meaning of 35 silently followed the other lists.",
+   "change": "Both meanings now say what the other lists read; the text stays the print's, and SOURCES lists both.",
+   "slug": "lalita-ashtottara-shatanamavali"
+  },
+  {
+   "unit": 9,
+   "area": "translation",
+   "status": "open",
+   "issue": "Names 73 (śrīlocanakṛtollāsaphaladāyai) and 83 (bhaktahaṃsaparīmukhyaviyogāyai) are marked “tentative” on the page; I could not improve on either with confidence.",
+   "options": [
+    "A. Leave them marked tentative.",
+    "B. Supply the meanings from a commentary or teacher you trust."
+   ],
+   "recommend": "A, unless you have a traditional gloss to hand.",
+   "decision": "",
+   "slug": "lalita-ashtottara-shatanamavali"
+  }
+ ]
+}
