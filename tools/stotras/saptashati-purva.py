@@ -10,7 +10,7 @@ STOTRA = {
     "h1": "Durgā Saptaśatī",
     "subtitle": "Before the text · kavaca, argalā, kīlaka",
     "note": "The Durgā Saptaśatī (Devī Māhātmya) in its seven hundred mantras, with the text of the Gita Press Śrīdurgāsaptaśatī: each chapter counts its uvāca, half-verse and verse mantras, and the numbers here are that edition's. Translations will follow.",
-    "nav": [("contents", "saptashati-iast.html"), ("next ›", "saptashati-sukta-iast.html")],
+    "nav": [("‹ previous", "saptashati-shatanama-iast.html"), ("contents", "saptashati-iast.html"), ("next ›", "saptashati-sukta-iast.html")],
     "toc": True,
     "footer": "Source: Śrīdurgāsaptaśatī, Gita Press, Gorakhpur (code 118), for readings, verse division and numbering; first transcribed from the Nirṇaya Sāgara print of 1917 (public domain), whose differing readings are listed in the repository; translations original",
     "sections": [

@@ -4,26 +4,7 @@ Reviewed 2026-11-20 by `claude-opus-5-5` · coverage: **full**
 
 Source collation, not a translation review: the Sanskrit of all 13 chapters, the dhyānas and viniyogas, and the six aṅgas was compared word by word with the Gita Press Śrīdurgāsaptaśatī (code 118, the user's PDF, decoded from its Chanakya font), and the site's text was re-based on it. Word glosses were re-mapped, and every verse whose text changed had its gloss checked and corrected; glosses of unchanged verses were not re-read. The Vedic sūktas were compared (same words; Gita Press has no svaras) and left as they were. There are no translations to review.
 
-**1 item(s) need your decision; 14 fixed in the review.**
-
-Write your answer after **Decision:** under each item (a letter, or your own words),
-then ask for the decisions to be applied. Leave it empty to keep things as they are.
-
-## Needs your decision
-
-### 1. [saptashati](../../../stotra/devi/saptashati-iast.html) · whole page · source
-<!-- id: saptashati:0:source:82eb0d -->
-
-**Issue.** Gita Press also contains matter that is not on the site: Devyatharvaśīrṣa, the Tantric Rātri and Devī Sūktas, the navārṇa nyāsa and procedure, Siddhakuñjikā, Durgā-dvātriṃśannāmamālā, Devyaparādhakṣamāpana and the other closing hymns.
-
-- A Leave the site's scope as it is.
-- B Add some or all of these as further pages from the same PDF.
-
-**Recommended.** A for now; B is a separate piece of work.
-
-**Decision:** B — add new pages.
-
----
+**0 item(s) need your decision; 15 fixed in the review.**
 
 ## Fixed in the review
 
@@ -42,4 +23,5 @@ then ask for the decisions to be applied. Leave it empty to keep things as they 
 | saptashati-purva | — | text | Gita Press prints no viniyoga for the Kavaca, Argalā, Kīlaka or the Rahasyas, so the 1917 viniyogas (e.g. asya śrīcaṇḍīkavacasya brahmā ṛṣiḥ…) were dropped along with their glosses (recoverable from git). | Decision B: the 1917 viniyogas restored above the Kavaca, Argalā, Kīlaka and the Rahasyas, with their glosses; marked in the text files and SOURCES as the 1917 print's. |
 | saptashati-01 | 83 | text | 1.80: Gita Press prints khaṅginī (खङ्गिनी); the site kept khaḍginī as a spelling of the same word. | Decision A — no change. |
 | saptashati | — | source | Gita Press marks many readings with footnotes (पा॰, e.g. 9.37, 12.22, 13.23) giving alternatives, often the 1917 reading. These footnotes were not transcribed. | Decision A — leave out. |
+| saptashati | — | source | Gita Press also contains matter that is not on the site: Devyatharvaśīrṣa, the Tantric Rātri and Devī Sūktas, the navārṇa nyāsa and procedure, Siddhakuñjikā, Durgā-dvātriṃśannāmamālā, Devyaparādhakṣamāpana and the other closing hymns. | Decision B: four new pages (saptashati-shatanama, -anga, -upasamhara, -stotras) carry Gita Press's other Sanskrit recitation texts with word glosses; Hindi matter, the pāṭhavidhi, the sampuṭa list and the Saptaślokī (own page) left out. The sūkta page took Gita Press's viniyogas and Devī Sūkta dhyāna. |
 | saptashati-uttara | — | text | Gita Press prints three passages in brackets, which suggests they are interpolations: Vaikṛtika 28 (balimāṃsādipūjeyaṃ…), Mūrti 11 (bhuktvā bhogān yathākāmaṃ…) and the three lines after Mūrti 25 (etasyāstvaṃ prasādena…). They are included, in brackets. | Decision A — keep them. |

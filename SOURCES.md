@@ -908,6 +908,27 @@ before it was taken. What changed:
   (Atharvaśīrṣa, Tantric Rātri and Devī Sūktas, the navārṇa procedure,
   Siddhakuñjikā and the closing hymns) is not on the site.
 
+**Further pages from Gita Press (2026-11).** At the maintainer's decision the
+other recitation texts the Gita Press edition prints were added, as it prints
+them (spelling included; decoded from the PDF and checked against the page
+images): `saptashati-shatanama` (Durgāṣṭottaraśatanāma, Viśvasāra Tantra, pp.
+9–12); `saptashati-anga` (Tantric Rātri Sūkta pp. 43–44, Devyatharvaśīrṣa pp.
+44–52, navārṇa vidhi and Saptaśatī nyāsa pp. 52–57); `saptashati-upasamhara`
+(the nyāsas after the reading pp. 183–185, Tantric Devī Sūkta pp. 189–191);
+`saptashati-stotras` (Kṣamā-prārthanā pp. 214–215, Śrīdurgā-mānasa-pūjā pp.
+216–222, Durgā-dvātriṃśannāmamālā pp. 223–225, Śaṅkara's Devyaparādhakṣamāpana
+pp. 226–229, Siddhakuñjikā from the Rudrayāmala pp. 230–232). The Tantric
+sūktas repeat passages of chapters 1 and 5 and are given again because Gita
+Press prints them as separate recitation units. Left out: the pāṭhavidhi
+(Hindi instructions with mantra fragments), the Saptaślokī (its own page,
+§1), the list of sampuṭa mantras (verses of the text with Hindi notes), and
+the Hindi āratīs. Editorial: the half-verse lines the print breaks for width
+are joined; unnumbered verses are shown without a number; two decoding
+artefacts were repaired (मञ्जीरमङ्घ्रिद्वये, क्रूं/भ्रूं in the Kuñjikā). The
+Vedic sūkta page now carries Gita Press's viniyogas and the dhyāna it prints
+before the Devī Sūkta (pp. 41, 186). All pages carry original word glosses;
+passages repeated from the chapters reuse the chapters' glosses.
+
 The paragraphs below describe the 1917 transcription the site started from.
 
 **Transcription.** Every line was read from the page images (scan pages

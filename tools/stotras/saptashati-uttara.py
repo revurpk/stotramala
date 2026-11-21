@@ -10,7 +10,7 @@ STOTRA = {
     "h1": "Durgā Saptaśatī",
     "subtitle": "After the text · the three rahasyas",
     "note": "The Durgā Saptaśatī (Devī Māhātmya) in its seven hundred mantras, with the text of the Gita Press Śrīdurgāsaptaśatī: each chapter counts its uvāca, half-verse and verse mantras, and the numbers here are that edition's. Translations will follow.",
-    "nav": [("‹ previous", "saptashati-13-iast.html"), ("contents", "saptashati-iast.html")],
+    "nav": [("‹ previous", "saptashati-upasamhara-iast.html"), ("contents", "saptashati-iast.html"), ("next ›", "saptashati-stotras-iast.html")],
     "toc": True,
     "footer": "Source: Śrīdurgāsaptaśatī, Gita Press, Gorakhpur (code 118), for readings, verse division and numbering; first transcribed from the Nirṇaya Sāgara print of 1917 (public domain), whose differing readings are listed in the repository; translations original",
     "sections": [

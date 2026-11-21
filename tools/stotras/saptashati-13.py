@@ -10,7 +10,7 @@ STOTRA = {
     "h1": "Durgā Saptaśatī",
     "subtitle": "Chapter 13 · the boons to Suratha and Samādhi",
     "note": "The Durgā Saptaśatī (Devī Māhātmya) in its seven hundred mantras, with the text of the Gita Press Śrīdurgāsaptaśatī: each chapter counts its uvāca, half-verse and verse mantras, and the numbers here are that edition's. Translations will follow.",
-    "nav": [("‹ previous", "saptashati-12-iast.html"), ("contents", "saptashati-iast.html"), ("next ›", "saptashati-uttara-iast.html")],
+    "nav": [("‹ previous", "saptashati-12-iast.html"), ("contents", "saptashati-iast.html"), ("next ›", "saptashati-upasamhara-iast.html")],
     "toc": False,
     "footer": "Source: Śrīdurgāsaptaśatī, Gita Press, Gorakhpur (code 118), for readings, verse division and numbering; first transcribed from the Nirṇaya Sāgara print of 1917 (public domain), whose differing readings are listed in the repository; translations original",
     "sections": [

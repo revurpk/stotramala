@@ -233,8 +233,8 @@
  "saptashati": {
   "coverage": "full",
   "date": "2026-11-20",
-  "fixed": 2,
-  "open": 1,
+  "fixed": 3,
+  "open": 0,
   "reviewer": "claude-opus-5-5"
  },
  "saptashati-01": {

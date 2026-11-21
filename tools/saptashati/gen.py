@@ -33,7 +33,18 @@ HEADS = {"प्रथमचरित्रम्": "Prathama carita · first ep
          "अर्गलास्तोत्रम्": "Argalā Stotra", "कीलकस्तोत्रम्": "Kīlaka Stotra",
          "प्राधानिकरहस्यम्": "Prādhānika Rahasya", "वैकृतिकरहस्यम्": "Vaikṛtika Rahasya",
          "मूर्तिरहस्यम्": "Mūrti Rahasya",
-         "वैदिकं रात्रिसूक्तम्": "Rātri Sūkta · Ṛgveda 10.127", "वैदिकं देवीसूक्तम्": "Devī Sūkta · Ṛgveda 10.125"}
+         "वैदिकं रात्रिसूक्तम्": "Rātri Sūkta · Ṛgveda 10.127", "वैदिकं देवीसूक्तम्": "Devī Sūkta · Ṛgveda 10.125",
+         "दुर्गाष्टोत्तरशतनामस्तोत्रम्": "Durgāṣṭottaraśatanāma Stotra", "तन्त्रोक्तं रात्रिसूक्तम्": "Tantric Rātri Sūkta",
+         "देव्यथर्वशीर्षम्": "Devyatharvaśīrṣa", "नवार्णविधिः": "Navārṇa vidhi · the nine-syllable mantra",
+         "ऋष्यादिन्यासः": "Ṛṣyādi nyāsa", "करन्यासः": "Kara nyāsa", "हृदयादिन्यासः": "Hṛdayādi nyāsa",
+         "अक्षरन्यासः": "Akṣara nyāsa", "दिङ्न्यासः": "Dik nyāsa", "ध्यानम्": "Dhyāna",
+         "सप्तशतीन्यासः": "Saptaśatī nyāsa", "उपसंहारः": "Upasaṃhāra · after the reading",
+         "तन्त्रोक्तं देवीसूक्तम्": "Tantric Devī Sūkta", "क्षमाप्रार्थना": "Kṣamā-prārthanā",
+         "श्रीदुर्गामानसपूजा": "Śrīdurgā-mānasa-pūjā", "दुर्गाद्वात्रिंशन्नाममाला": "Durgā-dvātriṃśannāmamālā",
+         "देव्यपराधक्षमापनस्तोत्रम्": "Devyaparādhakṣamāpana Stotra", "सिद्धकुञ्जिकास्तोत्रम्": "Siddhakuñjikā Stotra"}
+APPX = {"saptashati-shatanama", "saptashati-anga", "saptashati-upasamhara", "saptashati-stotras"}
+APPX_NOTE = ("Texts the Gita Press Śrīdurgāsaptaśatī prints around the Saptaśatī for its recitation, "
+             "given here as that edition prints them, spelling included. Word glosses; translations will follow.")
 SOURCE = ("Source: Śrīdurgāsaptaśatī, Gita Press, Gorakhpur (code 118), for readings, "
           "verse division and numbering; first transcribed from the Nirṇaya Sāgara print of "
           "1917 (public domain), whose differing readings are listed in the repository; "
@@ -110,10 +121,16 @@ def write(slug, st, force):
 
 def main(argv):
     force = "--force" in argv
-    pages = ([("saptashati-purva", "Before the text · kavaca, argalā, kīlaka", ["a1_kavaca", "a2_argala", "a3_kilaka"])]
+    pages = ([("saptashati-shatanama", "Before the text · Durgāṣṭottaraśatanāma", ["d1_shatanama"])]
+             + [("saptashati-purva", "Before the text · kavaca, argalā, kīlaka", ["a1_kavaca", "a2_argala", "a3_kilaka"])]
              + [("saptashati-sukta", "The Vedic Rātri and Devī Sūktas, with svaras", ["c1_suktas"])]
+             + [("saptashati-anga", "Before the text · Tantric Rātri Sūkta, Atharvaśīrṣa, nyāsas",
+                 ["e1_tantra_ratri", "e2_atharvashirsha", "e3_navarna"])]
              + [(f"saptashati-{i:02d}", TITLES[f"ch{i:02d}"], [f"ch{i:02d}"]) for i in range(1, 14)]
-             + [("saptashati-uttara", "After the text · the three rahasyas", ["b1_pradhanika", "b2_vaikrtika", "b3_murti"])])
+             + [("saptashati-upasamhara", "After the text · upasaṃhāra, Tantric Devī Sūkta", ["f1_upasamhara", "f2_tantra_devi"])]
+             + [("saptashati-uttara", "After the text · the three rahasyas", ["b1_pradhanika", "b2_vaikrtika", "b3_murti"])]
+             + [("saptashati-stotras", "After the text · closing hymns",
+                 ["g1_kshama", "g2_manasa", "g3_dvatrimshat", "g4_aparadha", "g5_kunjika"])])
     links, written = [], []
     for k, (slug, title, files) in enumerate(pages):
         nav = []
@@ -138,6 +155,10 @@ def main(argv):
             st["script"] = "dev"                          # accented: open in Devanāgarī, like Mahānyāsam
             st["note"] = SUKTA_NOTE
             st["footer"] = SUKTA_SOURCE
+        if slug in APPX:
+            st["note"] = APPX_NOTE
+            st["footer"] = ("Source: Śrīdurgāsaptaśatī, Gita Press, Gorakhpur (code 118); the Sanskrit "
+                            "only, spelling as printed; glosses original")
         if write(slug, st, force):
             written.append(slug)
     st = {"deity": "devi", "doc_title": "Durgā Saptaśatī", "app_title": "Durgā Saptaśatī",

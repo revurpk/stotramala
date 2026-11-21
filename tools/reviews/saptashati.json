@@ -141,14 +141,15 @@
    "slug": "saptashati",
    "unit": 0,
    "area": "source",
-   "status": "open",
+   "status": "fixed",
    "issue": "Gita Press also contains matter that is not on the site: Devyatharvaśīrṣa, the Tantric Rātri and Devī Sūktas, the navārṇa nyāsa and procedure, Siddhakuñjikā, Durgā-dvātriṃśannāmamālā, Devyaparādhakṣamāpana and the other closing hymns.",
    "options": [
     "A Leave the site's scope as it is.",
     "B Add some or all of these as further pages from the same PDF."
    ],
    "recommend": "A for now; B is a separate piece of work.",
-   "decision": "B — add new pages."
+   "decision": "B — add new pages.",
+   "change": "Decision B: four new pages (saptashati-shatanama, -anga, -upasamhara, -stotras) carry Gita Press's other Sanskrit recitation texts with word glosses; Hindi matter, the pāṭhavidhi, the sampuṭa list and the Saptaślokī (own page) left out. The sūkta page took Gita Press's viniyogas and Devī Sūkta dhyāna."
   },
   {
    "slug": "saptashati-uttara",
