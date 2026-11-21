@@ -69,9 +69,13 @@ IAST, Devanāgarī, or Telugu (script bar at the top).
 | Viṣṇu | Bhaja Govindam (33 verses) — Ādi Śaṅkara | [read](stotra/vishnu/bhaja-govindam-iast.html) |
 | Gaṇeśa | Gaṇapati Atharvaśīrṣa (Gaṇeśa Upaniṣad) | [read](stotra/ganesha/ganapati-atharvashirsha-iast.html) |
 | Advaita | Īśāvāsya Upaniṣad (18 mantras) | [read](stotra/advaita/ishavasya-upanishad-iast.html) |
-| Veda | Puruṣa Sūktam — Ṛgveda 10.90, accented (16 ṛcs) | [read](stotra/veda/purusha-suktam-iast.html) |
+| Veda | Puruṣa Sūktam — Taittirīya Āraṇyaka 3.12–13 with śānti (23 mantras), Gita Press text and svaras | [read](stotra/veda/purusha-suktam-iast.html) |
 | Veda | Sandhyāvandanam — Kṛṣṇa Yajurveda (Taittirīya), morning, noon and evening; Saṃhitā/Ṛgveda mantras accented, glosses original | [read](stotra/veda/sandhyavandanam-iast.html) |
-| Veda | Manyu Sūktam — Ṛgveda 10.83–84, accented (14 ṛcs) | [read](stotra/veda/manyu-suktam-iast.html) |
+| Veda | Manyu Sūktam — Ṛgveda 10.83–84 with viniyoga, nyāsa and closing ṛc, Gita Press text and svaras | [read](stotra/veda/manyu-suktam-iast.html) |
+| Veda | Nārāyaṇa Sūktam with the Mahāmantrapuṣpa — Mahānārāyaṇa (41 mantras + gāyatrīs), Gita Press text and svaras | [read](stotra/veda/narayana-suktam-iast.html) |
+| Veda | Śrī Sūktam — Ṛgveda khila 2.6 with phalaśruti and Lakṣmī verses (32), Gita Press text and svaras | [read](stotra/veda/sri-suktam-iast.html) |
+| Veda | Durgā Sūktam — Taittirīya Āraṇyaka 10.2 with the Kātyāyanī gāyatrī, Gita Press text and svaras | [read](stotra/veda/durga-suktam-iast.html) |
+| Veda | Medhā Sūktam — Taittirīya Āraṇyaka 10.41–44, accented (Wikisource) | [read](stotra/veda/medha-suktam-iast.html) |
 | Viṣṇu | Viṣṇu Sahasranāmam — the thousand names (108 verses) | [read](stotra/vishnu/vishnu-sahasranamam-iast.html) |
 | Viṣṇu | Śrī Satyanārāyaṇa Vratakalpam — full pūjā and the five-chapter kathā (Annavaram) | [read](stotra/vishnu/satyanarayana-vratakalpam-iast.html) |
 | Devī | Lalitā Sahasranāmam — the thousand names (182 verses) | [read](stotra/devi/lalitha-sahasranamam-iast.html) |

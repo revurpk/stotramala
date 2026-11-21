@@ -529,6 +529,12 @@ the maintainer**.
 
 ### 5.18 Puruṣa Sūktam (accented) — `stotra/veda/`
 
+> **Replaced 2026-11-21.** At the maintainer's decision the page now carries the
+> Taittirīya form (TA 3.12–13 with the śānti, 23 mantras) as printed, with its
+> svaras, in the Gita Press Pañcasūktamūlam — see §5.32. The Ṛgveda 10.90 text
+> described below is in git history; the Ṛgveda-recension audio link was dropped
+> with it. The svara pipeline notes below still apply.
+
 | Field | Value |
 |---|---|
 | Work | *Puruṣa Sūkta*, Ṛgveda 10.90 (Nārāyaṇa, to Puruṣa), 16 ṛcs |
@@ -573,6 +579,10 @@ anusvāra in Devanāgarī, as elsewhere on the site. Markers `_`/`^` never
 occur in ordinary IAST, so all non-accented pages are unaffected.
 
 ### 5.19 Manyu Sūktam (accented) — `stotra/veda/`
+
+> **Corrected 2026-11-21** against the Gita Press Pañcasūktamūlam, which is now
+> the reference for text and svaras, adding its viniyoga, nyāsa, closing ṛc and
+> śānti — see §5.32.
 
 | Field | Value |
 |---|---|
@@ -1526,6 +1536,60 @@ the English keys `tools/nirukta/glossN.txt`.
 
 The heading and English summary of each khaṇḍa are original; they
 summarise, they do not translate.
+
+### 5.32 Vedic sūktas from the Gita Press Pañcasūkta — `stotra/veda/`
+
+| Field | Value |
+|---|---|
+| Works | Puruṣa (TA 3.12–13), Manyu (RV 10.83–84), Nārāyaṇa with the Mahāmantrapuṣpa (TA 10 selections), Śrī (RV khila 2.6), Durgā (TA 10.2); Medhā (TA 10.41–44) |
+| Reference | *Śrī Pañcasūktamūlam* (Telugu), Gita Press, Gorakhpur, book code 1026 (the maintainer's PDF, 80 pp.): Puruṣa pp. 5–8, Nārāyaṇa 9–18, Śrī 19–22, Durgā 28, Manyu 31–33 |
+| Base texts | Sanskrit Wikisource (public domain): `तैत्तिरीय-आरण्यकम्` (accented), `श्रीसूक्तम्` (unaccented), and the accented Ṛgveda already used for Manyu (§5.19) |
+| Recorded | 2026-11-21 |
+| Text status | the hymns are ancient and public domain; the Gita Press edition is a modern copyrighted print, from which only the readings and accents of the Sanskrit are taken |
+
+**Method.** The PDF sets the Telugu in the legacy Anu *Gowthami* font, with
+the svaras as separate marks — `I` strokes above and `–` bars below, as
+characters on lines of their own, plus some drawn line segments. The text was
+decoded with a glyph-group dictionary learned by aligning the PDF with the
+Wikisource base texts (entries checked against the glyph pieces; learned
+artefacts of the base's Andhra spellings — వ్వైఁ, ఱ, ద్ధ్య, థ్స — corrected to
+what the glyphs show), and each svara mark was attached by position to the
+akṣara beneath or above it; two strokes on one akṣara are the dīrgha svarita
+(᳚, `^^`). Every line was then read against the page images. Where the
+print marks a svara after a final consonant, the mark is stored after the
+vowel (`mahāṃta^^m`).
+
+**What the pages follow.** Gita Press throughout — its readings, sandhi and
+spellings (e.g. Puruṣa *jyāyāgśca*, *paśūgstāgś*, *mahimānassacante*,
+*adbhyassaṃbhūtaḥ*, *akalpayan*, *tadabruvan*; Nārāyaṇa *tīkṣṇadaggṣṭrāya*,
+*sarvaliṃgagg*, *samanta paryā īsyāt*, *evāṃ tataḥ*; Durgā *nidahāti*,
+*asmānsvasti*, *sahamānam ugram agnigṃ*, *navyacca*, *satsi*; Manyu
+*dhattāṃ*, *mutthsaṃ*, and its frequent dīrgha svaritas) and its structure
+(Puruṣa's śānti before and after; Manyu's viniyoga, six-row nyāsa, closing
+*dhanvanā gā…* (15) and śānti; Nārāyaṇa's 41 mantras with the unnumbered
+gāyatrīs and the abbreviated *(oṃ tad brahma … bhūrbhuvassuvarom)*; Śrī's 32
+verses, 20–31 printed without accents). Verse numbers are Gita Press's; Durgā,
+which the print runs as paragraphs, is numbered by its seven ṛcs and gāyatrī.
+
+**Corrections (misprints, fixed from the Ṛgveda / Taittirīya Āraṇyaka).**
+- Manyu: అస్యుపమే → *asmyupame* (6); సంసిశానా → *saṃśiśānā* (8);
+  బిభర్ష్యబిభూత → *bibharṣyabhibhūta* (13).
+- Durgā: జష్టాం → *juṣṭāṃ* (2); సిధుం → *sindhuṃ* (4); సధస్తాత్ →
+  *sadhasthāt* (5), where an anudātta printed under the same akṣara as its
+  dīrgha svarita was dropped as impossible.
+- Spacing joined where the print breaks a word across a line or a footnote
+  mark (*utāmṛtatvasyeśānaḥ*, *kṛtvā'bhivadan*, *yastvaivaṃ*, *tanno durgiḥ
+  pracodayāt*). The Manyu pluta is written *vo3* as in the Ṛgveda.
+
+**Medhā Sūkta.** Not in the Pañcasūkta, so it follows the accented
+Taittirīya Āraṇyaka on Wikisource alone (anuvākas 39–42 of that edition's
+book 10), keeping its Andhra spellings (*aphsarāsu*, *citravviṁndate*).
+**Śrī Sūkta.** Wikisource's text is unaccented, so the svaras are wholly
+Gita Press's; the words agree with it apart from Gita Press's readings.
+
+Translations and word glosses are original. The other contents of the
+Pañcasūkta (Bhū, Nīlā and Viṣṇu sūktas, Rudra, the Upaniṣads) were not added;
+Sankalpa Sūkta was left out at the maintainer's request.
 
 ## 6. Telugu-language works
 
