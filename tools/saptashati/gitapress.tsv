@@ -1,3 +1,8 @@
+# UPDATE 2026-11: the site's text now follows the Gita Press Śrīdurgāsaptaśatī with Hindi
+# translation (code 118). Every 'variant' row below was therefore changed to the Gita Press
+# reading; the 'ours' column keeps the 1917 reading that was replaced, so this table is now
+# the list of 1917 variants. One row differs in code 118: 8.6, where it prints मौर्याः
+# (the site now has मौर्याः; 1917 has मौर्वाः). See SOURCES §5.26.
 # Durgā Saptaśatī: collation of the transcription (1917 Nirṇaya Sāgara print) with the
 # Gita Press edition (Śrīdurgāsaptaśatī, sthūlākṣara mūla, Gorakhpur, 1994 printing;
 # archive.org kggr-shri-durga-saptashati-sthulaksharair-mudrita-mula-). Gita Press is

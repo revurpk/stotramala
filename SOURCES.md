@@ -869,9 +869,45 @@ own heading, "Sarga 56A · interpolated (prakṣipta)".
 | Field | Value |
 |---|---|
 | Work | Durgā Saptaśatī (Devī Māhātmya, Mārkaṇḍeya Purāṇa), with its aṅgas |
-| Source | *Saptaśatī*, Nirṇaya Sāgara Press, Bombay, Śaka 1839 (1917 CE); "saṃśodhita" by Vāsudeva Śarmā Paṇaśīkara, son of Lakṣmaṇa Śarmā (the editor Wasudev Laxman Shastri Paṇśīkar, d. 1925); published by Tukaram Javaji. Scan: archive.org `SaptashatiNirnayaSagarPress` (306 pages). |
+| Source | Reference text since 2026-11: *Śrīdurgāsaptaśatī* with Hindi translation, Gita Press, Gorakhpur (book code 118; the maintainer's PDF, 240 pages). First transcribed from: *Saptaśatī*, Nirṇaya Sāgara Press, Bombay, Śaka 1839 (1917 CE); "saṃśodhita" by Vāsudeva Śarmā Paṇaśīkara, son of Lakṣmaṇa Śarmā (the editor Wasudev Laxman Shastri Paṇśīkar, d. 1925); published by Tukaram Javaji. Scan: archive.org `SaptashatiNirnayaSagarPress` (306 pages). |
 | Recorded | 2026-10-22 |
-| Text status | ancient and public domain; the 1917 print is public domain by age (published before 1931; editor died 1925). No digital text was used: the archive.org OCR is unusable. |
+| Text status | ancient and public domain; the 1917 print is public domain by age (published before 1931; editor died 1925). No digital text was used: the archive.org OCR is unusable. Gita Press is a modern edition in copyright; the site takes from it the readings, verse division and numbering of the ancient Sanskrit text, and none of its Hindi translation, notes or layout. |
+
+**Re-based on Gita Press (2026-11).** At the maintainer's request the text
+now follows the Gita Press *Śrīdurgāsaptaśatī* (code 118) as the authentic
+reference. Its PDF sets the text in the legacy Chanakya font; the font was
+decoded to Unicode, every verse aligned with the 1917 transcription, and each
+difference that was not a spelling convention checked against the page image
+before it was taken. What changed:
+
+- *Chapters 1–13.* Every Gita Press reading is taken (the ~80 rows of
+  `tools/saptashati/gitapress.tsv`, which now lists the 1917 readings that
+  were replaced), with Gita Press's half-verse division: long runs of
+  chapters 1, 2, 13 and others now pair their half-verses as Gita Press does.
+  Structure: 2.20's half-verse *tato devā daduḥ…* (absent in Gita Press) is
+  gone and 2.63 gains *kabandhā yuyudhurdevyā…*; 10.18 loses *aśvāṃśca
+  pātayāmāsa…* and 10.32 gains *jajvaluścāgnayaḥ…*; chapter 13 ends as Gita
+  Press numbers it (27–29 as half, verse, half; the closing verse repeated
+  unnumbered with *klīṃ oṃ*), and its colophon counts are Gita Press's (uvāca
+  6, ardha 11, śloka 12). Every chapter still checks against its colophon, and
+  the running total is ७००. 8.6 reads *mauryāḥ* as code 118 prints it.
+- *Heads.* The three caritas open with Gita Press's viniyoga, and every
+  chapter with its dhyāna (the 1917 print gives a dhyāna only for chapter 1
+  and cues for 2 and 5).
+- *Aṅgas.* Kavaca, Argalā, Kīlaka and the three Rahasyas were re-keyed from
+  Gita Press: its verses, order, numbering and colophons, including the lines
+  it prints in brackets (Vaikṛtika 28, Mūrti 11 and the closing three lines of
+  the Mūrti Rahasya). Gita Press prints no viniyoga for these, so the 1917
+  viniyogas were dropped.
+- *Spelling.* The site's anusvāra spelling is kept wherever the words agree;
+  where a Gita Press word replaced a 1917 one, its class nasal is written as
+  anusvāra. Gita Press's *khaṅginī* (1.80) is kept as *khaḍginī*.
+- *Not changed.* The Vedic sūktas: Gita Press prints them without svaras, in
+  the same words as the Ṛgveda text used here. Gita Press's further matter
+  (Atharvaśīrṣa, Tantric Rātri and Devī Sūktas, the navārṇa procedure,
+  Siddhakuñjikā and the closing hymns) is not on the site.
+
+The paragraphs below describe the 1917 transcription the site started from.
 
 **Transcription.** Every line was read from the page images (scan pages
 54–74, 105–249, 260–280) into `tools/saptashati/text/`, one file per chapter
@@ -888,10 +924,11 @@ Each chapter's colophon counts its uvāca, ardha (half-verse), tripād and
 thirteen agree exactly, and the running total ends at ७०० (104 · 69 · 44 ·
 42 · 129 · 24 · 27 · 63 · 41 · 32 · 55 · 41 · 29).
 
-**What the pages include.** Before the text: the Devī Kavaca (50 verses),
-Argalā (23) and Kīlaka (14), each with its viniyoga. The three caritas, each
-opening with its viniyoga and the print's dhyāna cue. After the text: the
-Prādhānika (29), Vaikṛtika (39) and Mūrti (22) Rahasyas. Not yet included:
+**What the pages include.** Before the text: the Devī Kavaca (56 verses),
+Argalā (25) and Kīlaka (14), as Gita Press gives them. Each chapter opens with
+its dhyāna, and each carita with its viniyoga. After the text: the
+Prādhānika (31), Vaikṛtika (39) and Mūrti (25) Rahasyas. (In the 1917 print:
+Kavaca 50, Argalā 23, Prādhānika 29, Mūrti 22, each aṅga with a viniyoga.) Not yet included:
 the navārṇa mantra's nyāsas and procedure (scan 74–105; its last two pages
 are damaged in the scan).
 
@@ -923,7 +960,9 @@ include several places where the two prints divide the half-verses
 differently but give the same count, and one where the lines differ
 (10.18 and 10.32). All are listed in `tools/saptashati/gitapress.tsv`. The
 two prints agree on every chapter total and on the running total of ७००.
-The aṅgas and rahasyas have not been collated.
+The aṅgas and rahasyas have not been collated. (This collation kept the
+1917 readings; since 2026-11 the Gita Press readings are taken instead: see
+*Re-based on Gita Press* above.)
 
 ### 5.27 Devī Bhāgavatam — `stotra/devibhagavatam/`
 

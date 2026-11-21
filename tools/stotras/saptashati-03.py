@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # Copyright 2026 Pradyumna Revur — CC BY 4.0 (see LICENSE)
-# Durgā Saptaśatī, 1917 Nirṇaya Sāgara print → IAST; written by
+# Durgā Saptaśatī, Gita Press text (sūktas: 1917 print) → IAST; written by
 # tools/saptashati/gen.py from tools/saptashati/text. See SOURCES §5.26.
 
 STOTRA = {
@@ -9,11 +9,12 @@ STOTRA = {
     "app_title": "Saptaśatī · Chapter 3",
     "h1": "Durgā Saptaśatī",
     "subtitle": "Chapter 3 · Mahiṣāsura slain",
-    "note": "The Durgā Saptaśatī (Devī Māhātmya) as printed by the Nirṇaya Sāgara Press in 1917, in its seven hundred mantras: each chapter counts its uvāca, half-verse and verse mantras, and the numbers here are the print's. Translations will follow.",
+    "note": "The Durgā Saptaśatī (Devī Māhātmya) in its seven hundred mantras, with the text of the Gita Press Śrīdurgāsaptaśatī: each chapter counts its uvāca, half-verse and verse mantras, and the numbers here are that edition's. Translations will follow.",
     "nav": [("‹ previous", "saptashati-02-iast.html"), ("contents", "saptashati-iast.html"), ("next ›", "saptashati-04-iast.html")],
     "toc": False,
-    "footer": "Source: Saptaśatī, Nirṇaya Sāgara Press, Bombay, Śaka 1839 (1917 CE), corrected by Vāsudeva Śarmā Paṇaśīkara (public domain; archive.org scan), transcribed from the page images; numbering as printed; translations original",
+    "footer": "Source: Śrīdurgāsaptaśatī, Gita Press, Gorakhpur (code 118), for readings, verse division and numbering; first transcribed from the Nirṇaya Sāgara print of 1917 (public domain), whose differing readings are listed in the repository; translations original",
     "sections": [
+    {'padas': ['oṃ udyadbhānusahasrakāṃtimaruṇakṣaumāṃ śiromālikāṃ', 'raktāliptapayodharāṃ japavaṭīṃ vidyāmabhītiṃ varam |', 'hastābjairdadhatīṃ trinetravilasadvaktrāraviṃdaśriyaṃ', "devīṃ baddhahimāṃśuratnamukuṭāṃ vaṃde'raviṃdasthitām"], 'num': '', 'gloss': ''},
     {'padas': ['ṛṣiruvāca'], 'num': '|| 1 ||', 'gloss': ''},
     {'padas': ['nihanyamānaṃ tatsainyamavalokya mahāsuraḥ |', 'senānīścikṣuraḥ kopādyayau yoddhumathāṃbikām'], 'num': '|| 2 ||', 'gloss': ''},
     {'padas': ['sa devīṃ śaravarṣeṇa vavarṣa samaresuraḥ |', 'yathā merugireḥ śṛṃgaṃ toyavarṣeṇa toyadaḥ'], 'num': '|| 3 ||', 'gloss': ''},
@@ -23,7 +24,7 @@ STOTRA = {
     {'padas': ['siṃhamāhatya khaḍgena tīkṣṇadhāreṇa mūrdhani |', 'ājaghāna bhuje savye devīmapyativegavān'], 'num': '|| 7 ||', 'gloss': ''},
     {'padas': ['tasyāḥ khaḍgo bhujaṃ prāpya paphāla nṛpanandana |', 'tato jagrāha śūlaṃ sa kopādaruṇalocanaḥ'], 'num': '|| 8 ||', 'gloss': ''},
     {'padas': ['cikṣepa ca tatastattu bhadrakālyāṃ mahāsuraḥ |', 'jājvalyamānaṃ tejobhī ravibiṃbamivāṃbarāt'], 'num': '|| 9 ||', 'gloss': ''},
-    {'padas': ['dṛṣṭvā tadāpatacchūlaṃ devī śūlamamuñcata |', 'tena tacchatadhā nītaṃ śūlaṃ sa ca mahāsuraḥ'], 'num': '|| 10 ||', 'gloss': ''},
+    {'padas': ['dṛṣṭvā tadāpatacchūlaṃ devī śūlamamuñcata |', 'tacchūlaṃ śatadhā tena nītaṃ sa ca mahāsuraḥ'], 'num': '|| 10 ||', 'gloss': ''},
     {'padas': ['hate tasminmahāvīrye mahiṣasya camūpatau |', 'ājagāma gajārūḍhaścāmarastridaśārdanaḥ'], 'num': '|| 11 ||', 'gloss': ''},
     {'padas': ['sopi śaktiṃ mumocātha devyāstāmaṃbikā drutam |', 'huṃkārābhihatāṃ bhūmau pātayāmāsa niṣprabhāṃ'], 'num': '|| 12 ||', 'gloss': ''},
     {'padas': ['bhagnāṃ śaktiṃ nipatitāṃ dṛṣṭvā krodhasamanvitaḥ |', 'cikṣepa cāmaraḥ śūlaṃ bāṇaistadapi sācchinat'], 'num': '|| 13 ||', 'gloss': ''},
@@ -31,7 +32,7 @@ STOTRA = {
     {'padas': ['yudhyamānau tatastau tu tasmānnāgānmahīṃ gatau |', 'yuyudhātetisaṃrabdhau prahārairatidāruṇaiḥ'], 'num': '|| 15 ||', 'gloss': ''},
     {'padas': ['tato vegātkhamutpatya nipatya ca mṛgāriṇā |', 'karaprahāreṇa śiraścāmarasya pṛthakkṛtaṃ'], 'num': '|| 16 ||', 'gloss': ''},
     {'padas': ['udagraśca raṇe devyā śilāvṛkṣādibhirhataḥ |', 'daṃtamuṣṭitalaiścaiva karālaśca nipātitaḥ'], 'num': '|| 17 ||', 'gloss': ''},
-    {'padas': ['devī kruddhā gadāpātaiścūrṇayāmāsa coddhatam |', 'bāṣkalaṃ bhiṃdipālena bāṇaistāmraṃ tathāṃdhakam'], 'num': '|| 18 ||', 'gloss': ''},
+    {'padas': ['devī kruddhā gadāpātaiścūrṇayāmāsa coddhatam |', 'vāṣkalaṃ bhiṃdipālena bāṇaistāmraṃ tathāṃdhakam'], 'num': '|| 18 ||', 'gloss': ''},
     {'padas': ['ugrāsyamugravīryaṃ ca tathaiva ca mahāhanuṃ |', 'trinetrā ca triśūlena jaghāna parameśvarī'], 'num': '|| 19 ||', 'gloss': ''},
     {'padas': ['biḍālasyāsinā kāyātpātayāmāsa vai śiraḥ |', 'durdharaṃ durmukhaṃ cobhau śarairninye yamakṣayam'], 'num': '|| 20 ||', 'gloss': ''},
     {'padas': ['evaṃ saṃkṣīyamāṇe tu svasainye mahiṣāsuraḥ |', 'māhiṣeṇa svarūpeṇa trāsayāmāsa tāngaṇān'], 'num': '|| 21 ||', 'gloss': ''},
@@ -54,7 +55,7 @@ STOTRA = {
     {'padas': ['garja garja kṣaṇaṃ mūḍha madhu yāvatpibāmyahaṃ |', 'mayā tvayi hatetraiva garjiṣyaṃtyāśu devatāḥ'], 'num': '|| 38 ||', 'gloss': ''},
     {'padas': ['ṛṣiruvāca'], 'num': '|| 39 ||', 'gloss': ''},
     {'padas': ['evamuktvā samutpatya sārūḍhā taṃ mahāsuram |', 'pādenākramya kaṃṭhe ca śūlenainamatāḍayat'], 'num': '|| 40 ||', 'gloss': ''},
-    {'padas': ['tataḥ sopi padākrāṃtastayā nijamukhāttadā |', 'ardhaniṣkrānta evāsīddevyā vīryeṇa saṃvṛtaḥ'], 'num': '|| 41 ||', 'gloss': ''},
+    {'padas': ['tataḥ sopi padākrāṃtastayā nijamukhāttataḥ |', 'ardhaniṣkrānta evāsīddevyā vīryeṇa saṃvṛtaḥ'], 'num': '|| 41 ||', 'gloss': ''},
     {'padas': ['ardhaniṣkrāṃta evāsau yudhyamāno mahāsuraḥ |', 'tayā mahāsinā devyā śiraśchittvā nipātitaḥ'], 'num': '|| 42 ||', 'gloss': ''},
     {'padas': ['tato hāhākṛtaṃ sarvaṃ daityasainyaṃ nanāśa tat |', 'praharṣaṃ ca paraṃ jagmuḥ sakalā devatāgaṇāḥ'], 'num': '|| 43 ||', 'gloss': ''},
     {'padas': ['tuṣṭuvustāṃ surā devīṃ saha divyairmaharṣibhiḥ |', 'jagurgaṃdharvapatayo nanṛtuścāpsarogaṇāḥ'], 'num': '|| 44 ||', 'gloss': ''},

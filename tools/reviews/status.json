@@ -230,6 +230,125 @@
   "open": 0,
   "reviewer": "claude-fable-5-2"
  },
+ "saptashati": {
+  "coverage": "full",
+  "date": "2026-11-20",
+  "fixed": 1,
+  "open": 2,
+  "reviewer": "claude-opus-5-5"
+ },
+ "saptashati-01": {
+  "coverage": "full",
+  "date": "2026-11-20",
+  "fixed": 3,
+  "open": 1,
+  "reviewer": "claude-opus-5-5"
+ },
+ "saptashati-02": {
+  "coverage": "full",
+  "date": "2026-11-20",
+  "fixed": 1,
+  "open": 0,
+  "reviewer": "claude-opus-5-5"
+ },
+ "saptashati-03": {
+  "coverage": "full",
+  "date": "2026-11-20",
+  "fixed": 0,
+  "open": 0,
+  "reviewer": "claude-opus-5-5"
+ },
+ "saptashati-04": {
+  "coverage": "full",
+  "date": "2026-11-20",
+  "fixed": 0,
+  "open": 0,
+  "reviewer": "claude-opus-5-5"
+ },
+ "saptashati-05": {
+  "coverage": "full",
+  "date": "2026-11-20",
+  "fixed": 0,
+  "open": 0,
+  "reviewer": "claude-opus-5-5"
+ },
+ "saptashati-06": {
+  "coverage": "full",
+  "date": "2026-11-20",
+  "fixed": 0,
+  "open": 0,
+  "reviewer": "claude-opus-5-5"
+ },
+ "saptashati-07": {
+  "coverage": "full",
+  "date": "2026-11-20",
+  "fixed": 0,
+  "open": 0,
+  "reviewer": "claude-opus-5-5"
+ },
+ "saptashati-08": {
+  "coverage": "full",
+  "date": "2026-11-20",
+  "fixed": 1,
+  "open": 0,
+  "reviewer": "claude-opus-5-5"
+ },
+ "saptashati-09": {
+  "coverage": "full",
+  "date": "2026-11-20",
+  "fixed": 0,
+  "open": 0,
+  "reviewer": "claude-opus-5-5"
+ },
+ "saptashati-10": {
+  "coverage": "full",
+  "date": "2026-11-20",
+  "fixed": 1,
+  "open": 0,
+  "reviewer": "claude-opus-5-5"
+ },
+ "saptashati-11": {
+  "coverage": "full",
+  "date": "2026-11-20",
+  "fixed": 0,
+  "open": 0,
+  "reviewer": "claude-opus-5-5"
+ },
+ "saptashati-12": {
+  "coverage": "full",
+  "date": "2026-11-20",
+  "fixed": 0,
+  "open": 0,
+  "reviewer": "claude-opus-5-5"
+ },
+ "saptashati-13": {
+  "coverage": "full",
+  "date": "2026-11-20",
+  "fixed": 1,
+  "open": 0,
+  "reviewer": "claude-opus-5-5"
+ },
+ "saptashati-purva": {
+  "coverage": "full",
+  "date": "2026-11-20",
+  "fixed": 1,
+  "open": 1,
+  "reviewer": "claude-opus-5-5"
+ },
+ "saptashati-sukta": {
+  "coverage": "full",
+  "date": "2026-11-20",
+  "fixed": 0,
+  "open": 0,
+  "reviewer": "claude-opus-5-5"
+ },
+ "saptashati-uttara": {
+  "coverage": "full",
+  "date": "2026-11-20",
+  "fixed": 1,
+  "open": 1,
+  "reviewer": "claude-opus-5-5"
+ },
  "satyanarayana-vratakalpam": {
   "coverage": "full",
   "date": "2026-11-14",

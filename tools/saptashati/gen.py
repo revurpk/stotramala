@@ -34,12 +34,16 @@ HEADS = {"प्रथमचरित्रम्": "Prathama carita · first ep
          "प्राधानिकरहस्यम्": "Prādhānika Rahasya", "वैकृतिकरहस्यम्": "Vaikṛtika Rahasya",
          "मूर्तिरहस्यम्": "Mūrti Rahasya",
          "वैदिकं रात्रिसूक्तम्": "Rātri Sūkta · Ṛgveda 10.127", "वैदिकं देवीसूक्तम्": "Devī Sūkta · Ṛgveda 10.125"}
-SOURCE = ("Source: Saptaśatī, Nirṇaya Sāgara Press, Bombay, Śaka 1839 (1917 CE), "
-          "corrected by Vāsudeva Śarmā Paṇaśīkara (public domain; archive.org scan), "
-          "transcribed from the page images; numbering as printed; translations original")
-NOTE = ("The Durgā Saptaśatī (Devī Māhātmya) as printed by the Nirṇaya Sāgara Press in "
-        "1917, in its seven hundred mantras: each chapter counts its uvāca, half-verse "
-        "and verse mantras, and the numbers here are the print's. Translations will follow.")
+SOURCE = ("Source: Śrīdurgāsaptaśatī, Gita Press, Gorakhpur (code 118), for readings, "
+          "verse division and numbering; first transcribed from the Nirṇaya Sāgara print of "
+          "1917 (public domain), whose differing readings are listed in the repository; "
+          "translations original")
+SUKTA_SOURCE = ("Source: Saptaśatī, Nirṇaya Sāgara Press, Bombay, Śaka 1839 (1917 CE), "
+                "corrected by Vāsudeva Śarmā Paṇaśīkara (public domain; archive.org scan), "
+                "with the accented Ṛgveda text (Sanskrit Wikisource); translations original")
+NOTE = ("The Durgā Saptaśatī (Devī Māhātmya) in its seven hundred mantras, with the text "
+        "of the Gita Press Śrīdurgāsaptaśatī: each chapter counts its uvāca, half-verse "
+        "and verse mantras, and the numbers here are that edition's. Translations will follow.")
 
 
 SUKTA_NOTE = ("The two Ṛgveda hymns recited around the Saptaśatī — the Rātri Sūkta before it, "
@@ -92,7 +96,7 @@ def write(slug, st, force):
     secs = st.pop("sections")
     body = ["# -*- coding: utf-8 -*-",
             "# Copyright 2026 Pradyumna Revur — CC BY 4.0 (see LICENSE)",
-            "# Durgā Saptaśatī, 1917 Nirṇaya Sāgara print → IAST; written by",
+            "# Durgā Saptaśatī, Gita Press text (sūktas: 1917 print) → IAST; written by",
             "# tools/saptashati/gen.py from tools/saptashati/text. See SOURCES §5.26.",
             "", "STOTRA = {"]
     for k, v in st.items():
@@ -133,6 +137,7 @@ def main(argv):
         if any(isinstance(s, dict) and re.search("[_^]", " ".join(s.get("padas", []))) for s in secs):
             st["script"] = "dev"                          # accented: open in Devanāgarī, like Mahānyāsam
             st["note"] = SUKTA_NOTE
+            st["footer"] = SUKTA_SOURCE
         if write(slug, st, force):
             written.append(slug)
     st = {"deity": "devi", "doc_title": "Durgā Saptaśatī", "app_title": "Durgā Saptaśatī",

@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # Copyright 2026 Pradyumna Revur — CC BY 4.0 (see LICENSE)
-# Durgā Saptaśatī, 1917 Nirṇaya Sāgara print → IAST; written by
+# Durgā Saptaśatī, Gita Press text (sūktas: 1917 print) → IAST; written by
 # tools/saptashati/gen.py from tools/saptashati/text. See SOURCES §5.26.
 
 STOTRA = {
@@ -9,11 +9,12 @@ STOTRA = {
     "app_title": "Saptaśatī · Chapter 6",
     "h1": "Durgā Saptaśatī",
     "subtitle": "Chapter 6 · Dhūmralocana",
-    "note": "The Durgā Saptaśatī (Devī Māhātmya) as printed by the Nirṇaya Sāgara Press in 1917, in its seven hundred mantras: each chapter counts its uvāca, half-verse and verse mantras, and the numbers here are the print's. Translations will follow.",
+    "note": "The Durgā Saptaśatī (Devī Māhātmya) in its seven hundred mantras, with the text of the Gita Press Śrīdurgāsaptaśatī: each chapter counts its uvāca, half-verse and verse mantras, and the numbers here are that edition's. Translations will follow.",
     "nav": [("‹ previous", "saptashati-05-iast.html"), ("contents", "saptashati-iast.html"), ("next ›", "saptashati-07-iast.html")],
     "toc": False,
-    "footer": "Source: Saptaśatī, Nirṇaya Sāgara Press, Bombay, Śaka 1839 (1917 CE), corrected by Vāsudeva Śarmā Paṇaśīkara (public domain; archive.org scan), transcribed from the page images; numbering as printed; translations original",
+    "footer": "Source: Śrīdurgāsaptaśatī, Gita Press, Gorakhpur (code 118), for readings, verse division and numbering; first transcribed from the Nirṇaya Sāgara print of 1917 (public domain), whose differing readings are listed in the repository; translations original",
     "sections": [
+    {'padas': ['oṃ nāgādhīśvaraviṣṭarāṃ phaṇiphaṇottaṃsoruratnāvalī-', 'bhāsvaddehalatāṃ divākaranibhāṃ netratrayodbhāsitām |', 'mālākuṃbhakapālanīrajakarāṃ caṃdrārdhacūḍāṃ parāṃ', 'sarvajñeśvarabhairavāṃkanilayāṃ padmāvatīṃ ciṃtaye'], 'num': '', 'gloss': ''},
     {'padas': ['ṛṣiruvāca'], 'num': '|| 1 ||', 'gloss': ''},
     {'padas': ['ityākarṇya vaco devyāḥ sa dūtomarṣapūritaḥ |', 'samācaṣṭa samāgamya daityarājāya vistarāt'], 'num': '|| 2 ||', 'gloss': ''},
     {'padas': ['tasya dūtasya tadvākyamākarṇyāsurarāṭ tataḥ |', 'sakrodhaḥ prāha daityānāmadhipaṃ dhūmralocanam'], 'num': '|| 3 ||', 'gloss': ''},
@@ -26,10 +27,10 @@ STOTRA = {
     {'padas': ['devyuvāca'], 'num': '|| 10 ||', 'gloss': ''},
     {'padas': ['daityeśvareṇa prahito balavānbalasaṃvṛtaḥ |', 'balānnayasi māmevaṃ tataḥ kiṃ te karomyaham'], 'num': '|| 11 ||', 'gloss': ''},
     {'padas': ['ṛṣiruvāca'], 'num': '|| 12 ||', 'gloss': ''},
-    {'padas': ['ityuktaḥ sobhyadhāvattāmasuro dhūmralocanaḥ |', 'huṃkāreṇaiva taṃ bhasma sā cakārāṃbikā tadā'], 'num': '|| 13 ||', 'gloss': ''},
+    {'padas': ['ityuktaḥ sobhyadhāvattāmasuro dhūmralocanaḥ |', 'huṃkāreṇaiva taṃ bhasma sā cakārāṃbikā tataḥ'], 'num': '|| 13 ||', 'gloss': ''},
     {'padas': ['atha kruddhaṃ mahāsainyamasurāṇāṃ tathāmbikā |', 'vavarṣa sāyakaistīkṣṇaistathā śaktiparaśvadhaiḥ'], 'num': '|| 14 ||', 'gloss': ''},
     {'padas': ['tato dhutasaṭaḥ kopātkṛtvā nādaṃ subhairavam |', 'papātāsurasenāyāṃ siṃho devyāḥ svavāhanaḥ'], 'num': '|| 15 ||', 'gloss': ''},
-    {'padas': ['kāṃścitkaraprahāreṇa daityānāsyena cāparān |', 'ākrāṃtyā cādhareṇānyānjaghāna sa mahāsurān'], 'num': '|| 16 ||', 'gloss': ''},
+    {'padas': ['kāṃścitkaraprahāreṇa daityānāsyena cāparān |', 'ākramya cādhareṇānyān sa jaghāna mahāsurān'], 'num': '|| 16 ||', 'gloss': ''},
     {'padas': ['keṣāṃcitpāṭayāmāsa nakhaiḥ koṣṭhāni kesarī |', 'tathā talaprahāreṇa śirāṃsi kṛtavānpṛthak'], 'num': '|| 17 ||', 'gloss': ''},
     {'padas': ['vicchinnabāhuśirasaḥ kṛtāstena tathāpare |', 'papau ca rudhiraṃ koṣṭhādanyeṣāṃ dhutakesaraḥ'], 'num': '|| 18 ||', 'gloss': ''},
     {'padas': ['kṣaṇena tadbalaṃ sarvaṃ kṣayaṃ nītaṃ mahātmanā |', 'tena kesariṇā devyā vāhanenātikopinā'], 'num': '|| 19 ||', 'gloss': ''},

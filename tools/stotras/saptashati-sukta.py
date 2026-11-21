@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # Copyright 2026 Pradyumna Revur — CC BY 4.0 (see LICENSE)
-# Durgā Saptaśatī, 1917 Nirṇaya Sāgara print → IAST; written by
+# Durgā Saptaśatī, Gita Press text (sūktas: 1917 print) → IAST; written by
 # tools/saptashati/gen.py from tools/saptashati/text. See SOURCES §5.26.
 
 STOTRA = {
@@ -12,7 +12,7 @@ STOTRA = {
     "note": "The two Ṛgveda hymns recited around the Saptaśatī — the Rātri Sūkta before it, the Devī Sūkta after — with their svaras. The page opens in Devanāgarī, where the accents are printed; Telugu draws them; IAST omits them.",
     "nav": [("‹ previous", "saptashati-purva-iast.html"), ("contents", "saptashati-iast.html"), ("next ›", "saptashati-01-iast.html")],
     "toc": True,
-    "footer": "Source: Saptaśatī, Nirṇaya Sāgara Press, Bombay, Śaka 1839 (1917 CE), corrected by Vāsudeva Śarmā Paṇaśīkara (public domain; archive.org scan), transcribed from the page images; numbering as printed; translations original",
+    "footer": "Source: Saptaśatī, Nirṇaya Sāgara Press, Bombay, Śaka 1839 (1917 CE), corrected by Vāsudeva Śarmā Paṇaśīkara (public domain; archive.org scan), with the accented Ṛgveda text (Sanskrit Wikisource); translations original",
     "script": "dev",
     "sections": [
     {'heading': 'Rātri Sūkta · Ṛgveda 10.127'},

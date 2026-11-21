@@ -1,0 +1,164 @@
+{
+ "series": "saptashati",
+ "reviewer": "claude-opus-5-5",
+ "date": "2026-11-20",
+ "coverage": "full",
+ "scope": "Source collation, not a translation review: the Sanskrit of all 13 chapters, the dhyānas and viniyogas, and the six aṅgas was compared word by word with the Gita Press Śrīdurgāsaptaśatī (code 118, the user's PDF, decoded from its Chanakya font), and the site's text was re-based on it. Word glosses were re-mapped, and every verse whose text changed had its gloss checked and corrected; glosses of unchanged verses were not re-read. The Vedic sūktas were compared (same words; Gita Press has no svaras) and left as they were. There are no translations to review.",
+ "items": [
+  {
+   "slug": "saptashati-01",
+   "unit": 0,
+   "area": "source",
+   "status": "fixed",
+   "issue": "The user asked for the Saptaśatī to follow the Gita Press Śrīdurgāsaptaśatī (code 118) as the authentic reference; the site followed the 1917 Nirṇaya Sāgara print and had deliberately kept its ~80 variants (tools/saptashati/gitapress.tsv).",
+   "change": "All 13 chapters now carry the Gita Press readings and half-verse division, keeping the site's anusvāra spelling where words agree; each change checked on the PDF page image where the font decoding was doubtful. Colophon check passes for all 13; running total ७००. gitapress.tsv now lists the replaced 1917 readings.",
+   "decision": ""
+  },
+  {
+   "slug": "saptashati-02",
+   "unit": 0,
+   "area": "text",
+   "status": "fixed",
+   "issue": "Gita Press lacks 2.20's half-verse tato devā daduḥ… and has kabandhā yuyudhurdevyā gṛhītaparamāyudhāḥ at 2.63; 2.55–63 pair their half-verses differently.",
+   "change": "Structure and readings now as in Gita Press (pp. 79, 84–86); śyenānukāriṇaḥ for senānukāriṇaḥ.",
+   "decision": ""
+  },
+  {
+   "slug": "saptashati-10",
+   "unit": 0,
+   "area": "text",
+   "status": "fixed",
+   "issue": "Gita Press lacks 10.18's aśvāṃśca pātayāmāsa rathaṃ sārathinā saha and adds jajvaluścāgnayaḥ śāntāḥ śāntā digjanitasvanāḥ as 10.32.",
+   "change": "As in Gita Press (pp. 156–158), with its closing oṃ.",
+   "decision": ""
+  },
+  {
+   "slug": "saptashati-13",
+   "unit": 0,
+   "area": "text",
+   "status": "fixed",
+   "issue": "Gita Press numbers the end of chapter 13 as 27 (half), 28 (verse), 29 (half) and repeats the closing verse unnumbered with klīṃ oṃ; its colophon counts are uvāca 6, ardha 11, śloka 12 (1917: 6, 7, 16).",
+   "change": "As in Gita Press (p. 182); the repeat is an unnumbered line; the colophon counts are updated and check.py passes.",
+   "decision": ""
+  },
+  {
+   "slug": "saptashati-08",
+   "unit": 7,
+   "area": "text",
+   "status": "fixed",
+   "issue": "8.6: the earlier collation recorded Gita Press as maurvāḥ, but code 118 prints mauryāḥ (p. 135).",
+   "change": "mauryāḥ, kālakeyāḥ as printed in code 118.",
+   "decision": ""
+  },
+  {
+   "slug": "saptashati-01",
+   "unit": 0,
+   "area": "text",
+   "status": "fixed",
+   "issue": "Chapter heads: Gita Press gives a viniyoga for each carita and a dhyāna before every chapter; the site had the 1917 viniyogas, a full dhyāna only for chapter 1 and cues for 2 and 5.",
+   "change": "Viniyogas (chapters 1, 2, 5) and all 13 dhyānas now as in Gita Press, with word glosses for each.",
+   "decision": ""
+  },
+  {
+   "slug": "saptashati-purva",
+   "unit": 0,
+   "area": "text",
+   "status": "fixed",
+   "issue": "Kavaca, Argalā and Kīlaka are a different recension in Gita Press: Kavaca 56 verses (1917: 50), Argalā 25 (23), many readings and some verse order differ.",
+   "change": "Re-keyed from Gita Press pp. 19–39 (verses, order, numbering, colophons); our spelling kept where words agree; glosses carried over and the new or changed verses glossed.",
+   "decision": ""
+  },
+  {
+   "slug": "saptashati-uttara",
+   "unit": 0,
+   "area": "text",
+   "status": "fixed",
+   "issue": "The three Rahasyas differ in Gita Press: Prādhānika 31 verses (29), Mūrti 25 (22) plus three closing lines in brackets, and many readings.",
+   "change": "Re-keyed from Gita Press pp. 192–213, bracketed lines included in brackets; glosses carried over and the new or changed verses glossed.",
+   "decision": ""
+  },
+  {
+   "slug": "saptashati-01",
+   "unit": 0,
+   "area": "words",
+   "status": "fixed",
+   "issue": "Word glosses are keyed by verse position; regrouped half-verses, new dhyānas and changed readings left glosses misplaced or wrong.",
+   "change": "Glosses re-mapped to the new verse positions by text alignment; every verse whose text changed was checked and corrected by hand (all 15 pages: 912/912 glossed).",
+   "decision": ""
+  },
+  {
+   "slug": "saptashati",
+   "unit": 0,
+   "area": "wiring",
+   "status": "fixed",
+   "issue": "Note, footer, README and index described the text as the 1917 print.",
+   "change": "Generator note/footer, README, index and SOURCES §5.26 now name Gita Press as the reference text (the sūkta page keeps its 1917/Ṛgveda footer).",
+   "decision": ""
+  },
+  {
+   "slug": "saptashati-purva",
+   "unit": 0,
+   "area": "text",
+   "status": "open",
+   "issue": "Gita Press prints no viniyoga for the Kavaca, Argalā, Kīlaka or the Rahasyas, so the 1917 viniyogas (e.g. asya śrīcaṇḍīkavacasya brahmā ṛṣiḥ…) were dropped along with their glosses (recoverable from git).",
+   "options": [
+    "A Leave them out, as in Gita Press.",
+    "B Restore the 1917 viniyogas above each aṅga, marked as from the 1917 print."
+   ],
+   "recommend": "A, since the request was to follow Gita Press; B if you recite with them.",
+   "decision": ""
+  },
+  {
+   "slug": "saptashati-01",
+   "unit": 83,
+   "area": "text",
+   "status": "open",
+   "issue": "1.80: Gita Press prints khaṅginī (खङ्गिनी); the site kept khaḍginī as a spelling of the same word.",
+   "options": [
+    "A Keep khaḍginī.",
+    "B Take khaṅginī as printed."
+   ],
+   "recommend": "A: the same word, and khaḍga is how every other place spells it.",
+   "decision": ""
+  },
+  {
+   "slug": "saptashati",
+   "unit": 0,
+   "area": "source",
+   "status": "open",
+   "issue": "Gita Press marks many readings with footnotes (पा॰, e.g. 9.37, 12.22, 13.23) giving alternatives, often the 1917 reading. These footnotes were not transcribed.",
+   "options": [
+    "A Leave as is; gitapress.tsv already lists the 1917 readings.",
+    "B Transcribe the Gita Press footnotes into gitapress.tsv as a further column."
+   ],
+   "recommend": "A.",
+   "decision": ""
+  },
+  {
+   "slug": "saptashati",
+   "unit": 0,
+   "area": "source",
+   "status": "open",
+   "issue": "Gita Press also contains matter that is not on the site: Devyatharvaśīrṣa, the Tantric Rātri and Devī Sūktas, the navārṇa nyāsa and procedure, Siddhakuñjikā, Durgā-dvātriṃśannāmamālā, Devyaparādhakṣamāpana and the other closing hymns.",
+   "options": [
+    "A Leave the site's scope as it is.",
+    "B Add some or all of these as further pages from the same PDF."
+   ],
+   "recommend": "A for now; B is a separate piece of work.",
+   "decision": ""
+  },
+  {
+   "slug": "saptashati-uttara",
+   "unit": 0,
+   "area": "text",
+   "status": "open",
+   "issue": "Gita Press prints three passages in brackets, which suggests they are interpolations: Vaikṛtika 28 (balimāṃsādipūjeyaṃ…), Mūrti 11 (bhuktvā bhogān yathākāmaṃ…) and the three lines after Mūrti 25 (etasyāstvaṃ prasādena…). They are included, in brackets.",
+   "options": [
+    "A Keep them, in brackets, as Gita Press prints them.",
+    "B Drop them."
+   ],
+   "recommend": "A.",
+   "decision": ""
+  }
+ ]
+}
