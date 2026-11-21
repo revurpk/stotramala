@@ -1555,9 +1555,36 @@ Wikisource base texts (entries checked against the glyph pieces; learned
 artefacts of the base's Andhra spellings — వ్వైఁ, ఱ, ద్ధ్య, థ్స — corrected to
 what the glyphs show), and each svara mark was attached by position to the
 akṣara beneath or above it; two strokes on one akṣara are the dīrgha svarita
-(᳚, `^^`). Every line was then read against the page images. Where the
-print marks a svara after a final consonant, the mark is stored after the
-vowel (`mahāṃta^^m`).
+(᳚, `^^`). Where the print marks a svara after a final consonant, the mark
+is stored after the vowel (`mahāṃta^^m`).
+
+**Proofreading (2026-11-21).** Every printed line of the five Gita Press
+texts (about 400 lines) was then proofread side by side: each line cropped
+from the page, with the page's text rendered beneath it in Telugu with the
+svaras drawn as Gita Press prints them, read akṣara by akṣara. This found
+and fixed decoder faults, not Gita Press's, and each fix was traced back to
+the decoder and re-run over every page:
+- six glyph groups decoded wrongly (క్షీ as క్షి, త్పి as త్ప, ళాం as లాం,
+  ళ్య as ల్య, ద్భ్య as ద్భ్యః, తై as తైః; also య్యోః for యోః), giving e.g.
+  Śrī *kṣutpipāsā* (8), *piṅgaḷāṃ* (13), *padmākṣī* (18, twice, as printed),
+  *padmapatrāyatākṣī*, *sarvamāṃgaḷya*, *khacitai ssnāpitā* (27), Durgā
+  *śaṃyoḥ* (3), *vairocanīṃ* (2) and *vaiṣṇavīṃ* (7);
+- the text extractor dropped one of two overlapping identical glyphs, so a
+  dīrgha svarita whose two strokes are set 1.4pt apart had been read as a
+  plain svarita: restored in Nārāyaṇa *yo^^'gne* (15), *paryā^^* (38) and
+  the parenthetical *oṃ^^ tadbrahma | oṃ^^ tadvāyuḥ*, Śrī *karīṣiṇī^^m* (9),
+  Manyu *abhī^^hi* (3), *ma^^nyo* (4), *taṃtvā^^* (5), *mimā^^no* (9);
+- two drawn anudātta bars sitting 2pt below the baseline had fallen outside
+  the attachment window: Puruṣa *rū_pāṇi^ vi_citya_* (16);
+- Manyu *ivānavabra_vo_3* (12), where the undecoded pluta glyph had taken
+  both bars;
+- the Manyu viniyoga and nyāsa, typed from the page, had been standardised
+  (*chandaḥ*, *aṅguṣṭhābhyāṃ*, *apanilayantāṃ*, *digbandhaḥ*); they now
+  follow the print (*jagatīchaṃdaḥ*, *aṃguṣṭhābhyāṃ*, *apanilayaṃtāṃ*,
+  *digbaṃdhaḥ*).
+Readings confirmed against the image and kept: Puruṣa *ā_di_tya_varṇaṃ* (16,
+with the bar under త్య), Manyu *rudhreva śīvaśa* (10), Nārāyaṇa *śīrṣṇo*,
+*kṛṣṇa piṃgaḷam*, Manyu *īḷate*.
 
 **What the pages follow.** Gita Press throughout — its readings, sandhi and
 spellings (e.g. Puruṣa *jyāyāgśca*, *paśūgstāgś*, *mahimānassacante*,
@@ -1577,13 +1604,31 @@ which the print runs as paragraphs, is numbered by its seven ṛcs and gāyatrī
 - Durgā: జష్టాం → *juṣṭāṃ* (2); సిధుం → *sindhuṃ* (4); సధస్తాత్ →
   *sadhasthāt* (5), where an anudātta printed under the same akṣara as its
   dīrgha svarita was dropped as impossible.
+- Manyu viniyoga: మన్యు ఋషిః / మన్యుఋషిః → *manyurṛṣiḥ* (twice; the *r* of
+  *manyuḥ ṛṣiḥ* is dropped in the print).
+- Nārāyaṇa: ఏకరాదితి → *ekarāḍiti* (39) and కామప్ర్యే → *kāmapre* (40), both
+  as in the Aitareya Brāhmaṇa (8.15, 8.21) passage the mantras quote.
+- Normalisations of how the print places a mark, not of the reading:
+  Nārāyaṇa *śīrṣaṃ^* (1; the stroke is printed over the raised reph of
+  శీర్షం), *vibha^ja_n* (9) and Śrī *rāṣṭre_'smi_nkī_rti_* (7), where a second
+  bar under a word-final halant duplicates the one on the next akṣara;
+  Nārāyaṇa *hiraṇyapataye'mbikā* (35) for the print's ఽంబికా, whose anusvāra
+  stands for the *m* (it would otherwise render on a dotted circle). The
+  *(oṃ)* of the repeated Tatpuruṣa gāyatrī (34) is kept in parentheses as
+  printed.
+- Śrī 32: the print's division *saktumiva titaunāpunanto* is set as *saktu^miva_
+  tita^unā pu_naṃto_*; an undecodable glyph in 28 is read కుటుంబినీం from the
+  image (*trailokya kuṭuṃbinīṃ*).
 - Spacing joined where the print breaks a word across a line or a footnote
   mark (*utāmṛtatvasyeśānaḥ*, *kṛtvā'bhivadan*, *yastvaivaṃ*, *tanno durgiḥ
   pracodayāt*). The Manyu pluta is written *vo3* as in the Ṛgveda.
 
 **Medhā Sūkta.** Not in the Pañcasūkta, so it follows the accented
 Taittirīya Āraṇyaka on Wikisource alone (anuvākas 39–42 of that edition's
-book 10), keeping its Andhra spellings (*aphsarāsu*, *citravviṁndate*).
+book 10), keeping its Andhra spellings (*aphsarāsu*, *citravviṁndate*). Its
+rendered Devanāgarī was compared akṣara for akṣara with that source and
+agrees, except that the source's candrabindu (विँ) shows as an anusvāra, the
+site's convention for the anunāsika.
 **Śrī Sūkta.** Wikisource's text is unaccented, so the svaras are wholly
 Gita Press's; the words agree with it apart from Gita Press's readings.
 

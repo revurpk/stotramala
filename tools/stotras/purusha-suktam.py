@@ -52,7 +52,7 @@ STOTRA = {
            "When they divided the Puruṣa, into how many parts did they arrange him? What was his mouth, what his arms, what his thighs and his feet called?"),
         _v(["nābhyā^ āsīdaṃ_tari^kṣam |", "śī_rṣṇodyau ssama^vartata |", "pa_dbhyāṃ bhūmi_rdiśa_śśrotrā^^t |", "tathā^ lo_kāgṃ a^kalpayan"], "|| 15 ||",
            "The brāhmaṇa was his mouth; the rājanya (kṣatriya) was made from his arms; his thighs became the vaiśya; from his feet the śūdra was born."),
-        _v(["vedā_ha me_taṃ puru^ṣaṃ ma_hāṃta^^m |", "ā_di_tya_va^rṇaṃ_ tama^sa_stu pā_re |", "sarvā^ṇi rūpāṇi^ vicitya_ dhīraḥ^ |", "nāmā^ni kṛ_tvā'bhi_vada_n yadāste^^"], "|| 16 ||",
+        _v(["vedā_ha me_taṃ puru^ṣaṃ ma_hāṃta^^m |", "ā_di_tya_va^rṇaṃ_ tama^sa_stu pā_re |", "sarvā^ṇi rū_pāṇi^ vi_citya_ dhīraḥ^ |", "nāmā^ni kṛ_tvā'bhi_vada_n yadāste^^"], "|| 16 ||",
            "I know this great Puruṣa, coloured like the sun, beyond the darkness — the wise one who, having fashioned all forms and made their names, abides calling them by name."),
         _v(["dhā_tā pu_rastā_dyamu^dāja_hāra^ |", "śa_kraḥ pra^vi_dvān pra_di^śa_ ścata^sraḥ |", "tame_vaṃ vi_dvā na_mṛta^ i_ha bha^vati |", "nānyaḥ panthā_ aya^nāya vidyate"], "|| 17 ||",
            "He whom Dhātṛ, the Ordainer, proclaimed in the beginning, whom Śakra, knowing, proclaimed to the four quarters — one who knows him thus becomes immortal here; there is no other path for the going."),
