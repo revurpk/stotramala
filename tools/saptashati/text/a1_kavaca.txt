@@ -3,7 +3,9 @@
 # text since 2026-11; the 1917 Nirṇaya Sāgara transcription it replaced is in git
 # history. Our anusvāra spelling is kept where the words agree; a speaker line is
 # unnumbered here (0).
+# The viniyoga (@V) is the 1917 print's; Gita Press prints none for this aṅga.
 @H देवीकवचम्
+@V अस्य श्रीचंडीकवचस्य ब्रह्मा ऋषिः । अनुष्टुप् छंदः । चामुंडा देवता । अंगन्यासोक्तमातरो बीजं । दिग्बंधदेवतास्तत्त्वं । श्रीजगदंबाप्रीत्यर्थे सप्तशतीपाठांगजपे विनियोगः ॥
 @P ॐ नमश्चण्डिकायै ॥
 0 | मार्कण्डेय उवाच
 1 | ॐ यद्गुह्यं परमं लोके सर्वरक्षाकरं नृणाम् । | यन्न कस्यचिदाख्यातं तन्मे ब्रूहि पितामह

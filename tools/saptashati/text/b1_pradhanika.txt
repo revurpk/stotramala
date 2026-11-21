@@ -3,7 +3,9 @@
 # text since 2026-11; the 1917 Nirṇaya Sāgara transcription it replaced is in git
 # history. Our anusvāra spelling is kept where the words agree; a speaker line is
 # unnumbered here (0).
+# The viniyoga (@V) is the 1917 print's; Gita Press prints none for this aṅga.
 @H प्राधानिकरहस्यम्
+@V अस्य श्रीसप्तशतीरहस्यत्रयस्य ब्रह्मविष्णुरुद्रा ऋषयः । महाकालीमहालक्ष्मीमहासरस्वत्यो देवताः । अनुष्टुप् छंदः । नवदुर्गा महालक्ष्मीर्बीजं । श्रीं शक्तिः । ममाभीष्टफलसिद्धये सप्तशतीपाठांते जपे विनियोगः ॥
 0 | राजोवाच
 1 | भगवन्नवतारा मे चंडिकायास्त्वयोदिताः । | एतेषां प्रकृतिं ब्रह्मन्प्रधानं वक्तुमर्हसि
 2 | आराध्यं यन्मया देव्याः स्वरूपं येन च द्विज । | विधिना ब्रूहि सकलं यथावत्प्रणतस्य मे

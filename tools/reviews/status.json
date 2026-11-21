@@ -233,15 +233,15 @@
  "saptashati": {
   "coverage": "full",
   "date": "2026-11-20",
-  "fixed": 1,
-  "open": 2,
+  "fixed": 2,
+  "open": 1,
   "reviewer": "claude-opus-5-5"
  },
  "saptashati-01": {
   "coverage": "full",
   "date": "2026-11-20",
-  "fixed": 3,
-  "open": 1,
+  "fixed": 4,
+  "open": 0,
   "reviewer": "claude-opus-5-5"
  },
  "saptashati-02": {
@@ -331,8 +331,8 @@
  "saptashati-purva": {
   "coverage": "full",
   "date": "2026-11-20",
-  "fixed": 1,
-  "open": 1,
+  "fixed": 2,
+  "open": 0,
   "reviewer": "claude-opus-5-5"
  },
  "saptashati-sukta": {
@@ -345,8 +345,8 @@
  "saptashati-uttara": {
   "coverage": "full",
   "date": "2026-11-20",
-  "fixed": 1,
-  "open": 1,
+  "fixed": 2,
+  "open": 0,
   "reviewer": "claude-opus-5-5"
  },
  "satyanarayana-vratakalpam": {

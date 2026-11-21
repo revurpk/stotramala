@@ -15,6 +15,7 @@ STOTRA = {
     "footer": "Source: Śrīdurgāsaptaśatī, Gita Press, Gorakhpur (code 118), for readings, verse division and numbering; first transcribed from the Nirṇaya Sāgara print of 1917 (public domain), whose differing readings are listed in the repository; translations original",
     "sections": [
     {'heading': 'Prādhānika Rahasya'},
+    {'padas': ['asya śrīsaptaśatīrahasyatrayasya brahmaviṣṇurudrā ṛṣayaḥ | mahākālīmahālakṣmīmahāsarasvatyo devatāḥ | anuṣṭup chaṃdaḥ | navadurgā mahālakṣmīrbījaṃ | śrīṃ śaktiḥ | mamābhīṣṭaphalasiddhaye saptaśatīpāṭhāṃte jape viniyogaḥ ||'], 'num': '', 'gloss': '', 'prose': True},
     {'speaker': 'rājovāca'},
     {'padas': ['bhagavannavatārā me caṃḍikāyāstvayoditāḥ |', 'eteṣāṃ prakṛtiṃ brahmanpradhānaṃ vaktumarhasi'], 'num': '|| 1 ||', 'gloss': ''},
     {'padas': ['ārādhyaṃ yanmayā devyāḥ svarūpaṃ yena ca dvija |', 'vidhinā brūhi sakalaṃ yathāvatpraṇatasya me'], 'num': '|| 2 ||', 'gloss': ''},

@@ -3,7 +3,9 @@
 # text since 2026-11; the 1917 Nirṇaya Sāgara transcription it replaced is in git
 # history. Our anusvāra spelling is kept where the words agree; a speaker line is
 # unnumbered here (0).
+# The viniyoga (@V) is the 1917 print's; Gita Press prints none for this aṅga.
 @H कीलकस्तोत्रम्
+@V अस्य श्रीकीलकमंत्रस्य शिव ऋषिः । अनुष्टुप् छंदः । श्रीमहासरस्वती देवता । श्रीजगदंबाप्रीत्यर्थं सप्तशतीपाठांगजपे विनियोगः ॥
 @P ॐ नमश्चण्डिकायै ॥
 0 | मार्कण्डेय उवाच
 1 | ॐ विशुद्धज्ञानदेहाय त्रिवेदीदिव्यचक्षुषे । | श्रेयःप्राप्तिनिमित्ताय नमः सोमार्धधारिणे

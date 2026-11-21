@@ -897,8 +897,9 @@ before it was taken. What changed:
 - *Aṅgas.* Kavaca, Argalā, Kīlaka and the three Rahasyas were re-keyed from
   Gita Press: its verses, order, numbering and colophons, including the lines
   it prints in brackets (Vaikṛtika 28, Mūrti 11 and the closing three lines of
-  the Mūrti Rahasya). Gita Press prints no viniyoga for these, so the 1917
-  viniyogas were dropped.
+  the Mūrti Rahasya). Gita Press prints no viniyoga for these; at the
+  maintainer's decision the 1917 viniyogas (Kavaca, Argalā, Kīlaka, and the
+  one for the three Rahasyas) are kept above them.
 - *Spelling.* The site's anusvāra spelling is kept wherever the words agree;
   where a Gita Press word replaced a 1917 one, its class nasal is written as
   anusvāra. Gita Press's *khaṅginī* (1.80) is kept as *khaḍginī*.
@@ -925,7 +926,8 @@ thirteen agree exactly, and the running total ends at ७०० (104 · 69 · 44
 42 · 129 · 24 · 27 · 63 · 41 · 32 · 55 · 41 · 29).
 
 **What the pages include.** Before the text: the Devī Kavaca (56 verses),
-Argalā (25) and Kīlaka (14), as Gita Press gives them. Each chapter opens with
+Argalā (25) and Kīlaka (14), as Gita Press gives them, each with the 1917
+print's viniyoga. Each chapter opens with
 its dhyāna, and each carita with its viniyoga. After the text: the
 Prādhānika (31), Vaikṛtika (39) and Mūrti (25) Rahasyas. (In the 1917 print:
 Kavaca 50, Argalā 23, Prādhānika 29, Mūrti 22, each aṅga with a viniyoga.) Not yet included:

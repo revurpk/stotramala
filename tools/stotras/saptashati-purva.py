@@ -15,6 +15,7 @@ STOTRA = {
     "footer": "Source: Śrīdurgāsaptaśatī, Gita Press, Gorakhpur (code 118), for readings, verse division and numbering; first transcribed from the Nirṇaya Sāgara print of 1917 (public domain), whose differing readings are listed in the repository; translations original",
     "sections": [
     {'heading': 'Devī Kavaca'},
+    {'padas': ['asya śrīcaṃḍīkavacasya brahmā ṛṣiḥ | anuṣṭup chaṃdaḥ | cāmuṃḍā devatā | aṃganyāsoktamātaro bījaṃ | digbaṃdhadevatāstattvaṃ | śrījagadaṃbāprītyarthe saptaśatīpāṭhāṃgajape viniyogaḥ ||'], 'num': '', 'gloss': '', 'prose': True},
     {'padas': ['oṃ namaścaṇḍikāyai ||'], 'num': '', 'gloss': '', 'prose': True},
     {'speaker': 'mārkaṇḍeya uvāca'},
     {'padas': ['oṃ yadguhyaṃ paramaṃ loke sarvarakṣākaraṃ nṛṇām |', 'yanna kasyacidākhyātaṃ tanme brūhi pitāmaha'], 'num': '|| 1 ||', 'gloss': ''},
@@ -77,6 +78,7 @@ STOTRA = {
     {'colophon': 'iti devyāḥ kavacaṃ saṃpūrṇam'},
     'ornament',
     {'heading': 'Argalā Stotra'},
+    {'padas': ['asya śrīargalāstotramaṃtrasya viṣṇurṛṣiḥ | anuṣṭup chaṃdaḥ | śrīmahālakṣmīrdevatā | śrījagadaṃbāprītaye saptaśatīpāṭhāṃgajape viniyogaḥ ||'], 'num': '', 'gloss': '', 'prose': True},
     {'padas': ['oṃ namaścaṇḍikāyai ||'], 'num': '', 'gloss': '', 'prose': True},
     {'speaker': 'mārkaṇḍeya uvāca'},
     {'padas': ['jayantī maṅgalā kālī bhadrakālī kapālinī |', 'durgā kṣamā śivā dhātrī svāhā svadhā namostu te'], 'num': '|| 1 ||', 'gloss': ''},
@@ -107,6 +109,7 @@ STOTRA = {
     {'colophon': 'iti devyā argalāstotraṃ saṃpūrṇam'},
     'ornament',
     {'heading': 'Kīlaka Stotra'},
+    {'padas': ['asya śrīkīlakamaṃtrasya śiva ṛṣiḥ | anuṣṭup chaṃdaḥ | śrīmahāsarasvatī devatā | śrījagadaṃbāprītyarthaṃ saptaśatīpāṭhāṃgajape viniyogaḥ ||'], 'num': '', 'gloss': '', 'prose': True},
     {'padas': ['oṃ namaścaṇḍikāyai ||'], 'num': '', 'gloss': '', 'prose': True},
     {'speaker': 'mārkaṇḍeya uvāca'},
     {'padas': ['oṃ viśuddhajñānadehāya trivedīdivyacakṣuṣe |', 'śreyaḥprāptinimittāya namaḥ somārdhadhāriṇe'], 'num': '|| 1 ||', 'gloss': ''},

@@ -99,40 +99,43 @@
    "slug": "saptashati-purva",
    "unit": 0,
    "area": "text",
-   "status": "open",
+   "status": "fixed",
    "issue": "Gita Press prints no viniyoga for the Kavaca, Argalā, Kīlaka or the Rahasyas, so the 1917 viniyogas (e.g. asya śrīcaṇḍīkavacasya brahmā ṛṣiḥ…) were dropped along with their glosses (recoverable from git).",
    "options": [
     "A Leave them out, as in Gita Press.",
     "B Restore the 1917 viniyogas above each aṅga, marked as from the 1917 print."
    ],
    "recommend": "A, since the request was to follow Gita Press; B if you recite with them.",
-   "decision": ""
+   "decision": "B — bring back the viniyogas for the aṅgas.",
+   "change": "Decision B: the 1917 viniyogas restored above the Kavaca, Argalā, Kīlaka and the Rahasyas, with their glosses; marked in the text files and SOURCES as the 1917 print's."
   },
   {
    "slug": "saptashati-01",
    "unit": 83,
    "area": "text",
-   "status": "open",
+   "status": "fixed",
    "issue": "1.80: Gita Press prints khaṅginī (खङ्गिनी); the site kept khaḍginī as a spelling of the same word.",
    "options": [
     "A Keep khaḍginī.",
     "B Take khaṅginī as printed."
    ],
    "recommend": "A: the same word, and khaḍga is how every other place spells it.",
-   "decision": ""
+   "decision": "A — no change.",
+   "change": "Decision A — no change."
   },
   {
    "slug": "saptashati",
    "unit": 0,
    "area": "source",
-   "status": "open",
+   "status": "fixed",
    "issue": "Gita Press marks many readings with footnotes (पा॰, e.g. 9.37, 12.22, 13.23) giving alternatives, often the 1917 reading. These footnotes were not transcribed.",
    "options": [
     "A Leave as is; gitapress.tsv already lists the 1917 readings.",
     "B Transcribe the Gita Press footnotes into gitapress.tsv as a further column."
    ],
    "recommend": "A.",
-   "decision": ""
+   "decision": "A — leave out.",
+   "change": "Decision A — leave out."
   },
   {
    "slug": "saptashati",
@@ -145,20 +148,21 @@
     "B Add some or all of these as further pages from the same PDF."
    ],
    "recommend": "A for now; B is a separate piece of work.",
-   "decision": ""
+   "decision": "B — add new pages."
   },
   {
    "slug": "saptashati-uttara",
    "unit": 0,
    "area": "text",
-   "status": "open",
+   "status": "fixed",
    "issue": "Gita Press prints three passages in brackets, which suggests they are interpolations: Vaikṛtika 28 (balimāṃsādipūjeyaṃ…), Mūrti 11 (bhuktvā bhogān yathākāmaṃ…) and the three lines after Mūrti 25 (etasyāstvaṃ prasādena…). They are included, in brackets.",
    "options": [
     "A Keep them, in brackets, as Gita Press prints them.",
     "B Drop them."
    ],
    "recommend": "A.",
-   "decision": ""
+   "decision": "A — keep them.",
+   "change": "Decision A — keep them."
   }
  ]
 }
